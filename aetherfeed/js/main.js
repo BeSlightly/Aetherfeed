@@ -1,3 +1,5 @@
+// /aetherfeed/js/main.js
+
 document.addEventListener("DOMContentLoaded", () => {
   const contentArea = document.getElementById("plugin-list-area");
   const searchInput = document.getElementById("search-input");
@@ -11,12 +13,21 @@ document.addEventListener("DOMContentLoaded", () => {
   let allRepoData = [];
   let allPluginsFlatGrouped = [];
   let allApiLevels = new Set();
+  let priorityRepoJsonUrls = new Set();
 
   const sortOptionsConfig = [
     { value: "name", text: "Name" },
     { value: "updated", text: "Last Updated" },
     { value: "author", text: "Author" },
   ];
+
+  function debounce(func, delay) {
+    let timeout;
+    return function (...args) {
+      clearTimeout(timeout);
+      timeout = setTimeout(() => func.apply(this, args), delay);
+    };
+  }
 
   // --- Theme Toggle Setup ---
   function applyTheme(theme) {
@@ -47,6 +58,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  // --- Helper Functions ---
   function getBaseRepoIdentifier(repoUrl) {
     if (!repoUrl || typeof repoUrl !== "string") return repoUrl;
     try {
@@ -102,6 +114,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return finalPlugin;
   }
 
+  // --- Data Fetching and Processing ---
   async function fetchData() {
     try {
       if (contentArea) {
@@ -112,38 +125,35 @@ document.addEventListener("DOMContentLoaded", () => {
         contentArea.style.gridTemplateColumns = "";
       }
 
-      const response = await fetch("./config.json");
-      if (!response.ok)
-        throw new Error(
-          `HTTP error! status: ${response.status} for config.json`
+      const [configResponse, priorityReposResponse] = await Promise.all([
+        fetch("./config.json"),
+        fetch("./priority-repos.json"),
+      ]);
+
+      if (priorityReposResponse.ok) {
+        const priorityUrlsArray = await priorityReposResponse.json();
+        if (Array.isArray(priorityUrlsArray)) {
+          priorityRepoJsonUrls = new Set(priorityUrlsArray);
+        } else {
+          console.warn(
+            "priority-repos.json did not contain a valid array. No priority repos will be used."
+          );
+        }
+      } else {
+        console.warn(
+          `Could not load priority-repos.json (status: ${priorityReposResponse.status}). No priority repos will be used.`
         );
-      allRepoData = await response.json();
+      }
+
+      if (!configResponse.ok)
+        throw new Error(
+          `HTTP error! status: ${configResponse.status} for config.json`
+        );
+      allRepoData = await configResponse.json();
       if (!Array.isArray(allRepoData)) {
         console.error("Config.json is not an array:", allRepoData);
         allRepoData = [];
       }
-
-      const priorityRepoJsonUrls = new Set([
-        "https://github.com/Ottermandias/SeaOfStars/raw/main/repo.json",
-        "https://love.puni.sh/ment.json",
-        "https://puni.sh/api/repository/aimsucks",
-        "https://puni.sh/api/repository/veyn",
-        "https://puni.sh/api/repository/herc",
-        "https://puni.sh/api/repository/croizat",
-        "https://puni.sh/api/repository/jukka",
-        "https://puni.sh/api/repository/kawaii",
-        "https://puni.sh/api/repository/ice",
-        "https://puni.sh/api/repository/sourpuh",
-        "https://puni.sh/api/repository/spider",
-        "https://puni.sh/api/repository/taurenkey",
-        "https://puni.sh/api/repository/det",
-        "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-        "https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster.json",
-        "https://raw.githubusercontent.com/Aireil/MyDalamudPlugins/master/pluginmaster.json",
-        "https://github.com/FFXIV-CombatReborn/CombatRebornRepo/raw/main/pluginmaster.json",
-        "https://raw.githubusercontent.com/Ricimon/FFXIV-SmartPings/main/repo.json",
-        "https://plugins.carvel.li",
-      ]);
 
       const pluginsGroupedByIdentifier = new Map();
 
@@ -161,7 +171,6 @@ document.addEventListener("DOMContentLoaded", () => {
               );
               return;
             }
-
             if (!pluginsGroupedByIdentifier.has(pluginIdentifier)) {
               pluginsGroupedByIdentifier.set(pluginIdentifier, []);
             }
@@ -242,6 +251,7 @@ document.addEventListener("DOMContentLoaded", () => {
                   } else if (!currentIsPriority && bestIsPriority) {
                     // Keep best
                   } else {
+                    // Fallback: shorter repo_url might indicate a "more direct" source, or just be arbitrary
                     if (
                       occ.repoData.repo_url.length <
                       bestOccurrenceForMetadata.repoData.repo_url.length
@@ -259,7 +269,6 @@ document.addEventListener("DOMContentLoaded", () => {
             mergedPluginData._allApiLevelsFromRepo = Array.from(
               allApiLevelsInGroup
             ).sort((a, b) => b - a);
-
             processedOccurrencesForIdentifier.push({
               pluginData: mergedPluginData,
               repoData: { ...bestOccurrenceForMetadata.repoData },
@@ -308,7 +317,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     currentOcc.pluginData.RepoUrl &&
                     !bestPriorityOccurrence.pluginData.RepoUrl
                   ) {
-                    bestPriorityOccurrence = currentOcc;
+                    bestPriorityOccurrence = currentOcc; // Prefer entry with a RepoUrl if others are equal
                   }
                 }
               }
@@ -318,6 +327,9 @@ document.addEventListener("DOMContentLoaded", () => {
             createFinalPluginObject(bestPriorityOccurrence)
           );
         } else {
+          // If no priority candidates, add all processed occurrences for this identifier.
+          // This could lead to multiple cards for the same plugin if it's in multiple non-priority canonical sources.
+          // If only one card per plugin is desired always, an additional selection step would be needed here.
           processedOccurrencesForIdentifier.forEach((occ) => {
             allPluginsFlatGrouped.push(createFinalPluginObject(occ));
           });
@@ -346,6 +358,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  // --- UI Population ---
   function populateApiLevelFilter() {
     if (!apiLevelFilterSelect) return;
     apiLevelFilterSelect.innerHTML = '<option value="">All API Levels</option>';
@@ -368,10 +381,11 @@ document.addEventListener("DOMContentLoaded", () => {
       sortBySelect.appendChild(option);
     });
     if (sortOptionsConfig.length > 0) {
-      sortBySelect.value = sortOptionsConfig[1].value;
+      sortBySelect.value = sortOptionsConfig[1].value; // Default to "Last Updated"
     }
   }
 
+  // --- Timestamp and Time Ago Logic ---
   function getNormalizedTimestampMillis(timestampInput) {
     if (
       typeof timestampInput !== "number" &&
@@ -381,9 +395,12 @@ document.addEventListener("DOMContentLoaded", () => {
     const num = Number(timestampInput);
     if (isNaN(num) || num === 0) return 0;
     const sNum = String(Math.floor(Math.abs(num)));
+
+    // Heuristic: if it's likely already milliseconds (e.g., 13+ digits, or a very large number for seconds)
     if (sNum.length >= 12 || num > 40000000000) return num;
+    // Heuristic: if it's likely seconds (e.g., 10 digits like typical Unix epoch in seconds)
     else if (sNum.length >= 9 && sNum.length <= 11) return num * 1000;
-    return 0;
+    return 0; // Unknown format or too small to be a recent timestamp
   }
 
   function timeAgo(timestampInput) {
@@ -391,32 +408,31 @@ document.addEventListener("DOMContentLoaded", () => {
     if (timestampMillis === 0) return "N/A";
     const nowMillis = new Date().getTime();
     let seconds = Math.floor((nowMillis - timestampMillis) / 1000);
+    let prefix = "";
+    let suffix = " ago";
 
     if (seconds < 0) {
+      // Future timestamp
       seconds = Math.abs(seconds);
-      if (seconds < 60) return `in ${Math.floor(seconds)}s`;
-      let interval = Math.floor(seconds / 60);
-      if (interval < 60) return `in ${interval}m`;
-      interval = Math.floor(seconds / 3600);
-      if (interval < 24) return `in ${interval}h`;
-      interval = Math.floor(seconds / 86400);
-      return `in ${interval}d`;
+      prefix = "in ";
+      suffix = "";
     }
 
-    if (seconds < 5) return "just now";
-    if (seconds < 60) return `${Math.floor(seconds)}s ago`;
+    if (seconds < 5 && prefix === "") return "just now";
+    if (seconds < 60) return `${prefix}${Math.floor(seconds)}s${suffix}`;
     let interval = Math.floor(seconds / 60);
-    if (interval < 60) return `${interval}m ago`;
+    if (interval < 60) return `${prefix}${interval}m${suffix}`;
     interval = Math.floor(seconds / 3600);
-    if (interval < 24) return `${interval}h ago`;
+    if (interval < 24) return `${prefix}${interval}h${suffix}`;
     interval = Math.floor(seconds / 86400);
-    if (interval < 30) return `${interval}d ago`;
+    if (interval < 30) return `${prefix}${interval}d${suffix}`;
     interval = Math.floor(seconds / 2592000);
-    if (interval < 12) return `${interval}mo ago`;
+    if (interval < 12) return `${prefix}${interval}mo${suffix}`;
     interval = Math.floor(seconds / 31536000);
-    return `${interval}yr ago`;
+    return `${prefix}${interval}yr${suffix}`;
   }
 
+  // --- Rendering Logic ---
   function renderPlugins(pluginsToRender) {
     if (!contentArea) return;
 
@@ -433,8 +449,8 @@ document.addEventListener("DOMContentLoaded", () => {
     contentArea.style.display = "grid";
     contentArea.style.gridTemplateColumns =
       "repeat(auto-fill, minmax(380px, 1fr))";
-    contentArea.style.justifyContent = ""; // Reset flex property
-    contentArea.style.alignItems = ""; // Reset flex property
+    contentArea.style.justifyContent = "";
+    contentArea.style.alignItems = "";
 
     contentArea.innerHTML = pluginsToRender
       .map((plugin) => {
@@ -453,18 +469,13 @@ document.addEventListener("DOMContentLoaded", () => {
           if (plugin.is_closed_source === true) {
             sourceButtonHTML = `
                 <a href="${sourceUrl}" class="btn btn-warning" target="_blank" rel="noopener noreferrer">
-                    <svg class="btn-icon" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                        <path fill-rule="evenodd" d="M8.864.046a.5.5 0 0 0-.728 0l-7.5 7.5A.5.5 0 0 0 .5 8v7a.5.5 0 0 0 .5.5h14a.5.5 0 0 0 .5-.5V8a.5.5 0 0 0-.136-.354l-7.5-7.5zM8 1a.5.5 0 0 1 .5.5v3.793l1.146-1.147a.5.5 0 0 1 .708.708L8.5 7.707V12.5a.5.5 0 0 1-1 0V7.707L5.646 5.854a.5.5 0 1 1 .708-.708L7.5 6.293V1.5A.5.5 0 0 1 8 1zM2.854 7.146L8 2.001l5.146 5.145V15H2.854V7.146z"/>
-                        <path d="M7.002 12a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 5.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995z"/>
-                    </svg>
+                    <svg class="btn-icon" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M8.864.046a.5.5 0 0 0-.728 0l-7.5 7.5A.5.5 0 0 0 .5 8v7a.5.5 0 0 0 .5.5h14a.5.5 0 0 0 .5-.5V8a.5.5 0 0 0-.136-.354l-7.5-7.5zM8 1a.5.5 0 0 1 .5.5v3.793l1.146-1.147a.5.5 0 0 1 .708.708L8.5 7.707V12.5a.5.5 0 0 1-1 0V7.707L5.646 5.854a.5.5 0 1 1 .708-.708L7.5 6.293V1.5A.5.5 0 0 1 8 1zM2.854 7.146L8 2.001l5.146 5.145V15H2.854V7.146z"/><path d="M7.002 12a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 5.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995z"/></svg>
                     Closed Source
                 </a>`;
           } else {
             sourceButtonHTML = `
                 <a href="${sourceUrl}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-                    <svg class="btn-icon" viewBox="0 0 16 16" fill="currentColor">
-                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
-                    </svg>
+                    <svg class="btn-icon" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
                     View Source
                 </a>`;
           }
@@ -486,9 +497,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <div>
                 <h3 class="plugin-name">${displayName}</h3>
                 <div class="plugin-author">
-                  <svg class="author-icon" viewBox="0 0 16 16" fill="currentColor">
-                    <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"/>
-                  </svg>
+                  <svg class="author-icon" viewBox="0 0 16 16" fill="currentColor"><path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"/></svg>
                   by ${authorName}
                 </div>
               </div>
@@ -503,13 +512,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="plugin-actions">
               ${
                 installUrl
-                  ? `<a href="${installUrl}" class="btn btn-primary" target="_blank" rel="noopener noreferrer">
-                <svg class="btn-icon" viewBox="0 0 16 16" fill="currentColor">
-                  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
-                  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
-                </svg>
-                Install Repository
-              </a>`
+                  ? `<a href="${installUrl}" class="btn btn-primary" target="_blank" rel="noopener noreferrer"><svg class="btn-icon" viewBox="0 0 16 16" fill="currentColor"><path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/><path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/></svg>Install Repository</a>`
                   : ""
               }
               ${sourceButtonHTML}
@@ -520,6 +523,7 @@ document.addEventListener("DOMContentLoaded", () => {
       .join("");
   }
 
+  // --- Filtering and Sorting ---
   function filterAndSortAndRender() {
     if (!searchInput || !sortBySelect || !apiLevelFilterSelect) return;
 
@@ -552,6 +556,7 @@ document.addEventListener("DOMContentLoaded", () => {
         ) {
           return true;
         }
+        // Fallback for plugins that might not have plugin_api_levels_array populated correctly but have DalamudApiLevel
         if (
           (!plugin.plugin_api_levels_array ||
             plugin.plugin_api_levels_array.length === 0) &&
@@ -589,10 +594,10 @@ document.addEventListener("DOMContentLoaded", () => {
           if (authorA.localeCompare(authorB) !== 0) {
             return authorA.localeCompare(authorB);
           }
-          return nameA.localeCompare(nameB);
+          return nameA.localeCompare(nameB); // Secondary sort by name
         case "updated":
           if (updatedB !== updatedA) return updatedB - updatedA;
-          return nameA.localeCompare(nameB);
+          return nameA.localeCompare(nameB); // Secondary sort by name
         default:
           return 0;
       }
@@ -601,8 +606,12 @@ document.addEventListener("DOMContentLoaded", () => {
     renderPlugins(filteredPlugins);
   }
 
+  // --- Event Listeners & Initial Load ---
   if (searchInput)
-    searchInput.addEventListener("input", filterAndSortAndRender);
+    searchInput.addEventListener(
+      "input",
+      debounce(filterAndSortAndRender, 300)
+    );
   if (sortBySelect)
     sortBySelect.addEventListener("change", filterAndSortAndRender);
   if (apiLevelFilterSelect)
