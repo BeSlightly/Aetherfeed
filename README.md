@@ -1,4 +1,4 @@
-# Aetherfeed - [Live Site](https://beslightly.github.io/aetherfeed/)
+# Aetherfeed - [Live Site](https://beslightly.github.io/Aetherfeed/)
 
 Aetherfeed was made as a spiritual successor of xivplugins.com, which unfortunately has been shut down. </br>
 I'm not a programmer myself, 99% of code was generated using Gemini 2.5 and Claude.
