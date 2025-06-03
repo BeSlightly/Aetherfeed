@@ -370,6 +370,32 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/astrodoobs/plugins/main/Plugins.json",
+        "repo_source_url": "https://github.com/astrodoobs/plugins",
+        "repo_developer_name": "astrodoobs",
+        "repo_name": "plugins",
+        "plugins": [
+            {
+                "Author": "Eqbot, ViviAshe, astrodoobs",
+                "Name": "Snappy",
+                "InternalName": "Snappy",
+                "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/astrodoobs/Snappy",
+                "LastUpdate": 1744169196
+            },
+            {
+                "Author": "Marulu, StreetRat, astrodoobs",
+                "Name": "Stop The Clip",
+                "InternalName": "StopTheClip",
+                "Description": "Do you want to take close up screenshots? Are you a melee and hate having the boss model disappear on you? Then this is the plugin for you, it overrides the near clip and stops models from hiding on camera collision. This plugin is based on XIVR code.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/astrodoobs/StopTheClip",
+                "LastUpdate": 1743626743
+            }
+        ]
+    },
+    {
         "repo_developer_name": "AsunaTsuki",
         "repo_url": "https://raw.githubusercontent.com/AsunaTsuki/dalamudplugins/main/repo.json",
         "repo_source_url": "https://github.com/AsunaTsuki/dalamudplugins",
