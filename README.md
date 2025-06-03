@@ -1,5 +1,16 @@
 # Aetherfeed - [Live Site](https://beslightly.github.io/Aetherfeed/)
 
+<p>
+  <!-- Last Commit -->
+  <a>
+    <img src="https://img.shields.io/github/last-commit/beslightly/Aetherfeed" alt="Last Commit"/>
+  </a>
+  <!-- Hits Counter -->
+  <a>
+    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fbeslightly.github.io%2FAetherfeed%2F&label=Views&icon=github&color=%23198754" alt="Site Hits"/>
+  </a>
+</p>
+
 Aetherfeed was made as a spiritual successor of xivplugins.com, which unfortunately has been shut down. </br>
 I'm not a programmer myself, 99% of code was generated using Gemini 2.5 and Claude.
 
