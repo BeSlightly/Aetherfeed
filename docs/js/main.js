@@ -1,5 +1,3 @@
-// /aetherfeed/js/main.js
-
 document.addEventListener("DOMContentLoaded", () => {
   const contentArea = document.getElementById("plugin-list-area");
   const searchInput = document.getElementById("search-input");
@@ -112,6 +110,22 @@ document.addEventListener("DOMContentLoaded", () => {
 
     delete finalPlugin._allApiLevelsFromRepo;
     return finalPlugin;
+  }
+
+  /**
+   * Normalizes a string for searching by converting to lowercase and removing
+   * non-alphanumeric characters (keeps letters and numbers).
+   * This helps make search tolerant to spacing and punctuation differences.
+   * For example, "No Clippy!" becomes "noclippy".
+   * @param {string} text The string to normalize.
+   * @returns {string} The normalized string.
+   */
+  function normalizeForSearch(text) {
+    if (!text || typeof text !== "string") return "";
+    // \w in JavaScript regex matches [A-Za-z0-9_] and Unicode alphabet characters.
+    // We remove anything that is NOT a word character (letter, number, underscore)
+    // effectively removing spaces, punctuation, etc.
+    return text.toLowerCase().replace(/[^\w]/g, "");
   }
 
   // --- Data Fetching and Processing ---
@@ -528,20 +542,26 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!searchInput || !sortBySelect || !apiLevelFilterSelect) return;
 
     let filteredPlugins = [...allPluginsFlatGrouped];
-    const searchTerm = searchInput.value.toLowerCase().trim();
+    const rawSearchInput = searchInput.value.trim();
+    const normalizedSearchTerm = normalizeForSearch(rawSearchInput);
 
-    if (searchTerm) {
+    if (normalizedSearchTerm) {
+      // Only filter if normalized search term is not empty
       filteredPlugins = filteredPlugins.filter((plugin) => {
         const repo = plugin._repo;
+
+        const name = normalizeForSearch(plugin.Name || plugin.InternalName);
+        const description = normalizeForSearch(plugin.Description);
+        const author = normalizeForSearch(
+          plugin.Author || repo.repo_developer_name
+        );
+        const repoName = normalizeForSearch(repo.repo_name);
+
         return (
-          (plugin.Name || plugin.InternalName)
-            ?.toLowerCase()
-            .includes(searchTerm) ||
-          plugin.Description?.toLowerCase().includes(searchTerm) ||
-          (plugin.Author || repo.repo_developer_name)
-            ?.toLowerCase()
-            .includes(searchTerm) ||
-          repo.repo_name?.toLowerCase().includes(searchTerm)
+          name.includes(normalizedSearchTerm) ||
+          description.includes(normalizedSearchTerm) ||
+          author.includes(normalizedSearchTerm) ||
+          repoName.includes(normalizedSearchTerm)
         );
       });
     }
