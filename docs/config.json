@@ -994,7 +994,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1749015239
+                "LastUpdate": 1749026027
             },
             {
                 "Author": "croizat",
@@ -1653,7 +1653,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1749015239
+                "LastUpdate": 1749026027
             }
         ],
         "repo_developer_name": "FFXIV-CombatReborn",
@@ -1713,6 +1713,32 @@
         ]
     },
     {
+        "repo_url": "https://github.com/FlawedBliss/DalamudPlugins/raw/refs/heads/main/repo.json",
+        "repo_source_url": "https://github.com/FlawedBliss/DalamudPlugins",
+        "repo_developer_name": "FlawedBliss",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "FlawedBliss",
+                "Name": "OccultBuddy",
+                "InternalName": "OccultBuddy",
+                "Description": "Shows nearby Treasure Coffers in Occult Crescent.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/flawedBliss/occultbuddy",
+                "LastUpdate": 1748623998
+            },
+            {
+                "Author": "FlawedBliss",
+                "Name": "RelicBuddy",
+                "InternalName": "RelicBuddy",
+                "Description": "A companion to help and guide you through completing your relics",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/flawedBliss/relicbuddy",
+                "LastUpdate": 1745754368
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ForkSake",
         "repo_url": "https://raw.githubusercontent.com/ForkSake/test/main/repo.json",
         "repo_source_url": "https://github.com/ForkSake/test",
@@ -1743,6 +1769,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FoxShadow10/AutoEmotion",
                 "LastUpdate": 1743276755
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Friendly-Namazu",
+        "repo_url": "https://raw.githubusercontent.com/Friendly-Namazu/dalamud-repo/main/repo.json",
+        "repo_source_url": "https://github.com/Friendly-Namazu/dalamud-repo",
+        "repo_name": "dalamud-repo",
+        "plugins": [
+            {
+                "Author": "Friendly Namazu",
+                "Name": "Namazu Sync",
+                "InternalName": "namazuSync",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\nForked from \"MareSynchronos\" by darkarchon",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Friendly-Namazu/MareClient",
+                "LastUpdate": 1749034128
             }
         ]
     },
@@ -1963,7 +2006,7 @@
                 "Author": "Haselnussbomber",
                 "Name": "HaselTweaks",
                 "InternalName": "HaselTweaks",
-                "Description": "Keep on tweaking.",
+                "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
                 "LastUpdate": 1748375431
@@ -2684,7 +2727,7 @@
                 "Author": "Ice",
                 "Name": "Ice's Cosmic Exploration (ICE)",
                 "InternalName": "ICE",
-                "Description": "*-insert a quirky description here later... hopefully-*",
+                "Description": "A cosmic exploration helper that lets you automize crafting and gathering missions",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
                 "LastUpdate": 1749006245
@@ -2752,7 +2795,7 @@
                 "Author": "Lichie",
                 "Name": "GlamApply",
                 "InternalName": "GlamApply",
-                "Description": "Plugin to display ACT combat log data.",
+                "Description": "GlamApply is a Dalamud plugin that lets you apply glamour plates with a chat command.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/lichie567/GlamApply",
                 "LastUpdate": 1743083302
@@ -2790,6 +2833,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
                 "LastUpdate": 1747547207
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/loporrit/LoporritSync/raw/refs/heads/master/repo.json",
+        "repo_source_url": "https://github.com/loporrit/LoporritSync",
+        "repo_developer_name": "loporrit",
+        "repo_name": "LoporritSync",
+        "plugins": [
+            {
+                "Author": "Huggingway",
+                "Name": "Loporrit Sync",
+                "InternalName": "LoporritSync",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/loporrit/MareClient",
+                "LastUpdate": 1743629085
             }
         ]
     },
@@ -3304,7 +3364,7 @@
                 "Description": "This plugin helps control your speech patterns and ensure that good little pets maintain their proper manners.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/nia-saeli/subspeech",
-                "LastUpdate": 1748950854
+                "LastUpdate": 1749038145
             }
         ]
     },
@@ -3622,7 +3682,7 @@
                 "Author": "Noevain",
                 "Name": "DotCalculator",
                 "InternalName": "DotCalculator",
-                "Description": "I hate salted earth",
+                "Description": "See how much damage your DoTs are dealing, finally we will know how salted the earth is",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Noevain/DotCalculator",
                 "LastUpdate": 1746644940
@@ -4191,7 +4251,7 @@
                 "Author": "Ramen",
                 "Name": "Meddle",
                 "InternalName": "Meddle.Plugin",
-                "Description": "Did I mention I'm a model? Export models to glTF format.",
+                "Description": "Export models to glTF format.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
                 "LastUpdate": 1747441466
@@ -6364,7 +6424,7 @@
                 "Author": "C",
                 "Name": "PosPluginNeo",
                 "InternalName": "PosPluginNeo",
-                "Description": "Carrying you!",
+                "Description": "Teleport hack plugin",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/WINDOWCOLLAPSIBLE/404notfound",
                 "LastUpdate": 1747740664,
