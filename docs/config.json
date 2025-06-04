@@ -994,7 +994,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1749026027
+                "LastUpdate": 1749041388
             },
             {
                 "Author": "croizat",
@@ -1003,7 +1003,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1748936475
+                "LastUpdate": 1749044134
             },
             {
                 "Author": "NightmareXIV",
@@ -1259,6 +1259,22 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/devckuw/EmoteReact",
                 "LastUpdate": 1743199561
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Diyagi",
+        "repo_url": "https://raw.githubusercontent.com/Diyagi/DalamudPlugins/master/repo.json",
+        "repo_source_url": "https://github.com/Diyagi/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Diyagi",
+                "Name": "Icebear Eureka",
+                "InternalName": "icebearEureka",
+                "Description": "Show server id for eureka instances",
+                "RepoUrl": "https://github.com/Diyagi/IcebearEureka",
+                "LastUpdate": 1681259977
             }
         ]
     },
@@ -1597,6 +1613,23 @@
         ]
     },
     {
+        "repo_developer_name": "Felscream",
+        "repo_url": "https://raw.githubusercontent.com/Felscream/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/Felscream/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Felscream",
+                "Name": "DragoonMayCry",
+                "InternalName": "DragoonMayCry",
+                "Description": "NOTE : available on the maintained Dalamud Plugin repository (testing channel). \n A plugin that tries to add more flavour to combat. You score by dealing damage, and lose points if you are not greeding correctly.",
+                "DalamudApiLevel": 10,
+                "RepoUrl": "https://github.com/Felscream/DragoonMayCry",
+                "LastUpdate": 1745175622
+            }
+        ]
+    },
+    {
         "repo_name": "CombatReborn",
         "repo_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo",
@@ -1653,7 +1686,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1749026027
+                "LastUpdate": 1749041388
             }
         ],
         "repo_developer_name": "FFXIV-CombatReborn",
@@ -2260,7 +2293,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1748936475
+                "LastUpdate": 1749044134
             },
             {
                 "Author": "croizat",
@@ -2269,7 +2302,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1748936475
+                "LastUpdate": 1749044134
             }
         ]
     },
@@ -2355,6 +2388,41 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/JohnP-lab/HuntTrack",
                 "LastUpdate": 1745255458
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Joshua-XIV",
+        "repo_url": "https://raw.githubusercontent.com/Joshua-XIV/MyDalamudPlugin/main/repo.json",
+        "repo_source_url": "https://github.com/Joshua-XIV/MyDalamudPlugin",
+        "repo_name": "MyDalamudPlugin",
+        "plugins": [
+            {
+                "Author": "Josh",
+                "Name": "AutoScrip",
+                "InternalName": "AutoScrip",
+                "Description": "Automation for Orange and Purple Gathering scrips with the help of vnavmesh and AutoHook",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Joshua-XIV/AutoScrip",
+                "LastUpdate": 1747415042
+            },
+            {
+                "Author": "Josh",
+                "Name": "Bunnies",
+                "InternalName": "Bunnies",
+                "Description": "This plugin will automatically take you to Pyros and farm the Low Level Bunny Fate. Other zones are currently WIP.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Joshua-XIV/Bunnies",
+                "LastUpdate": 1743040133
+            },
+            {
+                "Author": "Josh",
+                "Name": "TreasureMaps",
+                "InternalName": "TreasureMaps",
+                "Description": "A dalamud plugin for deciphering maps and teleporting to their respective zone. This plugin also offers additionals features with automating treasure maps",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Joshua-XIV/TreasureMaps",
+                "LastUpdate": 1744462263
             }
         ]
     },
@@ -2645,6 +2713,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Kittemzly/FFXIVMahjongReader",
                 "LastUpdate": 1744181894
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kliff-k",
+        "repo_url": "https://raw.githubusercontent.com/kliff-k/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/kliff-k/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Kliff!!",
+                "Name": "Shanbells",
+                "InternalName": "Shanbells",
+                "Description": "Replaces the word 'Gil' with 'Shanbells' in the Currency window and Tooltips.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/kliff-k/ShanbellsPlugin",
+                "LastUpdate": 1745125199
             }
         ]
     },
@@ -3365,6 +3450,32 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/nia-saeli/subspeech",
                 "LastUpdate": 1749038145
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NicciX",
+        "repo_url": "https://raw.githubusercontent.com/NicciX/Repos/main/repo.json",
+        "repo_source_url": "https://github.com/NicciX/Repos",
+        "repo_name": "Repos",
+        "plugins": [
+            {
+                "Author": "Caraxi & Ottermandias",
+                "Name": "ChatAlertsX",
+                "InternalName": "ChatAlertsX",
+                "Description": "My custom version of ChatAlerts for FFXIV.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NicciX/ChatAlertsX",
+                "LastUpdate": 1747532820
+            },
+            {
+                "Author": "VariableVixen, NicciX",
+                "Name": "WoLuaX",
+                "InternalName": "WoLuaX",
+                "Description": "My custom version of WoLua for FFXIV.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NicciX/WoLuaX",
+                "LastUpdate": 1748585898
             }
         ]
     },
