@@ -479,7 +479,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1748534279,
+                "LastUpdate": 1749048296,
                 "is_closed_source": true
             },
             {
@@ -489,7 +489,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1748534279,
+                "LastUpdate": 1749048296,
                 "is_closed_source": true
             },
             {
@@ -605,7 +605,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1748983829
+                "LastUpdate": 1749069539
             },
             {
                 "Author": "veyn",
@@ -994,7 +994,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1749041388
+                "LastUpdate": 1749072050
             },
             {
                 "Author": "croizat",
@@ -1003,7 +1003,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1749044134
+                "LastUpdate": 1749045536
             },
             {
                 "Author": "NightmareXIV",
@@ -1650,7 +1650,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1749015002
+                "LastUpdate": 1749067283
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1686,7 +1686,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1749041388
+                "LastUpdate": 1749072050
             }
         ],
         "repo_developer_name": "FFXIV-CombatReborn",
@@ -2293,7 +2293,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1749044134
+                "LastUpdate": 1749045536
             },
             {
                 "Author": "croizat",
@@ -2302,7 +2302,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1749044134
+                "LastUpdate": 1749045536
             }
         ]
     },
@@ -2797,7 +2797,7 @@
                 "Description": "A leve helper that lets you select which ones you want to do, and help turn them in for you. YOU NEED NAVMESH INSTALLED AS AN FYI.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/ChilledLeves",
-                "LastUpdate": 1745420513
+                "LastUpdate": 1749046185
             },
             {
                 "Author": "Ice",
@@ -3766,24 +3766,6 @@
         ]
     },
     {
-        "repo_developer_name": "nil2share",
-        "repo_url": "https://raw.githubusercontent.com/nil2share/MyDalamudPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/nil2share/MyDalamudPlugins",
-        "repo_name": "MyDalamudPlugins",
-        "plugins": [
-            {
-                "Author": "Nil",
-                "Name": "Sophon",
-                "InternalName": "Sophon",
-                "Description": "a work in progress set of api endpoints that allow for data to be gathered from the game and used in other applications. This is the plugin that will be used to gather the data.",
-                "DalamudApiLevel": 10,
-                "RepoUrl": "https://github.com/nil2share/MyDalamudPlugins",
-                "LastUpdate": 1727309458,
-                "is_closed_source": true
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Noevain",
         "repo_url": "https://raw.githubusercontent.com/Noevain/DotCalculator/master/repo.json",
         "repo_source_url": "https://github.com/Noevain/DotCalculator",
@@ -4105,6 +4087,7 @@
                 "Author": "Kouzukii, Frey",
                 "Name": "Death Recap (Snapshot)",
                 "InternalName": "DeathRecap2",
+                "Description": "",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/OTCompa/ffxiv-deathrecap",
                 "LastUpdate": 1743137578
@@ -4817,7 +4800,7 @@
                 "Description": "Where Do I Go? /wdig to check your spot! An image viewer plugin so you don't have to alt-tab or use a second monitor to reference guides or images while in game.'",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/rail2025/WDIGViewer",
-                "LastUpdate": 1748926760
+                "LastUpdate": 1749075003
             }
         ]
     },
