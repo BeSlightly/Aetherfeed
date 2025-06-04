@@ -508,7 +508,7 @@
                 "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
-                "LastUpdate": 1746077184
+                "LastUpdate": 1749005151
             },
             {
                 "Author": "Haselnussbomber",
@@ -994,7 +994,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1748967118
+                "LastUpdate": 1749015239
             },
             {
                 "Author": "croizat",
@@ -1206,6 +1206,59 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
                 "LastUpdate": 1743321791
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "devckuw",
+        "repo_url": "https://raw.githubusercontent.com/devckuw/DistribPluginFFXIV/main/repo.json",
+        "repo_source_url": "https://github.com/devckuw/DistribPluginFFXIV",
+        "repo_name": "DistribPluginFFXIV",
+        "plugins": [
+            {
+                "Author": "Loody",
+                "Name": "BetterFriendList",
+                "InternalName": "BetterFriendList",
+                "Description": "Friend list but with better sorting, can search by name, refresh with a button, color names..\nRight click for context menu.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/devckuw/BetterFriendList",
+                "LastUpdate": 1747554073
+            },
+            {
+                "Author": "Loody",
+                "Name": "Combat Helper",
+                "InternalName": "combatHelper",
+                "Description": "Gives u a pot reminder, a timeline of fights, keep track of spread/stack ..",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/devckuw/combatHelper",
+                "LastUpdate": 1747512652
+            },
+            {
+                "Author": "Loody",
+                "Name": "DiscordBotFFXIV",
+                "InternalName": "DiscordBotFFXIV",
+                "Description": "Discord / FFXIV bot to send msg from discord to the game",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/devckuw/DiscordBotFFXIV",
+                "LastUpdate": 1743198953
+            },
+            {
+                "Author": "Loody",
+                "Name": "Emote Counter",
+                "InternalName": "EmCounter",
+                "Description": "Counts emotes received on each character per player.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/devckuw/EmCounter",
+                "LastUpdate": 1743199832
+            },
+            {
+                "Author": "Loody",
+                "Name": "Emote React",
+                "InternalName": "EmoteReact",
+                "Description": "React to emotes with a command, can add different reaction to any person.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/devckuw/EmoteReact",
+                "LastUpdate": 1743199561
             }
         ]
     },
@@ -1564,7 +1617,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1748922228
+                "LastUpdate": 1749015002
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1600,7 +1653,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1748967118
+                "LastUpdate": 1749015239
             }
         ],
         "repo_developer_name": "FFXIV-CombatReborn",
@@ -1746,6 +1799,50 @@
     },
     {
         "repo_developer_name": "GitPaulo",
+        "repo_url": "https://raw.githubusercontent.com/GitPaulo/DalamudRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/GitPaulo/DalamudRepo",
+        "repo_name": "DalamudRepo",
+        "plugins": [
+            {
+                "Author": "GitPaulo",
+                "Name": "CombatHeadgear",
+                "InternalName": "CombatHeadgear",
+                "Description": "Toggle headgear visibility in and out of combat.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/GitPaulo/CombatHeadgear",
+                "LastUpdate": 1744402111
+            },
+            {
+                "Author": "GitPaulo",
+                "Name": "FFXIVRankings",
+                "InternalName": "FFXIVRankings",
+                "Description": "Displays FFXIV character rankings for achievements/mounts/minions in player's nameplates.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/GitPaulo/FFXIVRankings",
+                "LastUpdate": 1744402183
+            },
+            {
+                "Author": "GitPaulo",
+                "Name": "ISeeYou",
+                "InternalName": "ISeeYou",
+                "Description": "Allows you to keep track of who is targeting you in a more visual way.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/GitPaulo/ISeeYou",
+                "LastUpdate": 1744538607
+            },
+            {
+                "Author": "GitPaulo",
+                "Name": "RightClickSearchInfo",
+                "InternalName": "RightClickSearchInfo",
+                "Description": "Allows you to search a player in-game and on the web by right-clicking them.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/GitPaulo/RightClickSearchInfo",
+                "LastUpdate": 1744401935
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "GitPaulo",
         "repo_url": "https://raw.githubusercontent.com/GitPaulo/FFXIVRankings/master/repo.json",
         "repo_source_url": "https://github.com/GitPaulo/FFXIVRankings",
         "repo_name": "FFXIVRankings",
@@ -1860,7 +1957,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1748564134
+                "LastUpdate": 1749001509
             },
             {
                 "Author": "Haselnussbomber",
@@ -2164,6 +2261,23 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
                 "LastUpdate": 1743124332
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "jlagedo",
+        "repo_url": "https://raw.githubusercontent.com/jlagedo/TabajaraRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/jlagedo/TabajaraRepo",
+        "repo_name": "TabajaraRepo",
+        "plugins": [
+            {
+                "Author": "Tabajara Dev Team",
+                "Name": "Raid Loot Annotator",
+                "InternalName": "RaidLootAnnotator",
+                "Description": "Track your raid loot with ease. This plugin allows you to annotate your loot drops, making it easier to keep track of what you've received and what you still need.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/jlagedo/RaidLootAnnotator",
+                "LastUpdate": 1747970647
             }
         ]
     },
@@ -2573,7 +2687,7 @@
                 "Description": "*-insert a quirky description here later... hopefully-*",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1748744049
+                "LastUpdate": 1749006245
             }
         ]
     },
@@ -2747,6 +2861,23 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/lsl1225/WondrousTailsDirector",
                 "LastUpdate": 1743129809
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "LucifurrMorningstar",
+        "repo_url": "https://raw.githubusercontent.com/LucifurrMorningstar/Dalamud/main/repo.json",
+        "repo_source_url": "https://github.com/LucifurrMorningstar/Dalamud",
+        "repo_name": "Dalamud",
+        "plugins": [
+            {
+                "Author": "Lucifurr",
+                "Name": "Fun Fact Countdown",
+                "InternalName": "FunFactCountdown",
+                "Description": "Start a countdown that sends fun facts to your chat!\n\"/ffcd\" to open the settings.\n\n\"/ffcd <length> <interval1> <interval2> ...\" to begin the fun fact countdown.\n\nFor example, \"/ffcd 15 10 5 0\" will start a 15 second countdown and share a fun fact to your chosen chat channel (Party by default) at the 10 second, 5 second, and 0 second marks!\n\n***If no intervals are given, your party will enjoy a fun fact for every second of the countdown.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/LucifurrMorningstar/FunFactCountdown",
+                "LastUpdate": 1743980050
             }
         ]
     },
@@ -3533,6 +3664,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/nomenclature-xiv/Nomenclature/raw/refs/heads/main/repo.json",
+        "repo_source_url": "https://github.com/nomenclature-xiv/Nomenclature",
+        "repo_developer_name": "nomenclature-xiv",
+        "repo_name": "Nomenclature",
+        "plugins": [
+            {
+                "Author": "Mora, Misty",
+                "Name": "Nomenclature",
+                "InternalName": "NomenclatureClient",
+                "Description": "This plugin allows you to view names of others, as set by themselves!",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/nomenclature-xiv/Nomenclature",
+                "LastUpdate": 1749006057
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/NostraThomas99/NostraPlugins/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/NostraThomas99/NostraPlugins",
         "repo_name": "NostraPlugins",
@@ -3773,6 +3921,31 @@
                 "DalamudApiLevel": 10,
                 "RepoUrl": "https://github.com/oorzkws/NeonCastbarPlugin",
                 "LastUpdate": 1743037371
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "OTCompa",
+        "repo_url": "https://raw.githubusercontent.com/OTCompa/frey-s-dalamud-plugins/main/plogon.json",
+        "repo_source_url": "https://github.com/OTCompa/frey-s-dalamud-plugins",
+        "repo_name": "frey-s-dalamud-plugins",
+        "plugins": [
+            {
+                "Author": "Kouzukii, Frey",
+                "Name": "Death Recap (Snapshot)",
+                "InternalName": "DeathRecap2",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/OTCompa/ffxiv-deathrecap",
+                "LastUpdate": 1743137578
+            },
+            {
+                "Author": "Frey",
+                "Name": "John Finalfantasy",
+                "InternalName": "JohnFinalfantasy",
+                "Description": "A plugin that replaces the names of players in your party with preset names. Based on Nomina Occulta by anna.lgbt.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/OTCompa/john-finalfantasy",
+                "LastUpdate": 1743501681
             }
         ]
     },
@@ -4113,6 +4286,23 @@
     },
     {
         "repo_developer_name": "Pistachio-dev",
+        "repo_url": "https://raw.githubusercontent.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/main/Repo.json",
+        "repo_source_url": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
+        "repo_name": "Texas-Hold-em-Helper-Plugin",
+        "plugins": [
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Texas Hold'em Helper'",
+                "InternalName": "HoldemHelper",
+                "Description": "Use /holdem to open the window.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
+                "LastUpdate": 1748641772
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Pistachio-dev",
         "repo_url": "https://raw.githubusercontent.com/Pistachio-dev/TruthOrDareHelper/master/Repo.json",
         "repo_source_url": "https://github.com/Pistachio-dev/TruthOrDareHelper",
         "repo_name": "TruthOrDareHelper",
@@ -4262,7 +4452,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1748932738
+                "LastUpdate": 1748999975
             }
         ]
     },
@@ -6179,6 +6369,23 @@
                 "RepoUrl": "https://github.com/WINDOWCOLLAPSIBLE/404notfound",
                 "LastUpdate": 1747740664,
                 "is_closed_source": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "wolfcomp",
+        "repo_url": "https://raw.githubusercontent.com/wolfcomp/IllegalPluginsDetected/main/repo.json",
+        "repo_source_url": "https://github.com/wolfcomp/IllegalPluginsDetected",
+        "repo_name": "IllegalPluginsDetected",
+        "plugins": [
+            {
+                "Author": "WildWolf",
+                "Name": "Based Artisan Release Fix",
+                "InternalName": "BasedArtisanReleaseFix",
+                "Description": "They could just fix this issue them self but noo it's not a method they want to implement ref: https://github.com/PunishXIV/Artisan/pull/136.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/wolfcomp/BasedArtisanReleaseFix",
+                "LastUpdate": 1745588518
             }
         ]
     },
