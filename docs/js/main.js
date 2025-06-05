@@ -199,29 +199,31 @@ document.addEventListener("DOMContentLoaded", () => {
       allPluginsFlatGrouped = [];
 
       for (const [, occurrences] of pluginsGroupedByIdentifier.entries()) {
-        const occurrencesByCanonicalSource = new Map();
+        // Group all occurrences of a plugin by its developer to de-duplicate per-developer.
+        const occurrencesByDeveloper = new Map();
         occurrences.forEach((occ) => {
-          const canonicalSourceId = getBaseRepoIdentifier(
-            occ.repoData.repo_url
-          );
-          if (!occurrencesByCanonicalSource.has(canonicalSourceId)) {
-            occurrencesByCanonicalSource.set(canonicalSourceId, []);
+          // CORRECTED LOGIC: Prioritize repo_developer_name as it identifies the distributor.
+          // Fall back to plugin Author only if the repo-level name is missing.
+          const devIdentifier =
+            occ.repoData.repo_developer_name ||
+            occ.pluginData.Author ||
+            "Unknown Developer";
+          if (!occurrencesByDeveloper.has(devIdentifier)) {
+            occurrencesByDeveloper.set(devIdentifier, []);
           }
-          occurrencesByCanonicalSource.get(canonicalSourceId).push(occ);
+          occurrencesByDeveloper.get(devIdentifier).push(occ);
         });
 
-        const processedOccurrencesForIdentifier = [];
+        const deduplicatedOccurrencesForIdentifier = [];
 
-        for (const [
-          ,
-          sourceOccurrences,
-        ] of occurrencesByCanonicalSource.entries()) {
-          if (sourceOccurrences.length > 0) {
-            let bestOccurrenceForMetadata = sourceOccurrences[0];
+        // For each developer, find the single "best" version of the plugin they offer.
+        for (const [, devOccurrences] of occurrencesByDeveloper.entries()) {
+          if (devOccurrences.length > 0) {
+            let bestOccurrenceForMetadata = devOccurrences[0];
             const allApiLevelsInGroup = new Set();
             let maxLastUpdateTimestampInGroup = 0;
 
-            sourceOccurrences.forEach((occ) => {
+            devOccurrences.forEach((occ) => {
               if (
                 occ.pluginData.DalamudApiLevel !== undefined &&
                 occ.pluginData.DalamudApiLevel !== null
@@ -254,24 +256,11 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (currentOccTs > bestOccTs) {
                   bestOccurrenceForMetadata = occ;
                 } else if (currentOccTs === bestOccTs) {
-                  const currentIsPriority = priorityRepoJsonUrls.has(
-                    occ.repoData.repo_url
-                  );
-                  const bestIsPriority = priorityRepoJsonUrls.has(
-                    bestOccurrenceForMetadata.repoData.repo_url
-                  );
-                  if (currentIsPriority && !bestIsPriority) {
+                  if (
+                    occ.repoData.repo_url.length <
+                    bestOccurrenceForMetadata.repoData.repo_url.length
+                  ) {
                     bestOccurrenceForMetadata = occ;
-                  } else if (!currentIsPriority && bestIsPriority) {
-                    // Keep best
-                  } else {
-                    // Fallback: shorter repo_url might indicate a "more direct" source, or just be arbitrary
-                    if (
-                      occ.repoData.repo_url.length <
-                      bestOccurrenceForMetadata.repoData.repo_url.length
-                    ) {
-                      bestOccurrenceForMetadata = occ;
-                    }
                   }
                 }
               }
@@ -283,7 +272,7 @@ document.addEventListener("DOMContentLoaded", () => {
             mergedPluginData._allApiLevelsFromRepo = Array.from(
               allApiLevelsInGroup
             ).sort((a, b) => b - a);
-            processedOccurrencesForIdentifier.push({
+            deduplicatedOccurrencesForIdentifier.push({
               pluginData: mergedPluginData,
               repoData: { ...bestOccurrenceForMetadata.repoData },
               _maxLastUpdateTimestampInGroup: maxLastUpdateTimestampInGroup,
@@ -291,48 +280,35 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         }
 
-        const priorityCandidates = processedOccurrencesForIdentifier.filter(
+        // Now, from the de-duplicated list (one per dev), apply priority logic.
+        const priorityCandidates = deduplicatedOccurrencesForIdentifier.filter(
           (occ) => priorityRepoJsonUrls.has(occ.repoData.repo_url)
         );
 
         if (priorityCandidates.length > 0) {
+          // If there are priority repos, find the best AMONG THEM and add only that one.
           let bestPriorityOccurrence = priorityCandidates[0];
           if (priorityCandidates.length > 1) {
-            const getMaxApiLevelFromProcessed = (o) => {
-              const apis =
-                o.pluginData._allApiLevelsFromRepo ||
-                (o.pluginData.DalamudApiLevel !== undefined &&
-                o.pluginData.DalamudApiLevel !== null
-                  ? [parseInt(o.pluginData.DalamudApiLevel)]
-                  : [-1]);
-              return Math.max(...apis, -1);
-            };
-
+            // This logic is simplified as we're only comparing already-processed candidates
             for (let i = 1; i < priorityCandidates.length; i++) {
               const currentOcc = priorityCandidates[i];
-              const currentMaxApi = getMaxApiLevelFromProcessed(currentOcc);
-              const bestMaxApi = getMaxApiLevelFromProcessed(
-                bestPriorityOccurrence
+              const currentApi = Math.max(
+                ...(currentOcc.pluginData._allApiLevelsFromRepo || [-1])
+              );
+              const bestApi = Math.max(
+                ...(bestPriorityOccurrence.pluginData._allApiLevelsFromRepo || [
+                  -1,
+                ])
               );
 
-              if (currentMaxApi > bestMaxApi) {
+              if (currentApi > bestApi) {
                 bestPriorityOccurrence = currentOcc;
-              } else if (currentMaxApi === bestMaxApi) {
+              } else if (currentApi === bestApi) {
                 if (
                   currentOcc._maxLastUpdateTimestampInGroup >
                   bestPriorityOccurrence._maxLastUpdateTimestampInGroup
                 ) {
                   bestPriorityOccurrence = currentOcc;
-                } else if (
-                  currentOcc._maxLastUpdateTimestampInGroup ===
-                  bestPriorityOccurrence._maxLastUpdateTimestampInGroup
-                ) {
-                  if (
-                    currentOcc.pluginData.RepoUrl &&
-                    !bestPriorityOccurrence.pluginData.RepoUrl
-                  ) {
-                    bestPriorityOccurrence = currentOcc; // Prefer entry with a RepoUrl if others are equal
-                  }
                 }
               }
             }
@@ -341,10 +317,9 @@ document.addEventListener("DOMContentLoaded", () => {
             createFinalPluginObject(bestPriorityOccurrence)
           );
         } else {
-          // If no priority candidates, add all processed occurrences for this identifier.
-          // This could lead to multiple cards for the same plugin if it's in multiple non-priority canonical sources.
-          // If only one card per plugin is desired always, an additional selection step would be needed here.
-          processedOccurrencesForIdentifier.forEach((occ) => {
+          // If no priority repos, add all de-duplicated-by-developer entries.
+          // This ensures forks by different developers are shown as separate, distinct options.
+          deduplicatedOccurrencesForIdentifier.forEach((occ) => {
             allPluginsFlatGrouped.push(createFinalPluginObject(occ));
           });
         }
