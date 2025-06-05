@@ -983,41 +983,6 @@
         ]
     },
     {
-        "repo_developer_name": "Currylce",
-        "repo_url": "https://raw.githubusercontent.com/Currylce/DalamudPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Currylce/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "The Combat Reborn Team",
-                "Name": "Rotation Solver Reborn",
-                "InternalName": "RotationSolver",
-                "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1749133048
-            },
-            {
-                "Author": "croizat",
-                "Name": "Something Need Doing (Expanded Edition)",
-                "InternalName": "SomethingNeedDoing",
-                "Description": "Now for more than crafting!",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1749045536
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "TextAdvance",
-                "InternalName": "TextAdvance",
-                "Description": "",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
-                "LastUpdate": 1747359747
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Cyenia",
         "repo_url": "https://raw.githubusercontent.com/Cyenia/DalamudPlugins/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Cyenia/DalamudPlugins",
@@ -5348,59 +5313,6 @@
         ]
     },
     {
-        "repo_developer_name": "sharkycorps",
-        "repo_url": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/repo.json",
-        "repo_source_url": "https://github.com/sharkycorps/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "NightmareXIV",
-                "Name": "AntiAfkKick",
-                "InternalName": "AntiAfkKick-Dalamud",
-                "Description": "防止长时间挂机时被服务器踢出，安装即可生效，无需配置",
-                "DalamudApiLevel": 10,
-                "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
-                "LastUpdate": 1742947895
-            },
-            {
-                "Author": "Taurenkey (Puni.sh)",
-                "Name": "Artisan",
-                "InternalName": "Artisan",
-                "Description": "一体化生产制作插件",
-                "DalamudApiLevel": 10,
-                "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1748154376
-            },
-            {
-                "Author": "LeonBlade",
-                "Name": "Burning Down the House",
-                "InternalName": "BDTHPlugin",
-                "Description": "使用坐标系移动家具，随意摆放",
-                "DalamudApiLevel": 10,
-                "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
-                "LastUpdate": 1743455923
-            },
-            {
-                "Author": "Critical_Impact",
-                "Name": "Allagan Tools",
-                "InternalName": "InventoryToolsCN",
-                "Description": "亚拉戈工具的主要目的是持续记录你的角色/雇员/部队储物柜里的物品信息，通过它的筛选查找功能你将不再用苦苦翻找某件物品。\n\n除此之外它还包含不止以下这些的其他功能:\n\t- 生产计划工具\n\t- 市场交易板集成\n\t- 筛选/查找物品或者生产素材时自动高亮道具\n\t- 能够查看售卖商人及道具来源的详情窗口\n\t- 可检索的任务/怪物/飞空艇/潜水艇列表\n\t- 能够执行复杂搜索的物品筛选系统 \n\t- 物品弹窗集成，直接显示持有情况",
-                "DalamudApiLevel": 10,
-                "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
-                "LastUpdate": 1749120751
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "TextAdvance",
-                "InternalName": "TextAdvance",
-                "Description": "",
-                "DalamudApiLevel": 10,
-                "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
-                "LastUpdate": 1747359747
-            }
-        ]
-    },
-    {
         "repo_developer_name": "SheepGoMeh",
         "repo_url": "https://raw.githubusercontent.com/SheepGoMeh/MyDalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/SheepGoMeh/MyDalamudPlugins",
@@ -6090,7 +6002,7 @@
                 "Description": "Better AutoRetainer Venture Planner",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://git.carvel.li/liza/ARControl",
-                "LastUpdate": 1743217634
+                "LastUpdate": 1749153171
             },
             {
                 "Author": "Liza Carvelli",
@@ -6099,7 +6011,7 @@
                 "Description": "Small plugin to help keep your inventory organized (especially when automating retainers or submersibles) by discarding items you don't want (e.g. Stuffed Alphas)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://git.carvel.li/liza/ARDiscard",
-                "LastUpdate": 1743795791
+                "LastUpdate": 1749153443
             },
             {
                 "Author": "Liza Carvelli",
@@ -6108,7 +6020,7 @@
                 "Description": "Better Grand Company Deliveries",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://git.carvel.li/liza/Deliveroo",
-                "LastUpdate": 1743852201
+                "LastUpdate": 1749152420
             },
             {
                 "Author": "Liza Carvelli",
@@ -6126,7 +6038,7 @@
                 "Description": "Browse through all gear pieces available for each class/job and show possible upgrades",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://git.carvel.li/liza/Gearsetter",
-                "LastUpdate": 1743219366
+                "LastUpdate": 1749152986
             },
             {
                 "Author": "Liza Carvelli",
@@ -6135,7 +6047,7 @@
                 "Description": "Uploads your game statistics (such as quest progress, gil, retainer stats) to an InfluxDB or QuestDB instance, making it possible to automatically track your progress through external tools such as Grafana.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://git.carvel.li/liza/Influx",
-                "LastUpdate": 1743853404
+                "LastUpdate": 1749154151
             },
             {
                 "Author": "Liza Carvelli",
@@ -6144,7 +6056,7 @@
                 "Description": "A plugin for things that aren't worth their own plugins; see commands for details.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://git.carvel.li/liza/KitchenSink",
-                "LastUpdate": 1743216435
+                "LastUpdate": 1749153547
             },
             {
                 "Author": "Liza Carvelli",
@@ -6171,7 +6083,7 @@
                 "Description": "Simplified Squadron Calculator, heavily inspired by https://ffxivsquadron.com/",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://git.carvel.li/liza/Squadronista",
-                "LastUpdate": 1743283234
+                "LastUpdate": 1749153840
             },
             {
                 "Author": "Liza Carvelli",
@@ -6180,7 +6092,7 @@
                 "Description": "Better Company Workshop Turn-In",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://git.carvel.li/liza/Workshoppa",
-                "LastUpdate": 1743341865
+                "LastUpdate": 1749153299
             }
         ],
         "repo_developer_name": "Unknown Developer"
@@ -6808,8 +6720,8 @@
                 "Name": "MidiBard 2 (BETA)",
                 "InternalName": "ZuneBard",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-                "RepoUrl": "https://github.com/reckhou/MidiBard2",
-                "LastUpdate": 1745789736
+                "RepoUrl": "https://github.com/zunetrix/MidiBard2",
+                "LastUpdate": 1746386738
             }
         ]
     }
