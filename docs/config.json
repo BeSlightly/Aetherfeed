@@ -28,8 +28,9 @@
                 "InternalName": "AnimSync",
                 "Description": "Sync Animations",
                 "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Sevii77/animation_syncer",
-                "LastUpdate": 1744483334
+                "RepoUrl": "https://github.com/4679/DalamudPlugins/tree/main/AnimSync",
+                "LastUpdate": 1741594230,
+                "is_closed_source": true
             }
         ]
     },
@@ -605,7 +606,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1749069539
+                "LastUpdate": 1749144778
             },
             {
                 "Author": "veyn",
@@ -994,7 +995,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1749119739
+                "LastUpdate": 1749133048
             },
             {
                 "Author": "croizat",
@@ -1204,8 +1205,8 @@
                 "InternalName": "vsatisfy",
                 "Description": "通过自动化流程减少老主顾交付的烦恼。\n 所需插件：vnavmesh, Artisan",
                 "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
-                "LastUpdate": 1743321791
+                "RepoUrl": "https://github.com/decorwdyun/ffxiv_satisfy",
+                "LastUpdate": 1745311233
             }
         ]
     },
@@ -1686,7 +1687,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1749119739
+                "LastUpdate": 1749133048
             }
         ],
         "repo_developer_name": "FFXIV-CombatReborn",
@@ -2136,8 +2137,8 @@
                 "InternalName": "Brio",
                 "Description": "在集体动作模式中控制参与的角色。",
                 "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1744791233
+                "RepoUrl": "https://github.com/MeowZWR/Brio",
+                "LastUpdate": 1748523857
             }
         ]
     },
@@ -2307,23 +2308,6 @@
         ]
     },
     {
-        "repo_developer_name": "jimboslice6969",
-        "repo_url": "https://raw.githubusercontent.com/jimboslice6969/1/master/repo.json",
-        "repo_source_url": "https://github.com/jimboslice6969/1",
-        "repo_name": "1",
-        "plugins": [
-            {
-                "Author": "TomestoneGG",
-                "Name": "Tomestone",
-                "InternalName": "Dalamud.Tomestone",
-                "Description": "A presence and gear tracker that syncs your in-game job, zone, level and gear changes to the tomestone.gg web site.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/TomestoneGG/Dalamud.Tomestone",
-                "LastUpdate": 1743343673
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/JimmyRustles15/Ktisis/raw/main/repo.json",
         "repo_source_url": "https://github.com/JimmyRustles15/Ktisis",
         "repo_name": "Ktisis",
@@ -2335,8 +2319,8 @@
                 "InternalName": "Ktisis",
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1743124332
+                "RepoUrl": "https://github.com/JimmyRustles15/Ktisis",
+                "LastUpdate": 1732129838
             }
         ]
     },
@@ -2745,7 +2729,7 @@
                 "InternalName": "XivVoices",
                 "Description": "Turning every dialogue into a voiced dialogue!",
                 "DalamudApiLevel": 10,
-                "RepoUrl": "https://github.com/arcsidian/XivVoices",
+                "RepoUrl": "https://github.com/Kluvwen/XivVoices",
                 "LastUpdate": 1722360887
             }
         ]
@@ -2968,8 +2952,8 @@
                 "InternalName": "HaselTweaks",
                 "Description": "Keep on tweaking.",
                 "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1748375431
+                "RepoUrl": "https://github.com/lsl1225/HaselTweaksCN",
+                "LastUpdate": 1742806120
             },
             {
                 "Author": "NightmareXIV",
@@ -2977,8 +2961,8 @@
                 "InternalName": "HuntTrainAssistant",
                 "Description": "Provides useful tools for hunt trains such as: highlighting conductor messages and muting all other chat, auto-opening flags from conductors and auto-teleporting to announced destination.",
                 "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/NightmareXIV/HuntTrainAssistant",
-                "LastUpdate": 1745216922
+                "RepoUrl": "https://github.com/lsl1225/DalamudPluginsCN/tree/main/HuntTrainAssistant",
+                "LastUpdate": 1740331751
             },
             {
                 "Author": "lsl1225",
@@ -3038,8 +3022,8 @@
                 "InternalName": "NextUIOverlay",
                 "Description": "OverlayPlugin replacement for Dalamud, works similarly to BrowserHost with addition to having more options and built in websocket server.",
                 "DalamudApiLevel": 12,
-                "RepoUrl": "https://gitlab.com/kaminariss/nextui-plugin",
-                "LastUpdate": 1743196355
+                "RepoUrl": "https://github.com/Mara-Dawn/NextUiOverlay",
+                "LastUpdate": 1743196604
             }
         ]
     },
@@ -3201,8 +3185,8 @@
                 "InternalName": "Brio",
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1744791233
+                "RepoUrl": "https://github.com/MeowZWR/Brio",
+                "LastUpdate": 1748523857
             }
         ]
     },
@@ -3286,8 +3270,8 @@
                 "InternalName": "AutoDuty",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation or RotationSolverReborn)",
                 "DalamudApiLevel": 10,
-                "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1748762665
+                "RepoUrl": "https://github.com/MisaUo/DalamudPlugins/tree/main/plugins/AutoDuty",
+                "LastUpdate": 1730225678
             }
         ]
     },
@@ -3944,8 +3928,8 @@
                 "InternalName": "LMeter",
                 "Description": "Plugin to display ACT combat log data.",
                 "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/lichie567/LMeter",
-                "LastUpdate": 1745530918
+                "RepoUrl": "https://github.com/nullKomplex/LMeter/tree/CustomFix",
+                "LastUpdate": 1732492695
             }
         ]
     },
@@ -4021,7 +4005,7 @@
                 "InternalName": "OccultCrescentHelper",
                 "Description": "Some things to smooth out your Occult Crescent experience.",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1749126605
+                "LastUpdate": 1749142462
             }
         ]
     },
@@ -4882,40 +4866,6 @@
         ]
     },
     {
-        "repo_developer_name": "redkim123",
-        "repo_url": "https://raw.githubusercontent.com/redkim123/Penumbra-1.3.5.0/main/repo.json",
-        "repo_source_url": "https://github.com/redkim123/Penumbra-1.3.5.0",
-        "repo_name": "Penumbra-1.3.5.0",
-        "plugins": [
-            {
-                "Author": "Ottermandias, Adam, Wintermute",
-                "Name": "Penumbra",
-                "InternalName": "Penumbra",
-                "Description": "Runtime mod loader and manager.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1748968796
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "redkim123",
-        "repo_url": "https://raw.githubusercontent.com/redkim123/Penumbra-1.3.6.0/main/repo.json",
-        "repo_source_url": "https://github.com/redkim123/Penumbra-1.3.6.0",
-        "repo_name": "Penumbra-1.3.6.0",
-        "plugins": [
-            {
-                "Author": "Ottermandias, Adam, Wintermute",
-                "Name": "Penumbra",
-                "InternalName": "Penumbra",
-                "Description": "Runtime mod loader and manager.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1748968796
-            }
-        ]
-    },
-    {
         "repo_developer_name": "ReiwaTech",
         "repo_url": "https://raw.githubusercontent.com/ReiwaTech/DalamudPluginRepo/master/pluginmaster.json",
         "repo_source_url": "https://github.com/ReiwaTech/DalamudPluginRepo",
@@ -5273,8 +5223,8 @@
                 "InternalName": "Brio",
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1744791233
+                "RepoUrl": "https://github.com/Sebane1/Brio",
+                "LastUpdate": 1746130885
             }
         ]
     },
@@ -5360,6 +5310,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
                 "LastUpdate": 1743059663
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/Sevii77/animation_syncer/raw/master/repo.json",
+        "repo_source_url": "https://github.com/Sevii77/animation_syncer",
+        "repo_developer_name": "Sevii77",
+        "repo_name": "animation_syncer",
+        "plugins": [
+            {
+                "Author": "Sevii",
+                "Name": "Animation Syncer",
+                "InternalName": "AnimSync",
+                "Description": "Sync Animations",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Sevii77/animation_syncer",
+                "LastUpdate": 1744483334
             }
         ]
     },
