@@ -337,6 +337,132 @@
         ]
     },
     {
+        "repo_url": "https://github.com/anya-hichu/DalamudPluginRepo/raw/main/custom.json",
+        "repo_source_url": "https://github.com/anya-hichu/DalamudPluginRepo",
+        "is_allowed_mega_repo": true,
+        "repo_developer_name": "anya-hichu",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "Anya Hichu",
+                "Name": "ChatDeathRoll",
+                "InternalName": "ChatDeathRoll",
+                "Description": "Provides link buttons in chat for death rolling",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/anya-hichu/ChatDeathRoll",
+                "LastUpdate": 1743262349
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "DeterministicPose",
+                "InternalName": "DeterministicPose",
+                "Description": "Dalamud plugin that provides a deterministic cpose command",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
+                "LastUpdate": 1746879581
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "DiscordActivityHonorific",
+                "InternalName": "DiscordActivityHonorific",
+                "Description": "Update honorific title based on discord activity informations",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
+                "LastUpdate": 1743345043
+            },
+            {
+                "Author": "Pyon, Anya Hichu",
+                "Name": "GamblePyon",
+                "InternalName": "GamblePyon",
+                "Description": "An interface for managing a game of Blackjack.\n/pyon - Open GamblePyon",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/anya-hichu/FFXIVGamblePyon",
+                "LastUpdate": 1743286889
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "ModAutoTagger",
+                "InternalName": "ModAutoTagger",
+                "Description": "Add bulk tags dynamically to penumbra mods based on conditions",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/anya-hichu/ModAutoTagger",
+                "LastUpdate": 1743262375
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "ModSettingCommands",
+                "InternalName": "ModSettingCommands",
+                "Description": "Provides /modset command to update penumbra mod settings",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/anya-hichu/ModSettingCommands",
+                "LastUpdate": 1749209485
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "Orderific",
+                "InternalName": "Orderific",
+                "Description": "Cycle through multiple honorific titles in order",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/anya-hichu/Orderific",
+                "LastUpdate": 1725101091
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "PatMeHonorific",
+                "InternalName": "PatMeHonorific",
+                "Description": "Displays emote counters as honorific title dynamically",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
+                "LastUpdate": 1747571313
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "Quack",
+                "InternalName": "Quack",
+                "Description": "Generate and run macro actions quickly using a spotlight inspired interface",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/anya-hichu/Quack",
+                "LastUpdate": 1748884636
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "RecruitmentRefresher",
+                "InternalName": "RecruitmentRefresher",
+                "Description": "Refresh party finder recruitment automatically",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/anya-hichu/RecruitmentRefresher",
+                "LastUpdate": 1747414155
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "Reggiex",
+                "InternalName": "Reggiex",
+                "Description": "Configurable text patterns or emotes to execute commands",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/anya-hichu/Reggiex",
+                "LastUpdate": 1747926258
+            },
+            {
+                "Author": "VariableVixen, Anya Hichu",
+                "Name": "TinyCommands",
+                "InternalName": "TinyCmds",
+                "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/anya-hichu/TinyCommands",
+                "LastUpdate": 1747339330
+            },
+            {
+                "Author": "VariableVixen, Anya Hichu",
+                "Name": "WoLua",
+                "InternalName": "WoLua",
+                "Description": "Write custom chat commands by creating lua scripts",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/anya-hichu/WoLua",
+                "LastUpdate": 1747331270
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ArisuTW",
         "repo_url": "https://raw.githubusercontent.com/ArisuTW/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/ArisuTW/DalamudPlugins",
@@ -4048,7 +4174,7 @@
                 "Description": "A plugin that replaces the names of players in your party with preset names. Based on Nomina Occulta by anna.lgbt.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/OTCompa/john-finalfantasy",
-                "LastUpdate": 1743501681
+                "LastUpdate": 1749237304
             }
         ]
     },
