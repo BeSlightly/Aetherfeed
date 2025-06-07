@@ -359,7 +359,7 @@
                 "Description": "Dalamud plugin that provides a deterministic cpose command",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
-                "LastUpdate": 1749277345
+                "LastUpdate": 1749278642
             },
             {
                 "Author": "Anya Hichu",
@@ -1199,7 +1199,7 @@
                 "Description": "Import coordinates from selected channels and enjoy your treasure hunt. Automatically optimize routes considering player location, aetheryte costs, and distances.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/dalamudx/onepiece",
-                "LastUpdate": 1748271155
+                "LastUpdate": 1749284972
             }
         ]
     },
@@ -3176,7 +3176,7 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1748344404
+                "LastUpdate": 1749297598
             }
         ]
     },
@@ -4136,59 +4136,6 @@
         ]
     },
     {
-        "repo_developer_name": "Ookura-Risona",
-        "repo_url": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Ookura-Risona/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "Herculezz",
-                "Name": "AutoDuty",
-                "InternalName": "AutoDuty",
-                "Description": "一个为你自动运行副本的插件\n支持亲信战友、剧情辅助器、冒险者分队、多变迷宫和普通迷宫模式\n需要 BossMod 、 vnavmesh 和一个循环插件 (如 Wrath Combo 、 BossMod AutoRotation 或 RotationSolverReborn)",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
-                "LastUpdate": 1742805440
-            },
-            {
-                "Author": "Meisterlala",
-                "Name": "Neko Fans",
-                "InternalName": "NekoCN",
-                "Description": "显示随机的磁盘图像。点击图像查看下一张。\n您可以选择不同的图像来源，允许您查看Catboyo，Waifus，Cats，Cats，Dogs等等。\n\n支持的 API:\nTwitter, Nekos.life, Catmobo, Dog CEO, The Cat API, Pic.re, Waifu.im, Waifu.pics and shibe.online\n\n警告：你可能会看到一些不太好的东西。",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1748746591
-            },
-            {
-                "Author": "Meisterlala",
-                "Name": "Neko Fans NSFW 18+ Patch",
-                "InternalName": "NekoLewd",
-                "Description": "此插件本身不具备任何功能。需要安装 Neko Fans。\n现在，您可以在 Neko Fans 中查看  NSFW 图片。",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1748746591
-            },
-            {
-                "Author": "Kouzukii",
-                "Name": "Price Insight CN",
-                "InternalName": "PriceInsight-CN",
-                "Description": "当您鼠标悬停在物品上时会在物品信息底部展示该物品的 NQ/HQ 市场价格以及最近一次交易记录。\n价格从 Universalis.app 中搜索，缓存保存90分钟。\n您可以将鼠标悬停在物品上，点击Alt来刷新价格。",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
-                "LastUpdate": 1743100297
-            },
-            {
-                "Author": "veyn, AtmoOmen",
-                "Name": "V(ery) Island",
-                "InternalName": "visland",
-                "Description": "自动化无人岛采集/工房作业等等",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Ookura-Risona/ffxiv_visland-cn",
-                "LastUpdate": 1748719593
-            }
-        ]
-    },
-    {
         "repo_developer_name": "oorzkws",
         "repo_url": "https://raw.githubusercontent.com/oorzkws/DalamudPlugins/master/pluginmaster.json",
         "repo_source_url": "https://github.com/oorzkws/DalamudPlugins",
@@ -4476,7 +4423,7 @@
                 "Description": "Export models to glTF format.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1749180373
+                "LastUpdate": 1749297872
             }
         ]
     },
@@ -6085,6 +6032,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/TomestoneGG/Dalamud.Tomestone",
                 "LastUpdate": 1743343673
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Tulla4U",
+        "repo_url": "https://raw.githubusercontent.com/Tulla4U/XIV_ClickCast/master/repo.json",
+        "repo_source_url": "https://github.com/Tulla4U/XIV_ClickCast",
+        "repo_name": "XIV_ClickCast",
+        "plugins": [
+            {
+                "Author": "Tulla",
+                "Name": "ClickCast",
+                "InternalName": "ClickCast",
+                "Description": "Remove the need to target people for healing, instead assign actions to mouse buttons and use them by clicking player names.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Tulla4U/XIV_ClickCast",
+                "LastUpdate": 1749290030
             }
         ]
     },
