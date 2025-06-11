@@ -732,7 +732,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1749484552
+                "LastUpdate": 1749597118
             },
             {
                 "Author": "veyn",
@@ -1742,7 +1742,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1749538701
+                "LastUpdate": 1749600422
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1778,7 +1778,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1749577215
+                "LastUpdate": 1749582965
             }
         ],
         "repo_developer_name": "FFXIV-CombatReborn",
@@ -4042,23 +4042,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/obi-o-n-e/pt/raw/main/repo.json",
-        "repo_source_url": "https://github.com/obi-o-n-e/pt",
-        "repo_name": "pt",
-        "repo_developer_name": "obi-o-n-e",
-        "plugins": [
-            {
-                "Author": "Obi One",
-                "Name": "Preeping Tom",
-                "InternalName": "PreepingTom",
-                "Description": "Shows who is currently or was previously targeting you.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/obi-o-n-e/pt/",
-                "LastUpdate": 1732453611
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Odd-Nightsky",
         "repo_url": "https://raw.githubusercontent.com/Odd-Nightsky/portrait-plogon/main/repo.json",
         "repo_source_url": "https://github.com/Odd-Nightsky/portrait-plogon",
@@ -4940,23 +4923,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/redeven/VentureTime/raw/master/repository.json",
-        "repo_source_url": "https://github.com/redeven/VentureTime",
-        "repo_name": "VentureTime",
-        "repo_developer_name": "redeven",
-        "plugins": [
-            {
-                "Author": "Redeven",
-                "Name": "VentureTime",
-                "InternalName": "VentureTime",
-                "Description": "Display your retainers' remaining venture time in the DTR bar.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/redeven/VentureTime",
-                "LastUpdate": 1743083201
-            }
-        ]
-    },
-    {
         "repo_developer_name": "ReiwaTech",
         "repo_url": "https://raw.githubusercontent.com/ReiwaTech/DalamudPluginRepo/master/pluginmaster.json",
         "repo_source_url": "https://github.com/ReiwaTech/DalamudPluginRepo",
@@ -5226,23 +5192,6 @@
         ]
     },
     {
-        "repo_developer_name": "ryviance",
-        "repo_url": "https://raw.githubusercontent.com/ryviance/XIV-HP-Watcher-Plugin/master/repo.json",
-        "repo_source_url": "https://github.com/ryviance/XIV-HP-Watcher-Plugin",
-        "repo_name": "XIV-HP-Watcher-Plugin",
-        "plugins": [
-            {
-                "Author": "Ryviance",
-                "Name": "HP Watcher",
-                "InternalName": "HP_Watcher",
-                "Description": "Alerts the player whenever they or any party member falls below a threshold.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/ryviance/XIV-HP-Watcher-Plugin",
-                "LastUpdate": 1745624086
-            }
-        ]
-    },
-    {
         "repo_developer_name": "saltycog",
         "repo_url": "https://raw.githubusercontent.com/saltycog/DalamudPlugins/master/repo.json",
         "repo_source_url": "https://github.com/saltycog/DalamudPlugins",
@@ -5405,23 +5354,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/Sevii77/animation_syncer/raw/master/repo.json",
-        "repo_source_url": "https://github.com/Sevii77/animation_syncer",
-        "repo_developer_name": "Sevii77",
-        "repo_name": "animation_syncer",
-        "plugins": [
-            {
-                "Author": "Sevii",
-                "Name": "Animation Syncer",
-                "InternalName": "AnimSync",
-                "Description": "Sync Animations",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Sevii77/animation_syncer",
-                "LastUpdate": 1744483334
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/Sevii77/properhousing/raw/master/repo.json",
         "repo_source_url": "https://github.com/Sevii77/properhousing",
         "repo_name": "properhousing",
@@ -5468,7 +5400,7 @@
                 "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
-                "LastUpdate": 1749490183
+                "LastUpdate": 1749581780
             },
             {
                 "Author": "SHOEGAZEssb",
@@ -5506,50 +5438,6 @@
         ],
         "repo_name": "Zookins",
         "repo_developer_name": "Skooz"
-    },
-    {
-        "repo_url": "https://github.com/SlashNephy/divination-distrib/raw/master/plugins/master.json",
-        "repo_source_url": "https://github.com/SlashNephy/divination-distrib",
-        "repo_name": "divination-distrib",
-        "repo_developer_name": "SlashNephy",
-        "plugins": [
-            {
-                "Author": "Asteria Nocturna",
-                "Name": "Divination.AetheryteLinkInChat",
-                "InternalName": "AetheryteLinkInChat",
-                "Description": "Display a teleport link to the nearest aetherite for the map link from the in-game chat. Type /alic to configure the plugin.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/SlashNephy/Divination/tree/master/AetheryteLinkInChat",
-                "LastUpdate": 1744820723
-            },
-            {
-                "Author": "Asteria Nocturna",
-                "Name": "Divination.Debugger",
-                "InternalName": "Debugger",
-                "Description": "Tiny tool to inspect game...",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/SlashNephy/Divination/tree/master/Debugger",
-                "LastUpdate": 1744721926
-            },
-            {
-                "Author": "Asteria Nocturna",
-                "Name": "Divination.FaloopIntegration",
-                "InternalName": "FaloopIntegration",
-                "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/SlashNephy/Divination/tree/master/FaloopIntegration",
-                "LastUpdate": 1744809041
-            },
-            {
-                "Author": "Horoscope developers",
-                "Name": "Divination.InstanceIDViewer",
-                "InternalName": "InstanceIDViewer",
-                "Description": "show instance id in chat when instance changed",
-                "DalamudApiLevel": 10,
-                "RepoUrl": "https://github.com/SlashNephy/Divination/tree/master/InstanceIDViewer",
-                "LastUpdate": 1744715947
-            }
-        ]
     },
     {
         "repo_developer_name": "Solandus",
@@ -6410,50 +6298,6 @@
         ]
     },
     {
-        "repo_developer_name": "VariableVixen",
-        "repo_url": "https://raw.githubusercontent.com/VariableVixen/MyDalamudPlugins/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/VariableVixen/MyDalamudPlugins",
-        "repo_name": "MyDalamudPlugins",
-        "plugins": [
-            {
-                "Author": "VariableVixen",
-                "Name": "TinyCommands",
-                "InternalName": "TinyCmds",
-                "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/VariableVixen/TinyCommands",
-                "LastUpdate": 1744109799
-            },
-            {
-                "Author": "VariableVixen",
-                "Name": "WoLua",
-                "InternalName": "WoLua",
-                "Description": "Write custom chat commands by creating lua scripts",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/VariableVixen/WoLua",
-                "LastUpdate": 1744109800
-            },
-            {
-                "Author": "attick, daemitus, VariableVixen",
-                "Name": "XIV Combo Very Expanded",
-                "InternalName": "XIVComboVX",
-                "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/VariableVixen/XIVComboPlugin",
-                "LastUpdate": 1744109794
-            },
-            {
-                "Author": "VariableVixen",
-                "Name": "XivEsp",
-                "InternalName": "XivEsp",
-                "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/VariableVixen/XivEsp",
-                "LastUpdate": 1744876227
-            }
-        ]
-    },
-    {
         "repo_developer_name": "vibicer",
         "repo_url": "https://raw.githubusercontent.com/vibicer/Chat-Translator-AI/main/repo.json",
         "repo_source_url": "https://github.com/vibicer/Chat-Translator-AI",
@@ -6527,24 +6371,6 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/westlose/TrueNorthBoss",
                 "LastUpdate": 1744649045
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/WINDOWCOLLAPSIBLE/404notfound",
-        "repo_name": "404notfound",
-        "repo_developer_name": "WINDOWCOLLAPSIBLE",
-        "plugins": [
-            {
-                "Author": "C",
-                "Name": "PosPluginNeo",
-                "InternalName": "PosPluginNeo",
-                "Description": "Teleport hack plugin",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/WINDOWCOLLAPSIBLE/404notfound",
-                "LastUpdate": 1747740664,
-                "is_closed_source": true
             }
         ]
     },
