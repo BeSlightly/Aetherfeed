@@ -159,7 +159,7 @@
                 "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1749533952
+                "LastUpdate": 1749613217
             }
         ]
     },
@@ -1199,7 +1199,7 @@
                 "Description": "Import coordinates from selected channels and enjoy your treasure hunt. Automatically optimize routes considering player location, aetheryte costs, and distances.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/dalamudx/onepiece",
-                "LastUpdate": 1749540170
+                "LastUpdate": 1749623073
             }
         ]
     },
@@ -4079,7 +4079,7 @@
                 "InternalName": "OccultCrescentHelper",
                 "Description": "Some things to smooth out your Occult Crescent experience.",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1749562064
+                "LastUpdate": 1749614734
             }
         ]
     },
@@ -5192,6 +5192,23 @@
         ]
     },
     {
+        "repo_developer_name": "ryviance",
+        "repo_url": "https://raw.githubusercontent.com/ryviance/XIV-HP-Watcher-Plugin/master/repo.json",
+        "repo_source_url": "https://github.com/ryviance/XIV-HP-Watcher-Plugin",
+        "repo_name": "XIV-HP-Watcher-Plugin",
+        "plugins": [
+            {
+                "Author": "Ryviance",
+                "Name": "HP Watcher",
+                "InternalName": "HP_Watcher",
+                "Description": "Alerts the player whenever they or any party member falls below a threshold.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://raw.githubusercontent.com/ryviance/XIV-HP-Watcher-Plugin/master/repo.json",
+                "LastUpdate": 1745624086
+            }
+        ]
+    },
+    {
         "repo_developer_name": "saltycog",
         "repo_url": "https://raw.githubusercontent.com/saltycog/DalamudPlugins/master/repo.json",
         "repo_source_url": "https://github.com/saltycog/DalamudPlugins",
@@ -6239,7 +6256,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1749508148
+                "LastUpdate": 1749622631
             },
             {
                 "Author": "Team Wrath",
@@ -6294,6 +6311,50 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/UnknownX7/ReAction",
                 "LastUpdate": 1743024855
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "VariableVixen",
+        "repo_url": "https://raw.githubusercontent.com/VariableVixen/MyDalamudPlugins/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/VariableVixen/MyDalamudPlugins",
+        "repo_name": "MyDalamudPlugins",
+        "plugins": [
+            {
+                "Author": "VariableVixen",
+                "Name": "TinyCommands",
+                "InternalName": "TinyCmds",
+                "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands",
+                "LastUpdate": 1744109799
+            },
+            {
+                "Author": "VariableVixen",
+                "Name": "WoLua",
+                "InternalName": "WoLua",
+                "Description": "Write custom chat commands by creating lua scripts",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/PrincessRTFM/WoLua",
+                "LastUpdate": 1744109800
+            },
+            {
+                "Author": "attick, daemitus, VariableVixen",
+                "Name": "XIV Combo Very Expanded",
+                "InternalName": "XIVComboVX",
+                "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin",
+                "LastUpdate": 1744109794
+            },
+            {
+                "Author": "VariableVixen",
+                "Name": "XivEsp",
+                "InternalName": "XivEsp",
+                "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/VariableVixen/XivEsp",
+                "LastUpdate": 1744876227
             }
         ]
     },
