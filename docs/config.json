@@ -834,6 +834,41 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/Bluefissure/DalamudPlugins",
+        "repo_developer_name": "Bluefissure",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Bluefissure",
+                "Name": "Double Weaver",
+                "InternalName": "DoubleWeaver",
+                "Description": "Double weaving in high latency network.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/Bluefissure/DoubleWeaver",
+                "LastUpdate": 1733100930
+            },
+            {
+                "Author": "Bluefissure",
+                "Name": "HousingPos",
+                "InternalName": "HousingPos",
+                "Description": "Automatically save/load the positions of housing furnitures.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/Bluefissure/HousingPos",
+                "LastUpdate": 1733107720
+            },
+            {
+                "Author": "Bluefissure",
+                "Name": "Inviter",
+                "InternalName": "Inviter",
+                "Description": "Automatically invite people to your party (doesn't work for CWLS). /xinvite to open.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/Bluefissure/Inviter",
+                "LastUpdate": 1733102601
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Brappp/repo/raw/main/wah.json",
         "repo_source_url": "https://github.com/Brappp/repo",
         "repo_name": "repo",
@@ -917,6 +952,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/bwagner-dev/ComboComboCombo",
                 "LastUpdate": 1745014649
+            }
+        ]
+    },
+    {
+        "repo_url": "https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json",
+        "repo_source_url": "https://github.com/CaiClone/GCDTracker",
+        "repo_developer_name": "CaiClone",
+        "repo_name": "GCDTracker",
+        "plugins": [
+            {
+                "Author": "Cai",
+                "Name": "GCDTracker",
+                "InternalName": "GCDTracker",
+                "Description": "Tracks GCD, OGCDs and combo status. Instantly visualizing what is happening with queue, animation lock and helping you get familiar with the concepts.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/CaiClone/GCDTracker",
+                "LastUpdate": 1749764908
             }
         ]
     },
@@ -1397,6 +1449,23 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/Drakansoul/DisPlace/master/DisPlacePlugin.json",
+        "repo_source_url": "https://github.com/Drakansoul/DisPlace",
+        "repo_developer_name": "Drakansoul",
+        "repo_name": "DisPlace",
+        "plugins": [
+            {
+                "Author": "Drakansoul",
+                "Name": "DisPlace Plugin",
+                "InternalName": "DisPlacePlugin",
+                "Description": "Automatically save & load the positions of house furniture. Copy other housing layouts. Import/export layouts from the MakePlace program.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Drakansoul/DisPlaced",
+                "LastUpdate": 1745381975
+            }
+        ]
+    },
+    {
         "repo_developer_name": "edeeeen",
         "repo_url": "https://raw.githubusercontent.com/edeeeen/WikiSearch/master/repo.json",
         "repo_source_url": "https://github.com/edeeeen/WikiSearch",
@@ -1778,7 +1847,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1749712118
+                "LastUpdate": 1749771203
             }
         ],
         "repo_developer_name": "FFXIV-CombatReborn",
@@ -1945,6 +2014,22 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Garume/PartyFinderToolbox",
                 "LastUpdate": 1743226428
+            }
+        ]
+    },
+    {
+        "repo_url": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/pluginmaster.json",
+        "repo_source_url": "https://github.com/GiR-Zippo/Hypnotoad-Plugin/",
+        "repo_developer_name": "GiR-Zippo",
+        "repo_name": "Hypnotoad-Plugin",
+        "plugins": [
+            {
+                "Author": "GiR-Zippo, Meowchestra",
+                "Name": "HypnotoadPlugin",
+                "InternalName": "HypnotoadPlugin",
+                "Description": "LightAmp companion for enhanced functionality.",
+                "RepoUrl": "https://github.com//GiR-Zippo/Hypnotoad-Plugin",
+                "LastUpdate": 1743582197
             }
         ]
     },
@@ -2385,7 +2470,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1749666012
+                "LastUpdate": 1749759351
             },
             {
                 "Author": "croizat",
@@ -2394,7 +2479,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1749666012
+                "LastUpdate": 1749759351
             }
         ]
     },
@@ -2993,6 +3078,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
                 "LastUpdate": 1747547207
+            }
+        ]
+    },
+    {
+        "repo_url": "https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/AutoJailMarker/repo.json",
+        "repo_source_url": "https://github.com/LockonS483/AutoJailMarker",
+        "repo_developer_name": "LockonS483",
+        "repo_name": "AutoJailMarker",
+        "plugins": [
+            {
+                "Author": "llock",
+                "Name": "Auto Jail Marker",
+                "InternalName": "AutoJailMarker",
+                "Description": "A scuffed uwu jail auto marker",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
+                "LastUpdate": 1743107963
             }
         ]
     },
@@ -4096,7 +4198,7 @@
                 "InternalName": "OccultCrescentHelper",
                 "Description": "Some things to smooth out your Occult Crescent experience.",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1749742500
+                "LastUpdate": 1749768959
             }
         ]
     },
@@ -4423,7 +4525,7 @@
                 "Description": "Export models to glTF format.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1749425610
+                "LastUpdate": 1749763005
             }
         ]
     },
@@ -4858,7 +4960,7 @@
                 "Description": "Draw strategy images for encounters. Use /aetherdraw to open",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/rail2025/AetherDraw",
-                "LastUpdate": 1749365961
+                "LastUpdate": 1749764467
             }
         ]
     },
@@ -4979,6 +5081,23 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/ReiwaTech/InventoryTools",
                 "LastUpdate": 1740158971
+            }
+        ]
+    },
+    {
+        "repo_url": "https://raw.githubusercontent.com/RemakePlace/plugin/master/ReMakePlacePlugin.json",
+        "repo_source_url": "https://github.com/RemakePlace/plugin",
+        "repo_developer_name": "RemakePlace",
+        "repo_name": "plugin",
+        "plugins": [
+            {
+                "Author": "ReMakePlace Maintainers",
+                "Name": "ReMakePlace Plugin",
+                "InternalName": "ReMakePlacePlugin",
+                "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the ReMakePlace program.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/ReMakePlace/plugin",
+                "LastUpdate": 1749624967
             }
         ]
     },
@@ -5371,6 +5490,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/serifine/XIV-Chat-Tools/raw/refs/heads/main/repo.json",
+        "repo_source_url": "https://github.com/serifine/XIV-Chat-Tools",
+        "repo_developer_name": "serifine",
+        "repo_name": "XIV-Chat-Tools",
+        "plugins": [
+            {
+                "Author": "Serifine",
+                "Name": "Chat Tools",
+                "InternalName": "XIVChatTools",
+                "Description": "Chat Tools was developed to cut through the cluttered chat that can happen at large RP events, or in crowded environments.\n\nJust some of the things you can do with Chat Tools is:\n- Filter messages in crowded environments\n- Set up windows to watch specific characters of your choice\n- Set up windows to watch for messages from a group of characters\n- Quickly scan what your selected or hovered targets have said\n- Search through your message history\n- Preserve messages on logout",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/serifine/XIV-Chat-Tools",
+                "LastUpdate": 1743063955
+            }
+        ]
+    },
+    {
         "repo_developer_name": "SetsuaD",
         "repo_url": "https://raw.githubusercontent.com/SetsuaD/CeeLoPlugin/master/Repo.json",
         "repo_source_url": "https://github.com/SetsuaD/CeeLoPlugin",
@@ -5400,7 +5536,7 @@
                 "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
-                "LastUpdate": 1749490521
+                "LastUpdate": 1749764385
             }
         ]
     },
