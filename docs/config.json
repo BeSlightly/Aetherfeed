@@ -1847,7 +1847,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1749810905
+                "LastUpdate": 1749841076
             }
         ],
         "repo_developer_name": "FFXIV-CombatReborn",
@@ -2957,7 +2957,7 @@
                 "Description": "A leve helper that lets you select which ones you want to do, and help turn them in for you. YOU NEED NAVMESH INSTALLED AS AN FYI.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/ChilledLeves",
-                "LastUpdate": 1749046185
+                "LastUpdate": 1749864525
             },
             {
                 "Author": "Ice",
@@ -3697,7 +3697,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
-                "LastUpdate": 1745214939
+                "LastUpdate": 1749842688
             },
             {
                 "Author": "NightmareXIV",
@@ -4198,7 +4198,7 @@
                 "InternalName": "OccultCrescentHelper",
                 "Description": "Some things to smooth out your Occult Crescent experience.",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1749830719
+                "LastUpdate": 1749849497
             }
         ]
     },
@@ -4783,7 +4783,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1749653538
+                "LastUpdate": 1749865738
             }
         ]
     },
@@ -4892,7 +4892,8 @@
                 "Description": "Auto prices your listings automatically on a set schedule. Can auto post items as well..",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/RaidenvBlack/Updated",
-                "LastUpdate": 1745153210
+                "LastUpdate": 1745153210,
+                "is_closed_source": true
             },
             {
                 "Author": "NoClue",
@@ -4901,7 +4902,8 @@
                 "Description": "Helper plugin for Targeting",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/RaidenvBlack/Updated",
-                "LastUpdate": 1745153210
+                "LastUpdate": 1745153210,
+                "is_closed_source": true
             },
             {
                 "Author": "NoClue",
@@ -4910,7 +4912,8 @@
                 "Description": "Helper plugin for Renaming",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/RaidenvBlack/Updated",
-                "LastUpdate": 1745153210
+                "LastUpdate": 1745153210,
+                "is_closed_source": true
             },
             {
                 "Author": "NoClue",
@@ -4919,7 +4922,8 @@
                 "Description": "Invites",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/RaidenvBlack/Updated",
-                "LastUpdate": 1745153210
+                "LastUpdate": 1745153210,
+                "is_closed_source": true
             },
             {
                 "Author": "NoClue",
@@ -4928,7 +4932,8 @@
                 "Description": "Helper plugin for Repair",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/RaidenvBlack/Updated",
-                "LastUpdate": 1745153210
+                "LastUpdate": 1745153210,
+                "is_closed_source": true
             },
             {
                 "Author": "NoClue",
@@ -4937,7 +4942,8 @@
                 "Description": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/RaidenvBlack/Updated",
-                "LastUpdate": 1745153210
+                "LastUpdate": 1745153210,
+                "is_closed_source": true
             }
         ]
     },
@@ -5598,7 +5604,7 @@
                 "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
-                "LastUpdate": 1749735087
+                "LastUpdate": 1749845880
             },
             {
                 "Author": "SHOEGAZEssb",
@@ -5721,7 +5727,7 @@
                 "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
-                "LastUpdate": 1749747949
+                "LastUpdate": 1749858045
             }
         ]
     },
@@ -6338,7 +6344,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://git.carvel.li/liza/Questionable",
-                "LastUpdate": 1749232729
+                "LastUpdate": 1749844021
             },
             {
                 "Author": "Liza Carvelli",
@@ -6394,7 +6400,7 @@
         "repo_name": "ment",
         "plugins": [
             {
-                "Author": "Taurenkey, kawaii, 2e",
+                "Author": "Taurenkey, kawaii",
                 "Name": "Artisan",
                 "InternalName": "Artisan",
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
