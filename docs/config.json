@@ -1843,6 +1843,78 @@
         ]
     },
     {
+        "repo_name": "CombatReborn",
+        "repo_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo",
+        "plugins": [
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "ActionTimeline Reborn",
+                "InternalName": "ActionTimelineEx",
+                "Description": "Configurable timeline display of all the actions you use.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn",
+                "LastUpdate": 1750262067
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "BossMod Reborn",
+                "InternalName": "BossModReborn",
+                "Description": "A bunch of utilities to simplify boss mechanics",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
+                "LastUpdate": 1750310036
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "EasyZoom Reborn",
+                "InternalName": "EasyZoomReborn",
+                "Description": "Easy zoom distance unlock and fov control. /ez opens the EasyZoomReborn configuration window.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn",
+                "LastUpdate": 1750262041
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "GatherBuddy Reborn",
+                "InternalName": "GatherbuddyReborn",
+                "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
+                "LastUpdate": 1750261980
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "Reborn Toolbox",
+                "InternalName": "RebornToolbox",
+                "Description": "Various tweaks and features provided by the Combat Reborn team that don't need their own plugin",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/RebornToolbox",
+                "LastUpdate": 1750262013
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "Rotation Solver Reborn",
+                "InternalName": "RotationSolver",
+                "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
+                "LastUpdate": 1750269329
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "ZodiacBuddy Reborn",
+                "InternalName": "ZodiacBuddyReborn",
+                "Description": "Automates various steps of the ARR Relic Quests",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn",
+                "LastUpdate": 1750317830
+            }
+        ],
+        "repo_developer_name": "FFXIV-CombatReborn",
+        "is_allowed_mega_repo": true
+    },
+    {
         "repo_url": "https://github.com/FFXIV-Sonar/SonarRepo/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/FFXIV-Sonar/SonarRepo",
         "repo_discord_url": "https://discord.gg/K7y24Rr",
@@ -2476,7 +2548,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1750313315
+                "LastUpdate": 1750333206
             }
         ]
     },
@@ -4505,7 +4577,7 @@
                 "Description": "Because tab targeting is hard.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Paparogue/Tabnado",
-                "LastUpdate": 1750274255
+                "LastUpdate": 1750331181
             }
         ]
     },
