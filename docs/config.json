@@ -793,7 +793,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1750200236
+                "LastUpdate": 1750521434
             },
             {
                 "Author": "veyn",
@@ -829,7 +829,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1750446291
+                "LastUpdate": 1750524603
             },
             {
                 "Author": "veyn",
@@ -1793,7 +1793,7 @@
                 "Description": "Chinese plugin, highly illegal FFXIV modification - provides many cheating features, but requires registration on their discord server",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1750393636,
+                "LastUpdate": 1750519538,
                 "is_closed_source": true
             },
             {
@@ -1803,7 +1803,7 @@
                 "Description": "Chinese plugin, highly illegal FFXIV modification - provides many cheating features, but requires registration on their discord server",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1750393636,
+                "LastUpdate": 1750519538,
                 "is_closed_source": true
             },
             {
@@ -1813,7 +1813,7 @@
                 "Description": "5v5天才妹妹为您服务",
                 "DalamudApiLevel": 10,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1750393636
+                "LastUpdate": 1750519538
             }
         ]
     },
@@ -1908,7 +1908,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1750466822
+                "LastUpdate": 1750525078
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1989,7 +1989,7 @@
                 "Description": "Turning every dialogue into a voiced dialogue!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Final-Fantasy-XIV-Voices/XivVoices",
-                "LastUpdate": 1750493013
+                "LastUpdate": 1750514317
             }
         ]
     },
@@ -2557,7 +2557,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1750492849
+                "LastUpdate": 1750514263
             }
         ]
     },
@@ -3785,7 +3785,7 @@
                 "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1750484627
+                "LastUpdate": 1750524264
             },
             {
                 "Author": "NightmareXIV",
@@ -4550,7 +4550,7 @@
                 "Description": "Automate Party Finder recruitment with a single button click.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Paparogue",
-                "LastUpdate": 1750492894
+                "LastUpdate": 1750525098
             },
             {
                 "Author": "Paparogue",
@@ -6062,6 +6062,23 @@
         ]
     },
     {
+        "repo_developer_name": "switchy-nia",
+        "repo_url": "https://raw.githubusercontent.com/switchy-nia/inflection/main/repo.json",
+        "repo_source_url": "https://github.com/switchy-nia/inflection",
+        "repo_name": "inflection",
+        "plugins": [
+            {
+                "Author": "nia",
+                "Name": "Aiko's Inflection",
+                "InternalName": "Inflection",
+                "Description": "Allows you to set options to change up your speech to your chat messages including stutters, sentence endings, ticks, and more!",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/switchy-nia/inflection",
+                "LastUpdate": 1750513483
+            }
+        ]
+    },
+    {
         "repo_developer_name": "SylviaSK",
         "repo_url": "https://raw.githubusercontent.com/SylviaSK/VTimer/master/repo.json",
         "repo_source_url": "https://github.com/SylviaSK/VTimer",
@@ -6661,7 +6678,7 @@
                 "Description": "Temporary Reupload of Liza's Discard Helper - Small plugin to help keep your inventory organized (especially when automating retainers or submersibles) by discarding items you don't want (e.g. Stuffed Alphas)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://git.carvel.li/liza/ARDiscard",
-                "LastUpdate": 1750485470
+                "LastUpdate": 1750518431
             },
             {
                 "Author": "Liza Carvelli",
@@ -6680,15 +6697,6 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/VeraNala/FishNotify",
                 "LastUpdate": 1750482913
-            },
-            {
-                "Author": "Liza Carvelli",
-                "Name": "RetainerTrack",
-                "InternalName": "RetainerTrack",
-                "Description": "Temporary Reupload of Liza's RetainerTrack - Keeps track of who a retainer belongs to - if you have seen the retainer's owner locally (if you were on the same party, or if you have seen an item crafted by them).\n\nTracking is unavailable if the crafter isn't the retainer owner (to avoid resellers being attributed incorrectly), and if the tooltip says 'Obtaining Signature'.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/VeraNala/RetainerTrack",
-                "LastUpdate": 1750483494
             }
         ]
     },
