@@ -385,7 +385,7 @@
                 "Description": "Dalamud plugin that provides a deterministic cpose command",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
-                "LastUpdate": 1750188141
+                "LastUpdate": 1750686400
             },
             {
                 "Author": "Anya Hichu",
@@ -647,9 +647,9 @@
                 "Name": "A Realm Recorded Lite",
                 "InternalName": "ARealmRecordedLite",
                 "Description": "使用 /record 指令打开配置界面\n如显示相关指令未解锁, 请去摩杜纳第七天堂找异国的诗人完成任务「回顾英雄诗篇」",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ARealmRecordedLite",
-                "LastUpdate": 1748415106
+                "LastUpdate": 1750691827
             },
             {
                 "Author": "AtmoOmen",
@@ -665,19 +665,9 @@
                 "Name": "Daily Routines",
                 "InternalName": "DailyRoutines",
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1750435456,
-                "is_closed_source": true
-            },
-            {
-                "Author": "AtmoOmen",
-                "Name": "Daily Routines (API 12)",
-                "InternalName": "DailyRoutines",
-                "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1750435456,
+                "LastUpdate": 1750690514,
                 "is_closed_source": true
             },
             {
@@ -685,9 +675,9 @@
                 "Name": "Character Data Sync X",
                 "InternalName": "Dalamud.CharacterSyncX",
                 "Description": "在插件设置界面选择好主角色后, 自动同步你主角色游戏设置数据至所有角色上\n相比原版: 重写了界面, 提供了明确的主角色设置, 不会再动你的原始数据文件, 而是把非主角色的文件读取重定向至主角色",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/Dalamud.CharacterSync",
-                "LastUpdate": 1740131495
+                "LastUpdate": 1750693564
             },
             {
                 "Author": "The Combat Reborn Team, AtmoOmen (本地化及国服适配)",
@@ -712,18 +702,18 @@
                 "Name": "Hyperborea",
                 "InternalName": "Hyperborea",
                 "Description": "安全地前往探索游戏内的任何区域, 主要用于拍照\n\n汉化与国服适配: AtmoOmen",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/Hyperborea",
-                "LastUpdate": 1739940426
+                "LastUpdate": 1750692848
             },
             {
                 "Author": "AtmoOmen",
                 "Name": "Untarnished Heart",
                 "InternalName": "UntarnishedHeart",
                 "Description": "自动化 T 职副本场次成就刷取工具\n注意: 副本战斗需要自行使用其他插件解决",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/UntarnishedHeart",
-                "LastUpdate": 1745057243
+                "LastUpdate": 1750691190
             },
             {
                 "Author": "ocealot, AtmoOmen (汉化)",
@@ -739,18 +729,9 @@
                 "Name": "vnavmesh",
                 "InternalName": "vnavmesh",
                 "Description": "不仅会自动寻路, 还能自动避障",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1748846969
-            },
-            {
-                "Author": "darkarchon, AtmoOmen (汉化)",
-                "Name": "XIVJitterFix",
-                "InternalName": "XIVJitterFix",
-                "Description": "随着7.0版本更新，SE 虽然为 FF14 引入了多种时间性抗锯齿方案，但均存在严重影响画质的重大缺陷。\n本插件将修复NPC对话、过场动画及 GPose 模式下的画面抖动功能。作为时间性抗锯齿技术（DLSS/DLAA/TSCMAA+抖动）的核心机制，相机抖动（即难以察觉的细微位移）是确保抗锯齿效果正常运作的必要条件。\n令人费解的是，SE官方竟在恰恰最需要抖动提升画质的场景中禁用了该功能。",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/AtmoOmen/XIVJitterFix",
-                "LastUpdate": 1741876835
+                "LastUpdate": 1750693345
             }
         ]
     },
@@ -1880,7 +1861,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1750667349
+                "LastUpdate": 1750697897
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3757,7 +3738,7 @@
                 "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1750660807
+                "LastUpdate": 1750698023
             },
             {
                 "Author": "NightmareXIV",
