@@ -1345,53 +1345,25 @@
                 "Description": "监控雇员、飞空艇、潜水艇、以太转轮、作物成熟以及多个角色的一些杂项任务。",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/decorwdyun/Accountant",
-                "LastUpdate": 1746684204
-            },
-            {
-                "Author": "Caraxi, decorwdyun(汉化)",
-                "Name": "AdventurerInNeed",
-                "InternalName": "AdventurerInNeed",
-                "Description": "当某个随机任务缺少你指定的职业的时候，发送一个通知。",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/decorwdyun/AdventurerInNeed",
-                "LastUpdate": 1743946279
+                "LastUpdate": 1750675624
             },
             {
                 "Author": "decorwdyun",
                 "Name": "FuckDalamudCN",
                 "InternalName": "FuckDalamudCN",
                 "Description": "如果你的网络环境不能稳定的访问 Github，那么可以试试本插件提供的 Github 加速服务，我们提供一系列优化以加速插件管理器的加载/下载",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
-                "LastUpdate": 1749191791
-            },
-            {
-                "Author": "Critical_Impact, decorwdyun(汉化)",
-                "Name": "Allagan Tools",
-                "InternalName": "InventoryTools",
-                "Description": "增加了一个窗口，允许在你的库存和整个游戏的道具列表中搜索和过滤道具。 在游戏中增加了可视化功能，可以看到你的物品在哪里，你应该把它们分类在哪里。 \n\nInventory Tools的功能一直在增加，所以要及时更新以获得这些功能。目前包括的一些功能有。\n\t- 市场板集成 \n\t- 道具高亮 \n\t- 各种筛选道具的方式，包括已获取，可制作的，可用于房屋的等等 \n\t- 浏览所有可用的游戏道具",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/decorwdyun/InventoryTools",
-                "LastUpdate": 1743946179
+                "LastUpdate": 1750671314
             },
             {
                 "Author": "decorwdyun",
                 "Name": "PFRadar",
                 "InternalName": "PFRadar",
                 "Description": "（国际服专用版本）View party composition & player info while staying out of party",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1748967190,
-                "is_closed_source": true
-            },
-            {
-                "Author": "decorwdyun",
-                "Name": "PFRadar (API 12)",
-                "InternalName": "PFRadar",
-                "Description": "（国际服专用版本）View party composition & player info while staying out of party",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1748967190,
+                "LastUpdate": 1750677233,
                 "is_closed_source": true
             },
             {
@@ -1399,18 +1371,18 @@
                 "Name": "Questionable",
                 "InternalName": "Questionable",
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1749650815
+                "LastUpdate": 1750672548
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
                 "Name": "Satisfier",
                 "InternalName": "vsatisfy",
                 "Description": "通过自动化流程减少老主顾交付的烦恼。\n 所需插件：vnavmesh, Artisan",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/ffxiv_satisfy",
-                "LastUpdate": 1745311233
+                "LastUpdate": 1750673131
             }
         ]
     },
@@ -1793,7 +1765,7 @@
                 "Description": "Chinese plugin, highly illegal FFXIV modification - provides many cheating features, but requires registration on their discord server",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1750519538,
+                "LastUpdate": 1750664032,
                 "is_closed_source": true
             },
             {
@@ -1801,9 +1773,9 @@
                 "Name": "I-Ching-GL",
                 "InternalName": "I-Ching-GL",
                 "Description": "Chinese plugin, highly illegal FFXIV modification - provides many cheating features, but requires registration on their discord server",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1750519538,
+                "LastUpdate": 1750664032,
                 "is_closed_source": true
             },
             {
@@ -1813,7 +1785,7 @@
                 "Description": "5v5天才妹妹为您服务",
                 "DalamudApiLevel": 10,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1750519538
+                "LastUpdate": 1750664032
             }
         ]
     },
@@ -1872,7 +1844,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1750643008
+                "LastUpdate": 1750664712
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1908,7 +1880,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1750635961
+                "LastUpdate": 1750667349
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2557,7 +2529,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1750618638
+                "LastUpdate": 1750666419
             }
         ]
     },
