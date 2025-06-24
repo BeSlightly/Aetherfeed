@@ -88,7 +88,7 @@
                 "Name": "泥头A车小助手",
                 "InternalName": "NitouAssistant",
                 "Description": "解放A车车头，群友都做人形凶兽（暂时只支持5A）",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Acecy237/NitouAssistant",
                 "LastUpdate": 1750216322
             }
@@ -684,9 +684,9 @@
                 "Name": "GatherBuddy Reborn",
                 "InternalName": "GatherbuddyReborn",
                 "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
-                "LastUpdate": 1749005151
+                "LastUpdate": 1750755235
             },
             {
                 "Author": "Haselnussbomber",
@@ -695,7 +695,7 @@
                 "Description": "开发者专用",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/AtmoOmen/HaselDebug",
-                "LastUpdate": 1742295544
+                "LastUpdate": 1750764470
             },
             {
                 "Author": "kawaii, AtmoOmen (汉化)",
@@ -1067,23 +1067,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/cfsen/Ktisis/raw/main/repo.json",
-        "repo_source_url": "https://github.com/cfsen/Ktisis",
-        "repo_name": "Ktisis",
-        "repo_developer_name": "cfsen",
-        "plugins": [
-            {
-                "Author": "Chirp",
-                "Name": "Ktisis",
-                "InternalName": "Ktisis",
-                "Description": "A robust posing tool for creating screenshots in GPose.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1743124332
-            }
-        ]
-    },
-    {
         "repo_developer_name": "chalkos",
         "repo_url": "https://raw.githubusercontent.com/chalkos/Marketbuddy/main/repo.json",
         "repo_source_url": "https://github.com/chalkos/Marketbuddy",
@@ -1324,9 +1307,9 @@
                 "Name": "Accountant",
                 "InternalName": "Accountant",
                 "Description": "监控雇员、飞空艇、潜水艇、以太转轮、作物成熟以及多个角色的一些杂项任务。",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/Accountant",
-                "LastUpdate": 1750675624
+                "LastUpdate": 1750768256
             },
             {
                 "Author": "decorwdyun",
@@ -1344,7 +1327,7 @@
                 "Description": "（国际服专用版本）View party composition & player info while staying out of party",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1750677233,
+                "LastUpdate": 1750758739,
                 "is_closed_source": true
             },
             {
@@ -1354,7 +1337,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1750672548
+                "LastUpdate": 1750752855
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -2354,7 +2337,7 @@
                 "Description": "在集体动作模式中控制参与的角色。",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/MeowZWR/Brio",
-                "LastUpdate": 1748523857
+                "LastUpdate": 1750759500
             }
         ]
     },
@@ -2510,7 +2493,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1750716823
+                "LastUpdate": 1750755834
             }
         ]
     },
@@ -3154,12 +3137,12 @@
         "plugins": [
             {
                 "Author": "Loskh",
-                "Name": "AoAoEnergy (api 11)",
+                "Name": "AoAoEnergy (api 12)",
                 "InternalName": "AoAoEnergy",
                 "Description": "可我还要打本啊！为了不睡过去，我需要补充能量。这时候就轮到我最爱的能量饮料登场了……",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/lsl1225/DalamudPluginsCN",
-                "LastUpdate": 1745686554
+                "LastUpdate": 1750756731
             },
             {
                 "Author": "Herculezz",
@@ -3175,9 +3158,9 @@
                 "Name": "HaselTweaks CN",
                 "InternalName": "HaselTweaks",
                 "Description": "Keep on tweaking.",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/lsl1225/HaselTweaksCN",
-                "LastUpdate": 1742806120
+                "LastUpdate": 1750756432
             },
             {
                 "Author": "NightmareXIV",
@@ -3189,29 +3172,20 @@
                 "LastUpdate": 1740331751
             },
             {
-                "Author": "lsl1225",
-                "Name": "Party Finder Tweaks (api 11)",
-                "InternalName": "PartyFinderTweaks",
-                "Description": "Various QoL changes in Party Finder",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/lsl1225/DalamudPluginsCN",
-                "LastUpdate": 1745686554
-            },
-            {
                 "Author": "veyn",
                 "Name": "vnavmesh CN",
                 "InternalName": "vnavmesh",
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/lsl1225/DalamudPluginsCN",
-                "LastUpdate": 1745686554
+                "LastUpdate": 1750756731
             },
             {
                 "Author": "daemitus, MidoriKami, lsl1225",
-                "Name": "Wondrous Tails Director (api 11)",
+                "Name": "Wondrous Tails Director",
                 "InternalName": "WondrousTailsDirector",
                 "Description": "This plugin add the capability to open the corresponding instance by clicking on duties in Wondrous Tails. (Former function in EzWondrousTails which is not currently maintenanced.)",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/lsl1225/WondrousTailsDirector",
                 "LastUpdate": 1743129809
             }
@@ -3309,7 +3283,7 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1750195747
+                "LastUpdate": 1750755424
             }
         ]
     },
@@ -3410,7 +3384,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/MeowZWR/Brio",
-                "LastUpdate": 1748523857
+                "LastUpdate": 1750759500
             }
         ]
     },
@@ -3912,19 +3886,9 @@
                 "Name": "NyaDraw",
                 "InternalName": "NyaDraw",
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1749560575,
-                "is_closed_source": true
-            },
-            {
-                "Author": "NiGuangOwO, Small_Miao (moewcorp)",
-                "Name": "NyaDraw (API12)",
-                "InternalName": "NyaDraw",
-                "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1749560575,
+                "LastUpdate": 1750769434,
                 "is_closed_source": true
             },
             {
@@ -4061,9 +4025,9 @@
                 "Name": "BetterFakeName",
                 "InternalName": "BetterFakeName",
                 "Description": "Fake your name on UI",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Nukoooo/BetterFakeName",
-                "LastUpdate": 1745560415
+                "LastUpdate": 1750761669
             },
             {
                 "Author": "Nuko",
@@ -4079,16 +4043,16 @@
                 "Name": "FF Logs Viewer (CN)",
                 "InternalName": "FFLogsViewer",
                 "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Nukoooo/FFLogsViewer",
-                "LastUpdate": 1739875771
+                "LastUpdate": 1750760914
             },
             {
                 "Author": "Nuko",
                 "Name": "FishersIntuition",
                 "InternalName": "FishersIntuition",
                 "Description": "Fishing Timer",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Nukoooo/Fishers-Intuition",
                 "LastUpdate": 1741795566
             },
@@ -4097,18 +4061,18 @@
                 "Name": "MyPluginsArentCheat",
                 "InternalName": "MyPluginsArentCheat",
                 "Description": "say haiihaii to banned dalamud plugins uwu",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Nukoooo/MyPluginsArentCheat",
-                "LastUpdate": 1740077935
+                "LastUpdate": 1750761452
             },
             {
                 "Author": "Nuko",
                 "Name": "S怪触发小助手",
                 "InternalName": "RankSSpawnHelper",
                 "Description": "",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Nukoooo/BetterFakeName",
-                "LastUpdate": 1745560415
+                "LastUpdate": 1750761669
             },
             {
                 "Author": "Nuko",
@@ -4203,7 +4167,7 @@
                 "InternalName": "BOCCHI",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1750706043
+                "LastUpdate": 1750753593
             },
             {
                 "Author": "Faye",
@@ -4486,7 +4450,7 @@
                 "Description": "A simple plugin to replace timelines of actions.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/papapachin/ActionTimelineReplacement/tree/Global",
-                "LastUpdate": 1744112253
+                "LastUpdate": 1750751861
             }
         ]
     },
@@ -5009,6 +4973,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/rail2025/AetherDraw",
                 "LastUpdate": 1750427810
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "rail2025",
+        "repo_url": "https://raw.githubusercontent.com/rail2025/AetherialArena/main/repo.json",
+        "repo_source_url": "https://github.com/rail2025/AetherialArena",
+        "repo_name": "AetherialArena",
+        "plugins": [
+            {
+                "Author": "rail",
+                "Name": "Aetherial Arena",
+                "InternalName": "AetherialArena",
+                "Description": "Open with /aarena. Search and discover more creatures around the world.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/rail2025/AetherialArena",
+                "LastUpdate": 1750758964
             }
         ]
     },
@@ -6813,7 +6794,7 @@
                 "Description": "非满级情况或野外有概率不精确,青魔不适用望周知",
                 "DalamudApiLevel": 10,
                 "RepoUrl": "https://github.com/wozaiha/DalamudACT",
-                "LastUpdate": 1739805082
+                "LastUpdate": 1750769793
             }
         ]
     },
