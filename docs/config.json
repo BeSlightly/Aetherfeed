@@ -658,7 +658,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1750868167,
+                "LastUpdate": 1750951272,
                 "is_closed_source": true
             },
             {
@@ -753,9 +753,9 @@
                 "Name": "Hitbox Extend",
                 "InternalName": "TestPlugin",
                 "Description": "Extend the target hitbox by 3 yards (farthest allowed before your attack actions get invalidated by the server)",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Atomoxide/HitboxExtend",
-                "LastUpdate": 1732246437
+                "LastUpdate": 1750963035
             }
         ],
         "repo_name": "DalamudPluginRepo",
@@ -944,15 +944,6 @@
             },
             {
                 "Author": "wah",
-                "Name": "Wahdar",
-                "InternalName": "Wahdar",
-                "Description": "Displays nearby objects like monsters, NPCs and players on a radar interface. Use /wahdar to open the radar window.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Brappp/Wahdar",
-                "LastUpdate": 1748723367
-            },
-            {
-                "Author": "wah",
                 "Name": "WahJumps",
                 "InternalName": "WahJumps",
                 "Description": "Jumping Puzzle Directory - LifeStream must be installed to travel!",
@@ -968,15 +959,6 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Brappp/Wrath-Icon",
                 "LastUpdate": 1748618030
-            },
-            {
-                "Author": "wah",
-                "Name": "Zoomies",
-                "InternalName": "Zoomies",
-                "Description": "Fun speedometers",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Brappp/Zoom",
-                "LastUpdate": 1742954004
             }
         ]
     },
@@ -1352,7 +1334,7 @@
                 "Description": "如果你的网络环境不能稳定的访问 Github，那么可以试试本插件提供的 Github 加速服务，我们提供一系列优化以加速插件管理器的加载/下载",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
-                "LastUpdate": 1750671314
+                "LastUpdate": 1750960360
             },
             {
                 "Author": "decorwdyun",
@@ -1917,12 +1899,21 @@
         "plugins": [
             {
                 "Author": "Sonar Team",
+                "Name": "Sonar Diagnostics",
+                "InternalName": "SonarDiagnostics",
+                "Description": "",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/FFXIV-Sonar/SonarRepo",
+                "LastUpdate": 1750951022
+            },
+            {
+                "Author": "Sonar Team",
                 "Name": "Sonar-preview",
                 "InternalName": "SonarPlugin-preview",
                 "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1750934975
+                "LastUpdate": 1750951010
             },
             {
                 "Author": "Sonar Team",
@@ -1931,7 +1922,7 @@
                 "Description": "마물, 돌발 전파를 자동으로 주고받습니다. /sonar 명령어로 알림 오버레이를 열고, /sonarconfig 으로 설정 창을 엽니다. 지원은 Sonar Support Discord에서만 제공됩니다.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1750934975
+                "LastUpdate": 1750951010
             }
         ],
         "repo_name": "SonarRepo",
@@ -2284,7 +2275,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1750801381
+                "LastUpdate": 1750952686
             },
             {
                 "Author": "Haselnussbomber",
@@ -2561,7 +2552,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1750934234
+                "LastUpdate": 1750949741
             }
         ]
     },
@@ -2646,7 +2637,7 @@
                 "Description": "Automation for Orange and Purple Gathering scrips with the help of vnavmesh and AutoHook",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Joshua-XIV/AutoScrip",
-                "LastUpdate": 1747415042
+                "LastUpdate": 1750949889
             },
             {
                 "Author": "Josh",
@@ -2655,7 +2646,7 @@
                 "Description": "This plugin will automatically take you to Pyros and farm the Low Level Bunny Fate. Other zones are currently WIP.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Joshua-XIV/Bunnies",
-                "LastUpdate": 1743040133
+                "LastUpdate": 1750949958
             },
             {
                 "Author": "Josh",
@@ -3948,6 +3939,15 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/NiGuangOwO/PalacePal",
                 "LastUpdate": 1740301425
+            },
+            {
+                "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
+                "Name": "Pandora's Box",
+                "InternalName": "PandorasBox",
+                "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+                "LastUpdate": 1749106272
             }
         ]
     },
@@ -4149,6 +4149,23 @@
                 "DalamudApiLevel": 10,
                 "RepoUrl": "https://github.com/NyashusDelights/WokeScenes",
                 "LastUpdate": 1724889925
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/obi-o-n-e/pt/raw/main/repo.json",
+        "repo_source_url": "https://github.com/obi-o-n-e/pt",
+        "repo_name": "pt",
+        "repo_developer_name": "obi-o-n-e",
+        "plugins": [
+            {
+                "Author": "Obi One",
+                "Name": "Preeping Tom",
+                "InternalName": "PreepingTom",
+                "Description": "Shows who is currently or was previously targeting you.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/obi-o-n-e/pt/",
+                "LastUpdate": 1732453611
             }
         ]
     },
@@ -5157,7 +5174,7 @@
                 "Description": "A TTS Plugin that breaks the silence! For self hosted AllTalk instance. /ek",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
-                "LastUpdate": 1750601512
+                "LastUpdate": 1750958193
             },
             {
                 "Author": "RenNagasaki",
@@ -6039,7 +6056,7 @@
                 "Description": "Allows you to set options to change up your speech to your chat messages including stutters, sentence endings, ticks, and more!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/switchy-nia/inflection",
-                "LastUpdate": 1750942250
+                "LastUpdate": 1750943060
             }
         ]
     },
@@ -6537,7 +6554,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1750621297
+                "LastUpdate": 1750957582
             },
             {
                 "Author": "daemitus, kawaii",
@@ -6825,7 +6842,7 @@
                 "Description": "非满级情况或野外有概率不精确,青魔不适用望周知",
                 "DalamudApiLevel": 10,
                 "RepoUrl": "https://github.com/wozaiha/DalamudACT",
-                "LastUpdate": 1750769793
+                "LastUpdate": 1750944302
             }
         ]
     },
