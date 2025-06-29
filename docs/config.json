@@ -376,7 +376,7 @@
                 "Description": "Dalamud plugin that provides a deterministic cpose command",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
-                "LastUpdate": 1751217034
+                "LastUpdate": 1751223925
             },
             {
                 "Author": "Anya Hichu",
@@ -2445,6 +2445,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/iri-impulse/IriBetaChannel/raw/main/testing.json",
+        "repo_source_url": "https://github.com/iri-impulse/IriBetaChannel/",
+        "repo_developer_name": "iri-impulse",
+        "repo_name": "IriBetaChannel",
+        "plugins": [
+            {
+                "Author": "iri",
+                "Name": "Photobooth",
+                "InternalName": "Photobooth",
+                "Description": "Take your portrait & adventurer plate game to the next level with this companion panel for the portrait editor.\n\n• Rewind, fast forward, and step through animations frame by frame.\n• Adjust character head and eye direction without moving the camera.\n• Position camera and pivot point with a top-down map.\n• More intuitive controls for lighting color and angle.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/iri-impulse/PhotoboothPlugin",
+                "LastUpdate": 1751170371
+            }
+        ]
+    },
+    {
         "repo_developer_name": "irisdotsh",
         "repo_url": "https://raw.githubusercontent.com/irisdotsh/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/irisdotsh/DalamudPlugins",
@@ -3746,7 +3763,7 @@
                 "Description": "Provides useful tools for hunt trains such as: highlighting conductor messages and muting all other chat, auto-opening flags from conductors and auto-teleporting to announced destination.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NightmareXIV/HuntTrainAssistant",
-                "LastUpdate": 1745216922
+                "LastUpdate": 1751224133
             },
             {
                 "Author": "NightmareXIV",
@@ -5841,6 +5858,15 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/spide-r/CCAnonymizer",
                 "LastUpdate": 1747071982
+            },
+            {
+                "Author": "spider",
+                "Name": "SoundEffectMuter",
+                "InternalName": "SoundEffectMuter",
+                "Description": "This plugin silences all text sound effects and quick chat while in PvP zones. No Configuration needed! Just install and forget.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/spide-r/SoundEffectMuter",
+                "LastUpdate": 1750960134
             }
         ]
     },
