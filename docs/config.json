@@ -1843,7 +1843,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1751326769
+                "LastUpdate": 1751360215
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1879,7 +1879,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1751178226
+                "LastUpdate": 1751360349
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2209,6 +2209,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/GitPaulo/RightClickSearchInfo",
                 "LastUpdate": 1744401935
+            }
+        ]
+    },
+    {
+        "repo_url": "https://karou.ca/xiv/repo.json",
+        "repo_source_url": "https://github.com/Glorou/PenumbraImageManipulationPlugin",
+        "repo_developer_name": "Glorou",
+        "repo_name": "PenumbraImageManipulationPlugin",
+        "plugins": [
+            {
+                "Author": "Karou",
+                "Name": "Penumbra Image Manipulation Plugin",
+                "InternalName": "TextureOverlayer",
+                "Description": "A relatively robust tool that allows you to non-destructively edit textures.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Glorou/PenumbraImageManipulationPlugin",
+                "LastUpdate": 1751067191
             }
         ]
     },
@@ -2571,7 +2588,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1751320665
+                "LastUpdate": 1751363425
             }
         ]
     },
@@ -4131,7 +4148,7 @@
                 "Description": "一个触发S怪用的小工具, 但是底裤比较低",
                 "DalamudApiLevel": 10,
                 "RepoUrl": "https://github.com/Nukoooo/RankSSpawnHelper",
-                "LastUpdate": 1751184571
+                "LastUpdate": 1751353760
             }
         ],
         "repo_name": "DalamudPlugins",
@@ -6265,7 +6282,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1751339975
+                "LastUpdate": 1751358995
             }
         ]
     },
