@@ -1852,7 +1852,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1751437693
+                "LastUpdate": 1751477667
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2229,12 +2229,12 @@
         "plugins": [
             {
                 "Author": "Karou",
-                "Name": "Penumbra Image Manipulation Plugin",
+                "Name": "Texture Overlayer",
                 "InternalName": "TextureOverlayer",
                 "Description": "A relatively robust tool that allows you to non-destructively edit textures.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Glorou/PenumbraImageManipulationPlugin",
-                "LastUpdate": 1751067191
+                "LastUpdate": 1751478230
             }
         ]
     },
@@ -2405,7 +2405,7 @@
                 "Description": "Notifies you when hunt trains are starting soon",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/huntsffxiv",
-                "LastUpdate": 1743280137
+                "LastUpdate": 1751477210
             }
         ],
         "repo_name": "repo",
@@ -4235,7 +4235,7 @@
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1751351777
+                "LastUpdate": 1751462558
             },
             {
                 "Author": "Faye",
@@ -5698,6 +5698,23 @@
         ]
     },
     {
+        "repo_developer_name": "shana321",
+        "repo_url": "https://raw.githubusercontent.com/shana321/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/shana321/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Liza Carvelli (Puni.sh) / NiGuangOwO (本地化适配) / Amely(7.2适配)",
+                "Name": "Palace Pal",
+                "InternalName": "PalacePal",
+                "Description": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。\n\n这个插件需要Splatoon才能在屏幕上渲染绘图。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+                "LastUpdate": 1743091609
+            }
+        ]
+    },
+    {
         "repo_developer_name": "SheepGoMeh",
         "repo_url": "https://raw.githubusercontent.com/SheepGoMeh/MyDalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/SheepGoMeh/MyDalamudPlugins",
@@ -6291,7 +6308,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1751460039
+                "LastUpdate": 1751478464
             }
         ]
     },
@@ -6618,7 +6635,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1751459889
+                "LastUpdate": 1751468947
             },
             {
                 "Author": "daemitus, kawaii",
