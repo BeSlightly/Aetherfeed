@@ -176,7 +176,7 @@
                 "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1751643508
+                "LastUpdate": 1751663447
             }
         ]
     },
@@ -785,7 +785,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1751300493
+                "LastUpdate": 1751667645
             },
             {
                 "Author": "veyn",
@@ -1888,7 +1888,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1751645453
+                "LastUpdate": 1751679830
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2312,7 +2312,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1751500430
+                "LastUpdate": 1751666656
             },
             {
                 "Author": "Haselnussbomber",
@@ -2321,7 +2321,7 @@
                 "Description": "A little helper to check which Levequests have been completed and which are missing.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
-                "LastUpdate": 1751503131
+                "LastUpdate": 1751666725
             }
         ]
     },
@@ -2614,7 +2614,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1751640398
+                "LastUpdate": 1751655061
             }
         ]
     },
@@ -3889,7 +3889,7 @@
                 "Name": "HoardFarm",
                 "InternalName": "HoardFarm",
                 "Description": "帮助您伐木深层迷宫宝藏的插件（...为您）",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/HoardFarm",
                 "LastUpdate": 1744201067
             },
@@ -4044,6 +4044,15 @@
         "repo_name": "NostraPlugins",
         "repo_developer_name": "NostraThomas99",
         "plugins": [
+            {
+                "Author": "NostraThomas",
+                "Name": "BuyHard",
+                "InternalName": "BuyHelper",
+                "Description": "Helps you buy items in bulk",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NostraThomas99/BuyHelper",
+                "LastUpdate": 1751680278
+            },
             {
                 "Author": "NostraThomas",
                 "Name": "Scrounger",
@@ -5506,7 +5515,7 @@
                 "Description": "Shows level ranges in zones.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Seathasky/ZoneLevelGuide",
-                "LastUpdate": 1751148584
+                "LastUpdate": 1751675197
             }
         ]
     },
