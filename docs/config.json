@@ -1684,9 +1684,9 @@
                 "Name": "pvpauto",
                 "InternalName": "pvpauto",
                 "Description": "一个简单的绿色插件。",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-                "LastUpdate": 1746350046
+                "LastUpdate": 1751804679
             },
             {
                 "Author": "Taurenkey (Puni.sh),Errer(国服本地化)",
@@ -1852,7 +1852,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1751700315
+                "LastUpdate": 1751787985
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5038,6 +5038,23 @@
     },
     {
         "repo_developer_name": "rail2025",
+        "repo_url": "https://raw.githubusercontent.com/rail2025/AetherBreakout/main/repo.json",
+        "repo_source_url": "https://github.com/rail2025/AetherBreakout",
+        "repo_name": "AetherBreakout",
+        "plugins": [
+            {
+                "Author": "rail",
+                "Name": "AetherBreakout",
+                "InternalName": "AetherBreakout",
+                "Description": "A Breakout clone to play during queue times.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/rail2025/AetherBreakout",
+                "LastUpdate": 1751794180
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "rail2025",
         "repo_url": "https://raw.githubusercontent.com/rail2025/AetherDraw/master/repo.json",
         "repo_source_url": "https://github.com/rail2025/AetherDraw",
         "repo_name": "AetherDraw",
@@ -5937,7 +5954,7 @@
                 "Description": "This plugin silences all text sound effects and quick chat while in PvP zones. No Configuration needed! Just install and forget.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/spide-r/SoundEffectMuter",
-                "LastUpdate": 1751725549
+                "LastUpdate": 1751804898
             }
         ]
     },
@@ -6335,7 +6352,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1751708483
+                "LastUpdate": 1751805338
             }
         ]
     },
@@ -6662,7 +6679,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1751778512
+                "LastUpdate": 1751797491
             },
             {
                 "Author": "daemitus, kawaii",
