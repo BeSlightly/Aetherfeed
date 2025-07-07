@@ -1878,7 +1878,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1751888417
+                "LastUpdate": 1751898915
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2604,7 +2604,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1751846587
+                "LastUpdate": 1751913341
             }
         ]
     },
@@ -3159,7 +3159,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1750660846
+                "LastUpdate": 1751905114
             }
         ]
     },
@@ -3704,141 +3704,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/NightmareXIV/MyDalamudPlugins",
-        "is_allowed_mega_repo": true,
-        "repo_name": "MyDalamudPlugins",
-        "repo_developer_name": "NightmareXIV",
-        "plugins": [
-            {
-                "Author": "NightmareXIV",
-                "Name": "AntiAfkKick",
-                "InternalName": "AntiAfkKick-Dalamud",
-                "Description": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
-                "LastUpdate": 1742947895
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "Battlevest",
-                "InternalName": "Battlevest",
-                "Description": "A plugin to help you farm battle levequests",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/Battlevest",
-                "LastUpdate": 1750836522
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "DSR Toolbox",
-                "InternalName": "DSREyeLocator",
-                "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/DSREyeLocator",
-                "LastUpdate": 1743027831
-            },
-            {
-                "Author": "NightmareXIV, AsunaTsuki",
-                "Name": "DynamicBridge",
-                "InternalName": "DynamicBridge",
-                "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
-                "LastUpdate": 1749876845
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "HuntTrainAssistant",
-                "InternalName": "HuntTrainAssistant",
-                "Description": "Provides useful tools for hunt trains such as: highlighting conductor messages and muting all other chat, auto-opening flags from conductors and auto-teleporting to announced destination.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/HuntTrainAssistant",
-                "LastUpdate": 1751224133
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "Imagenation",
-                "InternalName": "Imagenation",
-                "Description": "An image drawing backend. To be used together with Triggernometry.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/Imagenation",
-                "LastUpdate": 1743034255
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "Lifestream",
-                "InternalName": "Lifestream",
-                "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1750923034
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "ObjectExplorer",
-                "InternalName": "ObjectExplorer",
-                "Description": "A convenient way to explore current objects around you. Currently supports players only.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/ObjectExplorer",
-                "LastUpdate": 1750395795
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "Prioritizer",
-                "InternalName": "Prioritizer",
-                "Description": "Prioritizer sets game's priority to high while crafting. No more failed crafts due to random lags while game is minimized.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/Prioritizer",
-                "LastUpdate": 1743027081
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "SelectString",
-                "InternalName": "SelectString",
-                "Description": "Numpad is also supported.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/SelectString",
-                "LastUpdate": 1747321945
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "Stylist",
-                "InternalName": "Stylist",
-                "Description": "Gear manager that will watch your gearset for possible upgrades and upgrade them via single command.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/Stylist",
-                "LastUpdate": 1743019983
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "TextAdvance",
-                "InternalName": "TextAdvance",
-                "Description": "Quest speedrunning assistance tool. Automatically confirm quest acceptation and completion, skip subtitles, cutscenes and most of prompts.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
-                "LastUpdate": 1750836497
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "UnloadErrorFuckOff",
-                "InternalName": "UnloadErrorFuckOff",
-                "Description": "[For plugin developers only] A plugin that clears off load and unload errors. Plugin development is made easy once again!",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/UnloadErrorFuckOff",
-                "LastUpdate": 1743034157
-            },
-            {
-                "Author": "NightmareXIV",
-                "Name": "WeathermanExtras",
-                "InternalName": "WExtras",
-                "Description": "Experimental Weatherman functions. Use at your own risk.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NightmareXIV/WExtras",
-                "LastUpdate": 1743027948
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/NiGuangOwO/DalamudPlugins",
         "is_allowed_mega_repo": true,
@@ -4364,7 +4229,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1750660846
+                "LastUpdate": 1751905114
             },
             {
                 "Author": "Ottermandias",
@@ -6091,7 +5956,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1750660846
+                "LastUpdate": 1751905114
             },
             {
                 "Author": "Ottermandias",
@@ -6368,7 +6233,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1751878884
+                "LastUpdate": 1751909718
             }
         ]
     },
