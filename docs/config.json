@@ -1860,7 +1860,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1750261980
+                "LastUpdate": 1751936908
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1878,7 +1878,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1751898915
+                "LastUpdate": 1751924967
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1942,7 +1942,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1751857766
+                "LastUpdate": 1751914924
             },
             {
                 "Author": "Herculezz",
@@ -3700,6 +3700,141 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NicciX/WoLuaX",
                 "LastUpdate": 1749308934
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/NightmareXIV/MyDalamudPlugins",
+        "is_allowed_mega_repo": true,
+        "repo_name": "MyDalamudPlugins",
+        "repo_developer_name": "NightmareXIV",
+        "plugins": [
+            {
+                "Author": "NightmareXIV",
+                "Name": "AntiAfkKick",
+                "InternalName": "AntiAfkKick-Dalamud",
+                "Description": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
+                "LastUpdate": 1742947895
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Battlevest",
+                "InternalName": "Battlevest",
+                "Description": "",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/Battlevest",
+                "LastUpdate": 1750836522
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "DSR Toolbox",
+                "InternalName": "DSREyeLocator",
+                "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/DSREyeLocator",
+                "LastUpdate": 1743027831
+            },
+            {
+                "Author": "NightmareXIV, AsunaTsuki",
+                "Name": "DynamicBridge",
+                "InternalName": "DynamicBridge",
+                "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
+                "LastUpdate": 1749876845
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "HuntTrainAssistant",
+                "InternalName": "HuntTrainAssistant",
+                "Description": "Provides useful tools for hunt trains such as: highlighting conductor messages and muting all other chat, auto-opening flags from conductors and auto-teleporting to announced destination.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/HuntTrainAssistant",
+                "LastUpdate": 1751224133
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Imagenation",
+                "InternalName": "Imagenation",
+                "Description": "An image drawing backend. To be used together with Triggernometry.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/Imagenation",
+                "LastUpdate": 1743034255
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Lifestream",
+                "InternalName": "Lifestream",
+                "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+                "LastUpdate": 1751905069
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "ObjectExplorer",
+                "InternalName": "ObjectExplorer",
+                "Description": "A convenient way to explore current objects around you. Currently supports players only.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/ObjectExplorer",
+                "LastUpdate": 1750395795
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Prioritizer",
+                "InternalName": "Prioritizer",
+                "Description": "Prioritizer sets game's priority to high while crafting. No more failed crafts due to random lags while game is minimized.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/Prioritizer",
+                "LastUpdate": 1743027081
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "SelectString",
+                "InternalName": "SelectString",
+                "Description": "Numpad is also supported.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/SelectString",
+                "LastUpdate": 1747321945
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Stylist",
+                "InternalName": "Stylist",
+                "Description": "Gear manager that will watch your gearset for possible upgrades and upgrade them via single command.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/Stylist",
+                "LastUpdate": 1743019983
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "TextAdvance",
+                "InternalName": "TextAdvance",
+                "Description": "",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
+                "LastUpdate": 1750836497
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "UnloadErrorFuckOff",
+                "InternalName": "UnloadErrorFuckOff",
+                "Description": "[For plugin developers only] A plugin that clears off load and unload errors. Plugin development is made easy once again!",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/UnloadErrorFuckOff",
+                "LastUpdate": 1743034157
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "WeathermanExtras",
+                "InternalName": "WExtras",
+                "Description": "Experimental Weatherman functions. Use at your own risk.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/WExtras",
+                "LastUpdate": 1743027948
             }
         ]
     },
@@ -5887,7 +6022,7 @@
                 "Description": "Skip cutscenes in \"Castrum Meridianum\", \"The Praetorium\", and \"The Porta Decumana\"!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/StackBLU/MSQCutsceneSkipper",
-                "LastUpdate": 1743945332
+                "LastUpdate": 1751933751
             }
         ]
     },
@@ -5904,7 +6039,7 @@
                 "Description": "Brand new combos like never before - 1 button mode included! Features extra functionality not in other combo plugins like PvP, Blue Mage, Eureka, and Bozja!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/StackBLU/UltimateCombo",
-                "LastUpdate": 1751652221
+                "LastUpdate": 1751932072
             }
         ]
     },
@@ -6560,7 +6695,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1751830006
+                "LastUpdate": 1751939274
             },
             {
                 "Author": "daemitus, kawaii",
