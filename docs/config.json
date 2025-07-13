@@ -462,6 +462,23 @@
         ]
     },
     {
+        "repo_developer_name": "apoclol",
+        "repo_url": "https://raw.githubusercontent.com/apoclol/ffxiv-en-jp-translator/main/repo.json",
+        "repo_source_url": "https://github.com/apoclol/ffxiv-en-jp-translator",
+        "repo_name": "ffxiv-en-jp-translator",
+        "plugins": [
+            {
+                "Author": "Apoc",
+                "Name": "English to Japanese Quick Phrases",
+                "InternalName": "FFXIVEnglishToJapaneseQuickPhrases",
+                "Description": "[WIP] Browse categorized English-Japanese phrases and copy translations to clipboard. Features auto-translation of Japanese chat to English. Use /translate to open.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/apoclol/ffxiv-en-jp-translator",
+                "LastUpdate": 1752425337
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ArisuTW",
         "repo_url": "https://raw.githubusercontent.com/ArisuTW/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/ArisuTW/DalamudPlugins",
@@ -767,7 +784,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1752255975
+                "LastUpdate": 1752421712
             },
             {
                 "Author": "veyn",
@@ -1336,7 +1353,7 @@
                 "Description": "（国际服专用版本）View party composition & player info while staying out of party",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1752349437,
+                "LastUpdate": 1752423349,
                 "is_closed_source": true
             },
             {
@@ -1860,7 +1877,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1752375958
+                "LastUpdate": 1752416105
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4502,12 +4519,12 @@
         "plugins": [
             {
                 "Author": "Paparogue",
-                "Name": "AutoPartyFinder",
+                "Name": "[ALPHA] AutoPartyFinder",
                 "InternalName": "AutoPartyFinder",
                 "Description": "Automate Party Finder recruitment with a single button click.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Paparogue",
-                "LastUpdate": 1750625438
+                "LastUpdate": 1752411467
             },
             {
                 "Author": "Paparogue",
@@ -6686,7 +6703,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1752165905
+                "LastUpdate": 1752419758
             },
             {
                 "Author": "daemitus, kawaii",
@@ -7210,6 +7227,23 @@
                 "DalamudApiLevel": 10,
                 "RepoUrl": "https://github.com/zhudotexe/FFXIV_VieraVoice4",
                 "LastUpdate": 1720415426
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ZhyraPlugins",
+        "repo_url": "https://raw.githubusercontent.com/ZhyraPlugins/repo/main/plugins.json",
+        "repo_source_url": "https://github.com/ZhyraPlugins/repo",
+        "repo_name": "repo",
+        "plugins": [
+            {
+                "Author": "Zhyra",
+                "Name": "SimpleTimers",
+                "InternalName": "SimpleTimers",
+                "Description": "Create customizable timers for all your needs. /stimers",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/ZhyraPlugins/SimpleTimers",
+                "LastUpdate": 1752420440
             }
         ]
     },
