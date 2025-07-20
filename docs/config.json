@@ -251,6 +251,49 @@
         ]
     },
     {
+        "repo_url": "https://github.com/Aireil/MyDalamudPlugins/raw/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/Aireil/MyDalamudPlugins",
+        "repo_name": "MyDalamudPlugins",
+        "repo_developer_name": "Aireil",
+        "plugins": [
+            {
+                "Author": "Aireil",
+                "Name": "FF Logs Viewer",
+                "InternalName": "FFLogsViewer",
+                "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
+                "LastUpdate": 1745590673
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/AjisaiMirai/plugins/raw/main/repo.json",
+        "repo_source_url": "https://github.com/AjisaiMirai/plugins",
+        "repo_name": "plugins",
+        "repo_developer_name": "AjisaiMirai",
+        "plugins": [
+            {
+                "Author": "Mirai",
+                "Name": "MiscPlugin",
+                "InternalName": "MiscPlugin",
+                "Description": "Just some stuff I wanted in plugin-form really.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/AjisaiMirai/MiscPlugin",
+                "LastUpdate": 1732695810
+            },
+            {
+                "Author": "Mirai",
+                "Name": "Who emoted at me",
+                "InternalName": "WhoEmotedAtMe",
+                "Description": "Ever been afk and people try to socialize, but you're unsure if they tried to interact? Now! You'll always know if emoted at you! You afking fucking sack of shit.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/AjisaiMirai/plugins",
+                "LastUpdate": 1732695810
+            }
+        ]
+    },
+    {
         "repo_developer_name": "allanahkk",
         "repo_url": "https://raw.githubusercontent.com/allanahkk/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/allanahkk/DalamudPlugins",
@@ -741,7 +784,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1752940215
+                "LastUpdate": 1753031543
             },
             {
                 "Author": "veyn",
@@ -1051,6 +1094,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/cfsen/Ktisis/raw/main/repo.json",
+        "repo_source_url": "https://github.com/cfsen/Ktisis",
+        "repo_name": "Ktisis",
+        "repo_developer_name": "cfsen",
+        "plugins": [
+            {
+                "Author": "Chirp",
+                "Name": "Ktisis",
+                "InternalName": "Ktisis",
+                "Description": "A robust posing tool for creating screenshots in GPose.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
+                "LastUpdate": 1743124332
+            }
+        ]
+    },
+    {
         "repo_developer_name": "chalkos",
         "repo_url": "https://raw.githubusercontent.com/chalkos/Marketbuddy/main/repo.json",
         "repo_source_url": "https://github.com/chalkos/Marketbuddy",
@@ -1302,7 +1362,7 @@
                 "Description": "如果你的网络环境不能稳定的访问 Github，那么可以试试本插件提供的 Github 加速服务，我们提供一系列优化以加速插件管理器的加载/下载",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
-                "LastUpdate": 1751056037
+                "LastUpdate": 1753025222
             },
             {
                 "Author": "decorwdyun",
@@ -4835,7 +4895,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1752977446
+                "LastUpdate": 1753031571
             }
         ]
     },
@@ -5295,7 +5355,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1752919918
+                "LastUpdate": 1753032643
             },
             {
                 "Author": "Ricimon",
@@ -6694,7 +6754,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1752950835
+                "LastUpdate": 1753030241
             },
             {
                 "Author": "daemitus, kawaii",
