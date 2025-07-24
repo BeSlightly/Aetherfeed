@@ -666,7 +666,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1753194907,
+                "LastUpdate": 1753375446,
                 "is_closed_source": true
             },
             {
@@ -1389,7 +1389,7 @@
                 "Description": "（国际服专用版本）View party composition & player info while staying out of party",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1753361173,
+                "LastUpdate": 1753376604,
                 "is_closed_source": true
             },
             {
@@ -1799,7 +1799,7 @@
                 "Description": "通过条件触发实现郊狼的控制，对接Coyote。顺带支持一些RP小功能。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/extrant/Coyote-FFXiv",
-                "LastUpdate": 1740556221
+                "LastUpdate": 1753370839
             },
             {
                 "Author": "Siren",
@@ -1808,7 +1808,7 @@
                 "Description": "Chinese plugin, highly illegal FFXIV modification - provides many cheating features, but requires registration on their discord server",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1753277717,
+                "LastUpdate": 1753370805,
                 "is_closed_source": true
             },
             {
@@ -1818,7 +1818,7 @@
                 "Description": "5v5天才妹妹为您服务",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1753277717
+                "LastUpdate": 1753370805
             }
         ]
     },
@@ -1877,7 +1877,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1753347541
+                "LastUpdate": 1753382285
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4709,6 +4709,15 @@
         "plugins": [
             {
                 "Author": "Pistachio Herald",
+                "Name": "Autogardener",
+                "InternalName": "Autogardener",
+                "Description": "Tend to your plot in one click. Type /autog to start.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Pistachio-dev/FFXIV_Autogardener",
+                "LastUpdate": 1753377867
+            },
+            {
+                "Author": "Pistachio Herald",
                 "Name": "Cards Agains Hyurmanity",
                 "InternalName": "CardsAgainstHyurmanity",
                 "Description": "Play cards against humanity over game chat. Type /cah to open the main window.",
@@ -4742,6 +4751,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Pistachio-dev/TruthOrDareHelper",
                 "LastUpdate": 1747738415
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Pistachio-dev",
+        "repo_url": "https://raw.githubusercontent.com/Pistachio-dev/FFXIV_Autogardener/master/Repo.json",
+        "repo_source_url": "https://github.com/Pistachio-dev/FFXIV_Autogardener",
+        "repo_name": "FFXIV_Autogardener",
+        "plugins": [
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Autogardener",
+                "InternalName": "Autogardener",
+                "Description": "Tend to your plot in one click. Type /autog to start.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Pistachio-dev/FFXIV_Autogardener",
+                "LastUpdate": 1753377867
             }
         ]
     },
@@ -5407,7 +5433,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1753337109
+                "LastUpdate": 1753378102
             },
             {
                 "Author": "Ricimon",
@@ -5880,7 +5906,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1753074887
+                "LastUpdate": 1753370528
             }
         ]
     },
@@ -6797,7 +6823,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1753074887
+                "LastUpdate": 1753370528
             },
             {
                 "Author": "Team Wrath",
