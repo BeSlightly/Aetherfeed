@@ -773,7 +773,7 @@
                 "Description": "Extend the target hitbox by 3 yards (farthest allowed before your attack actions get invalidated by the server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Atomoxide/DalamudPluginRepo/tree/main/TestPlugin",
-                "LastUpdate": 1753505974,
+                "LastUpdate": 1753573465,
                 "is_closed_source": true
             }
         ],
@@ -1895,7 +1895,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1752956316
+                "LastUpdate": 1753562169
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1913,7 +1913,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1753396967
+                "LastUpdate": 1753559202
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2449,7 +2449,7 @@
                 "Description": "Character Select+ allows you to create, save, and instantly apply fully customized character profiles with the press of a button. Switch between your OCs effortlessly using /select CharacterName, applying Penumbra Collections, Glamourer Designs, Customize+ Profiles, and Honorific Titles in one command.\n\nWhile profile switching is its core purpose, Character Select+ includes additional features:\n✔ Advanced Mode – Create custom macro setups for deeper character customization.\n✔ Profile-Specific Designs – Use multiple outfits, styles, and looks per character.\n✔ Favorites & Sorting – Keep profiles organized by name, date, or importance.\n✔ Quick Swap Bar! \n✔ One-Click Macro Execution – Run predefined commands instantly when selecting a character.\n\nWhether you're roleplaying, gposing, or just love quick customization, Character Select+ makes switching between characters faster, easier, and seamless.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/IcarusXIV/Character-Select-",
-                "LastUpdate": 1753548409
+                "LastUpdate": 1753555499
             }
         ]
     },
@@ -5906,7 +5906,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1753370528
+                "LastUpdate": 1753562779
             }
         ]
     },
@@ -6495,7 +6495,7 @@
                 "Description": "Turn everyone around you into a nudist.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/tigurand/OopsAllNudist",
-                "LastUpdate": 1753504593
+                "LastUpdate": 1753574386
             },
             {
                 "Author": "Lucille",
@@ -6823,7 +6823,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1753370528
+                "LastUpdate": 1753562779
             },
             {
                 "Author": "Team Wrath",
@@ -6887,6 +6887,15 @@
         "repo_source_url": "https://github.com/VariableVixen/MyDalamudPlugins",
         "repo_name": "MyDalamudPlugins",
         "plugins": [
+            {
+                "Author": "VariableVixen",
+                "Name": "BetterFateList",
+                "InternalName": "BetterFateList",
+                "Description": "Provides a list of all FATEs in the current zone, with their type, sorted by maximum level and distance from you.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/VariableVixen/BetterFateList",
+                "LastUpdate": 1753559030
+            },
             {
                 "Author": "VariableVixen",
                 "Name": "TinyCommands",
