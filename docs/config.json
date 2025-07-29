@@ -657,7 +657,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1753680551,
+                "LastUpdate": 1753781060,
                 "is_closed_source": true
             },
             {
@@ -1670,63 +1670,6 @@
         ]
     },
     {
-        "repo_url": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Errerer/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "repo_developer_name": "Errerer",
-        "plugins": [
-            {
-                "Author": "Fragile,Errer(维护）",
-                "Name": "CharaCradThief",
-                "InternalName": "CharaCradThief",
-                "Description": "Chinese Plugin to export Adventurer Plates to strings, compatible with HaselTweaks Portrait Editor. (Requires registration on their discord server)",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/CharaCradThiefgl",
-                "LastUpdate": 1744551220,
-                "is_closed_source": true
-            },
-            {
-                "Author": "Fragile,Errer(维护）",
-                "Name": "CharaCradThief(API12)",
-                "InternalName": "CharaCradThief",
-                "Description": "Chinese Plugin to export Adventurer Plates to strings, compatible with HaselTweaks Portrait Editor. (Requires registration on their discord server)",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/CharaCradThiefgl",
-                "LastUpdate": 1744551220,
-                "is_closed_source": true
-            },
-            {
-                "Author": "akira0245,Errer(APIX)",
-                "Name": "EasyZoom",
-                "InternalName": "EasyZoom",
-                "Description": "轻松的变焦距离解锁和焦点控制。 /ezoom to open config panel",
-                "DalamudApiLevel": 10,
-                "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/EasyZoom",
-                "LastUpdate": 1719770130,
-                "is_closed_source": true
-            },
-            {
-                "Author": "Errer",
-                "Name": "pvpauto",
-                "InternalName": "pvpauto",
-                "Description": "一个简单的绿色插件。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-                "LastUpdate": 1751804679
-            },
-            {
-                "Author": "Taurenkey (Puni.sh),Errer(国服本地化)",
-                "Name": "Saucy",
-                "InternalName": "SaucyX",
-                "Description": "自动执行某些金蝶小游戏,解除国服限制",
-                "DalamudApiLevel": 10,
-                "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/Saucy",
-                "LastUpdate": 1727708462,
-                "is_closed_source": true
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/Etheirys/Brio/raw/main/repo.json",
         "repo_source_url": "https://github.com/Etheirys/Brio",
         "repo_name": "Brio",
@@ -1868,7 +1811,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1753698469
+                "LastUpdate": 1753785829
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3736,6 +3679,23 @@
         ]
     },
     {
+        "repo_developer_name": "msew11",
+        "repo_url": "https://raw.githubusercontent.com/msew11/DalamudPlugins/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/msew11/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "msew11",
+                "Name": "FakeName",
+                "InternalName": "FakeName",
+                "Description": "支持多角色：名牌，宠物名牌，选角界面，小队列表，目标信息，焦点，倒计时通知。\n支持当前角色：角色信息，好友，部队，通讯贝\n不支持：聊天面板",
+                "DalamudApiLevel": 10,
+                "RepoUrl": "https://github.com/msew11/FakeName",
+                "LastUpdate": 1740981238
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/MusicalPanini/PaninisXIVPluginDump/raw/main/repo.json",
         "repo_source_url": "https://github.com/MusicalPanini/PaninisXIVPluginDump",
         "repo_name": "PaninisXIVPluginDump",
@@ -4000,9 +3960,9 @@
                 "Name": "Nya Damage Prediction",
                 "InternalName": "NyaDamagePrediction",
                 "Description": "use /ndp to watch config",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDamagePrediction",
-                "LastUpdate": 1740303052,
+                "LastUpdate": 1753780877,
                 "is_closed_source": true
             },
             {
