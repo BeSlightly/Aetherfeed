@@ -623,7 +623,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1754377864,
+                "LastUpdate": 1754471572,
                 "is_closed_source": true
             },
             {
@@ -890,7 +890,7 @@
                 "Description": "Dynamic Button Generator",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Brappp/wahbuttons",
-                "LastUpdate": 1754447851
+                "LastUpdate": 1754474956
             },
             {
                 "Author": "wah",
@@ -926,7 +926,7 @@
                 "Description": "Wrath Auto Toggle",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Brappp/Wrath-Icon",
-                "LastUpdate": 1754446337
+                "LastUpdate": 1754475078
             },
             {
                 "Author": "wah",
@@ -1012,7 +1012,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1748852374
+                "LastUpdate": 1754471556
             }
         ]
     },
@@ -1235,7 +1235,7 @@
                 "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/MKhayle/XIVComboExpanded",
-                "LastUpdate": 1743345338
+                "LastUpdate": 1754482731
             }
         ]
     },
@@ -1554,7 +1554,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1754443472
+                "LastUpdate": 1754471643
             }
         ]
     },
@@ -1588,7 +1588,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1754444977
+                "LastUpdate": 1754464135
             }
         ]
     },
@@ -1726,9 +1726,9 @@
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1754459388
+                "LastUpdate": 1754463729
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1792,7 +1792,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1754443516
+                "LastUpdate": 1754471636
             }
         ]
     },
@@ -2096,9 +2096,9 @@
                 "Name": "XIV Combo Expandedest",
                 "InternalName": "XIVComboExpandedest",
                 "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Grammernatzi/XIVComboPlugin",
-                "LastUpdate": 1748577134
+                "LastUpdate": 1754469198
             }
         ]
     },
@@ -2158,7 +2158,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1754443306
+                "LastUpdate": 1754470321
             },
             {
                 "Author": "Haselnussbomber",
@@ -2167,7 +2167,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1753813593
+                "LastUpdate": 1754477470
             },
             {
                 "Author": "Haselnussbomber",
@@ -2211,6 +2211,15 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/helpful-fox-senko-san/CatScan",
                 "LastUpdate": 1754444086
+            },
+            {
+                "Author": "a cat",
+                "Name": "OnlyTurbo",
+                "InternalName": "OnlyTurbo",
+                "Description": "Turbo horbar buttons only. Conflicts with and copied from ReAction by UnknownX7.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/helpful-fox-senko-san/OnlyTurbo",
+                "LastUpdate": 1754468324
             },
             {
                 "Author": "a cat",
@@ -3178,7 +3187,7 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1754396523
+                "LastUpdate": 1754479222
             }
         ]
     },
@@ -4045,7 +4054,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1754444977
+                "LastUpdate": 1754464135
             },
             {
                 "Author": "Risa",
@@ -4126,7 +4135,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1748852374
+                "LastUpdate": 1754471556
             }
         ],
         "repo_developer_name": "Ottermandias"
@@ -5324,7 +5333,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1754444977
+                "LastUpdate": 1754464135
             }
         ]
     },
@@ -5675,9 +5684,9 @@
                 "Name": "CCAnonymizer",
                 "InternalName": "CCAnonymizer",
                 "Description": "Hides Adventurer plates, Usernames, and Player Appearance when in Crystaline Conflict. Enjoy worry-free laddering!",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/spide-r/CCAnonymizer",
-                "LastUpdate": 1747071982
+                "LastUpdate": 1754483458
             }
         ]
     },
@@ -5745,7 +5754,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1754444977
+                "LastUpdate": 1754464135
             },
             {
                 "Author": "Risa",
@@ -5826,7 +5835,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1748852374
+                "LastUpdate": 1754471556
             }
         ]
     },
@@ -6496,9 +6505,9 @@
                 "Name": "Mercury's Eye",
                 "InternalName": "Mercury",
                 "Description": "A search plugin that allows searching through all world and data centers.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/MercurysEye",
-                "LastUpdate": 1754429156
+                "LastUpdate": 1754478936
             }
         ]
     },
@@ -6515,7 +6524,7 @@
                 "Description": "Teleport hack plugin",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WINDOWCOLLAPSIBLE/404notfound",
-                "LastUpdate": 1754450645,
+                "LastUpdate": 1754464840,
                 "is_closed_source": true
             }
         ]
@@ -6533,7 +6542,7 @@
                 "Description": "Ever wanted a kill feed ala Battlefield and Modern Warfare? Well now you can with AllaganKillFeed.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/wolfcomp/AllaganKillFeed",
-                "LastUpdate": 1754460262
+                "LastUpdate": 1754469586
             },
             {
                 "Author": "WildWolf",
@@ -6670,9 +6679,9 @@
                 "Name": "PikuminMarker",
                 "InternalName": "PikuminMarker",
                 "Description": "Puts a marker on the specified player. If the target player travels to DC, the internal ID will change and the marker will be invalid.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/yasatoma/MyDalamudPlugins/tree/master/plugins/PikuminMarker",
-                "LastUpdate": 1743037808,
+                "LastUpdate": 1754478748,
                 "is_closed_source": true
             }
         ]
@@ -6734,7 +6743,7 @@
                 "Description": "For when you want to know how much you spend/earn in ffxiv!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/yschuurmans/FFXIVMoneyTracker",
-                "LastUpdate": 1754390349
+                "LastUpdate": 1754467642
             }
         ]
     },
@@ -6751,7 +6760,7 @@
                 "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
-                "LastUpdate": 1743345338
+                "LastUpdate": 1754482731
             }
         ]
     },
