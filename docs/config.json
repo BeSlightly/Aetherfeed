@@ -750,7 +750,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1754259253
+                "LastUpdate": 1754494115
             },
             {
                 "Author": "veyn",
@@ -777,7 +777,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1754235222
+                "LastUpdate": 1754494040
             },
             {
                 "Author": "veyn",
@@ -1157,7 +1157,7 @@
                 "Description": "This plugin allows the configuration and customization of in-game flytext.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/cultbaus/CBT",
-                "LastUpdate": 1754397287
+                "LastUpdate": 1754497623
             }
         ]
     },
@@ -1554,7 +1554,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1754471643
+                "LastUpdate": 1754504467
             }
         ]
     },
@@ -1588,7 +1588,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1754464135
+                "LastUpdate": 1754490703
             }
         ]
     },
@@ -1683,7 +1683,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1754442680
+                "LastUpdate": 1754500599
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1728,7 +1728,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1754463729
+                "LastUpdate": 1754497679
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2235,9 +2235,9 @@
                 "Name": "PalaceBuddy",
                 "InternalName": "PalaceBuddy",
                 "Description": "Efficient PalacePal reimplementation",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/helpful-fox-senko-san/PalaceBuddy",
-                "LastUpdate": 1747570761
+                "LastUpdate": 1754503848
             }
         ]
     },
@@ -2904,7 +2904,7 @@
                 "Description": "A cosmic exploration helper that lets you automize crafting and gathering missions",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1754460938
+                "LastUpdate": 1754493402
             }
         ]
     },
@@ -3185,9 +3185,9 @@
                 "Name": "IINACT",
                 "InternalName": "IINACT",
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1754479222
+                "LastUpdate": 1754487892
             }
         ]
     },
@@ -3945,21 +3945,12 @@
             },
             {
                 "Author": "Faye",
-                "Name": "Ferret",
-                "InternalName": "Ferret",
-                "Description": "A library of goodies for working with Lua in SND",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/OhKannaDuh/Ferret",
-                "LastUpdate": 1753514276
-            },
-            {
-                "Author": "Faye",
                 "Name": "Twist Of Fayte",
                 "InternalName": "TwistOfFayte",
                 "Description": "You met with a terrible Fate. Haven't you?",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/OhKannaDuh/TwistOfFayte",
-                "LastUpdate": 1754240487
+                "LastUpdate": 1754492005
             }
         ]
     },
@@ -4054,7 +4045,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1754464135
+                "LastUpdate": 1754490703
             },
             {
                 "Author": "Risa",
@@ -4502,7 +4493,7 @@
                 "Description": "Artisan, but without the release build limitation.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754304595,
+                "LastUpdate": 1754503837,
                 "is_closed_source": true
             },
             {
@@ -4510,9 +4501,9 @@
                 "Name": "KtisisPyon v0.3",
                 "InternalName": "KtisisPyon",
                 "Description": "A multifaceted scene editor and posing tool for GPose. Pyon version includes several additional features which you can view on the repo page.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754304595,
+                "LastUpdate": 1754503837,
                 "is_closed_source": true
             },
             {
@@ -4520,9 +4511,9 @@
                 "Name": "PartyPyon",
                 "InternalName": "PartyPyon",
                 "Description": "Automatically recreate party finder listing.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754304595,
+                "LastUpdate": 1754503837,
                 "is_closed_source": true
             },
             {
@@ -4530,9 +4521,9 @@
                 "Name": "PyonCam",
                 "InternalName": "PyonCam",
                 "Description": "Configure presets for custom camera properties & features a freecam mode. Based on Cammy but with a simplified UI & various bug fixes.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754304595,
+                "LastUpdate": 1754503837,
                 "is_closed_source": true
             },
             {
@@ -4540,9 +4531,9 @@
                 "Name": "SoundPyon",
                 "InternalName": "SoundPyon",
                 "Description": "Filter out sounds that you don't like!",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754304595,
+                "LastUpdate": 1754503837,
                 "is_closed_source": true
             },
             {
@@ -4550,9 +4541,9 @@
                 "Name": "TargetPyon",
                 "InternalName": "TargetPyon",
                 "Description": "Track who is targeting you in an overlay list.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754304595,
+                "LastUpdate": 1754503837,
                 "is_closed_source": true
             },
             {
@@ -4560,9 +4551,9 @@
                 "Name": "TriggerPyon",
                 "InternalName": "TriggerPyon",
                 "Description": "Conditionally trigger counter/emote/command/title reactions.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754304595
+                "LastUpdate": 1754503837
             }
         ]
     },
@@ -4622,7 +4613,7 @@
                 "Description": "Chronofoil is a plugin that allows you to capture in-game packets for analysis later.\nIt also allows you to upload a censored version of these captures to a central repository for\npreservation and analysis. Privacy controls are at the center of Chronofoil, which is why it\nrequires two levels of user opt-in, has minimum delays on releasing any submitted user info,\nand allows users to delete their submitted data at any time.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/ProjectChronofoil/Chronofoil.Plugin",
-                "LastUpdate": 1754452097
+                "LastUpdate": 1754495452
             }
         ]
     },
@@ -5333,7 +5324,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1754464135
+                "LastUpdate": 1754490703
             }
         ]
     },
@@ -5435,7 +5426,7 @@
                 "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
-                "LastUpdate": 1754428008
+                "LastUpdate": 1754496524
             }
         ]
     },
@@ -5504,7 +5495,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1754436651
+                "LastUpdate": 1754502382
             }
         ]
     },
@@ -5686,7 +5677,7 @@
                 "Description": "Hides Adventurer plates, Usernames, and Player Appearance when in Crystaline Conflict. Enjoy worry-free laddering!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/spide-r/CCAnonymizer",
-                "LastUpdate": 1754483458
+                "LastUpdate": 1754488782
             }
         ]
     },
@@ -5754,7 +5745,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1754464135
+                "LastUpdate": 1754490703
             },
             {
                 "Author": "Risa",
@@ -6206,7 +6197,7 @@
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
                 "LastUpdate": 1754451053
             },
@@ -6271,7 +6262,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1754436651
+                "LastUpdate": 1754502382
             },
             {
                 "Author": "Team Wrath",
@@ -6280,7 +6271,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1754128831
+                "LastUpdate": 1754492152
             },
             {
                 "Author": "daemitus, kawaii",
@@ -6524,7 +6515,7 @@
                 "Description": "Teleport hack plugin",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WINDOWCOLLAPSIBLE/404notfound",
-                "LastUpdate": 1754464840,
+                "LastUpdate": 1754487073,
                 "is_closed_source": true
             }
         ]
@@ -6603,7 +6594,7 @@
                 "Description": "Auto melds your gear",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xanunderscore/CopeSeetheMeld",
-                "LastUpdate": 1746910745
+                "LastUpdate": 1754494285
             }
         ]
     },
