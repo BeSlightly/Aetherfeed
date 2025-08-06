@@ -244,9 +244,9 @@
                 "Name": "FF Logs Viewer",
                 "InternalName": "FFLogsViewer",
                 "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1745590673
+                "LastUpdate": 1754507565
             }
         ]
     },
@@ -1683,7 +1683,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1754500599
+                "LastUpdate": 1754509003
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1728,7 +1728,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1754497679
+                "LastUpdate": 1754514327
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2167,7 +2167,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1754477470
+                "LastUpdate": 1754505321
             },
             {
                 "Author": "Haselnussbomber",
@@ -2331,7 +2331,7 @@
                 "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1745590673
+                "LastUpdate": 1754507565
             }
         ]
     },
@@ -3948,9 +3948,9 @@
                 "Name": "Twist Of Fayte",
                 "InternalName": "TwistOfFayte",
                 "Description": "You met with a terrible Fate. Haven't you?",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/OhKannaDuh/TwistOfFayte",
-                "LastUpdate": 1754492005
+                "LastUpdate": 1754513570
             }
         ]
     },
@@ -4011,7 +4011,7 @@
                 "Description": "A plugin that replaces the names of players in your party with preset names. Based on Nomina Occulta by anna.lgbt.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/OTCompa/john-finalfantasy",
-                "LastUpdate": 1754449165
+                "LastUpdate": 1754511030
             }
         ]
     },
@@ -4492,8 +4492,8 @@
                 "InternalName": "ArtisanPyon",
                 "Description": "Artisan, but without the release build limitation.",
                 "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754503837,
+                "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/ArtisanPyon.zip",
+                "LastUpdate": 1754304559,
                 "is_closed_source": true
             },
             {
@@ -4502,8 +4502,8 @@
                 "InternalName": "KtisisPyon",
                 "Description": "A multifaceted scene editor and posing tool for GPose. Pyon version includes several additional features which you can view on the repo page.",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754503837,
+                "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/KtisisPyon.zip",
+                "LastUpdate": 1754502147,
                 "is_closed_source": true
             },
             {
@@ -4512,8 +4512,8 @@
                 "InternalName": "PartyPyon",
                 "Description": "Automatically recreate party finder listing.",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754503837,
+                "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/PartyPyon.zip",
+                "LastUpdate": 1754494138,
                 "is_closed_source": true
             },
             {
@@ -4522,8 +4522,8 @@
                 "InternalName": "PyonCam",
                 "Description": "Configure presets for custom camera properties & features a freecam mode. Based on Cammy but with a simplified UI & various bug fixes.",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754503837,
+                "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/PyonCam.zip",
+                "LastUpdate": 1754497097,
                 "is_closed_source": true
             },
             {
@@ -4532,8 +4532,8 @@
                 "InternalName": "SoundPyon",
                 "Description": "Filter out sounds that you don't like!",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754503837,
+                "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/SoundPyon.zip",
+                "LastUpdate": 1754493621,
                 "is_closed_source": true
             },
             {
@@ -4542,8 +4542,8 @@
                 "InternalName": "TargetPyon",
                 "Description": "Track who is targeting you in an overlay list.",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754503837,
+                "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/TargetPyon.zip",
+                "LastUpdate": 1754493621,
                 "is_closed_source": true
             },
             {
@@ -4552,8 +4552,8 @@
                 "InternalName": "TriggerPyon",
                 "Description": "Conditionally trigger counter/emote/command/title reactions.",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1754503837
+                "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/TriggerPyon.zip",
+                "LastUpdate": 1754503344
             }
         ]
     },
