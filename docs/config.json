@@ -331,18 +331,18 @@
                 "Name": "ChatDeathRoll",
                 "InternalName": "ChatDeathRoll",
                 "Description": "Provides link buttons in chat for death rolling",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/ChatDeathRoll",
-                "LastUpdate": 1754426660
+                "LastUpdate": 1754588436
             },
             {
                 "Author": "Anya Hichu",
                 "Name": "DeterministicPose",
                 "InternalName": "DeterministicPose",
                 "Description": "Dalamud plugin that provides a deterministic cpose command",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
-                "LastUpdate": 1754427499
+                "LastUpdate": 1754589228
             },
             {
                 "Author": "Anya Hichu",
@@ -382,15 +382,6 @@
             },
             {
                 "Author": "Anya Hichu",
-                "Name": "Orderific",
-                "InternalName": "Orderific",
-                "Description": "Cycle through multiple honorific titles in order",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/anya-hichu/Orderific",
-                "LastUpdate": 1725101091
-            },
-            {
-                "Author": "Anya Hichu",
                 "Name": "PatMeHonorific",
                 "InternalName": "PatMeHonorific",
                 "Description": "Displays emote counters as honorific title dynamically",
@@ -412,9 +403,9 @@
                 "Name": "RecruitmentRefresher",
                 "InternalName": "RecruitmentRefresher",
                 "Description": "Refresh party finder recruitment automatically",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/RecruitmentRefresher",
-                "LastUpdate": 1754425965
+                "LastUpdate": 1754589802
             },
             {
                 "Author": "Anya Hichu",
@@ -758,9 +749,9 @@
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1754515125
+                "LastUpdate": 1754583157
             },
             {
                 "Author": "veyn",
@@ -769,7 +760,7 @@
                 "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/vfaux",
-                "LastUpdate": 1743087468
+                "LastUpdate": 1754586680
             },
             {
                 "Author": "veyn, croizat",
@@ -785,9 +776,9 @@
                 "Name": "vnavmesh",
                 "InternalName": "vnavmesh",
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1754539668
+                "LastUpdate": 1754584912
             },
             {
                 "Author": "veyn",
@@ -1364,27 +1355,27 @@
                 "Name": "BetterFriendList",
                 "InternalName": "BetterFriendList",
                 "Description": "Friend list but with better sorting, can search by name, refresh with a button, color names..\nRight click for context menu.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/devckuw/BetterFriendList",
-                "LastUpdate": 1747554073
+                "LastUpdate": 1754583609
             },
             {
                 "Author": "Loody",
                 "Name": "Combat Helper",
                 "InternalName": "combatHelper",
                 "Description": "Gives u a pot reminder, a timeline of fights, keep track of spread/stack ..",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/devckuw/combatHelper",
-                "LastUpdate": 1747512652
+                "LastUpdate": 1754583665
             },
             {
                 "Author": "Loody",
                 "Name": "DiscordBotFFXIV",
                 "InternalName": "DiscordBotFFXIV",
                 "Description": "Discord / FFXIV bot to send msg from discord to the game",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/devckuw/DiscordBotFFXIV",
-                "LastUpdate": 1743198953
+                "LastUpdate": 1754583784
             },
             {
                 "Author": "Loody",
@@ -1402,7 +1393,7 @@
                 "Description": "React to emotes with a command, can add different reaction to any person.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/devckuw/EmoteReact",
-                "LastUpdate": 1743199561
+                "LastUpdate": 1754583717
             }
         ]
     },
@@ -1701,7 +1692,7 @@
                 "Description": "Configurable timeline display of all the actions you use.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn",
-                "LastUpdate": 1754525229
+                "LastUpdate": 1754578947
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1710,7 +1701,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1754559586
+                "LastUpdate": 1754583211
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1755,7 +1746,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1754547304
+                "LastUpdate": 1754578761
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1819,7 +1810,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1754471636
+                "LastUpdate": 1754575387
             }
         ]
     },
@@ -2185,7 +2176,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1754568958
+                "LastUpdate": 1754570444
             },
             {
                 "Author": "Haselnussbomber",
@@ -2194,7 +2185,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1754536480
+                "LastUpdate": 1754571158
             },
             {
                 "Author": "Haselnussbomber",
@@ -2486,7 +2477,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1754121981
+                "LastUpdate": 1754577155
             },
             {
                 "Author": "croizat",
@@ -2495,7 +2486,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1754080738
+                "LastUpdate": 1754572540
             }
         ]
     },
@@ -2809,9 +2800,9 @@
                 "Name": "OopsAllLalafellsSRE",
                 "InternalName": "OopsAllLalafellsSRE",
                 "Description": "Turn everyone around you into Lalafells (or other races!)",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/kelvin124124/OopsAllLalafellsSRE",
-                "LastUpdate": 1748985384
+                "LastUpdate": 1754586969
             }
         ]
     },
@@ -2929,9 +2920,9 @@
                 "Name": "Ice's Cosmic Exploration (ICE)",
                 "InternalName": "ICE",
                 "Description": "A cosmic exploration helper that lets you automize crafting and gathering missions",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1754493402
+                "LastUpdate": 1754581544
             }
         ]
     },
@@ -3537,9 +3528,9 @@
                 "Name": "HuntTrainAssistant",
                 "InternalName": "HuntTrainAssistant",
                 "Description": "Provides useful tools for hunt trains such as: highlighting conductor messages and muting all other chat, auto-opening flags from conductors and auto-teleporting to announced destination.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NightmareXIV/HuntTrainAssistant",
-                "LastUpdate": 1754532461
+                "LastUpdate": 1754585664
             },
             {
                 "Author": "NightmareXIV",
@@ -3657,7 +3648,17 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1753968429,
+                "LastUpdate": 1754579365,
+                "is_closed_source": true
+            },
+            {
+                "Author": "NiGuangOwO",
+                "Name": "FuckAnimationLock (API13)",
+                "InternalName": "FuckAnimationLock",
+                "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
+                "LastUpdate": 1754579365,
                 "is_closed_source": true
             },
             {
@@ -3723,7 +3724,17 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1754213798,
+                "LastUpdate": 1754577045,
+                "is_closed_source": true
+            },
+            {
+                "Author": "NiGuangOwO, Small_Miao (moewcorp)",
+                "Name": "NyaDraw (API13)",
+                "InternalName": "NyaDraw",
+                "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
+                "LastUpdate": 1754577045,
                 "is_closed_source": true
             },
             {
@@ -3759,7 +3770,7 @@
                 "Description": "See how much damage your DoTs are dealing, finally we will know how salted the earth is",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Noevain/DotCalculator",
-                "LastUpdate": 1746644940
+                "LastUpdate": 1754590999
             }
         ]
     },
@@ -4106,9 +4117,9 @@
                 "Name": "Heliosphere",
                 "InternalName": "heliosphere-plugin",
                 "Description": "Heliosphere is a mod manager and platform designed to work directly with\nPenumbra. It enables efficient downloads and fast installs to let you get back\nto the fun part of mods: using them.\n\nHeliosphere supports:\n- Direct install to Penumbra\n- Compressed and deduplicated (read: small) downloads\n- Automatic updates (optional)\n- Version history\n- Mod changelogs\n- Pictures in Penumbra\n- And more\n\nGive Heliosphere a try, and see if you can't say goodbye to any old mod\nplatform you were using before.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://heliosphere.app/",
-                "LastUpdate": 1754264704
+                "LastUpdate": 1754571836
             },
             {
                 "Author": "Chirp",
@@ -4171,45 +4182,45 @@
                 "Name": "Chibi Omega",
                 "InternalName": "Chibi Omega",
                 "Description": "Plugin to apply a custom scale to the Omega beetle model (TOP and O11)",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/paissaheavyindustries/Chibi-Omega",
-                "LastUpdate": 1743045490
+                "LastUpdate": 1754584764
             },
             {
                 "Author": "Paissa Heavy Industries",
                 "Name": "Lemegeton",
                 "InternalName": "Lemegeton",
                 "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
-                "LastUpdate": 1744172116
+                "LastUpdate": 1754584137
             },
             {
                 "Author": "Paissa Heavy Industries",
                 "Name": "Tallafell",
                 "InternalName": "Tallafell",
                 "Description": "Plugin to apply a custom scale to lalafell models",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/paissaheavyindustries/Tallafell",
-                "LastUpdate": 1743045548
+                "LastUpdate": 1754584972
             },
             {
                 "Author": "Paissa Heavy Industries",
                 "Name": "Telesto",
                 "InternalName": "Telesto",
                 "Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
-                "LastUpdate": 1743045404
+                "LastUpdate": 1754584377
             },
             {
                 "Author": "Paissa Heavy Industries",
                 "Name": "Where's Mouse?",
                 "InternalName": "WheresMouse",
                 "Description": "An accessibility plugin to help you locate your mouse cursor when you need it the most.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/paissaheavyindustries/WheresMouse",
-                "LastUpdate": 1743045443
+                "LastUpdate": 1754584828
             }
         ]
     },
@@ -4296,7 +4307,7 @@
                 "Description": "Export models to glTF format.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1754556894
+                "LastUpdate": 1754577842
             }
         ]
     },
@@ -5539,7 +5550,7 @@
                 "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SheepGoMeh/Browsingway",
-                "LastUpdate": 1744383750
+                "LastUpdate": 1754588367
             }
         ]
     },
@@ -6084,7 +6095,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1754532743
+                "LastUpdate": 1754588707
             }
         ]
     },
@@ -6307,7 +6318,7 @@
                 "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-                "LastUpdate": 1752999252
+                "LastUpdate": 1754572450
             }
         ],
         "repo_developer_name": "Unknown Developer"
@@ -6761,7 +6772,7 @@
                 "Description": "For when you want to know how much you spend/earn in ffxiv!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/yschuurmans/FFXIVMoneyTracker",
-                "LastUpdate": 1754467642
+                "LastUpdate": 1754587693
             }
         ]
     },
