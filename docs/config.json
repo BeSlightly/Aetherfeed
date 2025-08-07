@@ -623,7 +623,17 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1754471572,
+                "LastUpdate": 1754553457,
+                "is_closed_source": true
+            },
+            {
+                "Author": "AtmoOmen",
+                "Name": "Daily Routines (API 13)",
+                "InternalName": "DailyRoutines",
+                "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
+                "LastUpdate": 1754553457,
                 "is_closed_source": true
             },
             {
@@ -810,6 +820,23 @@
     },
     {
         "repo_developer_name": "Blooym",
+        "repo_url": "https://raw.githubusercontent.com/Blooym/Dalamud.Travelcase/main/repo.json",
+        "repo_source_url": "https://github.com/Blooym/Dalamud.Travelcase",
+        "repo_name": "Dalamud.Travelcase",
+        "plugins": [
+            {
+                "Author": "Blooym",
+                "Name": "Travelcase",
+                "InternalName": "Travelcase",
+                "Description": "Allows for automatic changing of Gearsets/Glamours upon entering new zones, with a 'Roleplay Only' mode for those who want to only use it for RP purposes.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Blooym/Travelcase",
+                "LastUpdate": 1754550991
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Blooym",
         "repo_url": "https://raw.githubusercontent.com/Blooym/Travelcase/main/repo.json",
         "repo_source_url": "https://github.com/Blooym/Travelcase",
         "repo_name": "Travelcase",
@@ -821,7 +848,7 @@
                 "Description": "Allows for automatic changing of Gearsets/Glamours upon entering new zones, with a 'Roleplay Only' mode for those who want to only use it for RP purposes.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Blooym/Travelcase",
-                "LastUpdate": 1745697801
+                "LastUpdate": 1754550991
             }
         ]
     },
@@ -1554,7 +1581,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1754504467
+                "LastUpdate": 1754556890
             }
         ]
     },
@@ -1588,7 +1615,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1754515034
+                "LastUpdate": 1754563484
             }
         ]
     },
@@ -1683,7 +1710,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1754545557
+                "LastUpdate": 1754559586
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1701,7 +1728,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1754523835
+                "LastUpdate": 1754549472
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2156,9 +2183,9 @@
                 "Name": "HaselDebug",
                 "InternalName": "HaselDebug",
                 "Description": "For developers.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1754470321
+                "LastUpdate": 1754568958
             },
             {
                 "Author": "Haselnussbomber",
@@ -3537,9 +3564,9 @@
                 "Name": "ObjectExplorer",
                 "InternalName": "ObjectExplorer",
                 "Description": "A convenient way to explore current objects around you. Currently supports players only.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NightmareXIV/ObjectExplorer",
-                "LastUpdate": 1750395795
+                "LastUpdate": 1754549271
             },
             {
                 "Author": "NightmareXIV",
@@ -3564,9 +3591,9 @@
                 "Name": "Stylist",
                 "InternalName": "Stylist",
                 "Description": "Gear manager that will watch your gearset for possible upgrades and upgrade them via single command.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NightmareXIV/Stylist",
-                "LastUpdate": 1743019983
+                "LastUpdate": 1754549119
             },
             {
                 "Author": "NightmareXIV",
@@ -3649,7 +3676,7 @@
                 "Description": "该插件会在游戏/插件启动时自动备份你的游戏和插件配置.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/NightmareXIV/JustBackup",
-                "LastUpdate": 1750104398,
+                "LastUpdate": 1754550798,
                 "is_closed_source": true
             },
             {
@@ -4045,7 +4072,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1754515034
+                "LastUpdate": 1754563484
             },
             {
                 "Author": "Risa",
@@ -4269,7 +4296,7 @@
                 "Description": "Export models to glTF format.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1753616855
+                "LastUpdate": 1754556894
             }
         ]
     },
@@ -4553,7 +4580,7 @@
                 "Description": "Conditionally trigger counter/emote/command/title reactions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/TriggerPyon.zip",
-                "LastUpdate": 1754503344
+                "LastUpdate": 1754558026
             }
         ]
     },
@@ -5324,7 +5351,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1754515034
+                "LastUpdate": 1754563484
             }
         ]
     },
@@ -5426,7 +5453,7 @@
                 "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
-                "LastUpdate": 1754534746
+                "LastUpdate": 1754555490
             }
         ]
     },
@@ -5643,7 +5670,7 @@
                 "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
-                "LastUpdate": 1754431484
+                "LastUpdate": 1754550040
             }
         ]
     },
@@ -5745,7 +5772,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1754515034
+                "LastUpdate": 1754563484
             },
             {
                 "Author": "Risa",
@@ -6206,9 +6233,9 @@
                 "Name": "Avarice",
                 "InternalName": "Avarice",
                 "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Avarice",
-                "LastUpdate": 1743096983
+                "LastUpdate": 1754551680
             },
             {
                 "Author": "Taurenkey, NightmareXIV, Gidedin",
@@ -6224,9 +6251,9 @@
                 "Name": "Orbwalker",
                 "InternalName": "Orbwalker",
                 "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-                "LastUpdate": 1744951136
+                "LastUpdate": 1754551981
             },
             {
                 "Author": "kawaii, jukka",
@@ -6307,7 +6334,7 @@
                 "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/UnknownX7/NoClippy",
-                "LastUpdate": 1742952034
+                "LastUpdate": 1754563737
             },
             {
                 "Author": "UnknownX",
@@ -6515,7 +6542,7 @@
                 "Description": "Teleport hack plugin",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WINDOWCOLLAPSIBLE/404notfound",
-                "LastUpdate": 1754487073,
+                "LastUpdate": 1754551465,
                 "is_closed_source": true
             }
         ]
@@ -6531,7 +6558,7 @@
                 "Name": "AllaganKillFeed",
                 "InternalName": "AllaganKillFeed",
                 "Description": "Ever wanted a kill feed ala Battlefield and Modern Warfare? Well now you can with AllaganKillFeed.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/wolfcomp/AllaganKillFeed",
                 "LastUpdate": 1754469586
             },
