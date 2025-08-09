@@ -193,7 +193,7 @@
                 "Description": "Automatically logs you into a specified character when the game first opens.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754704052
+                "LastUpdate": 1754734096
             },
             {
                 "Author": "Aida Enna",
@@ -202,7 +202,7 @@
                 "Description": "When a party member gets on a mount that supports more than 1 person and is close enough, you will automatically get on.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- You may need to right click on the driver once each time you start the game before the plugin will automount their mount. A fix is being investigated.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754704052
+                "LastUpdate": 1754734096
             },
             {
                 "Author": "Aida Enna",
@@ -211,7 +211,7 @@
                 "Description": "See who is missing food buff at countdown start and optionally post to party/echo chat with a customizable message.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754704052
+                "LastUpdate": 1754734096
             },
             {
                 "Author": "Aida Enna",
@@ -220,7 +220,7 @@
                 "Description": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.\nAdding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02\nAdding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using '/runmacro'\nYou can repeat a macro by using /runmacro inside the macro followed by the number of the macro you're editing\nUsing '/macrocancel' will stop the currently running macro",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754704052
+                "LastUpdate": 1754734096
             },
             {
                 "Author": "Aida Enna",
@@ -229,7 +229,7 @@
                 "Description": "When you click \"Update Gear Set\", this plugin will automatically update and save your portait to match your new glam.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- Rarely, a glitched desynth window will pop up when saving the gearset instead of it saving the portait. This is being investigated, closing the window and swapping classes seems to fix it.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754704052
+                "LastUpdate": 1754734096
             }
         ]
     },
@@ -369,7 +369,7 @@
                 "Description": "Add bulk tags dynamically to penumbra mods based on conditions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/ModAutoTagger",
-                "LastUpdate": 1754691569
+                "LastUpdate": 1754726791
             },
             {
                 "Author": "Anya Hichu",
@@ -378,7 +378,7 @@
                 "Description": "Provides /modset command to update penumbra mod settings",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/ModSettingCommands",
-                "LastUpdate": 1754690852
+                "LastUpdate": 1754734601
             },
             {
                 "Author": "Anya Hichu",
@@ -412,9 +412,9 @@
                 "Name": "Reggiex",
                 "InternalName": "Reggiex",
                 "Description": "Configurable text patterns or emotes to execute commands",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/Reggiex",
-                "LastUpdate": 1754429733
+                "LastUpdate": 1754735950
             }
         ]
     },
@@ -614,7 +614,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1754718426,
+                "LastUpdate": 1754739118,
                 "is_closed_source": true
             },
             {
@@ -624,7 +624,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1754718426,
+                "LastUpdate": 1754739118,
                 "is_closed_source": true
             },
             {
@@ -760,7 +760,7 @@
                 "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/vfaux",
-                "LastUpdate": 1754586680
+                "LastUpdate": 1754728528
             },
             {
                 "Author": "veyn, croizat",
@@ -769,7 +769,7 @@
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1754670462
+                "LastUpdate": 1754726944
             },
             {
                 "Author": "veyn, xan_0",
@@ -787,7 +787,7 @@
                 "Description": "Make custom deliveries less annoying by automating the process.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
-                "LastUpdate": 1754649897
+                "LastUpdate": 1754728580
             }
         ]
     },
@@ -820,9 +820,9 @@
                 "Name": "Travelcase",
                 "InternalName": "Travelcase",
                 "Description": "Allows for automatic changing of Gearsets/Glamours upon entering new zones, with a 'Roleplay Only' mode for those who want to only use it for RP purposes.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Blooym/Travelcase",
-                "LastUpdate": 1754550991
+                "LastUpdate": 1754741287
             }
         ]
     },
@@ -837,9 +837,9 @@
                 "Name": "Travelcase",
                 "InternalName": "Travelcase",
                 "Description": "Allows for automatic changing of Gearsets/Glamours upon entering new zones, with a 'Roleplay Only' mode for those who want to only use it for RP purposes.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Blooym/Travelcase",
-                "LastUpdate": 1754550991
+                "LastUpdate": 1754741287
             }
         ]
     },
@@ -1701,7 +1701,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1754676742
+                "LastUpdate": 1754734030
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1746,7 +1746,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1754717542
+                "LastUpdate": 1754735740
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2270,9 +2270,9 @@
                 "Name": "LazyGatherer",
                 "InternalName": "LazyGatherer",
                 "Description": "Display the optimal rotation for maximum yield with your current GP.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Hiroa/LazyGatherer",
-                "LastUpdate": 1754720611
+                "LastUpdate": 1754720911
             }
         ]
     },
@@ -2477,7 +2477,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1754670265
+                "LastUpdate": 1754729874
             },
             {
                 "Author": "croizat",
@@ -2486,7 +2486,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1754572540
+                "LastUpdate": 1754726699
             }
         ]
     },
@@ -2682,9 +2682,9 @@
                 "Name": "NecroLens",
                 "InternalName": "NecroLens",
                 "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jukkales/NecroLens",
-                "LastUpdate": 1751557206
+                "LastUpdate": 1754736599
             }
         ]
     },
@@ -2885,7 +2885,7 @@
                 "Name": "Burning Down the House",
                 "InternalName": "BDTHPlugin",
                 "Description": "Move around housing items with coordinates and allows you to place anywhere.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
                 "LastUpdate": 1754709595
             }
@@ -3022,9 +3022,9 @@
                 "Name": "DynamicBridge",
                 "InternalName": "DynamicBridge",
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1754199819
+                "LastUpdate": 1754721534
             }
         ]
     },
@@ -3222,7 +3222,7 @@
                 "Description": "Shows you an image of a random neko character. Click on the image to view the next one.\nYou can choose different image sources, allowing you to look at Catboys, Waifus, Cats, Dogs and more.\n\nSupported APIs:\nnekos.best, Nekos.life, Dog CEO, The Cat API, Pic.re, Waifu.im, Waifu.pics and shibe.online\n\nWarning: You might see naughty images",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans/tree/master/Neko",
-                "LastUpdate": 1745164142
+                "LastUpdate": 1754740671
             },
             {
                 "Author": "Meisterlala",
@@ -3231,7 +3231,7 @@
                 "Description": "This Plugin does nothing on its own. Neko Fans needs to be installed.\nYou now have access to NSFW images in Neko Fans.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans/tree/master/NekoLewd",
-                "LastUpdate": 1745165728
+                "LastUpdate": 1754740671
             }
         ]
     },
@@ -3340,7 +3340,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1754687604
+                "LastUpdate": 1754737405
             }
         ]
     },
@@ -3502,9 +3502,9 @@
                 "Name": "DynamicBridge",
                 "InternalName": "DynamicBridge",
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
-                "LastUpdate": 1749876845
+                "LastUpdate": 1754721497
             },
             {
                 "Author": "NightmareXIV",
@@ -4049,7 +4049,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1754687228
+                "LastUpdate": 1754737429
             }
         ]
     },
@@ -4082,9 +4082,9 @@
                 "Name": "DynamicBridge",
                 "InternalName": "DynamicBridge",
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1754199819
+                "LastUpdate": 1754721534
             },
             {
                 "Author": "Ottermandias",
@@ -4093,7 +4093,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1754687228
+                "LastUpdate": 1754737429
             },
             {
                 "Author": "Anna",
@@ -4138,7 +4138,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1754687604
+                "LastUpdate": 1754737405
             },
             {
                 "Author": "Caraxi",
@@ -4176,7 +4176,7 @@
                 "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
-                "LastUpdate": 1754720859
+                "LastUpdate": 1754729534
             },
             {
                 "Author": "Paissa Heavy Industries",
@@ -4509,22 +4509,12 @@
         "plugins": [
             {
                 "Author": "Pyon",
-                "Name": "ArtisanPyon",
-                "InternalName": "ArtisanPyon",
-                "Description": "Artisan, but without the release build limitation.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/ArtisanPyon.zip",
-                "LastUpdate": 1754304559,
-                "is_closed_source": true
-            },
-            {
-                "Author": "Pyon",
                 "Name": "KtisisPyon v0.3",
                 "InternalName": "KtisisPyon",
                 "Description": "A multifaceted scene editor and posing tool for GPose. Pyon version includes several additional features which you can view on the repo page.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/KtisisPyon.zip",
-                "LastUpdate": 1754502147,
+                "LastUpdate": 1754730583,
                 "is_closed_source": true
             },
             {
@@ -5198,7 +5188,7 @@
                 "Description": "Automatically logs you into a specified character when the game first opens.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754704052
+                "LastUpdate": 1754734096
             },
             {
                 "Author": "Aida Enna",
@@ -5207,7 +5197,7 @@
                 "Description": "When a party member gets on a mount that supports more than 1 person and is close enough, you will automatically get on.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- You may need to right click on the driver once each time you start the game before the plugin will automount their mount. A fix is being investigated.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754704052
+                "LastUpdate": 1754734096
             },
             {
                 "Author": "Aida Enna",
@@ -5216,7 +5206,7 @@
                 "Description": "See who is missing food buff at countdown start and optionally post to party/echo chat with a customizable message.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754704052
+                "LastUpdate": 1754734096
             },
             {
                 "Author": "Aida Enna",
@@ -5225,7 +5215,7 @@
                 "Description": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.\nAdding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02\nAdding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using '/runmacro'\nYou can repeat a macro by using /runmacro inside the macro followed by the number of the macro you're editing\nUsing '/macrocancel' will stop the currently running macro",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754704052
+                "LastUpdate": 1754734096
             },
             {
                 "Author": "Aida Enna",
@@ -5234,7 +5224,7 @@
                 "Description": "When you click \"Update Gear Set\", this plugin will automatically update and save your portait to match your new glam.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- Rarely, a glitched desynth window will pop up when saving the gearset instead of it saving the portait. This is being investigated, closing the window and swapping classes seems to fix it.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754704052
+                "LastUpdate": 1754734096
             }
         ]
     },
@@ -5447,7 +5437,7 @@
                 "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
-                "LastUpdate": 1754719357
+                "LastUpdate": 1754728073
             }
         ]
     },
@@ -5498,7 +5488,7 @@
                 "Description": "深宫仇恨范围可视化.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Jukkales/NecroLens",
-                "LastUpdate": 1751557206
+                "LastUpdate": 1754736599
             },
             {
                 "Author": "Liza Carvelli (Puni.sh) / NiGuangOwO (本地化适配) / Amely(7.2适配)",
@@ -5507,7 +5497,7 @@
                 "Description": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。\n\n这个插件需要Splatoon才能在屏幕上渲染绘图。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-                "LastUpdate": 1743091609
+                "LastUpdate": 1754737429
             },
             {
                 "Author": "NightmareXIV / Amely7.2适配",
@@ -5548,18 +5538,18 @@
                 "Name": "AchManager",
                 "InternalName": "AchManager",
                 "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
-                "LastUpdate": 1749995683
+                "LastUpdate": 1754741921
             },
             {
                 "Author": "SHOEGAZEssb",
                 "Name": "Dagobert",
                 "InternalName": "Dagobert",
                 "Description": "Automates market board penny pinching",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
-                "LastUpdate": 1751722564
+                "LastUpdate": 1754723245
             },
             {
                 "Author": "SHOEGAZEssb",
@@ -5631,13 +5621,13 @@
         "repo_name": "FFXIVPlugins",
         "plugins": [
             {
-                "Author": "Solandus",
+                "Author": "VPF",
                 "Name": "VPF",
                 "InternalName": "VPF",
                 "Description": "This plugin reinitializes the Party Finder automatically as soon as it has run out after one hour.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Solandus/FFXIVPlugins",
-                "LastUpdate": 1745218439,
+                "LastUpdate": 1754724398,
                 "is_closed_source": true
             }
         ]
@@ -5784,7 +5774,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1754199819
+                "LastUpdate": 1754721534
             },
             {
                 "Author": "Ottermandias",
@@ -5793,7 +5783,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1754687228
+                "LastUpdate": 1754737429
             },
             {
                 "Author": "Anna",
@@ -5838,7 +5828,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1754687604
+                "LastUpdate": 1754737405
             },
             {
                 "Author": "Caraxi",
@@ -5898,7 +5888,7 @@
                 "Description": "Everything-including-the-kitchen-sink plugin with extra scales.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/taco1932/test",
-                "LastUpdate": 1754709897
+                "LastUpdate": 1754722797
             }
         ]
     },
@@ -5982,9 +5972,9 @@
                 "Name": "Warrior of Lighting",
                 "InternalName": "WoLightning",
                 "Description": "Integration for Pishock and OpenShock devices.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
-                "LastUpdate": 1751304555
+                "LastUpdate": 1754740265
             }
         ]
     },
@@ -6078,7 +6068,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1754712774
+                "LastUpdate": 1754728244
             }
         ]
     },
@@ -6254,9 +6244,9 @@
                 "Name": "Palace Pal",
                 "InternalName": "PalacePal",
                 "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-                "LastUpdate": 1743091609
+                "LastUpdate": 1754737429
             },
             {
                 "Author": "Taurenkey, NightmareXIV, croizat",
@@ -6301,7 +6291,7 @@
                 "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-                "LastUpdate": 1754572450
+                "LastUpdate": 1754728792
             }
         ],
         "repo_developer_name": "Unknown Developer"
@@ -6326,18 +6316,18 @@
                 "Name": "NoClippy",
                 "InternalName": "NoClippy",
                 "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/UnknownX7/NoClippy",
-                "LastUpdate": 1754563737
+                "LastUpdate": 1754723684
             },
             {
                 "Author": "UnknownX",
                 "Name": "ReAction",
                 "InternalName": "ReAction",
                 "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/UnknownX7/ReAction",
-                "LastUpdate": 1743024855
+                "LastUpdate": 1754732004
             }
         ]
     },
@@ -6632,7 +6622,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1754687604
+                "LastUpdate": 1754737405
             }
         ]
     },
@@ -6693,7 +6683,7 @@
                 "Description": "Puts a marker on the specified player. If the target player travels to DC, the internal ID will change and the marker will be invalid.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/yasatoma/MyDalamudPlugins/tree/master/plugins/PikuminMarker",
-                "LastUpdate": 1754478748,
+                "LastUpdate": 1754737593,
                 "is_closed_source": true
             }
         ]
