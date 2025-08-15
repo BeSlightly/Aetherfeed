@@ -472,18 +472,18 @@
                 "Name": "ArtisanBuddy",
                 "InternalName": "ArtisanBuddy",
                 "Description": "Artisan Things",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ashylila/ArtisanBuddy",
-                "LastUpdate": 1752539215
+                "LastUpdate": 1755262187
             },
             {
                 "Author": "Ashy",
                 "Name": "The Collector",
                 "InternalName": "TheCollector",
                 "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1752707842
+                "LastUpdate": 1755261655
             }
         ]
     },
@@ -1300,7 +1300,7 @@
                 "Author": "decorwdyun",
                 "Name": "PFRadar",
                 "InternalName": "PFRadar",
-                "Description": "（国际服专用版本）View party composition & player info while staying out of party",
+                "Description": "Let's you see what players are in a party with out joining. WARNING: this plugin is heavily obfuscated and communicates with the dev's server alot. The data seems to get pulled from their server. They might be sending info about your character to their end.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
                 "LastUpdate": 1754898885,
@@ -1310,7 +1310,7 @@
                 "Author": "decorwdyun",
                 "Name": "PFRadar(API13)",
                 "InternalName": "PFRadar",
-                "Description": "（国际服专用版本）View party composition & player info while staying out of party",
+                "Description": "Let's you see what players are in a party with out joining. WARNING: this plugin is heavily obfuscated and communicates with the dev's server alot. The data seems to get pulled from their server. They might be sending info about your character to their end.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
                 "LastUpdate": 1754898885,
@@ -1349,7 +1349,7 @@
                 "Description": "Friend list but with better sorting, can search by name, refresh with a button, color names..\nRight click for context menu.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/devckuw/BetterFriendList",
-                "LastUpdate": 1755190074
+                "LastUpdate": 1755262038
             },
             {
                 "Author": "Loody",
@@ -1598,7 +1598,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1755005163
+                "LastUpdate": 1755272617
             }
         ]
     },
@@ -1693,7 +1693,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1755209979
+                "LastUpdate": 1755243656
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1738,7 +1738,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1755215227
+                "LastUpdate": 1755279572
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2151,7 +2151,7 @@
                 "Description": "Allows you to save, load, and share infinite Blue Mage spell loadouts and hotbars.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/harbingerftw/BetterInBlue",
-                "LastUpdate": 1755070238
+                "LastUpdate": 1755246120
             }
         ]
     },
@@ -2221,6 +2221,15 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/helpful-fox-senko-san/CatScan",
                 "LastUpdate": 1754444086
+            },
+            {
+                "Author": "SheepGoMeh",
+                "Name": "LopVisibility",
+                "InternalName": "LopVisibility",
+                "Description": "Customized version of Visibility plugin.\n\nAllows you to hide players, pets, chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/senko-forks/LopVisibility",
+                "LastUpdate": 1755267168
             },
             {
                 "Author": "a cat",
@@ -2469,7 +2478,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1755223266
+                "LastUpdate": 1755261220
             }
         ]
     },
@@ -4084,7 +4093,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1755005163
+                "LastUpdate": 1755272617
             },
             {
                 "Author": "Risa",
@@ -5327,7 +5336,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1755005163
+                "LastUpdate": 1755272617
             }
         ]
     },
@@ -5376,9 +5385,9 @@
                 "Name": "Artemis Roleplaying Kit",
                 "InternalName": "RoleplayingVoiceDalamud",
                 "Description": "Player synced custom voices, Twitch playback integration, and more!",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
-                "LastUpdate": 1755131567
+                "LastUpdate": 1755281488
             }
         ]
     },
@@ -5714,7 +5723,7 @@
                 "Description": "Brand new combos like never before - 1 button mode included! Features extra functionality not in other combo plugins like PvP, Blue Mage, Eureka, and Bozja!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/StackBLU/UltimateCombo",
-                "LastUpdate": 1754902384
+                "LastUpdate": 1755251245
             }
         ]
     },
@@ -5748,7 +5757,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1755005163
+                "LastUpdate": 1755272617
             },
             {
                 "Author": "Risa",
@@ -6265,7 +6274,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1755185118
+                "LastUpdate": 1755277451
             },
             {
                 "Author": "NightmareXIV, Xenosys",
