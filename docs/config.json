@@ -12,7 +12,7 @@
                 "Description": "VFX, animation, and sound editing plugin. Icon by PAPACHIN",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
-                "LastUpdate": 1755194523
+                "LastUpdate": 1755360124
             }
         ]
     },
@@ -1693,7 +1693,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1755311255
+                "LastUpdate": 1755356757
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1738,7 +1738,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1755300135
+                "LastUpdate": 1755349630
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1834,9 +1834,9 @@
                 "Name": "OccultBuddy",
                 "InternalName": "OccultBuddy",
                 "Description": "Shows nearby Treasure Coffers in Occult Crescent.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/flawedBliss/occultbuddy",
-                "LastUpdate": 1751713643
+                "LastUpdate": 1755354566
             },
             {
                 "Author": "FlawedBliss",
@@ -2177,7 +2177,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1755311169
+                "LastUpdate": 1755356400
             },
             {
                 "Author": "Haselnussbomber",
@@ -2478,7 +2478,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1755347252
+                "LastUpdate": 1755368482
             }
         ]
     },
@@ -2589,16 +2589,16 @@
                 "Description": "Automation for Orange and Purple Gathering scrips with the help of vnavmesh and AutoHook",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Joshua-XIV/AutoScrip",
-                "LastUpdate": 1755302500
+                "LastUpdate": 1755365643
             },
             {
                 "Author": "Josh",
                 "Name": "Bunnies",
                 "InternalName": "Bunnies",
                 "Description": "This plugin will automatically take you to Pyros and farm the Low Level Bunny Fate. Other zones are currently WIP.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Joshua-XIV/Bunnies",
-                "LastUpdate": 1750949958
+                "LastUpdate": 1755351489
             },
             {
                 "Author": "Josh",
@@ -2821,6 +2821,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/kelvin124124/OopsAllLalafellsSRE",
                 "LastUpdate": 1754586969
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kirin-xiv",
+        "repo_url": "https://raw.githubusercontent.com/kirin-xiv/SpamrollGiveaway-Release/main/repo.json",
+        "repo_source_url": "https://github.com/kirin-xiv/SpamrollGiveaway-Release",
+        "repo_name": "SpamrollGiveaway-Release",
+        "plugins": [
+            {
+                "Author": "Kirin",
+                "Name": "SpamrollGiveaway",
+                "InternalName": "SpamrollGiveaway",
+                "Description": "A FFXIV plugin for hosting giveaways where the host sets winning numbers and players use /random until someone hits the target numbers.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/kirin-xiv/SpamrollGiveaway-Release",
+                "LastUpdate": 1755366919
             }
         ]
     },
@@ -3092,7 +3109,7 @@
                 "Description": "可我还要打本啊！为了不睡过去，我需要补充能量。这时候就轮到我最爱的能量饮料登场了……",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/lsl1225/DalamudPluginsCN",
-                "LastUpdate": 1754756244
+                "LastUpdate": 1755359593
             },
             {
                 "Author": "Herculezz",
@@ -3119,7 +3136,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/lsl1225/DalamudPluginsCN",
-                "LastUpdate": 1754756244
+                "LastUpdate": 1755359593
             },
             {
                 "Author": "daemitus, MidoriKami, lsl1225",
@@ -3639,7 +3656,7 @@
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1755340440
+                "LastUpdate": 1755361379
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
@@ -3679,6 +3696,15 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/HoardFarm",
                 "LastUpdate": 1744201067
+            },
+            {
+                "Author": "Bluefissure",
+                "Name": "Inviter",
+                "InternalName": "Inviter",
+                "Description": "Automatically invite people to your party (doesn't work for CWLS). /xinvite to open.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Bluefissure/Inviter",
+                "LastUpdate": 1733102601
             },
             {
                 "Author": "NightmareXIV, Small_Miao(汉化)",
