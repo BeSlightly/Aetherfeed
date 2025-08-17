@@ -431,7 +431,7 @@
                 "Description": "[WIP] Browse categorized English-Japanese phrases and copy translations to clipboard. Features auto-translation of Japanese chat to English. Use /translate to open.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/apoclol/ffxiv-en-jp-translator",
-                "LastUpdate": 1754812607
+                "LastUpdate": 1755406493
             }
         ]
     },
@@ -1235,7 +1235,7 @@
                 "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/MKhayle/XIVComboExpanded",
-                "LastUpdate": 1754596934
+                "LastUpdate": 1755408652
             }
         ]
     },
@@ -1598,7 +1598,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1755346777
+                "LastUpdate": 1755407444
             }
         ]
     },
@@ -1693,7 +1693,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1755356757
+                "LastUpdate": 1755403935
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1738,7 +1738,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1755349630
+                "LastUpdate": 1755393197
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2478,7 +2478,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1755372897
+                "LastUpdate": 1755403729
             }
         ]
     },
@@ -3094,7 +3094,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1754798789
+                "LastUpdate": 1755410036
             }
         ]
     },
@@ -3632,6 +3632,15 @@
             },
             {
                 "Author": "NightmareXIV",
+                "Name": "StandalonePluginManager",
+                "InternalName": "StandalonePluginManager",
+                "Description": "- Simplifies installation and upgrade process for plugins installed manually.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/StandalonePluginManager",
+                "LastUpdate": 1755409780
+            },
+            {
+                "Author": "NightmareXIV",
                 "Name": "Stylist",
                 "InternalName": "Stylist",
                 "Description": "Gear manager that will watch your gearset for possible upgrades and upgrade them via single command.",
@@ -3685,13 +3694,13 @@
                 "LastUpdate": 1751111168
             },
             {
-                "Author": "Faye",
+                "Author": "Faye / NiGuangOwO (适配&优化) / Ookura-Risona (汉化)",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1755361379
+                "LastUpdate": 1755408038
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
@@ -4154,7 +4163,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1755346777
+                "LastUpdate": 1755407444
             },
             {
                 "Author": "Risa",
@@ -4172,7 +4181,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1754798789
+                "LastUpdate": 1755410036
             },
             {
                 "Author": "Ottermandias",
@@ -4378,7 +4387,7 @@
                 "Description": "Export models to glTF format.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1754826556
+                "LastUpdate": 1755401394
             }
         ]
     },
@@ -5397,7 +5406,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1755346777
+                "LastUpdate": 1755407444
             }
         ]
     },
@@ -5818,7 +5827,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1755346777
+                "LastUpdate": 1755407444
             },
             {
                 "Author": "Risa",
@@ -5836,7 +5845,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1754798789
+                "LastUpdate": 1755410036
             },
             {
                 "Author": "Ottermandias",
@@ -6833,7 +6842,7 @@
                 "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
-                "LastUpdate": 1754596934
+                "LastUpdate": 1755408652
             }
         ]
     },
