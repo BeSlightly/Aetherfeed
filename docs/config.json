@@ -414,7 +414,7 @@
                 "Description": "Configurable text patterns or emotes to execute commands",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/Reggiex",
-                "LastUpdate": 1754735950
+                "LastUpdate": 1755482281
             }
         ]
     },
@@ -872,7 +872,7 @@
                 "Name": "Inviter",
                 "InternalName": "Inviter",
                 "Description": "Automatically invite people to your party (doesn't work for CWLS). /xinvite to open.",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Bluefissure/Inviter",
                 "LastUpdate": 1755479006
             }
@@ -1003,7 +1003,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1755343726
+                "LastUpdate": 1755480888
             },
             {
                 "Author": "Caraxi",
@@ -1038,7 +1038,7 @@
                 "Description": "Pair and synchronize adult toys with other users, send private chat messages, and more. Use /kinkshell to get started.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/CatboyEngineering/KinkShellClient",
-                "LastUpdate": 1755475437
+                "LastUpdate": 1755479449
             }
         ]
     },
@@ -1332,7 +1332,7 @@
                 "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1755465089
+                "LastUpdate": 1755493786
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -1747,7 +1747,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1755465089
+                "LastUpdate": 1755493786
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2487,7 +2487,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1755474399
+                "LastUpdate": 1755495983
             }
         ]
     },
@@ -2850,6 +2850,15 @@
             },
             {
                 "Author": "Kirin",
+                "Name": "EorzeanScribe (Beta)",
+                "InternalName": "EorzeanScribe",
+                "Description": "[BETA] A comprehensive writing assistant designed for FFXIV roleplayers. Automatically formats your text for seamless in-game chat, includes spell checking, thesaurus integration, and advanced editing tools to enhance your roleplay experience.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/kirin-xiv/EorzeaScribe",
+                "LastUpdate": 1755487700
+            },
+            {
+                "Author": "Kirin",
                 "Name": "Truth or Dare",
                 "InternalName": "FFToD",
                 "Description": "Truth or Dare mini-game automation plugin for FFXIV",
@@ -3001,7 +3010,7 @@
                 "Description": "A cosmic exploration helper that lets you automize crafting and gathering missions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1755216706
+                "LastUpdate": 1755486581
             }
         ]
     },
@@ -3498,9 +3507,9 @@
                 "Name": "PFLogs",
                 "InternalName": "PFLogs",
                 "Description": "Adds open fflogs to party list and pf list context menu",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Milesnocte/PFLogs",
-                "LastUpdate": 1743300538
+                "LastUpdate": 1755493038
             }
         ]
     },
