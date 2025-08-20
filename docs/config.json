@@ -991,6 +991,32 @@
         ]
     },
     {
+        "repo_url": "https://repo.caraxian.com",
+        "repo_source_url": "https://github.com/Caraxi/SimpleGlamourSwitcher",
+        "repo_name": "SimpleGlamourSwitcher",
+        "repo_developer_name": "Caraxi",
+        "plugins": [
+            {
+                "Author": "Caraxi",
+                "Name": "Simple Glamour Switcher",
+                "InternalName": "SimpleGlamourSwitcher",
+                "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
+                "LastUpdate": 1755480888
+            },
+            {
+                "Author": "Caraxi",
+                "Name": "Simple Heels",
+                "InternalName": "SimpleHeels",
+                "Description": "Adjust the position of your character model",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
+                "LastUpdate": 1755511230
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/CatboyEngineering/Plugins/raw/main/repo.json",
         "repo_source_url": "https://github.com/CatboyEngineering/Plugins",
         "repo_name": "Plugins",
@@ -1306,7 +1332,7 @@
                 "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1755626187
+                "LastUpdate": 1755651037
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -1547,7 +1573,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1755572305
+                "LastUpdate": 1755634196
             }
         ]
     },
@@ -1676,7 +1702,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1755403935
+                "LastUpdate": 1755633412
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1721,7 +1747,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1755626187
+                "LastUpdate": 1755651037
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1785,7 +1811,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1755572237
+                "LastUpdate": 1755634642
             }
         ]
     },
@@ -2151,7 +2177,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1755284020
+                "LastUpdate": 1755639818
             },
             {
                 "Author": "Haselnussbomber",
@@ -2160,7 +2186,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1755390740
+                "LastUpdate": 1755638873
             },
             {
                 "Author": "Haselnussbomber",
@@ -2169,7 +2195,7 @@
                 "Description": "A little helper to check which Levequests have been completed and which are missing.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
-                "LastUpdate": 1754742902
+                "LastUpdate": 1755638748
             }
         ]
     },
@@ -2461,7 +2487,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1755628138
+                "LastUpdate": 1755649777
             }
         ]
     },
@@ -2829,7 +2855,7 @@
                 "Description": "[BETA] A comprehensive writing assistant designed for FFXIV roleplayers. Automatically formats your text for seamless in-game chat, includes spell checking, thesaurus integration, and advanced editing tools to enhance your roleplay experience.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/kirin-xiv/EorzeaScribe",
-                "LastUpdate": 1755568972
+                "LastUpdate": 1755649098
             },
             {
                 "Author": "Kirin",
@@ -5237,7 +5263,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1755578847
+                "LastUpdate": 1755651279
             },
             {
                 "Author": "Ricimon",
@@ -6202,9 +6228,9 @@
                 "Name": "Tomestone",
                 "InternalName": "Dalamud.Tomestone",
                 "Description": "A presence and gear tracker that syncs your in-game job, zone, level and gear changes to the tomestone.gg web site.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/TomestoneGG/Dalamud.Tomestone",
-                "LastUpdate": 1743343673
+                "LastUpdate": 1755650914
             }
         ]
     },
