@@ -342,7 +342,7 @@
                 "Description": "Provides link buttons in chat for death rolling",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/ChatDeathRoll",
-                "LastUpdate": 1755580823
+                "LastUpdate": 1755858786
             },
             {
                 "Author": "Anya Hichu",
@@ -351,7 +351,7 @@
                 "Description": "Dalamud plugin that provides a deterministic cpose command",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
-                "LastUpdate": 1755537142
+                "LastUpdate": 1755858778
             },
             {
                 "Author": "Anya Hichu",
@@ -405,7 +405,7 @@
                 "Description": "Generate and run macro actions quickly using a spotlight inspired interface",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/Quack",
-                "LastUpdate": 1755532419
+                "LastUpdate": 1755858765
             },
             {
                 "Author": "Anya Hichu",
@@ -423,7 +423,7 @@
                 "Description": "Configurable text patterns or emotes to execute commands",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/Reggiex",
-                "LastUpdate": 1755482281
+                "LastUpdate": 1755858734
             }
         ]
     },
@@ -1312,7 +1312,7 @@
                 "Description": "Let's you see what players are in a party with out joining. WARNING: this plugin is heavily obfuscated and communicates with the dev's server alot. The data seems to get pulled from their server. They might be sending info about your character to their end.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1755788129,
+                "LastUpdate": 1755851738,
                 "is_closed_source": true
             },
             {
@@ -1322,7 +1322,7 @@
                 "Description": "Let's you see what players are in a party with out joining. WARNING: this plugin is heavily obfuscated and communicates with the dev's server alot. The data seems to get pulled from their server. They might be sending info about your character to their end.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1755788129,
+                "LastUpdate": 1755851738,
                 "is_closed_source": true
             },
             {
@@ -1763,9 +1763,9 @@
                 "Name": "ZodiacBuddy Reborn",
                 "InternalName": "ZodiacBuddyReborn",
                 "Description": "Automates various steps of the ARR Relic Quests",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn",
-                "LastUpdate": 1755843335
+                "LastUpdate": 1755844471
             }
         ],
         "repo_developer_name": "FFXIV-CombatReborn",
@@ -2530,7 +2530,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1755818440
+                "LastUpdate": 1755844694
             },
             {
                 "Author": "croizat",
@@ -4182,9 +4182,9 @@
                 "Name": "Portrait Plogon",
                 "InternalName": "portraitPlogon",
                 "Description": "Replaces (some) portrait elements with custom PNGs of your choice.\nAs of yet no syncing system exists",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Odd-Nightsky/portrait-plogon",
-                "LastUpdate": 1755151031
+                "LastUpdate": 1755854141
             }
         ]
     },
@@ -4201,7 +4201,7 @@
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1754868379
+                "LastUpdate": 1755853205
             },
             {
                 "Author": "Faye",
@@ -4351,15 +4351,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
                 "LastUpdate": 1754841818
-            },
-            {
-                "Author": "darkarchon",
-                "Name": "Mare Synchronos",
-                "InternalName": "MareSynchronos",
-                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Penumbra-Sync/client",
-                "LastUpdate": 1755511449
             },
             {
                 "Author": "kawaii, Glyceri",
@@ -4574,24 +4565,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/lnjanos/soundy-release",
                 "LastUpdate": 1755730269
-            }
-        ]
-    },
-    {
-        "repo_name": "Mare Synchronos",
-        "repo_url": "https://github.com/Penumbra-Sync/repo/raw/main/plogonmaster.json",
-        "repo_source_url": "https://github.com/Penumbra-Sync/repo",
-        "repo_discord_url": "https://discord.gg/5HVveFefcB",
-        "repo_developer_name": "Penumbra-Sync",
-        "plugins": [
-            {
-                "Author": "darkarchon",
-                "Name": "Mare Synchronos",
-                "InternalName": "MareSynchronos",
-                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Penumbra-Sync/client",
-                "LastUpdate": 1754689965
             }
         ]
     },
@@ -6257,23 +6230,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/TomestoneGG/Dalamud.Tomestone",
                 "LastUpdate": 1755658579
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Tulla4U",
-        "repo_url": "https://raw.githubusercontent.com/Tulla4U/XIV_ClickCast/master/repo.json",
-        "repo_source_url": "https://github.com/Tulla4U/XIV_ClickCast",
-        "repo_name": "XIV_ClickCast",
-        "plugins": [
-            {
-                "Author": "Tulla",
-                "Name": "ClickCast",
-                "InternalName": "ClickCast",
-                "Description": "Remove the need to target people for healing, instead assign actions to mouse buttons and use them by clicking player names.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Tulla4U/XIV_ClickCast",
-                "LastUpdate": 1750547978
             }
         ]
     },
