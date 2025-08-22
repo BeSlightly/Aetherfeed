@@ -1332,7 +1332,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1755235238
+                "LastUpdate": 1755807864
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -1837,7 +1837,7 @@
                 "Description": "Turning every dialogue into a voiced dialogue!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Final-Fantasy-XIV-Voices/XivVoices",
-                "LastUpdate": 1755627990
+                "LastUpdate": 1755807654
             }
         ]
     },
@@ -2169,7 +2169,7 @@
                 "Description": "Allows you to save, load, and share infinite Blue Mage spell loadouts and hotbars.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/harbingerftw/BetterInBlue",
-                "LastUpdate": 1755246120
+                "LastUpdate": 1755821627
             }
         ]
     },
@@ -2308,7 +2308,7 @@
                 "Description": "Automatically detects FFXIV background music and displays synchronized lyrics from LRC files. Features customizable UI with animations, scaling, and transparency. Comes with 15 pre-synced songs including popular tracks like Dragonsong, What Angel Wakes Me, Oblivion, and Rise. Commands: /singalong (toggle lyrics), /singalong settings (open settings).",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Houdeled/SingAlongPlugin",
-                "LastUpdate": 1755711299
+                "LastUpdate": 1755815611
             }
         ]
     },
@@ -2359,7 +2359,7 @@
                 "Description": "在集体动作模式中控制参与的角色。",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/MeowZWR/Brio",
-                "LastUpdate": 1754811693
+                "LastUpdate": 1755821363
             }
         ]
     },
@@ -2513,7 +2513,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1755779064
+                "LastUpdate": 1755808723
             }
         ]
     },
@@ -2530,7 +2530,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1755003011
+                "LastUpdate": 1755818440
             },
             {
                 "Author": "croizat",
@@ -2772,7 +2772,7 @@
                 "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/KangasZ/SkipCutscene",
-                "LastUpdate": 1755206167
+                "LastUpdate": 1755824262
             },
             {
                 "Author": "KangasZ",
@@ -3501,7 +3501,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/MeowZWR/Brio",
-                "LastUpdate": 1754811693
+                "LastUpdate": 1755821363
             }
         ]
     },
@@ -6313,78 +6313,6 @@
         ]
     },
     {
-        "repo_url": "https://plugins.carvel.li",
-        "repo_source_url": "https://git.carvel.li/liza/plugin-repo",
-        "is_allowed_mega_repo": true,
-        "repo_name": "Carvelli",
-        "plugins": [
-            {
-                "Author": "Liza Carvelli",
-                "Name": "ARC",
-                "InternalName": "ARControl",
-                "Description": "Better AutoRetainer Venture Planner",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://git.carvel.li/liza/ARControl",
-                "LastUpdate": 1754854102
-            },
-            {
-                "Author": "Liza Carvelli",
-                "Name": "Gearsetter",
-                "InternalName": "Gearsetter",
-                "Description": "Browse through all gear pieces available for each class/job and show possible upgrades",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://git.carvel.li/liza/Gearsetter",
-                "LastUpdate": 1754855874
-            },
-            {
-                "Author": "Liza Carvelli",
-                "Name": "Influx",
-                "InternalName": "Influx",
-                "Description": "Uploads your game statistics (such as quest progress, gil, retainer stats) to an InfluxDB or QuestDB instance, making it possible to automatically track your progress through external tools such as Grafana.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://git.carvel.li/liza/Influx",
-                "LastUpdate": 1755700270
-            },
-            {
-                "Author": "Liza Carvelli",
-                "Name": "KitchenSink",
-                "InternalName": "KitchenSink",
-                "Description": "A plugin for things that aren't worth their own plugins; see commands for details.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://git.carvel.li/liza/KitchenSink",
-                "LastUpdate": 1754857671
-            },
-            {
-                "Author": "Liza Carvelli",
-                "Name": "Questionable",
-                "InternalName": "Questionable",
-                "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://git.carvel.li/liza/Questionable",
-                "LastUpdate": 1755793543
-            },
-            {
-                "Author": "Liza Carvelli",
-                "Name": "Squadronista",
-                "InternalName": "Squadronista",
-                "Description": "Simplified Squadron Calculator, heavily inspired by https://ffxivsquadron.com/",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://git.carvel.li/liza/Squadronista",
-                "LastUpdate": 1754857085
-            },
-            {
-                "Author": "Liza Carvelli",
-                "Name": "Workshoppa",
-                "InternalName": "Workshoppa",
-                "Description": "Better Company Workshop Turn-In",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://git.carvel.li/liza/Workshoppa",
-                "LastUpdate": 1754856169
-            }
-        ],
-        "repo_developer_name": "Unknown Developer"
-    },
-    {
         "repo_url": "https://puni.sh/api/repository/det",
         "repo_source_url": "https://puni.sh/api/repository/det",
         "repo_name": "det",
@@ -6478,6 +6406,15 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
                 "LastUpdate": 1755025812
+            },
+            {
+                "Author": "NightmareXIV, akechi",
+                "Name": "Questionable",
+                "InternalName": "Questionable",
+                "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/Questionable",
+                "LastUpdate": 1755822741
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -6731,7 +6668,16 @@
                 "Description": "A search plugin that allows searching through all world and data centers.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/MercurysEye",
-                "LastUpdate": 1754478936
+                "LastUpdate": 1755810104
+            },
+            {
+                "Author": "Liza Carvelli, WigglyMuffin",
+                "Name": "Questionable",
+                "InternalName": "Questionable",
+                "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
+                "LastUpdate": 1755809853
             }
         ]
     },
@@ -7034,7 +6980,7 @@
                 "InternalName": "ZuneBard",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1755745841
+                "LastUpdate": 1755810133
             }
         ]
     }
