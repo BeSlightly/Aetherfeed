@@ -1000,32 +1000,6 @@
         ]
     },
     {
-        "repo_url": "https://repo.caraxian.com",
-        "repo_source_url": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-        "repo_name": "SimpleGlamourSwitcher",
-        "repo_developer_name": "Caraxi",
-        "plugins": [
-            {
-                "Author": "Caraxi",
-                "Name": "Simple Glamour Switcher",
-                "InternalName": "SimpleGlamourSwitcher",
-                "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1755480888
-            },
-            {
-                "Author": "Caraxi",
-                "Name": "Simple Heels",
-                "InternalName": "SimpleHeels",
-                "Description": "Adjust the position of your character model",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1755511230
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/CatboyEngineering/Plugins/raw/main/repo.json",
         "repo_source_url": "https://github.com/CatboyEngineering/Plugins",
         "repo_name": "Plugins",
@@ -1341,7 +1315,7 @@
                 "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1755723723
+                "LastUpdate": 1755906559
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -1711,7 +1685,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1755754353
+                "LastUpdate": 1755907645
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1756,7 +1730,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1755723723
+                "LastUpdate": 1755906559
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1820,7 +1794,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1755878688
+                "LastUpdate": 1755887233
             }
         ]
     },
@@ -3215,7 +3189,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1755420355
+                "LastUpdate": 1755887690
             },
             {
                 "Author": "Anna",
@@ -3260,7 +3234,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1755878904
+                "LastUpdate": 1755887624
             },
             {
                 "Author": "Caraxi",
@@ -3552,7 +3526,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1755878904
+                "LastUpdate": 1755887624
             }
         ]
     },
@@ -4288,7 +4262,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1755420355
+                "LastUpdate": 1755887690
             }
         ]
     },
@@ -4332,7 +4306,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1755420355
+                "LastUpdate": 1755887690
             },
             {
                 "Author": "Anna",
@@ -4368,7 +4342,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1755878904
+                "LastUpdate": 1755887624
             },
             {
                 "Author": "Caraxi",
@@ -4726,7 +4700,7 @@
                 "Description": "A multifaceted scene editor and posing tool for GPose. Pyon version includes several additional features which you can view on the repo page.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/KtisisPyon.zip",
-                "LastUpdate": 1754920254,
+                "LastUpdate": 1755901823,
                 "is_closed_source": true
             },
             {
@@ -5969,7 +5943,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1755420355
+                "LastUpdate": 1755887690
             },
             {
                 "Author": "Anna",
@@ -6014,7 +5988,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1755878904
+                "LastUpdate": 1755887624
             },
             {
                 "Author": "Caraxi",
@@ -6633,7 +6607,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1755827061
+                "LastUpdate": 1755893237
             }
         ]
     },
@@ -6746,7 +6720,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1755878904
+                "LastUpdate": 1755887624
             }
         ]
     },
