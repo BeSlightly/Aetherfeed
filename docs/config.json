@@ -1000,32 +1000,6 @@
         ]
     },
     {
-        "repo_url": "https://repo.caraxian.com",
-        "repo_source_url": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-        "repo_name": "SimpleGlamourSwitcher",
-        "repo_developer_name": "Caraxi",
-        "plugins": [
-            {
-                "Author": "Caraxi",
-                "Name": "Simple Glamour Switcher",
-                "InternalName": "SimpleGlamourSwitcher",
-                "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1755480888
-            },
-            {
-                "Author": "Caraxi",
-                "Name": "Simple Heels",
-                "InternalName": "SimpleHeels",
-                "Description": "Adjust the position of your character model",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1755511230
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/CatboyEngineering/Plugins/raw/main/repo.json",
         "repo_source_url": "https://github.com/CatboyEngineering/Plugins",
         "repo_name": "Plugins",
@@ -1341,7 +1315,7 @@
                 "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1755940272
+                "LastUpdate": 1755968813
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -1582,7 +1556,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1755916088
+                "LastUpdate": 1755969041
             }
         ]
     },
@@ -1756,7 +1730,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1755940272
+                "LastUpdate": 1755968813
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1820,7 +1794,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1755916153
+                "LastUpdate": 1755969068
             }
         ]
     },
@@ -1863,7 +1837,7 @@
                 "Description": "A companion to help and guide you through completing your relics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/flawedBliss/relicbuddy",
-                "LastUpdate": 1755201929
+                "LastUpdate": 1755967177
             }
         ]
     },
@@ -3260,7 +3234,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1755887624
+                "LastUpdate": 1755953212
             },
             {
                 "Author": "Caraxi",
@@ -3552,7 +3526,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1755887624
+                "LastUpdate": 1755953212
             }
         ]
     },
@@ -4368,7 +4342,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1755887624
+                "LastUpdate": 1755953212
             },
             {
                 "Author": "Caraxi",
@@ -4580,7 +4554,7 @@
                 "InternalName": "WhoSaidWhatNow",
                 "Description": "Chat history plugin, view history per character, per group, or search.\n Main command /whowhat",
                 "RepoUrl": "https://github.com/perappu/WhoSaidWhatNow",
-                "LastUpdate": 1753210046
+                "LastUpdate": 1755969456
             }
         ]
     },
@@ -4597,7 +4571,7 @@
                 "Description": "Tend to your plot in one click. Type /autog to start.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIV_Autogardener",
-                "LastUpdate": 1755880602
+                "LastUpdate": 1755963058
             },
             {
                 "Author": "Pistachio Herald",
@@ -4641,7 +4615,7 @@
                 "Description": "Tend to your plot in one click. Type /autog to start.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIV_Autogardener",
-                "LastUpdate": 1755880602
+                "LastUpdate": 1755963058
             }
         ]
     },
@@ -5776,9 +5750,9 @@
                 "Name": "Divination.AetheryteLinkInChat",
                 "InternalName": "AetheryteLinkInChat",
                 "Description": "Display a teleport link to the nearest aetherite for the map link from the in-game chat. Type /alic to configure the plugin.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/SlashNephy/Divination/tree/master/AetheryteLinkInChat",
-                "LastUpdate": 1744820723
+                "LastUpdate": 1755101108
             },
             {
                 "Author": "Asteria Nocturna",
@@ -5787,7 +5761,7 @@
                 "Description": "Tiny tool to inspect game...",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SlashNephy/Divination/tree/master/Debugger",
-                "LastUpdate": 1744721926
+                "LastUpdate": 1755961883
             },
             {
                 "Author": "Asteria Nocturna",
@@ -5796,7 +5770,7 @@
                 "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SlashNephy/Divination/tree/master/FaloopIntegration",
-                "LastUpdate": 1744809041
+                "LastUpdate": 1755101108
             }
         ]
     },
@@ -5908,7 +5882,7 @@
                 "Description": "Brand new combos like never before - 1 button mode included! Features extra functionality not in other combo plugins like PvP, Blue Mage, Eureka, and Bozja!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/StackBLU/UltimateCombo",
-                "LastUpdate": 1755251245
+                "LastUpdate": 1755970270
             }
         ]
     },
@@ -6014,7 +5988,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1755887624
+                "LastUpdate": 1755953212
             },
             {
                 "Author": "Caraxi",
@@ -6397,7 +6371,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1755951529
+                "LastUpdate": 1755953738
             },
             {
                 "Author": "daemitus, kawaii",
@@ -6624,7 +6598,7 @@
                 "Description": "A search plugin that allows searching through all world and data centers.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/MercurysEye",
-                "LastUpdate": 1755827387
+                "LastUpdate": 1755968549
             },
             {
                 "Author": "Liza Carvelli, WigglyMuffin",
@@ -6633,7 +6607,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1755893237
+                "LastUpdate": 1755968086
             }
         ]
     },
@@ -6746,7 +6720,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1755887624
+                "LastUpdate": 1755953212
             }
         ]
     },
@@ -6936,7 +6910,7 @@
                 "InternalName": "ZuneBard",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1755810133
+                "LastUpdate": 1755956808
             }
         ]
     }
