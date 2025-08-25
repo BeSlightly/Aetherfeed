@@ -787,7 +787,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1755029777
+                "LastUpdate": 1756068550
             },
             {
                 "Author": "veyn",
@@ -1811,7 +1811,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1756037217
+                "LastUpdate": 1756081750
             }
         ]
     },
@@ -2410,41 +2410,6 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/iri-impulse/PhotoboothPlugin",
                 "LastUpdate": 1751602594
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "irisdotsh",
-        "repo_url": "https://raw.githubusercontent.com/irisdotsh/DalamudPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/irisdotsh/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "irisdotsh",
-                "Name": "EndEncounter",
-                "InternalName": "EndEncounter",
-                "Description": "Ends ACT encounters easily.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/irisdotsh/EndEncounter",
-                "LastUpdate": 1743025683
-            },
-            {
-                "Author": "irisdotsh",
-                "Name": "NoClippyX",
-                "InternalName": "NoClippyX",
-                "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/irisdotsh/NoClippyX",
-                "LastUpdate": 1743023122
-            },
-            {
-                "Author": "irisdotsh",
-                "Name": "OBSPluginX",
-                "InternalName": "OBSPluginX",
-                "Description": "A plugin to control OBS by WebSocket, streaming with any UI modification is not recommended.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/irisdotsh/Dalamud-OBS",
-                "LastUpdate": 1743025859
             }
         ]
     },
@@ -3113,6 +3078,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/lichie567/LMeter",
                 "LastUpdate": 1754534796
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/Light-Public-Syncshells/LightlessSync/raw/refs/heads/main/plogonmaster.json",
+        "repo_source_url": "https://github.com/Light-Public-Syncshells/LightlessSync",
+        "repo_developer_name": "Light-Public-Syncshells",
+        "repo_name": "LightlessSync",
+        "plugins": [
+            {
+                "Author": "Zura, Celine, Abel",
+                "Name": "Lightless Sync",
+                "InternalName": "LightlessSync",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Light-Public-Syncshells/LightlessClient",
+                "LastUpdate": 1756061117
             }
         ]
     },
@@ -4546,7 +4528,7 @@
                 "Description": "Just a different Version of Peeping Tom",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/lnjanos/peepingtim",
-                "LastUpdate": 1755730249
+                "LastUpdate": 1756072447
             },
             {
                 "Author": "kcuY",
@@ -4810,7 +4792,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1755934671
+                "LastUpdate": 1756076243
             }
         ]
     },
@@ -5253,7 +5235,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1756026428
+                "LastUpdate": 1756081518
             },
             {
                 "Author": "Ricimon",
@@ -5495,7 +5477,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1755921697
+                "LastUpdate": 1756081389
             }
         ]
     },
@@ -6307,7 +6289,7 @@
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1755672998
+                "LastUpdate": 1756067975
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -6355,7 +6337,7 @@
                 "LastUpdate": 1755025812
             },
             {
-                "Author": "NightmareXIV, akechi",
+                "Author": "NightmareXIV, Akechi",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
@@ -6624,7 +6606,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1755968086
+                "LastUpdate": 1756081307
             }
         ]
     },
@@ -6926,8 +6908,9 @@
                 "Name": "MidiBard 2 (BETA)",
                 "InternalName": "ZuneBard",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1755956808
+                "LastUpdate": 1756075181
             }
         ]
     }
