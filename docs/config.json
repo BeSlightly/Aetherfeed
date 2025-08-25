@@ -697,7 +697,7 @@
                 "Description": "自动化 T 职副本场次成就刷取工具\n注意: 副本战斗需要自行使用其他插件解决",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/UntarnishedHeart",
-                "LastUpdate": 1750691190
+                "LastUpdate": 1756095778
             },
             {
                 "Author": "ocealot, AtmoOmen (汉化)",
@@ -1013,6 +1013,32 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/CaiClone/GCDTracker",
                 "LastUpdate": 1749764908
+            }
+        ]
+    },
+    {
+        "repo_url": "https://repo.caraxian.com",
+        "repo_source_url": "https://github.com/Caraxi/SimpleGlamourSwitcher",
+        "repo_name": "SimpleGlamourSwitcher",
+        "repo_developer_name": "Caraxi",
+        "plugins": [
+            {
+                "Author": "Caraxi",
+                "Name": "Simple Glamour Switcher",
+                "InternalName": "SimpleGlamourSwitcher",
+                "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
+                "LastUpdate": 1756036895
+            },
+            {
+                "Author": "Caraxi",
+                "Name": "Simple Heels",
+                "InternalName": "SimpleHeels",
+                "Description": "Adjust the position of your character model",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
+                "LastUpdate": 1755511230
             }
         ]
     },
@@ -1344,6 +1370,23 @@
                 "LastUpdate": 1750673131
             }
         ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/det",
+        "repo_source_url": "https://puni.sh/api/repository/det",
+        "repo_name": "det",
+        "plugins": [
+            {
+                "Author": "Det",
+                "Name": "AutoHook (CN)",
+                "InternalName": "AutoHook",
+                "Description": "Temporary API 10 version until patch 7.1",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+                "LastUpdate": 1755989369
+            }
+        ],
+        "repo_developer_name": "Det"
     },
     {
         "repo_developer_name": "devckuw",
@@ -3948,7 +3991,7 @@
                 "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1755025812
+                "LastUpdate": 1756093153
             }
         ]
     },
@@ -4812,6 +4855,132 @@
                 "LastUpdate": 1754852136
             }
         ]
+    },
+    {
+        "repo_url": "https://love.puni.sh/ment.json",
+        "repo_source_url": "https://puni.sh/",
+        "is_allowed_mega_repo": true,
+        "repo_name": "ment",
+        "plugins": [
+            {
+                "Author": "Taurenkey, NightmareXIV, kawaii",
+                "Name": "Artisan",
+                "InternalName": "Artisan",
+                "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/Artisan",
+                "LastUpdate": 1755236131
+            },
+            {
+                "Author": "Det, Taurenkey",
+                "Name": "AutoHook",
+                "InternalName": "AutoHook",
+                "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+                "LastUpdate": 1755989369
+            },
+            {
+                "Author": "kawaii, NightmareXIV",
+                "Name": "AutoRetainer",
+                "InternalName": "AutoRetainer",
+                "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+                "LastUpdate": 1756067975
+            },
+            {
+                "Author": "kawaii, NightmareXIV",
+                "Name": "Avarice",
+                "InternalName": "Avarice",
+                "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/Avarice",
+                "LastUpdate": 1755325981
+            },
+            {
+                "Author": "Taurenkey, NightmareXIV, Gidedin",
+                "Name": "LazyLoot",
+                "InternalName": "LazyLoot",
+                "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+                "LastUpdate": 1754949504
+            },
+            {
+                "Author": "kawaii, NightmareXIV",
+                "Name": "Orbwalker",
+                "InternalName": "Orbwalker",
+                "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
+                "LastUpdate": 1755752685
+            },
+            {
+                "Author": "kawaii, jukka",
+                "Name": "Palace Pal",
+                "InternalName": "PalacePal",
+                "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+                "LastUpdate": 1754737429
+            },
+            {
+                "Author": "Taurenkey, NightmareXIV, croizat",
+                "Name": "Pandora's Box",
+                "InternalName": "PandorasBox",
+                "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+                "LastUpdate": 1756093153
+            },
+            {
+                "Author": "NightmareXIV, Akechi",
+                "Name": "Questionable",
+                "InternalName": "Questionable",
+                "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/Questionable",
+                "LastUpdate": 1755982917
+            },
+            {
+                "Author": "Taurenkey, NightmareXIV",
+                "Name": "Saucy",
+                "InternalName": "Saucy",
+                "Description": "Automates certain Gold Saucer mini-games.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/Saucy",
+                "LastUpdate": 1755277451
+            },
+            {
+                "Author": "NightmareXIV, Xenosys",
+                "Name": "Splatoon",
+                "InternalName": "Splatoon",
+                "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+                "LastUpdate": 1755827707
+            },
+            {
+                "Author": "Team Wrath",
+                "Name": "Wrath Combo",
+                "InternalName": "WrathCombo",
+                "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
+                "LastUpdate": 1756102318
+            },
+            {
+                "Author": "daemitus, kawaii",
+                "Name": "Yes Already",
+                "InternalName": "YesAlready",
+                "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/YesAlready",
+                "LastUpdate": 1755589679
+            }
+        ],
+        "repo_developer_name": "Puni.sh Team"
     },
     {
         "repo_url": "https://github.com/RaidenvBlack/RaidenvPlugins/raw/main/repo.json",
@@ -6150,7 +6319,7 @@
                 "Description": "Change your and other peoples names in various UI elements!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/tigurand/FakeName",
-                "LastUpdate": 1755074294
+                "LastUpdate": 1756099000
             },
             {
                 "Author": "Lucille",
@@ -6159,7 +6328,7 @@
                 "Description": "Turn everyone around you into a nudist.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/tigurand/OopsAllNudist",
-                "LastUpdate": 1755074097
+                "LastUpdate": 1756088553
             },
             {
                 "Author": "Lucille",
@@ -6240,149 +6409,6 @@
                 "is_closed_source": true
             }
         ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/det",
-        "repo_source_url": "https://puni.sh/api/repository/det",
-        "repo_name": "det",
-        "plugins": [
-            {
-                "Author": "Det",
-                "Name": "AutoHook (CN)",
-                "InternalName": "AutoHook",
-                "Description": "Temporary API 10 version until patch 7.1",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1755989369
-            }
-        ],
-        "repo_developer_name": "Unknown Developer"
-    },
-    {
-        "repo_url": "https://love.puni.sh/ment.json",
-        "repo_source_url": "https://puni.sh/",
-        "is_allowed_mega_repo": true,
-        "repo_name": "ment",
-        "plugins": [
-            {
-                "Author": "Taurenkey, NightmareXIV, kawaii",
-                "Name": "Artisan",
-                "InternalName": "Artisan",
-                "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1755236131
-            },
-            {
-                "Author": "Det, Taurenkey",
-                "Name": "AutoHook",
-                "InternalName": "AutoHook",
-                "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1755989369
-            },
-            {
-                "Author": "kawaii, NightmareXIV",
-                "Name": "AutoRetainer",
-                "InternalName": "AutoRetainer",
-                "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1756067975
-            },
-            {
-                "Author": "kawaii, NightmareXIV",
-                "Name": "Avarice",
-                "InternalName": "Avarice",
-                "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/Avarice",
-                "LastUpdate": 1755325981
-            },
-            {
-                "Author": "Taurenkey, NightmareXIV, Gidedin",
-                "Name": "LazyLoot",
-                "InternalName": "LazyLoot",
-                "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-                "LastUpdate": 1754949504
-            },
-            {
-                "Author": "kawaii, NightmareXIV",
-                "Name": "Orbwalker",
-                "InternalName": "Orbwalker",
-                "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-                "LastUpdate": 1755752685
-            },
-            {
-                "Author": "kawaii, jukka",
-                "Name": "Palace Pal",
-                "InternalName": "PalacePal",
-                "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-                "LastUpdate": 1754737429
-            },
-            {
-                "Author": "Taurenkey, NightmareXIV, croizat",
-                "Name": "Pandora's Box",
-                "InternalName": "PandorasBox",
-                "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1755025812
-            },
-            {
-                "Author": "NightmareXIV, Akechi",
-                "Name": "Questionable",
-                "InternalName": "Questionable",
-                "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1755982917
-            },
-            {
-                "Author": "Taurenkey, NightmareXIV",
-                "Name": "Saucy",
-                "InternalName": "Saucy",
-                "Description": "Automates certain Gold Saucer mini-games.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1755277451
-            },
-            {
-                "Author": "NightmareXIV, Xenosys",
-                "Name": "Splatoon",
-                "InternalName": "Splatoon",
-                "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1755827707
-            },
-            {
-                "Author": "Team Wrath",
-                "Name": "Wrath Combo",
-                "InternalName": "WrathCombo",
-                "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1755953738
-            },
-            {
-                "Author": "daemitus, kawaii",
-                "Name": "Yes Already",
-                "InternalName": "YesAlready",
-                "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-                "LastUpdate": 1755589679
-            }
-        ],
-        "repo_developer_name": "Unknown Developer"
     },
     {
         "repo_url": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/pluginmaster.json",
