@@ -2211,7 +2211,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1756055872
+                "LastUpdate": 1756170611
             },
             {
                 "Author": "Haselnussbomber",
@@ -3170,104 +3170,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
                 "LastUpdate": 1754671241
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "LostFelix",
-        "repo_url": "https://raw.githubusercontent.com/LostFelix/personal-dalamud-plugin-compilation/main/repo.json",
-        "repo_source_url": "https://github.com/LostFelix/personal-dalamud-plugin-compilation",
-        "repo_name": "personal-dalamud-plugin-compilation",
-        "plugins": [
-            {
-                "Author": "Minmoose, Asgard and Contributors",
-                "Name": "Brio",
-                "InternalName": "Brio",
-                "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1755997481
-            },
-            {
-                "Author": "Risa",
-                "Name": "Customize+",
-                "InternalName": "CustomizePlus",
-                "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1756161934
-            },
-            {
-                "Author": "NightmareXIV, AsunaTsuki",
-                "Name": "DynamicBridge",
-                "InternalName": "DynamicBridge",
-                "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1755410036
-            },
-            {
-                "Author": "Ottermandias",
-                "Name": "Glamourer",
-                "InternalName": "Glamourer",
-                "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1756111529
-            },
-            {
-                "Author": "Anna",
-                "Name": "Heliosphere",
-                "InternalName": "heliosphere-plugin",
-                "Description": "Heliosphere is a mod manager and platform designed to work directly with\nPenumbra. It enables efficient downloads and fast installs to let you get back\nto the fun part of mods: using them.\n\nHeliosphere supports:\n- Direct install to Penumbra\n- Compressed and deduplicated (read: small) downloads\n- Automatic updates (optional)\n- Version history\n- Mod changelogs\n- Pictures in Penumbra\n- And more\n\nGive Heliosphere a try, and see if you can't say goodbye to any old mod\nplatform you were using before.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://heliosphere.app/",
-                "LastUpdate": 1754968278
-            },
-            {
-                "Author": "Chirp",
-                "Name": "Ktisis",
-                "InternalName": "Ktisis",
-                "Description": "A robust posing tool for creating screenshots in GPose.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1756115417
-            },
-            {
-                "Author": "darkarchon",
-                "Name": "Mare Synchronos",
-                "InternalName": "MareSynchronos",
-                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Penumbra-Sync/client",
-                "LastUpdate": 1755441558
-            },
-            {
-                "Author": "kawaii, Glyceri",
-                "Name": "Moodles",
-                "InternalName": "Moodles",
-                "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1756140965
-            },
-            {
-                "Author": "Ottermandias, Adam, Wintermute",
-                "Name": "Penumbra",
-                "InternalName": "Penumbra",
-                "Description": "Runtime mod loader and manager.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1756111183
-            },
-            {
-                "Author": "Caraxi",
-                "Name": "Simple Heels",
-                "InternalName": "SimpleHeels",
-                "Description": "Adjust the position of your character model",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1755511230
             }
         ]
     },
@@ -6613,8 +6515,9 @@
                 "InternalName": "Mercury",
                 "Description": "A search plugin that allows searching through all world and data centers.",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/WigglyMuffin/MercurysEye",
-                "LastUpdate": 1756168467
+                "RepoUrl": "https://github.com/WigglyMuffin/DalamudPlugins/tree/main/plugins/Mercury",
+                "LastUpdate": 1754478898,
+                "is_closed_source": true
             },
             {
                 "Author": "Liza Carvelli, WigglyMuffin",
@@ -6623,7 +6526,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1756169753
+                "LastUpdate": 1756173215
             }
         ]
     },
