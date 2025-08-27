@@ -1017,6 +1017,32 @@
         ]
     },
     {
+        "repo_url": "https://repo.caraxian.com",
+        "repo_source_url": "https://github.com/Caraxi/SimpleGlamourSwitcher",
+        "repo_name": "SimpleGlamourSwitcher",
+        "repo_developer_name": "Caraxi",
+        "plugins": [
+            {
+                "Author": "Caraxi",
+                "Name": "Simple Glamour Switcher",
+                "InternalName": "SimpleGlamourSwitcher",
+                "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
+                "LastUpdate": 1756242461
+            },
+            {
+                "Author": "Caraxi",
+                "Name": "Simple Heels",
+                "InternalName": "SimpleHeels",
+                "Description": "Adjust the position of your character model",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
+                "LastUpdate": 1755511230
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/CatboyEngineering/Plugins/raw/main/repo.json",
         "repo_source_url": "https://github.com/CatboyEngineering/Plugins",
         "repo_name": "Plugins",
@@ -1322,7 +1348,7 @@
                 "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1756154671
+                "LastUpdate": 1756253892
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -1771,7 +1797,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1756154671
+                "LastUpdate": 1756253892
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2493,7 +2519,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1756247468
+                "LastUpdate": 1756249822
             }
         ]
     },
