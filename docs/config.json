@@ -185,7 +185,7 @@
                 "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1756195007
+                "LastUpdate": 1756365293
             }
         ]
     },
@@ -715,7 +715,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1750693345
+                "LastUpdate": 1756382480
             }
         ]
     },
@@ -2138,6 +2138,23 @@
         ]
     },
     {
+        "repo_developer_name": "Glorou",
+        "repo_url": "https://raw.githubusercontent.com/Glorou/mare.client/main/repo.json",
+        "repo_source_url": "https://github.com/Glorou/mare.client",
+        "repo_name": "mare.client",
+        "plugins": [
+            {
+                "Author": "darkarchon, Karou",
+                "Name": "Mare Synchronos",
+                "InternalName": "Mare",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Glorou/mare.client",
+                "LastUpdate": 1756318861
+            }
+        ]
+    },
+    {
         "repo_url": "https://karou.ca/xiv/repo.json",
         "repo_source_url": "https://github.com/Glorou/PenumbraImageManipulationPlugin",
         "repo_developer_name": "Glorou",
@@ -2519,7 +2536,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1756355652
+                "LastUpdate": 1756384295
             }
         ]
     },
@@ -4275,7 +4292,7 @@
                 "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1756140965
+                "LastUpdate": 1756362862
             },
             {
                 "Author": "Ottermandias, Nylfae, Adam, Wintermute",
@@ -6165,7 +6182,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1755074126
+                "LastUpdate": 1756384304
             }
         ]
     },
