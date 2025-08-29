@@ -151,7 +151,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1756323278
+                "LastUpdate": 1756407067
             }
         ]
     },
@@ -168,7 +168,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1756323278
+                "LastUpdate": 1756407067
             }
         ]
     },
@@ -787,7 +787,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1756176520
+                "LastUpdate": 1756412091
             },
             {
                 "Author": "veyn",
@@ -1348,7 +1348,7 @@
                 "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1756325320
+                "LastUpdate": 1756408147
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -1797,7 +1797,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1756325320
+                "LastUpdate": 1756408147
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2536,7 +2536,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1756384295
+                "LastUpdate": 1756427460
             }
         ]
     },
@@ -3152,7 +3152,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Light-Public-Syncshells/LightlessClient",
-                "LastUpdate": 1756315302
+                "LastUpdate": 1756427486
             }
         ]
     },
@@ -4247,7 +4247,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1756323278
+                "LastUpdate": 1756407067
             },
             {
                 "Author": "NightmareXIV, AsunaTsuki",
@@ -4761,7 +4761,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1756401211
+                "LastUpdate": 1756421311
             }
         ]
     },
@@ -4867,7 +4867,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1756164123
+                "LastUpdate": 1756424911
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -4907,6 +4907,23 @@
             }
         ],
         "repo_developer_name": "Puni.sh Team"
+    },
+    {
+        "repo_developer_name": "pyraxnea",
+        "repo_url": "https://raw.githubusercontent.com/pyraxnea/StreetSweeper/main/repo.json",
+        "repo_source_url": "https://github.com/pyraxnea/StreetSweeper",
+        "repo_name": "StreetSweeper",
+        "plugins": [
+            {
+                "Author": "Pyraxnea",
+                "Name": "StreetSweeper",
+                "InternalName": "StreetSweeper",
+                "Description": "Automatically hides bots found in major cities using a simple set of heuristics.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/pyraxnea/StreetSweeper",
+                "LastUpdate": 1756416369
+            }
+        ]
     },
     {
         "repo_url": "https://github.com/RaidenvBlack/RaidenvPlugins/raw/main/repo.json",
@@ -6182,7 +6199,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1756403107
+                "LastUpdate": 1756427602
             }
         ]
     },
@@ -6471,23 +6488,13 @@
                 "LastUpdate": 1756351000
             },
             {
-                "Author": "WigglyMuffin",
-                "Name": "Mercury's Eye",
-                "InternalName": "Mercury",
-                "Description": "A search plugin that allows searching through all world and data centers.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/WigglyMuffin/DalamudPlugins/tree/main/plugins/Mercury",
-                "LastUpdate": 1754478898,
-                "is_closed_source": true
-            },
-            {
                 "Author": "Liza Carvelli, WigglyMuffin",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1756329535
+                "LastUpdate": 1756415222
             }
         ]
     },
