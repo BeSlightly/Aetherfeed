@@ -787,7 +787,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1756412091
+                "LastUpdate": 1756484220
             },
             {
                 "Author": "veyn",
@@ -1329,7 +1329,17 @@
                 "Description": "Let's you see what players are in a party with out joining. WARNING: this plugin is heavily obfuscated and communicates with the dev's server alot. The data seems to get pulled from their server. They might be sending info about your character to their end.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1756234544,
+                "LastUpdate": 1756491767,
+                "is_closed_source": true
+            },
+            {
+                "Author": "decorwdyun",
+                "Name": "PFRadar",
+                "InternalName": "PFRadar",
+                "Description": "Let's you see what players are in a party with out joining. WARNING: this plugin is heavily obfuscated and communicates with the dev's server alot. The data seems to get pulled from their server. They might be sending info about your character to their end.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/decorwdyun/PFRadar",
+                "LastUpdate": 1756491767,
                 "is_closed_source": true
             },
             {
@@ -1503,7 +1513,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1756232614
+                "LastUpdate": 1756486913
             }
         ]
     },
@@ -1752,7 +1762,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1756214696
+                "LastUpdate": 1756471357
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1824,7 +1834,7 @@
                 "Description": "",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarRepo",
-                "LastUpdate": 1756431659
+                "LastUpdate": 1756478133
             },
             {
                 "Author": "Sonar Team",
@@ -1833,7 +1843,7 @@
                 "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1756431644
+                "LastUpdate": 1756478120
             },
             {
                 "Author": "Sonar Team",
@@ -1842,7 +1852,7 @@
                 "Description": "마물, 돌발 전파를 자동으로 주고받습니다. /sonar 명령어로 알림 오버레이를 열고, /sonarconfig 으로 설정 창을 엽니다. 지원은 Sonar Support Discord에서만 제공됩니다.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1756431644
+                "LastUpdate": 1756478120
             }
         ],
         "repo_name": "SonarRepo",
@@ -2536,7 +2546,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1756470424
+                "LastUpdate": 1756471643
             }
         ]
     },
@@ -3067,7 +3077,7 @@
                 "Description": "A cosmic exploration helper that lets you automize crafting and gathering missions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1756359272
+                "LastUpdate": 1756482751
             }
         ]
     },
@@ -3502,7 +3512,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1756400034
+                "LastUpdate": 1756478204
             }
         ]
     },
@@ -4318,7 +4328,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1756400034
+                "LastUpdate": 1756478204
             },
             {
                 "Author": "Caraxi",
@@ -4812,7 +4822,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1756456355
+                "LastUpdate": 1756482975
             },
             {
                 "Author": "Det, Taurenkey",
@@ -4884,7 +4894,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1756470705
+                "LastUpdate": 1756470879
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -6624,7 +6634,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1756400034
+                "LastUpdate": 1756478204
             }
         ]
     },
