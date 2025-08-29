@@ -715,7 +715,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1756403067
+                "LastUpdate": 1756444914
             }
         ]
     },
@@ -1339,7 +1339,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1755807864
+                "LastUpdate": 1756448814
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -1824,7 +1824,7 @@
                 "Description": "",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarRepo",
-                "LastUpdate": 1754615849
+                "LastUpdate": 1756431659
             },
             {
                 "Author": "Sonar Team",
@@ -1833,7 +1833,7 @@
                 "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1754615837
+                "LastUpdate": 1756431644
             },
             {
                 "Author": "Sonar Team",
@@ -1842,7 +1842,7 @@
                 "Description": "마물, 돌발 전파를 자동으로 주고받습니다. /sonar 명령어로 알림 오버레이를 열고, /sonarconfig 으로 설정 창을 엽니다. 지원은 Sonar Support Discord에서만 제공됩니다.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1754615837
+                "LastUpdate": 1756431644
             }
         ],
         "repo_name": "SonarRepo",
@@ -2536,7 +2536,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1756427460
+                "LastUpdate": 1756436629
             }
         ]
     },
@@ -2999,6 +2999,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
                 "LastUpdate": 1756315363
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Latihas",
+        "repo_url": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/repo.json",
+        "repo_source_url": "https://github.com/Latihas/dalamud-plugins",
+        "repo_name": "dalamud-plugins",
+        "plugins": [
+            {
+                "Author": "Latihas",
+                "Name": "SkyEye",
+                "InternalName": "SkyEye",
+                "Description": "改版SkyEye，原作者0x",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Latihas/SkyEye",
+                "LastUpdate": 1756443299
             }
         ]
     },
@@ -4761,7 +4778,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1756421311
+                "LastUpdate": 1756443958
             }
         ]
     },
@@ -4867,7 +4884,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1756424911
+                "LastUpdate": 1756448544
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5657,7 +5674,7 @@
                 "Description": "Player synced custom voices, Twitch playback integration, and more!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
-                "LastUpdate": 1756266613
+                "LastUpdate": 1756445249
             }
         ]
     },
