@@ -1299,79 +1299,6 @@
         ]
     },
     {
-        "repo_url": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/decorwdyun/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "repo_developer_name": "decorwdyun",
-        "plugins": [
-            {
-                "Author": "Ottermandias, decorwdyun(汉化)",
-                "Name": "Accountant",
-                "InternalName": "Accountant",
-                "Description": "监控雇员、飞空艇、潜水艇、以太转轮、作物成熟以及多个角色的一些杂项任务。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/decorwdyun/Accountant",
-                "LastUpdate": 1750768256
-            },
-            {
-                "Author": "decorwdyun",
-                "Name": "FuckDalamudCN",
-                "InternalName": "FuckDalamudCN",
-                "Description": "如果你的网络环境不能稳定的访问 Github，那么可以试试本插件提供的 Github 加速服务，我们提供一系列优化以加速插件管理器的加载/下载",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
-                "LastUpdate": 1753025222
-            },
-            {
-                "Author": "decorwdyun",
-                "Name": "PFRadar",
-                "InternalName": "PFRadar",
-                "Description": "Let's you see what players are in a party with out joining. WARNING: this plugin is heavily obfuscated and communicates with the dev's server alot. The data seems to get pulled from their server. They might be sending info about your character to their end.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1756491767,
-                "is_closed_source": true
-            },
-            {
-                "Author": "decorwdyun",
-                "Name": "PFRadar",
-                "InternalName": "PFRadar",
-                "Description": "Let's you see what players are in a party with out joining. WARNING: this plugin is heavily obfuscated and communicates with the dev's server alot. The data seems to get pulled from their server. They might be sending info about your character to their end.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1756491767,
-                "is_closed_source": true
-            },
-            {
-                "Author": "Liza Carvelli, decorwdyun(汉化)",
-                "Name": "Questionable",
-                "InternalName": "Questionable",
-                "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1756456194
-            },
-            {
-                "Author": "The Combat Reborn Team, decorwdyun(汉化)",
-                "Name": "Rotation Solver Reborn",
-                "InternalName": "RotationSolver",
-                "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1756408147
-            },
-            {
-                "Author": "veyn, decorwdyun(汉化)",
-                "Name": "Satisfier",
-                "InternalName": "vsatisfy",
-                "Description": "通过自动化流程减少老主顾交付的烦恼。\n 所需插件：vnavmesh, Artisan",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/decorwdyun/ffxiv_satisfy",
-                "LastUpdate": 1750673131
-            }
-        ]
-    },
-    {
         "repo_url": "https://puni.sh/api/repository/det",
         "repo_source_url": "https://puni.sh/api/repository/det",
         "repo_name": "det",
@@ -1667,7 +1594,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1755997481
+                "LastUpdate": 1756495545
             }
         ]
     },
@@ -4265,7 +4192,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1755997481
+                "LastUpdate": 1756495545
             },
             {
                 "Author": "Risa and Contributors",
@@ -5633,7 +5560,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1755997481
+                "LastUpdate": 1756495545
             }
         ]
     },
