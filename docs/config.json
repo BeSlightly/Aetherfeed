@@ -787,7 +787,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1756484220
+                "LastUpdate": 1756520469
             },
             {
                 "Author": "veyn",
@@ -1081,7 +1081,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1756315363
+                "LastUpdate": 1756530201
             }
         ]
     },
@@ -1411,6 +1411,23 @@
         ]
     },
     {
+        "repo_developer_name": "doggjoe9",
+        "repo_url": "https://raw.githubusercontent.com/doggjoe9/ShakSynchronous/main/repo.json",
+        "repo_source_url": "https://github.com/doggjoe9/ShakSynchronous",
+        "repo_name": "ShakSynchronous",
+        "plugins": [
+            {
+                "Author": "darkarchon/shak",
+                "Name": "Shak Synchronos",
+                "InternalName": "ShakSynchronos",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/doggjoe9/ShakSynchronous",
+                "LastUpdate": 1756527138
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/Drakansoul/DisPlace/master/DisPlacePlugin.json",
         "repo_source_url": "https://github.com/Drakansoul/DisPlace",
         "repo_developer_name": "Drakansoul",
@@ -1483,7 +1500,7 @@
                 "Description": "automatically deletes your ACT logs after a configurable amount of time",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
-                "LastUpdate": 1754616150
+                "LastUpdate": 1756525270
             },
             {
                 "Author": "Eisenhuth",
@@ -1706,7 +1723,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1756471357
+                "LastUpdate": 1756535134
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2126,6 +2143,23 @@
         ]
     },
     {
+        "repo_developer_name": "GorditoSupreme",
+        "repo_url": "https://raw.githubusercontent.com/GorditoSupreme/MareClient/main/repo.json",
+        "repo_source_url": "https://github.com/GorditoSupreme/MareClient",
+        "repo_name": "MareClient",
+        "plugins": [
+            {
+                "Author": "darkarchon",
+                "Name": "Mare Synchronos",
+                "InternalName": "MareSynchronos",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/GorditoSupreme/MareClient",
+                "LastUpdate": 1756522083
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Grammernatzi/MyDalamudPlugins/raw/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Grammernatzi/MyDalamudPlugins",
         "repo_name": "MyDalamudPlugins",
@@ -2207,7 +2241,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1756337225
+                "LastUpdate": 1756518873
             },
             {
                 "Author": "Haselnussbomber",
@@ -2490,7 +2524,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1756515124
+                "LastUpdate": 1756517991
             }
         ]
     },
@@ -2952,7 +2986,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1756315363
+                "LastUpdate": 1756530201
             }
         ]
     },
@@ -3123,7 +3157,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Light-Public-Syncshells/LightlessClient",
-                "LastUpdate": 1756514400
+                "LastUpdate": 1756516760
             }
         ]
     },
@@ -4254,7 +4288,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1756315363
+                "LastUpdate": 1756530201
             },
             {
                 "Author": "kawaii, Glyceri",
@@ -4766,7 +4800,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1756482975
+                "LastUpdate": 1756531040
             },
             {
                 "Author": "Det, Taurenkey",
@@ -4838,7 +4872,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1756470879
+                "LastUpdate": 1756529236
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -6465,7 +6499,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1756510219
+                "LastUpdate": 1756519913
             }
         ]
     },
@@ -6736,23 +6770,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zbee/ARC",
                 "LastUpdate": 1755813726
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Zeranoshima",
-        "repo_url": "https://raw.githubusercontent.com/Zeranoshima/Moon-Magic/main/repo.json",
-        "repo_source_url": "https://github.com/Zeranoshima/Moon-Magic",
-        "repo_name": "Moon-Magic",
-        "plugins": [
-            {
-                "Author": "Moon Magic Team",
-                "Name": "Moon Magic",
-                "InternalName": "MoonMagic",
-                "Description": "Penumbra conflict manager + Glamourer one-click switching + importer from Mare/Snowcloak.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Zeranoshima/Moon-Magic",
-                "LastUpdate": 1756356107
             }
         ]
     },
