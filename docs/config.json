@@ -1008,6 +1008,32 @@
         ]
     },
     {
+        "repo_url": "https://repo.caraxian.com",
+        "repo_source_url": "https://github.com/Caraxi/SimpleGlamourSwitcher",
+        "repo_name": "SimpleGlamourSwitcher",
+        "repo_developer_name": "Caraxi",
+        "plugins": [
+            {
+                "Author": "Caraxi",
+                "Name": "Simple Glamour Switcher",
+                "InternalName": "SimpleGlamourSwitcher",
+                "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
+                "LastUpdate": 1756242461
+            },
+            {
+                "Author": "Caraxi",
+                "Name": "Simple Heels",
+                "InternalName": "SimpleHeels",
+                "Description": "Adjust the position of your character model",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
+                "LastUpdate": 1756603708
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/CatboyEngineering/Plugins/raw/main/repo.json",
         "repo_source_url": "https://github.com/CatboyEngineering/Plugins",
         "repo_name": "Plugins",
@@ -1559,7 +1585,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1756638124
+                "LastUpdate": 1756680724
             }
         ]
     },
@@ -1576,7 +1602,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1756638124
+                "LastUpdate": 1756680724
             }
         ]
     },
@@ -1671,7 +1697,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1756641513
+                "LastUpdate": 1756683126
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2481,7 +2507,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1756662836
+                "LastUpdate": 1756674499
             }
         ]
     },
@@ -3048,7 +3074,7 @@
                 "Description": "A cosmic exploration helper that lets you automize crafting and gathering missions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1756612867
+                "LastUpdate": 1756681020
             }
         ]
     },
@@ -3150,7 +3176,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Light-Public-Syncshells/LightlessClient",
-                "LastUpdate": 1756602125
+                "LastUpdate": 1756680772
             }
         ]
     },
@@ -4253,7 +4279,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1756638124
+                "LastUpdate": 1756680724
             },
             {
                 "Author": "Risa and Contributors",
@@ -4882,7 +4908,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1756629827
+                "LastUpdate": 1756675520
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -4909,7 +4935,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1756663131
+                "LastUpdate": 1756685229
             },
             {
                 "Author": "daemitus, kawaii",
@@ -5362,7 +5388,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1756662689
+                "LastUpdate": 1756688462
             },
             {
                 "Author": "Ricimon",
@@ -5621,7 +5647,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1756638124
+                "LastUpdate": 1756680724
             }
         ]
     },
@@ -6846,7 +6872,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1756601764
+                "LastUpdate": 1756257632
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
