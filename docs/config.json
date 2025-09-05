@@ -715,7 +715,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1756458916
+                "LastUpdate": 1757073179
             }
         ]
     },
@@ -1440,7 +1440,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1757049876
+                "LastUpdate": 1757062772
             }
         ]
     },
@@ -1723,7 +1723,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1756921323
+                "LastUpdate": 1757069380
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2272,59 +2272,6 @@
         ]
     },
     {
-        "repo_developer_name": "helpful-fox-senko-san",
-        "repo_url": "https://raw.githubusercontent.com/helpful-fox-senko-san/DalamudPlugins/plogon/repo.json",
-        "repo_source_url": "https://github.com/helpful-fox-senko-san/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "a cat",
-                "Name": "CatScan",
-                "InternalName": "CatScan",
-                "Description": "CatScan is a personal scanner for fates, B rank / A rank / S rank monsters, and epic fate bosses, with special features to help with recording hunt trains, S rank spawning, Eureka NM spawning and Bozja CE spawning.\n\nCatScan does not contain networking features, and cannot alert you about hunts in other zones.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/helpful-fox-senko-san/CatScan",
-                "LastUpdate": 1756818933
-            },
-            {
-                "Author": "SheepGoMeh",
-                "Name": "LopVisibility",
-                "InternalName": "LopVisibility",
-                "Description": "Customized version of Visibility plugin.\n\nAllows you to hide players, pets, chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/senko-forks/LopVisibility",
-                "LastUpdate": 1755267168
-            },
-            {
-                "Author": "a cat",
-                "Name": "OnlyTurbo",
-                "InternalName": "OnlyTurbo",
-                "Description": "Turbo horbar buttons only. Conflicts with and copied from ReAction by UnknownX7.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/helpful-fox-senko-san/OnlyTurbo",
-                "LastUpdate": 1754468324
-            },
-            {
-                "Author": "Avaflow, Ars Magna, Kelvin",
-                "Name": "OopsAllNaked",
-                "InternalName": "OopsAllNaked",
-                "Description": "Turn everyone around you into a nudist.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/senko-forks/OopsAllNaked",
-                "LastUpdate": 1754823935
-            },
-            {
-                "Author": "a cat",
-                "Name": "PalaceBuddy",
-                "InternalName": "PalaceBuddy",
-                "Description": "Efficient PalacePal reimplementation",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/helpful-fox-senko-san/PalaceBuddy",
-                "LastUpdate": 1754503848
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/Hiroa/LazyGatherer/raw/main/repo.json",
         "repo_source_url": "https://github.com/Hiroa/LazyGatherer",
         "repo_name": "LazyGatherer",
@@ -2524,7 +2471,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1757039668
+                "LastUpdate": 1757075317
             }
         ]
     },
@@ -2541,7 +2488,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1756657860
+                "LastUpdate": 1757067683
             },
             {
                 "Author": "croizat",
@@ -5458,7 +5405,7 @@
                 "Description": "Send other players ground pings and UI information.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-SmartPings",
-                "LastUpdate": 1757043943
+                "LastUpdate": 1757065688
             }
         ]
     },
@@ -6933,7 +6880,8 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1756257632
+                "LastUpdate": 1756257632,
+                "is_closed_source": true
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -6942,7 +6890,8 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1756075181
+                "LastUpdate": 1756075181,
+                "is_closed_source": true
             }
         ]
     }
