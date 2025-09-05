@@ -983,23 +983,6 @@
         ]
     },
     {
-        "repo_developer_name": "bwagner-dev",
-        "repo_url": "https://raw.githubusercontent.com/bwagner-dev/ComboComboCombo/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/bwagner-dev/ComboComboCombo",
-        "repo_name": "ComboComboCombo",
-        "plugins": [
-            {
-                "Author": "Ben",
-                "Name": "ComboComboCombo",
-                "InternalName": "ComboComboCombo",
-                "Description": "ComboComboCombo is based off of several combo plugins, but has completely new logic, features, and many quality of life improvements.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/bwagner-dev/ComboComboCombo",
-                "LastUpdate": 1745014649
-            }
-        ]
-    },
-    {
         "repo_url": "https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json",
         "repo_source_url": "https://github.com/CaiClone/GCDTracker",
         "repo_developer_name": "CaiClone",
@@ -1457,7 +1440,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1756912393
+                "LastUpdate": 1757049876
             }
         ]
     },
@@ -1474,7 +1457,7 @@
                 "Description": "Universal cross-client mod synchronization protocol for FFXIV. Enables TeraSync, Neko Net, and other Mare forks to sync with each other through decentralized AT Protocol.\n\nCommands:\n• /resonance - Opens main Resonance window\n• /resonance-config - Opens configuration window\n\nFeatures:\n• Cross-client synchronization between different Mare forks\n• Decentralized AT Protocol networking (Bluesky)\n• Universal character data format\n• Glamourer, Penumbra, Moodles, SimpleHeels support\n• Customize+ and other plugin compatibility\n• No changes to existing sync functionality",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/EchoEngineering/ResonanceFFXIV",
-                "LastUpdate": 1756988975
+                "LastUpdate": 1757045468
             }
         ]
     },
@@ -1628,7 +1611,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1756838396
+                "LastUpdate": 1757042387
             }
         ]
     },
@@ -1645,7 +1628,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1756838396
+                "LastUpdate": 1757042387
             }
         ]
     },
@@ -1785,7 +1768,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1756867573
+                "LastUpdate": 1757043543
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1812,7 +1795,7 @@
                 "Description": "",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarRepo",
-                "LastUpdate": 1756925548
+                "LastUpdate": 1757039523
             },
             {
                 "Author": "Sonar Team",
@@ -1821,7 +1804,7 @@
                 "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1756925535
+                "LastUpdate": 1757039508
             },
             {
                 "Author": "Sonar Team",
@@ -1830,7 +1813,7 @@
                 "Description": "마물, 돌발 전파를 자동으로 주고받습니다. /sonar 명령어로 알림 오버레이를 열고, /sonarconfig 으로 설정 창을 엽니다. 지원은 Sonar Support Discord에서만 제공됩니다.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1756925535
+                "LastUpdate": 1757039508
             }
         ],
         "repo_name": "SonarRepo",
@@ -2541,7 +2524,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1757032430
+                "LastUpdate": 1757039668
             }
         ]
     },
@@ -3134,7 +3117,7 @@
                 "Description": "A cosmic exploration helper that lets you automize crafting and gathering missions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1757032853
+                "LastUpdate": 1757044441
             }
         ]
     },
@@ -4026,7 +4009,7 @@
                 "Description": "Allows for automatic execution of commands upon entering new zones, with a 'Roleplay Only' mode for those who want to only use it for RP purposes.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers",
-                "LastUpdate": 1757030850
+                "LastUpdate": 1757035917
             }
         ]
     },
@@ -4356,7 +4339,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1756838396
+                "LastUpdate": 1757042387
             },
             {
                 "Author": "Risa and Contributors",
@@ -5457,7 +5440,7 @@
                 "Description": "An in-game voice chat plugin with character proximity detection.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-ProximityVoiceChat",
-                "LastUpdate": 1756924198
+                "LastUpdate": 1757044004
             },
             {
                 "Author": "Ricimon",
@@ -5475,7 +5458,7 @@
                 "Description": "Send other players ground pings and UI information.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-SmartPings",
-                "LastUpdate": 1756920873
+                "LastUpdate": 1757043943
             }
         ]
     },
@@ -5725,7 +5708,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1756838396
+                "LastUpdate": 1757042387
             }
         ]
     },
