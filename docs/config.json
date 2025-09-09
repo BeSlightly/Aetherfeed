@@ -90,7 +90,16 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (Wrath Combo, BossMod AutoRotation, or RotationSolverReborn)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
-                "LastUpdate": 1756976180
+                "LastUpdate": 1757405904
+            },
+            {
+                "Author": "Det",
+                "Name": "AutoHook",
+                "InternalName": "AutoHook",
+                "Description": "自动钓鱼7.2国服适配",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
+                "LastUpdate": 1757405904
             },
             {
                 "Author": "Paissa Heavy Industries",
@@ -99,7 +108,7 @@
                 "Description": "Omega缩小，适配7.25CN客户端",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
-                "LastUpdate": 1756976180
+                "LastUpdate": 1757405904
             },
             {
                 "Author": "cy237",
@@ -108,7 +117,7 @@
                 "Description": "自动找A怪，依赖插件: LifeStream, Teleporter, Vnavmesh, HuntHelper",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
-                "LastUpdate": 1756976180
+                "LastUpdate": 1757405904
             }
         ]
     },
@@ -1021,7 +1030,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1757256969
+                "LastUpdate": 1757407405
             }
         ]
     },
@@ -2472,7 +2481,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1757324137
+                "LastUpdate": 1757410000
             }
         ]
     },
@@ -3005,6 +3014,41 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
                 "LastUpdate": 1757221756
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/ice",
+        "repo_source_url": "https://github.com/LeontopodiumNivale14/",
+        "repo_name": "ice",
+        "repo_developer_name": "LeontopodiumNivale14",
+        "plugins": [
+            {
+                "Author": "Ice",
+                "Name": "Chilled Leves",
+                "InternalName": "ChilledLeves",
+                "Description": "A leve helper that lets you select which ones you want to do, and help turn them in for you. YOU NEED NAVMESH INSTALLED AS AN FYI.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/LeontopodiumNivale14/ChilledLeves",
+                "LastUpdate": 1754754287
+            },
+            {
+                "Author": "Ice",
+                "Name": "Explorer's Icebox",
+                "InternalName": "ExplorersIcebox",
+                "Description": "A little helper that lets you level up, or gather all the materials on Island Sanctary. Requires Navmesh & Visland.\nPop open a cold one while the tedious parts of exploration is handled by your good friend cousin robby",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox/tree/master",
+                "LastUpdate": 1754928323
+            },
+            {
+                "Author": "Ice",
+                "Name": "Ice's Cosmic Exploration (ICE)",
+                "InternalName": "ICE",
+                "Description": "*-insert a quirky description here later... hopefully-*",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
+                "LastUpdate": 1757390585
             }
         ]
     },
@@ -4289,7 +4333,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1757256969
+                "LastUpdate": 1757407405
             }
         ],
         "repo_developer_name": "Ottermandias"
@@ -4527,7 +4571,7 @@
                 "Description": "Generate a crafting list for the faded orchestrion rolls in your inventory. Use /faded to begin",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Pistachio-dev/Faded-Roll-Fixer",
-                "LastUpdate": 1756126780
+                "LastUpdate": 1757420864
             },
             {
                 "Author": "Pistachio Herald",
@@ -4865,7 +4909,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1757128316
+                "LastUpdate": 1757406536
             },
             {
                 "Author": "Team Wrath",
@@ -4883,7 +4927,7 @@
                 "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-                "LastUpdate": 1756967947
+                "LastUpdate": 1757418612
             }
         ],
         "repo_developer_name": "Puni.sh Team"
@@ -5146,7 +5190,7 @@
                 "Description": "Adds a window with an async-searchable list of all mobs and their known locations, using community data. Use /bbuddy to open.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/rail2025/BeastieBuddy",
-                "LastUpdate": 1756935921
+                "LastUpdate": 1757400261
             }
         ]
     },
@@ -5757,7 +5801,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1757128316
+                "LastUpdate": 1757406536
             }
         ]
     },
@@ -6144,7 +6188,7 @@
                 "Description": "Integration for Pishock and OpenShock devices.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
-                "LastUpdate": 1755090953
+                "LastUpdate": 1757420741
             }
         ]
     },
@@ -6179,7 +6223,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1757331734
+                "LastUpdate": 1757401558
             }
         ]
     },
