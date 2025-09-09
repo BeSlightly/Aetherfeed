@@ -769,7 +769,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1757440004
+                "LastUpdate": 1757446504
             },
             {
                 "Author": "veyn",
@@ -1449,7 +1449,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1757167870
+                "LastUpdate": 1757451791
             }
         ]
     },
@@ -1760,7 +1760,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1757226131
+                "LastUpdate": 1757447326
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2455,7 +2455,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1757440619
+                "LastUpdate": 1757456266
             }
         ]
     },
@@ -3466,7 +3466,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1757435586
+                "LastUpdate": 1757443926
             }
         ]
     },
@@ -4307,7 +4307,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1757435586
+                "LastUpdate": 1757443926
             },
             {
                 "Author": "Caraxi",
@@ -4520,59 +4520,6 @@
                 "Description": "Chat history plugin, view history per character, per group, or search.\n Main command /whowhat",
                 "RepoUrl": "https://github.com/perappu/WhoSaidWhatNow",
                 "LastUpdate": 1756919229
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Pistachio-dev",
-        "repo_url": "https://raw.githubusercontent.com/Pistachio-dev/DalamudPluginRepository/main/repo.json",
-        "repo_source_url": "https://github.com/Pistachio-dev/DalamudPluginRepository",
-        "repo_name": "DalamudPluginRepository",
-        "plugins": [
-            {
-                "Author": "Pistachio Herald",
-                "Name": "Autogardener",
-                "InternalName": "Autogardener",
-                "Description": "Tend to your plot in one click. Type /autog to start.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Pistachio-dev/FFXIV_Autogardener",
-                "LastUpdate": 1756913359
-            },
-            {
-                "Author": "Pistachio Herald",
-                "Name": "Cards Against Hyurmanity",
-                "InternalName": "CardsAgainstHyurmanity",
-                "Description": "Play cards against humanity over game chat. Type /cah to open the main window.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity",
-                "LastUpdate": 1756547505
-            },
-            {
-                "Author": "Pistachio Herald",
-                "Name": "Faded Orchestrion Roll Fixer",
-                "InternalName": "FadedRollFixer",
-                "Description": "Generate a crafting list for the faded orchestrion rolls in your inventory. Use /faded to begin",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Pistachio-dev/Faded-Roll-Fixer",
-                "LastUpdate": 1757420864
-            },
-            {
-                "Author": "Pistachio Herald",
-                "Name": "Texas Hold'em Helper'",
-                "InternalName": "HoldemHelper",
-                "Description": "Use /holdem to open the window.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
-                "LastUpdate": 1756547441
-            },
-            {
-                "Author": "Pistachio Herald",
-                "Name": "ToD Howard",
-                "InternalName": "TruthOrDareHelper",
-                "Description": "Make Truth or Dare easier and faster. Type /tod to launch. It just works.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Pistachio-dev/TruthOrDareHelper",
-                "LastUpdate": 1756547566
             }
         ]
     },
@@ -4874,7 +4821,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1757393719
+                "LastUpdate": 1757448477
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5354,7 +5301,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1757426831
+                "LastUpdate": 1757454931
             },
             {
                 "Author": "Ricimon",
@@ -6280,6 +6227,22 @@
         ]
     },
     {
+        "repo_url": "https://repo.lightless-sync.org/",
+        "repo_source_url": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
+        "repo_developer_name": "Unknown Developer",
+        "repo_name": "Unknown Repo From URL",
+        "plugins": [
+            {
+                "Author": "Lightless Meme Team",
+                "Name": "Lightless Sync",
+                "InternalName": "LightlessSync",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient"
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/pluginmaster.json",
         "repo_source_url": "https://github.com/UnknownX7/DalamudPluginRepo",
         "repo_name": "DalamudPluginRepo",
@@ -6614,7 +6577,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1757435586
+                "LastUpdate": 1757443926
             }
         ]
     },
