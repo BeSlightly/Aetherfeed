@@ -351,7 +351,7 @@
                 "Description": "Provides link buttons in chat for death rolling",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/ChatDeathRoll",
-                "LastUpdate": 1757362601
+                "LastUpdate": 1757395064
             },
             {
                 "Author": "Anya Hichu",
@@ -360,7 +360,7 @@
                 "Description": "Provide deterministic pose commands (cpose, standup, walk, etc.)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
-                "LastUpdate": 1757329186
+                "LastUpdate": 1757395003
             },
             {
                 "Author": "Anya Hichu",
@@ -369,7 +369,7 @@
                 "Description": "Update honorific title based on discord activity informations",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
-                "LastUpdate": 1757349401
+                "LastUpdate": 1757395041
             },
             {
                 "Author": "Pyon, Anya Hichu",
@@ -387,7 +387,7 @@
                 "Description": "Add bulk tags dynamically to penumbra mods based on conditions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/ModAutoTagger",
-                "LastUpdate": 1757349332
+                "LastUpdate": 1757395035
             },
             {
                 "Author": "Anya Hichu",
@@ -396,7 +396,7 @@
                 "Description": "Provides commands to interact with penumbra mod settings",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/ModSettingCommands",
-                "LastUpdate": 1757336172
+                "LastUpdate": 1757395028
             },
             {
                 "Author": "Anya Hichu",
@@ -405,7 +405,7 @@
                 "Description": "Displays emote counters as honorific title dynamically",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
-                "LastUpdate": 1757332990
+                "LastUpdate": 1757395021
             },
             {
                 "Author": "Anya Hichu",
@@ -414,7 +414,7 @@
                 "Description": "Generate and run macro actions quickly using a spotlight inspired interface",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/Quack",
-                "LastUpdate": 1757325648
+                "LastUpdate": 1757394995
             },
             {
                 "Author": "Anya Hichu",
@@ -423,7 +423,7 @@
                 "Description": "Refresh party finder recruitment automatically",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/RecruitmentRefresher",
-                "LastUpdate": 1757355053
+                "LastUpdate": 1757395049
             },
             {
                 "Author": "Anya Hichu",
@@ -432,7 +432,7 @@
                 "Description": "Configurable text patterns or emotes to execute commands",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/Reggiex",
-                "LastUpdate": 1757295085
+                "LastUpdate": 1757394987
             }
         ]
     },
@@ -2446,7 +2446,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1757375230
+                "LastUpdate": 1757381016
             }
         ]
     },
@@ -3005,41 +3005,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
                 "LastUpdate": 1757221756
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/ice",
-        "repo_source_url": "https://github.com/LeontopodiumNivale14/",
-        "repo_name": "ice",
-        "repo_developer_name": "LeontopodiumNivale14",
-        "plugins": [
-            {
-                "Author": "Ice",
-                "Name": "Chilled Leves",
-                "InternalName": "ChilledLeves",
-                "Description": "A leve helper that lets you select which ones you want to do, and help turn them in for you. YOU NEED NAVMESH INSTALLED AS AN FYI.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/LeontopodiumNivale14/ChilledLeves",
-                "LastUpdate": 1754754287
-            },
-            {
-                "Author": "Ice",
-                "Name": "Explorer's Icebox",
-                "InternalName": "ExplorersIcebox",
-                "Description": "A little helper that lets you level up, or gather all the materials on Island Sanctary. Requires Navmesh & Visland.\nPop open a cold one while the tedious parts of exploration is handled by your good friend cousin robby",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox/tree/master",
-                "LastUpdate": 1754928323
-            },
-            {
-                "Author": "Ice",
-                "Name": "Ice's Cosmic Exploration (ICE)",
-                "InternalName": "ICE",
-                "Description": "A cosmic exploration helper that lets you automize crafting and gathering missions",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1757376004
             }
         ]
     },
@@ -4776,7 +4741,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1757212681
+                "LastUpdate": 1757382246
             }
         ]
     },
@@ -4882,7 +4847,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1757319470
+                "LastUpdate": 1757393719
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5362,7 +5327,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1756923923
+                "LastUpdate": 1757398642
             },
             {
                 "Author": "Ricimon",
@@ -5604,7 +5569,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1757286592
+                "LastUpdate": 1757381946
             }
         ]
     },
