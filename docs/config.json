@@ -1603,7 +1603,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1757371301
+                "LastUpdate": 1757459964
             }
         ]
     },
@@ -1620,7 +1620,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1757371301
+                "LastUpdate": 1757459964
             }
         ]
     },
@@ -1760,7 +1760,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1757447326
+                "LastUpdate": 1757465360
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2242,7 +2242,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1757213767
+                "LastUpdate": 1757459594
             },
             {
                 "Author": "Haselnussbomber",
@@ -2455,7 +2455,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1757456266
+                "LastUpdate": 1757464245
             }
         ]
     },
@@ -3134,6 +3134,22 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/lichie567/LMeter",
                 "LastUpdate": 1754534796
+            }
+        ]
+    },
+    {
+        "repo_url": "https://repo.lightless-sync.org/",
+        "repo_source_url": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
+        "repo_developer_name": "Lightless-Sync",
+        "repo_name": "LightlessClient",
+        "plugins": [
+            {
+                "Author": "Lightless Meme Team",
+                "Name": "Lightless Sync",
+                "InternalName": "LightlessSync",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient"
             }
         ]
     },
@@ -4244,7 +4260,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1757371301
+                "LastUpdate": 1757459964
             },
             {
                 "Author": "Risa and Contributors",
@@ -5560,7 +5576,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1757371301
+                "LastUpdate": 1757459964
             }
         ]
     },
@@ -6223,22 +6239,6 @@
                 "RepoUrl": "https://github.com/uiharuayako/PantsPlugins",
                 "LastUpdate": 1756138743,
                 "is_closed_source": true
-            }
-        ]
-    },
-    {
-        "repo_url": "https://repo.lightless-sync.org/",
-        "repo_source_url": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
-        "repo_developer_name": "Unknown Developer",
-        "repo_name": "Unknown Repo From URL",
-        "plugins": [
-            {
-                "Author": "Lightless Meme Team",
-                "Name": "Lightless Sync",
-                "InternalName": "LightlessSync",
-                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient"
             }
         ]
     },
