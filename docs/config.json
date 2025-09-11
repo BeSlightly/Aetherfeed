@@ -1449,7 +1449,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1757451791
+                "LastUpdate": 1757549239
             }
         ]
     },
@@ -1569,7 +1569,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1756851388
+                "LastUpdate": 1757532111
             }
         ]
     },
@@ -1715,7 +1715,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1757509444
+                "LastUpdate": 1757531163
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1824,7 +1824,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1756851412
+                "LastUpdate": 1757532157
             }
         ]
     },
@@ -2106,6 +2106,31 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/GitPaulo/RightClickSearchInfo",
                 "LastUpdate": 1744401935
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Glaives-of-Eorzea",
+        "repo_url": "https://raw.githubusercontent.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution",
+        "repo_name": "FFXIV.Plugin.Distribution",
+        "plugins": [
+            {
+                "Author": "ChrisSMellor",
+                "Name": "Glaive Tweaks",
+                "InternalName": "Glaives.Plugin.Tweaks",
+                "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
+                "DalamudApiLevel": 13,
+                "LastUpdate": 1757530511
+            },
+            {
+                "Author": "veyn, croizat",
+                "Name": "V(ery) Island",
+                "InternalName": "visland",
+                "Description": "Automate gathering, workshop assignments, etc.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+                "LastUpdate": 1754783775
             }
         ]
     },
@@ -2455,7 +2480,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1757508840
+                "LastUpdate": 1757551864
             }
         ]
     },
@@ -3330,7 +3355,7 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1757342804
+                "LastUpdate": 1757535551
             }
         ]
     },
@@ -4475,7 +4500,7 @@
                 "Description": "Export models to glTF format.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1757241074
+                "LastUpdate": 1757546360
             }
         ]
     },
@@ -4703,18 +4728,18 @@
                 "Name": "Prittoto Pritto's Party Pals Piss-up Plugin ♥",
                 "InternalName": "PissUpPlugin",
                 "Description": "/pppp to open the UI and go from there. I'll update this when there's more info.",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PrittotoPritto/PartyPalsPissUpPlugin",
-                "LastUpdate": 1740696123
+                "LastUpdate": 1757531147
             },
             {
                 "Author": "Prittoto Pritto",
                 "Name": "Prittoto Pritto's Tracery Plugin",
                 "InternalName": "TraceryPlugin",
                 "Description": "/Trace to bring up the UI or give it a string to flatten. See Tracery.io for more on what it can do.",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PrittotoPritto/TraceryPlugin",
-                "LastUpdate": 1740697177
+                "LastUpdate": 1757531160
             }
         ]
     },
@@ -5317,7 +5342,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1757454931
+                "LastUpdate": 1757549464
             },
             {
                 "Author": "Ricimon",
@@ -5559,7 +5584,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1757381946
+                "LastUpdate": 1757544124
             }
         ]
     },
@@ -5963,7 +5988,7 @@
                 "Description": "Brand new combos like never before - 1 button mode included! Features extra functionality not in other combo plugins like PvP, Blue Mage, Eureka, and Bozja!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/StackBLU/UltimateCombo",
-                "LastUpdate": 1757437655
+                "LastUpdate": 1757538610
             }
         ]
     },
@@ -6801,7 +6826,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1757375906,
+                "LastUpdate": 1757550024,
                 "is_closed_source": true
             },
             {
