@@ -1285,9 +1285,9 @@
                 "Name": "One Piece",
                 "InternalName": "OnePiece",
                 "Description": "Import coordinates from selected channels and enjoy your treasure hunt. Automatically optimize routes considering player location, aetheryte costs, and distances.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/dalamudx/onepiece",
-                "LastUpdate": 1754750378
+                "LastUpdate": 1757744015
             }
         ]
     },
@@ -1732,7 +1732,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1757639204
+                "LastUpdate": 1757740655
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1841,7 +1841,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1757532157
+                "LastUpdate": 1757740797
             }
         ]
     },
@@ -2182,6 +2182,22 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Grammernatzi/XIVComboPlugin",
                 "LastUpdate": 1754469198
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "GrimmortalDread",
+        "repo_url": "https://raw.githubusercontent.com/GrimmortalDread/NoQuestIcons/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/GrimmortalDread/NoQuestIcons",
+        "repo_name": "NoQuestIcons",
+        "plugins": [
+            {
+                "Author": "GrimmortalDread",
+                "Name": "No Quest Icons",
+                "InternalName": "NoQuestIcons",
+                "Description": "Hides quest icons above NPCs' heads.",
+                "RepoUrl": "https://github.com/GrimmortalDread/NoQuestIcons",
+                "LastUpdate": 1757742686
             }
         ]
     },
@@ -3823,7 +3839,7 @@
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1757424500
+                "LastUpdate": 1757731147
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
@@ -3927,7 +3943,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1757424478,
+                "LastUpdate": 1757731124,
                 "is_closed_source": true
             },
             {
@@ -3937,7 +3953,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1757424478,
+                "LastUpdate": 1757731124,
                 "is_closed_source": true
             },
             {
@@ -4871,7 +4887,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1757723236
+                "LastUpdate": 1757728486
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5351,7 +5367,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1757706571
+                "LastUpdate": 1757731535
             },
             {
                 "Author": "Ricimon",
