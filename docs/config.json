@@ -500,7 +500,7 @@
                 "Description": "A simple plugin that lets you play any game emote, whether you unlocked it or not.\nClient side only.\nJust type the emote command as you would normally.\nWorks with custom animations and syncable over Mare.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
-                "LastUpdate": 1757783428
+                "LastUpdate": 1758045027
             }
         ]
     },
@@ -648,9 +648,9 @@
                 "Name": "GatherBuddy Reborn",
                 "InternalName": "GatherbuddyReborn",
                 "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
-                "LastUpdate": 1755684430
+                "LastUpdate": 1758032452
             },
             {
                 "Author": "Haselnussbomber",
@@ -668,7 +668,7 @@
                 "Description": "Dalamud Wrapper for Craft Solver Raphael /n Mainly used to provide IPC for other Dalamud plugins",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud",
-                "LastUpdate": 1757855874
+                "LastUpdate": 1758027731
             },
             {
                 "Author": "AtmoOmen",
@@ -693,9 +693,9 @@
                 "Name": "vnavmesh",
                 "InternalName": "vnavmesh",
                 "Description": "不仅会自动寻路, 还能自动避障",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1757073179
+                "LastUpdate": 1758031344
             }
         ]
     },
@@ -740,7 +740,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1757446504
+                "LastUpdate": 1758039191
             },
             {
                 "Author": "veyn",
@@ -1540,7 +1540,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1757972134
+                "LastUpdate": 1758032293
             }
         ]
     },
@@ -1632,9 +1632,9 @@
                 "Name": "I-Ching-GL",
                 "InternalName": "I-Ching-GL",
                 "Description": "Chinese plugin, highly illegal FFXIV modification - provides many cheating features, but requires registration on their discord server",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1757165061,
+                "LastUpdate": 1758037050,
                 "is_closed_source": true
             },
             {
@@ -1644,7 +1644,7 @@
                 "Description": "5v5天才妹妹为您服务",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1757165061
+                "LastUpdate": 1758037050
             }
         ]
     },
@@ -1795,7 +1795,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1757972533
+                "LastUpdate": 1758032541
             }
         ]
     },
@@ -2331,7 +2331,7 @@
                 "Description": "在集体动作模式中控制参与的角色。",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/MeowZWR/Brio",
-                "LastUpdate": 1757992465
+                "LastUpdate": 1758041517
             }
         ]
     },
@@ -3005,6 +3005,23 @@
         ]
     },
     {
+        "repo_developer_name": "kznr02",
+        "repo_url": "https://raw.githubusercontent.com/kznr02/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/kznr02/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Ice",
+                "Name": "Ice's Cosmic Exploration",
+                "InternalName": "ICE",
+                "Description": "玉子烧自编译，请勿在闲鱼购买",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/kznr02/Ices-Cosmic-Exploration",
+                "LastUpdate": 1758031904
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Latihas",
         "repo_url": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/repo.json",
         "repo_source_url": "https://github.com/Latihas/dalamud-plugins",
@@ -3452,7 +3469,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/MeowZWR/Brio",
-                "LastUpdate": 1757992465
+                "LastUpdate": 1758041517
             }
         ]
     },
@@ -3816,27 +3833,27 @@
                 "Name": "Divination.AetheryteLinkInChat",
                 "InternalName": "AetheryteLinkInChat",
                 "Description": "从游戏聊天信息的地图链接，中显示一个传送链接到最近的以太之光的链接。输入 /alic 来配置插件。",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/Divination",
-                "LastUpdate": 1751111168
+                "LastUpdate": 1758034674
             },
             {
                 "Author": "Faye / NiGuangOwO (适配&优化) / Ookura-Risona (汉化)",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1758024736
+                "LastUpdate": 1758036273
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1756563719,
+                "LastUpdate": 1758027033,
                 "is_closed_source": true
             },
             {
@@ -3854,55 +3871,45 @@
                 "Name": "HoardFarm",
                 "InternalName": "HoardFarm",
                 "Description": "帮助您伐木深层迷宫宝藏的插件（...为您）",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/HoardFarm",
-                "LastUpdate": 1744201067
+                "LastUpdate": 1758035674
             },
             {
                 "Author": "Bluefissure",
                 "Name": "Inviter",
                 "InternalName": "Inviter",
                 "Description": "Automatically invite people to your party (doesn't work for CWLS). /xinvite to open.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Bluefissure/Inviter",
                 "LastUpdate": 1755479006
-            },
-            {
-                "Author": "NightmareXIV, Small_Miao(汉化)",
-                "Name": "JustBackup",
-                "InternalName": "JustBackup",
-                "Description": "该插件会在游戏/插件启动时自动备份你的游戏和插件配置.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/NightmareXIV/JustBackup",
-                "LastUpdate": 1754550798,
-                "is_closed_source": true
             },
             {
                 "Author": "53m1k0l0n/Gidedin (Puni.sh) / NiGuangOwO (本地化)",
                 "Name": "LazyLoot",
                 "InternalName": "LazyLoot",
                 "Description": "带有各种参数的Roll点命令 need | greed | pass\n聊天和Toast输出以及Roll点延迟。",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/LazyLoot",
-                "LastUpdate": 1750777679
+                "LastUpdate": 1758031173
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
                 "Name": "Lifestream",
                 "InternalName": "Lifestream",
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1753504512
+                "LastUpdate": 1758028191
             },
             {
                 "Author": "NiGuangOwO",
                 "Name": "LuckyStar",
                 "InternalName": "LuckyStar",
                 "Description": "woc！触发组！",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/LuckyStar",
-                "LastUpdate": 1750864175
+                "LastUpdate": 1758035005
             },
             {
                 "Author": "Small_Miao",
@@ -3931,16 +3938,25 @@
                 "Description": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。\n\n这个插件需要Splatoon才能在屏幕上渲染绘图。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/PalacePal",
-                "LastUpdate": 1753185290
+                "LastUpdate": 1758036355
             },
             {
                 "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
                 "Name": "Pandora's Box",
                 "InternalName": "PandorasBox",
                 "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
                 "LastUpdate": 1756336330
+            },
+            {
+                "Author": "NiGuangOwO",
+                "Name": "SSMinionBoradcast",
+                "InternalName": "SSMinionBoradcast",
+                "Description": "简单的播报SS前置小怪的小工具",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
+                "LastUpdate": 1758036273
             }
         ]
     },
@@ -4190,27 +4206,27 @@
                 "Name": "Lala Name",
                 "InternalName": "LalaName",
                 "Description": "Show the gender of all lalafell characters to nameplate.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/OkuKatsu/LalaName",
-                "LastUpdate": 1746461633
+                "LastUpdate": 1758039047
             },
             {
                 "Author": "Avaflow, Ars Magna, Kelvin, Oku Katsu",
                 "Name": "Oku Lalafell",
                 "InternalName": "OkuLalafell",
                 "Description": "Turn everyone around you into Lalafells (or other races!)\n/polala on = enable plugin.\n/polala off = disable plugin.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/OkuKatsu/OkuLalafell",
-                "LastUpdate": 1752591193
+                "LastUpdate": 1758039071
             },
             {
                 "Author": "Oku Katsu",
                 "Name": "Slice Is Right",
                 "InternalName": "SliceIsRight",
                 "Description": "Darw danger Zone on Gold Saucer Slice Is Right Game.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/OkuKatsu/SliceIsRight",
-                "LastUpdate": 1746936880
+                "LastUpdate": 1758039030
             }
         ]
     },
@@ -4423,7 +4439,7 @@
                 "Description": "A simple plugin to replace timelines of actions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/papapachin/ActionTimelineReplacement/tree/Global",
-                "LastUpdate": 1754836476
+                "LastUpdate": 1758043800
             }
         ]
     },
@@ -5274,7 +5290,7 @@
                 "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the ReMakePlace program.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ReMakePlace/plugin",
-                "LastUpdate": 1756458531
+                "LastUpdate": 1758034552
             }
         ]
     },
