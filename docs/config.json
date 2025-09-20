@@ -622,7 +622,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1758173966,
+                "LastUpdate": 1758366993,
                 "is_closed_source": true
             },
             {
@@ -1562,6 +1562,50 @@
         ]
     },
     {
+        "repo_developer_name": "eroubue",
+        "repo_url": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/eroubue/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Kouzukii Nag0mi",
+                "Name": "Character Panel Refined CN",
+                "InternalName": "CharacterPanelRefined",
+                "Description": "角色面板精炼删除了角色面板中无用的信息，同时添加了有用的统计数据，例如暴击和直击概率百分比以及估计伤害输出，以便更轻松地比较装备。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/eroubue/ffxiv-characterstatus-refined",
+                "LastUpdate": 1758348557
+            },
+            {
+                "Author": "Nag0mi",
+                "Name": "Fake Name Reborn",
+                "InternalName": "FakeNameReborn",
+                "Description": "重生之我是FF14打号王!享受无限制的修改id功能.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/eroubue/FakeNameReborn",
+                "LastUpdate": 1758356940
+            },
+            {
+                "Author": "Ottermandias Nag0mi",
+                "Name": "RezPls CN",
+                "InternalName": "RezPls",
+                "Description": "轻松概览谁正在复活谁,\n已经复活了,\n以及世界上谁拥有可驱散的debuff影响.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/eroubue/RezPls/",
+                "LastUpdate": 1758348085
+            },
+            {
+                "Author": "Nag0mi Tischel",
+                "Name": "TPie Reborn",
+                "InternalName": "TPie",
+                "Description": "高度可配置的快捷栏，可以通过按键绑定进行切换。它们可以填充动作、物品、装备组、宏等等...",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/eroubue/TPie",
+                "LastUpdate": 1758360507
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Errerer/DalamudPlugins",
         "repo_name": "DalamudPlugins",
@@ -1731,7 +1775,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1758279469
+                "LastUpdate": 1758351133
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1776,7 +1820,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1758340311
+                "LastUpdate": 1758356359
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2495,7 +2539,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1758340558
+                "LastUpdate": 1758371029
             }
         ]
     },
@@ -3609,23 +3653,6 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/yoyokity/TreasureBox",
                 "LastUpdate": 1740110576
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "mona-ty",
-        "repo_url": "https://raw.githubusercontent.com/mona-ty/XIVSubmarinesReturn/main/repo.json",
-        "repo_source_url": "https://github.com/mona-ty/XIVSubmarinesReturn",
-        "repo_name": "XIVSubmarinesReturn",
-        "plugins": [
-            {
-                "Author": "Mona Tierra",
-                "Name": "XIV Submarines Return",
-                "InternalName": "XIVSubmarinesReturn",
-                "Description": "Captures company workshop submarine list and writes JSON for external tools.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/mona-ty/XIVSubmarinesReturn",
-                "LastUpdate": 1757957011
             }
         ]
     },
@@ -5155,7 +5182,7 @@
                 "Description": "Draw strategy images for encounters. Use /aetherdraw to open",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/rail2025/AetherDraw",
-                "LastUpdate": 1757749194
+                "LastUpdate": 1758360329
             }
         ]
     },
@@ -6230,7 +6257,7 @@
                 "Description": "Turn everyone around you into a nudist.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/tigurand/OopsAllNudist",
-                "LastUpdate": 1758214160
+                "LastUpdate": 1758369351
             },
             {
                 "Author": "Lucille",
