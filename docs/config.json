@@ -1001,7 +1001,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1758377124
+                "LastUpdate": 1758407362
             }
         ]
     },
@@ -1775,7 +1775,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1758351133
+                "LastUpdate": 1758401764
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2539,7 +2539,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1758392237
+                "LastUpdate": 1758413560
             }
         ]
     },
@@ -3693,7 +3693,7 @@
                 "Description": "Unified mod orchestration for FFXIV: Penumbra conflict manager (Wardrobe), Glamourer one-click outfits (Glamours), importer from Mare/Snowcloak, typed EULA consent, and a Ko-fi Donate button.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Moon-Magic-Z/Moon-Magic",
-                "LastUpdate": 1756669662
+                "LastUpdate": 1758411273
             }
         ]
     },
@@ -4429,7 +4429,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1758377124
+                "LastUpdate": 1758407362
             }
         ],
         "repo_developer_name": "Ottermandias"
@@ -5148,7 +5148,7 @@
                 "Description": "Opens on death, or /abreaker. A Puzzle Bobble clone mini-game.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/rail2025/AetherBreaker",
-                "LastUpdate": 1754772353
+                "LastUpdate": 1758409951
             }
         ]
     },
@@ -5363,6 +5363,15 @@
         "repo_source_url": "https://github.com/RenNagasaki/MyDalamudPlugins",
         "repo_name": "MyDalamudPlugins",
         "plugins": [
+            {
+                "Author": "yomishino, RenNagasaki",
+                "Name": "ActionEffectRange",
+                "InternalName": "ActionEffectRange",
+                "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/RenNagasaki/FFXIVActionEffectRange",
+                "LastUpdate": 1758408961
+            },
             {
                 "Author": "RenNagasaki",
                 "Name": "Echokraut",
