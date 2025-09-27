@@ -1199,7 +1199,7 @@
                 "Description": "Friend list but with better sorting, can search by name, refresh with a button, color names..\nRight click for context menu.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/devckuw/BetterFriendList",
-                "LastUpdate": 1758900703
+                "LastUpdate": 1758964074
             },
             {
                 "Author": "Loody",
@@ -1684,7 +1684,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1758946969
+                "LastUpdate": 1758975580
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2403,7 +2403,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1758948682
+                "LastUpdate": 1758975946
             }
         ]
     },
@@ -3464,7 +3464,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1758273519
+                "LastUpdate": 1758974615
             }
         ]
     },
@@ -4284,7 +4284,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1758273519
+                "LastUpdate": 1758974615
             },
             {
                 "Author": "Caraxi",
@@ -5001,6 +5001,23 @@
     },
     {
         "repo_developer_name": "rail2025",
+        "repo_url": "https://raw.githubusercontent.com/rail2025/AetherBomber/master/repo.json",
+        "repo_source_url": "https://github.com/rail2025/AetherBomber",
+        "repo_name": "AetherBomber",
+        "plugins": [
+            {
+                "Author": "rail",
+                "Name": "AetherBreaker",
+                "InternalName": "AetherBreaker",
+                "Description": "Opens on death, or /abreaker. A Puzzle Bobble clone mini-game.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/rail2025/AetherBreaker",
+                "LastUpdate": 1758409951
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "rail2025",
         "repo_url": "https://raw.githubusercontent.com/rail2025/AetherBreaker/master/repo.json",
         "repo_source_url": "https://github.com/rail2025/AetherBreaker",
         "repo_name": "AetherBreaker",
@@ -5287,7 +5304,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1758924945
+                "LastUpdate": 1758970440
             },
             {
                 "Author": "Ricimon",
@@ -6547,7 +6564,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1758273519
+                "LastUpdate": 1758974615
             }
         ]
     },
