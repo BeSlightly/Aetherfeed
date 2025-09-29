@@ -631,7 +631,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1758997994
+                "LastUpdate": 1759119352
             },
             {
                 "Author": "veyn",
@@ -1684,7 +1684,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1759106308
+                "LastUpdate": 1759107583
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2403,7 +2403,7 @@
                 "Description": "DemiCat Dalamud plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
-                "LastUpdate": 1759107197
+                "LastUpdate": 1759118851
             }
         ]
     },
@@ -2980,6 +2980,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
                 "LastUpdate": 1758807548
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "leo-ranger",
+        "repo_url": "https://raw.githubusercontent.com/leo-ranger/WDIGViewer_Base/main/repo.json",
+        "repo_source_url": "https://github.com/leo-ranger/WDIGViewer_Base",
+        "repo_name": "WDIGViewer_Base",
+        "plugins": [
+            {
+                "Author": "rail",
+                "Name": "WDIGViewer",
+                "InternalName": "WDIGViewer",
+                "Description": "Where Do I Go? /wdig to check your spot! An image viewer plugin so you don't have to alt-tab or use a second monitor to reference guides or images while in game.'",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/rail2025/WDIGViewer",
+                "LastUpdate": 1758601845
             }
         ]
     },
@@ -4798,7 +4815,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1758902191
+                "LastUpdate": 1759114612
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5304,7 +5321,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1759106490
+                "LastUpdate": 1759124338
             },
             {
                 "Author": "Ricimon",
