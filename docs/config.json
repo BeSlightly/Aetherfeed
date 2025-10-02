@@ -1674,7 +1674,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1759231540
+                "LastUpdate": 1759386865
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2367,35 +2367,18 @@
     },
     {
         "repo_developer_name": "insanityiskey85-create",
-        "repo_url": "https://raw.githubusercontent.com/insanityiskey85-create/Nunu--AI-Companion-4.1/master/repo.json",
-        "repo_source_url": "https://github.com/insanityiskey85-create/Nunu--AI-Companion-4.1",
-        "repo_name": "Nunu--AI-Companion-4.1",
+        "repo_url": "https://raw.githubusercontent.com/insanityiskey85-create/NunuAICompanion5/master/repo.json",
+        "repo_source_url": "https://github.com/insanityiskey85-create/NunuAICompanion5",
+        "repo_name": "NunuAICompanion5",
         "plugins": [
             {
                 "Author": "insanityiskey85",
-                "Name": "Nunu' AI Companion 4.1",
-                "InternalName": "NunuAICompanion",
-                "Description": "OpenAI-compatible chat companion for FFXIV. Whitelist auto-replies + ChatPipe routing. Use /nunu to chat.",
+                "Name": "AI Companion",
+                "InternalName": "AiCompanionPlugin",
+                "Description": "Private AI chat window. No chat hooks. Persona via persona.txt. Theme presets and memories.json.",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/insanityiskey85-create/Nunu--AI-Companion-4.1",
-                "LastUpdate": 1759386403
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "insanityiskey85-create",
-        "repo_url": "https://raw.githubusercontent.com/insanityiskey85-create/Nunu-AI-Companion-4.1/master/repo.json",
-        "repo_source_url": "https://github.com/insanityiskey85-create/Nunu-AI-Companion-4.1",
-        "repo_name": "Nunu-AI-Companion-4.1",
-        "plugins": [
-            {
-                "Author": "insanityiskey85",
-                "Name": "Nunu' AI Companion 4.1",
-                "InternalName": "NunuAICompanion",
-                "Description": "OpenAI-compatible chat companion for FFXIV. Whitelist auto-replies + ChatPipe routing. Use /nunu to chat.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/insanityiskey85-create/Nunu--AI-Companion-4.1",
-                "LastUpdate": 1759386403
+                "RepoUrl": "https://github.com/insanityiskey85-create/NunuAICompanion5",
+                "LastUpdate": 1759402485
             }
         ]
     },
@@ -3620,6 +3603,23 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/yoyokity/TreasureBox",
                 "LastUpdate": 1740110576
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mona-ty",
+        "repo_url": "https://raw.githubusercontent.com/mona-ty/XIVSubmarinesRewrite/master/repo.json",
+        "repo_source_url": "https://github.com/mona-ty/XIVSubmarinesRewrite",
+        "repo_name": "XIVSubmarinesRewrite",
+        "plugins": [
+            {
+                "Author": "MonaT",
+                "Name": "XIV Submarines Rewrite",
+                "InternalName": "XIVSubmarinesRewrite",
+                "Description": "Polished single-window UI with Playwright coverage helpers and release-ready metadata.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/mona-ty/XIVSubmarinesRewrite",
+                "LastUpdate": 1759406325
             }
         ]
     },
@@ -6571,7 +6571,7 @@
                 "Description": "Teleport hack plugin",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WINDOWCOLLAPSIBLE/404notfound",
-                "LastUpdate": 1757421871,
+                "LastUpdate": 1759400992,
                 "is_closed_source": true
             }
         ]
