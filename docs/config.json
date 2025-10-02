@@ -1719,7 +1719,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1759330149
+                "LastUpdate": 1759421108
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2378,7 +2378,7 @@
                 "Description": "Private AI chat window. No chat hooks. Persona via persona.txt. Theme presets and memories.json.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/insanityiskey85-create/NunuAICompanion5",
-                "LastUpdate": 1759402485
+                "LastUpdate": 1759420545
             }
         ]
     },
@@ -3619,7 +3619,7 @@
                 "Description": "Polished single-window UI with Playwright coverage helpers and release-ready metadata.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/mona-ty/XIVSubmarinesRewrite",
-                "LastUpdate": 1759406325
+                "LastUpdate": 1759423677
             }
         ]
     },
@@ -4616,7 +4616,7 @@
                 "Description": "Tend to your plot in one click. Type /autog to start.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIV_Autogardener",
-                "LastUpdate": 1756913359
+                "LastUpdate": 1759428193
             }
         ]
     },
@@ -5407,7 +5407,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1759373223
+                "LastUpdate": 1759424728
             },
             {
                 "Author": "Ricimon",
@@ -6554,7 +6554,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1758492506
+                "LastUpdate": 1759427399
             }
         ]
     },
@@ -6776,6 +6776,50 @@
         "repo_source_url": "https://github.com/Yhumi/Plogons",
         "repo_name": "Plogons",
         "repo_developer_name": "Yhumi"
+    },
+    {
+        "repo_developer_name": "yimo0908",
+        "repo_url": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/yimo0908/DalamudPlugin",
+        "repo_name": "DalamudPlugin",
+        "plugins": [
+            {
+                "Author": "Seventh",
+                "Name": "Collections",
+                "InternalName": "Collections",
+                "Description": "Collections 提供了一种跟踪、发现和与游戏中的收藏互动的界面。\n 与幻化系统（预览、创建套装）集成。\n 支持：幻化、坐骑、宠物、情感动作、发型、幻卡、青魔法、鸟甲、肖像教材、乐谱、套装、时尚配饰、眼镜。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/yimo0908/Collections",
+                "LastUpdate": 1759413351
+            },
+            {
+                "Author": "Caraxi, maintained & updated by Khayle, translated by Yimo",
+                "Name": "Item Search",
+                "InternalName": "ItemSearchPlugin",
+                "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/yimo0908/ItemSearchPlugin",
+                "LastUpdate": 1758100734
+            },
+            {
+                "Author": "MidoriKami, translated by cyf5119 & Yimo",
+                "Name": "Mappy",
+                "InternalName": "Mappy",
+                "Description": "将游戏中的地图替换为具有几个附加功能的 ImGui 实现。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/yimo0908/Mappy",
+                "LastUpdate": 1758198542
+            },
+            {
+                "Author": "KirisameVanilla",
+                "Name": "SpecialWeaponProgressOverview",
+                "InternalName": "SpecialWeaponProgressOverview",
+                "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，但数据读取依旧不稳定）",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
+                "LastUpdate": 1759421895
+            }
+        ]
     },
     {
         "repo_developer_name": "yourShika",
