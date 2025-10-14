@@ -1708,7 +1708,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1760399466
+                "LastUpdate": 1760425293
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2713,7 +2713,7 @@
                 "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jukkales/NecroLens",
-                "LastUpdate": 1760419602
+                "LastUpdate": 1760430084
             }
         ]
     },
@@ -3050,6 +3050,15 @@
         "repo_name": "dalamud-plugins",
         "plugins": [
             {
+                "Author": "iVeigar",
+                "Name": "BAHelper",
+                "InternalName": "BAHelper",
+                "Description": "这是一个兵武塔的辅助插件，有一些实用功能\n\n - 自动上盾\n - 绘制陷阱\n - 全局人员监控\n 以及一些魔改小功能",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/iVeigar/BAHelper",
+                "LastUpdate": 1750787824
+            },
+            {
                 "Author": "Latihas",
                 "Name": "LatihasExport",
                 "InternalName": "LatihasExport",
@@ -3065,7 +3074,7 @@
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1760402082
+                "LastUpdate": 1760444181
             }
         ]
     },
@@ -5915,7 +5924,7 @@
                 "Description": "深宫仇恨范围可视化.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jukkales/NecroLens",
-                "LastUpdate": 1760419602
+                "LastUpdate": 1760430084
             },
             {
                 "Author": "Liza Carvelli (Puni.sh) Amely(7.3适配)",
@@ -6913,6 +6922,15 @@
                 "LastUpdate": 1759934102
             },
             {
+                "Author": "SaMo, 穷孩子(适配/汉化)",
+                "Name": "Map Party Assist",
+                "InternalName": "MapPartyAssist",
+                "Description": "用于记录队员开启的藏宝图，并统计地图与地宫相关数据的工具。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/QiongHHHZZZ/MapPartyAssist",
+                "LastUpdate": 1760423901
+            },
+            {
                 "Author": "MidoriKami, translated by cyf5119 & Yimo",
                 "Name": "Mappy",
                 "InternalName": "Mappy",
@@ -6928,7 +6946,7 @@
                 "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，但数据读取依旧不稳定）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
-                "LastUpdate": 1760419458
+                "LastUpdate": 1760425939
             }
         ]
     },
