@@ -882,7 +882,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1759882922
+                "LastUpdate": 1760531383
             },
             {
                 "Author": "Caraxi",
@@ -1542,7 +1542,7 @@
                 "Description": "使用 /record 指令打开配置界面\n如显示相关指令未解锁, 请去摩杜纳第七天堂找异国的诗人完成任务「回顾英雄诗篇」",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-                "LastUpdate": 1759258178
+                "LastUpdate": 1760521216
             },
             {
                 "Author": "Fragile,Errer(维护）",
@@ -1561,7 +1561,7 @@
                 "Description": "一个简单的绿色插件。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-                "LastUpdate": 1759258178
+                "LastUpdate": 1760521216
             }
         ]
     },
@@ -4944,7 +4944,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1760460671
+                "LastUpdate": 1760517623
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5450,7 +5450,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1760509377
+                "LastUpdate": 1760514360
             },
             {
                 "Author": "Ricimon",
@@ -5459,7 +5459,7 @@
                 "Description": "Send other players ground pings and UI information.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-SmartPings",
-                "LastUpdate": 1760304846
+                "LastUpdate": 1760514500
             }
         ]
     },
@@ -6904,6 +6904,15 @@
         "repo_name": "DalamudPlugin",
         "plugins": [
             {
+                "Author": "uy/sun, yimo",
+                "Name": "Blind Box",
+                "InternalName": "BlindBoxPlugin",
+                "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/yimo0908/FFXIVBlindBoxPlugin",
+                "LastUpdate": 1760513339
+            },
+            {
                 "Author": "Seventh",
                 "Name": "Collections",
                 "InternalName": "Collections",
@@ -6946,7 +6955,7 @@
                 "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，但数据读取依旧不稳定）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
-                "LastUpdate": 1760425939
+                "LastUpdate": 1760514498
             }
         ]
     },
