@@ -1076,9 +1076,9 @@
         ]
     },
     {
-        "repo_developer_name": "Cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
+        "repo_developer_name": "cyf5119",
+        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -1102,9 +1102,9 @@
         ]
     },
     {
-        "repo_developer_name": "cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
+        "repo_developer_name": "Cyf5119",
+        "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -2162,6 +2162,23 @@
         ]
     },
     {
+        "repo_url": "https://puni.sh/api/repository/glyceri",
+        "repo_source_url": "https://github.com/Glyceri/SilenceNoMore",
+        "repo_developer_name": "Glyceri",
+        "repo_name": "SilenceNoMore",
+        "plugins": [
+            {
+                "Author": "glyceri",
+                "Name": "Silence No More",
+                "InternalName": "SilenceNoMore",
+                "Description": "Shows whispers normally blocked during duties.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Glyceri/SilenceNoMore",
+                "LastUpdate": 1760544754
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Grammernatzi/MyDalamudPlugins/raw/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Grammernatzi/MyDalamudPlugins",
         "repo_name": "MyDalamudPlugins",
@@ -3160,7 +3177,7 @@
                 "Description": "*-insert a quirky description here later... hopefully-*",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1760715797
+                "LastUpdate": 1760846160
             }
         ]
     },
@@ -3917,7 +3934,7 @@
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1760456311
+                "LastUpdate": 1760845971
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
@@ -3926,7 +3943,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1760239706,
+                "LastUpdate": 1760845948,
                 "is_closed_source": true
             },
             {
@@ -3946,7 +3963,7 @@
                 "Description": "帮助您伐木深层迷宫宝藏的插件（...为您）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/HoardFarm",
-                "LastUpdate": 1758035674
+                "LastUpdate": 1760849240
             },
             {
                 "Author": "Bluefissure",
@@ -3973,7 +3990,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1758028191
+                "LastUpdate": 1760845997
             },
             {
                 "Author": "NiGuangOwO",
@@ -4029,7 +4046,7 @@
                 "Description": "简单的播报SS前置小怪的小工具",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1760456311
+                "LastUpdate": 1760845971
             }
         ]
     },
@@ -4961,7 +4978,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1760803230
+                "LastUpdate": 1760852900
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -4979,7 +4996,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1760640011
+                "LastUpdate": 1760853788
             },
             {
                 "Author": "Team Wrath",
@@ -5467,7 +5484,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1760635103
+                "LastUpdate": 1760853164
             },
             {
                 "Author": "Ricimon",
@@ -5959,7 +5976,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1760640011
+                "LastUpdate": 1760853788
             }
         ]
     },
