@@ -631,7 +631,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1761010031
+                "LastUpdate": 1761068203
             },
             {
                 "Author": "veyn",
@@ -3108,7 +3108,7 @@
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1761049372
+                "LastUpdate": 1761053234
             }
         ]
     },
@@ -4978,7 +4978,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1761049911
+                "LastUpdate": 1761065105
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -6029,6 +6029,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
                 "LastUpdate": 1743618017
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ShoOtaku",
+        "repo_url": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/ShoOtaku/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "XSZYYS",
+                "Name": "XSZToolbox",
+                "InternalName": "XSZToolbox",
+                "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
+                "LastUpdate": 1761069379
             }
         ]
     },
