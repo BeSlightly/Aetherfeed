@@ -82,7 +82,7 @@
                 "Description": "A quick plugin to find Wrong Warps using Racingway rendering tools.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Abyeon/WrongWarpFinder",
-                "LastUpdate": 1755611071
+                "LastUpdate": 1761691844
             }
         ]
     },
@@ -600,6 +600,115 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/AtmoOmen/DalamudPlugins",
+        "is_allowed_mega_repo": true,
+        "repo_name": "DalamudPlugins",
+        "repo_developer_name": "AtmoOmen",
+        "plugins": [
+            {
+                "Author": "UnknownX, AtmoOmen",
+                "Name": "A Realm Recorded Lite",
+                "InternalName": "ARealmRecordedLite",
+                "Description": "使用 /record 指令打开配置界面\n如显示相关指令未解锁, 请去摩杜纳第七天堂找异国的诗人完成任务「回顾英雄诗篇」",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/ARealmRecordedLite",
+                "LastUpdate": 1758242614
+            },
+            {
+                "Author": "AtmoOmen",
+                "Name": "Currency Tracker",
+                "InternalName": "CurrencyTracker",
+                "Description": "记录你每一笔货币收支的数额、时间、地点与来源\nTrack every change of your currecies with its Amount, Time, Location and Source",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/CurrencyTracker",
+                "LastUpdate": 1757857628
+            },
+            {
+                "Author": "AtmoOmen",
+                "Name": "Daily Routines",
+                "InternalName": "DailyRoutines",
+                "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
+                "LastUpdate": 1761695942,
+                "is_closed_source": true
+            },
+            {
+                "Author": "goat, AtmoOmen (重写)",
+                "Name": "Character Data Sync X",
+                "InternalName": "Dalamud.CharacterSyncX",
+                "Description": "在插件设置界面选择好主角色后, 自动同步你主角色游戏设置数据至所有角色上\n相比原版: 重写了界面, 提供了明确的主角色设置, 不会再动你的原始数据文件, 而是把非主角色的文件读取重定向至主角色",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/Dalamud.CharacterSync",
+                "LastUpdate": 1757859286
+            },
+            {
+                "Author": "Loskh",
+                "Name": "DCTravelerX",
+                "InternalName": "DCTravelerX",
+                "Description": "在选择角色界面, 右键对应角色, 即可进行超域旅行\n需要使用 XIVLauncherCN 启动游戏, 不支持 WeGame 端",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DCTraveler",
+                "LastUpdate": 1760872409
+            },
+            {
+                "Author": "The Combat Reborn Team, AtmoOmen (本地化及国服适配)",
+                "Name": "GatherBuddy Reborn",
+                "InternalName": "GatherbuddyReborn",
+                "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
+                "LastUpdate": 1758252710
+            },
+            {
+                "Author": "Haselnussbomber",
+                "Name": "HaselDebug",
+                "InternalName": "HaselDebug",
+                "Description": "开发者专用",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/AtmoOmen/HaselDebug",
+                "LastUpdate": 1758018135
+            },
+            {
+                "Author": "Raphael",
+                "Name": "Raphael.Dalamud",
+                "InternalName": "Raphael.Dalamud",
+                "Description": "Dalamud Wrapper for Craft Solver Raphael /n Mainly used to provide IPC for other Dalamud plugins",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud",
+                "LastUpdate": 1758027731
+            },
+            {
+                "Author": "AtmoOmen",
+                "Name": "Untarnished Heart",
+                "InternalName": "UntarnishedHeart",
+                "Description": "自动化 T 职副本场次成就刷取工具\n注意: 副本战斗需要自行使用其他插件解决",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/UntarnishedHeart",
+                "LastUpdate": 1760862059
+            },
+            {
+                "Author": "ocealot, AtmoOmen (汉化)",
+                "Name": "VFXEditorCN",
+                "InternalName": "VFXEditorCN",
+                "Description": "游戏内视觉效果、动画与音频编辑插件 | 图标来源: PAPACHIN | 本地化维护: AtmoOmen",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/VFXEditor-CN",
+                "LastUpdate": 1758711715
+            },
+            {
+                "Author": "veyn, AtmoOmen",
+                "Name": "vnavmesh",
+                "InternalName": "vnavmesh",
+                "Description": "不仅会自动寻路, 还能自动避障",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
+                "LastUpdate": 1759636213
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Atomoxide/DalamudPluginRepo/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Atomoxide/DalamudPluginRepo",
         "plugins": [
@@ -891,7 +1000,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1761649670
+                "LastUpdate": 1761697143
             },
             {
                 "Author": "Caraxi",
@@ -1835,7 +1944,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1761506580
+                "LastUpdate": 1761680171
             }
         ]
     },
@@ -2175,7 +2284,7 @@
                 "Description": "A relatively robust tool that allows you to non-destructively edit textures.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Glorou/PenumbraImageManipulationPlugin",
-                "LastUpdate": 1754698879
+                "LastUpdate": 1761689274
             }
         ]
     },
@@ -2311,7 +2420,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1761253640
+                "LastUpdate": 1761691715
             },
             {
                 "Author": "Haselnussbomber",
@@ -4864,7 +4973,7 @@
                 "Description": "Conditionally trigger counter/emote/command/title reactions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/TriggerPyon.zip",
-                "LastUpdate": 1756287728,
+                "LastUpdate": 1761684944,
                 "is_closed_source": true
             }
         ]
@@ -5014,7 +5123,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1761676142
+                "LastUpdate": 1761692793
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -6796,7 +6905,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1761254970
+                "LastUpdate": 1761682955
             }
         ]
     },
