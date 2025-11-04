@@ -784,7 +784,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1762116100
+                "LastUpdate": 1762272956
             },
             {
                 "Author": "veyn, croizat",
@@ -1048,32 +1048,6 @@
         ]
     },
     {
-        "repo_developer_name": "Catphinaud",
-        "repo_url": "https://raw.githubusercontent.com/Catphinaud/DalamudPlugins/main/repo.json",
-        "repo_source_url": "https://github.com/Catphinaud/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "Catphinaud",
-                "Name": "GlamHouse",
-                "InternalName": "GlamHouse",
-                "Description": "None",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Catphinaud/GlamHouse",
-                "LastUpdate": 1762191248
-            },
-            {
-                "Author": "Catphinaud",
-                "Name": "HouseGuest",
-                "InternalName": "HouseGuest",
-                "Description": "None",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Catphinaud/HouseGuest",
-                "LastUpdate": 1762191480
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/cfsen/Ktisis/raw/main/repo.json",
         "repo_source_url": "https://github.com/cfsen/Ktisis",
         "repo_name": "Ktisis",
@@ -1228,9 +1202,9 @@
         ]
     },
     {
-        "repo_developer_name": "Cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
+        "repo_developer_name": "cyf5119",
+        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -1254,9 +1228,9 @@
         ]
     },
     {
-        "repo_developer_name": "cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
+        "repo_developer_name": "Cyf5119",
+        "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -1808,7 +1782,7 @@
                 "Description": "Chinese plugin, highly illegal FFXIV modification - provides many cheating features, but requires registration on their discord server",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1762254515,
+                "LastUpdate": 1762272408,
                 "is_closed_source": true
             },
             {
@@ -1827,7 +1801,7 @@
                 "Description": "5v5天才妹妹为您服务",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1762254515
+                "LastUpdate": 1762272408
             }
         ]
     },
@@ -1887,7 +1861,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1762215273
+                "LastUpdate": 1762265995
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1914,7 +1888,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1762252386
+                "LastUpdate": 1762272003
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2701,7 +2675,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1762001976
+                "LastUpdate": 1762280890
             },
             {
                 "Author": "croizat",
@@ -3004,7 +2978,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1758769249,
+                "LastUpdate": 1762259982,
                 "is_closed_source": true
             },
             {
@@ -3042,7 +3016,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/WorldWide/plugins/KodakkuAssist",
-                "LastUpdate": 1758769509,
+                "LastUpdate": 1762260223,
                 "is_closed_source": true
             }
         ]
@@ -3294,7 +3268,7 @@
                 "Description": "陆行鸟竞赛自动化",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Latihas/LatihasChocobo",
-                "LastUpdate": 1762107877
+                "LastUpdate": 1762265528
             },
             {
                 "Author": "Latihas",
