@@ -73,7 +73,7 @@
                 "Description": "Automatically save/load the positions of housing furnitures.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Abyeon/HousingPos",
-                "LastUpdate": 1762231120
+                "LastUpdate": 1762246165
             },
             {
                 "Author": "Abyeon",
@@ -631,7 +631,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1761695942,
+                "LastUpdate": 1762245581,
                 "is_closed_source": true
             },
             {
@@ -1808,7 +1808,7 @@
                 "Description": "Chinese plugin, highly illegal FFXIV modification - provides many cheating features, but requires registration on their discord server",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1762016330,
+                "LastUpdate": 1762254515,
                 "is_closed_source": true
             },
             {
@@ -1827,7 +1827,7 @@
                 "Description": "5v5天才妹妹为您服务",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1762016330
+                "LastUpdate": 1762254515
             }
         ]
     },
@@ -1914,7 +1914,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1762212721
+                "LastUpdate": 1762252386
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3938,6 +3938,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/MusicalPanini/PaninisXIVPluginDump/raw/main/repo.json",
+        "repo_source_url": "https://github.com/MusicalPanini/PaninisXIVPluginDump",
+        "repo_name": "PaninisXIVPluginDump",
+        "repo_developer_name": "MusicalPanini",
+        "plugins": [
+            {
+                "Author": "Musical Panini",
+                "Name": "Party List Layout",
+                "InternalName": "PaninisPartyListLayout",
+                "Description": "Customize the layout of the party list.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/MusicalPanini/PaninisXIVPluginDump",
+                "LastUpdate": 1752303010
+            }
+        ]
+    },
+    {
         "repo_developer_name": "NicciX",
         "repo_url": "https://raw.githubusercontent.com/NicciX/Repos/main/repo.json",
         "repo_source_url": "https://github.com/NicciX/Repos",
@@ -4130,7 +4147,7 @@
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1762080108
+                "LastUpdate": 1762258768
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
@@ -4139,7 +4156,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1762080079,
+                "LastUpdate": 1762258745,
                 "is_closed_source": true
             },
             {
@@ -4242,7 +4259,7 @@
                 "Description": "简单的播报SS前置小怪的小工具",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1762080108
+                "LastUpdate": 1762258768
             }
         ]
     },
@@ -5923,7 +5940,7 @@
                 "Description": "CN Only! 稿子退散（爬）！",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1758225673
+                "LastUpdate": 1762256419
             },
             {
                 "Author": "Liza Carvelli, decorwdyun(汉化)",
@@ -5932,7 +5949,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1761373120
+                "LastUpdate": 1762251524
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -5941,7 +5958,7 @@
                 "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
-                "LastUpdate": 1760451353
+                "LastUpdate": 1762248296
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
