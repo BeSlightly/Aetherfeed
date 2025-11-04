@@ -73,7 +73,7 @@
                 "Description": "Automatically save/load the positions of housing furnitures.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Abyeon/HousingPos",
-                "LastUpdate": 1761887238
+                "LastUpdate": 1762211541
             },
             {
                 "Author": "Abyeon",
@@ -1887,7 +1887,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1761845819
+                "LastUpdate": 1762215273
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1914,7 +1914,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1762063491
+                "LastUpdate": 1762212721
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2164,7 +2164,7 @@
                 "Description": "A customizable loot tracking window with item icons, rarity colors, and highlight animations. Shows who loots what and can be filtered to show only your loot.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/GitHixy/LootView",
-                "LastUpdate": 1762157707
+                "LastUpdate": 1762198885
             }
         ]
     },
@@ -3823,7 +3823,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1762179340
+                "LastUpdate": 1762199695
             }
         ]
     },
@@ -4660,7 +4660,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1762179340
+                "LastUpdate": 1762199695
             },
             {
                 "Author": "Caraxi",
@@ -5231,6 +5231,32 @@
             }
         ],
         "repo_developer_name": "Puni.sh Team"
+    },
+    {
+        "repo_developer_name": "pupwife",
+        "repo_url": "https://raw.githubusercontent.com/pupwife/DalamudPluginRepo/main/repo.json",
+        "repo_source_url": "https://github.com/pupwife/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "pupwife",
+                "Name": "Dispeller",
+                "InternalName": "Dispeller",
+                "Description": "A cute plugin to help you manage your Glamour Dresser by identifying items that share the same visual models.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/pupwife/DalamudPluginRepo",
+                "LastUpdate": 1762210337
+            },
+            {
+                "Author": "puwpife",
+                "Name": "Limit Notifier",
+                "InternalName": "LimitNotifier",
+                "Description": "Displays toast notifications when the Limit Break bar reaches 1, 2, or 3 full bars.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/pupwife/DalamudPluginRepo",
+                "LastUpdate": 1762210337
+            }
+        ]
     },
     {
         "repo_developer_name": "pyraxnea",
@@ -6826,7 +6852,7 @@
                 "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/VariableVixen/XIVComboPlugin",
-                "LastUpdate": 1762009033
+                "LastUpdate": 1762196511
             },
             {
                 "Author": "VariableVixen",
@@ -7086,7 +7112,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1762179340
+                "LastUpdate": 1762199695
             }
         ]
     },
