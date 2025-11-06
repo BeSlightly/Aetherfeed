@@ -73,7 +73,7 @@
                 "Description": "Automatically save/load the positions of housing furnitures.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Abyeon/HousingPos",
-                "LastUpdate": 1762329130
+                "LastUpdate": 1762390362
             },
             {
                 "Author": "Abyeon",
@@ -793,7 +793,7 @@
                 "Description": "Make custom deliveries less annoying by automating the process.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
-                "LastUpdate": 1762343320
+                "LastUpdate": 1762382060
             }
         ]
     },
@@ -846,6 +846,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/BeSlightly/PortraitStealer2",
                 "LastUpdate": 1758663366
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "bimilbimil",
+        "repo_url": "https://raw.githubusercontent.com/bimilbimil/AutomarketPro/main/repo.json",
+        "repo_source_url": "https://github.com/bimilbimil/AutomarketPro",
+        "repo_name": "AutomarketPro",
+        "plugins": [
+            {
+                "Author": "Asphodel",
+                "Name": "AutoMarket Pro",
+                "InternalName": "AutomarketPro",
+                "Description": "Automates inventory scanning, marketboard listing, and vendor selling using Universalis data and retainer control.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/bimilbimil/AutomarketPro",
+                "LastUpdate": 1762386908
             }
         ]
     },
@@ -1861,7 +1878,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1762265995
+                "LastUpdate": 1762367984
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2644,6 +2661,23 @@
         ],
         "repo_name": "MyDalamudPlugins",
         "repo_developer_name": "iVeigar"
+    },
+    {
+        "repo_developer_name": "j0giwa",
+        "repo_url": "https://raw.githubusercontent.com/j0giwa/ComfyLoot/master/repo.json",
+        "repo_source_url": "https://github.com/j0giwa/ComfyLoot",
+        "repo_name": "ComfyLoot",
+        "plugins": [
+            {
+                "Author": "j0giwa",
+                "Name": "Comfy Loot",
+                "InternalName": "ComfyLoot",
+                "Description": "Tracks the contents and market value of items dropped while killing monsters. And drops from some other activities such as dungeons, raids, gathering, and maps.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/j0giwa/ComfyLoot/blob/master/ComfyLoot",
+                "LastUpdate": 1762352833
+            }
+        ]
     },
     {
         "repo_developer_name": "jackandcarter",
@@ -4022,7 +4056,7 @@
                 "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1761555526
+                "LastUpdate": 1762375745
             },
             {
                 "Author": "NightmareXIV",
@@ -4049,7 +4083,7 @@
                 "Description": "Numpad is also supported.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NightmareXIV/SelectString",
-                "LastUpdate": 1754633984
+                "LastUpdate": 1762375728
             },
             {
                 "Author": "NightmareXIV",
@@ -5165,7 +5199,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1762334743
+                "LastUpdate": 1762389283
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5219,7 +5253,7 @@
                 "Description": "A cute plugin to help you manage your Glamour Dresser by identifying items that share the same visual models.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/pupwife/DalamudPluginRepo",
-                "LastUpdate": 1762227340
+                "LastUpdate": 1762374329
             },
             {
                 "Author": "pupwife",
@@ -5228,7 +5262,7 @@
                 "Description": "Displays toast notifications when the Limit Break bar reaches 1, 2, or 3 full bars.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/pupwife/DalamudPluginRepo",
-                "LastUpdate": 1762227340
+                "LastUpdate": 1762374329
             }
         ]
     },
@@ -5941,7 +5975,7 @@
                 "Description": "通过自动化流程减少老主顾交付的烦恼。\n 所需插件：vnavmesh, Artisan",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
-                "LastUpdate": 1762343320
+                "LastUpdate": 1762382060
             }
         ]
     },
