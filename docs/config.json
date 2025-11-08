@@ -784,7 +784,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1762548499
+                "LastUpdate": 1762619978
             },
             {
                 "Author": "veyn, croizat",
@@ -1219,9 +1219,9 @@
         ]
     },
     {
-        "repo_developer_name": "cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
+        "repo_developer_name": "Cyf5119",
+        "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -1245,9 +1245,9 @@
         ]
     },
     {
-        "repo_developer_name": "Cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
+        "repo_developer_name": "cyf5119",
+        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -1816,7 +1816,7 @@
                 "Description": "Chinese plugin, highly illegal FFXIV modification - provides many cheating features, but requires registration on their discord server",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1762272408,
+                "LastUpdate": 1762626161,
                 "is_closed_source": true
             },
             {
@@ -1835,7 +1835,7 @@
                 "Description": "5v5天才妹妹为您服务",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1762272408
+                "LastUpdate": 1762626161
             }
         ]
     },
@@ -4837,7 +4837,7 @@
                 "Description": "Export models to glTF format.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1761460065
+                "LastUpdate": 1762618919
             }
         ]
     },
@@ -5260,7 +5260,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1762600465
+                "LastUpdate": 1762624342
             },
             {
                 "Author": "daemitus, kawaii",
@@ -5982,7 +5982,7 @@
                 "Description": "CN Only! 稿子退散（爬）！",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1762256419
+                "LastUpdate": 1762624755
             },
             {
                 "Author": "Liza Carvelli, decorwdyun(汉化)",
@@ -6942,6 +6942,23 @@
         ]
     },
     {
+        "repo_developer_name": "VeeverSW",
+        "repo_url": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/VeeverSW/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "UnknownX, Veever(汉化)",
+                "Name": "A Realm Recorded (Unrestricted)",
+                "InternalName": "ARealmRecorded",
+                "Description": "为副本记录器添加了额外功能，并在副本中自动录制\n在旅馆中使用 /record 指令来打开回放列表\n如果相关指令未解锁，请完成「回顾英雄诗篇」任务",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/VeeverSW/DalamudPlugins",
+                "LastUpdate": 1762608473
+            }
+        ]
+    },
+    {
         "repo_developer_name": "VeraNala",
         "repo_url": "https://raw.githubusercontent.com/VeraNala/XIVPlugins/main/repo.json",
         "repo_source_url": "https://github.com/VeraNala/XIVPlugins",
@@ -7075,7 +7092,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1762102124
+                "LastUpdate": 1762624665
             }
         ]
     },
@@ -7383,13 +7400,31 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
+                "Author": "PunishedPineapple, YouShu",
+                "Name": "Distance (汉化)",
+                "InternalName": "Distance",
+                "Description": "在游戏内显示到目标/单位的距离，并可显示支持 Boss 的仇恨范围，支持姓名板与多种自定义显示。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/YouShux/Distance",
+                "LastUpdate": 1758050486
+            },
+            {
                 "Author": "Aireil, Nuko, YouShu",
                 "Name": "FF Logs Viewer (汉化)",
                 "InternalName": "FFLogsViewer",
                 "Description": "在游戏内查看 FF Logs 排名百分比，并在右键菜单中打开玩家日志。布局、样式、统计指标和默认度量等可在设置中自定义。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/YouShux/FFLogsViewer",
-                "LastUpdate": 1762590322
+                "LastUpdate": 1762619652
+            },
+            {
+                "Author": "Loskh, YouShu",
+                "Name": "StarlightBreaker (汉化)",
+                "InternalName": "StarlightBreaker",
+                "Description": "国服屏蔽词解除：去除聊天过滤，保持原生交流，支持自定义白名单/黑名单。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/YouShux/StarlightBreaker",
+                "LastUpdate": 1762623416
             }
         ]
     },
