@@ -749,7 +749,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1762553525
+                "LastUpdate": 1762640878
             },
             {
                 "Author": "veyn, croizat",
@@ -1332,7 +1332,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1762597366
+                "LastUpdate": 1762649262
             }
         ],
         "repo_developer_name": "Det"
@@ -1666,9 +1666,9 @@
                 "Name": "AutoDuty (erdelf's testing fork)",
                 "InternalName": "AutoDuty",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1762576643
+                "LastUpdate": 1762640279
             }
         ]
     },
@@ -1972,23 +1972,6 @@
         ],
         "repo_name": "SonarRepo",
         "repo_developer_name": "FFXIV-Sonar"
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/herc",
-        "repo_source_url": "https://github.com/ffxivcode/",
-        "repo_name": "herc",
-        "repo_developer_name": "ffxivcode",
-        "plugins": [
-            {
-                "Author": "Herculezz, James, erdelf",
-                "Name": "AutoDuty",
-                "InternalName": "AutoDuty",
-                "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-                "LastUpdate": 1762575985
-            }
-        ]
     },
     {
         "repo_url": "https://github.com/FlawedBliss/DalamudPlugins/raw/refs/heads/main/repo.json",
@@ -4301,7 +4284,7 @@
                 "Description": "Allows for automatic execution of commands upon entering new zones, with a 'Roleplay Only' mode for those who want to only use it for RP purposes.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers",
-                "LastUpdate": 1761616085
+                "LastUpdate": 1762649557
             }
         ]
     },
@@ -4517,9 +4500,9 @@
                 "Name": "Twist Of Fayte",
                 "InternalName": "TwistOfFayte",
                 "Description": "You met with a terrible Fate. Haven't you?",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/OhKannaDuh/TwistOfFayte",
-                "LastUpdate": 1754513570
+                "LastUpdate": 1762631420
             }
         ]
     },
@@ -5170,7 +5153,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1762597366
+                "LastUpdate": 1762649262
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -7092,7 +7075,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1762624665
+                "LastUpdate": 1762642061
             }
         ]
     },
@@ -7400,6 +7383,15 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
+                "Author": "d87, YouShu",
+                "Name": "BigPlayerDebuffs (汉化)",
+                "InternalName": "BigPlayerDebuffs",
+                "Description": "在目标状态栏放大由你施加的增益/减益图标，便于观察。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/YouShux/BigPlayerDebuffs",
+                "LastUpdate": 1762636862
+            },
+            {
                 "Author": "PunishedPineapple, YouShu",
                 "Name": "Distance (汉化)",
                 "InternalName": "Distance",
@@ -7409,6 +7401,15 @@
                 "LastUpdate": 1758050486
             },
             {
+                "Author": "Felys, aers, YouShu",
+                "Name": "Enemy List Debuffs (汉化)",
+                "InternalName": "EnemyListDebuffs",
+                "Description": "在仇恨列表显示你的减益图标与倒计时，便于多目标场景追踪 DoT，支持自定义位置、尺寸与颜色。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/YouShux/EnemyListDebuffs",
+                "LastUpdate": 1762636873
+            },
+            {
                 "Author": "Aireil, Nuko, YouShu",
                 "Name": "FF Logs Viewer (汉化)",
                 "InternalName": "FFLogsViewer",
@@ -7416,6 +7417,24 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/YouShux/FFLogsViewer",
                 "LastUpdate": 1762619652
+            },
+            {
+                "Author": "Franz, YouShu",
+                "Name": "Flash On Tell (汉化)",
+                "InternalName": "FlashOnTell",
+                "Description": "收到悄悄话时让 FFXIV 窗口在任务栏闪烁，便于切回游戏；当前无设置项。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/YouShux/Dalamud-FlashOnTellPlugin",
+                "LastUpdate": 1762633968
+            },
+            {
+                "Author": "electr0sheep, Nuko, YouShu",
+                "Name": "Item Vendor Location (汉化)",
+                "InternalName": "ItemVendorLocation",
+                "Description": "为可在商店购买的物品提供售卖位置查询，在物品右键菜单中显示所有可能的商店与坐标，支持聊天命令快速查询。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/YouShux/ItemVendorLocation",
+                "LastUpdate": 1762630939
             },
             {
                 "Author": "Loskh, YouShu",
