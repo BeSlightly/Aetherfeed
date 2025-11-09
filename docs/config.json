@@ -1332,7 +1332,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1762650176
+                "LastUpdate": 1762683266
             }
         ],
         "repo_developer_name": "Det"
@@ -1479,7 +1479,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1762111757
+                "LastUpdate": 1762675405
             }
         ]
     },
@@ -3296,13 +3296,22 @@
                 "LastUpdate": 1750787824
             },
             {
+                "Author": "Usagi, Latihas",
+                "Name": "IINACTEx",
+                "InternalName": "IINACTEx",
+                "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/marzent/IINACT",
+                "LastUpdate": 1760697501
+            },
+            {
                 "Author": "Latihas",
                 "Name": "LatihasChocobo",
                 "InternalName": "LatihasChocobo",
                 "Description": "陆行鸟竞赛自动化",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Latihas/LatihasChocobo",
-                "LastUpdate": 1762574024
+                "LastUpdate": 1762676139
             },
             {
                 "Author": "Latihas",
@@ -4820,7 +4829,7 @@
                 "Description": "Export models to glTF format.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1762618919
+                "LastUpdate": 1762670388
             }
         ]
     },
@@ -5153,7 +5162,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1762650176
+                "LastUpdate": 1762683266
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -6309,7 +6318,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1762667086
+                "LastUpdate": 1762690612
             }
         ]
     },
@@ -7444,6 +7453,15 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/YouShux/StarlightBreaker",
                 "LastUpdate": 1762623416
+            },
+            {
+                "Author": "Meoiswa, YouShu",
+                "Name": "Tilted (汉化)",
+                "InternalName": "Tilted",
+                "Description": "根据条件自动调整第三人称镜头角度与距离，支持战斗/副本/拔刀/骑乘/飞行/镜头靠近等模式。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/YouShux/TiltedPlugin",
+                "LastUpdate": 1755450787
             }
         ]
     },
