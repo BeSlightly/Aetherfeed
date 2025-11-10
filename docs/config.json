@@ -1332,7 +1332,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1762725884
+                "LastUpdate": 1762766933
             }
         ],
         "repo_developer_name": "Det"
@@ -1877,7 +1877,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1762156737
+                "LastUpdate": 1762761731
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4101,7 +4101,7 @@
                 "Description": "- Simplifies installation and upgrade process for plugins installed manually.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NightmareXIV/StandalonePluginManager",
-                "LastUpdate": 1760041850
+                "LastUpdate": 1762762601
             },
             {
                 "Author": "NightmareXIV",
@@ -4650,7 +4650,7 @@
                 "Description": "Heliosphere is a mod manager and platform designed to work directly with\nPenumbra. It enables efficient downloads and fast installs to let you get back\nto the fun part of mods: using them.\n\nHeliosphere supports:\n- Direct install to Penumbra\n- Compressed and deduplicated (read: small) downloads\n- Automatic updates (optional)\n- Version history\n- Mod changelogs\n- Pictures in Penumbra\n- And more\n\nGive Heliosphere a try, and see if you can't say goodbye to any old mod\nplatform you were using before.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://heliosphere.app/",
-                "LastUpdate": 1760910786
+                "LastUpdate": 1762777308
             },
             {
                 "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -4912,6 +4912,23 @@
     },
     {
         "repo_developer_name": "Pistachio-dev",
+        "repo_url": "https://raw.githubusercontent.com/Pistachio-dev/FlashOnReadyCheck/master/Repo.json",
+        "repo_source_url": "https://github.com/Pistachio-dev/FlashOnReadyCheck",
+        "repo_name": "FlashOnReadyCheck",
+        "plugins": [
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Flash On Ready Check",
+                "InternalName": "FlashOnReadyCheck",
+                "Description": "Flash FFXIV's program on the taskbar when a /readycheck starts. Use /readyflash to test the window flashing.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Pistachio-dev/FlashOnReadyCheck",
+                "LastUpdate": 1762767194
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Pistachio-dev",
         "repo_url": "https://raw.githubusercontent.com/Pistachio-dev/NorthStar/master/Repo.json",
         "repo_source_url": "https://github.com/Pistachio-dev/NorthStar",
         "repo_name": "NorthStar",
@@ -4923,7 +4940,7 @@
                 "Description": "Shows a beacon on the position of the last <pos> or <flag> in chat. Use /northstar to configure",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Pistachio-dev/NorthStar",
-                "LastUpdate": 1760692839
+                "LastUpdate": 1762770408
             }
         ]
     },
@@ -5162,7 +5179,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1762725884
+                "LastUpdate": 1762766933
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -5225,7 +5242,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1762747196
+                "LastUpdate": 1762765758
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5252,7 +5269,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1762742383
+                "LastUpdate": 1762762951
             },
             {
                 "Author": "daemitus, kawaii",
@@ -6946,7 +6963,16 @@
                 "Description": "为副本记录器添加了额外功能，并在副本中自动录制\n在旅馆中使用 /record 指令来打开回放列表\n如果相关指令未解锁，请完成「回顾英雄诗篇」任务",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/VeeverSW/DalamudPlugins",
-                "LastUpdate": 1762701897
+                "LastUpdate": 1762774830
+            },
+            {
+                "Author": "kawaii, Veever(汉化+额外功能)",
+                "Name": "Hyperborea",
+                "InternalName": "Hyperborea",
+                "Description": "可在相对安全的环境下加载并探索任意区域，主要用于在无法进入/难以进入的场景中拍照",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/VeeverSW/Hyperborea",
+                "LastUpdate": 1762774467
             }
         ]
     },
