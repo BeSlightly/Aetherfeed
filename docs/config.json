@@ -509,7 +509,7 @@
                 "Description": "A simple plugin that lets you play any game emote, whether you unlocked it or not.\nClient side only.\nJust type the emote command as you would normally.\nWorks with custom animations and syncable over Mare.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
-                "LastUpdate": 1762971245
+                "LastUpdate": 1763120966
             }
         ]
     },
@@ -943,12 +943,21 @@
         "plugins": [
             {
                 "Author": "Ehno",
+                "Name": "Eorzean Degeneracy",
+                "InternalName": "EorzeanDegeneracy",
+                "Description": "A Cards Against Humanity–style party game for FFXIV, built for degenerates of Eorzea. Play with friends, laugh at absurd prompts, and embrace the chaos. Major slash-commands: /deg start to start a game",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/BluntEXE/VelvetRift",
+                "LastUpdate": 1763123164
+            },
+            {
+                "Author": "Ehno",
                 "Name": "Moonshadow's Tarot Reader",
                 "InternalName": "MoonshadowTarotReader",
                 "Description": "A mystical tarot card reader for FFXIV roleplay. Draw single cards or three-card spreads with AI-powered interpretations in Eorzean, Chaos, or Maternal modes. Uses Ollama for local LLM generation. Use /tarot to open.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/BluntEXE/VelvetRift",
-                "LastUpdate": 1762978658
+                "LastUpdate": 1763123164
             }
         ]
     },
@@ -1236,9 +1245,9 @@
         ]
     },
     {
-        "repo_developer_name": "cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
+        "repo_developer_name": "Cyf5119",
+        "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -1262,9 +1271,9 @@
         ]
     },
     {
-        "repo_developer_name": "Cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
+        "repo_developer_name": "cyf5119",
+        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -1685,7 +1694,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1763076385
+                "LastUpdate": 1763120620
             }
         ]
     },
@@ -3943,7 +3952,7 @@
                 "Description": "Polished single-window UI with Playwright coverage helpers and release-ready metadata.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/mona-ty/XIVSubmarinesRewrite",
-                "LastUpdate": 1762506971
+                "LastUpdate": 1763119189
             }
         ]
     },
@@ -4198,7 +4207,7 @@
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1763036921
+                "LastUpdate": 1763123212
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
@@ -4282,7 +4291,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1763036888,
+                "LastUpdate": 1763123189,
                 "is_closed_source": true
             },
             {
@@ -4310,7 +4319,7 @@
                 "Description": "简单的播报SS前置小怪的小工具",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1763036921
+                "LastUpdate": 1763123212
             }
         ]
     },
@@ -5276,7 +5285,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1763092128
+                "LastUpdate": 1763119119
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5808,7 +5817,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1763003644
+                "LastUpdate": 1763111054
             },
             {
                 "Author": "Ricimon",
@@ -6025,7 +6034,7 @@
                 "Description": "CN Only! 稿子退散（爬）！",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1762930062
+                "LastUpdate": 1763112613
             },
             {
                 "Author": "Liza Carvelli, decorwdyun(汉化)",
@@ -6369,7 +6378,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1762700572
+                "LastUpdate": 1763114793
             }
         ]
     },
@@ -6669,7 +6678,7 @@
                 "Description": "Change 3rd person camera angle depending on camera zoom.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Tenrys/ZoomTilt",
-                "LastUpdate": 1743213240
+                "LastUpdate": 1763104275
             }
         ]
     },
@@ -7623,7 +7632,7 @@
                 "Description": "Polished single-window UI with Playwright coverage helpers and release-ready metadata.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zlatan-mt/XIVSubmarinesRewrite",
-                "LastUpdate": 1762506971
+                "LastUpdate": 1763119189
             }
         ]
     },
