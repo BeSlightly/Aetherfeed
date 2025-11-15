@@ -1245,9 +1245,9 @@
         ]
     },
     {
-        "repo_developer_name": "Cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
+        "repo_developer_name": "cyf5119",
+        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -1271,9 +1271,9 @@
         ]
     },
     {
-        "repo_developer_name": "cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
+        "repo_developer_name": "Cyf5119",
+        "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -1948,7 +1948,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1763144291
+                "LastUpdate": 1763197723
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3382,6 +3382,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
                 "LastUpdate": 1761792073
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Latihas",
+        "repo_url": "https://raw.githubusercontent.com/Latihas/IINACTEx/cn/repo.json",
+        "repo_source_url": "https://github.com/Latihas/IINACTEx",
+        "repo_name": "IINACTEx",
+        "plugins": [
+            {
+                "Author": "Usagi",
+                "Name": "IINACT",
+                "InternalName": "IINACT",
+                "Description": "一个在类ACT环境中运行FFXIV_ACT_Plugin的插件，包含为现代.NET重写的Overlay Plugin",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/MeowZWR/IINACT",
+                "LastUpdate": 1762259014
             }
         ]
     },
@@ -4872,7 +4889,7 @@
                 "Description": "Export models to glTF format.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1762944470
+                "LastUpdate": 1763208909
             }
         ]
     },
@@ -6352,7 +6369,7 @@
                 "Description": "Automates market board penny pinching",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
-                "LastUpdate": 1759383743
+                "LastUpdate": 1763200507
             },
             {
                 "Author": "SHOEGAZEssb",
