@@ -139,23 +139,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/Aether-Tools/CustomizePlus/raw/main/repo.json",
-        "repo_source_url": "https://github.com/Aether-Tools/CustomizePlus",
-        "repo_name": "CustomizePlus",
-        "repo_developer_name": "Aether-Tools",
-        "plugins": [
-            {
-                "Author": "Risa and Contributors",
-                "Name": "Customize+",
-                "InternalName": "CustomizePlus",
-                "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1763400797
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Aether-Tools",
         "repo_url": "https://raw.githubusercontent.com/Aether-Tools/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/Aether-Tools/DalamudPlugins",
@@ -169,93 +152,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
                 "LastUpdate": 1763400797
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/aetherremote/AetherRemote/raw/main/repo.json",
-        "repo_source_url": "https://github.com/aetherremote/AetherRemote",
-        "repo_name": "AetherRemote",
-        "repo_developer_name": "aetherremote",
-        "plugins": [
-            {
-                "Author": "Mora",
-                "Name": "Aether Remote",
-                "InternalName": "AetherRemoteClient",
-                "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1763490743
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/Aida-Enna/XIVPlugins/raw/main/repo.json",
-        "repo_source_url": "https://github.com/Aida-Enna/XIVPlugins",
-        "repo_name": "XIVPlugins",
-        "repo_developer_name": "Aida-Enna",
-        "plugins": [
-            {
-                "Author": "Aida Enna",
-                "Name": "Auto Login",
-                "InternalName": "AutoLogin",
-                "Description": "Automatically logs you into a specified character when the game first opens.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754734096
-            },
-            {
-                "Author": "Aida Enna",
-                "Name": "Auto Pillion",
-                "InternalName": "AutoPillion",
-                "Description": "When a party member gets on a mount that supports more than 1 person and is close enough, you will automatically get on.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- You may need to right click on the driver once each time you start the game before the plugin will automount their mount. A fix is being investigated.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754734096
-            },
-            {
-                "Author": "Aida Enna",
-                "Name": "Food Check",
-                "InternalName": "FoodCheck",
-                "Description": "See who is missing food buff at countdown start and optionally post to party/echo chat with a customizable message.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754734096
-            },
-            {
-                "Author": "Aida Enna",
-                "Name": "Macro Chain Redux",
-                "InternalName": "MacroChainRedux",
-                "Description": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.\nAdding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02\nAdding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using '/runmacro'\nYou can repeat a macro by using /runmacro inside the macro followed by the number of the macro you're editing\nUsing '/macrocancel' will stop the currently running macro",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754734096
-            },
-            {
-                "Author": "Aida Enna",
-                "Name": "Portrait Fixer",
-                "InternalName": "PortraitFixer",
-                "Description": "When you click \"Update Gear Set\", this plugin will automatically update and save your portait to match your new glam.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- Rarely, a glitched desynth window will pop up when saving the gearset instead of it saving the portait. This is being investigated, closing the window and swapping classes seems to fix it.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1754734096
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/Aireil/MyDalamudPlugins/raw/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/Aireil/MyDalamudPlugins",
-        "repo_name": "MyDalamudPlugins",
-        "repo_developer_name": "Aireil",
-        "plugins": [
-            {
-                "Author": "Aireil",
-                "Name": "FF Logs Viewer",
-                "InternalName": "FFLogsViewer",
-                "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1761039599
             }
         ]
     },
@@ -462,41 +358,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/Ashylila/AshPluggyRepo/raw/refs/heads/main/repo.json",
-        "repo_source_url": "https://github.com/Ashylila/AshPluggyRepo",
-        "repo_developer_name": "Ashylila",
-        "repo_name": "AshPluggyRepo",
-        "plugins": [
-            {
-                "Author": "Ashy",
-                "Name": "AetherLink",
-                "InternalName": "AetherLink",
-                "Description": "A plugin that connects Final Fantasy XIV in-game chat with Discord, allowing real-time message exchange between the two platforms.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Ashylila/AetherLink",
-                "LastUpdate": 1755776026
-            },
-            {
-                "Author": "Ashylila",
-                "Name": "ArtisanBuddy",
-                "InternalName": "ArtisanBuddy",
-                "Description": "Artisan Things",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Ashylila/ArtisanBuddy",
-                "LastUpdate": 1759651704
-            },
-            {
-                "Author": "Ashy",
-                "Name": "The Collector",
-                "InternalName": "TheCollector",
-                "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1760216584
-            }
-        ]
-    },
-    {
         "repo_url": "https://raw.githubusercontent.com/Aspher0/BypassEmote/refs/heads/main/repo.json",
         "repo_source_url": "https://github.com/Aspher0/BypassEmote",
         "repo_developer_name": "Aspher0",
@@ -510,23 +371,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
                 "LastUpdate": 1763120966
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/Aspher0/GlamMaster/raw/main/GlamMaster.json",
-        "repo_source_url": "https://github.com/Aspher0/GlamMaster",
-        "repo_name": "GlamMaster",
-        "repo_developer_name": "Aspher0",
-        "plugins": [
-            {
-                "Author": "Aspher0",
-                "Name": "Glamour Master",
-                "InternalName": "GlamMaster",
-                "Description": "Let others control your fashion.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Aspher0/GlamMaster",
-                "LastUpdate": 1744247113
             }
         ]
     },
@@ -579,23 +423,6 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AsunaTsuki/GambaTracker",
                 "LastUpdate": 1756604995
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo/raw/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/Athavar/Athavar.FFXIV.DalaRepo",
-        "repo_name": "Athavar.FFXIV.DalaRepo",
-        "repo_developer_name": "Athavar",
-        "plugins": [
-            {
-                "Author": "Athavar",
-                "Name": "Athavar's ToolBox",
-                "InternalName": "Athavar.FFXIV.Plugin",
-                "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, DutyHistory, Instancinator, Macro, OpcodeWizard, SliceIsRight, Yes",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
-                "LastUpdate": 1755107778
             }
         ]
     },
@@ -709,34 +536,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/Atomoxide/DalamudPluginRepo/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Atomoxide/DalamudPluginRepo",
-        "plugins": [
-            {
-                "Author": "Atomoxide",
-                "Name": "Don't Look Back",
-                "InternalName": "DontLookBack",
-                "Description": "Turn and face to the camera direction immediately after any actions.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Atomoxide/DalamudPluginRepo/tree/main/DontLookBack",
-                "LastUpdate": 1732247538,
-                "is_closed_source": true
-            },
-            {
-                "Author": "Atomoxide",
-                "Name": "Hitbox Extend",
-                "InternalName": "TestPlugin",
-                "Description": "Extend the target hitbox by 3 yards (farthest allowed before your attack actions get invalidated by the server)",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Atomoxide/DalamudPluginRepo/tree/main/TestPlugin",
-                "LastUpdate": 1753573465,
-                "is_closed_source": true
-            }
-        ],
-        "repo_name": "DalamudPluginRepo",
-        "repo_developer_name": "Atomoxide"
-    },
-    {
         "repo_url": "https://puni.sh/api/repository/veyn",
         "repo_source_url": "https://github.com/awgil",
         "repo_name": "veyn",
@@ -784,7 +583,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1763508913
+                "LastUpdate": 1763662410
             },
             {
                 "Author": "veyn, croizat",
@@ -810,7 +609,7 @@
                 "Description": "Bard Toolbox is an all-in-one FFXIV Dalamud plugin for bards and bands, providing all the essential functions that people would need every day.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
-                "LastUpdate": 1763485685,
+                "LastUpdate": 1763661013,
                 "is_closed_source": true
             }
         ]
@@ -988,23 +787,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/Brappp/repo/raw/main/wah.json",
-        "repo_source_url": "https://github.com/Brappp/repo",
-        "repo_name": "repo",
-        "repo_developer_name": "Brappp",
-        "plugins": [
-            {
-                "Author": "wah",
-                "Name": "Wahbuttons",
-                "InternalName": "wahbuttons",
-                "Description": "Dynamic Button Generator",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Brappp/wahbuttons",
-                "LastUpdate": 1754474956
-            }
-        ]
-    },
-    {
         "repo_developer_name": "bunnycou",
         "repo_url": "https://raw.githubusercontent.com/bunnycou/MSQTrackerFFXIV/main/repo.json",
         "repo_source_url": "https://github.com/bunnycou/MSQTrackerFFXIV",
@@ -1103,7 +885,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1763546675
+                "LastUpdate": 1763662846
             }
         ]
     },
@@ -1137,41 +919,6 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/chirpxiv/GoodOmen",
                 "LastUpdate": 1743442982
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/cielo-h/c-pluginrepo/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/cielo-h/c-pluginrepo",
-        "repo_name": "c-pluginrepo",
-        "repo_developer_name": "cielo-h",
-        "plugins": [
-            {
-                "Author": "C",
-                "Name": "FPS Plugin-fork",
-                "InternalName": "FPSPlugin-fork",
-                "Description": "Display game FPS. It really is that simple.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/cielo-h/c-pluginrepo",
-                "LastUpdate": 1754651648,
-                "is_closed_source": true
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/CondeSaheki/MeterWay/raw/main/repo.json",
-        "repo_source_url": "https://github.com/CondeSaheki/MeterWay",
-        "repo_name": "MeterWay",
-        "repo_developer_name": "CondeSaheki",
-        "plugins": [
-            {
-                "Author": "Saheki",
-                "Name": "MeterWay",
-                "InternalName": "MeterWay",
-                "Description": "MeterWay is designed to be used in conjunction with IINACT and has the hability acts as a real-time log parser alowing to get and display elaborated statistics and data even during combat",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/CondeSaheki/MeterWay",
-                "LastUpdate": 1744500572
             }
         ]
     },
@@ -1476,6 +1223,23 @@
         ]
     },
     {
+        "repo_developer_name": "Dragonw233",
+        "repo_url": "https://raw.githubusercontent.com/Dragonw233/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Dragonw233/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Latihas，Dragonw233",
+                "Name": "SkyEye",
+                "InternalName": "SkyEye",
+                "Description": "改版SkyEye",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Dragonw233/DalamudPlugins",
+                "LastUpdate": 1756022880
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/Drakansoul/DisPlace/master/DisPlacePlugin.json",
         "repo_source_url": "https://github.com/Drakansoul/DisPlace",
         "repo_developer_name": "Drakansoul",
@@ -1694,7 +1458,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1763630387
+                "LastUpdate": 1763662722
             }
         ]
     },
@@ -1799,69 +1563,6 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Ewilhan/LMeter",
                 "LastUpdate": 1732143501
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/extrant/DalamudPlugins/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/extrant/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "repo_developer_name": "extrant",
-        "plugins": [
-            {
-                "Author": "Siren",
-                "Name": "Coyote-FFXiv",
-                "InternalName": "Coyote-FFXiv",
-                "Description": "通过条件触发实现郊狼的控制，对接Coyote。顺带支持一些RP小功能。",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/extrant/Coyote-FFXiv",
-                "LastUpdate": 1762016362
-            },
-            {
-                "Author": "Siren",
-                "Name": "FFXIV Network Packet Analysis Tool",
-                "InternalName": "FFXIVNetworkPacketAnalysisTool",
-                "Description": "一个用于分析游戏内网络包详细内容的Debug工具，更推荐开发人员使用。",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/extrant/FFXIVNetworkPacketAnalysisTool",
-                "LastUpdate": 1760332057
-            },
-            {
-                "Author": "Bluefissure",
-                "Name": "HousingPos",
-                "InternalName": "HousingPos",
-                "Description": "API13修复 By Siren",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Bluefissure/HousingPos",
-                "LastUpdate": 1763489468
-            },
-            {
-                "Author": "Siren",
-                "Name": "I-Ching-GL",
-                "InternalName": "I-Ching-GL",
-                "Description": "Chinese plugin, highly illegal FFXIV modification - provides many cheating features, but requires registration on their discord server",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1762666610,
-                "is_closed_source": true
-            },
-            {
-                "Author": "John Smith && OttoCorp",
-                "Name": "InsertNameHere3",
-                "InternalName": "InsertNameHere3",
-                "Description": "Helps you kill",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/transparent-duck/InsertNameHere3",
-                "LastUpdate": 1756391920
-            },
-            {
-                "Author": "Siren",
-                "Name": "Zhouyi",
-                "InternalName": "Zhouyi",
-                "Description": "5v5天才妹妹为您服务",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1762666610
             }
         ]
     },
@@ -1998,41 +1699,6 @@
         ],
         "repo_name": "SonarRepo",
         "repo_developer_name": "FFXIV-Sonar"
-    },
-    {
-        "repo_url": "https://github.com/FlawedBliss/DalamudPlugins/raw/refs/heads/main/repo.json",
-        "repo_source_url": "https://github.com/FlawedBliss/DalamudPlugins",
-        "repo_developer_name": "FlawedBliss",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "FlawedBliss",
-                "Name": "OccultBuddy",
-                "InternalName": "OccultBuddy",
-                "Description": "Shows nearby Treasure Coffers in Occult Crescent.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/flawedBliss/occultbuddy",
-                "LastUpdate": 1755354566
-            },
-            {
-                "Author": "FlawedBliss",
-                "Name": "Population Tracker",
-                "InternalName": "PopulationTracker",
-                "Description": "Tracking number of nearby players in real-time with graphing and export abilities.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/flawedBliss/PopulationTracker",
-                "LastUpdate": 1760449425
-            },
-            {
-                "Author": "FlawedBliss",
-                "Name": "RelicBuddy",
-                "InternalName": "RelicBuddy",
-                "Description": "A companion to help and guide you through completing your relics",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/flawedBliss/relicbuddy",
-                "LastUpdate": 1755967177
-            }
-        ]
     },
     {
         "repo_developer_name": "ForkSake",
@@ -2391,23 +2057,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/Grammernatzi/MyDalamudPlugins/raw/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/Grammernatzi/MyDalamudPlugins",
-        "repo_name": "MyDalamudPlugins",
-        "repo_developer_name": "Grammernatzi",
-        "plugins": [
-            {
-                "Author": "attick, daemitus, alymphocyte, grammernatzi",
-                "Name": "XIV Combo Expandedest",
-                "InternalName": "XIVComboExpandedest",
-                "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Grammernatzi/XIVComboPlugin",
-                "LastUpdate": 1754469198
-            }
-        ]
-    },
-    {
         "repo_developer_name": "GrimmortalDread",
         "repo_url": "https://raw.githubusercontent.com/GrimmortalDread/NoQuestIcons/main/pluginmaster.json",
         "repo_source_url": "https://github.com/GrimmortalDread/NoQuestIcons",
@@ -2484,41 +2133,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/Haselnussbomber/MyDalamudPlugins/raw/main/repo.json",
-        "repo_source_url": "https://github.com/Haselnussbomber/MyDalamudPlugins",
-        "repo_name": "MyDalamudPlugins",
-        "repo_developer_name": "Haselnussbomber",
-        "plugins": [
-            {
-                "Author": "Haselnussbomber",
-                "Name": "HaselDebug",
-                "InternalName": "HaselDebug",
-                "Description": "For developers.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1762852782
-            },
-            {
-                "Author": "Haselnussbomber",
-                "Name": "HaselTweaks",
-                "InternalName": "HaselTweaks",
-                "Description": "A collection of quality of life tweaks and more.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1763508636
-            },
-            {
-                "Author": "Haselnussbomber",
-                "Name": "LeveHelper",
-                "InternalName": "LeveHelper",
-                "Description": "A little helper to check which Levequests have been completed and which are missing.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
-                "LastUpdate": 1762852957
-            }
-        ]
-    },
-    {
         "repo_developer_name": "he0119",
         "repo_url": "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/repo.json",
         "repo_source_url": "https://github.com/he0119/FFXIVBlindBoxPlugin",
@@ -2587,23 +2201,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/ifan0927/test123/raw/main/123.json",
-        "repo_source_url": "https://github.com/ifan0927/test123",
-        "repo_name": "test123",
-        "repo_developer_name": "ifan0927",
-        "plugins": [
-            {
-                "Author": "Asgard, Minmoose and Contributors",
-                "Name": "Brio",
-                "InternalName": "Brio",
-                "Description": "在集体动作模式中控制参与的角色。",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/MeowZWR/Brio",
-                "LastUpdate": 1762043559
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/IKDprogram/pluginsJson/raw/main/plugin.json",
         "repo_source_url": "https://github.com/IKDprogram/pluginsJson",
         "repo_name": "pluginsJson",
@@ -2642,23 +2239,6 @@
                 "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped",
                 "RepoUrl": "https://github.com/InitialDet/MinionRoulette",
                 "LastUpdate": 1754935324
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/iri-impulse/IriBetaChannel/raw/main/testing.json",
-        "repo_source_url": "https://github.com/iri-impulse/IriBetaChannel/",
-        "repo_developer_name": "iri-impulse",
-        "repo_name": "IriBetaChannel",
-        "plugins": [
-            {
-                "Author": "iri",
-                "Name": "Photobooth",
-                "InternalName": "Photobooth",
-                "Description": "Take your portrait & adventurer plate game to the next level with this companion panel for the portrait editor.\n\n• Rewind, fast forward, and step through animations frame by frame.\n• Adjust character head and eye direction without moving the camera.\n• Position camera and pivot point with a top-down map.\n• More intuitive controls for lighting color and angle.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/iri-impulse/PhotoboothPlugin",
-                "LastUpdate": 1757561112
             }
         ]
     },
@@ -3302,7 +2882,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1763546675
+                "LastUpdate": 1763662846
             }
         ]
     },
@@ -3934,25 +3514,6 @@
                 "Description": "Thank you to a08381 for the original cutscene skip plugin https://github.com/a08381/Dalamud.SkipCutscene",
                 "RepoUrl": "https://github.com/MisterCatt/Working-ffxiv-pluginTemplate",
                 "LastUpdate": 1720565530
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/moewcorp/DalamudPlugins/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/moewcorp/DalamudPlugins",
-        "repo_game_client": "chinese",
-        "is_allowed_mega_repo": true,
-        "repo_name": "DalamudPlugins",
-        "repo_developer_name": "moewcorp",
-        "plugins": [
-            {
-                "Author": "yoyokity",
-                "Name": "TreasureBox",
-                "InternalName": "TreasureBox",
-                "Description": "好用的百宝箱",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/yoyokity/TreasureBox",
-                "LastUpdate": 1740110576
             }
         ]
     },
@@ -4719,7 +4280,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1763546675
+                "LastUpdate": 1763662846
             },
             {
                 "Author": "kawaii, Glyceri",
@@ -4807,23 +4368,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/papapachin/ActionTimelineReplacement/raw/Global/repo.json",
-        "repo_source_url": "https://github.com/papapachin/ActionTimelineReplacement",
-        "repo_name": "ActionTimelineReplacement",
-        "repo_developer_name": "papapachin",
-        "plugins": [
-            {
-                "Author": "Loskh,Papachin,DethiCra",
-                "Name": "ActionTimelineReplacement(aka. ATR)",
-                "InternalName": "ActionTimelineReplacement",
-                "Description": "A simple plugin to replace timelines of actions.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/papapachin/ActionTimelineReplacement/tree/Global",
-                "LastUpdate": 1758043800
-            }
-        ]
-    },
-    {
         "repo_url": "https://raw.githubusercontent.com/Paparogue/PaparogueRepo/refs/heads/main/repo.json",
         "repo_source_url": "https://github.com/Paparogue/PaparogueRepo",
         "repo_developer_name": "Paparogue",
@@ -4877,23 +4421,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/PassiveModding/Meddle/raw/main/repo.json",
-        "repo_source_url": "https://github.com/PassiveModding/Meddle",
-        "repo_name": "Meddle",
-        "repo_developer_name": "PassiveModding",
-        "plugins": [
-            {
-                "Author": "Ramen",
-                "Name": "Meddle",
-                "InternalName": "Meddle.Plugin",
-                "Description": "Export models to glTF format.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1763465739
-            }
-        ]
-    },
-    {
         "repo_source_url": "https://github.comlnjanos/peepingtim",
         "repo_url": "https://raw.githubusercontent.com/lnjanos/peepingtim/refs/heads/master/SamplePlugin/yuck.json",
         "repo_developer_name": "peepingtim",
@@ -4924,7 +4451,7 @@
                 "Description": "Just a different Version of Peeping Tom",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/lnjanos/peepingtim",
-                "LastUpdate": 1762452277
+                "LastUpdate": 1763662552
             },
             {
                 "Author": "kcuY",
@@ -5069,23 +4596,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Pistachio-dev/TruthOrDareHelper",
                 "LastUpdate": 1756547566
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/pot0to/DalamudPluginConfigs/raw/master/plogon.json",
-        "repo_source_url": "https://github.com/pot0to/DalamudPluginConfigs",
-        "repo_name": "DalamudPluginConfigs",
-        "repo_developer_name": "pot0to",
-        "plugins": [
-            {
-                "Author": "Anna, pot0to",
-                "Name": "Travel Agency",
-                "InternalName": "TravelAgency",
-                "Description": "Automatically collect all sightseeing logs.\n\nRequires: vnavmesh, Lifestream\nIcon: sightseeing by muhammad from the Noun Project",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/pot0to/TravelAgency",
-                "LastUpdate": 1733685499
             }
         ]
     },
@@ -5709,23 +5219,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/redeven/VentureTime/raw/master/repository.json",
-        "repo_source_url": "https://github.com/redeven/VentureTime",
-        "repo_name": "VentureTime",
-        "repo_developer_name": "redeven",
-        "plugins": [
-            {
-                "Author": "Redeven",
-                "Name": "VentureTime",
-                "InternalName": "VentureTime",
-                "Description": "Display your retainers' remaining venture time in the DTR bar.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/redeven/VentureTime",
-                "LastUpdate": 1743083201
-            }
-        ]
-    },
-    {
         "repo_developer_name": "ReiwaTech",
         "repo_url": "https://raw.githubusercontent.com/ReiwaTech/DalamudPluginRepo/master/pluginmaster.json",
         "repo_source_url": "https://github.com/ReiwaTech/DalamudPluginRepo",
@@ -6126,23 +5619,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/Sebane1/AQuestReborn/raw/master/repo.json",
-        "repo_source_url": "https://github.com/Sebane1/AQuestReborn",
-        "repo_name": "AQuestReborn",
-        "repo_developer_name": "Sebane1",
-        "plugins": [
-            {
-                "Author": "Sebastina",
-                "Name": "A Quest Reborn",
-                "InternalName": "AQuestReborn",
-                "Description": "Play custom quests made by the community, or make your own!",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1760866334
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/Sebane1/Brio/raw/main/repo.json",
         "repo_source_url": "https://github.com/Sebane1/Brio",
         "repo_name": "Brio",
@@ -6258,23 +5734,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
                 "LastUpdate": 1761008387
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/Sevii77/animation_syncer/raw/master/repo.json",
-        "repo_source_url": "https://github.com/Sevii77/animation_syncer",
-        "repo_developer_name": "Sevii77",
-        "repo_name": "animation_syncer",
-        "plugins": [
-            {
-                "Author": "Sevii",
-                "Name": "Animation Syncer",
-                "InternalName": "AnimSync",
-                "Description": "Sync Animations",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Sevii77/animation_syncer",
-                "LastUpdate": 1754935919
             }
         ]
     },
@@ -6547,23 +6006,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/StackBLU/MSQCutsceneSkipper/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/StackBLU/MSQCutsceneSkipper",
-        "repo_name": "MSQCutsceneSkipper",
-        "repo_developer_name": "StackBLU",
-        "plugins": [
-            {
-                "Author": "Stack",
-                "Name": "MSQ Cutscene Skipper",
-                "InternalName": "MSQCutsceneSkipper",
-                "Description": "Skip cutscenes in \"Castrum Meridianum\", \"The Praetorium\", and \"The Porta Decumana\"!",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/StackBLU/MSQCutsceneSkipper",
-                "LastUpdate": 1755031683
-            }
-        ]
-    },
-    {
         "repo_developer_name": "StackBLU",
         "repo_url": "https://raw.githubusercontent.com/StackBLU/UltimateCombo/main/pluginmaster.json",
         "repo_source_url": "https://github.com/StackBLU/UltimateCombo",
@@ -6698,41 +6140,6 @@
                 "LastUpdate": 1763104275
             }
         ]
-    },
-    {
-        "repo_url": "https://github.com/thakyZ/MyDalamudPlugins/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/thakyZ/MyDalamudPlugins",
-        "plugins": [
-            {
-                "Author": "Neko Boi Nick",
-                "Name": "Better Minion Roulette",
-                "InternalName": "BetterMinionRoulette",
-                "Description": "Allows any number of minions to be enabled for the minion roulette, instead of having to choose between the\n\"up to 30\" and \"EVERYTHING\" modes supported by the game. Also has (or will have) an option to omit the\nisland sanctuary minions from being spawned.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/thakyZ/BetterMinionRoulette",
-                "LastUpdate": 1746563409
-            },
-            {
-                "Author": "Neko Boi Nick",
-                "Name": "Housing Timeout Reminder",
-                "InternalName": "HousingTimeoutReminder",
-                "Description": "A plugin to remind you about your house on FFXIV just in case you forgot to visit it.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/thakyZ/HousingTimeoutReminder",
-                "LastUpdate": 1746565791
-            },
-            {
-                "Author": "akira0245",
-                "Name": "Reset Enmity Command",
-                "InternalName": "ResetEnmityCommand",
-                "Description": "Add a reset striking dummy enmity command.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/thakyZ/Dalamud-ResetEnmityCommand",
-                "LastUpdate": 1746563214
-            }
-        ],
-        "repo_name": "MyDalamudPlugins",
-        "repo_developer_name": "thakyZ"
     },
     {
         "repo_developer_name": "TheHeadpatCat",
@@ -7089,32 +6496,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/ViviAshe/plugins/raw/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/ViviAshe/plugins",
-        "plugins": [
-            {
-                "Author": "Eqbot, astrodoobs, Vivi",
-                "Name": "Snapper",
-                "InternalName": "Snapper",
-                "Description": "/psnap to use",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/ViviAshe/XIVSnapper",
-                "LastUpdate": 1732335821
-            },
-            {
-                "Author": "Marulu, StreetRat, Vivi",
-                "Name": "StopTheClip",
-                "InternalName": "StopTheClip",
-                "Description": "Do you want to take close up screenshots? Are you a melee and hate having the boss model disappear on you? Then this is the plugin for you, it overrides the near clip and stops models from hiding on camera collision. This plugin is based on XIVR code.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/ViviAshe/StopTheClip/",
-                "LastUpdate": 1740430633
-            }
-        ],
-        "repo_name": "plugins",
-        "repo_developer_name": "ViviAshe"
-    },
-    {
         "repo_url": "https://github.com/WesleyLuk90/ffxiv-vr/raw/master/PluginRepo/pluginmaster.json",
         "repo_source_url": "https://github.com/WesleyLuk90/ffxiv-vr",
         "repo_name": "ffxiv-vr",
@@ -7165,39 +6546,12 @@
             },
             {
                 "Author": "Liza Carvelli, WigglyMuffin, CryoTechnic",
-                "Name": "Questionable",
-                "InternalName": "Questionable",
-                "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1763503456
-            },
-            {
-                "Author": "Liza Carvelli, WigglyMuffin, CryoTechnic",
                 "Name": "Questionable Plus",
                 "InternalName": "QuestionablePlus",
                 "Description": "Created by Liza, maintained by WigglyMuffin, CryoTechnic. A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
                 "LastUpdate": 1763503456
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/WINDOWCOLLAPSIBLE/404notfound",
-        "repo_name": "404notfound",
-        "repo_developer_name": "WINDOWCOLLAPSIBLE",
-        "plugins": [
-            {
-                "Author": "C",
-                "Name": "PosPluginNeo",
-                "InternalName": "PosPluginNeo",
-                "Description": "Teleport hack plugin",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/WINDOWCOLLAPSIBLE/404notfound",
-                "LastUpdate": 1762392236,
-                "is_closed_source": true
             }
         ]
     },
@@ -7460,7 +6814,7 @@
                 "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，但数据读取依旧不稳定）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
-                "LastUpdate": 1761408299
+                "LastUpdate": 1763650947
             }
         ]
     },
@@ -7557,6 +6911,15 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/YouShux/TiltedPlugin",
                 "LastUpdate": 1762695061
+            },
+            {
+                "Author": "Infi, PunishedPineapple, YouShu",
+                "Name": "Waymark Preset Plugin (汉化)",
+                "InternalName": "WaymarkPresetPlugin",
+                "Description": "保存/编辑/放置/导入/导出与预览无限数量的场标预设，支持与游戏窗口联动",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Infiziert90/WaymarkPresetPlugin",
+                "LastUpdate": 1754526254
             }
         ]
     },
@@ -7574,23 +6937,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/yschuurmans/FFXIVMoneyTracker",
                 "LastUpdate": 1754587693
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/ZapleMyrup/MyDalamudPlugins/raw/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/ZapleMyrup/MyDalamudPlugins",
-        "repo_name": "MyDalamudPlugins",
-        "repo_developer_name": "ZapleMyrup",
-        "plugins": [
-            {
-                "Author": "attick, daemitus, Khayle",
-                "Name": "XIV Combo Expanded",
-                "InternalName": "XIVComboExpanded",
-                "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
-                "LastUpdate": 1755727650
             }
         ]
     },
