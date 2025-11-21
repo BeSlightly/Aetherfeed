@@ -49,7 +49,7 @@ export const Header: React.FC = () => {
                 <div className="flex justify-between items-center h-16">
                     {/* Logo */}
                     <Link to="/" className="flex-shrink-0 flex items-center cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
-                        <img src="/logo.svg" alt="Aetherfeed Logo" className="h-8 w-8 mr-2" />
+                        <img src={`${import.meta.env.BASE_URL}logo.svg`} alt="Aetherfeed Logo" className="h-8 w-8 mr-2" />
                         <span className="font-display font-bold text-xl tracking-tight text-slate-900 dark:text-white">
                             Aetherfeed
                         </span>
@@ -64,8 +64,8 @@ export const Header: React.FC = () => {
                                     key={link.name}
                                     to={link.href}
                                     className={`text-sm font-medium transition-colors relative ${isActive
-                                            ? 'text-aether-600 dark:text-aether-400'
-                                            : 'text-slate-600 hover:text-aether-500 dark:text-slate-300 dark:hover:text-aether-400'
+                                        ? 'text-aether-600 dark:text-aether-400'
+                                        : 'text-slate-600 hover:text-aether-500 dark:text-slate-300 dark:hover:text-aether-400'
                                         }`}
                                 >
                                     {link.name}

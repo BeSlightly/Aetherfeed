@@ -30,8 +30,8 @@ export const usePlugins = () => {
         const fetchPlugins = async () => {
             try {
                 const [configResponse, priorityResponse] = await Promise.all([
-                    fetch('/data/plugins.json'),
-                    fetch('/data/priority-repos.json')
+                    fetch(`${import.meta.env.BASE_URL}data/plugins.json`),
+                    fetch(`${import.meta.env.BASE_URL}data/priority-repos.json`)
                 ]);
 
                 if (!configResponse.ok) {
