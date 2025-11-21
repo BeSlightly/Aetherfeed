@@ -201,8 +201,8 @@
                 "InternalName": "AutoLogin",
                 "Description": "Automatically logs you into a specified character when the game first opens.",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1763694395
+                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins/tree/main/AutoLogin",
+                "LastUpdate": 1754701285
             },
             {
                 "Author": "Aida Enna",
@@ -210,8 +210,8 @@
                 "InternalName": "AutoPillion",
                 "Description": "When a party member gets on a mount that supports more than 1 person and is close enough, you will automatically get on.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- You may need to right click on the driver once each time you start the game before the plugin will automount their mount. A fix is being investigated.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1763694395
+                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins/tree/main/AutoPillion",
+                "LastUpdate": 1754702659
             },
             {
                 "Author": "Aida Enna",
@@ -219,8 +219,8 @@
                 "InternalName": "FoodCheck",
                 "Description": "See who is missing food buff at countdown start and optionally post to party/echo chat with a customizable message.",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1763694395
+                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins/tree/main/FoodCheck",
+                "LastUpdate": 1754733953
             },
             {
                 "Author": "Aida Enna",
@@ -228,8 +228,8 @@
                 "InternalName": "MacroChainRedux",
                 "Description": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.\nAdding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02\nAdding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using '/runmacro'\nYou can repeat a macro by using /runmacro inside the macro followed by the number of the macro you're editing\nUsing '/macrocancel' will stop the currently running macro",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1763694395
+                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins/tree/main/MacroChainRedux",
+                "LastUpdate": 1754702066
             },
             {
                 "Author": "Aida Enna",
@@ -237,8 +237,8 @@
                 "InternalName": "PortraitFixer",
                 "Description": "When you click \"Update Gear Set\", this plugin will automatically update and save your portait to match your new glam.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- Rarely, a glitched desynth window will pop up when saving the gearset instead of it saving the portait. This is being investigated, closing the window and swapping classes seems to fix it.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1763694395
+                "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins/tree/main/PortaitFixer",
+                "LastUpdate": 1754701609
             }
         ]
     },
@@ -492,7 +492,7 @@
                 "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1763669058
+                "LastUpdate": 1763707747
             }
         ]
     },
@@ -650,7 +650,7 @@
                 "Description": "在选择角色界面, 右键对应角色, 即可进行超域旅行\n需要使用 XIVLauncherCN 启动游戏, 不支持 WeGame 端",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DCTraveler",
-                "LastUpdate": 1763637203
+                "LastUpdate": 1763715227
             },
             {
                 "Author": "The Combat Reborn Team, AtmoOmen (本地化及国服适配)",
@@ -1355,7 +1355,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1763293863
+                "LastUpdate": 1763720800
             }
         ],
         "repo_developer_name": "Det"
@@ -1708,7 +1708,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1763662722
+                "LastUpdate": 1763718817
             }
         ]
     },
@@ -1916,7 +1916,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1762847727
+                "LastUpdate": 1763713841
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1934,7 +1934,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1763542919
+                "LastUpdate": 1763714944
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5252,7 +5252,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1763293863
+                "LastUpdate": 1763720800
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -5847,7 +5847,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1763157214
+                "LastUpdate": 1763721482
             },
             {
                 "Author": "Ricimon",
@@ -6914,7 +6914,9 @@
                 "Name": "PlayerSync",
                 "InternalName": "MareSempiterne",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-                "DalamudApiLevel": 13
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
+                "LastUpdate": 1763694241
             }
         ]
     },
@@ -6959,6 +6961,15 @@
         "repo_source_url": "https://github.com/Valiice/DalamudPluginRepo",
         "repo_name": "DalamudPluginRepo",
         "plugins": [
+            {
+                "Author": "Vali",
+                "Name": "Drop Rate Logger",
+                "InternalName": "DropLogger",
+                "Description": "Loot Tracking System. Logs drops to server.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Valiice/LootTracker",
+                "LastUpdate": 1763719498
+            },
             {
                 "Author": "Vali",
                 "Name": "SpotifyHonorific",
