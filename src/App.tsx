@@ -8,7 +8,7 @@ import Resources from './pages/Resources';
 const App: React.FC = () => {
   return (
     <ThemeProvider>
-      <Router>
+      <Router basename="/Aetherfeed">
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
