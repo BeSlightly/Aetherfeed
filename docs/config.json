@@ -650,7 +650,7 @@
                 "Description": "在选择角色界面, 右键对应角色, 即可进行超域旅行\n需要使用 XIVLauncherCN 启动游戏, 不支持 WeGame 端",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DCTraveler",
-                "LastUpdate": 1763715227
+                "LastUpdate": 1763724903
             },
             {
                 "Author": "The Combat Reborn Team, AtmoOmen (本地化及国服适配)",
@@ -792,24 +792,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
                 "LastUpdate": 1762934509
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "BardToolbox",
-        "repo_url": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/BardToolbox/BardToolbox-Release",
-        "repo_name": "BardToolbox-Release",
-        "plugins": [
-            {
-                "Author": "BardToolbox",
-                "Name": "BardToolbox",
-                "InternalName": "BardToolbox",
-                "Description": "Bard Toolbox is an all-in-one FFXIV Dalamud plugin for bards and bands, providing all the essential functions that people would need every day.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
-                "LastUpdate": 1763661013,
-                "is_closed_source": true
             }
         ]
     },
@@ -1242,9 +1224,9 @@
         ]
     },
     {
-        "repo_developer_name": "cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
+        "repo_developer_name": "Cyf5119",
+        "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -1268,9 +1250,9 @@
         ]
     },
     {
-        "repo_developer_name": "Cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
+        "repo_developer_name": "cyf5119",
+        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
+        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -1340,6 +1322,77 @@
                 "Description": "Displays a customizable position marker under your character.",
                 "RepoUrl": "https://github.com/dechamps-chen/DotPosition",
                 "LastUpdate": 1754603326
+            }
+        ]
+    },
+    {
+        "repo_url": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/refs/heads/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/decorwdyun/DalamudPlugins",
+        "repo_developer_name": "decorwdyun",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Ottermandias, decorwdyun(汉化)",
+                "Name": "Accountant",
+                "InternalName": "Accountant",
+                "Description": "监控雇员、飞空艇、潜水艇、以太转轮、作物成熟以及多个角色的一些杂项任务。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/decorwdyun/Accountant",
+                "LastUpdate": 1758008687
+            },
+            {
+                "Author": "decorwdyun",
+                "Name": "FuckDalamudCN",
+                "InternalName": "FuckDalamudCN",
+                "Description": "（CN Only）如果你的网络环境不能稳定的访问 Github，那么可以试试本插件提供的 Github 加速服务\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
+                "LastUpdate": 1763580847
+            },
+            {
+                "Author": "decorwdyun",
+                "Name": "PFClassifier",
+                "InternalName": "PFClassifier",
+                "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
+                "LastUpdate": 1763481359
+            },
+            {
+                "Author": "decorwdyun",
+                "Name": "PFRadar",
+                "InternalName": "PFRadar",
+                "Description": "CN Only! 稿子退散（爬）！\n- 新功能：招募过滤器：一键过滤开荒、伐木、老板队、固定队招募",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/decorwdyun/PFRadar",
+                "LastUpdate": 1763294719
+            },
+            {
+                "Author": "Liza Carvelli, decorwdyun(汉化), various contributor",
+                "Name": "Questionable",
+                "InternalName": "Questionable",
+                "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/decorwdyun/Questionable",
+                "LastUpdate": 1762968648
+            },
+            {
+                "Author": "The Combat Reborn Team, decorwdyun(汉化)",
+                "Name": "Rotation Solver Reborn",
+                "InternalName": "RotationSolver",
+                "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
+                "LastUpdate": 1762969770
+            },
+            {
+                "Author": "veyn, decorwdyun(汉化)",
+                "Name": "Satisfier",
+                "InternalName": "vsatisfy",
+                "Description": "通过自动化流程减少老主顾交付的烦恼。\n 所需插件：vnavmesh, Artisan",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
+                "LastUpdate": 1762934509
             }
         ]
     },
@@ -3337,6 +3390,23 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/LaciSynchroni/repo/refs/heads/main/plogonmaster.json",
+        "repo_source_url": "https://github.com/LaciSynchroni/client",
+        "repo_developer_name": "LaciSynchroni",
+        "repo_name": "client",
+        "plugins": [
+            {
+                "Author": "Laci Synchroni Team and Contributors",
+                "Name": "Laci Synchroni",
+                "InternalName": "LaciSynchroni",
+                "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/LaciSynchroni/client",
+                "LastUpdate": 1763599570
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Latihas",
         "repo_url": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/repo.json",
         "repo_source_url": "https://github.com/Latihas/dalamud-plugins",
@@ -3649,41 +3719,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
                 "LastUpdate": 1758731929
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "lsl1225",
-        "repo_url": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/main/repo.json",
-        "repo_source_url": "https://github.com/lsl1225/DalamudPluginsCN",
-        "repo_name": "DalamudPluginsCN",
-        "plugins": [
-            {
-                "Author": "Loskh, lsl1225",
-                "Name": "AoAoEnergy",
-                "InternalName": "AoAoEnergy",
-                "Description": "可我还要打本啊！为了不睡过去，我需要补充能量。这时候就轮到我最爱的能量饮料登场了……",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/lsl1225/DalamudPluginsCN",
-                "LastUpdate": 1763448517
-            },
-            {
-                "Author": "erdelf, Herculezz",
-                "Name": "AutoDuty CN",
-                "InternalName": "AutoDuty",
-                "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (Wrath Combo, BossMod AutoRotation, or RotationSolverReborn)",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
-                "LastUpdate": 1763448386
-            },
-            {
-                "Author": "Haselnussbomber",
-                "Name": "HaselTweaks CN",
-                "InternalName": "HaselTweaks",
-                "Description": "Keep on tweaking.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/lsl1225/HaselTweaksCN",
-                "LastUpdate": 1762829262
             }
         ]
     },
@@ -5679,6 +5714,24 @@
         ]
     },
     {
+        "repo_developer_name": "reckhou",
+        "repo_url": "https://raw.githubusercontent.com/reckhou/BardToolbox-Release/refs/heads/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/reckhou/BardToolbox-Release",
+        "repo_name": "BardToolbox-Release",
+        "plugins": [
+            {
+                "Author": "BardToolbox",
+                "Name": "BardToolbox",
+                "InternalName": "BardToolbox",
+                "Description": "Bard Toolbox is an all-in-one FFXIV Dalamud plugin for bards and bands, providing all the essential functions that people would need every day.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
+                "LastUpdate": 1763661013,
+                "is_closed_source": true
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/reckhou/DalamudPlugins-Ori/raw/api6/pluginmaster.json",
         "repo_source_url": "https://github.com/reckhou/DalamudPlugins-Ori",
         "plugins": [
@@ -6030,68 +6083,6 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
                 "LastUpdate": 1732658770
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "sayaai-glitch",
-        "repo_url": "https://raw.githubusercontent.com/sayaai-glitch/sayaai/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/sayaai-glitch/sayaai",
-        "repo_name": "sayaai",
-        "plugins": [
-            {
-                "Author": "Ottermandias, decorwdyun(汉化)",
-                "Name": "Accountant",
-                "InternalName": "Accountant",
-                "Description": "监控雇员、飞空艇、潜水艇、以太转轮、作物成熟以及多个角色的一些杂项任务。",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/decorwdyun/Accountant",
-                "LastUpdate": 1758008687
-            },
-            {
-                "Author": "decorwdyun",
-                "Name": "FuckDalamudCN",
-                "InternalName": "FuckDalamudCN",
-                "Description": "（CN Only）如果你的网络环境不能稳定的访问 Github，那么可以试试本插件提供的 Github 加速服务\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
-                "LastUpdate": 1763580847
-            },
-            {
-                "Author": "decorwdyun",
-                "Name": "PFRadar",
-                "InternalName": "PFRadar",
-                "Description": "CN Only! 稿子退散（爬）！",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1763294719
-            },
-            {
-                "Author": "Liza Carvelli, decorwdyun(汉化)",
-                "Name": "Questionable",
-                "InternalName": "Questionable",
-                "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1762968648
-            },
-            {
-                "Author": "The Combat Reborn Team, decorwdyun(汉化)",
-                "Name": "Rotation Solver Reborn",
-                "InternalName": "RotationSolver",
-                "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
-                "LastUpdate": 1762969770
-            },
-            {
-                "Author": "veyn, decorwdyun(汉化)",
-                "Name": "Satisfier",
-                "InternalName": "vsatisfy",
-                "Description": "通过自动化流程减少老主顾交付的烦恼。\n 所需插件：vnavmesh, Artisan",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
-                "LastUpdate": 1762934509
             }
         ]
     },
