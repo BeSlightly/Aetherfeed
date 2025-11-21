@@ -95,11 +95,20 @@ const Home: React.FC = () => {
 
         // 3. View Options Filter (Latin Only)
         if (isLatinOnly) {
-            const chineseRegex = /[\u4e00-\u9fa5]/;
+            const chineseRegex = /[\u4e00-\u9fff]/i;
+            const japaneseRegex = /[\u3040-\u30ff\u31f0-\u31ff\u3400-\u4dbf]/i;
+            const koreanRegex = /[\u1100-\u11ff\uac00-\ud7af]/i;
             result = result.filter(p => {
                 const name = p.Name || p.InternalName || '';
                 const desc = p.Description || '';
-                return !chineseRegex.test(name) && !chineseRegex.test(desc);
+                return (
+                    !chineseRegex.test(name) &&
+                    !chineseRegex.test(desc) &&
+                    !japaneseRegex.test(name) &&
+                    !japaneseRegex.test(desc) &&
+                    !koreanRegex.test(name) &&
+                    !koreanRegex.test(desc)
+                );
             });
         }
 
