@@ -4273,7 +4273,7 @@
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1763123212
+                "LastUpdate": 1763798276
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
@@ -4357,7 +4357,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1763123189,
+                "LastUpdate": 1763798255,
                 "is_closed_source": true
             },
             {
@@ -4385,7 +4385,7 @@
                 "Description": "简单的播报SS前置小怪的小工具",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1763123212
+                "LastUpdate": 1763798276
             }
         ]
     },
@@ -4938,7 +4938,7 @@
                 "Description": "Did I mention I'm a model? Export models to glTF format.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1763465739
+                "LastUpdate": 1763797211
             }
         ]
     },
@@ -5351,7 +5351,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1763784949
+                "LastUpdate": 1763805087
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5378,7 +5378,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1763748312
+                "LastUpdate": 1763797514
             },
             {
                 "Author": "daemitus, kawaii",
@@ -5586,12 +5586,12 @@
         "plugins": [
             {
                 "Author": "rail",
-                "Name": "AetherBreaker",
-                "InternalName": "AetherBreaker",
-                "Description": "Opens on death, or /abreaker. A Puzzle Bobble clone mini-game.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/rail2025/AetherBreaker",
-                "LastUpdate": 1758409951
+                "Name": "AetherBomber",
+                "InternalName": "AetherBomber",
+                "Description": "Opens on death, or /aetherbomber. A Bomberman clone mini-game.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/rail2025/AetherBomber",
+                "LastUpdate": 1763801891
             }
         ]
     },
