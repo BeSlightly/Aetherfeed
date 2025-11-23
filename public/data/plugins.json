@@ -151,7 +151,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1763826009
+                "LastUpdate": 1763840315
             }
         ]
     },
@@ -168,7 +168,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1763826009
+                "LastUpdate": 1763840315
             }
         ]
     },
@@ -360,7 +360,7 @@
                 "Description": "Update honorific title based on discord activity informations",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
-                "LastUpdate": 1763567657
+                "LastUpdate": 1763847979
             },
             {
                 "Author": "Pyon, Anya Hichu",
@@ -1244,32 +1244,6 @@
         "repo_developer_name": "Cyf5119",
         "repo_url": "https://raw.githubusercontent.com/Cyf5119/DalamudPlugins/main/PluginMaster.json",
         "repo_source_url": "https://github.com/Cyf5119/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "MidoriKami, cyf5119(translator)",
-                "Name": "MappyCN",
-                "InternalName": "Mappy",
-                "Description": "将游戏中的地图替换为具有几个附加功能的ImGui实现。",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/cyf5119/MappyCN",
-                "LastUpdate": 1741603826
-            },
-            {
-                "Author": "Infi, PunishedPineapple, cyf5119(translator)",
-                "Name": "Waymark Preset Plugin CN",
-                "InternalName": "WaymarkPresetPlugin",
-                "Description": "允许你保存、编辑、放置、导入、导出以及预览无限数量的场地标点预设。",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/cyf5119/WaymarkPresetPlugin",
-                "LastUpdate": 1741611778
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "cyf5119",
-        "repo_url": "https://raw.githubusercontent.com/cyf5119/DalamudPlugins/main/PluginMaster.json",
-        "repo_source_url": "https://github.com/cyf5119/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
@@ -2589,7 +2563,7 @@
                 "Description": "Keep on tweaking.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1763508636
+                "LastUpdate": 1763842832
             },
             {
                 "Author": "Haselnussbomber",
@@ -3686,7 +3660,8 @@
                 "InternalName": "LightlessSync",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient"
+                "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
+                "LastUpdate": 1762978240
             }
         ]
     },
@@ -3873,7 +3848,7 @@
                 "InternalName": "ToyBox",
                 "Description": "Companion plugin addon for Whiskers that extends controls as an alternative to BardToolbox.",
                 "RepoUrl": "https://github.com/Meowchestra/ToyBox",
-                "LastUpdate": 1763418974
+                "LastUpdate": 1763852163
             },
             {
                 "Author": "GiR-Zippo, Meowchestra, MoogleTroupe",
@@ -4050,7 +4025,8 @@
                 "InternalName": "Mayai",
                 "Description": "Adds a quick-repair, so when using repair NPC you can simply click repeatedly NUM0. Possibly more features will be added in the future.",
                 "DalamudApiLevel": 11,
-                "RepoUrl": "https://gitlab.com/monnef/mayai"
+                "RepoUrl": "https://gitlab.com/monnef/mayai",
+                "LastUpdate": 1737187812
             },
             {
                 "Author": "monnef",
@@ -4058,7 +4034,8 @@
                 "InternalName": "TeidenPlugin",
                 "Description": "Relay chat messages to your server.",
                 "DalamudApiLevel": 11,
-                "RepoUrl": "https://gitlab.com/monnef/teiden"
+                "RepoUrl": "https://gitlab.com/monnef/teiden",
+                "LastUpdate": 1722230218
             }
         ],
         "repo_name": "dalamud-plugin-repo"
@@ -4245,7 +4222,7 @@
                 "Description": "",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
-                "LastUpdate": 1758234821
+                "LastUpdate": 1763851346
             },
             {
                 "Author": "NightmareXIV",
@@ -4749,7 +4726,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1763826009
+                "LastUpdate": 1763840315
             },
             {
                 "Author": "NightmareXIV, AsunaTsuki",
@@ -4955,7 +4932,24 @@
                 "Description": "Did I mention I'm a model? Export models to glTF format.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1763797211
+                "LastUpdate": 1763858054
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "PassiveModding",
+        "repo_url": "https://raw.githubusercontent.com/PassiveModding/XIVSplits/main/repo.json",
+        "repo_source_url": "https://github.com/PassiveModding/XIVSplits",
+        "repo_name": "XIVSplits",
+        "plugins": [
+            {
+                "Author": "PassiveModding",
+                "Name": "XIVSplits",
+                "InternalName": "XIVSplits",
+                "Description": "Split your FFXIV runs with ease!",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PassiveModding/XIVSplits",
+                "LastUpdate": 1763845122
             }
         ]
     },
@@ -5674,9 +5668,9 @@
                 "Name": "Aetherial Arena",
                 "InternalName": "AetherialArena",
                 "Description": "Open with /aarena. Search and discover more creatures around the world.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/rail2025/AetherialArena",
-                "LastUpdate": 1758601975
+                "LastUpdate": 1763849540
             }
         ]
     },
@@ -6878,6 +6872,23 @@
         ]
     },
     {
+        "repo_developer_name": "Tuconei",
+        "repo_url": "https://raw.githubusercontent.com/Tuconei/SimpleRollTracker/master/repo.json",
+        "repo_source_url": "https://github.com/Tuconei/SimpleRollTracker",
+        "repo_name": "SimpleRollTracker",
+        "plugins": [
+            {
+                "Author": "Tuconei",
+                "Name": "Simple Roll Tracker",
+                "InternalName": "SamplePlugin",
+                "Description": "Tracks dice rolls, captures names, and highlights winners.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Tuconei/SimpleRollTracker",
+                "LastUpdate": 1763748270
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Tykku",
         "repo_url": "https://raw.githubusercontent.com/Tykku/ToshiBox/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Tykku/ToshiBox",
@@ -6925,7 +6936,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1763694241
+                "LastUpdate": 1763857769
             }
         ]
     },
@@ -7178,6 +7189,32 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/westlose/TrueNorthBoss",
                 "LastUpdate": 1744649045
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "WigglyMuffin",
+        "repo_url": "https://raw.githubusercontent.com/WigglyMuffin/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/WigglyMuffin/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Liza Carvelli, WigglyMuffin",
+                "Name": "Influx",
+                "InternalName": "Influx",
+                "Description": "Uploads your game statistics (such as quest progress, gil, retainer stats) to an InfluxDB or QuestDB instance, making it possible to automatically track your progress through external tools such as Grafana.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/WigglyMuffin/Influx",
+                "LastUpdate": 1763580261
+            },
+            {
+                "Author": "Liza Carvelli, WigglyMuffin, CryoTechnic",
+                "Name": "Questionable",
+                "InternalName": "Questionable",
+                "Description": "Created by Liza, maintained by WigglyMuffin, CryoTechnic. A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
+                "LastUpdate": 1763503456
             }
         ]
     },
