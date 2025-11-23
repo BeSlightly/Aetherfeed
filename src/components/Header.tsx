@@ -43,9 +43,9 @@ export const Header: React.FC = () => {
 
     return (
         <header className={`fixed top-0 left-0 right-0 z-50 transition-transform duration-300 ${isVisible ? 'translate-y-0' : '-translate-y-full'}`}>
-            <div className="absolute inset-0 bg-white/70 dark:bg-void-950/70 backdrop-blur-lg border-b border-slate-200/50 dark:border-white/10" />
+            <div className="absolute inset-0 bg-white/70 dark:bg-void-950/70 backdrop-blur-lg border-b border-slate-200/50 dark:border-white/10 z-0" />
 
-            <div className="relative max-w-7xl 2xl:max-w-[90%] mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="relative z-10 max-w-7xl 2xl:max-w-[90%] mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex justify-between items-center h-16">
                     {/* Logo */}
                     <Link to="/" className="flex-shrink-0 flex items-center cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
@@ -124,7 +124,7 @@ export const Header: React.FC = () => {
             <motion.div
                 initial={false}
                 animate={isMenuOpen ? { height: 'auto', opacity: 1 } : { height: 0, opacity: 0 }}
-                className="md:hidden overflow-hidden bg-white dark:bg-void-950 border-b border-slate-200 dark:border-slate-800"
+                className="md:hidden relative z-10 overflow-hidden bg-white dark:bg-void-950 border-b border-slate-200 dark:border-slate-800"
             >
                 <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
                     {navLinks.map((link) => (
