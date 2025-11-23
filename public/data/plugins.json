@@ -1400,7 +1400,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1763895357
+                "LastUpdate": 1763915196
             }
         ],
         "repo_developer_name": "Det"
@@ -2810,7 +2810,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1763894139
+                "LastUpdate": 1763913897
             },
             {
                 "Author": "croizat",
@@ -3394,7 +3394,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1763599570
+                "LastUpdate": 1763910438
             }
         ]
     },
@@ -5299,7 +5299,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1763895357
+                "LastUpdate": 1763915196
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -5389,7 +5389,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1763814721
+                "LastUpdate": 1763917459
             },
             {
                 "Author": "daemitus, kawaii",
@@ -7189,6 +7189,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/westlose/TrueNorthBoss",
                 "LastUpdate": 1744649045
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "WigglyMuffin",
+        "repo_url": "https://raw.githubusercontent.com/WigglyMuffin/alt-repo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/WigglyMuffin/alt-repo",
+        "repo_name": "alt-repo",
+        "plugins": [
+            {
+                "Author": "WigglyMuffin, CryoTechnic",
+                "Name": "Questionable Plus",
+                "InternalName": "QuestionablePlus",
+                "Description": "Originally created by Liza Carvelli, now maintained and improved by WigglyMuffin and CryoTechnic.\n\nA tiny little quest helper plugin that automates quests where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way.\n\nNot all quests are supported, check Discord for support.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
+                "LastUpdate": 1763868729
             }
         ]
     },
