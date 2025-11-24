@@ -351,7 +351,7 @@
                 "Description": "Provide deterministic pose commands (cpose, standup, walk, etc.)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
-                "LastUpdate": 1763986116
+                "LastUpdate": 1764005526
             },
             {
                 "Author": "Anya Hichu",
@@ -360,7 +360,7 @@
                 "Description": "Update honorific title based on discord activity informations",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
-                "LastUpdate": 1763847979
+                "LastUpdate": 1764005544
             },
             {
                 "Author": "Pyon, Anya Hichu",
@@ -378,7 +378,7 @@
                 "Description": "Add bulk tags dynamically to penumbra mods based on conditions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/ModAutoTagger",
-                "LastUpdate": 1761840951
+                "LastUpdate": 1764007810
             },
             {
                 "Author": "Anya Hichu",
@@ -387,7 +387,7 @@
                 "Description": "Provides commands to interact with penumbra mod settings",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/ModSettingCommands",
-                "LastUpdate": 1763766482
+                "LastUpdate": 1764005530
             },
             {
                 "Author": "Anya Hichu",
@@ -396,7 +396,7 @@
                 "Description": "Displays emote counters as honorific title dynamically",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
-                "LastUpdate": 1763985928
+                "LastUpdate": 1764005522
             },
             {
                 "Author": "Anya Hichu",
@@ -405,7 +405,7 @@
                 "Description": "Generate and run macro actions quickly using a spotlight inspired interface",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/Quack",
-                "LastUpdate": 1763979639
+                "LastUpdate": 1764007763
             },
             {
                 "Author": "Anya Hichu",
@@ -414,7 +414,7 @@
                 "Description": "Refresh party finder recruitment automatically",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/anya-hichu/RecruitmentRefresher",
-                "LastUpdate": 1761840943
+                "LastUpdate": 1764008036
             },
             {
                 "Author": "Anya Hichu",
@@ -842,7 +842,7 @@
                 "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/BeSlightly/Snappy",
-                "LastUpdate": 1760275527
+                "LastUpdate": 1763998687
             }
         ]
     },
@@ -1366,7 +1366,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1763967719
+                "LastUpdate": 1764000101
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -2810,7 +2810,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1763913897
+                "LastUpdate": 1764005637
             },
             {
                 "Author": "croizat",
@@ -3174,6 +3174,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/kelvin124124/CustomPlugins/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/kelvin124124/CustomPlugins",
+        "repo_name": "CustomPlugins",
+        "repo_developer_name": "kelvin124124",
+        "plugins": [
+            {
+                "Author": "kelvin124124",
+                "Name": "OopsAllLalafellsSRE",
+                "InternalName": "OopsAllLalafellsSRE",
+                "Description": "Turn everyone around you into Lalafells (or other races!)",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/kelvin124124/OopsAllLalafellsSRE",
+                "LastUpdate": 1759203167
+            }
+        ]
+    },
+    {
         "repo_developer_name": "kirin-xiv",
         "repo_url": "https://raw.githubusercontent.com/kirin-xiv/KirinPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/kirin-xiv/KirinPlugins",
@@ -3327,6 +3344,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
                 "LastUpdate": 1763214317
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/ktisis-tools/Ktisis/raw/main/repo.json",
+        "repo_source_url": "https://github.com/ktisis-tools/Ktisis",
+        "repo_name": "Ktisis",
+        "repo_developer_name": "ktisis-tools",
+        "plugins": [
+            {
+                "Author": "Chirp, Cazzar, Bwuny and contributors",
+                "Name": "Ktisis",
+                "InternalName": "Ktisis",
+                "Description": "A robust posing tool for creating screenshots in GPose.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
+                "LastUpdate": 1763662846
             }
         ]
     },
@@ -3844,6 +3878,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/MeowZWR/Brio/raw/main/repo.json",
+        "repo_source_url": "https://github.com/MeowZWR/Brio",
+        "repo_name": "Brio",
+        "repo_developer_name": "MeowZWR",
+        "plugins": [
+            {
+                "Author": "Minmoose, Asgard and Contributors",
+                "Name": "Brio",
+                "InternalName": "Brio",
+                "Description": "Control & edit actors during GPose sessions.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/Etheirys/Brio",
+                "LastUpdate": 1763340475
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/MeowZWR/Ktisis/raw/cn/repo.json",
         "repo_source_url": "https://github.com/MeowZWR/Ktisis",
         "repo_name": "Ktisis",
@@ -4046,6 +4097,150 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NicciX/WoLuaX",
                 "LastUpdate": 1749308934
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/NightmareXIV/MyDalamudPlugins",
+        "is_allowed_mega_repo": true,
+        "repo_name": "MyDalamudPlugins",
+        "repo_developer_name": "NightmareXIV",
+        "plugins": [
+            {
+                "Author": "NightmareXIV",
+                "Name": "AntiAfkKick",
+                "InternalName": "AntiAfkKick-Dalamud",
+                "Description": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
+                "LastUpdate": 1754531908
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Battlevest",
+                "InternalName": "Battlevest",
+                "Description": "",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/Battlevest",
+                "LastUpdate": 1754592164
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "DSR Toolbox",
+                "InternalName": "DSREyeLocator",
+                "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/DSREyeLocator",
+                "LastUpdate": 1759852871
+            },
+            {
+                "Author": "NightmareXIV, AsunaTsuki",
+                "Name": "DynamicBridge",
+                "InternalName": "DynamicBridge",
+                "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
+                "LastUpdate": 1756882952
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "HuntTrainAssistant",
+                "InternalName": "HuntTrainAssistant",
+                "Description": "Provides useful tools for hunt trains such as: highlighting conductor messages and muting all other chat, auto-opening flags from conductors and auto-teleporting to announced destination.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/HuntTrainAssistant",
+                "LastUpdate": 1754798753
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Imagenation",
+                "InternalName": "Imagenation",
+                "Description": "An image drawing backend. To be used together with Triggernometry.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/Imagenation",
+                "LastUpdate": 1754634347
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Lifestream",
+                "InternalName": "Lifestream",
+                "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+                "LastUpdate": 1764006319
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "ObjectExplorer",
+                "InternalName": "ObjectExplorer",
+                "Description": "A convenient way to explore current objects around you. Currently supports players only.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/ObjectExplorer",
+                "LastUpdate": 1754549271
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Prioritizer",
+                "InternalName": "Prioritizer",
+                "Description": "Prioritizer sets game's priority to high while crafting. No more failed crafts due to random lags while game is minimized.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/Prioritizer",
+                "LastUpdate": 1754633351
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "SelectString",
+                "InternalName": "SelectString",
+                "Description": "Numpad is also supported.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/SelectString",
+                "LastUpdate": 1762414194
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "StandalonePluginManager",
+                "InternalName": "StandalonePluginManager",
+                "Description": "- Simplifies installation and upgrade process for plugins installed manually.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/StandalonePluginManager",
+                "LastUpdate": 1762762601
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Stylist",
+                "InternalName": "Stylist",
+                "Description": "Gear manager that will watch your gearset for possible upgrades and upgrade them via single command.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/Stylist",
+                "LastUpdate": 1759549450
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "TextAdvance",
+                "InternalName": "TextAdvance",
+                "Description": "",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
+                "LastUpdate": 1763851346
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "UnloadErrorFuckOff",
+                "InternalName": "UnloadErrorFuckOff",
+                "Description": "[For plugin developers only] A plugin that clears off load and unload errors. Plugin development is made easy once again!",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/UnloadErrorFuckOff",
+                "LastUpdate": 1754546653
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "WeathermanExtras",
+                "InternalName": "WExtras",
+                "Description": "Experimental Weatherman functions. Use at your own risk.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NightmareXIV/WExtras",
+                "LastUpdate": 1754634174
             }
         ]
     },
@@ -5049,6 +5244,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/Project-GagSpeak/repo/raw/main/projectgagspeak.json",
+        "repo_source_url": "https://github.com/Project-GagSpeak/repo",
+        "repo_name": "repo",
+        "repo_developer_name": "Project-GagSpeak",
+        "plugins": [
+            {
+                "Author": "Cordelia",
+                "Name": "Project GagSpeak",
+                "InternalName": "ProjectGagSpeak",
+                "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/Project-GagSpeak/client",
+                "LastUpdate": 1759520906
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ProjectChronofoil",
         "repo_url": "https://raw.githubusercontent.com/ProjectChronofoil/Chronofoil.Plugin/main/repo.json",
         "repo_source_url": "https://github.com/ProjectChronofoil/Chronofoil.Plugin",
@@ -5168,7 +5380,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1763976313
+                "LastUpdate": 1764005424
             },
             {
                 "Author": "Team Wrath",
@@ -6113,7 +6325,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1763976313
+                "LastUpdate": 1764005424
             }
         ]
     },
@@ -6131,6 +6343,41 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SheepGoMeh/Browsingway",
                 "LastUpdate": 1754588367
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/SHOEGAZEssb/DalamudPluginRepo/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/SHOEGAZEssb/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "repo_developer_name": "SHOEGAZEssb",
+        "plugins": [
+            {
+                "Author": "SHOEGAZEssb",
+                "Name": "AchManager",
+                "InternalName": "AchManager",
+                "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
+                "LastUpdate": 1754741921
+            },
+            {
+                "Author": "SHOEGAZEssb",
+                "Name": "Dagobert",
+                "InternalName": "Dagobert",
+                "Description": "Automates market board penny pinching",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
+                "LastUpdate": 1763200507
+            },
+            {
+                "Author": "SHOEGAZEssb",
+                "Name": "DutyLanguage",
+                "InternalName": "DutyLanguage",
+                "Description": "Lets you configure voice acting language on a per-duty basis.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
+                "LastUpdate": 1743618017
             }
         ]
     },
@@ -6672,7 +6919,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1763968191
+                "LastUpdate": 1764002068
             }
         ]
     },
