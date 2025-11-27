@@ -1109,7 +1109,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1764195343
+                "LastUpdate": 1764224562
             }
         ]
     },
@@ -1484,6 +1484,32 @@
         ]
     },
     {
+        "repo_url": "https://github.com/dodingdaga/DalamudPlugins/raw/main/PuppetMaster.json",
+        "repo_source_url": "https://github.com/dodingdaga/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "repo_developer_name": "dodingdaga",
+        "plugins": [
+            {
+                "Author": "DodingDaga",
+                "Name": "Right Back At You",
+                "InternalName": "Copycat",
+                "Description": "For the lulz",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins",
+                "LastUpdate": 1754859827
+            },
+            {
+                "Author": "DodingDaga",
+                "Name": "Puppet Master",
+                "InternalName": "PuppetMaster",
+                "Description": "For the lulz",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins",
+                "LastUpdate": 1754859827
+            }
+        ]
+    },
+    {
         "repo_developer_name": "doggjoe9",
         "repo_url": "https://raw.githubusercontent.com/doggjoe9/ShakSynchronous/main/repo.json",
         "repo_source_url": "https://github.com/doggjoe9/ShakSynchronous",
@@ -1769,8 +1795,9 @@
                 "InternalName": "ARealmRecorded",
                 "Description": "使用 /record 指令打开配置界面\n如显示相关指令未解锁, 请去摩杜纳第七天堂找异国的诗人完成任务「回顾英雄诗篇」",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-                "LastUpdate": 1764182169
+                "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/ARRX",
+                "LastUpdate": 1758303026,
+                "is_closed_source": true
             },
             {
                 "Author": "Fragile,Errer(维护）",
@@ -1778,8 +1805,8 @@
                 "InternalName": "CharaCradThief",
                 "Description": "Chinese Plugin to export Adventurer Plates to strings, compatible with HaselTweaks Portrait Editor. (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/CharaCradThiefgl",
-                "LastUpdate": 1758210819,
+                "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/CharaCradThief",
+                "LastUpdate": 1761155927,
                 "is_closed_source": true
             },
             {
@@ -1788,8 +1815,9 @@
                 "InternalName": "NekoHackBox",
                 "Description": "AE3分离的hackbox",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-                "LastUpdate": 1764182169
+                "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/neko",
+                "LastUpdate": 1764182164,
+                "is_closed_source": true
             },
             {
                 "Author": "Errer",
@@ -1797,8 +1825,9 @@
                 "InternalName": "pvpauto",
                 "Description": "一个简单的绿色插件。",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-                "LastUpdate": 1764182169
+                "RepoUrl": "https://github.com/Errerer/DalamudPlugins/blob/main/Plugins/latest.zip",
+                "LastUpdate": 1761321098,
+                "is_closed_source": true
             }
         ]
     },
@@ -1815,7 +1844,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1763340475
+                "LastUpdate": 1764223672
             }
         ]
     },
@@ -1832,7 +1861,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1763340475
+                "LastUpdate": 1764223672
             }
         ]
     },
@@ -1892,8 +1921,9 @@
                 "InternalName": "I-Ching-GL",
                 "Description": "我是一个FF14学习插件(国服API13)",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1762666610
+                "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/I-Ching-GL.zip",
+                "LastUpdate": 1762666607,
+                "is_closed_source": true
             },
             {
                 "Author": "John Smith && OttoCorp",
@@ -1910,8 +1940,9 @@
                 "InternalName": "Zhouyi",
                 "Description": "战场小助手",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1762666610
+                "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/Zhouyi.zip",
+                "LastUpdate": 1758562071,
+                "is_closed_source": true
             }
         ]
     },
@@ -1998,7 +2029,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1764201582
+                "LastUpdate": 1764214188
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2666,7 +2697,7 @@
                 "Description": "在集体动作模式中控制参与的角色。",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1763340475
+                "LastUpdate": 1764223672
             }
         ]
     },
@@ -3212,7 +3243,7 @@
                 "Description": "[BETA] A comprehensive writing assistant designed for FFXIV roleplayers. Automatically formats your text for seamless in-game chat, includes spell checking, thesaurus integration, and advanced editing tools to enhance your roleplay experience.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/kirin-xiv/EorzeaScribe",
-                "LastUpdate": 1764122412
+                "LastUpdate": 1764219311
             },
             {
                 "Author": "Kirin",
@@ -3369,7 +3400,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1764195343
+                "LastUpdate": 1764224562
             }
         ]
     },
@@ -3899,7 +3930,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1763340475
+                "LastUpdate": 1764223672
             }
         ]
     },
@@ -4096,7 +4127,7 @@
                 "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NanaKhide/TimelineAnimator",
-                "LastUpdate": 1764197161
+                "LastUpdate": 1764209958
             }
         ]
     },
@@ -4292,8 +4323,8 @@
                 "InternalName": "BOCCHI",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1763798276
+                "RepoUrl": "https://github.com/NiGuangOwO/OccultCrescentHelper",
+                "LastUpdate": 1758034007
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
@@ -4404,8 +4435,8 @@
                 "InternalName": "SSMinionBoradcast",
                 "Description": "简单的播报SS前置小怪的小工具",
                 "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1763798276
+                "RepoUrl": "https://github.com/NiGuangOwO/SSMinionBoradcast",
+                "LastUpdate": 1758034205
             }
         ]
     },
@@ -4743,7 +4774,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1763340475
+                "LastUpdate": 1764223672
             },
             {
                 "Author": "Risa and Contributors",
@@ -4788,7 +4819,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1764195343
+                "LastUpdate": 1764224562
             },
             {
                 "Author": "kawaii, Glyceri",
@@ -5388,7 +5419,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1764142497
+                "LastUpdate": 1764219957
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -6214,7 +6245,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1763340475
+                "LastUpdate": 1764223672
             }
         ]
     },
@@ -6454,7 +6485,8 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1764156463
+                "LastUpdate": 1764156463,
+                "is_closed_source": true
             }
         ]
     },
@@ -6923,11 +6955,11 @@
             {
                 "Author": "Tuconei",
                 "Name": "Simple Roll Tracker",
-                "InternalName": "SamplePlugin",
+                "InternalName": "SimpleRollTracker",
                 "Description": "Tracks dice rolls, captures names, and highlights winners.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Tuconei/SimpleRollTracker",
-                "LastUpdate": 1763748270
+                "LastUpdate": 1764221006
             }
         ]
     },
