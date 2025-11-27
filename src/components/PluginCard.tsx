@@ -25,6 +25,7 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel }) => {
     const installUrl = plugin._repo.repo_url;
     const sourceUrl = plugin.RepoUrl || plugin._repo.repo_source_url;
     const isClosedSource = plugin.is_closed_source;
+    const closedSourceUrl = sourceUrl || installUrl;
     const [copied, setCopied] = useState(false);
 
     const handleCopy = async (e: React.MouseEvent) => {
@@ -110,13 +111,16 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel }) => {
 
                         {/* Source Link */}
                         {isClosedSource ? (
-                            <div
-                                className="inline-flex items-center justify-center gap-1.5 px-2.5 py-1.5 rounded-lg bg-amber-50 dark:bg-amber-900/10 text-amber-600 dark:text-amber-400 cursor-default"
+                            <a
+                                href={closedSourceUrl || '#'}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-flex items-center justify-center gap-1.5 px-2.5 py-1.5 rounded-lg bg-amber-50 dark:bg-amber-900/10 text-amber-600 dark:text-amber-400 hover:bg-amber-100 dark:hover:bg-amber-800/20 transition-colors"
                                 title="Closed Source"
                             >
                                 <Lock className="w-3.5 h-3.5" />
                                 <span className="text-xs font-medium">Closed Source</span>
-                            </div>
+                            </a>
                         ) : sourceUrl && (
                             <a
                                 href={sourceUrl}
