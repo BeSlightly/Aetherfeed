@@ -2594,7 +2594,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1764070667
+                "LastUpdate": 1764260221
             },
             {
                 "Author": "Haselnussbomber",
@@ -2850,7 +2850,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1764005637
+                "LastUpdate": 1764247548
             },
             {
                 "Author": "croizat",
@@ -3935,6 +3935,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/MeowZWR/Ktisis/raw/cn/repo.json",
+        "repo_source_url": "https://github.com/MeowZWR/Ktisis",
+        "repo_name": "Ktisis",
+        "repo_developer_name": "MeowZWR",
+        "plugins": [
+            {
+                "Author": "Chirp",
+                "Name": "Ktisis",
+                "InternalName": "Ktisis",
+                "Description": "集体动作姿势编辑工具。初次使用记得设置→Language→选择简体中文。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/MeowZWR/Ktisis",
+                "LastUpdate": 1759639259
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Milesnocte/PFLogs/raw/master/repo.json",
         "repo_source_url": "https://github.com/Milesnocte/PFLogs",
         "repo_name": "PFLogs",
@@ -4110,7 +4127,7 @@
                 "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NanaKhide/TimelineAnimator",
-                "LastUpdate": 1764209958
+                "LastUpdate": 1764262551
             }
         ]
     },
@@ -5402,7 +5419,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1764237875
+                "LastUpdate": 1764253546
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5420,7 +5437,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1764005424
+                "LastUpdate": 1764264354
             },
             {
                 "Author": "Team Wrath",
@@ -6399,7 +6416,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1764005424
+                "LastUpdate": 1764264354
             }
         ]
     },
@@ -7726,6 +7743,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zbee/ARC",
                 "LastUpdate": 1755813726
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/zettiverse/DalamudRepo/raw/main/repo.json",
+        "repo_source_url": "https://github.com/zettiverse/DalamudRepo",
+        "repo_name": "DalamudRepo",
+        "repo_developer_name": "zettiverse",
+        "plugins": [
+            {
+                "Author": "Zetty",
+                "Name": "Wondrous Tails Copier",
+                "InternalName": "WondrousTailsCopier",
+                "Description": "Copy your Wondrous Tails objectives to the clipboard!",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/zettiverse/WondrousTailsCopier/",
+                "LastUpdate": 1745786840
             }
         ]
     },
