@@ -1109,7 +1109,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1764145410
+                "LastUpdate": 1764195343
             }
         ]
     },
@@ -1484,32 +1484,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/dodingdaga/DalamudPlugins/raw/main/PuppetMaster.json",
-        "repo_source_url": "https://github.com/dodingdaga/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "repo_developer_name": "dodingdaga",
-        "plugins": [
-            {
-                "Author": "DodingDaga",
-                "Name": "Right Back At You",
-                "InternalName": "Copycat",
-                "Description": "For the lulz",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins/tree/main/Source/Copycat",
-                "LastUpdate": 1754859660
-            },
-            {
-                "Author": "DodingDaga",
-                "Name": "Puppet Master",
-                "InternalName": "PuppetMaster",
-                "Description": "For the lulz",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins/tree/main/Source/PuppetMaster",
-                "LastUpdate": 1754859660
-            }
-        ]
-    },
-    {
         "repo_developer_name": "doggjoe9",
         "repo_url": "https://raw.githubusercontent.com/doggjoe9/ShakSynchronous/main/repo.json",
         "repo_source_url": "https://github.com/doggjoe9/ShakSynchronous",
@@ -1796,7 +1770,7 @@
                 "Description": "使用 /record 指令打开配置界面\n如显示相关指令未解锁, 请去摩杜纳第七天堂找异国的诗人完成任务「回顾英雄诗篇」",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-                "LastUpdate": 1761321103
+                "LastUpdate": 1764182169
             },
             {
                 "Author": "Fragile,Errer(维护）",
@@ -1809,13 +1783,22 @@
                 "is_closed_source": true
             },
             {
+                "Author": "moewcorp",
+                "Name": "NekoHackBox",
+                "InternalName": "NekoHackBox",
+                "Description": "AE3分离的hackbox",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+                "LastUpdate": 1764182169
+            },
+            {
                 "Author": "Errer",
                 "Name": "pvpauto",
                 "InternalName": "pvpauto",
                 "Description": "一个简单的绿色插件。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-                "LastUpdate": 1761321103
+                "LastUpdate": 1764182169
             }
         ]
     },
@@ -1988,7 +1971,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1764062444
+                "LastUpdate": 1764183924
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2015,7 +1998,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1764157215
+                "LastUpdate": 1764201582
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3369,7 +3352,7 @@
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
-                "LastUpdate": 1764178929
+                "LastUpdate": 1764203398
             }
         ]
     },
@@ -3386,7 +3369,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1764145410
+                "LastUpdate": 1764195343
             }
         ]
     },
@@ -3420,7 +3403,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1764094049
+                "LastUpdate": 1764201712
             }
         ]
     },
@@ -4101,6 +4084,23 @@
         ]
     },
     {
+        "repo_developer_name": "NanaKhide",
+        "repo_url": "https://raw.githubusercontent.com/NanaKhide/TimelineAnimator/master/repo.json",
+        "repo_source_url": "https://github.com/NanaKhide/TimelineAnimator",
+        "repo_name": "TimelineAnimator",
+        "plugins": [
+            {
+                "Author": "DarkmodeLeyla",
+                "Name": "TimelineAnimator",
+                "InternalName": "TimelineAnimator",
+                "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NanaKhide/TimelineAnimator",
+                "LastUpdate": 1764197161
+            }
+        ]
+    },
+    {
         "repo_developer_name": "NicciX",
         "repo_url": "https://raw.githubusercontent.com/NicciX/Repos/main/repo.json",
         "repo_source_url": "https://github.com/NicciX/Repos",
@@ -4640,7 +4640,7 @@
                 "Description": "You met with a terrible Fate. Haven't you?",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/OhKannaDuh/TwistOfFayte",
-                "LastUpdate": 1763465527
+                "LastUpdate": 1764185102
             }
         ]
     },
@@ -4788,7 +4788,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1764145410
+                "LastUpdate": 1764195343
             },
             {
                 "Author": "kawaii, Glyceri",
@@ -5415,7 +5415,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1764139537
+                "LastUpdate": 1764184181
             },
             {
                 "Author": "daemitus, kawaii",
@@ -6979,7 +6979,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1764170675
+                "LastUpdate": 1764198049
             }
         ]
     },
