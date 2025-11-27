@@ -26,12 +26,13 @@ const Home: React.FC = () => {
         const saved = localStorage.getItem('aetherfeed_selectedFilters');
         if (saved) {
             try {
-                return JSON.parse(saved);
+                const parsed = JSON.parse(saved);
+                return Array.isArray(parsed) ? parsed : ['latin_only'];
             } catch (e) {
-                return [];
+                return ['latin_only'];
             }
         }
-        return [];
+        return ['latin_only'];
     });
 
     // Persistence Effects
