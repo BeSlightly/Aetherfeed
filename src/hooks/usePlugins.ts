@@ -10,6 +10,7 @@ export interface Plugin {
     LastUpdate: number;
     DalamudApiLevel?: number | string;
     is_closed_source?: boolean;
+    _apiLevel?: number;
 }
 
 export interface Repo {
@@ -48,14 +49,10 @@ export const usePlugins = () => {
                     }
                 }
 
-                const processed = processPlugins(repoData, priorityUrls);
+                const { plugins: processedPlugins, allApiLevels: levels } = processPlugins(repoData, priorityUrls);
 
-                // Extract unique API levels
-                const levels = new Set<number>();
-                processed.forEach(p => p.plugin_api_levels_array.forEach(l => levels.add(l)));
-
-                setAllApiLevels(Array.from(levels).sort((a, b) => b - a));
-                setPlugins(processed);
+                setAllApiLevels(levels);
+                setPlugins(processedPlugins);
 
             } catch (err) {
                 setError(err instanceof Error ? err.message : 'An unknown error occurred');

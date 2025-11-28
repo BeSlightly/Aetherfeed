@@ -5,6 +5,8 @@ export interface ProcessedPlugin extends Plugin {
     plugin_api_levels_array: number[];
     plugin_last_updated_max_ts: number;
     is_closed_source?: boolean;
+    _apiLevel?: number;
+    _maxApiLevel?: number;
     _searchMeta: {
         name: string;
         description: string;
@@ -21,7 +23,7 @@ export const normalizeForSearch = (text: string): string => {
 export const processPlugins = (
     repoData: Repo[],
     priorityRepoUrls: Set<string>
-): ProcessedPlugin[] => {
+): { plugins: ProcessedPlugin[]; allApiLevels: number[] } => {
     const pluginsGroupedByIdentifier = new Map<string, { pluginData: Plugin; repoData: Repo }[]>();
 
     // 1. Group by InternalName or Name
@@ -32,11 +34,13 @@ export const processPlugins = (
             const pluginIdentifier = plugin.InternalName || plugin.Name;
             if (!pluginIdentifier) continue;
 
+            const parsedApiLevel = plugin.DalamudApiLevel ? parseInt(plugin.DalamudApiLevel.toString()) || 0 : 0;
+
             if (!pluginsGroupedByIdentifier.has(pluginIdentifier)) {
                 pluginsGroupedByIdentifier.set(pluginIdentifier, []);
             }
             pluginsGroupedByIdentifier.get(pluginIdentifier)?.push({
-                pluginData: { ...plugin },
+                pluginData: { ...plugin, _apiLevel: parsedApiLevel },
                 repoData: repo,
             });
         }
@@ -70,13 +74,13 @@ export const processPlugins = (
                 let maxLastUpdate = 0;
 
                 for (const occ of devOccurrences) {
-                    const apiLevel = occ.pluginData.DalamudApiLevel ? parseInt(occ.pluginData.DalamudApiLevel.toString()) : 0;
+                    const apiLevel = occ.pluginData._apiLevel || 0;
                     if (apiLevel) allApiLevelsInGroup.add(apiLevel);
 
                     const currentTs = occ.pluginData.LastUpdate || 0;
                     if (currentTs > maxLastUpdate) maxLastUpdate = currentTs;
 
-                    const bestApi = bestOccurrence.pluginData.DalamudApiLevel ? parseInt(bestOccurrence.pluginData.DalamudApiLevel.toString()) : 0;
+                    const bestApi = bestOccurrence.pluginData._apiLevel || 0;
 
                     if (apiLevel > bestApi) {
                         bestOccurrence = occ;
@@ -87,10 +91,13 @@ export const processPlugins = (
                     }
                 }
 
+                const allApiLevelsArray = Array.from(allApiLevelsInGroup).sort((a, b) => b - a);
+
                 deduplicatedOccurrencesForIdentifier.push({
                     pluginData: bestOccurrence.pluginData,
                     repoData: bestOccurrence.repoData,
-                    _allApiLevelsFromRepo: Array.from(allApiLevelsInGroup).sort((a, b) => b - a),
+                    _allApiLevelsFromRepo: allApiLevelsArray,
+                    _maxApiLevel: allApiLevelsArray[0] || 0,
                     _maxLastUpdateTimestampInGroup: maxLastUpdate
                 });
             }
@@ -107,8 +114,8 @@ export const processPlugins = (
             // Simple max API logic for now
             for (let i = 1; i < priorityCandidates.length; i++) {
                 const current = priorityCandidates[i];
-                const currentMaxApi = Math.max(...(current._allApiLevelsFromRepo || [0]));
-                const bestMaxApi = Math.max(...(bestPriority._allApiLevelsFromRepo || [0]));
+                const currentMaxApi = current._maxApiLevel || 0;
+                const bestMaxApi = bestPriority._maxApiLevel || 0;
 
                 if (currentMaxApi > bestMaxApi) {
                     bestPriority = current;
@@ -123,7 +130,17 @@ export const processPlugins = (
         }
     }
 
-    return allPluginsFlatGrouped;
+    const allApiLevelsSet = new Set<number>();
+    for (const plugin of allPluginsFlatGrouped) {
+        for (const level of plugin.plugin_api_levels_array) {
+            if (level) allApiLevelsSet.add(level);
+        }
+    }
+
+    return {
+        plugins: allPluginsFlatGrouped,
+        allApiLevels: Array.from(allApiLevelsSet).sort((a, b) => b - a)
+    };
 };
 
 function createFinalPluginObject(occurrence: any): ProcessedPlugin {
@@ -132,11 +149,13 @@ function createFinalPluginObject(occurrence: any): ProcessedPlugin {
     finalPlugin.plugin_api_levels_array = occurrence._allApiLevelsFromRepo || [];
 
     // Ensure current API level is in the array
-    if (finalPlugin.DalamudApiLevel && !finalPlugin.plugin_api_levels_array.includes(parseInt(finalPlugin.DalamudApiLevel))) {
-        finalPlugin.plugin_api_levels_array.push(parseInt(finalPlugin.DalamudApiLevel));
+    const currentApiLevel = finalPlugin._apiLevel || (finalPlugin.DalamudApiLevel ? parseInt(finalPlugin.DalamudApiLevel.toString()) || 0 : 0);
+    if (currentApiLevel && !finalPlugin.plugin_api_levels_array.includes(currentApiLevel)) {
+        finalPlugin.plugin_api_levels_array.push(currentApiLevel);
     }
 
     finalPlugin.plugin_api_levels_array.sort((a: number, b: number) => b - a);
+    finalPlugin._maxApiLevel = occurrence._maxApiLevel || finalPlugin.plugin_api_levels_array[0] || 0;
     finalPlugin.plugin_last_updated_max_ts = occurrence._maxLastUpdateTimestampInGroup;
 
     finalPlugin._searchMeta = {
