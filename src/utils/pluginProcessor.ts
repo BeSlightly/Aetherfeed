@@ -5,6 +5,12 @@ export interface ProcessedPlugin extends Plugin {
     plugin_api_levels_array: number[];
     plugin_last_updated_max_ts: number;
     is_closed_source?: boolean;
+    _searchMeta: {
+        name: string;
+        description: string;
+        author: string;
+        repo: string;
+    };
 }
 
 export const normalizeForSearch = (text: string): string => {
@@ -132,6 +138,13 @@ function createFinalPluginObject(occurrence: any): ProcessedPlugin {
 
     finalPlugin.plugin_api_levels_array.sort((a: number, b: number) => b - a);
     finalPlugin.plugin_last_updated_max_ts = occurrence._maxLastUpdateTimestampInGroup;
+
+    finalPlugin._searchMeta = {
+        name: normalizeForSearch(finalPlugin.Name || finalPlugin.InternalName),
+        description: normalizeForSearch(finalPlugin.Description),
+        author: normalizeForSearch(finalPlugin.Author),
+        repo: normalizeForSearch(finalPlugin._repo.repo_name)
+    };
 
     return finalPlugin;
 }

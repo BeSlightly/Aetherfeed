@@ -71,15 +71,10 @@ const Home: React.FC = () => {
         // 1. Search Filter
         if (normalizedTerm) {
             result = result.filter(plugin => {
-                const name = normalizeForSearch(plugin.Name || plugin.InternalName);
-                const desc = normalizeForSearch(plugin.Description);
-                const author = normalizeForSearch(plugin.Author);
-                const repo = normalizeForSearch(plugin._repo.repo_name);
-
-                return name.includes(normalizedTerm) ||
-                    desc.includes(normalizedTerm) ||
-                    author.includes(normalizedTerm) ||
-                    repo.includes(normalizedTerm);
+                return plugin._searchMeta.name.includes(normalizedTerm) ||
+                    plugin._searchMeta.description.includes(normalizedTerm) ||
+                    plugin._searchMeta.author.includes(normalizedTerm) ||
+                    plugin._searchMeta.repo.includes(normalizedTerm);
             });
         }
 
