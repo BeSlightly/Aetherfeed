@@ -19,22 +19,22 @@ export const processPlugins = (
     const pluginsGroupedByIdentifier = new Map<string, { pluginData: Plugin; repoData: Repo }[]>();
 
     // 1. Group by InternalName or Name
-    repoData.forEach((repo) => {
-        if (repo.plugins && Array.isArray(repo.plugins)) {
-            repo.plugins.forEach((plugin) => {
-                const pluginIdentifier = plugin.InternalName || plugin.Name;
-                if (!pluginIdentifier) return;
+    for (const repo of repoData) {
+        if (!repo.plugins || !Array.isArray(repo.plugins)) continue;
 
-                if (!pluginsGroupedByIdentifier.has(pluginIdentifier)) {
-                    pluginsGroupedByIdentifier.set(pluginIdentifier, []);
-                }
-                pluginsGroupedByIdentifier.get(pluginIdentifier)?.push({
-                    pluginData: { ...plugin },
-                    repoData: repo,
-                });
+        for (const plugin of repo.plugins) {
+            const pluginIdentifier = plugin.InternalName || plugin.Name;
+            if (!pluginIdentifier) continue;
+
+            if (!pluginsGroupedByIdentifier.has(pluginIdentifier)) {
+                pluginsGroupedByIdentifier.set(pluginIdentifier, []);
+            }
+            pluginsGroupedByIdentifier.get(pluginIdentifier)?.push({
+                pluginData: { ...plugin },
+                repoData: repo,
             });
         }
-    });
+    }
 
     const allPluginsFlatGrouped: ProcessedPlugin[] = [];
 
@@ -42,7 +42,7 @@ export const processPlugins = (
     for (const [, occurrences] of pluginsGroupedByIdentifier.entries()) {
         const occurrencesByDeveloper = new Map<string, typeof occurrences>();
 
-        occurrences.forEach((occ) => {
+        for (const occ of occurrences) {
             const devIdentifier =
                 occ.repoData.repo_developer_name ||
                 occ.pluginData.Author ||
@@ -52,7 +52,7 @@ export const processPlugins = (
                 occurrencesByDeveloper.set(devIdentifier, []);
             }
             occurrencesByDeveloper.get(devIdentifier)?.push(occ);
-        });
+        }
 
         const deduplicatedOccurrencesForIdentifier: any[] = [];
 
@@ -63,7 +63,7 @@ export const processPlugins = (
                 const allApiLevelsInGroup = new Set<number>();
                 let maxLastUpdate = 0;
 
-                devOccurrences.forEach((occ) => {
+                for (const occ of devOccurrences) {
                     const apiLevel = occ.pluginData.DalamudApiLevel ? parseInt(occ.pluginData.DalamudApiLevel.toString()) : 0;
                     if (apiLevel) allApiLevelsInGroup.add(apiLevel);
 
@@ -79,7 +79,7 @@ export const processPlugins = (
                             bestOccurrence = occ;
                         }
                     }
-                });
+                }
 
                 deduplicatedOccurrencesForIdentifier.push({
                     pluginData: bestOccurrence.pluginData,
