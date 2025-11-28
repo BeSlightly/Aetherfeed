@@ -11,6 +11,10 @@ import { SortAsc, SortDesc } from 'lucide-react';
 import MultiSelect from '../components/MultiSelect';
 import Select from '../components/Select';
 
+const CHINESE_REGEX = /[\u4e00-\u9fff]/i;
+const JAPANESE_REGEX = /[\u3040-\u30ff\u31f0-\u31ff\u3400-\u4dbf]/i;
+const KOREAN_REGEX = /[\u1100-\u11ff\uac00-\ud7af]/i;
+
 const Home: React.FC = () => {
     const { plugins, loading, error, allApiLevels } = usePlugins();
     const [searchTerm, setSearchTerm] = useState('');
@@ -63,6 +67,7 @@ const Home: React.FC = () => {
     // Infinite Scroll State
     const [visibleCount, setVisibleCount] = useState(50);
     const observerTarget = useRef<HTMLDivElement>(null);
+    const buildTimeText = useMemo(() => formatDate(new Date(__BUILD_TIME__).getTime()), []);
 
     const filteredPlugins = useMemo(() => {
         let result = [...plugins];
@@ -91,19 +96,16 @@ const Home: React.FC = () => {
 
         // 3. View Options Filter (Latin Only)
         if (isLatinOnly) {
-            const chineseRegex = /[\u4e00-\u9fff]/i;
-            const japaneseRegex = /[\u3040-\u30ff\u31f0-\u31ff\u3400-\u4dbf]/i;
-            const koreanRegex = /[\u1100-\u11ff\uac00-\ud7af]/i;
             result = result.filter(p => {
                 const name = p.Name || p.InternalName || '';
                 const desc = p.Description || '';
                 return (
-                    !chineseRegex.test(name) &&
-                    !chineseRegex.test(desc) &&
-                    !japaneseRegex.test(name) &&
-                    !japaneseRegex.test(desc) &&
-                    !koreanRegex.test(name) &&
-                    !koreanRegex.test(desc)
+                    !CHINESE_REGEX.test(name) &&
+                    !CHINESE_REGEX.test(desc) &&
+                    !JAPANESE_REGEX.test(name) &&
+                    !JAPANESE_REGEX.test(desc) &&
+                    !KOREAN_REGEX.test(name) &&
+                    !KOREAN_REGEX.test(desc)
                 );
             });
         }
@@ -176,7 +178,7 @@ const Home: React.FC = () => {
                                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
                                 <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
                             </span>
-                            Updated {formatDate(new Date(__BUILD_TIME__).getTime())}
+                            Updated {buildTimeText}
                         </div>
                     </div>
 
