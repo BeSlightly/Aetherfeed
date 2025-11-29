@@ -2695,7 +2695,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1764414198
+                "LastUpdate": 1764427290
             },
             {
                 "Author": "Haselnussbomber",
@@ -2884,12 +2884,12 @@
         "plugins": [
             {
                 "Author": "iVeigar",
-                "Name": "BAHelper",
+                "Name": "兵武塔助手",
                 "InternalName": "BAHelper",
                 "Description": "A plugin to free your hands and mind in Baldesion Arsenal\n\n - Auto-cast Protect/Shell L\n - One-click to send useful message\n - Draw the traps",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/iVeigar/BAHelper",
-                "LastUpdate": 1750787824
+                "LastUpdate": 1764429062
             },
             {
                 "Author": "apetih, iVeigar",
@@ -3552,7 +3552,7 @@
                 "Description": "这是一个兵武塔的辅助插件，有一些实用功能\n\n - 自动上盾\n - 绘制陷阱\n - 全局人员监控\n 以及一些魔改小功能",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/iVeigar/BAHelper",
-                "LastUpdate": 1750787824
+                "LastUpdate": 1764429062
             },
             {
                 "Author": "Usagi, Latihas",
@@ -4528,7 +4528,7 @@
                 "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1764419187
+                "LastUpdate": 1764438871
             },
             {
                 "Author": "NiGuangOwO",
@@ -5511,7 +5511,7 @@
                 "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1764419187
+                "LastUpdate": 1764438871
             },
             {
                 "Author": "Liza Carvelli & various contributors",
@@ -5520,7 +5520,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1764387810
+                "LastUpdate": 1764438273
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -6586,7 +6586,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1764409960,
+                "LastUpdate": 1764436750,
                 "is_closed_source": true
             }
         ]
@@ -7159,6 +7159,15 @@
         "plugins": [
             {
                 "Author": "Vali",
+                "Name": "Discord Chat Webhook",
+                "InternalName": "DiscordChatWebhook",
+                "Description": "Relays chat to Discord via Webhook.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Valiice/DiscordChatWebhook",
+                "LastUpdate": 1764433927
+            },
+            {
+                "Author": "Vali",
                 "Name": "Drop Rate Logger",
                 "InternalName": "DropLogger",
                 "Description": "Loot Tracking System. Logs drops to server.",
@@ -7391,15 +7400,6 @@
         "repo_source_url": "https://github.com/WigglyMuffin/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
-            {
-                "Author": "Liza Carvelli, WigglyMuffin",
-                "Name": "Influx",
-                "InternalName": "Influx",
-                "Description": "Uploads your game statistics (such as quest progress, gil, retainer stats) to an InfluxDB or QuestDB instance, making it possible to automatically track your progress through external tools such as Grafana.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/WigglyMuffin/Influx",
-                "LastUpdate": 1763580261
-            },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
                 "Name": "Questionable",
