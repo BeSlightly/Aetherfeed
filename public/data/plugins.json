@@ -286,6 +286,23 @@
         ]
     },
     {
+        "repo_url": "https://puni.sh/api/repository/akechi",
+        "repo_source_url": "https://github.com/Akechi-kun/",
+        "repo_developer_name": "Akechi-kun",
+        "repo_name": "akechi",
+        "plugins": [
+            {
+                "Author": "Akechi",
+                "Name": "Chroma",
+                "InternalName": "Chroma",
+                "Description": "Chroma is a simple accessibility plugin for modifying the color of Area-of-Effect indicators.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Akechi-kun/Chroma",
+                "LastUpdate": 1757830390
+            }
+        ]
+    },
+    {
         "repo_developer_name": "allanahkk",
         "repo_url": "https://raw.githubusercontent.com/allanahkk/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/allanahkk/DalamudPlugins",
@@ -1006,7 +1023,7 @@
                 "Description": "EmoteCounter Adaptation to Honorific - PatMeCounter",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/BoxuChan/EmoteCounterHonorific",
-                "LastUpdate": 1764377808
+                "LastUpdate": 1764379093
             },
             {
                 "Author": "Boxu",
@@ -1033,6 +1050,47 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Brappp/wahbuttons",
                 "LastUpdate": 1754474956
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/wah",
+        "repo_source_url": "https://github.com/Brappp/",
+        "repo_developer_name": "Brappp",
+        "repo_name": "wah",
+        "plugins": [
+            {
+                "Author": "wah",
+                "Name": "Plugin Preset Manager",
+                "InternalName": "PluginPresetManager",
+                "Description": "Create and manage plugin presets with support for always-on plugins. Commands: /ppreset",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Brappp/PluginPresetManager",
+                "LastUpdate": 1760187452
+            },
+            {
+                "Author": "wah",
+                "Name": "WahJumps",
+                "InternalName": "WahJumps",
+                "Description": "Jumping Puzzle Directory for the Strange Housing Discord",
+                "DalamudApiLevel": 13,
+                "LastUpdate": 1754918459
+            },
+            {
+                "Author": "wah",
+                "Name": "wahventory",
+                "InternalName": "wahventory",
+                "Description": "Advanced inventory management with safety filters and auto-discard",
+                "DalamudApiLevel": 13,
+                "LastUpdate": 1754917407
+            },
+            {
+                "Author": "wah",
+                "Name": "Wrath Auto Toggle",
+                "InternalName": "WrathIcon",
+                "Description": "Wrath Auto Toggle",
+                "DalamudApiLevel": 13,
+                "LastUpdate": 1754918300
             }
         ]
     },
@@ -1793,6 +1851,23 @@
         ]
     },
     {
+        "repo_url": "https://puni.sh/api/repository/erdelf",
+        "repo_source_url": "https://github.com/erdelf/",
+        "repo_developer_name": "erdelf",
+        "repo_name": "erdelf",
+        "plugins": [
+            {
+                "Author": "erdelf, Herculezz",
+                "Name": "AutoDuty",
+                "InternalName": "AutoDuty",
+                "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/erdelf/AutoDuty",
+                "LastUpdate": 1764326811
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ereti",
         "repo_url": "https://raw.githubusercontent.com/ereti/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/ereti/DalamudPlugins",
@@ -2055,7 +2130,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1764214188
+                "LastUpdate": 1764379705
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4479,7 +4554,7 @@
                 "Description": "Allows for automatic execution of commands upon entering new zones, with a 'Roleplay Only' mode for those who want to only use it for RP purposes.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers",
-                "LastUpdate": 1764377031
+                "LastUpdate": 1764380734
             }
         ]
     },
