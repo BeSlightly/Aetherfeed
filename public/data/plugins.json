@@ -790,7 +790,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1763753852
+                "LastUpdate": 1764448877
             },
             {
                 "Author": "veyn, croizat",
@@ -825,7 +825,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1764283651
+                "LastUpdate": 1764460999
             },
             {
                 "Author": "veyn, croizat",
@@ -1657,7 +1657,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1763481926
+                "LastUpdate": 1764450964
             }
         ]
     },
@@ -2704,7 +2704,7 @@
                 "Description": "Keep on tweaking.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1764366219
+                "LastUpdate": 1764461207
             },
             {
                 "Author": "Haselnussbomber",
@@ -2892,13 +2892,13 @@
                 "LastUpdate": 1764429062
             },
             {
-                "Author": "apetih, iVeigar",
-                "Name": "Logogram Helper Ex (CN)",
+                "Author": "apetih, iVeigar(汉化+增强)",
+                "Name": "Logogram Helper (汉化+增强版)",
                 "InternalName": "LogogramHelperEx",
                 "Description": "Shows amounts of possible combinations for Eureka's Logos Actions upon entering the Logos Manipulator and automatically puts them into array.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx",
-                "LastUpdate": 1750788762
+                "LastUpdate": 1764455414
             }
         ],
         "repo_name": "MyDalamudPlugins",
@@ -3588,7 +3588,7 @@
                 "Description": "提供Eureka文理合成预设功能，支持预设一键提取并合成（实验性，仅支持国服）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx",
-                "LastUpdate": 1750788762
+                "LastUpdate": 1764455414
             },
             {
                 "Author": "Latihas",
@@ -4528,7 +4528,7 @@
                 "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1764438871
+                "LastUpdate": 1764453892
             },
             {
                 "Author": "NiGuangOwO",
@@ -4554,7 +4554,7 @@
                 "Description": "Allows for automatic execution of commands upon entering new zones, with a 'Roleplay Only' mode for those who want to only use it for RP purposes.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers",
-                "LastUpdate": 1764380734
+                "LastUpdate": 1764464792
             }
         ]
     },
@@ -5511,7 +5511,7 @@
                 "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1764438871
+                "LastUpdate": 1764453892
             },
             {
                 "Author": "Liza Carvelli & various contributors",
@@ -5520,7 +5520,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1764438273
+                "LastUpdate": 1764464220
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -7112,7 +7112,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1764370256
+                "LastUpdate": 1764459329
             }
         ]
     },
@@ -7390,7 +7390,7 @@
                 "Description": "Originally created by Liza Carvelli, now maintained and improved by WigglyMuffin and CryoTechnic.\n\nA tiny little quest helper plugin that automates quests where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way.\n\nNot all quests are supported, check Discord for support.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1764100330
+                "LastUpdate": 1764443283
             }
         ]
     },
@@ -7401,13 +7401,22 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
+                "Author": "WigglyMuffin",
+                "Name": "Influx",
+                "InternalName": "Influx",
+                "Description": "Created by Liza Carvelli, maintained by WigglyMuffin.\n\nUploads your game statistics (such as quest progress, gil, retainer stats) to an InfluxDB or QuestDB instance, making it possible to automatically track your progress through external tools such as Grafana.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/WigglyMuffin/Influx",
+                "LastUpdate": 1764427821
+            },
+            {
                 "Author": "WigglyMuffin, CryoTechnic",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
                 "Description": "Created by Liza, maintained by WigglyMuffin, CryoTechnic. A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1764100330
+                "LastUpdate": 1764443283
             }
         ]
     },
