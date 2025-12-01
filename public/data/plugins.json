@@ -2130,7 +2130,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1764379705
+                "LastUpdate": 1764575676
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2194,7 +2194,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Finfingway/MyBossmod",
-                "LastUpdate": 1764159101
+                "LastUpdate": 1764592404
             }
         ]
     },
@@ -5520,7 +5520,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1764563197
+                "LastUpdate": 1764587369
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5538,7 +5538,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1764554522
+                "LastUpdate": 1764575799
             },
             {
                 "Author": "Team Wrath",
@@ -6517,7 +6517,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1764554522
+                "LastUpdate": 1764575799
             }
         ]
     },
@@ -7408,15 +7408,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Influx",
                 "LastUpdate": 1764427821
-            },
-            {
-                "Author": "MacaronDream",
-                "Name": "Questionable Companion",
-                "InternalName": "QSTCompanion",
-                "Description": "Automatically switches between characters based on quest completions and executes predefined sequences via Questionable integration. Use /qstcomp to open the main window.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1764534662
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
