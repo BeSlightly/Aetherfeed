@@ -244,7 +244,7 @@ const Home: React.FC = () => {
                 ) : (
                     <>
                         <div className="grid grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-6">
-                            <AnimatePresence mode='popLayout'>
+                            <AnimatePresence mode='sync'>
                                 {displayPlugins.map((plugin) => (
                                     <PluginCard
                                         key={`${plugin._repo.repo_url}-${plugin.InternalName}`}
@@ -257,12 +257,9 @@ const Home: React.FC = () => {
 
                         {/* Infinite Scroll Sentinel */}
                         {hasMore && (
-                            <div ref={observerTarget} className="h-20 w-full flex items-center justify-center mt-8">
-                                <div className="animate-pulse flex space-x-2">
-                                    <div className="h-2 w-2 bg-slate-400 rounded-full"></div>
-                                    <div className="h-2 w-2 bg-slate-400 rounded-full"></div>
-                                    <div className="h-2 w-2 bg-slate-400 rounded-full"></div>
-                                </div>
+                            <div ref={observerTarget} className="h-20 w-full flex items-center justify-center mt-8 text-sm text-slate-500 dark:text-slate-400">
+                                <div className="h-4 w-4 rounded-full border-2 border-slate-300 dark:border-slate-700 border-t-aether-500 animate-[spin_1.4s_linear_infinite]"></div>
+                                <span className="ml-3">Loading more plugins…</span>
                             </div>
                         )}
 

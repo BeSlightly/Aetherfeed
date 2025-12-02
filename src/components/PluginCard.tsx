@@ -43,11 +43,10 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel }) => {
 
     return (
         <motion.article
-            layout
-            initial={{ opacity: 0, scale: 0.95 }}
-            animate={{ opacity: 1, scale: 1 }}
-            exit={{ opacity: 0, scale: 0.95 }}
-            transition={{ duration: 0.2 }}
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: 10 }}
+            transition={{ duration: 0.18, ease: 'easeOut' }}
             className="group relative flex flex-col bg-white/80 dark:bg-slate-900/60 backdrop-blur-sm border border-slate-200 dark:border-slate-800 rounded-2xl overflow-hidden hover:border-aether-500/50 dark:hover:border-aether-500/50 transition-all duration-300 h-full shadow-sm hover:shadow-md"
         >
             <div className="p-5 flex flex-col flex-grow">
