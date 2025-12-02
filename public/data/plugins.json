@@ -885,7 +885,7 @@
                 "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/BeSlightly/Snappy",
-                "LastUpdate": 1763998687
+                "LastUpdate": 1764637746
             }
         ]
     },
@@ -1657,7 +1657,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1764506865
+                "LastUpdate": 1764643771
             }
         ]
     },
@@ -2130,7 +2130,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1764575676
+                "LastUpdate": 1764643377
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2892,6 +2892,15 @@
                 "LastUpdate": 1764531187
             },
             {
+                "Author": "iVeigar",
+                "Name": "深宫小地图",
+                "InternalName": "DeepDungeonRadar",
+                "Description": "绘制楼层地形轮廓, 并标出附近游戏对象",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/iVeigar/DeepDungeonRadar",
+                "LastUpdate": 1764639828
+            },
+            {
                 "Author": "apetih, iVeigar(汉化+增强)",
                 "Name": "Logogram Helper (汉化+增强版)",
                 "InternalName": "LogogramHelperEx",
@@ -3535,7 +3544,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1764613101
+                "LastUpdate": 1764638930
             }
         ]
     },
@@ -5537,7 +5546,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1764604559
+                "LastUpdate": 1764644537
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5555,7 +5564,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1764575799
+                "LastUpdate": 1764641212
             },
             {
                 "Author": "Team Wrath",
@@ -6534,7 +6543,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1764575799
+                "LastUpdate": 1764641212
             }
         ]
     },
@@ -6603,7 +6612,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1764517535,
+                "LastUpdate": 1764653486,
                 "is_closed_source": true
             }
         ]
@@ -7129,7 +7138,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1764632878
+                "LastUpdate": 1764646930
             }
         ]
     },
@@ -7433,7 +7442,7 @@
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1764610960
+                "LastUpdate": 1764648609
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -7946,7 +7955,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1764557707
+                "LastUpdate": 1764642711
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
