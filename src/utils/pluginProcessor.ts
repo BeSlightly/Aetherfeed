@@ -15,6 +15,14 @@ export interface ProcessedPlugin extends Plugin {
     };
 }
 
+interface IntermediatePluginOccurrence {
+    pluginData: Plugin;
+    repoData: Repo;
+    _allApiLevelsFromRepo: number[];
+    _maxApiLevel: number;
+    _maxLastUpdateTimestampInGroup: number;
+}
+
 export const normalizeForSearch = (text: string): string => {
     if (!text) return "";
     return text.toLowerCase().replace(/[^\w]/g, "");
@@ -64,7 +72,7 @@ export const processPlugins = (
             occurrencesByDeveloper.get(devIdentifier)?.push(occ);
         }
 
-        const deduplicatedOccurrencesForIdentifier: any[] = [];
+        const deduplicatedOccurrencesForIdentifier: IntermediatePluginOccurrence[] = [];
 
         for (const [, devOccurrences] of occurrencesByDeveloper.entries()) {
             if (devOccurrences.length > 0) {
@@ -143,8 +151,8 @@ export const processPlugins = (
     };
 };
 
-function createFinalPluginObject(occurrence: any): ProcessedPlugin {
-    const finalPlugin = { ...occurrence.pluginData };
+function createFinalPluginObject(occurrence: IntermediatePluginOccurrence): ProcessedPlugin {
+    const finalPlugin = { ...occurrence.pluginData } as ProcessedPlugin;
     finalPlugin._repo = { ...occurrence.repoData };
     finalPlugin.plugin_api_levels_array = occurrence._allApiLevelsFromRepo || [];
 

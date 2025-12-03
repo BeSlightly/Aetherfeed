@@ -1,16 +1,12 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { AlertTriangle, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const WarningBanner: React.FC = () => {
-    const [isVisible, setIsVisible] = useState(false);
-
-    useEffect(() => {
+    const [isVisible, setIsVisible] = useState(() => {
         const dismissed = localStorage.getItem('aetherfeed_warning_dismissed');
-        if (!dismissed) {
-            setIsVisible(true);
-        }
-    }, []);
+        return !dismissed;
+    });
 
     const handleDismiss = () => {
         setIsVisible(false);

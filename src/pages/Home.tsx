@@ -32,7 +32,7 @@ const Home: React.FC = () => {
             try {
                 const parsed = JSON.parse(saved);
                 return Array.isArray(parsed) ? parsed : ['latin_only'];
-            } catch (e) {
+            } catch {
                 return ['latin_only'];
             }
         }
@@ -134,6 +134,7 @@ const Home: React.FC = () => {
 
     // Reset visible count when filters change
     useEffect(() => {
+        // eslint-disable-next-line react-hooks/set-state-in-effect
         setVisibleCount(50);
     }, [searchTerm, sortBy, sortOrder, selectedFilters]);
 
@@ -193,7 +194,7 @@ const Home: React.FC = () => {
                                 ]}
                                 selected={sortBy}
                                 onChange={(value) => {
-                                    setSortBy(value as any);
+                                    setSortBy(value as 'name' | 'updated' | 'author');
                                     if (value === 'updated') setSortOrder('desc');
                                     else setSortOrder('asc');
                                 }}
