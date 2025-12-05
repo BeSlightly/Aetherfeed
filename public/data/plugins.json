@@ -341,7 +341,7 @@
                 "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
-                "LastUpdate": 1764659093
+                "LastUpdate": 1764926088
             }
         ]
     },
@@ -1305,6 +1305,24 @@
         "repo_name": "DalamudPlugins-TW",
         "plugins": [
             {
+                "Author": "Asgard, Minmoose and Contributors",
+                "Name": "Brio",
+                "InternalName": "Brio",
+                "Description": "Control actors during GPose sessions. (API12 版本，適用於台服)",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Etheirys/Brio",
+                "LastUpdate": 1764306227
+            },
+            {
+                "Author": "Ottermandias",
+                "Name": "Glamourer",
+                "InternalName": "Glamourer",
+                "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Ottermandias/Glamourer",
+                "LastUpdate": 1764367749
+            },
+            {
                 "Author": "Ottermandias, Adam, Wintermute",
                 "Name": "Penumbra",
                 "InternalName": "Penumbra",
@@ -2138,7 +2156,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1764315594
+                "LastUpdate": 1764929548
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3537,7 +3555,7 @@
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
-                "LastUpdate": 1764233957
+                "LastUpdate": 1764930623
             }
         ]
     },
@@ -4264,7 +4282,7 @@
                 "Description": "A plugin to track crystal across your FFXIV account.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
-                "LastUpdate": 1764793641
+                "LastUpdate": 1764930296
             }
         ]
     },
@@ -5474,7 +5492,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1764695501
+                "LastUpdate": 1764922090
             },
             {
                 "Author": "Det, Taurenkey",
@@ -5546,7 +5564,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1764914400
+                "LastUpdate": 1764921633
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -6965,7 +6983,7 @@
                 "Description": "Integration for Pishock and OpenShock devices.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
-                "LastUpdate": 1764769588
+                "LastUpdate": 1764937781
             }
         ]
     },
@@ -7138,7 +7156,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1764867983
+                "LastUpdate": 1764930777
             }
         ]
     },
