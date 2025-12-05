@@ -185,7 +185,7 @@
                 "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1764882014
+                "LastUpdate": 1764913868
             }
         ]
     },
@@ -1299,6 +1299,32 @@
         ]
     },
     {
+        "repo_developer_name": "cycleapple",
+        "repo_url": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW/main/repo.json",
+        "repo_source_url": "https://github.com/cycleapple/DalamudPlugins-TW",
+        "repo_name": "DalamudPlugins-TW",
+        "plugins": [
+            {
+                "Author": "Ottermandias, Adam, Wintermute",
+                "Name": "Penumbra",
+                "InternalName": "Penumbra",
+                "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/xivdev/Penumbra",
+                "LastUpdate": 1764367818
+            },
+            {
+                "Author": "Caraxi",
+                "Name": "Simple Tweaks",
+                "InternalName": "SimpleTweaksPlugin",
+                "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically. (API12 版本，適用於台服)",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
+                "LastUpdate": 1764386141
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Cyenia",
         "repo_url": "https://raw.githubusercontent.com/Cyenia/DalamudPlugins/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Cyenia/DalamudPlugins",
@@ -1846,7 +1872,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1764860780
+                "LastUpdate": 1764910473
             }
         ]
     },
@@ -1863,7 +1889,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1764860780
+                "LastUpdate": 1764910473
             }
         ]
     },
@@ -2139,7 +2165,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1764797127
+                "LastUpdate": 1764905847
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2907,7 +2933,7 @@
                 "Description": "绘制楼层地形轮廓, 并标出附近游戏对象",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/iVeigar/DeepDungeonRadar",
-                "LastUpdate": 1764838429
+                "LastUpdate": 1764899703
             },
             {
                 "Author": "apetih, iVeigar(汉化+增强)",
@@ -5520,7 +5546,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1764873332
+                "LastUpdate": 1764914400
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -7930,7 +7956,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1764807689
+                "LastUpdate": 1764900916
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
