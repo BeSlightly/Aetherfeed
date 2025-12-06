@@ -1501,7 +1501,7 @@
                 "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-                "LastUpdate": 1764713018
+                "LastUpdate": 1765023503
             },
             {
                 "Author": "decorwdyun",
@@ -1510,7 +1510,7 @@
                 "Description": "Crowd-sourced plugin to view what players are inside of a party in PF. Intended for CN use, but works on global.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1764713142,
+                "LastUpdate": 1765022803,
                 "is_closed_source": true
             },
             {
@@ -2130,7 +2130,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1764893226
+                "LastUpdate": 1765020839
             }
         ]
     },
@@ -3398,7 +3398,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1764893226
+                "LastUpdate": 1765020839
             }
         ]
     },
@@ -4333,7 +4333,7 @@
                 "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NanaKhide/TimelineAnimator",
-                "LastUpdate": 1764876687
+                "LastUpdate": 1765012766
             }
         ]
     },
@@ -5581,7 +5581,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1764966077
+                "LastUpdate": 1765014915
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -6762,23 +6762,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sowce/optimal-mch-gameplay",
                 "LastUpdate": 1762544088
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/SoyaX/SoyaPlugins/raw/main/repo.json",
-        "repo_source_url": "https://github.com/SoyaX/SoyaPlugins",
-        "repo_name": "SoyaPlugins",
-        "repo_developer_name": "SoyaX",
-        "plugins": [
-            {
-                "Author": "SoyaX",
-                "Name": "Doze Anywhere",
-                "InternalName": "DozeAnywhere",
-                "Description": "/dozeanywhere [nosnap]\n/sitanywhere",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/SoyaX/DozeAnywhere",
-                "LastUpdate": 1754894113
             }
         ]
     },
