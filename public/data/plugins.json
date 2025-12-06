@@ -691,7 +691,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1763385318,
+                "LastUpdate": 1765032468,
                 "is_closed_source": true
             },
             {
@@ -842,7 +842,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1764963778
+                "LastUpdate": 1765044032
             },
             {
                 "Author": "veyn, croizat",
@@ -1520,7 +1520,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1764569167
+                "LastUpdate": 1765039347
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -2075,7 +2075,7 @@
                 "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/extrant?tab=repositories",
-                "LastUpdate": 1764956636
+                "LastUpdate": 1765026187
             },
             {
                 "Author": "Bluefissure",
@@ -2968,7 +2968,7 @@
                 "Description": "绘制楼层地形轮廓, 并标出附近游戏对象",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/iVeigar/DeepDungeonRadar",
-                "LastUpdate": 1764899703
+                "LastUpdate": 1765044526
             },
             {
                 "Author": "apetih, iVeigar(汉化+增强)",
@@ -2986,7 +2986,7 @@
                 "Description": "深宫助手，显示怪物仇恨类型、引战范围和其他东西。亲友自用，不保证及时更新",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/iVeigar/NecroLens",
-                "LastUpdate": 1764779751
+                "LastUpdate": 1765037513
             }
         ],
         "repo_name": "MyDalamudPlugins",
@@ -4299,7 +4299,7 @@
                 "Description": "A plugin to track crystal across your FFXIV account.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
-                "LastUpdate": 1765002126
+                "LastUpdate": 1765042924
             }
         ]
     },
@@ -4544,12 +4544,22 @@
             },
             {
                 "Author": "NiGuangOwO",
+                "Name": "FuckAnimationLock (API12)",
+                "InternalName": "FuckAnimationLock",
+                "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
+                "LastUpdate": 1765040098,
+                "is_closed_source": true
+            },
+            {
+                "Author": "NiGuangOwO",
                 "Name": "FuckAnimationLock",
                 "InternalName": "FuckAnimationLock",
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1758024712,
+                "LastUpdate": 1765040098,
                 "is_closed_source": true
             },
             {
@@ -4609,12 +4619,22 @@
             },
             {
                 "Author": "NiGuangOwO, Small_Miao (moewcorp)",
+                "Name": "NyaDraw (API12)",
+                "InternalName": "NyaDraw",
+                "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
+                "LastUpdate": 1765041144,
+                "is_closed_source": true
+            },
+            {
+                "Author": "NiGuangOwO, Small_Miao (moewcorp)",
                 "Name": "NyaDraw",
                 "InternalName": "NyaDraw",
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1763798255,
+                "LastUpdate": 1765041144,
                 "is_closed_source": true
             },
             {
@@ -4625,6 +4645,15 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/PalacePal",
                 "LastUpdate": 1762863083
+            },
+            {
+                "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
+                "Name": "Pandora's Box (API12)",
+                "InternalName": "PandorasBox",
+                "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+                "LastUpdate": 1764453892
             },
             {
                 "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
@@ -6762,6 +6791,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sowce/optimal-mch-gameplay",
                 "LastUpdate": 1762544088
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/SoyaX/SoyaPlugins/raw/main/repo.json",
+        "repo_source_url": "https://github.com/SoyaX/SoyaPlugins",
+        "repo_name": "SoyaPlugins",
+        "repo_developer_name": "SoyaX",
+        "plugins": [
+            {
+                "Author": "SoyaX",
+                "Name": "Doze Anywhere",
+                "InternalName": "DozeAnywhere",
+                "Description": "/dozeanywhere [nosnap]\n/sitanywhere",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/SoyaX/DozeAnywhere",
+                "LastUpdate": 1754894113
             }
         ]
     },
