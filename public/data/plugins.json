@@ -185,7 +185,7 @@
                 "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1764913868
+                "LastUpdate": 1764972605
             }
         ]
     },
@@ -825,7 +825,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1764959014
+                "LastUpdate": 1764963778
             },
             {
                 "Author": "veyn, croizat",
@@ -902,7 +902,7 @@
                 "Description": "Automates inventory scanning, marketboard listing, and vendor selling using Universalis data and retainer control.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/bimilbimil/AutomarketPro",
-                "LastUpdate": 1763332124
+                "LastUpdate": 1764975809
             }
         ]
     },
@@ -1311,7 +1311,7 @@
                 "Description": "Control actors during GPose sessions. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1764306227
+                "LastUpdate": 1764971451
             },
             {
                 "Author": "Ottermandias",
@@ -1989,7 +1989,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1764306227
+                "LastUpdate": 1764971451
             }
         ]
     },
@@ -2006,7 +2006,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1764306227
+                "LastUpdate": 1764971451
             }
         ]
     },
@@ -2748,7 +2748,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1764872632
+                "LastUpdate": 1764982683
             },
             {
                 "Author": "Haselnussbomber",
@@ -2851,7 +2851,7 @@
                 "Description": "在集体动作模式中控制参与的角色。",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1764306227
+                "LastUpdate": 1764971451
             }
         ]
     },
@@ -4102,7 +4102,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1764306227
+                "LastUpdate": 1764971451
             }
         ]
     },
@@ -4642,7 +4642,7 @@
                 "Description": "Allows for automatic execution of commands upon entering new zones, with a 'Roleplay Only' mode for those who want to only use it for RP purposes.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers",
-                "LastUpdate": 1764867330
+                "LastUpdate": 1764974893
             }
         ]
     },
@@ -4963,7 +4963,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1764306227
+                "LastUpdate": 1764971451
             },
             {
                 "Author": "Risa and Contributors",
@@ -5492,7 +5492,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1764922090
+                "LastUpdate": 1764960549
             },
             {
                 "Author": "Det, Taurenkey",
@@ -5564,7 +5564,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1764956947
+                "LastUpdate": 1764966077
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -6390,7 +6390,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1764306227
+                "LastUpdate": 1764971451
             }
         ]
     },
@@ -6579,6 +6579,41 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SheepGoMeh/Browsingway",
                 "LastUpdate": 1754588367
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/SHOEGAZEssb/DalamudPluginRepo/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/SHOEGAZEssb/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "repo_developer_name": "SHOEGAZEssb",
+        "plugins": [
+            {
+                "Author": "SHOEGAZEssb",
+                "Name": "AchManager",
+                "InternalName": "AchManager",
+                "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
+                "LastUpdate": 1754741921
+            },
+            {
+                "Author": "SHOEGAZEssb",
+                "Name": "Dagobert",
+                "InternalName": "Dagobert",
+                "Description": "Automates market board penny pinching",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
+                "LastUpdate": 1763200507
+            },
+            {
+                "Author": "SHOEGAZEssb",
+                "Name": "DutyLanguage",
+                "InternalName": "DutyLanguage",
+                "Description": "Lets you configure voice acting language on a per-duty basis.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
+                "LastUpdate": 1743618017
             }
         ]
     },
@@ -7939,7 +7974,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1764900916
+                "LastUpdate": 1764962633
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
