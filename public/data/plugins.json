@@ -332,7 +332,7 @@
                 "Description": "A plugin for giving hints for your Archipelago games.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/andrewbabbittdev/archipendium",
-                "LastUpdate": 1765166736
+                "LastUpdate": 1765196494
             }
         ]
     },
@@ -683,6 +683,16 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/CurrencyTracker",
                 "LastUpdate": 1757857628
+            },
+            {
+                "Author": "AtmoOmen",
+                "Name": "Daily Routines (API 12)",
+                "InternalName": "DailyRoutines",
+                "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
+                "LastUpdate": 1765032468,
+                "is_closed_source": true
             },
             {
                 "Author": "AtmoOmen",
@@ -1227,6 +1237,23 @@
                 "Description": "Helper for your day-to-day market operations.",
                 "RepoUrl": "https://github.com/chalkos/Marketbuddy",
                 "LastUpdate": 1754592153
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "cherivy",
+        "repo_url": "https://raw.githubusercontent.com/cherivy/Hunthelper/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/cherivy/Hunthelper",
+        "repo_name": "Hunthelper",
+        "plugins": [
+            {
+                "Author": "jinyu",
+                "Name": "Hunthelper",
+                "InternalName": "Hunthelper",
+                "Description": "Hunthelper是一个FF14插件。新人制作。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/cherivy/Hunthelper",
+                "LastUpdate": 1765197168
             }
         ]
     },
@@ -2200,7 +2227,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1765160753
+                "LastUpdate": 1765190162
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4299,7 +4326,7 @@
                 "Description": "A plugin to track crystal across your FFXIV account.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
-                "LastUpdate": 1765175061
+                "LastUpdate": 1765178021
             }
         ]
     },
@@ -5610,7 +5637,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1765174132
+                "LastUpdate": 1765188829
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5918,7 +5945,7 @@
                 "Description": "Draw strategy images for encounters. Use /aetherdraw to open",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/rail2025/AetherDraw",
-                "LastUpdate": 1764845765
+                "LastUpdate": 1765184384
             }
         ]
     },
