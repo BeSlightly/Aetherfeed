@@ -185,7 +185,7 @@
                 "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1764972605
+                "LastUpdate": 1765217185
             }
         ]
     },
@@ -332,7 +332,7 @@
                 "Description": "A plugin for giving hints for your Archipelago games.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/andrewbabbittdev/archipendium",
-                "LastUpdate": 1765196494
+                "LastUpdate": 1765200718
             }
         ]
     },
@@ -852,7 +852,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1765152113
+                "LastUpdate": 1765217761
             },
             {
                 "Author": "veyn, croizat",
@@ -1241,23 +1241,6 @@
         ]
     },
     {
-        "repo_developer_name": "cherivy",
-        "repo_url": "https://raw.githubusercontent.com/cherivy/Hunthelper/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/cherivy/Hunthelper",
-        "repo_name": "Hunthelper",
-        "plugins": [
-            {
-                "Author": "jinyu",
-                "Name": "Hunthelper",
-                "InternalName": "Hunthelper",
-                "Description": "Hunthelper是一个FF14插件。新人制作。",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/cherivy/Hunthelper",
-                "LastUpdate": 1765197168
-            }
-        ]
-    },
-    {
         "repo_developer_name": "chirpxiv",
         "repo_url": "https://raw.githubusercontent.com/chirpxiv/GoodOmen/main/repo.json",
         "repo_source_url": "https://github.com/chirpxiv/GoodOmen",
@@ -1358,6 +1341,15 @@
                 "LastUpdate": 1764971451
             },
             {
+                "Author": "Risa",
+                "Name": "Customize+",
+                "InternalName": "CustomizePlus",
+                "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters. (API12 版本，適用於台服)",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
+                "LastUpdate": 1764355240
+            },
+            {
                 "Author": "Ottermandias",
                 "Name": "Glamourer",
                 "InternalName": "Glamourer",
@@ -1377,12 +1369,12 @@
             },
             {
                 "Author": "Caraxi",
-                "Name": "Simple Tweaks",
-                "InternalName": "SimpleTweaksPlugin",
-                "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically. (API12 版本，適用於台服)",
+                "Name": "Simple Heels",
+                "InternalName": "SimpleHeels",
+                "Description": "FFXIV plugin for adjusting the position of characters when wearing modded footwear. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
-                "LastUpdate": 1764386141
+                "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
+                "LastUpdate": 1764752468
             }
         ]
     },
@@ -1934,7 +1926,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1764910473
+                "LastUpdate": 1765215738
             }
         ]
     },
@@ -1951,7 +1943,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1764910473
+                "LastUpdate": 1765215738
             }
         ]
     },
@@ -3066,7 +3058,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1764247548
+                "LastUpdate": 1765200060
             },
             {
                 "Author": "croizat",
@@ -5637,7 +5629,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1765188829
+                "LastUpdate": 1765208428
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5664,7 +5656,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1765155222
+                "LastUpdate": 1765211938
             },
             {
                 "Author": "daemitus, kawaii",
