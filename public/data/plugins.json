@@ -332,7 +332,7 @@
                 "Description": "A plugin for giving hints for your Archipelago games.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/andrewbabbittdev/archipendium",
-                "LastUpdate": 1765154667
+                "LastUpdate": 1765166736
             }
         ]
     },
@@ -2200,7 +2200,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1765080559
+                "LastUpdate": 1765160753
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3771,7 +3771,7 @@
                 "Description": "*-insert a quirky description here later... hopefully-*",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1764736641
+                "LastUpdate": 1765164910
             }
         ]
     },
@@ -3907,7 +3907,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1764779497
+                "LastUpdate": 1765160642
             }
         ]
     },
@@ -4287,6 +4287,23 @@
         ]
     },
     {
+        "repo_developer_name": "MTVirux",
+        "repo_url": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/repo.json",
+        "repo_source_url": "https://github.com/MTVirux/CrystalTerror",
+        "repo_name": "CrystalTerror",
+        "plugins": [
+            {
+                "Author": "MTVirux",
+                "Name": "Crystal Terror",
+                "InternalName": "CrystalTerror",
+                "Description": "A plugin to track crystal across your FFXIV account.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
+                "LastUpdate": 1765175061
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/MusicalPanini/PaninisXIVPluginDump/raw/main/repo.json",
         "repo_source_url": "https://github.com/MusicalPanini/PaninisXIVPluginDump",
         "repo_name": "PaninisXIVPluginDump",
@@ -4387,7 +4404,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
-                "LastUpdate": 1764845039
+                "LastUpdate": 1765160600
             },
             {
                 "Author": "NightmareXIV",
@@ -5010,7 +5027,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1764779497
+                "LastUpdate": 1765160642
             },
             {
                 "Author": "Ottermandias",
@@ -5539,7 +5556,7 @@
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1763359385
+                "LastUpdate": 1765156003
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -5593,7 +5610,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1765129581
+                "LastUpdate": 1765174132
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
