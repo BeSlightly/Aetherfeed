@@ -1529,7 +1529,7 @@
                 "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-                "LastUpdate": 1765023503
+                "LastUpdate": 1765369896
             },
             {
                 "Author": "decorwdyun",
@@ -1538,7 +1538,7 @@
                 "Description": "Crowd-sourced plugin to view what players are inside of a party in PF. Intended for CN use, but works on global.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1765022803,
+                "LastUpdate": 1765370018,
                 "is_closed_source": true
             },
             {
@@ -1935,7 +1935,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1765249312
+                "LastUpdate": 1765350371
             }
         ]
     },
@@ -1952,7 +1952,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1765249312
+                "LastUpdate": 1765350371
             }
         ]
     },
@@ -5638,7 +5638,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1765347764
+                "LastUpdate": 1765364169
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -7534,7 +7534,7 @@
                 "Description": "Created by Liza Carvelli, maintained by WigglyMuffin.\n\nUploads your game statistics (such as quest progress, gil, retainer stats) to an InfluxDB or QuestDB instance, making it possible to automatically track your progress through external tools such as Grafana.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/WigglyMuffin/Influx",
-                "LastUpdate": 1764770675
+                "LastUpdate": 1765363060
             },
             {
                 "Author": "MacaronDream",
