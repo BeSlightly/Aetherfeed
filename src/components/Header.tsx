@@ -48,7 +48,7 @@ export const Header: React.FC = () => {
             <div className="relative z-10 max-w-7xl 2xl:max-w-[90%] mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex justify-between items-center h-16">
                     {/* Logo */}
-                    <Link to="/" className="flex-shrink-0 flex items-center cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
+                    <Link to="/" className="shrink-0 flex items-center cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
                         <img src={`${import.meta.env.BASE_URL}logo.svg`} alt="Aetherfeed Logo" className="h-8 w-8 mr-2" />
                         <span className="font-display font-bold text-xl tracking-tight text-slate-900 dark:text-white">
                             Aetherfeed
@@ -86,7 +86,7 @@ export const Header: React.FC = () => {
                     <div className="hidden md:flex items-center space-x-4">
                         <button
                             onClick={toggleTheme}
-                            className="p-2 rounded-full text-slate-500 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-white/10 transition-colors focus:outline-none focus:ring-2 focus:ring-aether-500"
+                            className="p-2 rounded-full text-slate-500 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-white/10 transition-colors focus:outline-hidden focus:ring-2 focus:ring-aether-500"
                             aria-label="Toggle theme"
                         >
                             {isDark ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
@@ -112,7 +112,7 @@ export const Header: React.FC = () => {
                         </button>
                         <button
                             onClick={() => setIsMenuOpen(!isMenuOpen)}
-                            className="p-2 rounded-md text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-white/10 focus:outline-none"
+                            className="p-2 rounded-md text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-white/10 focus:outline-hidden"
                         >
                             {isMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
                         </button>

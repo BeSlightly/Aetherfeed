@@ -23,12 +23,12 @@ const WarningBanner: React.FC = () => {
                     transition={{ duration: 0.3 }}
                     className="w-full max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 mb-8"
                 >
-                    <div className="relative overflow-hidden rounded-xl bg-amber-50/50 dark:bg-amber-900/10 border border-amber-200 dark:border-amber-700/30 backdrop-blur-sm p-4 shadow-sm">
+                    <div className="relative overflow-hidden rounded-xl bg-amber-50/50 dark:bg-amber-900/10 border border-amber-200 dark:border-amber-700/30 backdrop-blur-xs p-4 shadow-xs">
                         <div className="flex items-start gap-4">
                             <div className="p-2 bg-amber-100 dark:bg-amber-900/30 rounded-lg shrink-0">
                                 <AlertTriangle className="h-5 w-5 text-amber-600 dark:text-amber-500" />
                             </div>
-                            <div className="flex-grow space-y-1 pt-0.5">
+                            <div className="grow space-y-1 pt-0.5">
                                 <h3 className="text-sm font-bold text-slate-900 dark:text-amber-100 flex items-center gap-2">
                                     Disclaimer
                                 </h3>

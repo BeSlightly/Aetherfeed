@@ -40,12 +40,12 @@ const Select = <T extends string | number>({ options, selected, onChange, label 
         <div className="relative" ref={containerRef}>
             <button
                 onClick={() => setIsOpen(!isOpen)}
-                className="flex items-center gap-2 pl-9 pr-4 py-2 bg-transparent border-none text-sm font-medium text-slate-700 dark:text-slate-200 focus:ring-0 outline-none hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors min-w-[140px]"
+                className="flex items-center gap-2 pl-9 pr-4 py-2 bg-transparent border-none text-sm font-medium text-slate-700 dark:text-slate-200 focus:ring-0 outline-hidden hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors min-w-[140px]"
             >
                 <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                     <ArrowUpDown className="h-4 w-4 text-slate-400" />
                 </div>
-                <span className="truncate flex-grow text-left">
+                <span className="truncate grow text-left">
                     {selectedOption ? selectedOption.label : label}
                 </span>
                 <ChevronDown className={`h-4 w-4 text-slate-400 transition-transform duration-200 ${isOpen ? 'rotate-180' : ''}`} />
@@ -72,7 +72,7 @@ const Select = <T extends string | number>({ options, selected, onChange, label 
                                             : 'text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-700/50'
                                             }`}
                                     >
-                                        <span className="flex-grow">{option.label}</span>
+                                        <span className="grow">{option.label}</span>
                                     </div>
                                 );
                             })}

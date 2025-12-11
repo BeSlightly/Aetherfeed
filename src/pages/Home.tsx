@@ -168,7 +168,7 @@ const Home: React.FC = () => {
                 {/* Controls Header */}
                 <div className="flex flex-col md:flex-row md:items-center justify-between mb-8 gap-4">
                     <div className="flex items-center gap-4">
-                        <h2 className="text-3xl font-bold font-display bg-clip-text text-transparent bg-gradient-to-r from-slate-900 to-slate-600 dark:from-white dark:to-slate-400">
+                        <h2 className="text-3xl font-bold font-display bg-clip-text text-transparent bg-linear-to-r from-slate-900 to-slate-600 dark:from-white dark:to-slate-400">
                             Plugin Feed
                         </h2>
                         <span className="px-3 py-1 rounded-full bg-aether-100 text-aether-700 dark:bg-aether-900/30 dark:text-aether-300 text-xs font-medium border border-aether-200 dark:border-aether-700/50">

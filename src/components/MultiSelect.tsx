@@ -42,7 +42,7 @@ const MultiSelect = <T extends string | number>({ options, selected, onChange, l
         <div className="relative" ref={containerRef}>
             <button
                 onClick={() => setIsOpen(!isOpen)}
-                className="flex items-center gap-2 pl-9 pr-4 py-2 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl text-sm font-medium text-slate-700 dark:text-slate-200 focus:ring-2 focus:ring-aether-500 focus:border-transparent outline-none hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors"
+                className="flex items-center gap-2 pl-9 pr-4 py-2 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl text-sm font-medium text-slate-700 dark:text-slate-200 focus:ring-2 focus:ring-aether-500 focus:border-transparent outline-hidden hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors"
             >
                 <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                     <Filter className="h-4 w-4 text-slate-400" />
@@ -73,13 +73,13 @@ const MultiSelect = <T extends string | number>({ options, selected, onChange, l
                                         onClick={() => toggleOption(option.value)}
                                         className="flex items-center px-4 py-2 text-sm text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-700/50 cursor-pointer transition-colors group"
                                     >
-                                        <div className={`flex-shrink-0 w-4 h-4 mr-3 border rounded flex items-center justify-center transition-colors ${isSelected
+                                        <div className={`shrink-0 w-4 h-4 mr-3 border rounded flex items-center justify-center transition-colors ${isSelected
                                             ? 'bg-aether-500 border-aether-500'
                                             : 'border-slate-300 dark:border-slate-600'
                                             }`}>
                                             {isSelected && <Check className="w-3 h-3 text-white" />}
                                         </div>
-                                        <span className="flex-grow">{option.label}</span>
+                                        <span className="grow">{option.label}</span>
                                         {option.tooltip && (
                                             <div className="ml-2 text-slate-400 hover:text-slate-600 dark:hover:text-slate-300" title={option.tooltip}>
                                                 <div className="w-4 h-4 rounded-full border border-current flex items-center justify-center text-[10px] font-bold">?</div>

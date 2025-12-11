@@ -47,9 +47,9 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel }) => {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 10 }}
             transition={{ duration: 0.18, ease: 'easeOut' }}
-            className="group relative flex flex-col bg-white/80 dark:bg-slate-900/60 backdrop-blur-sm border border-slate-200 dark:border-slate-800 rounded-2xl overflow-hidden hover:border-aether-500/50 dark:hover:border-aether-500/50 transition-all duration-300 h-full shadow-sm hover:shadow-md"
+            className="group relative flex flex-col bg-white/80 dark:bg-slate-900/60 backdrop-blur-xs border border-slate-200 dark:border-slate-800 rounded-2xl overflow-hidden hover:border-aether-500/50 dark:hover:border-aether-500/50 transition-all duration-300 h-full shadow-xs hover:shadow-md"
         >
-            <div className="p-5 flex flex-col flex-grow">
+            <div className="p-5 flex flex-col grow">
                 {/* Header: Title & Meta */}
                 <div className="flex justify-between items-start mb-3">
                     <div>
@@ -65,7 +65,7 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel }) => {
                     <div className="flex items-center gap-2">
                         {/* API Badges */}
                         {plugin.plugin_api_levels_array.slice(0, 2).map((level) => (
-                            <div key={level} className={`flex-shrink-0 px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider border ${getApiBadgeColor(level, maxApiLevel)}`}>
+                            <div key={level} className={`shrink-0 px-2 py-0.5 rounded-sm text-[10px] font-bold uppercase tracking-wider border ${getApiBadgeColor(level, maxApiLevel)}`}>
                                 API {level}
                             </div>
                         ))}
@@ -77,7 +77,7 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel }) => {
                 </div>
 
                 {/* Description */}
-                <p className="text-slate-600 dark:text-slate-300 text-sm leading-relaxed line-clamp-2 mb-4 flex-grow">
+                <p className="text-slate-600 dark:text-slate-300 text-sm leading-relaxed line-clamp-2 mb-4 grow">
                     {plugin.Description}
                 </p>
 
@@ -86,7 +86,7 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel }) => {
                     <div className="flex items-center gap-2">
                         {/* Install Button Group */}
                         {installUrl && (
-                            <div className="flex items-center rounded-lg overflow-hidden shadow-sm bg-slate-900 dark:bg-white">
+                            <div className="flex items-center rounded-lg overflow-hidden shadow-xs bg-slate-900 dark:bg-white">
                                 <a
                                     href={installUrl}
                                     target="_blank"
