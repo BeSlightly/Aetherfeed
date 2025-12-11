@@ -332,7 +332,7 @@
                 "Description": "A plugin for giving hints for your Archipelago games.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/andrewbabbittdev/archipendium",
-                "LastUpdate": 1765373356
+                "LastUpdate": 1765459925
             }
         ]
     },
@@ -475,6 +475,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/apoclol/ffxiv-en-jp-translator",
                 "LastUpdate": 1755406493
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ariapurple",
+        "repo_url": "https://raw.githubusercontent.com/ariapurple/FFXIVTCWrathCombo/main/repo.json",
+        "repo_source_url": "https://github.com/ariapurple/FFXIVTCWrathCombo",
+        "repo_name": "FFXIVTCWrathCombo",
+        "plugins": [
+            {
+                "Author": "Yukari",
+                "Name": "Wrath Combo",
+                "InternalName": "WrathCombo",
+                "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/ariapurple/FFXIVTCWrathCombo",
+                "LastUpdate": 1765463258
             }
         ]
     },
@@ -1204,23 +1221,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/CatboyEngineering/KinkShellClient",
                 "LastUpdate": 1755479449
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/cfsen/Ktisis/raw/main/repo.json",
-        "repo_source_url": "https://github.com/cfsen/Ktisis",
-        "repo_name": "Ktisis",
-        "repo_developer_name": "cfsen",
-        "plugins": [
-            {
-                "Author": "Chirp",
-                "Name": "Ktisis",
-                "InternalName": "Ktisis",
-                "Description": "A robust posing tool for creating screenshots in GPose.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1765110258
             }
         ]
     },
@@ -4068,32 +4068,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/Meisterlala/NekoFans/raw/master/repo.json",
-        "repo_source_url": "https://github.com/Meisterlala/NekoFans",
-        "repo_name": "NekoFans",
-        "repo_developer_name": "Meisterlala",
-        "plugins": [
-            {
-                "Author": "Meisterlala",
-                "Name": "Neko Fans",
-                "InternalName": "Neko",
-                "Description": "Shows you an image of a random neko character. Click on the image to view the next one.\nYou can choose different image sources, allowing you to look at Catboys, Waifus, Cats, Dogs and more.\n\nSupported APIs:\nnekos.best, Nekos.life, Dog CEO, The Cat API, Pic.re, Waifu.im, Waifu.pics and shibe.online\n\nWarning: You might see naughty images",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Meisterlala/NekoFans/tree/master/Neko",
-                "LastUpdate": 1754740671
-            },
-            {
-                "Author": "Meisterlala",
-                "Name": "Neko Fans NSFW 18+ Patch",
-                "InternalName": "NekoLewd",
-                "Description": "This Plugin does nothing on its own. Neko Fans needs to be installed.\nYou now have access to NSFW images in Neko Fans.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Meisterlala/NekoFans/tree/master/NekoLewd",
-                "LastUpdate": 1754740671
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Meowchestra",
         "repo_url": "https://raw.githubusercontent.com/Meowchestra/xivplugins/main/repo.json",
         "repo_source_url": "https://github.com/Meowchestra/xivplugins",
@@ -5532,7 +5506,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1765430787
+                "LastUpdate": 1765477055
             }
         ]
     },
@@ -5638,7 +5612,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1765455855
+                "LastUpdate": 1765469528
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5796,74 +5770,6 @@
         ],
         "repo_name": "RaidenvPlugins",
         "repo_developer_name": "RaidenvBlack"
-    },
-    {
-        "repo_url": "https://github.com/RaidenvBlack/Updated/raw/main/repo.json",
-        "repo_source_url": "https://github.com/RaidenvBlack/Updated",
-        "repo_name": "Updated",
-        "repo_developer_name": "RaidenvBlack",
-        "plugins": [
-            {
-                "Author": "NoClue",
-                "Name": "AutoMarket",
-                "InternalName": "AutoBot",
-                "Description": "Auto prices your listings automatically on a set schedule. Can auto post items as well..",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/RaidenvBlack/Updated",
-                "LastUpdate": 1754913358,
-                "is_closed_source": true
-            },
-            {
-                "Author": "NoClue",
-                "Name": "Targeting",
-                "InternalName": "Better",
-                "Description": "Helper plugin for Targeting",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/RaidenvBlack/Updated",
-                "LastUpdate": 1754913358,
-                "is_closed_source": true
-            },
-            {
-                "Author": "NoClue",
-                "Name": "FakeName",
-                "InternalName": "FakeName",
-                "Description": "Helper plugin for Renaming",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/RaidenvBlack/Updated",
-                "LastUpdate": 1754913358,
-                "is_closed_source": true
-            },
-            {
-                "Author": "NoClue",
-                "Name": "Inviter",
-                "InternalName": "Inviter",
-                "Description": "Invites",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/RaidenvBlack/Updated",
-                "LastUpdate": 1754913358,
-                "is_closed_source": true
-            },
-            {
-                "Author": "NoClue",
-                "Name": "Repair",
-                "InternalName": "RepairYou",
-                "Description": "Helper plugin for Repair",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/RaidenvBlack/Updated",
-                "LastUpdate": 1754913358,
-                "is_closed_source": true
-            },
-            {
-                "Author": "NoClue",
-                "Name": "WotsitDutyFix",
-                "InternalName": "WotsitDutyFix",
-                "Description": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/RaidenvBlack/Updated",
-                "LastUpdate": 1754913358,
-                "is_closed_source": true
-            }
-        ]
     },
     {
         "repo_developer_name": "rail2025",
@@ -7730,50 +7636,6 @@
                 "is_closed_source": true
             }
         ]
-    },
-    {
-        "repo_url": "https://github.com/Yhumi/Plogons/raw/master/plugins.json",
-        "plugins": [
-            {
-                "Author": "Yhumi",
-                "Name": "FC Chest Checker",
-                "InternalName": "FCChestChecker",
-                "Description": "Check FC Chest when searching for an item.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Yhumi/FCChestChecker",
-                "LastUpdate": 1746573891
-            },
-            {
-                "Author": "Yhumi",
-                "Name": "Icon Display",
-                "InternalName": "ItemDisplay",
-                "Description": "Create freely moveable macros and item count displays. /icondisplay for settings.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/Yhumi/ItemDisplay",
-                "LastUpdate": 1738184134
-            },
-            {
-                "Author": "Yhumi",
-                "Name": "UcobClears",
-                "InternalName": "UcobClears",
-                "Description": "Show UCoB clears on adventure place. /ucobclears for settings.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Yhumi/ucob-clears",
-                "LastUpdate": 1746572327
-            },
-            {
-                "Author": "Yhumi",
-                "Name": "UCoB Neurolink Scoring",
-                "InternalName": "UcobNeuroScoring",
-                "Description": "Score your neurolink placement in UCoB! /ucobscoring for settings.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/Yhumi/UcobNeuroScoring",
-                "LastUpdate": 1764622812
-            }
-        ],
-        "repo_source_url": "https://github.com/Yhumi/Plogons",
-        "repo_name": "Plogons",
-        "repo_developer_name": "Yhumi"
     },
     {
         "repo_developer_name": "yimo0908",
