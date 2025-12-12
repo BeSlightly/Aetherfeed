@@ -834,7 +834,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1765420048
+                "LastUpdate": 1765479604
             },
             {
                 "Author": "veyn, croizat",
@@ -869,7 +869,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1765320782
+                "LastUpdate": 1765479987
             },
             {
                 "Author": "veyn, croizat",
@@ -1221,6 +1221,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/CatboyEngineering/KinkShellClient",
                 "LastUpdate": 1755479449
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/cfsen/Ktisis/raw/main/repo.json",
+        "repo_source_url": "https://github.com/cfsen/Ktisis",
+        "repo_name": "Ktisis",
+        "repo_developer_name": "cfsen",
+        "plugins": [
+            {
+                "Author": "Chirp",
+                "Name": "Ktisis",
+                "InternalName": "Ktisis",
+                "Description": "A robust posing tool for creating screenshots in GPose.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
+                "LastUpdate": 1765110258
             }
         ]
     },
@@ -3460,7 +3477,7 @@
                 "Description": "[BETA] A comprehensive writing assistant designed for FFXIV roleplayers. Automatically formats your text for seamless in-game chat, includes spell checking, thesaurus integration, and advanced editing tools to enhance your roleplay experience.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/kirin-xiv/EorzeaScribe",
-                "LastUpdate": 1765155188
+                "LastUpdate": 1765492982
             },
             {
                 "Author": "Kirin",
@@ -4064,6 +4081,32 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/McSwindler/SneakOnBy",
                 "LastUpdate": 1760037192
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/Meisterlala/NekoFans/raw/master/repo.json",
+        "repo_source_url": "https://github.com/Meisterlala/NekoFans",
+        "repo_name": "NekoFans",
+        "repo_developer_name": "Meisterlala",
+        "plugins": [
+            {
+                "Author": "Meisterlala",
+                "Name": "Neko Fans",
+                "InternalName": "Neko",
+                "Description": "Shows you an image of a random neko character. Click on the image to view the next one.\nYou can choose different image sources, allowing you to look at Catboys, Waifus, Cats, Dogs and more.\n\nSupported APIs:\nnekos.best, Nekos.life, Dog CEO, The Cat API, Pic.re, Waifu.im, Waifu.pics and shibe.online\n\nWarning: You might see naughty images",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Meisterlala/NekoFans",
+                "LastUpdate": 1765161868
+            },
+            {
+                "Author": "Meisterlala",
+                "Name": "Neko Fans NSFW 18+ Patch",
+                "InternalName": "NekoLewd",
+                "Description": "This Plugin does nothing on its own. Neko Fans needs to be installed.\nYou now have access to NSFW images in Neko Fans.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Meisterlala/NekoFans",
+                "LastUpdate": 1765161868
             }
         ]
     },
@@ -4978,6 +5021,15 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/OTCompa/john-finalfantasy",
                 "LastUpdate": 1765225755
+            },
+            {
+                "Author": "Frey",
+                "Name": "Voiced Nael Lines",
+                "InternalName": "VoicedNaelLines",
+                "Description": "Voice acted Nael lines in The Unending Coil of Bahamut.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/OTCompa/voiced-nael-lines",
+                "LastUpdate": 1765494289
             }
         ]
     },
@@ -5567,7 +5619,7 @@
                 "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Avarice",
-                "LastUpdate": 1755325981
+                "LastUpdate": 1765499508
             },
             {
                 "Author": "Taurenkey, NightmareXIV, Gidedin",
@@ -5612,7 +5664,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1765469528
+                "LastUpdate": 1765487787
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5770,6 +5822,68 @@
         ],
         "repo_name": "RaidenvPlugins",
         "repo_developer_name": "RaidenvBlack"
+    },
+    {
+        "repo_url": "https://github.com/RaidenvBlack/Updated/raw/main/repo.json",
+        "repo_source_url": "https://github.com/RaidenvBlack/Updated",
+        "repo_name": "Updated",
+        "repo_developer_name": "RaidenvBlack",
+        "plugins": [
+            {
+                "Author": "NoClue",
+                "Name": "AutoMarket",
+                "InternalName": "AutoBot",
+                "Description": "Auto prices your listings automatically on a set schedule. Can auto post items as well..",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/RaidenvBlack/Updated",
+                "LastUpdate": 1754913358
+            },
+            {
+                "Author": "NoClue",
+                "Name": "Targeting",
+                "InternalName": "Better",
+                "Description": "Helper plugin for Targeting",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/RaidenvBlack/Updated",
+                "LastUpdate": 1754913358
+            },
+            {
+                "Author": "NoClue",
+                "Name": "FakeName",
+                "InternalName": "FakeName",
+                "Description": "Helper plugin for Renaming",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/RaidenvBlack/Updated",
+                "LastUpdate": 1754913358
+            },
+            {
+                "Author": "NoClue",
+                "Name": "Inviter",
+                "InternalName": "Inviter",
+                "Description": "Invites",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/RaidenvBlack/Updated",
+                "LastUpdate": 1754913358
+            },
+            {
+                "Author": "NoClue",
+                "Name": "Repair",
+                "InternalName": "RepairYou",
+                "Description": "Helper plugin for Repair",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/RaidenvBlack/Updated",
+                "LastUpdate": 1754913358
+            },
+            {
+                "Author": "NoClue",
+                "Name": "WotsitDutyFix",
+                "InternalName": "WotsitDutyFix",
+                "Description": "Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.\nPress Control + T to open the search window. This can be changed by searching for \"Wotsit Settings\".",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/RaidenvBlack/Updated",
+                "LastUpdate": 1754913358
+            }
+        ]
     },
     {
         "repo_developer_name": "rail2025",
@@ -7136,7 +7250,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1765320143
+                "LastUpdate": 1765489663
             }
         ]
     },
@@ -7636,6 +7750,50 @@
                 "is_closed_source": true
             }
         ]
+    },
+    {
+        "repo_url": "https://github.com/Yhumi/Plogons/raw/master/plugins.json",
+        "plugins": [
+            {
+                "Author": "Yhumi",
+                "Name": "FC Chest Checker",
+                "InternalName": "FCChestChecker",
+                "Description": "Check FC Chest when searching for an item.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/Yhumi/FCChestChecker",
+                "LastUpdate": 1746573891
+            },
+            {
+                "Author": "Yhumi",
+                "Name": "Icon Display",
+                "InternalName": "ItemDisplay",
+                "Description": "Create freely moveable macros and item count displays. /icondisplay for settings.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/Yhumi/ItemDisplay",
+                "LastUpdate": 1738184134
+            },
+            {
+                "Author": "Yhumi",
+                "Name": "UcobClears",
+                "InternalName": "UcobClears",
+                "Description": "Show UCoB clears on adventure place. /ucobclears for settings.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Yhumi/ucob-clears",
+                "LastUpdate": 1746572327
+            },
+            {
+                "Author": "Yhumi",
+                "Name": "UCoB Neurolink Scoring",
+                "InternalName": "UcobNeuroScoring",
+                "Description": "Score your neurolink placement in UCoB! /ucobscoring for settings.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Yhumi/UcobNeuroScoring",
+                "LastUpdate": 1764622812
+            }
+        ],
+        "repo_source_url": "https://github.com/Yhumi/Plogons",
+        "repo_name": "Plogons",
+        "repo_developer_name": "Yhumi"
     },
     {
         "repo_developer_name": "yimo0908",
