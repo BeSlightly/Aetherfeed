@@ -1555,7 +1555,7 @@
                 "Description": "Crowd-sourced plugin to view what players are inside of a party in PF. Intended for CN use, but works on global.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1765526595,
+                "LastUpdate": 1765553143,
                 "is_closed_source": true
             },
             {
@@ -2272,7 +2272,7 @@
                 "Description": "",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarRepo",
-                "LastUpdate": 1763176378
+                "LastUpdate": 1765553100
             },
             {
                 "Author": "Sonar Team",
@@ -2281,7 +2281,7 @@
                 "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1763176358
+                "LastUpdate": 1765553081
             },
             {
                 "Author": "Sonar Team",
@@ -2290,7 +2290,7 @@
                 "Description": "마물, 돌발 전파를 자동으로 주고받습니다. /sonar 명령어로 알림 오버레이를 열고, /sonarconfig 으로 설정 창을 엽니다. 지원은 Sonar Support Discord에서만 제공됩니다.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1763176358
+                "LastUpdate": 1765553081
             }
         ],
         "repo_name": "SonarRepo",
@@ -2819,7 +2819,7 @@
                 "Description": "Keep on tweaking.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1765414557
+                "LastUpdate": 1765559914
             },
             {
                 "Author": "Haselnussbomber",
@@ -3477,7 +3477,7 @@
                 "Description": "[BETA] A comprehensive writing assistant designed for FFXIV roleplayers. Automatically formats your text for seamless in-game chat, includes spell checking, thesaurus integration, and advanced editing tools to enhance your roleplay experience.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/kirin-xiv/EorzeaScribe",
-                "LastUpdate": 1765492982
+                "LastUpdate": 1765546811
             },
             {
                 "Author": "Kirin",
@@ -4165,6 +4165,23 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
                 "LastUpdate": 1765329476
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/MeowZWR/Ktisis/raw/cn/repo.json",
+        "repo_source_url": "https://github.com/MeowZWR/Ktisis",
+        "repo_name": "Ktisis",
+        "repo_developer_name": "MeowZWR",
+        "plugins": [
+            {
+                "Author": "Chirp",
+                "Name": "Ktisis",
+                "InternalName": "Ktisis",
+                "Description": "集体动作姿势编辑工具。初次使用记得设置→Language→选择简体中文。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/MeowZWR/Ktisis",
+                "LastUpdate": 1759639259
             }
         ]
     },
@@ -5647,7 +5664,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1765487787
+                "LastUpdate": 1765545485
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5674,7 +5691,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1765541296
+                "LastUpdate": 1765564134
             },
             {
                 "Author": "daemitus, kawaii",
@@ -6707,7 +6724,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1765514122,
+                "LastUpdate": 1765555533,
                 "is_closed_source": true
             }
         ]
