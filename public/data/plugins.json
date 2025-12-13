@@ -266,22 +266,22 @@
         "repo_developer_name": "AjisaiMirai",
         "plugins": [
             {
-                "Author": "Mirai",
+                "Author": "Nyssa",
                 "Name": "MiscPlugin",
                 "InternalName": "MiscPlugin",
                 "Description": "Just some stuff I wanted in plugin-form really.",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AjisaiMirai/MiscPlugin",
-                "LastUpdate": 1732695810
+                "LastUpdate": 1765648256
             },
             {
-                "Author": "Mirai",
-                "Name": "Who emoted at me",
+                "Author": "Nyssa",
+                "Name": "Who Emoted At Me",
                 "InternalName": "WhoEmotedAtMe",
                 "Description": "Ever been afk and people try to socialize, but you're unsure if they tried to interact? Now! You'll always know if emoted at you! You afking fucking sack of shit.",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AjisaiMirai/plugins",
-                "LastUpdate": 1732695810
+                "LastUpdate": 1765648256
             }
         ]
     },
@@ -534,7 +534,7 @@
                 "Description": "Artisan Things",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ashylila/ArtisanBuddy",
-                "LastUpdate": 1765628298
+                "LastUpdate": 1765631107
             },
             {
                 "Author": "Ashy",
@@ -543,7 +543,7 @@
                 "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1765541470
+                "LastUpdate": 1765631362
             }
         ]
     },
@@ -2819,7 +2819,7 @@
                 "Description": "Keep on tweaking.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1765559914
+                "LastUpdate": 1765639780
             },
             {
                 "Author": "Haselnussbomber",
@@ -2897,6 +2897,32 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/IcarusXIV/Character-Select-",
                 "LastUpdate": 1760543131
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ifan0927",
+        "repo_url": "https://raw.githubusercontent.com/ifan0927/FFXIVTC_Plugins_Pack/main/repo.json",
+        "repo_source_url": "https://github.com/ifan0927/FFXIVTC_Plugins_Pack",
+        "repo_name": "FFXIVTC_Plugins_Pack",
+        "plugins": [
+            {
+                "Author": "NightmareXIV",
+                "Name": "AntiAfkKick",
+                "InternalName": "AntiAfkKick-Dalamud",
+                "Description": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. (降版至 2.1.0.6，適用於台服 API12)",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
+                "LastUpdate": 1754531908
+            },
+            {
+                "Author": "Taurenkey (Puni.sh)",
+                "Name": "Artisan",
+                "InternalName": "Artisan",
+                "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/PunishXIV/Artisan",
+                "LastUpdate": 1765644930
             }
         ]
     },
@@ -3952,7 +3978,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1765160642
+                "LastUpdate": 1765648926
             }
         ]
     },
@@ -4284,7 +4310,7 @@
                 "Description": "Polished single-window UI with Playwright coverage helpers and release-ready metadata.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/mona-ty/XIVSubmarinesRewrite",
-                "LastUpdate": 1763394524
+                "LastUpdate": 1765644801
             }
         ]
     },
@@ -4476,7 +4502,7 @@
                 "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1764006319
+                "LastUpdate": 1765648873
             },
             {
                 "Author": "NightmareXIV",
@@ -5081,7 +5107,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1765160642
+                "LastUpdate": 1765648926
             },
             {
                 "Author": "Ottermandias",
@@ -5592,7 +5618,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1765104873
+                "LastUpdate": 1765644930
             },
             {
                 "Author": "Det, Taurenkey",
@@ -5664,7 +5690,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1765572813
+                "LastUpdate": 1765646632
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5691,7 +5717,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1765564134
+                "LastUpdate": 1765650109
             },
             {
                 "Author": "daemitus, kawaii",
@@ -8060,7 +8086,7 @@
                 "Description": "Polished single-window UI with Playwright coverage helpers and release-ready metadata.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zlatan-mt/XIVSubmarinesRewrite",
-                "LastUpdate": 1763394524
+                "LastUpdate": 1765644801
             }
         ]
     },
