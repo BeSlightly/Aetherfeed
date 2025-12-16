@@ -2850,6 +2850,23 @@
         ]
     },
     {
+        "repo_developer_name": "HKazuki0818",
+        "repo_url": "https://raw.githubusercontent.com/HKazuki0818/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/HKazuki0818/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "NightmareXIV",
+                "Name": "AntiAfkKick",
+                "InternalName": "AntiAfkKick-Dalamud",
+                "Description": "這是一款可防止玩家因閒置而被自動踢出《Final Fantasy XIV》的 Dalamud 插件。安裝後即可使用，無需任何設定，輕鬆無負擔。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
+                "LastUpdate": 1765896312
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Houdeled",
         "repo_url": "https://raw.githubusercontent.com/Houdeled/SingAlongPlugin/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Houdeled/SingAlongPlugin",
@@ -4670,6 +4687,15 @@
             },
             {
                 "Author": "53m1k0l0n/Gidedin (Puni.sh) / NiGuangOwO (本地化)",
+                "Name": "LazyLoot (API12)",
+                "InternalName": "LazyLoot",
+                "Description": "带有各种参数的Roll点命令 need | greed | pass\n聊天和Toast输出以及Roll点延迟。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NiGuangOwO/LazyLoot",
+                "LastUpdate": 1758031173
+            },
+            {
+                "Author": "53m1k0l0n/Gidedin (Puni.sh) / NiGuangOwO (本地化)",
                 "Name": "LazyLoot",
                 "InternalName": "LazyLoot",
                 "Description": "带有各种参数的Roll点命令 need | greed | pass\n聊天和Toast输出以及Roll点延迟。",
@@ -4727,6 +4753,15 @@
             },
             {
                 "Author": "Liza Carvelli (Puni.sh) / NiGuangOwO (本地化适配)",
+                "Name": "Palace Pal (API12)",
+                "InternalName": "PalacePal",
+                "Description": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。\n\n这个插件需要Splatoon才能在屏幕上渲染绘图。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NiGuangOwO/PalacePal",
+                "LastUpdate": 1762863083
+            },
+            {
+                "Author": "Liza Carvelli (Puni.sh) / NiGuangOwO (本地化适配)",
                 "Name": "Palace Pal",
                 "InternalName": "PalacePal",
                 "Description": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。\n\n这个插件需要Splatoon才能在屏幕上渲染绘图。",
@@ -4741,7 +4776,7 @@
                 "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1764453892
+                "LastUpdate": 1765903929
             },
             {
                 "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
@@ -4750,7 +4785,7 @@
                 "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1764453892
+                "LastUpdate": 1765903929
             },
             {
                 "Author": "NiGuangOwO",
@@ -5698,7 +5733,7 @@
                 "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1764453892
+                "LastUpdate": 1765903929
             },
             {
                 "Author": "Liza Carvelli & various contributors",
@@ -7293,7 +7328,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1765658888
+                "LastUpdate": 1765896355
             }
         ]
     },
