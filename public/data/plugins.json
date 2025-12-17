@@ -827,7 +827,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1765832093
+                "LastUpdate": 1765987001
             },
             {
                 "Author": "veyn, croizat",
@@ -862,7 +862,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1765825291
+                "LastUpdate": 1765981571
             },
             {
                 "Author": "veyn, croizat",
@@ -1375,7 +1375,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1764367749
+                "LastUpdate": 1765993194
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -1384,7 +1384,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1765580026
+                "LastUpdate": 1765992791
             },
             {
                 "Author": "Caraxi",
@@ -1537,18 +1537,18 @@
                 "Name": "PFClassifier",
                 "InternalName": "PFClassifier",
                 "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-                "LastUpdate": 1765370466
+                "LastUpdate": 1765979949
             },
             {
                 "Author": "decorwdyun",
                 "Name": "PFRadar",
                 "InternalName": "PFRadar",
                 "Description": "Crowd-sourced plugin to view what players are inside of a party in PF. Intended for CN use, but works on global.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1765553143,
+                "LastUpdate": 1765982040,
                 "is_closed_source": true
             },
             {
@@ -2021,9 +2021,9 @@
                 "Name": "CharaCradThief",
                 "InternalName": "CharaCradThief",
                 "Description": "Chinese Plugin to export Adventurer Plates to strings, compatible with HaselTweaks Portrait Editor. (Requires registration on their discord server)",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/CharaCradThief",
-                "LastUpdate": 1761155927,
+                "LastUpdate": 1765988812,
                 "is_closed_source": true
             },
             {
@@ -2041,9 +2041,9 @@
                 "Name": "pvpauto",
                 "InternalName": "pvpauto",
                 "Description": "一个简单的绿色插件。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/blob/main/Plugins/latest.zip",
-                "LastUpdate": 1761321098,
+                "LastUpdate": 1765982407,
                 "is_closed_source": true
             }
         ]
@@ -3166,13 +3166,13 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
-                "Author": "JiaXX, Veever",
+                "Author": "JiaXX, Veever, cyf",
                 "Name": "JiaTools",
                 "InternalName": "JiaTools",
                 "Description": "在游戏中显示对象的详细信息，包括玩家、NPC、事件对象等的 EntityID、DataID、位置、旋转、距离、生命值、咏唱信息、状态效果等。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/JiaXX7799/DalamudPlugins",
-                "LastUpdate": 1759855433
+                "LastUpdate": 1765994165
             }
         ]
     },
@@ -3449,7 +3449,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1765963868,
+                "LastUpdate": 1765981896,
                 "is_closed_source": true
             },
             {
@@ -3757,6 +3757,15 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/iVeigar/BAHelper",
                 "LastUpdate": 1764531187
+            },
+            {
+                "Author": "Jukkales",
+                "Name": "HoardFarm",
+                "InternalName": "HoardFarm",
+                "Description": "Plugin to help farming DeepDungeon Hoards (...for you).7.4兼容版，但是懒得维护自动雇员就去掉了",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Jukkales/HoardFarm",
+                "LastUpdate": 1760871468
             },
             {
                 "Author": "Usagi, Latihas",
@@ -4286,7 +4295,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1765580026
+                "LastUpdate": 1765992791
             }
         ]
     },
@@ -4766,7 +4775,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1765973884,
+                "LastUpdate": 1765984005,
                 "is_closed_source": true
             },
             {
@@ -4776,7 +4785,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1765973884,
+                "LastUpdate": 1765984005,
                 "is_closed_source": true
             },
             {
@@ -4786,7 +4795,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1765973884,
+                "LastUpdate": 1765984005,
                 "is_closed_source": true
             },
             {
@@ -4968,18 +4977,9 @@
                 "Name": "FishersIntuition",
                 "InternalName": "FishersIntuition",
                 "Description": "",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Nukoooo/DalamudPlugins",
-                "LastUpdate": 1758619817
-            },
-            {
-                "Author": "Nuko",
-                "Name": "MyPluginsArentCheat",
-                "InternalName": "MyPluginsArentCheat",
-                "Description": "say haiihaii to banned dalamud plugins uwu",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Nukoooo/DalamudPlugins",
-                "LastUpdate": 1758619817
+                "LastUpdate": 1765981598
             },
             {
                 "Author": "Nuko",
@@ -5082,27 +5082,27 @@
                 "Name": "Lala Name",
                 "InternalName": "LalaName",
                 "Description": "Show the gender of all lalafell characters to nameplate.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OkuKatsu/LalaName",
-                "LastUpdate": 1758039047
+                "LastUpdate": 1765985591
             },
             {
                 "Author": "Avaflow, Ars Magna, Kelvin, Oku Katsu",
                 "Name": "Oku Lalafell",
                 "InternalName": "OkuLalafell",
                 "Description": "Turn everyone around you into Lalafells (or other races!)\n/polala on = enable plugin.\n/polala off = disable plugin.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OkuKatsu/OkuLalafell",
-                "LastUpdate": 1758039071
+                "LastUpdate": 1765984892
             },
             {
                 "Author": "Oku Katsu",
                 "Name": "Slice Is Right",
                 "InternalName": "SliceIsRight",
                 "Description": "Darw danger Zone on Gold Saucer Slice Is Right Game.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OkuKatsu/SliceIsRight",
-                "LastUpdate": 1758039030
+                "LastUpdate": 1765985558
             }
         ]
     },
@@ -5162,7 +5162,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1764367749
+                "LastUpdate": 1765993194
             }
         ]
     },
@@ -5206,7 +5206,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1764367749
+                "LastUpdate": 1765993194
             },
             {
                 "Author": "Anna",
@@ -5242,7 +5242,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1765580026
+                "LastUpdate": 1765992791
             },
             {
                 "Author": "Caraxi",
@@ -6840,7 +6840,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1765965393,
+                "LastUpdate": 1765990625,
                 "is_closed_source": true
             }
         ]
@@ -7651,9 +7651,9 @@
                 "Name": "Questionable Plus",
                 "InternalName": "QuestionablePlus",
                 "Description": "Originally created by Liza Carvelli, now maintained and improved by WigglyMuffin and CryoTechnic.\n\nA tiny little quest helper plugin that automates quests where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way.\n\nNot all quests are supported, check Discord for support.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1765404119
+                "LastUpdate": 1765982700
             }
         ]
     },
@@ -7668,9 +7668,9 @@
                 "Name": "Influx",
                 "InternalName": "Influx",
                 "Description": "Created by Liza Carvelli, maintained by WigglyMuffin.\n\nUploads your game statistics (such as quest progress, gil, retainer stats) to an InfluxDB or QuestDB instance, making it possible to automatically track your progress through external tools such as Grafana.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Influx",
-                "LastUpdate": 1765927386
+                "LastUpdate": 1765981811
             },
             {
                 "Author": "MacaronDream",
@@ -7686,9 +7686,9 @@
                 "Name": "Questionable",
                 "InternalName": "Questionable",
                 "Description": "Created by Liza, maintained by WigglyMuffin, CryoTechnic. A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1765404119
+                "LastUpdate": 1765982700
             }
         ]
     },
@@ -7801,7 +7801,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1765580026
+                "LastUpdate": 1765992791
             }
         ]
     },
@@ -7982,7 +7982,7 @@
                 "Name": "BigPlayerDebuffs (汉化)",
                 "InternalName": "BigPlayerDebuffs",
                 "Description": "在目标状态栏放大由你施加的增益/减益图标，便于观察。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/BigPlayerDebuffs",
                 "LastUpdate": 1762636862
             },
@@ -7991,7 +7991,7 @@
                 "Name": "Distance (汉化)",
                 "InternalName": "Distance",
                 "Description": "在游戏内显示到目标/单位的距离，并可显示支持 Boss 的仇恨范围，支持姓名板与多种自定义显示。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/Distance",
                 "LastUpdate": 1758050486
             },
@@ -8000,7 +8000,7 @@
                 "Name": "Enemy List Debuffs (汉化)",
                 "InternalName": "EnemyListDebuffs",
                 "Description": "在仇恨列表显示你的减益图标与倒计时，便于多目标场景追踪 DoT，支持自定义位置、尺寸与颜色。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/EnemyListDebuffs",
                 "LastUpdate": 1762636873
             },
@@ -8009,7 +8009,7 @@
                 "Name": "FF Logs Viewer (汉化)",
                 "InternalName": "FFLogsViewer",
                 "Description": "在游戏内查看 FF Logs 排名百分比，并在右键菜单中打开玩家日志。布局、样式、统计指标和默认度量等可在设置中自定义。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/FFLogsViewer",
                 "LastUpdate": 1762619652
             },
@@ -8018,7 +8018,7 @@
                 "Name": "Flash On Tell (汉化)",
                 "InternalName": "FlashOnTell",
                 "Description": "收到悄悄话时让 FFXIV 窗口在任务栏闪烁，便于切回游戏；当前无设置项。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/Dalamud-FlashOnTellPlugin",
                 "LastUpdate": 1762633968
             },
@@ -8027,7 +8027,7 @@
                 "Name": "Item Vendor Location (汉化)",
                 "InternalName": "ItemVendorLocation",
                 "Description": "为可在商店购买的物品提供售卖位置查询，在物品右键菜单中显示所有可能的商店与坐标，支持聊天命令快速查询。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/ItemVendorLocation",
                 "LastUpdate": 1762630939
             },
@@ -8036,7 +8036,7 @@
                 "Name": "StarlightBreaker (汉化)",
                 "InternalName": "StarlightBreaker",
                 "Description": "国服屏蔽词解除：去除聊天过滤，保持原生交流，支持自定义白名单/黑名单。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/StarlightBreaker",
                 "LastUpdate": 1762623416
             },
@@ -8045,7 +8045,7 @@
                 "Name": "Tilted (汉化)",
                 "InternalName": "Tilted",
                 "Description": "根据条件自动调整第三人称镜头角度与距离，支持战斗/副本/拔刀/骑乘/飞行/镜头靠近等模式。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/TiltedPlugin",
                 "LastUpdate": 1762695061
             },
@@ -8054,7 +8054,7 @@
                 "Name": "Waymark Preset Plugin (汉化)",
                 "InternalName": "WaymarkPresetPlugin",
                 "Description": "保存/编辑/放置/导入/导出与预览无限数量的场标预设，支持与游戏窗口联动",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Infiziert90/WaymarkPresetPlugin",
                 "LastUpdate": 1754526254
             }
