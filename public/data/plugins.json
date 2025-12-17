@@ -660,6 +660,135 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/AtmoOmen/DalamudPlugins",
+        "is_allowed_mega_repo": true,
+        "repo_name": "DalamudPlugins",
+        "repo_developer_name": "AtmoOmen",
+        "plugins": [
+            {
+                "Author": "UnknownX, AtmoOmen",
+                "Name": "A Realm Recorded Lite",
+                "InternalName": "ARealmRecordedLite",
+                "Description": "使用 /record 指令打开配置界面\n如显示相关指令未解锁, 请去摩杜纳第七天堂找异国的诗人完成任务「回顾英雄诗篇」",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/ARealmRecordedLite",
+                "LastUpdate": 1758242614
+            },
+            {
+                "Author": "AtmoOmen",
+                "Name": "Currency Tracker",
+                "InternalName": "CurrencyTracker",
+                "Description": "记录你每一笔货币收支的数额、时间、地点与来源\nTrack every change of your currecies with its Amount, Time, Location and Source",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/CurrencyTracker",
+                "LastUpdate": 1757857628
+            },
+            {
+                "Author": "AtmoOmen",
+                "Name": "Daily Routines (API 12)",
+                "InternalName": "DailyRoutines",
+                "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
+                "LastUpdate": 1765032468,
+                "is_closed_source": true
+            },
+            {
+                "Author": "AtmoOmen",
+                "Name": "Daily Routines (API 13)",
+                "InternalName": "DailyRoutines",
+                "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
+                "LastUpdate": 1765032468,
+                "is_closed_source": true
+            },
+            {
+                "Author": "AtmoOmen",
+                "Name": "Daily Routines",
+                "InternalName": "DailyRoutines",
+                "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
+                "LastUpdate": 1765032468,
+                "is_closed_source": true
+            },
+            {
+                "Author": "goat, AtmoOmen (重写)",
+                "Name": "Character Data Sync X",
+                "InternalName": "Dalamud.CharacterSyncX",
+                "Description": "在插件设置界面选择好主角色后, 自动同步你主角色游戏设置数据至所有角色上\n相比原版: 重写了界面, 提供了明确的主角色设置, 不会再动你的原始数据文件, 而是把非主角色的文件读取重定向至主角色",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/AtmoOmen/Dalamud.CharacterSync",
+                "LastUpdate": 1765942491
+            },
+            {
+                "Author": "Loskh",
+                "Name": "DCTravelerX",
+                "InternalName": "DCTravelerX",
+                "Description": "在选择角色界面, 右键对应角色, 即可进行超域旅行\n需要使用 XIVLauncherCN 启动游戏, 不支持 WeGame 端",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DCTraveler",
+                "LastUpdate": 1765951893
+            },
+            {
+                "Author": "The Combat Reborn Team, AtmoOmen (本地化及国服适配)",
+                "Name": "GatherBuddy Reborn",
+                "InternalName": "GatherbuddyReborn",
+                "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
+                "LastUpdate": 1764687574
+            },
+            {
+                "Author": "Haselnussbomber",
+                "Name": "HaselDebug",
+                "InternalName": "HaselDebug",
+                "Description": "开发者专用",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/AtmoOmen/HaselDebug",
+                "LastUpdate": 1758018135
+            },
+            {
+                "Author": "Raphael",
+                "Name": "Raphael.Dalamud",
+                "InternalName": "Raphael.Dalamud",
+                "Description": "Dalamud Wrapper for Craft Solver Raphael /n Mainly used to provide IPC for other Dalamud plugins",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud",
+                "LastUpdate": 1765958596
+            },
+            {
+                "Author": "AtmoOmen",
+                "Name": "Untarnished Heart",
+                "InternalName": "UntarnishedHeart",
+                "Description": "自动化 T 职副本场次成就刷取工具\n注意: 副本战斗需要自行使用其他插件解决",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/AtmoOmen/UntarnishedHeart",
+                "LastUpdate": 1765952680
+            },
+            {
+                "Author": "ocealot, AtmoOmen (汉化)",
+                "Name": "VFXEditorCN",
+                "InternalName": "VFXEditorCN",
+                "Description": "游戏内视觉效果、动画与音频编辑插件 | 图标来源: PAPACHIN | 本地化维护: AtmoOmen",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/AtmoOmen/VFXEditor-CN",
+                "LastUpdate": 1758711715
+            },
+            {
+                "Author": "veyn, AtmoOmen",
+                "Name": "vnavmesh",
+                "InternalName": "vnavmesh",
+                "Description": "不仅会自动寻路, 还能自动避障",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
+                "LastUpdate": 1765960948
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Atomoxide/DalamudPluginRepo/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Atomoxide/DalamudPluginRepo",
         "plugins": [
@@ -1399,9 +1528,9 @@
                 "Name": "FuckDalamudCN",
                 "InternalName": "FuckDalamudCN",
                 "Description": "（CN Only）如果你的网络环境不能稳定的访问 Github，那么可以试试本插件提供的 Github 加速服务\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
-                "LastUpdate": 1765534403
+                "LastUpdate": 1765958806
             },
             {
                 "Author": "decorwdyun",
@@ -3318,9 +3447,9 @@
                 "Name": "KodakkuAssist",
                 "InternalName": "KodakkuAssist",
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1762259982,
+                "LastUpdate": 1765963868,
                 "is_closed_source": true
             },
             {
@@ -3612,6 +3741,15 @@
         "repo_name": "dalamud-plugins",
         "plugins": [
             {
+                "Author": "Taurenkey (Puni.sh)",
+                "Name": "Artisan",
+                "InternalName": "Artisan",
+                "Description": "The all-in-one crafting plugin.7.4初期紧急使用，无7.4的配方",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/PunishXIV/Artisan",
+                "LastUpdate": 1765644930
+            },
+            {
                 "Author": "iVeigar",
                 "Name": "BAHelper",
                 "InternalName": "BAHelper",
@@ -3625,7 +3763,7 @@
                 "Name": "IINACTEx",
                 "InternalName": "IINACTEx",
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
                 "LastUpdate": 1762934468
             },
@@ -3634,16 +3772,16 @@
                 "Name": "LatihasChocobo",
                 "InternalName": "LatihasChocobo",
                 "Description": "陆行鸟竞赛自动化",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/LatihasChocobo",
-                "LastUpdate": 1762790477
+                "LastUpdate": 1765959394
             },
             {
                 "Author": "Latihas",
                 "Name": "LatihasExport",
                 "InternalName": "LatihasExport",
                 "Description": "自用收集工具",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/LatihasExport",
                 "LastUpdate": 1761371293
             },
@@ -3661,9 +3799,9 @@
                 "Name": "SkyEye",
                 "InternalName": "SkyEye",
                 "Description": "改版SkyEye，原作者0x",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1761792073
+                "LastUpdate": 1765958309
             }
         ]
     },
@@ -4424,9 +4562,9 @@
                 "Name": "Lifestream",
                 "InternalName": "Lifestream",
                 "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1765924041
+                "LastUpdate": 1765957100
             },
             {
                 "Author": "NightmareXIV",
@@ -4478,9 +4616,9 @@
                 "Name": "TextAdvance",
                 "InternalName": "TextAdvance",
                 "Description": "",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
-                "LastUpdate": 1763851346
+                "LastUpdate": 1765958841
             },
             {
                 "Author": "NightmareXIV",
@@ -4628,17 +4766,27 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1765041144,
+                "LastUpdate": 1765973884,
                 "is_closed_source": true
             },
             {
                 "Author": "NiGuangOwO, Small_Miao (moewcorp)",
-                "Name": "NyaDraw",
+                "Name": "NyaDraw (API13)",
                 "InternalName": "NyaDraw",
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1765041144,
+                "LastUpdate": 1765973884,
+                "is_closed_source": true
+            },
+            {
+                "Author": "NiGuangOwO / Small_Miao",
+                "Name": "NyaDraw",
+                "InternalName": "NyaDraw",
+                "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
+                "LastUpdate": 1765973884,
                 "is_closed_source": true
             },
             {
@@ -5576,9 +5724,9 @@
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1765566757
+                "LastUpdate": 1765957198
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -5632,7 +5780,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1765838982
+                "LastUpdate": 1765964409
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5648,9 +5796,9 @@
                 "Name": "Splatoon",
                 "InternalName": "Splatoon",
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1765123903
+                "LastUpdate": 1765957555
             },
             {
                 "Author": "Team Wrath",
@@ -6623,7 +6771,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1765123903
+                "LastUpdate": 1765957555
             }
         ]
     },
@@ -6692,7 +6840,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1765949231,
+                "LastUpdate": 1765965393,
                 "is_closed_source": true
             }
         ]
@@ -7783,36 +7931,9 @@
                 "Name": "Blind Box",
                 "InternalName": "BlindBoxPlugin",
                 "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/yimo0908/FFXIVBlindBoxPlugin",
-                "LastUpdate": 1760714645
-            },
-            {
-                "Author": "Seventh",
-                "Name": "Collections",
-                "InternalName": "Collections",
-                "Description": "Collections 提供了一种跟踪、发现和与游戏中的收藏互动的界面。\n 与幻化系统（预览、创建套装）集成。\n 支持：幻化、坐骑、宠物、情感动作、发型、幻卡、青魔法、鸟甲、肖像教材、乐谱、套装、时尚配饰、眼镜。",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/yimo0908/Collections",
-                "LastUpdate": 1759413351
-            },
-            {
-                "Author": "Caraxi, maintained & updated by Khayle, localization by Yimo",
-                "Name": "ItemSearchPlugin",
-                "InternalName": "ItemSearchPlugin",
-                "Description": "Filterable search for Items and Key Items.\nTry on any item without having to find someone to link it.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/yimo0908/ItemSearchPlugin",
-                "LastUpdate": 1761115253
-            },
-            {
-                "Author": "SaMo, 穷孩子(适配/汉化)",
-                "Name": "Map Party Assist",
-                "InternalName": "MapPartyAssist",
-                "Description": "用于记录队员开启的藏宝图，并统计地图与地宫相关数据的工具。",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/QiongHHHZZZ/MapPartyAssist",
-                "LastUpdate": 1760423901
+                "LastUpdate": 1765972636
             },
             {
                 "Author": "MidoriKami, translated by cyf5119 & Yimo",
@@ -7830,7 +7951,7 @@
                 "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，但数据读取依旧不稳定）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
-                "LastUpdate": 1763650947
+                "LastUpdate": 1765973304
             }
         ]
     },
