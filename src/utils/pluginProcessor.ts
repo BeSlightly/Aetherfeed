@@ -5,6 +5,8 @@ export interface ProcessedPlugin extends Plugin {
     plugin_api_levels_array: number[];
     plugin_last_updated_max_ts: number;
     is_closed_source?: boolean;
+    isPunish?: boolean;
+    discordUrl?: string;
     _apiLevel?: number;
     _maxApiLevel?: number;
     _searchMeta: {
@@ -21,7 +23,16 @@ interface IntermediatePluginOccurrence {
     _allApiLevelsFromRepo: number[];
     _maxApiLevel: number;
     _maxLastUpdateTimestampInGroup: number;
+    _globalDiscordUrl?: string;
 }
+
+const isPunishRepo = (url: string) => {
+    if (!url) return false;
+    return (
+        url.startsWith("https://puni.sh/api/repository/") ||
+        url.startsWith("https://love.puni.sh/")
+    );
+};
 
 export const normalizeForSearch = (text: string): string => {
     if (!text) return "";
@@ -59,6 +70,15 @@ export const processPlugins = (
     // 2. Deduplicate by Developer
     for (const [, occurrences] of pluginsGroupedByIdentifier.entries()) {
         const occurrencesByDeveloper = new Map<string, typeof occurrences>();
+
+        // Metadata Aggregation: Check if any occurrence has a Discord URL
+        let foundDiscordUrl: string | undefined;
+        for (const occ of occurrences) {
+            if (occ.repoData.repo_discord_url) {
+                foundDiscordUrl = occ.repoData.repo_discord_url;
+                break; // Found one, good enough
+            }
+        }
 
         for (const occ of occurrences) {
             const devIdentifier =
@@ -106,7 +126,8 @@ export const processPlugins = (
                     repoData: bestOccurrence.repoData,
                     _allApiLevelsFromRepo: allApiLevelsArray,
                     _maxApiLevel: allApiLevelsArray[0] || 0,
-                    _maxLastUpdateTimestampInGroup: maxLastUpdate
+                    _maxLastUpdateTimestampInGroup: maxLastUpdate,
+                    _globalDiscordUrl: foundDiscordUrl
                 });
             }
         }
@@ -166,11 +187,27 @@ function createFinalPluginObject(occurrence: IntermediatePluginOccurrence): Proc
     finalPlugin._maxApiLevel = occurrence._maxApiLevel || finalPlugin.plugin_api_levels_array[0] || 0;
     finalPlugin.plugin_last_updated_max_ts = occurrence._maxLastUpdateTimestampInGroup;
 
+    const repoUrl = finalPlugin._repo.repo_url || "";
+
+    // ---------------------------------------------------------
+    // Developer & Branding Detection
+    // ---------------------------------------------------------
+
+    // 1. Check for Punish
+    finalPlugin.isPunish = isPunishRepo(repoUrl);
+
+    // 2. Assign Discord URL
+    if (finalPlugin.isPunish) {
+        finalPlugin.discordUrl = "https://discord.gg/Zzrcc8kmvy";
+    } else {
+        finalPlugin.discordUrl = occurrence._globalDiscordUrl;
+    }
+
     finalPlugin._searchMeta = {
         name: normalizeForSearch(finalPlugin.Name || finalPlugin.InternalName),
         description: normalizeForSearch(finalPlugin.Description),
         author: normalizeForSearch(finalPlugin.Author),
-        repo: normalizeForSearch(finalPlugin._repo.repo_name)
+        repo: normalizeForSearch(finalPlugin._repo.repo_name + (finalPlugin.isPunish ? " punish puni.sh" : ""))
     };
 
     return finalPlugin;

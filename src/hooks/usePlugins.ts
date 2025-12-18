@@ -18,6 +18,7 @@ export interface Repo {
     repo_url: string;
     repo_developer_name?: string;
     repo_source_url?: string;
+    repo_discord_url?: string;
     plugins: Plugin[];
 }
 
