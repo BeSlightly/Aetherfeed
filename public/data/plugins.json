@@ -71,16 +71,16 @@
                 "Name": "HousingPos",
                 "InternalName": "HousingPos",
                 "Description": "Automatically save/load the positions of housing furnitures.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Abyeon/HousingPos",
-                "LastUpdate": 1762390362
+                "LastUpdate": 1766041759
             },
             {
                 "Author": "Abyeon",
                 "Name": "WrongWarpFinder",
                 "InternalName": "WrongWarpFinder",
                 "Description": "A quick plugin to find Wrong Warps using Racingway rendering tools.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Abyeon/WrongWarpFinder",
                 "LastUpdate": 1766037181
             }
@@ -200,45 +200,45 @@
                 "Name": "Auto Login",
                 "InternalName": "AutoLogin",
                 "Description": "Automatically logs you into a specified character when the game first opens.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins/tree/main/AutoLogin",
-                "LastUpdate": 1754701285
+                "LastUpdate": 1766039669
             },
             {
                 "Author": "Aida Enna",
                 "Name": "Auto Pillion",
                 "InternalName": "AutoPillion",
                 "Description": "When a party member gets on a mount that supports more than 1 person and is close enough, you will automatically get on.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- You may need to right click on the driver once each time you start the game before the plugin will automount their mount. A fix is being investigated.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins/tree/main/AutoPillion",
-                "LastUpdate": 1754702659
+                "LastUpdate": 1766039669
             },
             {
                 "Author": "Aida Enna",
                 "Name": "Food Check",
                 "InternalName": "FoodCheck",
                 "Description": "See who is missing food buff at countdown start and optionally post to party/echo chat with a customizable message.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins/tree/main/FoodCheck",
-                "LastUpdate": 1754733953
+                "LastUpdate": 1766041234
             },
             {
                 "Author": "Aida Enna",
                 "Name": "Macro Chain Redux",
                 "InternalName": "MacroChainRedux",
                 "Description": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.\nAdding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02\nAdding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using '/runmacro'\nYou can repeat a macro by using /runmacro inside the macro followed by the number of the macro you're editing\nUsing '/macrocancel' will stop the currently running macro",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins/tree/main/MacroChainRedux",
-                "LastUpdate": 1754702066
+                "LastUpdate": 1766039669
             },
             {
                 "Author": "Aida Enna",
                 "Name": "Portrait Fixer",
                 "InternalName": "PortraitFixer",
                 "Description": "When you click \"Update Gear Set\", this plugin will automatically update and save your portait to match your new glam.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- Rarely, a glitched desynth window will pop up when saving the gearset instead of it saving the portait. This is being investigated, closing the window and swapping classes seems to fix it.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins/tree/main/PortaitFixer",
-                "LastUpdate": 1754701609
+                "LastUpdate": 1766039669
             }
         ]
     },
@@ -541,9 +541,9 @@
                 "Name": "Bypass Emote",
                 "InternalName": "BypassEmote",
                 "Description": "A simple plugin that lets you play any game emote, whether you unlocked it or not.\nClient side only.\nJust type the emote command as you would normally.\nWorks with custom animations and syncable over Mare.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
-                "LastUpdate": 1764939889
+                "LastUpdate": 1766049416
             }
         ]
     },
@@ -844,7 +844,7 @@
                 "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/vfaux",
-                "LastUpdate": 1761902197
+                "LastUpdate": 1766059902
             },
             {
                 "Author": "veyn, croizat",
@@ -853,7 +853,7 @@
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1754783775
+                "LastUpdate": 1766061144
             },
             {
                 "Author": "veyn, xan_0",
@@ -871,7 +871,7 @@
                 "Description": "Make custom deliveries less annoying by automating the process.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
-                "LastUpdate": 1762934509
+                "LastUpdate": 1766047582
             }
         ]
     },
@@ -1357,7 +1357,7 @@
                 "Description": "Control actors during GPose sessions. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1766038294
+                "LastUpdate": 1766039782
             },
             {
                 "Author": "Risa",
@@ -1539,7 +1539,7 @@
                 "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-                "LastUpdate": 1765979949
+                "LastUpdate": 1766046638
             },
             {
                 "Author": "decorwdyun",
@@ -1558,7 +1558,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1765039347
+                "LastUpdate": 1766058310
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -1576,7 +1576,7 @@
                 "Description": "通过自动化流程减少老主顾交付的烦恼。\n 所需插件：vnavmesh, Artisan",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
-                "LastUpdate": 1762934509
+                "LastUpdate": 1766047582
             }
         ]
     },
@@ -1592,7 +1592,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1764783962
+                "LastUpdate": 1766059498
             }
         ],
         "repo_developer_name": "Det"
@@ -2061,7 +2061,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1766038294
+                "LastUpdate": 1766039782
             }
         ]
     },
@@ -2078,7 +2078,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1766038294
+                "LastUpdate": 1766039782
             }
         ]
     },
@@ -2505,7 +2505,7 @@
                 "InternalName": "HypnotoadPlugin",
                 "Description": "LightAmp companion for enhanced functionality.",
                 "RepoUrl": "https://github.com//GiR-Zippo/Hypnotoad-Plugin",
-                "LastUpdate": 1757269179
+                "LastUpdate": 1766053399
             }
         ]
     },
@@ -2659,7 +2659,7 @@
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1754783775
+                "LastUpdate": 1766061144
             }
         ]
     },
@@ -2872,7 +2872,7 @@
                 "Description": "這是一款可防止玩家因閒置而被自動踢出《Final Fantasy XIV》的 Dalamud 插件。安裝後即可使用，無需任何設定，輕鬆無負擔。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
-                "LastUpdate": 1765896312
+                "LastUpdate": 1766041206
             },
             {
                 "Author": "Usagi",
@@ -2975,7 +2975,7 @@
                 "Description": "在集体动作模式中控制参与的角色。",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1766038294
+                "LastUpdate": 1766039782
             }
         ]
     },
@@ -3066,7 +3066,7 @@
                 "Description": "A plugin to free your hands and mind in Baldesion Arsenal\n\n - Auto-cast Protect/Shell L\n - One-click to send useful message\n - Draw the traps",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/iVeigar/BAHelper",
-                "LastUpdate": 1764531187
+                "LastUpdate": 1766043654
             },
             {
                 "Author": "iVeigar",
@@ -3075,7 +3075,7 @@
                 "Description": "绘制楼层地形轮廓, 并标出附近游戏对象",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/iVeigar/DeepDungeonRadar",
-                "LastUpdate": 1765711321
+                "LastUpdate": 1766054541
             },
             {
                 "Author": "apetih, iVeigar(汉化+增强)",
@@ -3093,7 +3093,7 @@
                 "Description": "深宫助手，显示怪物仇恨类型、引战范围和其他东西。亲友自用，不保证及时更新",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/iVeigar/NecroLens",
-                "LastUpdate": 1765037513
+                "LastUpdate": 1766056270
             }
         ],
         "repo_name": "MyDalamudPlugins",
@@ -3155,7 +3155,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1764369868
+                "LastUpdate": 1766061203
             }
         ]
     },
@@ -3677,7 +3677,7 @@
                 "Name": "Henchman",
                 "InternalName": "Henchman",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
                 "LastUpdate": 1765385155
             }
@@ -3741,22 +3741,13 @@
         "repo_name": "dalamud-plugins",
         "plugins": [
             {
-                "Author": "Taurenkey (Puni.sh)",
-                "Name": "Artisan",
-                "InternalName": "Artisan",
-                "Description": "The all-in-one crafting plugin.7.4初期紧急使用，无7.4的配方",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1766038444
-            },
-            {
                 "Author": "iVeigar",
                 "Name": "BAHelper",
                 "InternalName": "BAHelper",
                 "Description": "这是一个兵武塔的辅助插件，有一些实用功能\n\n - 自动上盾\n - 绘制陷阱\n - 全局人员监控\n 以及一些魔改小功能",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/iVeigar/BAHelper",
-                "LastUpdate": 1764531187
+                "LastUpdate": 1766043654
             },
             {
                 "Author": "Jukkales",
@@ -3827,7 +3818,7 @@
                 "Description": "一个在类ACT环境中运行FFXIV_ACT_Plugin的插件，包含为现代.NET重写的Overlay Plugin",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/MeowZWR/IINACT",
-                "LastUpdate": 1762259014
+                "LastUpdate": 1766051606
             }
         ]
     },
@@ -3998,7 +3989,7 @@
                 "Description": "Plugin to display ACT combat log data.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/lichie567/LMeter",
-                "LastUpdate": 1754534796
+                "LastUpdate": 1766060068
             }
         ]
     },
@@ -4244,7 +4235,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1766038294
+                "LastUpdate": 1766039782
             }
         ]
     },
@@ -4535,9 +4526,9 @@
                 "Name": "DSR Toolbox",
                 "InternalName": "DSREyeLocator",
                 "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NightmareXIV/DSREyeLocator",
-                "LastUpdate": 1759852871
+                "LastUpdate": 1766039691
             },
             {
                 "Author": "NightmareXIV, AsunaTsuki",
@@ -4598,9 +4589,9 @@
                 "Name": "SelectString",
                 "InternalName": "SelectString",
                 "Description": "Numpad is also supported.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NightmareXIV/SelectString",
-                "LastUpdate": 1766039228
+                "LastUpdate": 1766039495
             },
             {
                 "Author": "NightmareXIV",
@@ -4676,12 +4667,22 @@
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
-                "Name": "Bossmod Reborn",
+                "Name": "Bossmod Reborn (API13)",
                 "InternalName": "BossModReborn",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1762863814,
+                "LastUpdate": 1766059623,
+                "is_closed_source": true
+            },
+            {
+                "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
+                "Name": "Bossmod Reborn",
+                "InternalName": "BossModReborn",
+                "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
+                "LastUpdate": 1766059623,
                 "is_closed_source": true
             },
             {
@@ -4691,7 +4692,17 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1765040098,
+                "LastUpdate": 1766057943,
+                "is_closed_source": true
+            },
+            {
+                "Author": "NiGuangOwO",
+                "Name": "FuckAnimationLock (API13)",
+                "InternalName": "FuckAnimationLock",
+                "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
+                "LastUpdate": 1766057943,
                 "is_closed_source": true
             },
             {
@@ -4699,9 +4710,9 @@
                 "Name": "FuckAnimationLock",
                 "InternalName": "FuckAnimationLock",
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1765040098,
+                "LastUpdate": 1766057943,
                 "is_closed_source": true
             },
             {
@@ -4841,7 +4852,7 @@
                 "Description": "简单的播报SS前置小怪的小工具",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/SSMinionBoradcast",
-                "LastUpdate": 1758034205
+                "LastUpdate": 1766060978
             }
         ]
     },
@@ -5007,7 +5018,7 @@
                 "Description": "Plugin to display ACT combat log data.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/lichie567/LMeter",
-                "LastUpdate": 1754534796
+                "LastUpdate": 1766060068
             }
         ]
     },
@@ -5058,16 +5069,16 @@
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1765105744
+                "LastUpdate": 1766050869
             },
             {
                 "Author": "Faye",
                 "Name": "Twist Of Fayte",
                 "InternalName": "TwistOfFayte",
                 "Description": "You met with a terrible Fate. Haven't you?",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OhKannaDuh/TwistOfFayte",
-                "LastUpdate": 1764837314
+                "LastUpdate": 1766051311
             }
         ]
     },
@@ -5134,7 +5145,7 @@
                 "Name": "John Finalfantasy",
                 "InternalName": "JohnFinalfantasy",
                 "Description": "A plugin that replaces the names of players in your party with preset names. Based on Nomina Occulta by anna.lgbt.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OTCompa/john-finalfantasy",
                 "LastUpdate": 1766039094
             },
@@ -5143,9 +5154,9 @@
                 "Name": "Voiced Nael Quotes",
                 "InternalName": "VoicedNaelQuotes",
                 "Description": "Voice acted Nael quotes in The Unending Coil of Bahamut.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OTCompa/VoicedNaelQuotes",
-                "LastUpdate": 1765652980
+                "LastUpdate": 1766040400
             }
         ]
     },
@@ -5179,7 +5190,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1766038294
+                "LastUpdate": 1766039782
             },
             {
                 "Author": "Risa and Contributors",
@@ -5412,6 +5423,59 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PassiveModding/XIVSplits",
                 "LastUpdate": 1763845122
+            }
+        ]
+    },
+    {
+        "repo_source_url": "https://github.comlnjanos/peepingtim",
+        "repo_url": "https://raw.githubusercontent.com/lnjanos/peepingtim/refs/heads/master/SamplePlugin/yuck.json",
+        "repo_developer_name": "peepingtim",
+        "repo_name": "yuck",
+        "plugins": [
+            {
+                "Author": "kcuY",
+                "Name": "AdRunner",
+                "InternalName": "AdRunner",
+                "Description": "Automatically runs your Ads.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/lnjanos/adrunner/",
+                "LastUpdate": 1738863468
+            },
+            {
+                "Author": "kcuY",
+                "Name": "CrystalSync",
+                "InternalName": "CrystalSync",
+                "Description": "Chat via Discord.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/lnjanos/crystalsync/",
+                "LastUpdate": 1734135773
+            },
+            {
+                "Author": "kcuY",
+                "Name": "Dancy",
+                "InternalName": "Dancy",
+                "Description": "Change Emotes in Penumbra Mods.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/lnjanos",
+                "LastUpdate": 1733780713
+            },
+            {
+                "Author": "kcuY",
+                "Name": "Peeping Tim",
+                "InternalName": "PeepingTim",
+                "Description": "Just a different Version of Peeping Tom",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/lnjanos/peepingtim",
+                "LastUpdate": 1766048644
+            },
+            {
+                "Author": "kcuY",
+                "Name": "Soundy",
+                "InternalName": "Soundy",
+                "Description": "Youtube Music Import for Penumbra.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/lnjanos",
+                "LastUpdate": 1733780713
             }
         ]
     },
@@ -5717,7 +5781,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1764783962
+                "LastUpdate": 1766059498
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -5816,7 +5880,7 @@
                 "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-                "LastUpdate": 1763283883
+                "LastUpdate": 1766053909
             }
         ],
         "repo_developer_name": "Puni.sh Team"
@@ -5890,9 +5954,9 @@
                 "Name": "BlackjackSolver",
                 "InternalName": "BlackjackSolver",
                 "Description": "A simple blackjack solver that tells you the best move to make, helps you with bets and customize your calls.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RaidenvBlack/RaidenvPlugins",
-                "LastUpdate": 1755727153,
+                "LastUpdate": 1766052293,
                 "is_closed_source": true
             },
             {
@@ -5910,9 +5974,9 @@
                 "Name": "EasyProfitGamble",
                 "InternalName": "GamblePyon",
                 "Description": "Helper plugin for Blackjack",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RaidenvBlack/RaidenvPlugins",
-                "LastUpdate": 1755727153,
+                "LastUpdate": 1766052293,
                 "is_closed_source": true
             },
             {
@@ -5920,9 +5984,9 @@
                 "Name": "LazyKindness",
                 "InternalName": "LazyKindness",
                 "Description": "Answers for you on hello, gg and Good Night messages! Highly customizable!",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RaidenvBlack/RaidenvPlugins",
-                "LastUpdate": 1755727153,
+                "LastUpdate": 1766052293,
                 "is_closed_source": true
             },
             {
@@ -5930,9 +5994,9 @@
                 "Name": "ZeroTweaks",
                 "InternalName": "ZeroTweaks",
                 "Description": "Tweaks that are already working: Loot Roll Tracker, ChatGPT, Mare switcher",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RaidenvBlack/RaidenvPlugins",
-                "LastUpdate": 1755727153,
+                "LastUpdate": 1766052293,
                 "is_closed_source": true
             }
         ],
@@ -6451,45 +6515,45 @@
                 "Name": "Auto Login",
                 "InternalName": "AutoLogin",
                 "Description": "Automatically logs you into a specified character when the game first opens.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1763694395
+                "LastUpdate": 1766041965
             },
             {
                 "Author": "Aida Enna",
                 "Name": "Auto Pillion",
                 "InternalName": "AutoPillion",
                 "Description": "When a party member gets on a mount that supports more than 1 person and is close enough, you will automatically get on.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- You may need to right click on the driver once each time you start the game before the plugin will automount their mount. A fix is being investigated.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1763694395
+                "LastUpdate": 1766041965
             },
             {
                 "Author": "Aida Enna",
                 "Name": "Food Check",
                 "InternalName": "FoodCheck",
                 "Description": "See who is missing food buff at countdown start and optionally post to party/echo chat with a customizable message.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1763694395
+                "LastUpdate": 1766041965
             },
             {
                 "Author": "Aida Enna",
                 "Name": "Macro Chain Redux",
                 "InternalName": "MacroChainRedux",
                 "Description": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.\nAdding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02\nAdding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using '/runmacro'\nYou can repeat a macro by using /runmacro inside the macro followed by the number of the macro you're editing\nUsing '/macrocancel' will stop the currently running macro",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1763694395
+                "LastUpdate": 1766041965
             },
             {
                 "Author": "Aida Enna",
                 "Name": "Portrait Fixer",
                 "InternalName": "PortraitFixer",
                 "Description": "When you click \"Update Gear Set\", this plugin will automatically update and save your portait to match your new glam.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- Rarely, a glitched desynth window will pop up when saving the gearset instead of it saving the portait. This is being investigated, closing the window and swapping classes seems to fix it.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1763694395
+                "LastUpdate": 1766041965
             }
         ]
     },
@@ -6600,7 +6664,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1766038294
+                "LastUpdate": 1766039782
             }
         ]
     },
@@ -6937,7 +7001,7 @@
                 "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
-                "LastUpdate": 1754593548
+                "LastUpdate": 1766040103
             }
         ]
     },
@@ -7107,7 +7171,7 @@
                 "Description": "Everything-including-the-kitchen-sink plugin with extra scales.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/taco1932/test",
-                "LastUpdate": 1755220371
+                "LastUpdate": 1766049621
             }
         ]
     },
@@ -7366,7 +7430,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1766031989
+                "LastUpdate": 1766044847
             }
         ]
     },
@@ -7884,9 +7948,9 @@
                 "Name": "Gag Plugin",
                 "InternalName": "GagPlugin",
                 "Description": "Gag a player - Intended to be used with Puppetmaster.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Yhumi/GagPlugin",
-                "LastUpdate": 1765708005
+                "LastUpdate": 1766053617
             },
             {
                 "Author": "Yhumi",
@@ -7904,16 +7968,16 @@
                 "Description": "Show UCoB clears on adventure place. /ucobclears for settings.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Yhumi/ucob-clears",
-                "LastUpdate": 1746572327
+                "LastUpdate": 1766049827
             },
             {
-                "Author": "Yhumi",
+                "Author": "Yhumi (w/ Vivian)",
                 "Name": "UCoB Neurolink Scoring",
                 "InternalName": "UcobNeuroScoring",
                 "Description": "Score your neurolink placement in UCoB! /ucobscoring for settings.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Yhumi/UcobNeuroScoring",
-                "LastUpdate": 1764622812
+                "LastUpdate": 1766052589
             }
         ],
         "repo_source_url": "https://github.com/Yhumi/Plogons",
@@ -8073,7 +8137,7 @@
                 "Description": "For when you want to know how much you spend/earn in ffxiv!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/yschuurmans/FFXIVMoneyTracker",
-                "LastUpdate": 1754587693
+                "LastUpdate": 1766053212
             }
         ]
     },
