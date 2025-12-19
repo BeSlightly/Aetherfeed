@@ -561,7 +561,7 @@
                 "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1765929356
+                "LastUpdate": 1766167106
             }
         ]
     },
@@ -860,7 +860,7 @@
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
                 "LastUpdate": 1765987001
             },
@@ -895,7 +895,7 @@
                 "Name": "vnavmesh",
                 "InternalName": "vnavmesh",
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
                 "LastUpdate": 1765981571
             },
@@ -1213,7 +1213,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1766016941
+                "LastUpdate": 1766156531
             },
             {
                 "Author": "Caraxi",
@@ -1265,7 +1265,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1765622959
+                "LastUpdate": 1766159863
             }
         ]
     },
@@ -1281,7 +1281,7 @@
                 "InternalName": "Marketbuddy",
                 "Description": "Helper for your day-to-day market operations.",
                 "RepoUrl": "https://github.com/chalkos/Marketbuddy",
-                "LastUpdate": 1754592153
+                "LastUpdate": 1766161002
             }
         ]
     },
@@ -1410,7 +1410,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1766104039
+                "LastUpdate": 1766150203
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -1419,7 +1419,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1766103186
+                "LastUpdate": 1766154703
             },
             {
                 "Author": "Caraxi",
@@ -1443,27 +1443,27 @@
                 "Name": "Duty Announcer",
                 "InternalName": "DutyAnnouncer",
                 "Description": "Announces the name of the loading duty roulette",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Cyenia/DutyAnnouncer",
-                "LastUpdate": 1754599857
+                "LastUpdate": 1766155206
             },
             {
                 "Author": "Cyenia",
                 "Name": "Macro Chaining",
                 "InternalName": "MacroChaining",
                 "Description": "Run multiple macros one after the another. Even in a loop.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Cyenia/MacroChaining",
-                "LastUpdate": 1754599700
+                "LastUpdate": 1766155221
             },
             {
                 "Author": "Cyenia",
                 "Name": "Spiritbond Watcher",
                 "InternalName": "SpiritbondWatcher",
                 "Description": "Tells you when to extract materia when you're actually paying attention.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Cyenia/SpiritbondWatcher",
-                "LastUpdate": 1754599277
+                "LastUpdate": 1766156438
             }
         ]
     },
@@ -1609,7 +1609,7 @@
                 "Name": "Satisfier",
                 "InternalName": "vsatisfy",
                 "Description": "通过自动化流程减少老主顾交付的烦恼。\n 所需插件：vnavmesh, Artisan",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
                 "LastUpdate": 1766061930
             }
@@ -1627,7 +1627,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1766147403
+                "LastUpdate": 1766147749
             }
         ],
         "repo_developer_name": "Det"
@@ -1789,9 +1789,9 @@
                 "Name": "AetherVoice",
                 "InternalName": "AetherVoice",
                 "Description": "Provides TTS or custom sound file callouts for Nael deus Darnus quotes in UCOB. Also supports custom chat triggers with personalized TTS responses or sound files for any content.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Dregan234/AetherVoice",
-                "LastUpdate": 1765739817
+                "LastUpdate": 1766165944
             }
         ]
     },
@@ -1826,7 +1826,7 @@
                 "Description": "A plugin that targets the player that's talking to you, it shifts your target to the last message received, if you want to monitor that chat",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/echodetla/ffxiv-look-at-me",
-                "LastUpdate": 1766144365
+                "LastUpdate": 1766163228
             }
         ]
     },
@@ -2290,9 +2290,9 @@
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1765828694
+                "LastUpdate": 1766167363
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2857,7 +2857,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1766110732
+                "LastUpdate": 1766152657
             },
             {
                 "Author": "Haselnussbomber",
@@ -2909,7 +2909,7 @@
                 "Description": "這是一款可防止玩家因閒置而被自動踢出《Final Fantasy XIV》的 Dalamud 插件。安裝後即可使用，無需任何設定，輕鬆無負擔。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
-                "LastUpdate": 1766138697
+                "LastUpdate": 1766161674
             },
             {
                 "Author": "Usagi",
@@ -2918,7 +2918,7 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1766146565
+                "LastUpdate": 1766151116
             }
         ]
     },
@@ -3486,7 +3486,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1766120690,
+                "LastUpdate": 1766156965,
                 "is_closed_source": true
             },
             {
@@ -3733,7 +3733,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1765622959
+                "LastUpdate": 1766159863
             }
         ]
     },
@@ -3768,7 +3768,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1766076185
+                "LastUpdate": 1766154851
             }
         ]
     },
@@ -3803,7 +3803,7 @@
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1766146565
+                "LastUpdate": 1766151116
             },
             {
                 "Author": "Latihas",
@@ -3840,23 +3840,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
                 "LastUpdate": 1765958309
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Latihas",
-        "repo_url": "https://raw.githubusercontent.com/Latihas/IINACTEx/cn/repo.json",
-        "repo_source_url": "https://github.com/Latihas/IINACTEx",
-        "repo_name": "IINACTEx",
-        "plugins": [
-            {
-                "Author": "Usagi",
-                "Name": "IINACT",
-                "InternalName": "IINACT",
-                "Description": "一个在类ACT环境中运行FFXIV_ACT_Plugin的插件，包含为现代.NET重写的Overlay Plugin",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/MeowZWR/IINACT",
-                "LastUpdate": 1766051606
             }
         ]
     },
@@ -4043,7 +4026,7 @@
                 "Name": "Lightless Sync",
                 "InternalName": "LightlessSync",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
                 "LastUpdate": 1762978240
             }
@@ -4093,9 +4076,9 @@
                 "Name": "Auto Jail Marker",
                 "InternalName": "AutoJailMarker",
                 "Description": "A scuffed uwu jail auto marker",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
-                "LastUpdate": 1758731929
+                "LastUpdate": 1766150589
             }
         ]
     },
@@ -4171,9 +4154,9 @@
                 "Name": "IINACT",
                 "InternalName": "IINACT",
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1766146565
+                "LastUpdate": 1766151116
             }
         ]
     },
@@ -4325,7 +4308,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1766103186
+                "LastUpdate": 1766154703
             }
         ]
     },
@@ -4452,9 +4435,9 @@
                 "Name": "Crystal Terror",
                 "InternalName": "CrystalTerror",
                 "Description": "A plugin to track crystal across your FFXIV account.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
-                "LastUpdate": 1765784315
+                "LastUpdate": 1766161612
             }
         ]
     },
@@ -4697,12 +4680,21 @@
             },
             {
                 "Author": "Faye / NiGuangOwO (适配&优化) / Ookura-Risona (汉化)",
-                "Name": "Better Occult Crescent & Chest Helper Interface",
+                "Name": "Better Occult Crescent & Chest Helper Interface (API13)",
                 "InternalName": "BOCCHI",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/OccultCrescentHelper",
-                "LastUpdate": 1766072550
+                "LastUpdate": 1766156911
+            },
+            {
+                "Author": "Faye / NiGuangOwO (适配&优化) / Ookura-Risona (汉化)",
+                "Name": "Better Occult Crescent & Chest Helper Interface",
+                "InternalName": "BOCCHI",
+                "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NiGuangOwO/OccultCrescentHelper",
+                "LastUpdate": 1766156911
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
@@ -4765,10 +4757,19 @@
             },
             {
                 "Author": "Bluefissure",
-                "Name": "Inviter",
+                "Name": "Inviter (API13)",
                 "InternalName": "Inviter",
                 "Description": "Automatically invite people to your party (doesn't work for CWLS). /xinvite to open.",
                 "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Bluefissure/Inviter",
+                "LastUpdate": 1755479006
+            },
+            {
+                "Author": "Bluefissure",
+                "Name": "Inviter",
+                "InternalName": "Inviter",
+                "Description": "Automatically invite people to your party (doesn't work for CWLS). /xinvite to open.",
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Bluefissure/Inviter",
                 "LastUpdate": 1755479006
             },
@@ -4779,16 +4780,25 @@
                 "Description": "带有各种参数的Roll点命令 need | greed | pass\n聊天和Toast输出以及Roll点延迟。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/LazyLoot",
-                "LastUpdate": 1758031173
+                "LastUpdate": 1766150429
+            },
+            {
+                "Author": "53m1k0l0n/Gidedin (Puni.sh) / NiGuangOwO (本地化)",
+                "Name": "LazyLoot (API13)",
+                "InternalName": "LazyLoot",
+                "Description": "带有各种参数的Roll点命令 need | greed | pass\n聊天和Toast输出以及Roll点延迟。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NiGuangOwO/LazyLoot",
+                "LastUpdate": 1766150429
             },
             {
                 "Author": "53m1k0l0n/Gidedin (Puni.sh) / NiGuangOwO (本地化)",
                 "Name": "LazyLoot",
                 "InternalName": "LazyLoot",
                 "Description": "带有各种参数的Roll点命令 need | greed | pass\n聊天和Toast输出以及Roll点延迟。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/LazyLoot",
-                "LastUpdate": 1758031173
+                "LastUpdate": 1766150429
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -5207,6 +5217,15 @@
                 "LastUpdate": 1766039094
             },
             {
+                "Author": "UnknownX",
+                "Name": "NoClippy",
+                "InternalName": "NoClippy",
+                "Description": "(Frey's repo) Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+                "LastUpdate": 1754723684
+            },
+            {
                 "Author": "Frey",
                 "Name": "Voiced Nael Quotes",
                 "InternalName": "VoicedNaelQuotes",
@@ -5228,9 +5247,9 @@
                 "Name": "Glamourer",
                 "InternalName": "Glamourer",
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1766104039
+                "LastUpdate": 1766150203
             }
         ]
     },
@@ -5272,9 +5291,9 @@
                 "Name": "Glamourer",
                 "InternalName": "Glamourer",
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1766104039
+                "LastUpdate": 1766150203
             },
             {
                 "Author": "Anna",
@@ -5292,7 +5311,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1765622959
+                "LastUpdate": 1766159863
             },
             {
                 "Author": "kawaii, Glyceri",
@@ -5310,7 +5329,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1766103186
+                "LastUpdate": 1766154703
             },
             {
                 "Author": "Caraxi",
@@ -5699,9 +5718,9 @@
                 "Name": "KtisisPyon",
                 "InternalName": "KtisisPyon",
                 "Description": "A multifaceted scene editor and posing tool for GPose. Pyon version includes several additional features which you can view on the repo page.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/KtisisPyon.zip",
-                "LastUpdate": 1758633925,
+                "LastUpdate": 1766153224,
                 "is_closed_source": true
             },
             {
@@ -5812,7 +5831,7 @@
                 "Description": "Chronofoil is a plugin that allows you to capture in-game packets for analysis later.\nIt also allows you to upload a censored version of these captures to a central repository for\npreservation and analysis. Privacy controls are at the center of Chronofoil, which is why it\nrequires two levels of user opt-in, has minimum delays on releasing any submitted user info,\nand allows users to delete their submitted data at any time.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ProjectChronofoil/Chronofoil.Plugin",
-                "LastUpdate": 1766081501
+                "LastUpdate": 1766166530
             }
         ]
     },
@@ -5836,9 +5855,9 @@
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1766147403
+                "LastUpdate": 1766147749
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -5901,7 +5920,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1766107682
+                "LastUpdate": 1766165259
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -5937,7 +5956,7 @@
                 "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-                "LastUpdate": 1766085106
+                "LastUpdate": 1766168506
             }
         ],
         "repo_developer_name": "Puni.sh Team"
@@ -6254,7 +6273,7 @@
                 "Description": "Adds a window with an async-searchable list of all mobs and their known locations, using community data. Use /bbuddy to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/BeastieBuddy",
-                "LastUpdate": 1766108308
+                "LastUpdate": 1766149552
             }
         ]
     },
@@ -7358,18 +7377,18 @@
                 "Name": "OopsAllNudist",
                 "InternalName": "OopsAllNudist",
                 "Description": "Turn everyone around you into a nudist.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/tigurand/OopsAllNudist",
-                "LastUpdate": 1764893628
+                "LastUpdate": 1766158917
             },
             {
                 "Author": "Lucille",
                 "Name": "XIV AI Companion",
                 "InternalName": "XIVAICompanion",
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1764892685
+                "LastUpdate": 1766162370
             }
         ]
     },
@@ -7471,9 +7490,9 @@
                 "Name": "PlayerSync",
                 "InternalName": "MareSempiterne",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1766111934
+                "LastUpdate": 1766160251
             }
         ]
     },
@@ -7760,7 +7779,7 @@
                 "Description": "Originally created by Liza Carvelli, now maintained and improved by WigglyMuffin and CryoTechnic.\n\nA tiny little quest helper plugin that automates quests where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way.\n\nNot all quests are supported, check Discord for support.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1765982700
+                "LastUpdate": 1766164856
             }
         ]
     },
@@ -7795,7 +7814,7 @@
                 "Description": "Created by Liza, maintained by WigglyMuffin, CryoTechnic. A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1765982700
+                "LastUpdate": 1766164856
             }
         ]
     },
@@ -7889,7 +7908,7 @@
                 "Name": "Cope, Seethe, Meld",
                 "InternalName": "CopeSeetheMeld",
                 "Description": "Auto melds your gear",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xanunderscore/CopeSeetheMeld",
                 "LastUpdate": 1766090728
             }
@@ -7908,7 +7927,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1766103186
+                "LastUpdate": 1766154703
             }
         ]
     },
