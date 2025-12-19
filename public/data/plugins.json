@@ -17,6 +17,41 @@
         ]
     },
     {
+        "repo_developer_name": "44451516-ff14",
+        "repo_url": "https://raw.githubusercontent.com/44451516-ff14/DalamudPlugins/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/44451516-ff14/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "Bossmod Reborn",
+                "InternalName": "BossModReborn",
+                "Description": "Boss mod.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
+                "LastUpdate": 1766130616
+            },
+            {
+                "Author": "ocealot",
+                "Name": "JobBars",
+                "InternalName": "JobBars",
+                "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/0ceal0t/JobBars",
+                "LastUpdate": 1755369310
+            },
+            {
+                "Author": "UnknownX, Taurenkey",
+                "Name": "ReActionEx",
+                "InternalName": "ReActionEx",
+                "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://puni.sh/api/repository/taurenkey",
+                "LastUpdate": 1766133688
+            }
+        ]
+    },
+    {
         "repo_developer_name": "4679",
         "repo_url": "https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/4679/DalamudPlugins",
@@ -682,7 +717,7 @@
                 "Description": "记录你每一笔货币收支的数额、时间、地点与来源\nTrack every change of your currecies with its Amount, Time, Location and Source",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/CurrencyTracker",
-                "LastUpdate": 1757857628
+                "LastUpdate": 1766137590
             },
             {
                 "Author": "AtmoOmen",
@@ -784,7 +819,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1765960948
+                "LastUpdate": 1766131919
             }
         ]
     },
@@ -1592,7 +1627,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1766094789
+                "LastUpdate": 1766147403
             }
         ],
         "repo_developer_name": "Det"
@@ -1791,7 +1826,7 @@
                 "Description": "A plugin that targets the player that's talking to you, it shifts your target to the last message received, if you want to monitor that chat",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/echodetla/ffxiv-look-at-me",
-                "LastUpdate": 1762800647
+                "LastUpdate": 1766144365
             }
         ]
     },
@@ -1823,27 +1858,27 @@
                 "Name": "ChatGPT for FFXIV",
                 "InternalName": "ChatGPTPlugin",
                 "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
-                "LastUpdate": 1754616240
+                "LastUpdate": 1766132947
             },
             {
                 "Author": "Eisenhuth",
                 "Name": "LogChamp",
                 "InternalName": "LogchampPlugin",
                 "Description": "automatically deletes your ACT logs after a configurable amount of time",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
-                "LastUpdate": 1756525270
+                "LastUpdate": 1766132806
             },
             {
                 "Author": "Eisenhuth",
                 "Name": "Nael'd it for UCOB",
                 "InternalName": "NaelPlugin",
                 "Description": "Translates Nael's quotes into mechanics.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
-                "LastUpdate": 1754616094
+                "LastUpdate": 1766132898
             }
         ]
     },
@@ -2212,7 +2247,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1766125178
+                "LastUpdate": 1766130616
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2727,9 +2762,9 @@
                 "Name": "XIV Combo Expandedest",
                 "InternalName": "XIVComboExpandedest",
                 "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
-                "LastUpdate": 1766125523
+                "LastUpdate": 1766143746
             }
         ]
     },
@@ -2874,7 +2909,7 @@
                 "Description": "這是一款可防止玩家因閒置而被自動踢出《Final Fantasy XIV》的 Dalamud 插件。安裝後即可使用，無需任何設定，輕鬆無負擔。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
-                "LastUpdate": 1766120656
+                "LastUpdate": 1766138697
             },
             {
                 "Author": "Usagi",
@@ -2883,7 +2918,7 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1762934468
+                "LastUpdate": 1766146565
             }
         ]
     },
@@ -3768,7 +3803,7 @@
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1762934468
+                "LastUpdate": 1766146565
             },
             {
                 "Author": "Latihas",
@@ -3838,7 +3873,7 @@
                 "Description": "Where Do I Go? /wdig to check your spot! An image viewer plugin so you don't have to alt-tab or use a second monitor to reference guides or images while in game.'",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/rail2025/WDIGViewer",
-                "LastUpdate": 1766109132
+                "LastUpdate": 1766132165
             }
         ]
     },
@@ -4138,7 +4173,7 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1762934468
+                "LastUpdate": 1766146565
             }
         ]
     },
@@ -4359,7 +4394,7 @@
                 "Description": "Polished single-window UI with Playwright coverage helpers and release-ready metadata.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/mona-ty/XIVSubmarinesRewrite",
-                "LastUpdate": 1766125688
+                "LastUpdate": 1766141016
             }
         ]
     },
@@ -4676,7 +4711,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1766059623,
+                "LastUpdate": 1766147390,
                 "is_closed_source": true
             },
             {
@@ -4686,7 +4721,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1766059623,
+                "LastUpdate": 1766147390,
                 "is_closed_source": true
             },
             {
@@ -4762,7 +4797,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1766066136
+                "LastUpdate": 1766146597
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -4771,7 +4806,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1766066136
+                "LastUpdate": 1766146597
             },
             {
                 "Author": "NiGuangOwO",
@@ -4799,7 +4834,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1765984005,
+                "LastUpdate": 1766144607,
                 "is_closed_source": true
             },
             {
@@ -4809,7 +4844,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1765984005,
+                "LastUpdate": 1766144607,
                 "is_closed_source": true
             },
             {
@@ -4819,7 +4854,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1765984005,
+                "LastUpdate": 1766144607,
                 "is_closed_source": true
             },
             {
@@ -4847,7 +4882,7 @@
                 "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1766079103
+                "LastUpdate": 1766127318
             },
             {
                 "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
@@ -4856,7 +4891,7 @@
                 "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1766079103
+                "LastUpdate": 1766127318
             },
             {
                 "Author": "NiGuangOwO",
@@ -5100,7 +5135,7 @@
                 "Description": "You met with a terrible Fate. Haven't you?",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OhKannaDuh/TwistOfFayte",
-                "LastUpdate": 1766108891
+                "LastUpdate": 1766127177
             }
         ]
     },
@@ -5803,7 +5838,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1766094789
+                "LastUpdate": 1766147403
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -5857,7 +5892,7 @@
                 "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1766079103
+                "LastUpdate": 1766127318
             },
             {
                 "Author": "Liza Carvelli & various contributors",
@@ -6134,7 +6169,7 @@
                 "Description": "Opens on death, or /abreaker. A Puzzle Bobble clone mini-game.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/rail2025/AetherBreaker",
-                "LastUpdate": 1765653015
+                "LastUpdate": 1766129202
             }
         ]
     },
@@ -6149,9 +6184,9 @@
                 "Name": "AetherBreakout",
                 "InternalName": "AetherBreakout",
                 "Description": "A Breakout clone to play during queue times.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBreakout",
-                "LastUpdate": 1758601916
+                "LastUpdate": 1766133229
             }
         ]
     },
@@ -6166,9 +6201,9 @@
                 "Name": "AetherDraw",
                 "InternalName": "AetherDraw",
                 "Description": "Draw strategy images for encounters. Use /aetherdraw to open",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherDraw",
-                "LastUpdate": 1765682203
+                "LastUpdate": 1766132602
             }
         ]
     },
@@ -6200,9 +6235,9 @@
                 "Name": "AetherPool",
                 "InternalName": "AetherPool",
                 "Description": "Play a game of pool directly in a Dalamud window. Use /aetherpool to open.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherPool",
-                "LastUpdate": 1758601805
+                "LastUpdate": 1766133588
             }
         ]
     },
@@ -6220,23 +6255,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/BeastieBuddy",
                 "LastUpdate": 1766108308
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "rail2025",
-        "repo_url": "https://raw.githubusercontent.com/rail2025/WDIGViewer/main/repo.json",
-        "repo_source_url": "https://github.com/rail2025/WDIGViewer",
-        "repo_name": "WDIGViewer",
-        "plugins": [
-            {
-                "Author": "rail",
-                "Name": "WDIGViewer",
-                "InternalName": "WDIGViewer",
-                "Description": "Where Do I Go? /wdig to check your spot! An image viewer plugin so you don't have to alt-tab or use a second monitor to reference guides or images while in game.'",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/rail2025/WDIGViewer",
-                "LastUpdate": 1766109132
             }
         ]
     },
@@ -6902,7 +6920,7 @@
                 "Description": "Automates market board penny pinching",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
-                "LastUpdate": 1763200507
+                "LastUpdate": 1766145544
             },
             {
                 "Author": "SHOEGAZEssb",
@@ -7023,9 +7041,9 @@
                 "Name": "Waymark Studio",
                 "InternalName": "WaymarkStudio",
                 "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
-                "LastUpdate": 1766040103
+                "LastUpdate": 1766127452
             }
         ]
     },
@@ -8158,7 +8176,7 @@
                 "Description": "Polished single-window UI with Playwright coverage helpers and release-ready metadata.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/zlatan-mt/XIVSubmarinesRewrite",
-                "LastUpdate": 1766125688
+                "LastUpdate": 1766141016
             }
         ]
     },
