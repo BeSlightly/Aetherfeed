@@ -41,13 +41,22 @@
                 "LastUpdate": 1755369310
             },
             {
+                "Author": "Anna, Maintained by Caraxi",
+                "Name": "Peeping Tom",
+                "InternalName": "PeepingTom",
+                "Description": "Shows who is currently or was previously targeting you.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Caraxi/PeepingTom",
+                "LastUpdate": 1754467897
+            },
+            {
                 "Author": "UnknownX, Taurenkey",
                 "Name": "ReActionEx",
                 "InternalName": "ReActionEx",
                 "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://puni.sh/api/repository/taurenkey",
-                "LastUpdate": 1766133688
+                "LastUpdate": 1766245386
             }
         ]
     },
@@ -559,9 +568,9 @@
                 "Name": "The Collector",
                 "InternalName": "TheCollector",
                 "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1766223194
+                "LastUpdate": 1766225388
             }
         ]
     },
@@ -706,9 +715,9 @@
                 "Name": "A Realm Recorded Lite",
                 "InternalName": "ARealmRecordedLite",
                 "Description": "使用 /record 指令打开配置界面\n如显示相关指令未解锁, 请去摩杜纳第七天堂找异国的诗人完成任务「回顾英雄诗篇」",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/ARealmRecordedLite",
-                "LastUpdate": 1766121971
+                "LastUpdate": 1766235102
             },
             {
                 "Author": "AtmoOmen",
@@ -717,7 +726,7 @@
                 "Description": "记录你每一笔货币收支的数额、时间、地点与来源\nTrack every change of your currecies with its Amount, Time, Location and Source",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/CurrencyTracker",
-                "LastUpdate": 1766137590
+                "LastUpdate": 1766236677
             },
             {
                 "Author": "AtmoOmen",
@@ -1211,9 +1220,9 @@
                 "Name": "Simple Glamour Switcher",
                 "InternalName": "SimpleGlamourSwitcher",
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1766156531
+                "LastUpdate": 1766233319
             },
             {
                 "Author": "Caraxi",
@@ -1410,7 +1419,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1766150203
+                "LastUpdate": 1766243010
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -1419,7 +1428,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1766154703
+                "LastUpdate": 1766241508
             },
             {
                 "Author": "Caraxi",
@@ -1565,7 +1574,7 @@
                 "Description": "（CN Only）如果你的网络环境不能稳定的访问 Github，那么可以试试本插件提供的 Github 加速服务\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
-                "LastUpdate": 1766083146
+                "LastUpdate": 1766245971
             },
             {
                 "Author": "decorwdyun",
@@ -1574,7 +1583,7 @@
                 "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-                "LastUpdate": 1766046638
+                "LastUpdate": 1766242877
             },
             {
                 "Author": "decorwdyun",
@@ -1714,7 +1723,7 @@
                 "Description": "For the lulz",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins",
-                "LastUpdate": 1754859827
+                "LastUpdate": 1766239926
             },
             {
                 "Author": "DodingDaga",
@@ -1723,7 +1732,7 @@
                 "Description": "For the lulz",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins",
-                "LastUpdate": 1754859827
+                "LastUpdate": 1766239926
             }
         ]
     },
@@ -2282,7 +2291,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1766218070
+                "LastUpdate": 1766225852
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2309,7 +2318,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1766167363
+                "LastUpdate": 1766233827
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2762,9 +2771,9 @@
                 "Name": "Silence No More",
                 "InternalName": "SilenceNoMore",
                 "Description": "Shows whispers normally blocked during duties.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Glyceri/SilenceNoMore",
-                "LastUpdate": 1761643595
+                "LastUpdate": 1766231444
             }
         ]
     },
@@ -2781,7 +2790,7 @@
                 "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
-                "LastUpdate": 1766143746
+                "LastUpdate": 1766241313
             }
         ]
     },
@@ -2883,7 +2892,7 @@
                 "Description": "Keep on tweaking.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1766107735
+                "LastUpdate": 1766244171
             },
             {
                 "Author": "Haselnussbomber",
@@ -2927,15 +2936,6 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
                 "LastUpdate": 1766161674
-            },
-            {
-                "Author": "Usagi",
-                "Name": "IINACT",
-                "InternalName": "IINACT",
-                "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1766195278
             }
         ]
     },
@@ -3311,7 +3311,7 @@
                 "Description": "Automation for Orange and Purple Gathering scrips with the help of vnavmesh and AutoHook",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Joshua-XIV/AutoScrip",
-                "LastUpdate": 1760989213
+                "LastUpdate": 1766245776
             },
             {
                 "Author": "Josh",
@@ -3783,9 +3783,9 @@
                 "Name": "Laci Synchroni",
                 "InternalName": "LaciSynchroni",
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1766181104
+                "LastUpdate": 1766234237
             }
         ]
     },
@@ -4342,7 +4342,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1766154703
+                "LastUpdate": 1766241508
             }
         ]
     },
@@ -4719,7 +4719,7 @@
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/OccultCrescentHelper",
-                "LastUpdate": 1766206093
+                "LastUpdate": 1766229896
             },
             {
                 "Author": "Faye / NiGuangOwO (适配&优化) / Ookura-Risona (汉化)",
@@ -4728,7 +4728,7 @@
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/OccultCrescentHelper",
-                "LastUpdate": 1766206093
+                "LastUpdate": 1766229896
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
@@ -4737,7 +4737,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1766214390,
+                "LastUpdate": 1766232182,
                 "is_closed_source": true
             },
             {
@@ -4747,7 +4747,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1766214390,
+                "LastUpdate": 1766232182,
                 "is_closed_source": true
             },
             {
@@ -4930,10 +4930,19 @@
             },
             {
                 "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
-                "Name": "Pandora's Box",
+                "Name": "Pandora's Box (API13)",
                 "InternalName": "PandorasBox",
                 "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
                 "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+                "LastUpdate": 1766127318
+            },
+            {
+                "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
+                "Name": "Pandora's Box",
+                "InternalName": "PandorasBox",
+                "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
                 "LastUpdate": 1766127318
             },
@@ -5091,7 +5100,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Nukoooo/DalamudPlugins",
-                "LastUpdate": 1766077279
+                "LastUpdate": 1766228759
             },
             {
                 "Author": "Nuko",
@@ -5170,7 +5179,7 @@
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1766115110
+                "LastUpdate": 1766235795
             },
             {
                 "Author": "Faye",
@@ -5283,7 +5292,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1766150203
+                "LastUpdate": 1766243010
             }
         ]
     },
@@ -5327,7 +5336,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1766150203
+                "LastUpdate": 1766243010
             },
             {
                 "Author": "Anna",
@@ -5363,7 +5372,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1766154703
+                "LastUpdate": 1766241508
             },
             {
                 "Author": "Caraxi",
@@ -6560,7 +6569,7 @@
                 "Description": "Save and load hotbar profiles with chat commands and/or macros. Allows for automation too!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/RulHolos/Bartender",
-                "LastUpdate": 1754863794
+                "LastUpdate": 1766236569
             }
         ]
     },
@@ -7559,9 +7568,9 @@
                 "Name": "ReAction",
                 "InternalName": "ReAction",
                 "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/UnknownX7/ReAction",
-                "LastUpdate": 1754888496
+                "LastUpdate": 1766232543
             }
         ]
     },
@@ -7970,7 +7979,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1766154703
+                "LastUpdate": 1766241508
             }
         ]
     },
