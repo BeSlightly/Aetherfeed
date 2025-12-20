@@ -56,7 +56,7 @@
                 "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://puni.sh/api/repository/taurenkey",
-                "LastUpdate": 1766245386
+                "LastUpdate": 1766247672
             }
         ]
     },
@@ -810,7 +810,7 @@
                 "Description": "自动化 T 职副本场次成就刷取工具\n注意: 副本战斗需要自行使用其他插件解决",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/UntarnishedHeart",
-                "LastUpdate": 1766206654
+                "LastUpdate": 1766246900
             },
             {
                 "Author": "ocealot, AtmoOmen (汉化)",
@@ -983,7 +983,7 @@
                 "Description": "Automates inventory scanning, marketboard listing, and vendor selling using Universalis data and retainer control.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/bimilbimil/AutomarketPro",
-                "LastUpdate": 1765141623
+                "LastUpdate": 1766252412
             }
         ]
     },
@@ -1721,18 +1721,18 @@
                 "Name": "Right Back At You",
                 "InternalName": "Copycat",
                 "Description": "For the lulz",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins",
-                "LastUpdate": 1766239926
+                "LastUpdate": 1766248671
             },
             {
                 "Author": "DodingDaga",
                 "Name": "Puppet Master",
                 "InternalName": "PuppetMaster",
                 "Description": "For the lulz",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins",
-                "LastUpdate": 1766239926
+                "LastUpdate": 1766248671
             }
         ]
     },
@@ -1775,6 +1775,7 @@
         "repo_source_url": "https://github.com/Drakansoul/DisPlace",
         "repo_developer_name": "Drakansoul",
         "repo_name": "DisPlace",
+        "repo_discord_url": "https://discord.gg/aMAVmaQAzY",
         "plugins": [
             {
                 "Author": "Drakansoul",
@@ -1835,7 +1836,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1766180644
+                "LastUpdate": 1766252311
             }
         ]
     },
@@ -2739,7 +2740,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Glorou/mare.client",
-                "LastUpdate": 1759943103
+                "LastUpdate": 1766249922
             }
         ]
     },
@@ -2754,9 +2755,9 @@
                 "Name": "Texture Overlayer",
                 "InternalName": "TextureOverlayer",
                 "Description": "A relatively robust tool that allows you to non-destructively edit textures.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Glorou/TextureOverlayer",
-                "LastUpdate": 1763331310
+                "LastUpdate": 1766249248
             }
         ]
     },
@@ -4558,6 +4559,7 @@
         "is_allowed_mega_repo": true,
         "repo_name": "MyDalamudPlugins",
         "repo_developer_name": "NightmareXIV",
+        "repo_discord_url": "https://discord.gg/m8NRt4X8Gf",
         "plugins": [
             {
                 "Author": "NightmareXIV",
@@ -5018,23 +5020,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/nomenclature-xiv/Nomenclature/raw/refs/heads/main/repo.json",
-        "repo_source_url": "https://github.com/nomenclature-xiv/Nomenclature",
-        "repo_developer_name": "nomenclature-xiv",
-        "repo_name": "Nomenclature",
-        "plugins": [
-            {
-                "Author": "Mora, Misty",
-                "Name": "Nomenclature",
-                "InternalName": "NomenclatureClient",
-                "Description": "This plugin allows you to view names of others, as set by themselves!",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/nomenclature-xiv/Nomenclature",
-                "LastUpdate": 1765863080
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/NostraThomas99/NostraPlugins/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/NostraThomas99/NostraPlugins",
         "repo_name": "NostraPlugins",
@@ -5345,7 +5330,7 @@
                 "Description": "Heliosphere is a mod manager and platform designed to work directly with\nPenumbra. It enables efficient downloads and fast installs to let you get back\nto the fun part of mods: using them.\n\nHeliosphere supports:\n- Direct install to Penumbra\n- Compressed and deduplicated (read: small) downloads\n- Automatic updates (optional)\n- Version history\n- Mod changelogs\n- Pictures in Penumbra\n- And more\n\nGive Heliosphere a try, and see if you can't say goodbye to any old mod\nplatform you were using before.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://heliosphere.app/",
-                "LastUpdate": 1766175354
+                "LastUpdate": 1766250356
             },
             {
                 "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -5990,7 +5975,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1766184666
+                "LastUpdate": 1766249387
             },
             {
                 "Author": "daemitus, kawaii",
@@ -7962,7 +7947,7 @@
                 "Description": "Auto melds your gear",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xanunderscore/CopeSeetheMeld",
-                "LastUpdate": 1766090728
+                "LastUpdate": 1766248591
             }
         ]
     },
