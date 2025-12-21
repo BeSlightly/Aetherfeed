@@ -23,13 +23,22 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
+                "Author": "veyn",
+                "Name": "Boss Mod",
+                "InternalName": "BossMod",
+                "Description": "A bunch of utilities to simplify bosses.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+                "LastUpdate": 1766181634
+            },
+            {
                 "Author": "The Combat Reborn Team",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
                 "Description": "Boss mod.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1766209756
+                "LastUpdate": 1766296179
             },
             {
                 "Author": "ocealot",
@@ -41,13 +50,22 @@
                 "LastUpdate": 1755369310
             },
             {
+                "Author": "shdwp, Avaflow, abashby, nebel",
+                "Name": "Party Icons",
+                "InternalName": "PartyIcons",
+                "Description": "PartyIcons plugin",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/nebel/xivPartyIcons",
+                "LastUpdate": 1766115083
+            },
+            {
                 "Author": "Anna, Maintained by Caraxi",
                 "Name": "Peeping Tom",
                 "InternalName": "PeepingTom",
                 "Description": "Shows who is currently or was previously targeting you.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/PeepingTom",
-                "LastUpdate": 1754467897
+                "LastUpdate": 1766292437
             },
             {
                 "Author": "UnknownX, Taurenkey",
@@ -56,7 +74,7 @@
                 "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://puni.sh/api/repository/taurenkey",
-                "LastUpdate": 1766247672
+                "LastUpdate": 1766290280
             }
         ]
     },
@@ -699,7 +717,7 @@
                 "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, DutyHistory, Instancinator, Macro, OpcodeWizard, SliceIsRight, Yes",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
-                "LastUpdate": 1755107778
+                "LastUpdate": 1766287983
             }
         ]
     },
@@ -1548,7 +1566,7 @@
                 "InternalName": "DotPosition",
                 "Description": "Displays a customizable position marker under your character.",
                 "RepoUrl": "https://github.com/dechamps-chen/DotPosition",
-                "LastUpdate": 1754603326
+                "LastUpdate": 1766297094
             }
         ]
     },
@@ -1602,7 +1620,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1766212811
+                "LastUpdate": 1766297028
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -1611,7 +1629,7 @@
                 "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
-                "LastUpdate": 1766171822
+                "LastUpdate": 1766292259
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -1836,7 +1854,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1766252311
+                "LastUpdate": 1766279124
             }
         ]
     },
@@ -2263,9 +2281,9 @@
                 "Name": "ActionTimeline Reborn",
                 "InternalName": "ActionTimelineReborn",
                 "Description": "Configurable timeline display of all the actions you use.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn",
-                "LastUpdate": 1758730867
+                "LastUpdate": 1766282786
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2274,7 +2292,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1766209756
+                "LastUpdate": 1766296179
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2484,9 +2502,9 @@
                 "Name": "EorzeaLink",
                 "InternalName": "EorzeaLink",
                 "Description": "Import EorzeaCollection glams and apply via Glamourer.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FuzzyCore/EorzeaLink",
-                "LastUpdate": 1760919854
+                "LastUpdate": 1766294372
             }
         ]
     },
@@ -2884,7 +2902,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1766199111
+                "LastUpdate": 1766291366
             },
             {
                 "Author": "Haselnussbomber",
@@ -3504,7 +3522,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1766192816,
+                "LastUpdate": 1766241895,
                 "is_closed_source": true
             },
             {
@@ -3786,7 +3804,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1766234237
+                "LastUpdate": 1766277548
             }
         ]
     },
@@ -4011,7 +4029,7 @@
                 "Description": "GlamApply is a Dalamud plugin that lets you apply glamour plates with a chat command.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/lichie567/GlamApply",
-                "LastUpdate": 1766062696
+                "LastUpdate": 1766296962
             }
         ]
     },
@@ -4028,7 +4046,7 @@
                 "Description": "Plugin to display ACT combat log data.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/lichie567/LMeter",
-                "LastUpdate": 1766203054
+                "LastUpdate": 1766293293
             }
         ]
     },
@@ -4045,7 +4063,7 @@
                 "Description": "Improves strafing under legacy movement controls",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/lichie567/SmartStrafe",
-                "LastUpdate": 1766205481
+                "LastUpdate": 1766287577
             }
         ]
     },
@@ -4472,7 +4490,7 @@
                 "Description": "A plugin to track crystal across your FFXIV account.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
-                "LastUpdate": 1766180966
+                "LastUpdate": 1766293194
             }
         ]
     },
@@ -4489,7 +4507,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1766182181
+                "LastUpdate": 1766297116
             }
         ]
     },
@@ -4507,6 +4525,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/MusicalPanini/PaninisXIVPluginDump",
                 "LastUpdate": 1752303010
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NanaKhide",
+        "repo_url": "https://raw.githubusercontent.com/NanaKhide/Astral/master/repo.json",
+        "repo_source_url": "https://github.com/NanaKhide/Astral",
+        "repo_name": "Astral",
+        "plugins": [
+            {
+                "Author": "DarkmodeLeyla",
+                "Name": "Astral Demo Plugin",
+                "InternalName": "Astral.Plugin",
+                "Description": "Astral is an XML abstraction layer for Dalamud's ImGui bindings.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NanaKhide/Astral",
+                "LastUpdate": 1766288070
             }
         ]
     },
@@ -4880,7 +4915,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1766144607,
+                "LastUpdate": 1766289002,
                 "is_closed_source": true
             },
             {
@@ -4890,7 +4925,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1766144607,
+                "LastUpdate": 1766289002,
                 "is_closed_source": true
             },
             {
@@ -4900,7 +4935,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1766144607,
+                "LastUpdate": 1766289002,
                 "is_closed_source": true
             },
             {
@@ -5130,7 +5165,7 @@
                 "Description": "Plugin to display ACT combat log data.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/lichie567/LMeter",
-                "LastUpdate": 1766203054
+                "LastUpdate": 1766293293
             }
         ]
     },
@@ -5782,7 +5817,7 @@
                 "Description": "A multifaceted scene editor and posing tool for GPose. Pyon version includes several additional features which you can view on the repo page.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/KtisisPyon.zip",
-                "LastUpdate": 1766173643,
+                "LastUpdate": 1766277671,
                 "is_closed_source": true
             },
             {
@@ -5982,7 +6017,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1766272517
+                "LastUpdate": 1766278617
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -6000,7 +6035,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1766260047
+                "LastUpdate": 1766295240
             },
             {
                 "Author": "Team Wrath",
@@ -6009,7 +6044,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1766249387
+                "LastUpdate": 1766282956
             },
             {
                 "Author": "daemitus, kawaii",
@@ -6958,7 +6993,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1766260047
+                "LastUpdate": 1766295240
             }
         ]
     },
@@ -7027,7 +7062,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1766063597,
+                "LastUpdate": 1766291410,
                 "is_closed_source": true
             }
         ]
@@ -7625,15 +7660,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/JobAutoSwitcher",
                 "LastUpdate": 1766176197
-            },
-            {
-                "Author": "Caraxi & Vali",
-                "Name": "Simple Tweaks Plugin Friend Fix",
-                "InternalName": "SimpleTweaksVali",
-                "Description": "A collection of small quality of life improvements and UI tweaks for Final Fantasy XIV.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Valiice/SimpleTweaksPlugin",
-                "LastUpdate": 1766209151
             },
             {
                 "Author": "Vali",
@@ -8283,7 +8309,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1766022479
+                "LastUpdate": 1766279398
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
