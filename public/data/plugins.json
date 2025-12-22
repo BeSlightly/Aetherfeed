@@ -38,7 +38,7 @@
                 "Description": "Boss mod.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1766371282
+                "LastUpdate": 1766394269
             },
             {
                 "Author": "ocealot",
@@ -74,7 +74,7 @@
                 "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://puni.sh/api/repository/taurenkey",
-                "LastUpdate": 1766304966
+                "LastUpdate": 1766403957
             }
         ]
     },
@@ -1001,7 +1001,7 @@
                 "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/BeSlightly/Snappy",
-                "LastUpdate": 1766370697
+                "LastUpdate": 1766385480
             }
         ]
     },
@@ -1148,7 +1148,24 @@
                 "Description": "SkipCutscene was taking too long to update, so here we are",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/BoxuChan/Skippy",
-                "LastUpdate": 1766191904
+                "LastUpdate": 1766386548
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "BoxuChan",
+        "repo_url": "https://raw.githubusercontent.com/BoxuChan/Skippy/main/repo.json",
+        "repo_source_url": "https://github.com/BoxuChan/Skippy",
+        "repo_name": "Skippy",
+        "plugins": [
+            {
+                "Author": "Boxu",
+                "Name": "Skippy",
+                "InternalName": "Skippy",
+                "Description": "Skip the Main Scenario Roulette Cutscenes so you can actually play the game!",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/BoxuChan/Skippy",
+                "LastUpdate": 1766386548
             }
         ]
     },
@@ -1637,7 +1654,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1766297028
+                "LastUpdate": 1766393184
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -2099,6 +2116,77 @@
         ]
     },
     {
+        "repo_developer_name": "eroubue",
+        "repo_url": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/eroubue/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Kouzukii Nag0mi",
+                "Name": "Character Panel Refined CN",
+                "InternalName": "CharacterPanelRefined",
+                "Description": "角色面板精炼删除了角色面板中无用的信息，同时添加了有用的统计数据，例如暴击和直击概率百分比以及估计伤害输出，以便更轻松地比较装备。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/eroubue/ffxiv-characterstatus-refined",
+                "LastUpdate": 1766394569
+            },
+            {
+                "Author": "Kouzukii Nag0mi",
+                "Name": "Death Recap CN",
+                "InternalName": "DeathRecap",
+                "Description": "快速确认什么玩意弄死了你和你的小伙伴!\n\n显示:\n- 治疗\n- 受到的伤害\n- Debuffs\n- Buffs\n- 盾\n- 伤害来源的目标减",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/eroubue/ffxiv-deathrecap",
+                "LastUpdate": 1766395995
+            },
+            {
+                "Author": "Nag0mi",
+                "Name": "Fake Name Reborn",
+                "InternalName": "FakeNameReborn",
+                "Description": "重生之我是FF14打号王!享受无限制的修改id功能.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/eroubue/FakeNameReborn",
+                "LastUpdate": 1758356940
+            },
+            {
+                "Author": "ocealot Nag0mi",
+                "Name": "JobBars CN",
+                "InternalName": "JobBars",
+                "Description": "额外的职业计量表、队伍增益计时器、减伤追踪器等等。图标由 PAPACHIN 设计",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/eroubue/JobBars",
+                "LastUpdate": 1766398165
+            },
+            {
+                "Author": "shdwp, Avaflow, abashby, nebel, Nag0mi",
+                "Name": "Party Icons CN",
+                "InternalName": "PartyIcons",
+                "Description": "根据当前内容调整玩家铭牌。例如，您可以显示团队位置（通过监听聊天自动分配）、职业图标或带有职业图标的名称。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/eroubue/xivPartyIcons",
+                "LastUpdate": 1766396653
+            },
+            {
+                "Author": "Ottermandias Nag0mi",
+                "Name": "RezPls CN",
+                "InternalName": "RezPls",
+                "Description": "轻松概览谁正在复活谁,\n已经复活了,\n以及世界上谁拥有可驱散的debuff影响.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/eroubue/RezPls/",
+                "LastUpdate": 1766398893
+            },
+            {
+                "Author": "Nag0mi Tischel",
+                "Name": "TPie Reborn",
+                "InternalName": "TPie",
+                "Description": "高度可配置的快捷栏，可以通过按键绑定进行切换。它们可以填充动作、物品、装备组、宏等等...",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/eroubue/TPie",
+                "LastUpdate": 1766398204
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Errerer/DalamudPlugins",
         "repo_name": "DalamudPlugins",
@@ -2309,7 +2397,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1766371282
+                "LastUpdate": 1766394269
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2327,7 +2415,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1766259343
+                "LastUpdate": 1766393306
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2485,9 +2573,9 @@
                 "Name": "Auto Emotion",
                 "InternalName": "AutoEmotion",
                 "Description": "This plugin lets you assign a keyword to an emote. When the keyword is typed in the chat, the corresponding emote is automatically triggered.\n\nThe plugin icon was created by https://twitter.com/AlcielCroix",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FoxShadow10/AutoEmotion",
-                "LastUpdate": 1766258493
+                "LastUpdate": 1766400857
             }
         ]
     },
@@ -3048,7 +3136,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1766322519
+                "LastUpdate": 1766389833
             }
         ]
     },
@@ -3262,7 +3350,7 @@
                 "Description": "在游戏中显示对象的详细信息，包括玩家、NPC、事件对象等的 EntityID、DataID、位置、旋转、距离、生命值、咏唱信息、状态效果等。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/JiaXX7799/DalamudPlugins",
-                "LastUpdate": 1766310108
+                "LastUpdate": 1766404105
             }
         ]
     },
@@ -3610,9 +3698,9 @@
                 "Name": "OopsAllLalafellsSRE",
                 "InternalName": "OopsAllLalafellsSRE",
                 "Description": "Turn everyone around you into Lalafells (or other races!)",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kelvin124124/OopsAllLalafellsSRE",
-                "LastUpdate": 1759203167
+                "LastUpdate": 1766399009
             }
         ]
     },
@@ -3724,18 +3812,9 @@
                 "Name": "Radar",
                 "InternalName": "Radar",
                 "Description": "在屏幕和游戏地图上显示游戏实体的位置。\nDisplays game objects location on screen and map.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KirisameVanilla/Radar",
-                "LastUpdate": 1760025622
-            },
-            {
-                "Author": "akira0245, KirisameVanilla",
-                "Name": "Radar(API XIII)",
-                "InternalName": "Radar",
-                "Description": "在屏幕和游戏地图上显示游戏实体的位置。\nDisplays game objects location on screen and map.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/KirisameVanilla/Radar",
-                "LastUpdate": 1760025622
+                "LastUpdate": 1766394990
             }
         ]
     },
@@ -3856,7 +3935,7 @@
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1766195278
+                "LastUpdate": 1766393375
             },
             {
                 "Author": "Latihas",
@@ -4226,7 +4305,7 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1766195278
+                "LastUpdate": 1766393375
             }
         ]
     },
@@ -5417,7 +5496,7 @@
                 "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1766303569
+                "LastUpdate": 1766391456
             },
             {
                 "Author": "Ottermandias, Nylfae, Adam, Wintermute",
@@ -5962,7 +6041,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1766322519
+                "LastUpdate": 1766389833
             },
             {
                 "Author": "Det, Taurenkey",
@@ -6034,7 +6113,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1766377369
+                "LastUpdate": 1766386695
             },
             {
                 "Author": "Taurenkey, NightmareXIV",
@@ -6284,7 +6363,7 @@
                 "Description": "Opens on death, or /aetherbomber. A Bomberman clone mini-game.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/rail2025/AetherBomber",
-                "LastUpdate": 1764048794
+                "LastUpdate": 1766403946
             }
         ]
     },
@@ -6541,9 +6620,9 @@
                 "Name": "Echorama",
                 "InternalName": "Echorama",
                 "Description": "Create your own 360 Panorama Pictures of your current ingame location.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RenNagasaki/Echorama",
-                "LastUpdate": 1764512759
+                "LastUpdate": 1766388450
             },
             {
                 "Author": "RenNagasaki",
@@ -6568,9 +6647,9 @@
                 "Name": "ProximityVoiceChat",
                 "InternalName": "ProximityVoiceChat",
                 "Description": "An in-game voice chat plugin with character proximity detection.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-ProximityVoiceChat",
-                "LastUpdate": 1765665093
+                "LastUpdate": 1766383662
             },
             {
                 "Author": "Ricimon",
@@ -6586,9 +6665,9 @@
                 "Name": "SmartPings",
                 "InternalName": "SmartPings",
                 "Description": "Send other players ground pings and UI information.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-SmartPings",
-                "LastUpdate": 1760604272
+                "LastUpdate": 1766383494
             }
         ]
     },
@@ -6639,7 +6718,7 @@
                 "Description": "Save and load hotbar profiles with chat commands and/or macros. Allows for automation too!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RulHolos/Bartender",
-                "LastUpdate": 1766339487
+                "LastUpdate": 1766398570
             }
         ]
     },
@@ -7984,9 +8063,9 @@
                 "Name": "Craftimizer (Unofficial)",
                 "InternalName": "CraftimizerUnofficial",
                 "Description": "Allows you to generate macros and simulate all sorts of crafts without having to open another app. Open your crafting log to get started!",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WorkingRobot/Craftimizer",
-                "LastUpdate": 1759087399
+                "LastUpdate": 1766390155
             },
             {
                 "Author": "Asriel",
@@ -8089,9 +8168,9 @@
                 "Name": "LeveDelivery",
                 "InternalName": "LeveDelivery",
                 "Description": "A plugin that automatically accepts and delivers leves.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/yasatoma/MyDalamudPlugins/tree/master/plugins/LeveDelivery",
-                "LastUpdate": 1755093639,
+                "LastUpdate": 1766393991,
                 "is_closed_source": true
             },
             {
@@ -8188,9 +8267,9 @@
                 "Name": "SpecialWeaponProgressOverview",
                 "InternalName": "SpecialWeaponProgressOverview",
                 "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，但数据读取依旧不稳定）",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
-                "LastUpdate": 1765973304
+                "LastUpdate": 1766401054
             }
         ]
     },
