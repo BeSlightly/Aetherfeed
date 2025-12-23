@@ -456,7 +456,7 @@
                 "Description": "Update honorific title based on discord activity informations",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
-                "LastUpdate": 1766177088
+                "LastUpdate": 1766483339
             },
             {
                 "Author": "Pyon, Anya Hichu",
@@ -816,9 +816,9 @@
                 "Name": "GatherBuddy Reborn",
                 "InternalName": "GatherbuddyReborn",
                 "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
-                "LastUpdate": 1766073449
+                "LastUpdate": 1766481849
             },
             {
                 "Author": "Haselnussbomber",
@@ -852,9 +852,9 @@
                 "Name": "VFXEditorCN",
                 "InternalName": "VFXEditorCN",
                 "Description": "游戏内视觉效果、动画与音频编辑插件 | 图标来源: PAPACHIN | 本地化维护: AtmoOmen",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/VFXEditor-CN",
-                "LastUpdate": 1758711715
+                "LastUpdate": 1766485907
             },
             {
                 "Author": "veyn, AtmoOmen",
@@ -967,7 +967,7 @@
                 "Description": "An interface for browsing and managing third party repositories.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/BeSlightly/DalamudRepoBrowser",
-                "LastUpdate": 1766318365
+                "LastUpdate": 1766489098
             }
         ]
     },
@@ -984,7 +984,7 @@
                 "Description": "A plugin to export other player's portraits to PortraitHelper strings.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/BeSlightly/PortraitStealer2",
-                "LastUpdate": 1766098852
+                "LastUpdate": 1766490530
             }
         ]
     },
@@ -2415,7 +2415,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1766393306
+                "LastUpdate": 1766486045
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3308,6 +3308,22 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
                 "LastUpdate": 1760814703
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "JackRhodes",
+        "repo_url": "https://raw.githubusercontent.com/JackRhodes/Marketbuddy/main/repo.json",
+        "repo_source_url": "https://github.com/JackRhodes/Marketbuddy",
+        "repo_name": "Marketbuddy",
+        "plugins": [
+            {
+                "Author": "Chalkos",
+                "Name": "Marketbuddy",
+                "InternalName": "Marketbuddy",
+                "Description": "Helper for your day-to-day market operations.",
+                "RepoUrl": "https://github.com/chalkos/Marketbuddy",
+                "LastUpdate": 1766194164
             }
         ]
     },
@@ -4349,30 +4365,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
                 "LastUpdate": 1766372091
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Meowchestra",
-        "repo_url": "https://raw.githubusercontent.com/Meowchestra/xivplugins/main/repo.json",
-        "repo_source_url": "https://github.com/Meowchestra/xivplugins",
-        "repo_name": "xivplugins",
-        "plugins": [
-            {
-                "Author": "GiR-Zippo, Meowchestra",
-                "Name": "ToyBox",
-                "InternalName": "ToyBox",
-                "Description": "Companion plugin addon for Whiskers that extends controls as an alternative to BardToolbox.",
-                "RepoUrl": "https://github.com/Meowchestra/ToyBox",
-                "LastUpdate": 1765262185
-            },
-            {
-                "Author": "GiR-Zippo, Meowchestra, MoogleTroupe",
-                "Name": "Whiskers",
-                "InternalName": "Whiskers",
-                "Description": "MeowMusic companion for enhanced functionality.",
-                "RepoUrl": "https://github.com/Meowchestra/Whiskers",
-                "LastUpdate": 1764109550
             }
         ]
     },
@@ -5809,9 +5801,9 @@
                 "Name": "North Star",
                 "InternalName": "NorthStar",
                 "Description": "Shows a beacon on the position of the last <pos> or <flag> in chat. Use /northstar to configure",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Pistachio-dev/NorthStar",
-                "LastUpdate": 1764075700
+                "LastUpdate": 1766493152
             }
         ]
     },
@@ -6613,7 +6605,7 @@
                 "Description": "A TTS Plugin that breaks the silence! For self hosted AllTalk instance. /ek",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
-                "LastUpdate": 1764513008
+                "LastUpdate": 1766489703
             },
             {
                 "Author": "RenNagasaki",
@@ -7174,7 +7166,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1766466144,
+                "LastUpdate": 1766494939,
                 "is_closed_source": true
             }
         ]
@@ -7597,7 +7589,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1766193041
+                "LastUpdate": 1766494085
             }
         ]
     },
@@ -8119,7 +8111,7 @@
                 "Description": "Carrying you!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WINDOWCOLLAPSIBLE/404notfound",
-                "LastUpdate": 1766253392,
+                "LastUpdate": 1766475287,
                 "is_closed_source": true
             }
         ]
