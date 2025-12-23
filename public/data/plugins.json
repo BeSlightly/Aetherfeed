@@ -394,7 +394,7 @@
                 "Description": "Tracks GameObjects and sends them to Akurosia Kamo",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/amki/AkuTrack",
-                "LastUpdate": 1766346375
+                "LastUpdate": 1766507812
             }
         ]
     },
@@ -622,7 +622,7 @@
                 "Description": "A simple plugin that lets you play any game emote, whether you unlocked it or not.\nClient side only.\nJust type the emote command as you would normally.\nWorks with custom animations and syncable over Mare.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
-                "LastUpdate": 1766425611
+                "LastUpdate": 1766501175
             }
         ]
     },
@@ -818,16 +818,16 @@
                 "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
-                "LastUpdate": 1766481849
+                "LastUpdate": 1766504058
             },
             {
                 "Author": "Haselnussbomber",
                 "Name": "HaselDebug",
                 "InternalName": "HaselDebug",
                 "Description": "开发者专用",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/HaselDebug",
-                "LastUpdate": 1758018135
+                "LastUpdate": 1766499192
             },
             {
                 "Author": "Raphael",
@@ -1654,7 +1654,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1766464513
+                "LastUpdate": 1766509018
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -1663,7 +1663,7 @@
                 "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
-                "LastUpdate": 1766292259
+                "LastUpdate": 1766511092
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -2095,6 +2095,15 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
                 "LastUpdate": 1766320223
+            },
+            {
+                "Author": "erdelf",
+                "Name": "Inventory Search Bar",
+                "InternalName": "InventorySearchBar",
+                "Description": "Supports different types of filters to be able to find items by name, type, supported job or level requirements.\n\nSupported Inventories:\n\t- Character Inventory\n\t- Chocobo Saddlebags\n\t- Retainer Inventory\n\t- Armoury",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/erdelf/InventorySearchBar",
+                "LastUpdate": 1766516340
             }
         ]
     },
@@ -2413,9 +2422,9 @@
                 "Name": "GatherBuddy Reborn",
                 "InternalName": "GatherbuddyReborn",
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1766486045
+                "LastUpdate": 1766511793
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2442,7 +2451,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1766420332
+                "LastUpdate": 1766504671
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2707,9 +2716,9 @@
                 "Name": "LootView",
                 "InternalName": "LootView",
                 "Description": "A customizable loot tracking window with item icons, rarity colors, and highlight animations. Shows who loots what and can be filtered to show only your loot.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/GitHixy/LootView",
-                "LastUpdate": 1764622522
+                "LastUpdate": 1766501415
             }
         ]
     },
@@ -2914,7 +2923,7 @@
                 "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Grammernatzi/XIVComboPluginExpandedest",
-                "LastUpdate": 1766241313
+                "LastUpdate": 1766496797
             }
         ]
     },
@@ -3136,7 +3145,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1766472347
+                "LastUpdate": 1766515287
             }
         ]
     },
@@ -5385,15 +5394,6 @@
                 "LastUpdate": 1766039094
             },
             {
-                "Author": "UnknownX",
-                "Name": "NoClippy",
-                "InternalName": "NoClippy",
-                "Description": "(Frey's repo) Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/UnknownX7/NoClippy",
-                "LastUpdate": 1766199391
-            },
-            {
                 "Author": "Frey",
                 "Name": "Voiced Nael Quotes",
                 "InternalName": "VoicedNaelQuotes",
@@ -5524,9 +5524,9 @@
                 "Name": "Chibi Omega",
                 "InternalName": "Chibi Omega",
                 "Description": "Plugin to apply a custom scale to the Omega beetle model (TOP and O11)",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/paissaheavyindustries/Chibi-Omega",
-                "LastUpdate": 1754584764
+                "LastUpdate": 1766510578
             },
             {
                 "Author": "Paissa Heavy Industries",
@@ -5542,27 +5542,27 @@
                 "Name": "Tallafell",
                 "InternalName": "Tallafell",
                 "Description": "Plugin to apply a custom scale to lalafell models",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/paissaheavyindustries/Tallafell",
-                "LastUpdate": 1754584972
+                "LastUpdate": 1766510617
             },
             {
                 "Author": "Paissa Heavy Industries",
                 "Name": "Telesto",
                 "InternalName": "Telesto",
                 "Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
-                "LastUpdate": 1754584377
+                "LastUpdate": 1766505632
             },
             {
                 "Author": "Paissa Heavy Industries",
                 "Name": "Where's Mouse?",
                 "InternalName": "WheresMouse",
                 "Description": "An accessibility plugin to help you locate your mouse cursor when you need it the most.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/paissaheavyindustries/WheresMouse",
-                "LastUpdate": 1754584828
+                "LastUpdate": 1766510598
             }
         ]
     },
@@ -5579,7 +5579,7 @@
                 "Description": "A simple plugin to replace timelines of actions.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/papapachin/ActionTimelineReplacement/tree/Global",
-                "LastUpdate": 1758043800
+                "LastUpdate": 1766508097
             }
         ]
     },
@@ -6033,7 +6033,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1766472347
+                "LastUpdate": 1766515287
             },
             {
                 "Author": "Det, Taurenkey",
@@ -6051,7 +6051,7 @@
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1765957198
+                "LastUpdate": 1766510412
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -6693,7 +6693,7 @@
                 "Description": "Enhance Steam Game Recording by automatically adding configurable in-game events to the timeline, allowing for easy rewinding and clipping. Rewind to the moment of your death to reassure yourself that you did dodge the AOE before it went off and that the game does hate you personally with greater efficiency than ever!\r\n\r\nNon-steam users will have to follow a setup guide located in the configuration's window Status tab to get everything working.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RokasKil/SteamRecordingEnhanced",
-                "LastUpdate": 1766414134
+                "LastUpdate": 1766506535
             }
         ]
     },
@@ -6779,7 +6779,7 @@
                 "Description": "Automatically logs you into a specified character when the game first opens.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1766471053
+                "LastUpdate": 1766513633
             },
             {
                 "Author": "Aida Enna",
@@ -6788,7 +6788,7 @@
                 "Description": "When a party member gets on a mount that supports more than 1 person and is close enough, you will automatically get on.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- You may need to right click on the driver once each time you start the game before the plugin will automount their mount. A fix is being investigated.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1766471053
+                "LastUpdate": 1766513633
             },
             {
                 "Author": "Aida Enna",
@@ -6797,7 +6797,7 @@
                 "Description": "See who is missing food buff at countdown start and optionally post to party/echo chat with a customizable message.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1766471053
+                "LastUpdate": 1766513633
             },
             {
                 "Author": "Aida Enna",
@@ -6806,7 +6806,7 @@
                 "Description": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.\nAdding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02\nAdding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using '/runmacro'\nYou can repeat a macro by using /runmacro inside the macro followed by the number of the macro you're editing\nUsing '/macrocancel' will stop the currently running macro",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1766471053
+                "LastUpdate": 1766513633
             },
             {
                 "Author": "Aida Enna",
@@ -6815,7 +6815,7 @@
                 "Description": "When you click \"Update Gear Set\", this plugin will automatically update and save your portait to match your new glam.\n\nThis plugin is in testing and will have one or more issues, laid out below:\n\n- Rarely, a glitched desynth window will pop up when saving the gearset instead of it saving the portait. This is being investigated, closing the window and swapping classes seems to fix it.\n\nPlease report issues/bugs and post suggestions on the Github website by clicking the globe icon.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
-                "LastUpdate": 1766471053
+                "LastUpdate": 1766513633
             }
         ]
     },
@@ -7166,7 +7166,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1766494939,
+                "LastUpdate": 1766498960,
                 "is_closed_source": true
             }
         ]
@@ -7787,45 +7787,45 @@
                 "Name": "BetterFateList",
                 "InternalName": "BetterFateList",
                 "Description": "Provides a list of all FATEs in the current zone, with their type, sorted by maximum level and distance from you.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/VariableVixen/BetterFateList",
-                "LastUpdate": 1756145400
+                "LastUpdate": 1766504076
             },
             {
                 "Author": "VariableVixen",
                 "Name": "TinyCommands",
                 "InternalName": "TinyCmds",
                 "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/VariableVixen/TinyCommands",
-                "LastUpdate": 1754888400
+                "LastUpdate": 1766502847
             },
             {
                 "Author": "VariableVixen",
                 "Name": "WoLua",
                 "InternalName": "WoLua",
                 "Description": "Write custom chat commands by creating lua scripts",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/VariableVixen/WoLua",
-                "LastUpdate": 1760863629
+                "LastUpdate": 1766502869
             },
             {
                 "Author": "attick, daemitus, VariableVixen",
                 "Name": "XIV Combo Very Expanded",
                 "InternalName": "XIVComboVX",
                 "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/VariableVixen/XIVComboPlugin",
-                "LastUpdate": 1763311016
+                "LastUpdate": 1766501315
             },
             {
                 "Author": "VariableVixen",
                 "Name": "XivEsp",
                 "InternalName": "XivEsp",
                 "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/VariableVixen/XivEsp",
-                "LastUpdate": 1756145251
+                "LastUpdate": 1766504262
             }
         ]
     },
@@ -8083,9 +8083,9 @@
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1765066484
+                "LastUpdate": 1766509005
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
