@@ -734,7 +734,7 @@
                 "Description": "Various tools for private use. Module: AutoSpear, CraftQueue, Dps, DutyHistory, Instancinator, Macro, OpcodeWizard, SliceIsRight, Yes",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Athavar/Athavar.FFXIV.Plugin",
-                "LastUpdate": 1766345491
+                "LastUpdate": 1766546570
             }
         ]
     },
@@ -818,7 +818,7 @@
                 "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
-                "LastUpdate": 1766517939
+                "LastUpdate": 1766561608
             },
             {
                 "Author": "Haselnussbomber",
@@ -1626,7 +1626,7 @@
                 "Description": "（CN Only）如果你的网络环境不能稳定的访问 Github，那么可以试试本插件提供的 Github 加速服务\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
-                "LastUpdate": 1766521156
+                "LastUpdate": 1766562460
             },
             {
                 "Author": "decorwdyun",
@@ -1654,7 +1654,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1766509018
+                "LastUpdate": 1766554395
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -1888,7 +1888,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1766361564
+                "LastUpdate": 1766548135
             }
         ]
     },
@@ -2077,7 +2077,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1766320223
+                "LastUpdate": 1766555275
             }
         ]
     },
@@ -2094,7 +2094,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1766320223
+                "LastUpdate": 1766555275
             },
             {
                 "Author": "erdelf",
@@ -2424,7 +2424,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1766511793
+                "LastUpdate": 1766558126
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3839,7 +3839,7 @@
                 "Description": "在屏幕和游戏地图上显示游戏实体的位置。\nDisplays game objects location on screen and map.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KirisameVanilla/Radar",
-                "LastUpdate": 1766432270
+                "LastUpdate": 1766556080
             }
         ]
     },
@@ -4202,7 +4202,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
-                "LastUpdate": 1766337574
+                "LastUpdate": 1766542267
             }
         ]
     },
@@ -8342,6 +8342,15 @@
                 "LastUpdate": 1765972636
             },
             {
+                "Author": "Infi, translated by yimo",
+                "Name": "EventyCN",
+                "InternalName": "Eventy",
+                "Description": "简单但实用的日历\n- 当前活动显示在服务器栏条目中，便于快速查看\n- 浏览当前、即将举行和过往举办的活动\n- 对制作人来信和其他重要场合的特殊日期进行高亮显示",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/yimo0908/Eventy",
+                "LastUpdate": 1766553517
+            },
+            {
                 "Author": "MidoriKami, translated by cyf5119 & Yimo",
                 "Name": "Mappy",
                 "InternalName": "Mappy",
@@ -8357,7 +8366,7 @@
                 "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，但数据读取依旧不稳定）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
-                "LastUpdate": 1766401054
+                "LastUpdate": 1766553972
             }
         ]
     },
