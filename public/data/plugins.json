@@ -74,7 +74,7 @@
                 "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://puni.sh/api/repository/taurenkey",
-                "LastUpdate": 1766403957
+                "LastUpdate": 1766669971
             }
         ]
     },
@@ -761,7 +761,7 @@
                 "Description": "记录你每一笔货币收支的数额、时间、地点与来源\nTrack every change of your currecies with its Amount, Time, Location and Source",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/CurrencyTracker",
-                "LastUpdate": 1766309542
+                "LastUpdate": 1766665627
             },
             {
                 "Author": "AtmoOmen",
@@ -845,7 +845,7 @@
                 "Description": "自动化 T 职副本场次成就刷取工具\n注意: 副本战斗需要自行使用其他插件解决",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/UntarnishedHeart",
-                "LastUpdate": 1766310556
+                "LastUpdate": 1766663951
             },
             {
                 "Author": "ocealot, AtmoOmen (汉化)",
@@ -1283,7 +1283,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1766621610
+                "LastUpdate": 1766673646
             }
         ]
     },
@@ -1489,7 +1489,7 @@
                 "Description": "FFXIV plugin for adjusting the position of characters when wearing modded footwear. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1766621610
+                "LastUpdate": 1766673646
             }
         ]
     },
@@ -2316,7 +2316,7 @@
                 "Description": "一个用于分析游戏内网络包详细内容的Debug工具，更推荐开发人员使用。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/extrant/FFXIVNetworkPacketAnalysisTool",
-                "LastUpdate": 1760332057
+                "LastUpdate": 1766671848
             },
             {
                 "Author": "Siren",
@@ -2325,7 +2325,7 @@
                 "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/extrant?tab=repositories",
-                "LastUpdate": 1766199179
+                "LastUpdate": 1766654342
             },
             {
                 "Author": "Bluefissure",
@@ -2343,7 +2343,7 @@
                 "Description": "我是一个FF14学习插件(国服API13)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/I-Ching-GL.zip",
-                "LastUpdate": 1766199165,
+                "LastUpdate": 1766654311,
                 "is_closed_source": true
             },
             {
@@ -3016,7 +3016,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1766291366
+                "LastUpdate": 1766664949
             },
             {
                 "Author": "Haselnussbomber",
@@ -3670,7 +3670,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1766241895,
+                "LastUpdate": 1766671546,
                 "is_closed_source": true
             },
             {
@@ -3978,7 +3978,7 @@
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1766393375
+                "LastUpdate": 1766662693
             },
             {
                 "Author": "Latihas",
@@ -4348,7 +4348,7 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1766393375
+                "LastUpdate": 1766662693
             }
         ]
     },
@@ -5222,6 +5222,23 @@
         ]
     },
     {
+        "repo_developer_name": "notYuta",
+        "repo_url": "https://raw.githubusercontent.com/notYuta/mobhuntoverlay/main/repo.json",
+        "repo_source_url": "https://github.com/notYuta/mobhuntoverlay",
+        "repo_name": "mobhuntoverlay",
+        "plugins": [
+            {
+                "Author": "notYuta",
+                "Name": "MobHuntOverlay",
+                "InternalName": "MobHuntOverlay",
+                "Description": "手配書の「生息場所」ボタンからマップを開くと、Bモブのスポーン位置をマーカー表示します。",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/notYuta/mobhuntoverlay",
+                "LastUpdate": 1766675825
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/pluginmaster.json",
         "repo_source_url": "https://github.com/Nukoooo/DalamudPlugins",
         "repo_game_client": "chinese",
@@ -5524,7 +5541,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1766621610
+                "LastUpdate": 1766673646
             }
         ],
         "repo_developer_name": "Ottermandias"
@@ -6034,7 +6051,7 @@
                 "Description": "Chronofoil is a plugin that allows you to capture in-game packets for analysis later.\nIt also allows you to upload a censored version of these captures to a central repository for\npreservation and analysis. Privacy controls are at the center of Chronofoil, which is why it\nrequires two levels of user opt-in, has minimum delays on releasing any submitted user info,\nand allows users to delete their submitted data at any time.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ProjectChronofoil/Chronofoil.Plugin",
-                "LastUpdate": 1766372564
+                "LastUpdate": 1766675733
             }
         ]
     },
@@ -6150,7 +6167,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1766646462
+                "LastUpdate": 1766669507
             },
             {
                 "Author": "daemitus, kawaii",
@@ -6621,7 +6638,7 @@
                 "Name": "Echokraut",
                 "InternalName": "Echokraut",
                 "Description": "A TTS Plugin that breaks the silence! For self hosted AllTalk instance. /ek",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
                 "LastUpdate": 1766489703
             },
@@ -6659,16 +6676,16 @@
                 "Description": "An in-game voice chat plugin with character proximity detection.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-ProximityVoiceChat",
-                "LastUpdate": 1766383662
+                "LastUpdate": 1766671456
             },
             {
                 "Author": "Ricimon",
                 "Name": "RaidsRewritten",
                 "InternalName": "RaidsRewritten",
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1765664970
+                "LastUpdate": 1766671317
             },
             {
                 "Author": "Ricimon",
@@ -7184,7 +7201,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1766589739,
+                "LastUpdate": 1766670627,
                 "is_closed_source": true
             }
         ]
@@ -7616,7 +7633,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1766539854
+                "LastUpdate": 1766671318
             }
         ]
     },
@@ -7648,9 +7665,9 @@
                 "Name": "Tomestone",
                 "InternalName": "Dalamud.Tomestone",
                 "Description": "A presence and gear tracker that syncs your in-game job, zone, level and gear changes to the tomestone.gg web site.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TomestoneGG/Dalamud.Tomestone",
-                "LastUpdate": 1756820925
+                "LastUpdate": 1766674013
             }
         ]
     },
@@ -8069,7 +8086,7 @@
                 "InternalName": "NotesPal",
                 "Description": "Make text notes ifor other players e.g. to remind you where you meet them in game.",
                 "RepoUrl": "https://github.com/Waitsnake/NotesPal",
-                "LastUpdate": 1766629628
+                "LastUpdate": 1766675098
             }
         ]
     },
@@ -8085,7 +8102,7 @@
                 "InternalName": "NotesPal",
                 "Description": "Make text notes ifor other players e.g. to remind you where you meet them in game.",
                 "RepoUrl": "https://github.com/Waitsnake/NotesPal",
-                "LastUpdate": 1766629628
+                "LastUpdate": 1766675098
             }
         ]
     },
