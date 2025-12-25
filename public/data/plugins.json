@@ -818,7 +818,7 @@
                 "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
-                "LastUpdate": 1766563565
+                "LastUpdate": 1766611390
             },
             {
                 "Author": "Haselnussbomber",
@@ -1283,7 +1283,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1766124846
+                "LastUpdate": 1766621610
             }
         ]
     },
@@ -1489,7 +1489,7 @@
                 "Description": "FFXIV plugin for adjusting the position of characters when wearing modded footwear. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1766124846
+                "LastUpdate": 1766621610
             }
         ]
     },
@@ -2451,7 +2451,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1766520169
+                "LastUpdate": 1766613046
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3069,6 +3069,15 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
                 "LastUpdate": 1766161674
+            },
+            {
+                "Author": "Usagi(作者), HKazuki0818(維護)",
+                "Name": "IINACT",
+                "InternalName": "IINACT",
+                "Description": "一個用於在類似 ACT 的環境中執行 FFXIV_ACT_Plugin 的外掛程式，採用針對現代 .NET 進行大幅修改的 Overlay Plugin 移植版本。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/HKazuki0818/IINACT",
+                "LastUpdate": 1766627104
             }
         ]
     },
@@ -5515,7 +5524,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1766124846
+                "LastUpdate": 1766621610
             }
         ],
         "repo_developer_name": "Ottermandias"
@@ -5586,9 +5595,9 @@
                 "Name": "ActionTimelineReplacement(aka. ATR)",
                 "InternalName": "ActionTimelineReplacement",
                 "Description": "A simple plugin to replace timelines of actions.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/papapachin/ActionTimelineReplacement/tree/Global",
-                "LastUpdate": 1766604895
+                "LastUpdate": 1766609703
             }
         ]
     },
@@ -6069,7 +6078,7 @@
                 "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Avarice",
-                "LastUpdate": 1766113407
+                "LastUpdate": 1766626420
             },
             {
                 "Author": "Taurenkey, NightmareXIV, Gidedin",
@@ -7711,7 +7720,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1766356954
+                "LastUpdate": 1766628813
             }
         ]
     },
@@ -8031,6 +8040,38 @@
         "repo_developer_name": "ViviAshe"
     },
     {
+        "repo_developer_name": "Waitsnake",
+        "repo_url": "https://raw.githubusercontent.com/Waitsnake/NotePal/main/repo.json",
+        "repo_source_url": "https://github.com/Waitsnake/NotePal",
+        "repo_name": "NotePal",
+        "plugins": [
+            {
+                "Author": "Waitsnake",
+                "Name": "NotesPal",
+                "InternalName": "NotesPal",
+                "Description": "Make text notes ifor other players e.g. to remind you where you meet them in game.",
+                "RepoUrl": "https://github.com/Waitsnake/NotesPal",
+                "LastUpdate": 1766629628
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Waitsnake",
+        "repo_url": "https://raw.githubusercontent.com/Waitsnake/NotesPal/main/repo.json",
+        "repo_source_url": "https://github.com/Waitsnake/NotesPal",
+        "repo_name": "NotesPal",
+        "plugins": [
+            {
+                "Author": "Waitsnake",
+                "Name": "NotesPal",
+                "InternalName": "NotesPal",
+                "Description": "Make text notes ifor other players e.g. to remind you where you meet them in game.",
+                "RepoUrl": "https://github.com/Waitsnake/NotesPal",
+                "LastUpdate": 1766629628
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/WesleyLuk90/ffxiv-vr/raw/master/PluginRepo/pluginmaster.json",
         "repo_source_url": "https://github.com/WesleyLuk90/ffxiv-vr",
         "repo_name": "ffxiv-vr",
@@ -8276,7 +8317,7 @@
                 "Description": "透過 WebSocket 接收狩獵巡車通知，並在收到訊息時播放提示音及顯示聊天訊息。使用 /touralert 開啟設定。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivwolf/a-tour-ingame",
-                "LastUpdate": 1766604604
+                "LastUpdate": 1766611451
             }
         ]
     },
@@ -8562,7 +8603,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1766596871
+                "LastUpdate": 1766620665
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
