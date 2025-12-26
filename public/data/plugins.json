@@ -360,7 +360,7 @@
                 "Description": "Chroma is a simple accessibility plugin for modifying the color of Area-of-Effect indicators.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Akechi-kun/Chroma",
-                "LastUpdate": 1765931007
+                "LastUpdate": 1766767321
             }
         ]
     },
@@ -622,7 +622,7 @@
                 "Description": "A simple plugin that lets you play any game emote, whether you unlocked it or not.\nClient side only.\nJust type the emote command as you would normally.\nWorks with custom animations and syncable over Mare.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
-                "LastUpdate": 1766763251
+                "LastUpdate": 1766781017
             }
         ]
     },
@@ -1471,7 +1471,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1766243010
+                "LastUpdate": 1766769806
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -1626,7 +1626,7 @@
                 "Description": "（CN Only）如果你的网络环境不能稳定的访问 Github，那么可以试试本插件提供的 Github 加速服务\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
-                "LastUpdate": 1766687532
+                "LastUpdate": 1766782354
             },
             {
                 "Author": "decorwdyun",
@@ -2077,7 +2077,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1766762166
+                "LastUpdate": 1766773665
             }
         ]
     },
@@ -2094,7 +2094,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1766762166
+                "LastUpdate": 1766773665
             },
             {
                 "Author": "erdelf",
@@ -2451,7 +2451,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1766691213
+                "LastUpdate": 1766777759
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2954,9 +2954,9 @@
                 "Name": "AdaptiveFPS",
                 "InternalName": "AdaptiveFPS",
                 "Description": "Automatically switches the game's system 'Frame Rate' between Main Display (option 2), 60 (option 3), and 30 (option 4) based on combat status.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/h1arc/adaptivefps",
-                "LastUpdate": 1757223052
+                "LastUpdate": 1766780432
             }
         ]
     },
@@ -3016,7 +3016,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1766664949
+                "LastUpdate": 1766786062
             },
             {
                 "Author": "Haselnussbomber",
@@ -3145,7 +3145,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1766515287
+                "LastUpdate": 1766780631
             }
         ]
     },
@@ -4326,6 +4326,24 @@
         ]
     },
     {
+        "repo_url": "https://github.com/marzent/IINACT/raw/main/repo.json",
+        "repo_source_url": "https://github.com/marzent/IINACT",
+        "repo_discord_url": "https://discord.gg/pcexJC8YPG",
+        "repo_name": "IINACT",
+        "repo_developer_name": "marzent",
+        "plugins": [
+            {
+                "Author": "Usagi",
+                "Name": "IINACT",
+                "InternalName": "IINACT",
+                "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/marzent/IINACT",
+                "LastUpdate": 1766741461
+            }
+        ]
+    },
+    {
         "repo_developer_name": "McSwindler",
         "repo_url": "https://raw.githubusercontent.com/McSwindler/SneakOnBy/master/repo.json",
         "repo_source_url": "https://github.com/McSwindler/SneakOnBy",
@@ -4595,7 +4613,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1766704555
+                "LastUpdate": 1766784525
             }
         ]
     },
@@ -5434,7 +5452,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1766243010
+                "LastUpdate": 1766769806
             }
         ]
     },
@@ -5478,7 +5496,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1766243010
+                "LastUpdate": 1766769806
             },
             {
                 "Author": "Anna",
@@ -6050,7 +6068,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1766515287
+                "LastUpdate": 1766780631
             },
             {
                 "Author": "Det, Taurenkey",
@@ -6077,7 +6095,7 @@
                 "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Avarice",
-                "LastUpdate": 1766626420
+                "LastUpdate": 1766783569
             },
             {
                 "Author": "Taurenkey, NightmareXIV, Gidedin",
@@ -6149,7 +6167,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1766764142
+                "LastUpdate": 1766772642
             },
             {
                 "Author": "daemitus, kawaii",
@@ -7183,7 +7201,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1766745507,
+                "LastUpdate": 1766769389,
                 "is_closed_source": true
             }
         ]
@@ -8068,7 +8086,7 @@
                 "InternalName": "NotesPal",
                 "Description": "Make text notes ifor other players e.g. to remind you where you meet them in game.",
                 "RepoUrl": "https://github.com/Waitsnake/NotesPal",
-                "LastUpdate": 1766752522
+                "LastUpdate": 1766767375
             }
         ]
     },
@@ -8084,7 +8102,7 @@
                 "InternalName": "NotesPal",
                 "Description": "Make text notes ifor other players e.g. to remind you where you meet them in game.",
                 "RepoUrl": "https://github.com/Waitsnake/NotesPal",
-                "LastUpdate": 1766752522
+                "LastUpdate": 1766767375
             }
         ]
     },
