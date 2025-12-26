@@ -38,7 +38,7 @@
                 "Description": "Boss mod.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1766394269
+                "LastUpdate": 1766739484
             },
             {
                 "Author": "ocealot",
@@ -1888,7 +1888,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1766548135
+                "LastUpdate": 1766736835
             }
         ]
     },
@@ -2325,7 +2325,7 @@
                 "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/extrant?tab=repositories",
-                "LastUpdate": 1766698992
+                "LastUpdate": 1766741903
             },
             {
                 "Author": "Bluefissure",
@@ -2343,7 +2343,7 @@
                 "Description": "我是一个FF14学习插件(国服API13)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/I-Ching-GL.zip",
-                "LastUpdate": 1766698976,
+                "LastUpdate": 1766741486,
                 "is_closed_source": true
             },
             {
@@ -2406,7 +2406,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1766394269
+                "LastUpdate": 1766739484
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2424,7 +2424,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1766558126
+                "LastUpdate": 1766726405
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3025,7 +3025,7 @@
                 "Description": "Keep on tweaking.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1766720854
+                "LastUpdate": 1766721535
             },
             {
                 "Author": "Haselnussbomber",
@@ -3062,22 +3062,13 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
-                "Author": "NightmareXIV(作者), HKazuki0818(維護)",
+                "Author": "NightmareXIV(開發者), HKazuki0818(修改與維護)",
                 "Name": "AntiAfkKick",
                 "InternalName": "AntiAfkKick-Dalamud",
                 "Description": "這是一款可防止玩家因閒置而被自動踢出《Final Fantasy XIV》的 Dalamud 插件。安裝後即可使用，無需任何設定，輕鬆無負擔。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
-                "LastUpdate": 1766720877
-            },
-            {
-                "Author": "Usagi(作者), HKazuki0818(維護)",
-                "Name": "IINACT",
-                "InternalName": "IINACT",
-                "Description": "一個用於在類似 ACT 的環境中執行 FFXIV_ACT_Plugin 的外掛程式，採用針對現代 .NET 進行大幅修改的 Overlay Plugin 移植版本。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HKazuki0818/IINACT",
-                "LastUpdate": 1766627104
+                "LastUpdate": 1766735866
             }
         ]
     },
@@ -3670,7 +3661,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1766671546,
+                "LastUpdate": 1766724084,
                 "is_closed_source": true
             },
             {
@@ -3978,7 +3969,7 @@
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1766662693
+                "LastUpdate": 1766741461
             },
             {
                 "Author": "Latihas",
@@ -4348,7 +4339,7 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1766662693
+                "LastUpdate": 1766741461
             }
         ]
     },
@@ -5223,18 +5214,27 @@
     },
     {
         "repo_developer_name": "notYuta",
-        "repo_url": "https://raw.githubusercontent.com/notYuta/mobhuntoverlay/main/repo.json",
-        "repo_source_url": "https://github.com/notYuta/mobhuntoverlay",
-        "repo_name": "mobhuntoverlay",
+        "repo_url": "https://raw.githubusercontent.com/notYuta/DalamudPluginRepo/main/repo.json",
+        "repo_source_url": "https://github.com/notYuta/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
         "plugins": [
+            {
+                "Author": "notYuta",
+                "Name": "GatherMapOverlay",
+                "InternalName": "GatherMapOverlay",
+                "Description": "Displays gathering points on the main map for Miners and Botanists. Automatically detects harvestable nodes near the player and uses different icons for primary/secondary tools and legendary nodes.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/notYuta/GatherMapOverlay",
+                "LastUpdate": 1766737790
+            },
             {
                 "Author": "notYuta",
                 "Name": "MobHuntOverlay",
                 "InternalName": "MobHuntOverlay",
-                "Description": "手配書の「生息場所」ボタンからマップを開くと、Bモブのスポーン位置をマーカー表示します。",
+                "Description": "Shows B-rank mob spawn locations on the map when opening from the hunt bill's Habitat button.",
                 "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/notYuta/mobhuntoverlay",
-                "LastUpdate": 1766677029
+                "RepoUrl": "https://github.com/notYuta/MobHuntOverlay",
+                "LastUpdate": 1766738396
             }
         ]
     },
@@ -5614,7 +5614,7 @@
                 "Description": "A simple plugin to replace timelines of actions.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/papapachin/ActionTimelineReplacement/tree/Global",
-                "LastUpdate": 1766609703
+                "LastUpdate": 1766732253
             }
         ]
     },
@@ -6086,7 +6086,7 @@
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1766510412
+                "LastUpdate": 1766735948
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -7201,7 +7201,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1766680603,
+                "LastUpdate": 1766727989,
                 "is_closed_source": true
             }
         ]
