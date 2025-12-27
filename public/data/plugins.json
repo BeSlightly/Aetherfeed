@@ -10,9 +10,9 @@
                 "Name": "[BETA] VFXEditor",
                 "InternalName": "VFXEditor-Beta",
                 "Description": "VFX, animation, and sound editing plugin. Icon by PAPACHIN",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
-                "LastUpdate": 1758916456
+                "LastUpdate": 1766795206
             }
         ]
     },
@@ -456,7 +456,7 @@
                 "Description": "Update honorific title based on discord activity informations",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
-                "LastUpdate": 1766684920
+                "LastUpdate": 1766805196
             },
             {
                 "Author": "Pyon, Anya Hichu",
@@ -492,7 +492,7 @@
                 "Description": "Displays emote counters as honorific title dynamically",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
-                "LastUpdate": 1766180955
+                "LastUpdate": 1766804638
             },
             {
                 "Author": "Anya Hichu",
@@ -2077,7 +2077,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1766773665
+                "LastUpdate": 1766796470
             }
         ]
     },
@@ -2094,7 +2094,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1766773665
+                "LastUpdate": 1766796470
             },
             {
                 "Author": "erdelf",
@@ -3025,7 +3025,7 @@
                 "Description": "Keep on tweaking.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1766721535
+                "LastUpdate": 1766802443
             },
             {
                 "Author": "Haselnussbomber",
@@ -3062,13 +3062,22 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
-                "Author": "NightmareXIV(開發者), HKazuki0818(修改與維護)",
+                "Author": "NightmareXIV（開發者），HKazuki0818（修改與維護）",
                 "Name": "AntiAfkKick",
                 "InternalName": "AntiAfkKick-Dalamud",
                 "Description": "這是一款可防止玩家因閒置而被自動踢出《Final Fantasy XIV》的 Dalamud 插件。安裝後即可使用，無需任何設定，輕鬆無負擔。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
                 "LastUpdate": 1766735866
+            },
+            {
+                "Author": "SheepGoMeh（開發者），HKazuki0818（修改與維護）",
+                "Name": "Visibility",
+                "InternalName": "Visibility",
+                "Description": "可讓你自由隱藏遊戲畫面上的玩家、召喚獸、陸行鳥與寵物。\n並且內建 VoidList（更完善的黑名單功能），可透過 /pvis 進行設定。\n更多資訊請使用 /xlhelp 進行查看。\n\nPS. 由於繁中服角色姓名格式與國際服不同的問題，目前無法使用黑名單與白名單功能。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/HKazuki0818/Visibility",
+                "LastUpdate": 1766810561
             }
         ]
     },
@@ -4613,7 +4622,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1766784525
+                "LastUpdate": 1766810307
             }
         ]
     },
@@ -5435,7 +5444,7 @@
                 "Description": "Voice acted Nael quotes in The Unending Coil of Bahamut.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OTCompa/VoicedNaelQuotes",
-                "LastUpdate": 1766710274
+                "LastUpdate": 1766809996
             }
         ]
     },
@@ -7737,7 +7746,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1766628813
+                "LastUpdate": 1766796373
             }
         ]
     },
@@ -7826,6 +7835,15 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/JobAutoSwitcher",
                 "LastUpdate": 1766176197
+            },
+            {
+                "Author": "Vali",
+                "Name": "Retainer Inventory Price",
+                "InternalName": "RetainerInventoryPrice",
+                "Description": "Scans your retainer inventories when you open them and calculates their total estimated market value using Universalis prices.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Valiice/RetainerInventoryPrice",
+                "LastUpdate": 1766795415
             },
             {
                 "Author": "Vali",
