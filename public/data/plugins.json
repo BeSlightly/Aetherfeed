@@ -12,7 +12,7 @@
                 "Description": "VFX, animation, and sound editing plugin. Icon by PAPACHIN",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
-                "LastUpdate": 1766900840
+                "LastUpdate": 1766910060
             }
         ]
     },
@@ -38,7 +38,7 @@
                 "Description": "Boss mod.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1766739484
+                "LastUpdate": 1766912404
             },
             {
                 "Author": "ocealot",
@@ -394,7 +394,7 @@
                 "Description": "Tracks GameObjects and sends them to Akurosia Kamo",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/amki/AkuTrack",
-                "LastUpdate": 1766873558
+                "LastUpdate": 1766921880
             }
         ]
     },
@@ -2077,7 +2077,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1766835094
+                "LastUpdate": 1766916038
             }
         ]
     },
@@ -2094,7 +2094,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1766835094
+                "LastUpdate": 1766916038
             },
             {
                 "Author": "erdelf",
@@ -2406,7 +2406,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1766739484
+                "LastUpdate": 1766912404
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3701,6 +3701,32 @@
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/WorldWide/plugins/KodakkuAssist",
                 "LastUpdate": 1762260223,
                 "is_closed_source": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kazukicorp",
+        "repo_url": "https://raw.githubusercontent.com/kazukicorp/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/kazukicorp/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "NightmareXIV（開發者），HKazuki0818（修改與維護）",
+                "Name": "AntiAfkKick",
+                "InternalName": "AntiAfkKick-Dalamud",
+                "Description": "這是一款可以防止玩家因長時間無任何遊戲操作，而被系統自動踢出《Final Fantasy XIV》的輔助插件。\n安裝後即可立即生效，無需任何額外設定，輕鬆使用無負擔。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
+                "LastUpdate": 1766735866
+            },
+            {
+                "Author": "SheepGoMeh（開發者），HKazuki0818（修改與維護）",
+                "Name": "Visibility",
+                "InternalName": "Visibility",
+                "Description": "可讓你自由隱藏遊戲畫面上的玩家、召喚獸、陸行鳥與寵物。\n並且內建 VoidList（更完善的黑名單功能），可透過 /pvis 進行設定。\n更多資訊請使用 /xlhelp 進行查看。\n\nPS. 由於繁中服角色姓名格式與國際服不同的問題，目前無法使用黑名單與白名單功能。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/HKazuki0818/Visibility",
+                "LastUpdate": 1766814830
             }
         ]
     },
@@ -7192,7 +7218,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1766852363,
+                "LastUpdate": 1766913462,
                 "is_closed_source": true
             }
         ]
@@ -7983,7 +8009,7 @@
                 "InternalName": "VIWI",
                 "Description": "Vera's Integrated World Improvements",
                 "DalamudApiLevel": 14,
-                "LastUpdate": 1766258172
+                "LastUpdate": 1766903907
             },
             {
                 "Author": "vera.lyn",
