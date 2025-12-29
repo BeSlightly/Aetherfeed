@@ -29,7 +29,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1766954619
+                "LastUpdate": 1767027075
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -906,7 +906,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1766954619
+                "LastUpdate": 1767027075
             },
             {
                 "Author": "veyn, croizat",
@@ -1001,7 +1001,7 @@
                 "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/BeSlightly/Snappy",
-                "LastUpdate": 1766385480
+                "LastUpdate": 1767033647
             }
         ]
     },
@@ -1274,7 +1274,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1766362753
+                "LastUpdate": 1767017968
             },
             {
                 "Author": "Caraxi",
@@ -2026,7 +2026,7 @@
                 "Description": "Use dresser outside of inns. Search items in other inventories or cheap at vendors. Try on your own character. Browse modded items.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/emyxiv/Dresser",
-                "LastUpdate": 1766974272
+                "LastUpdate": 1767021690
             }
         ]
     },
@@ -2077,7 +2077,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1766978085
+                "LastUpdate": 1767028064
             }
         ]
     },
@@ -2094,7 +2094,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1766978085
+                "LastUpdate": 1767028064
             },
             {
                 "Author": "erdelf",
@@ -2325,7 +2325,7 @@
                 "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/extrant?tab=repositories",
-                "LastUpdate": 1766940627
+                "LastUpdate": 1767016767
             },
             {
                 "Author": "Bluefissure",
@@ -2343,7 +2343,7 @@
                 "Description": "我是一个FF14学习插件(国服API13)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/I-Ching-GL.zip",
-                "LastUpdate": 1766940634,
+                "LastUpdate": 1767016754,
                 "is_closed_source": true
             },
             {
@@ -3349,7 +3349,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1767012506
+                "LastUpdate": 1767034981
             },
             {
                 "Author": "croizat",
@@ -3737,13 +3737,13 @@
         "repo_name": "DalamudPluginRepo",
         "plugins": [
             {
-                "Author": "KazuyaMito",
+                "Author": "penguin4glte",
                 "Name": "Auto Retainer Sell List",
                 "InternalName": "AutoRetainerSellList",
                 "Description": "Configure a list of items to maintain on sale at (lowest market price - 1 gil)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KazuyaMito/AutoRetainerSellList",
-                "LastUpdate": 1767008612
+                "LastUpdate": 1767017988
             }
         ]
     },
@@ -5793,6 +5793,23 @@
         ]
     },
     {
+        "repo_developer_name": "penguin4glte",
+        "repo_url": "https://raw.githubusercontent.com/penguin4glte/DalamudPluginRepo/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/penguin4glte/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "penguin4glte",
+                "Name": "Auto Retainer Sell List",
+                "InternalName": "AutoRetainerSellList",
+                "Description": "Configure a list of items to maintain on sale at (lowest market price - 1 gil)",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/penguin4glte/AutoRetainerSellList",
+                "LastUpdate": 1767017988
+            }
+        ]
+    },
+    {
         "repo_developer_name": "perappu",
         "repo_url": "https://raw.githubusercontent.com/perappu/WhoSaidWhatNow/master/repo.json",
         "repo_source_url": "https://github.com/perappu/WhoSaidWhatNow",
@@ -6799,7 +6816,7 @@
                 "Description": "An in-game voice chat plugin with character proximity detection.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-ProximityVoiceChat",
-                "LastUpdate": 1766671456
+                "LastUpdate": 1767018419
             },
             {
                 "Author": "Ricimon",
@@ -6817,7 +6834,7 @@
                 "Description": "Send other players ground pings and UI information.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-SmartPings",
-                "LastUpdate": 1766383494
+                "LastUpdate": 1767018391
             }
         ]
     },
@@ -7324,7 +7341,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1767010430,
+                "LastUpdate": 1767021861,
                 "is_closed_source": true
             }
         ]
@@ -7591,7 +7608,7 @@
                 "Description": "Everything-including-the-kitchen-sink plugin with extra scales.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/taco1932/test",
-                "LastUpdate": 1766309260
+                "LastUpdate": 1767024316
             }
         ]
     },
@@ -7677,7 +7694,7 @@
                 "Description": "Integration for Pishock and OpenShock devices.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
-                "LastUpdate": 1766346375
+                "LastUpdate": 1767031853
             }
         ]
     },
@@ -8036,16 +8053,16 @@
                 "Description": "为副本记录器添加了额外功能，并在副本中自动录制\n在旅馆中使用 /record 指令来打开回放列表\n如果相关指令未解锁，请完成「回顾英雄诗篇」任务",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/VeeverSW/DalamudPlugins",
-                "LastUpdate": 1763373631
+                "LastUpdate": 1767019997
             },
             {
                 "Author": "kawaii, Veever(汉化+额外功能)",
                 "Name": "Hyperborea",
                 "InternalName": "HyperboreaCN",
                 "Description": "可在相对安全的环境下加载并探索任意区域，主要用于在无法进入/难以进入的场景中拍照",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/VeeverSW/Hyperborea",
-                "LastUpdate": 1763373286
+                "LastUpdate": 1767018821
             }
         ]
     },
