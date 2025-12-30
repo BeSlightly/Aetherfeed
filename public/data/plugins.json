@@ -3145,7 +3145,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1766831554
+                "LastUpdate": 1767085750
             }
         ]
     },
@@ -3669,7 +3669,7 @@
                 "Name": "PixelPerfectEx",
                 "InternalName": "PixelPerfectEx",
                 "Description": "A plugin that allows you to draw ring and line on player or target.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/PixelPerfectEx",
                 "LastUpdate": 1767082297,
                 "is_closed_source": true
@@ -3679,9 +3679,9 @@
                 "Name": "PvPSelector",
                 "InternalName": "PvPSelector",
                 "Description": "A plugin that allows you to select the enemy with the lowest currentHp in your range.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/PvPSelector",
-                "LastUpdate": 1758770727,
+                "LastUpdate": 1767083295,
                 "is_closed_source": true
             }
         ]
@@ -6208,7 +6208,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1766831554
+                "LastUpdate": 1767085750
             },
             {
                 "Author": "Det, Taurenkey",
@@ -6283,13 +6283,13 @@
                 "LastUpdate": 1766525987
             },
             {
-                "Author": "Taurenkey, NightmareXIV",
+                "Author": "Taurenkey, Kage, NightmareXIV",
                 "Name": "Saucy",
                 "InternalName": "Saucy",
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1766123354
+                "LastUpdate": 1767092662
             },
             {
                 "Author": "NightmareXIV, Xenosys",
@@ -6307,7 +6307,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1767006671
+                "LastUpdate": 1767096854
             },
             {
                 "Author": "daemitus, kawaii",
@@ -8720,6 +8720,15 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zbee/ARC",
                 "LastUpdate": 1766028802
+            },
+            {
+                "Author": "zbee",
+                "Name": "Mappy",
+                "InternalName": "MappyUpdated",
+                "Description": "Replaces the in-game map with an ImGui implementation with several additional features.\nCreated by MidoriKami, updated for 7.4 by zbee.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/zbee/Mappy",
+                "LastUpdate": 1767080867
             }
         ]
     },
