@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
 import { Menu, X, Sun, Moon, Radio } from 'lucide-react';
 import { useTheme } from '../context/ThemeContext';
-import { Link, useLocation } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 
 export const Header: React.FC = () => {
     const { theme, toggleTheme } = useTheme();
@@ -11,6 +11,7 @@ export const Header: React.FC = () => {
     const lastScrollY = useRef(0);
     const isDark = theme === 'dark';
     const location = useLocation();
+    const navigate = useNavigate();
 
     useEffect(() => {
         const controlNavbar = () => {
@@ -41,6 +42,13 @@ export const Header: React.FC = () => {
         { name: 'Resources', href: '/resources' },
     ];
 
+    const handleHomeClick = (event: React.MouseEvent<HTMLAnchorElement>) => {
+        event.preventDefault();
+        setIsMenuOpen(false);
+        navigate('/', { state: { resetHome: Date.now() } });
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
+
     return (
         <header className={`fixed top-0 left-0 right-0 z-50 transition-transform duration-300 ${isVisible ? 'translate-y-0' : '-translate-y-full'}`}>
             <div className="absolute inset-0 bg-white/70 dark:bg-void-950/70 backdrop-blur-lg border-b border-slate-200/50 dark:border-white/10 z-0" />
@@ -48,7 +56,7 @@ export const Header: React.FC = () => {
             <div className="relative z-10 max-w-7xl 2xl:max-w-[90%] mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex justify-between items-center h-16">
                     {/* Logo */}
-                    <Link to="/" className="shrink-0 flex items-center cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
+                    <Link to="/" className="shrink-0 flex items-center cursor-pointer" onClick={handleHomeClick}>
                         <img src={`${import.meta.env.BASE_URL}logo.svg`} alt="Aetherfeed Logo" className="h-8 w-8 mr-2" />
                         <span className="font-display font-bold text-xl tracking-tight text-slate-900 dark:text-white">
                             Aetherfeed
@@ -63,6 +71,7 @@ export const Header: React.FC = () => {
                                 <Link
                                     key={link.name}
                                     to={link.href}
+                                    onClick={link.href === '/' ? handleHomeClick : undefined}
                                     className={`text-sm font-medium transition-colors relative ${isActive
                                         ? 'text-aether-600 dark:text-aether-400'
                                         : 'text-slate-600 hover:text-aether-500 dark:text-slate-300 dark:hover:text-aether-400'
@@ -132,7 +141,7 @@ export const Header: React.FC = () => {
                             key={link.name}
                             to={link.href}
                             className="block px-3 py-2 rounded-md text-base font-medium text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-white/5 hover:text-aether-500"
-                            onClick={() => setIsMenuOpen(false)}
+                            onClick={link.href === '/' ? handleHomeClick : () => setIsMenuOpen(false)}
                         >
                             {link.name}
                         </Link>

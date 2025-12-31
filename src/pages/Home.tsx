@@ -10,6 +10,7 @@ import { formatDate } from '../utils/formatDate';
 import { SortAsc, SortDesc } from 'lucide-react';
 import MultiSelect from '../components/MultiSelect';
 import Select from '../components/Select';
+import { useLocation } from 'react-router-dom';
 
 const CHINESE_REGEX = /[\u4e00-\u9fff]/i;
 const JAPANESE_REGEX = /[\u3040-\u30ff\u31f0-\u31ff\u3400-\u4dbf]/i;
@@ -17,6 +18,7 @@ const KOREAN_REGEX = /[\u1100-\u11ff\uac00-\ud7af]/i;
 
 const Home: React.FC = () => {
     const { plugins, loading, error, allApiLevels, currentApiLevel } = usePlugins();
+    const location = useLocation();
     const [searchTerm, setSearchTerm] = useState('');
     const [sortBy, setSortBy] = useState<'name' | 'updated' | 'author'>(() => {
         const saved = localStorage.getItem('aetherfeed_sortBy');
@@ -51,6 +53,13 @@ const Home: React.FC = () => {
     useEffect(() => {
         localStorage.setItem('aetherfeed_selectedFilters', JSON.stringify(selectedFilters));
     }, [selectedFilters]);
+
+    useEffect(() => {
+        const resetToken = (location.state as { resetHome?: number } | null)?.resetHome;
+        if (resetToken) {
+            setSearchTerm('');
+        }
+    }, [location.state]);
 
     const filterOptions = useMemo(() => {
         const options: { label: string; value: string | number; tooltip?: string }[] = [
