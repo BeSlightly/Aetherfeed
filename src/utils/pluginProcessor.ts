@@ -96,8 +96,17 @@ export const processPlugins = (
 
         for (const [, devOccurrences] of occurrencesByDeveloper.entries()) {
             if (devOccurrences.length > 0) {
+                const hasPriorityOccurrence = devOccurrences.some((occ) =>
+                    priorityRepoUrls.has(occ.repoData.repo_url)
+                );
+                const occurrencesToRank = hasPriorityOccurrence
+                    ? devOccurrences.filter((occ) =>
+                        priorityRepoUrls.has(occ.repoData.repo_url)
+                    )
+                    : devOccurrences;
+
                 // Find best occurrence for this developer
-                let bestOccurrence = devOccurrences[0];
+                let bestOccurrence = occurrencesToRank[0];
                 const allApiLevelsInGroup = new Set<number>();
                 let maxLastUpdate = 0;
 
@@ -107,6 +116,10 @@ export const processPlugins = (
 
                     const currentTs = occ.pluginData.LastUpdate || 0;
                     if (currentTs > maxLastUpdate) maxLastUpdate = currentTs;
+
+                    if (hasPriorityOccurrence && !priorityRepoUrls.has(occ.repoData.repo_url)) {
+                        continue;
+                    }
 
                     const bestApi = bestOccurrence.pluginData._apiLevel || 0;
 
@@ -185,7 +198,7 @@ function createFinalPluginObject(occurrence: IntermediatePluginOccurrence): Proc
 
     finalPlugin.plugin_api_levels_array.sort((a: number, b: number) => b - a);
     finalPlugin._maxApiLevel = occurrence._maxApiLevel || finalPlugin.plugin_api_levels_array[0] || 0;
-    finalPlugin.plugin_last_updated_max_ts = occurrence._maxLastUpdateTimestampInGroup;
+    finalPlugin.plugin_last_updated_max_ts = finalPlugin.LastUpdate || 0;
 
     const repoUrl = finalPlugin._repo.repo_url || "";
 
