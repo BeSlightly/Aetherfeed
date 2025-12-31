@@ -16,7 +16,7 @@ const JAPANESE_REGEX = /[\u3040-\u30ff\u31f0-\u31ff\u3400-\u4dbf]/i;
 const KOREAN_REGEX = /[\u1100-\u11ff\uac00-\ud7af]/i;
 
 const Home: React.FC = () => {
-    const { plugins, loading, error, allApiLevels } = usePlugins();
+    const { plugins, loading, error, allApiLevels, currentApiLevel } = usePlugins();
     const [searchTerm, setSearchTerm] = useState('');
     const [sortBy, setSortBy] = useState<'name' | 'updated' | 'author'>(() => {
         const saved = localStorage.getItem('aetherfeed_sortBy');
@@ -250,7 +250,7 @@ const Home: React.FC = () => {
                                     <PluginCard
                                         key={`${plugin._repo.repo_url}-${plugin.InternalName}`}
                                         plugin={plugin}
-                                        maxApiLevel={allApiLevels[0]}
+                                        maxApiLevel={currentApiLevel || allApiLevels[0]}
                                     />
                                 ))}
                             </AnimatePresence>

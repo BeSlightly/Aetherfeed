@@ -27,13 +27,15 @@ export const usePlugins = () => {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
     const [allApiLevels, setAllApiLevels] = useState<number[]>([]);
+    const [currentApiLevel, setCurrentApiLevel] = useState(0);
 
     useEffect(() => {
         const fetchPlugins = async () => {
             try {
-                const [configResponse, priorityResponse] = await Promise.all([
+                const [configResponse, priorityResponse, dalamudResponse] = await Promise.all([
                     fetch(`${import.meta.env.BASE_URL}data/plugins.json`),
-                    fetch(`${import.meta.env.BASE_URL}data/priority-repos.json`)
+                    fetch(`${import.meta.env.BASE_URL}data/priority-repos.json`),
+                    fetch(`${import.meta.env.BASE_URL}data/dalamud-version.json`)
                 ]);
 
                 if (!configResponse.ok) {
@@ -50,10 +52,30 @@ export const usePlugins = () => {
                     }
                 }
 
-                const { plugins: processedPlugins, allApiLevels: levels } = processPlugins(repoData, priorityUrls);
+                let dalamudApiLevel = 0;
+                if (dalamudResponse.ok) {
+                    const dalamudData = await dalamudResponse.json();
+                    if (typeof dalamudData?.apiLevel === 'number') {
+                        dalamudApiLevel = dalamudData.apiLevel;
+                    } else if (typeof dalamudData?.assemblyVersion === 'string') {
+                        const major = parseInt(dalamudData.assemblyVersion.split('.')[0], 10);
+                        if (!Number.isNaN(major)) dalamudApiLevel = major;
+                    } else if (typeof dalamudData?.AssemblyVersion === 'string') {
+                        const major = parseInt(dalamudData.AssemblyVersion.split('.')[0], 10);
+                        if (!Number.isNaN(major)) dalamudApiLevel = major;
+                    }
+                }
 
-                setAllApiLevels(levels);
+                const { plugins: processedPlugins, allApiLevels: levels } = processPlugins(repoData, priorityUrls);
+                const mergedLevels = [...levels];
+                if (dalamudApiLevel && !mergedLevels.includes(dalamudApiLevel)) {
+                    mergedLevels.push(dalamudApiLevel);
+                }
+                mergedLevels.sort((a, b) => b - a);
+
+                setAllApiLevels(mergedLevels);
                 setPlugins(processedPlugins);
+                setCurrentApiLevel(dalamudApiLevel || levels[0] || 0);
 
             } catch (err) {
                 setError(err instanceof Error ? err.message : 'An unknown error occurred');
@@ -65,5 +87,5 @@ export const usePlugins = () => {
         fetchPlugins();
     }, []);
 
-    return { plugins, loading, error, allApiLevels };
+    return { plugins, loading, error, allApiLevels, currentApiLevel };
 };
