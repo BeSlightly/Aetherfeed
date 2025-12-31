@@ -12,7 +12,7 @@
                 "Description": "VFX, animation, and sound editing plugin. Icon by PAPACHIN",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
-                "LastUpdate": 1767143211
+                "LastUpdate": 1767165135
             }
         ]
     },
@@ -409,18 +409,18 @@
                 "Name": "Auto Travel",
                 "InternalName": "AutoTravel",
                 "Description": "Automates Data Center travel process. Select your destination and enjoy, while plugin is going through all menus.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Anomek/AutoTravel",
-                "LastUpdate": 1754705881
+                "LastUpdate": 1767156667
             },
             {
                 "Author": "Anomek",
                 "Name": "Tomestone Viewer",
                 "InternalName": "TomestoneViewer",
                 "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
-                "LastUpdate": 1764926088
+                "LastUpdate": 1767156780
             }
         ]
     },
@@ -1283,7 +1283,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1766986574
+                "LastUpdate": 1767167893
             }
         ]
     },
@@ -1489,7 +1489,7 @@
                 "Description": "FFXIV plugin for adjusting the position of characters when wearing modded footwear. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1766986574
+                "LastUpdate": 1767167893
             }
         ]
     },
@@ -1635,7 +1635,7 @@
                 "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-                "LastUpdate": 1766242877
+                "LastUpdate": 1767163364
             },
             {
                 "Author": "decorwdyun",
@@ -2077,7 +2077,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1767028064
+                "LastUpdate": 1767160102
             }
         ]
     },
@@ -2094,7 +2094,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1767028064
+                "LastUpdate": 1767160102
             },
             {
                 "Author": "erdelf",
@@ -3016,7 +3016,7 @@
                 "Description": "Keep on tweaking.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1767132536
+                "LastUpdate": 1767151678
             },
             {
                 "Author": "Haselnussbomber",
@@ -4245,7 +4245,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
-                "LastUpdate": 1766542267
+                "LastUpdate": 1767148176
             }
         ]
     },
@@ -4797,7 +4797,7 @@
                 "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1767002552
+                "LastUpdate": 1767163825
             },
             {
                 "Author": "NightmareXIV",
@@ -4882,12 +4882,21 @@
         "plugins": [
             {
                 "Author": "Asteria Nocturna",
-                "Name": "Divination.AetheryteLinkInChat",
+                "Name": "Divination.AetheryteLinkInChat (API13)",
                 "InternalName": "AetheryteLinkInChat",
                 "Description": "从游戏聊天信息的地图链接，中显示一个传送链接到最近的以太之光的链接。输入 /alic 来配置插件。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/Divination",
-                "LastUpdate": 1758034674
+                "LastUpdate": 1767154648
+            },
+            {
+                "Author": "Asteria Nocturna",
+                "Name": "Divination.AetheryteLinkInChat",
+                "InternalName": "AetheryteLinkInChat",
+                "Description": "从游戏聊天信息的地图链接，中显示一个传送链接到最近的以太之光的链接。输入 /alic 来配置插件。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NiGuangOwO/Divination",
+                "LastUpdate": 1767154648
             },
             {
                 "Author": "Faye / NiGuangOwO (适配&优化) / Ookura-Risona (汉化)",
@@ -4914,7 +4923,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1766308870,
+                "LastUpdate": 1767154164,
                 "is_closed_source": true
             },
             {
@@ -4924,7 +4933,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1766308870,
+                "LastUpdate": 1767154164,
                 "is_closed_source": true
             },
             {
@@ -4959,12 +4968,21 @@
             },
             {
                 "Author": "Jukkales / NiGuangOwO(适配&汉化)",
-                "Name": "HoardFarm",
+                "Name": "HoardFarm (API13)",
                 "InternalName": "HoardFarm",
                 "Description": "帮助您伐木深层迷宫宝藏的插件（...为您）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/HoardFarm",
-                "LastUpdate": 1762343858
+                "LastUpdate": 1767154085
+            },
+            {
+                "Author": "Jukkales / NiGuangOwO(适配&汉化)",
+                "Name": "HoardFarm",
+                "InternalName": "HoardFarm",
+                "Description": "帮助您伐木深层迷宫宝藏的插件（...为您）",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NiGuangOwO/HoardFarm",
+                "LastUpdate": 1767154085
             },
             {
                 "Author": "Bluefissure",
@@ -5085,16 +5103,25 @@
                 "Description": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。\n\n这个插件需要Splatoon才能在屏幕上渲染绘图。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/PalacePal",
-                "LastUpdate": 1762863083
+                "LastUpdate": 1767152530
+            },
+            {
+                "Author": "Liza Carvelli (Puni.sh) / NiGuangOwO (本地化适配)",
+                "Name": "Palace Pal (API13)",
+                "InternalName": "PalacePal",
+                "Description": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。\n\n这个插件需要Splatoon才能在屏幕上渲染绘图。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NiGuangOwO/PalacePal",
+                "LastUpdate": 1767152530
             },
             {
                 "Author": "Liza Carvelli (Puni.sh) / NiGuangOwO (本地化适配)",
                 "Name": "Palace Pal",
                 "InternalName": "PalacePal",
                 "Description": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。\n\n这个插件需要Splatoon才能在屏幕上渲染绘图。",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/PalacePal",
-                "LastUpdate": 1762863083
+                "LastUpdate": 1767152530
             },
             {
                 "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
@@ -5575,7 +5602,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1766986574
+                "LastUpdate": 1767167893
             }
         ],
         "repo_developer_name": "Ottermandias"
@@ -6174,7 +6201,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1767138322
+                "LastUpdate": 1767156096
             }
         ]
     },
@@ -7358,7 +7385,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1767114515,
+                "LastUpdate": 1767165850,
                 "is_closed_source": true
             }
         ]
@@ -7772,7 +7799,7 @@
                 "Description": "Use hotkey on your keyboard to execute macro instead of using hotbar.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/tigurand/HotKeyIt",
-                "LastUpdate": 1767011790
+                "LastUpdate": 1767152289
             },
             {
                 "Author": "Avaflow, Ars Magna, Kelvin, A Fox, Lucille",
@@ -7790,7 +7817,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1766869793
+                "LastUpdate": 1767151856
             }
         ]
     },
@@ -8616,7 +8643,7 @@
                 "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/yimo0908/FFXIVBlindBoxPlugin",
-                "LastUpdate": 1765972636
+                "LastUpdate": 1767164076
             },
             {
                 "Author": "Infi, translated by yimo",
@@ -8643,7 +8670,7 @@
                 "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，但数据读取依旧不稳定）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
-                "LastUpdate": 1766553972
+                "LastUpdate": 1767164228
             }
         ]
     },
