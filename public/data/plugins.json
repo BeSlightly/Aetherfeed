@@ -1001,7 +1001,7 @@
                 "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/BeSlightly/Snappy",
-                "LastUpdate": 1767033647
+                "LastUpdate": 1767357711
             }
         ]
     },
@@ -1585,6 +1585,39 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/dalamudx/onepiece",
                 "LastUpdate": 1765437919
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "DanielMardunovich",
+        "repo_url": "https://raw.githubusercontent.com/DanielMardunovich/MSQRouletteSkip/master/repo.json",
+        "repo_source_url": "https://github.com/DanielMardunovich/MSQRouletteSkip",
+        "repo_name": "MSQRouletteSkip",
+        "plugins": [
+            {
+                "Author": "Sgtcatt",
+                "Name": "MSQRouletteSkip",
+                "InternalName": "MSQRouletteSkip",
+                "Description": "Thank you to a08381 for the original cutscene skip plugin https://github.com/a08381/Dalamud.SkipCutscene",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/MisterCatt/MSQRouletteSkip",
+                "LastUpdate": 1767047025
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "DanielMardunovich",
+        "repo_url": "https://raw.githubusercontent.com/DanielMardunovich/Working-ffxiv-pluginTemplate/master/repo.json",
+        "repo_source_url": "https://github.com/DanielMardunovich/Working-ffxiv-pluginTemplate",
+        "repo_name": "Working-ffxiv-pluginTemplate",
+        "plugins": [
+            {
+                "Author": "Sgtcatt",
+                "Name": "SamplePlugin",
+                "InternalName": "SamplePlugin",
+                "Description": "Thank you to a08381 for the original cutscene skip plugin https://github.com/a08381/Dalamud.SkipCutscene",
+                "RepoUrl": "https://github.com/MisterCatt/temp",
+                "LastUpdate": 1720565530
             }
         ]
     },
@@ -3349,7 +3382,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1767200112
+                "LastUpdate": 1767371446
             },
             {
                 "Author": "croizat",
@@ -5327,27 +5360,18 @@
     },
     {
         "repo_developer_name": "notYuta",
-        "repo_url": "https://raw.githubusercontent.com/notYuta/DalamudPluginRepo/main/repo.json",
-        "repo_source_url": "https://github.com/notYuta/DalamudPluginRepo",
-        "repo_name": "DalamudPluginRepo",
+        "repo_url": "https://raw.githubusercontent.com/notYuta/ShiroUtils/main/repo.json",
+        "repo_source_url": "https://github.com/notYuta/ShiroUtils",
+        "repo_name": "ShiroUtils",
         "plugins": [
             {
-                "Author": "notYuta",
-                "Name": "GatherMapOverlay",
-                "InternalName": "GatherMapOverlay",
-                "Description": "Displays gathering points on the main map for Miners and Botanists. Automatically detects harvestable nodes near the player and uses different icons for primary/secondary tools and legendary nodes.",
+                "Author": "shiro",
+                "Name": "ShiroUtils",
+                "InternalName": "ShiroUtils",
+                "Description": "Integrated plugin suite for FFXIV (Mob Hunt Overlay, Gather Map Overlay, Quick Try On)",
                 "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/notYuta/GatherMapOverlay",
-                "LastUpdate": 1766737790
-            },
-            {
-                "Author": "notYuta",
-                "Name": "MobHuntOverlay",
-                "InternalName": "MobHuntOverlay",
-                "Description": "Shows B-rank mob spawn locations on the map when opening from the hunt bill's Habitat button.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/notYuta/MobHuntOverlay",
-                "LastUpdate": 1766738396
+                "RepoUrl": "https://github.com/notYuta/ShiroUtils",
+                "LastUpdate": 1767364220
             }
         ]
     },
@@ -6386,7 +6410,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1767299238
+                "LastUpdate": 1767354821
             },
             {
                 "Author": "daemitus, kawaii",
@@ -6859,7 +6883,7 @@
                 "Description": "A TTS Plugin that breaks the silence! For self hosted AllTalk instance. /ek",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
-                "LastUpdate": 1766489703
+                "LastUpdate": 1767351569
             },
             {
                 "Author": "RenNagasaki",
@@ -8859,6 +8883,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ZhyraPlugins/SimpleTimers",
                 "LastUpdate": 1755200620
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "zlatan-mt",
+        "repo_url": "https://raw.githubusercontent.com/zlatan-mt/XIV-Mini-Util/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/zlatan-mt/XIV-Mini-Util",
+        "repo_name": "XIV-Mini-Util",
+        "plugins": [
+            {
+                "Author": "zlatan-mt",
+                "Name": "XIV Mini Util",
+                "InternalName": "XivMiniUtil",
+                "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
+                "LastUpdate": 1767366193
             }
         ]
     },
