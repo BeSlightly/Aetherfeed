@@ -1676,7 +1676,7 @@
                 "Description": "（CN Only）如果你的网络环境不能稳定的访问 Github，那么可以试试本插件提供的 Github 加速服务\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启\n\n我们提供一系列优化以加速插件管理器的加载/下载，请在本插件的设置界面手动开启",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
-                "LastUpdate": 1766822426
+                "LastUpdate": 1767456355
             },
             {
                 "Author": "decorwdyun",
@@ -1738,7 +1738,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1767403983
+                "LastUpdate": 1767460595
             }
         ],
         "repo_developer_name": "Det"
@@ -1774,7 +1774,7 @@
                 "Description": "Discord / FFXIV bot to send msg from discord to the game",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/devckuw/DiscordBotFFXIV",
-                "LastUpdate": 1766867671
+                "LastUpdate": 1767449554
             },
             {
                 "Author": "Loody",
@@ -3048,7 +3048,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1767413060
+                "LastUpdate": 1767453473
             },
             {
                 "Author": "Haselnussbomber",
@@ -3358,22 +3358,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/jackandcarter/DemiCat",
                 "LastUpdate": 1760814703
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "JackRhodes",
-        "repo_url": "https://raw.githubusercontent.com/JackRhodes/Marketbuddy/main/repo.json",
-        "repo_source_url": "https://github.com/JackRhodes/Marketbuddy",
-        "repo_name": "Marketbuddy",
-        "plugins": [
-            {
-                "Author": "Chalkos",
-                "Name": "Marketbuddy",
-                "InternalName": "Marketbuddy",
-                "Description": "Helper for your day-to-day market operations.",
-                "RepoUrl": "https://github.com/chalkos/Marketbuddy",
-                "LastUpdate": 1766194164
             }
         ]
     },
@@ -4002,6 +3986,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
                 "LastUpdate": 1766084169
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "KotoLetta",
+        "repo_url": "https://raw.githubusercontent.com/KotoLetta/kotoffxivrepo/main/repo.json",
+        "repo_source_url": "https://github.com/KotoLetta/kotoffxivrepo",
+        "repo_name": "kotoffxivrepo",
+        "plugins": [
+            {
+                "Author": "KotoLetta",
+                "Name": "GlamSpy",
+                "InternalName": "GlamSpy",
+                "Description": "Adds a context menu action to open hovered items in an external wiki.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KotoLetta/kotoffxivrepo",
+                "LastUpdate": 1767455866
             }
         ]
     },
@@ -6328,7 +6329,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1767403983
+                "LastUpdate": 1767460595
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -6418,7 +6419,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1767354821
+                "LastUpdate": 1767444921
             },
             {
                 "Author": "daemitus, kawaii",
@@ -6692,7 +6693,7 @@
                 "Description": "Draw strategy images for encounters. Use /aetherdraw to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherDraw",
-                "LastUpdate": 1766132602
+                "LastUpdate": 1767441675
             }
         ]
     },
@@ -6891,7 +6892,7 @@
                 "Description": "A TTS Plugin that breaks the silence! For self hosted AllTalk instance. /ek",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
-                "LastUpdate": 1767351569
+                "LastUpdate": 1767454302
             },
             {
                 "Author": "RenNagasaki",
@@ -7227,9 +7228,9 @@
                 "Name": "A Quest Reborn",
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1767433840
+                "LastUpdate": 1767441581
             }
         ]
     },
@@ -7295,9 +7296,9 @@
                 "Name": "Artemis Roleplaying Kit",
                 "InternalName": "RoleplayingVoiceDalamud",
                 "Description": "Player synced custom voices, Twitch playback integration, and more!",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
-                "LastUpdate": 1767431395
+                "LastUpdate": 1767441554
             }
         ]
     },
@@ -7935,7 +7936,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1767241217
+                "LastUpdate": 1767459548
             }
         ]
     },
@@ -8189,7 +8190,7 @@
                 "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/VariableVixen/XIVComboPlugin",
-                "LastUpdate": 1766501315
+                "LastUpdate": 1767455079
             },
             {
                 "Author": "VariableVixen",
@@ -8558,7 +8559,7 @@
                 "Description": "Allows you to generate macros and simulate all sorts of crafts without having to open another app. Open your crafting log to get started!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WorkingRobot/Craftimizer",
-                "LastUpdate": 1766390155
+                "LastUpdate": 1767456180
             },
             {
                 "Author": "Asriel",
