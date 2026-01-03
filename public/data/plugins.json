@@ -2076,7 +2076,7 @@
                 "Description": "Use dresser outside of inns. Search items in other inventories or cheap at vendors. Try on your own character. Browse modded items.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/emyxiv/Dresser",
-                "LastUpdate": 1767140583
+                "LastUpdate": 1767428287
             }
         ]
     },
@@ -2145,15 +2145,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
                 "LastUpdate": 1767235273
-            },
-            {
-                "Author": "erdelf",
-                "Name": "Inventory Search Bar",
-                "InternalName": "InventorySearchBar",
-                "Description": "Supports different types of filters to be able to find items by name, type, supported job or level requirements.\n\nSupported Inventories:\n\t- Character Inventory\n\t- Chocobo Saddlebags\n\t- Retainer Inventory\n\t- Armoury",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/erdelf/InventorySearchBar",
-                "LastUpdate": 1766582921
             }
         ]
     },
@@ -2501,7 +2492,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1767415619
+                "LastUpdate": 1767417580
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5388,7 +5379,7 @@
                 "Description": "Integrated plugin suite for FFXIV (Mob Hunt Overlay, Gather Map Overlay, Quick Try On)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/notYuta/ShiroUtils",
-                "LastUpdate": 1767364220
+                "LastUpdate": 1767418971
             }
         ]
     },
@@ -6012,7 +6003,7 @@
                 "Description": "Shows a beacon on the position of the last <pos> or <flag> in chat. Use /northstar to configure",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Pistachio-dev/NorthStar",
-                "LastUpdate": 1766931159
+                "LastUpdate": 1767435265
             },
             {
                 "Author": "Pistachio Herald",
@@ -6098,7 +6089,7 @@
                 "Description": "Shows a beacon on the position of the last <pos> or <flag> in chat. Use /northstar to configure",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Pistachio-dev/NorthStar",
-                "LastUpdate": 1766931159
+                "LastUpdate": 1767435265
             }
         ]
     },
@@ -6923,6 +6914,23 @@
         ]
     },
     {
+        "repo_developer_name": "rennalol",
+        "repo_url": "https://raw.githubusercontent.com/rennalol/DalamudPluginRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/rennalol/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "rennalol",
+                "Name": "CCAutoLeave",
+                "InternalName": "CCAutoLeave",
+                "Description": "Avoiding trigger finger early leave.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/rennalol/CCAutoLeave",
+                "LastUpdate": 1767424447
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Ricimon",
         "repo_url": "https://raw.githubusercontent.com/Ricimon/FFXIV-ProximityVoiceChat/master/repo.json",
         "repo_source_url": "https://github.com/Ricimon/FFXIV-ProximityVoiceChat",
@@ -7221,7 +7229,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1764271710
+                "LastUpdate": 1767433840
             }
         ]
     },
@@ -7289,7 +7297,7 @@
                 "Description": "Player synced custom voices, Twitch playback integration, and more!",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
-                "LastUpdate": 1764271181
+                "LastUpdate": 1767431395
             }
         ]
     },
@@ -7427,6 +7435,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SheepGoMeh/Browsingway",
                 "LastUpdate": 1754588367
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "shironayuta",
+        "repo_url": "https://raw.githubusercontent.com/shironayuta/ShiroUtils/main/repo.json",
+        "repo_source_url": "https://github.com/shironayuta/ShiroUtils",
+        "repo_name": "ShiroUtils",
+        "plugins": [
+            {
+                "Author": "shiro",
+                "Name": "ShiroUtils",
+                "InternalName": "ShiroUtils",
+                "Description": "Integrated plugin suite for FFXIV (Mob Hunt Overlay, Gather Map Overlay, Quick Try On)",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/shironayuta/ShiroUtils.git",
+                "LastUpdate": 1767418971
             }
         ]
     },
@@ -7831,7 +7856,7 @@
                 "Description": "Integration for Pishock and OpenShock devices.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
-                "LastUpdate": 1767293281
+                "LastUpdate": 1767431102
             }
         ]
     },
