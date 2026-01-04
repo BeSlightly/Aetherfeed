@@ -74,7 +74,7 @@
                 "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://puni.sh/api/repository/taurenkey",
-                "LastUpdate": 1767062715
+                "LastUpdate": 1767505963
             }
         ]
     },
@@ -639,7 +639,7 @@
                 "Description": "A simple plugin that lets you play any game emote, whether you unlocked it or not.\nClient side only.\nJust type the emote command as you would normally.\nWorks with custom animations and syncable over Mare.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
-                "LastUpdate": 1766781017
+                "LastUpdate": 1767491342
             }
         ]
     },
@@ -1197,9 +1197,9 @@
                 "Name": "Wahbuttons",
                 "InternalName": "wahbuttons",
                 "Description": "",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Brappp/wahbuttons",
-                "LastUpdate": 1767294829
+                "LastUpdate": 1767496474
             }
         ]
     },
@@ -2465,7 +2465,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1767342138
+                "LastUpdate": 1767502866
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2492,7 +2492,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1767417580
+                "LastUpdate": 1767494355
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3048,7 +3048,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1767483939
+                "LastUpdate": 1767489245
             },
             {
                 "Author": "Haselnussbomber",
@@ -3084,32 +3084,6 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/he0119/FFXIVBlindBoxPlugin",
                 "LastUpdate": 1750838636
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "HKazuki0818",
-        "repo_url": "https://raw.githubusercontent.com/HKazuki0818/DalamudPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/HKazuki0818/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "NightmareXIV（開發者），HKazuki0818（修改與維護）",
-                "Name": "AntiAfkKick",
-                "InternalName": "AntiAfkKick-Dalamud",
-                "Description": "這是一款可防止玩家因閒置而被自動踢出《Final Fantasy XIV》的 Dalamud 插件。安裝後即可使用，無需任何設定，輕鬆無負擔。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
-                "LastUpdate": 1766735866
-            },
-            {
-                "Author": "SheepGoMeh（開發者），HKazuki0818（修改與維護）",
-                "Name": "Visibility",
-                "InternalName": "Visibility",
-                "Description": "可讓你自由隱藏遊戲畫面上的玩家、召喚獸、陸行鳥與寵物。\n並且內建 VoidList（更完善的黑名單功能），可透過 /pvis 進行設定。\n更多資訊請使用 /xlhelp 進行查看。\n\nPS. 由於繁中服角色姓名格式與國際服不同的問題，目前無法使用黑名單與白名單功能。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HKazuki0818/Visibility",
-                "LastUpdate": 1766814830
             }
         ]
     },
@@ -3340,7 +3314,7 @@
                 "Description": "Tracks the contents and market value of items dropped while killing monsters. And drops from some other activities such as dungeons, raids, gathering, and maps.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/j0giwa/ComfyLoot/blob/master/ComfyLoot",
-                "LastUpdate": 1764855678
+                "LastUpdate": 1767485163
             }
         ]
     },
@@ -3771,13 +3745,13 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
-                "Author": "NightmareXIV（開發者），HKazuki0818（修改與維護）",
+                "Author": "NightmareXIV(開發者), HKazuki0818(修改與維護)",
                 "Name": "AntiAfkKick",
-                "InternalName": "AntiAfkKick-Dalamud",
+                "InternalName": "AntiAfkKick",
                 "Description": "這是一款可以防止玩家因長時間無任何遊戲操作，而被系統自動踢出《Final Fantasy XIV》的輔助插件。\n安裝後即可立即生效，無需任何額外設定，輕鬆使用無負擔。",
                 "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
-                "LastUpdate": 1766735866
+                "RepoUrl": "https://github.com/kazukicorp/AntiAfkKick",
+                "LastUpdate": 1767498394
             },
             {
                 "Author": "SheepGoMeh（開發者），HKazuki0818（修改與維護）",
@@ -3786,7 +3760,7 @@
                 "Description": "可讓你自由隱藏遊戲畫面上的玩家、召喚獸、陸行鳥與寵物。\n並且內建 VoidList（更完善的黑名單功能），可透過 /pvis 進行設定。\n更多資訊請使用 /xlhelp 進行查看。\n\nPS. 由於繁中服角色姓名格式與國際服不同的問題，目前無法使用黑名單與白名單功能。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/HKazuki0818/Visibility",
-                "LastUpdate": 1766814830
+                "LastUpdate": 1767495782
             }
         ]
     },
@@ -6892,7 +6866,7 @@
                 "Description": "A TTS Plugin that breaks the silence! For self hosted AllTalk instance. /ek",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
-                "LastUpdate": 1767482177
+                "LastUpdate": 1767494235
             },
             {
                 "Author": "RenNagasaki",
@@ -7012,9 +6986,9 @@
                 "Name": "Olympus",
                 "InternalName": "Olympus",
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
-                "DalamudApiLevel": 11,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1767483752
+                "LastUpdate": 1767506397
             }
         ]
     },
@@ -8057,7 +8031,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1767473754
+                "LastUpdate": 1767499943
             }
         ]
     },
@@ -8312,7 +8286,7 @@
                 "InternalName": "VIWI",
                 "Description": "Vera's Integrated World Improvements",
                 "DalamudApiLevel": 14,
-                "LastUpdate": 1767401633
+                "LastUpdate": 1767506137
             },
             {
                 "Author": "vera.lyn",
@@ -8959,7 +8933,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1767366193
+                "LastUpdate": 1767502599
             }
         ]
     },
