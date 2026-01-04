@@ -1713,7 +1713,7 @@
                 "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
-                "LastUpdate": 1767256527
+                "LastUpdate": 1767510783
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -3088,6 +3088,32 @@
         ]
     },
     {
+        "repo_developer_name": "HoshinoCorp",
+        "repo_url": "https://raw.githubusercontent.com/HoshinoCorp/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/HoshinoCorp/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "NightmareXIV(開發者), HKazuki0818(修改與維護)",
+                "Name": "AntiAfkKick",
+                "InternalName": "AntiAfkKick",
+                "Description": "這是一款可以防止玩家因長時間無任何遊戲操作，而被系統自動踢出《Final Fantasy XIV》的輔助插件。\n安裝後即可立即生效，無需任何額外設定，輕鬆使用無負擔。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/HoshinoCorp/AntiAfkKick",
+                "LastUpdate": 1767498394
+            },
+            {
+                "Author": "SheepGoMeh（開發者），HKazuki0818（修改與維護）",
+                "Name": "Visibility",
+                "InternalName": "Visibility",
+                "Description": "可讓你自由隱藏遊戲畫面上的玩家、召喚獸、陸行鳥與寵物。\n並且內建 VoidList（更完善的黑名單功能），可透過 /pvis 進行設定。\n更多資訊請使用 /xlhelp 進行查看。\n\nPS. 由於繁中服角色姓名格式與國際服不同的問題，暫時移除黑名單與白名單功能。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/HoshinoCorp/Visibility",
+                "LastUpdate": 1767505016
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Houdeled",
         "repo_url": "https://raw.githubusercontent.com/Houdeled/SingAlongPlugin/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Houdeled/SingAlongPlugin",
@@ -3160,7 +3186,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1767205784
+                "LastUpdate": 1767529463
             }
         ]
     },
@@ -3348,7 +3374,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1767477963
+                "LastUpdate": 1767518377
             },
             {
                 "Author": "croizat",
@@ -4039,15 +4065,6 @@
         "repo_name": "dalamud-plugins",
         "plugins": [
             {
-                "Author": "iVeigar",
-                "Name": "BAHelper",
-                "InternalName": "BAHelper",
-                "Description": "这是一个兵武塔的辅助插件，有一些实用功能\n\n - 自动上盾\n - 绘制陷阱\n - 全局人员监控\n 以及一些魔改小功能",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/iVeigar/BAHelper",
-                "LastUpdate": 1766102832
-            },
-            {
                 "Author": "Usagi, Latihas",
                 "Name": "IINACTEx",
                 "InternalName": "IINACTEx",
@@ -4073,15 +4090,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/LatihasExport",
                 "LastUpdate": 1761371293
-            },
-            {
-                "Author": "apetih, Dragonw2333",
-                "Name": "Logogram Helper Ex (CN)",
-                "InternalName": "LogogramHelperEx",
-                "Description": "提供Eureka文理合成预设功能，支持预设一键提取并合成（实验性，仅支持国服）",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/iVeigar/LogogramHelperEx",
-                "LastUpdate": 1766108812
             },
             {
                 "Author": "Latihas",
@@ -5198,7 +5206,7 @@
                 "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1767104404
+                "LastUpdate": 1767521028
             },
             {
                 "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
@@ -5207,7 +5215,7 @@
                 "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1767104404
+                "LastUpdate": 1767521028
             },
             {
                 "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
@@ -5216,7 +5224,7 @@
                 "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1767104404
+                "LastUpdate": 1767521028
             },
             {
                 "Author": "NiGuangOwO",
@@ -5987,7 +5995,16 @@
                 "Description": "Right click to get party member tomestone pages.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Pistachio-dev/PassportCheckpoint",
-                "LastUpdate": 1762585238
+                "LastUpdate": 1767528458
+            },
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Polaroid",
+                "InternalName": "Polaroid",
+                "Description": "Makes /photograph take an actual picture",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Pistachio-dev/Polaroid",
+                "LastUpdate": 1767529137
             },
             {
                 "Author": "Pistachio Herald",
@@ -6081,7 +6098,7 @@
                 "Description": "Right click to get party member tomestone pages.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Pistachio-dev/PassportCheckpoint",
-                "LastUpdate": 1762585238
+                "LastUpdate": 1767528458
             }
         ]
     },
@@ -6294,7 +6311,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1767205784
+                "LastUpdate": 1767529463
             },
             {
                 "Author": "Det, Taurenkey",
@@ -6357,7 +6374,7 @@
                 "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1767104404
+                "LastUpdate": 1767521028
             },
             {
                 "Author": "Liza Carvelli & various contributors",
@@ -6988,7 +7005,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1767506397
+                "LastUpdate": 1767510009
             }
         ]
     },
@@ -8286,7 +8303,7 @@
                 "InternalName": "VIWI",
                 "Description": "Vera's Integrated World Improvements",
                 "DalamudApiLevel": 14,
-                "LastUpdate": 1767506137
+                "LastUpdate": 1767514630
             },
             {
                 "Author": "vera.lyn",
@@ -8933,7 +8950,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1767502599
+                "LastUpdate": 1767510610
             }
         ]
     },
