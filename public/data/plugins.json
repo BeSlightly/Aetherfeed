@@ -135,7 +135,7 @@
                 "Description": "Automatically save/load the positions of housing furnitures.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Abyeon/HousingPos",
-                "LastUpdate": 1766104721
+                "LastUpdate": 1767615554
             },
             {
                 "Author": "Abyeon",
@@ -144,7 +144,7 @@
                 "Description": "A quick plugin to find Wrong Warps using Racingway rendering tools.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Abyeon/WrongWarpFinder",
-                "LastUpdate": 1766037181
+                "LastUpdate": 1767615239
             }
         ]
     },
@@ -1694,7 +1694,7 @@
                 "Description": "Crowd-sourced plugin to view what players are inside of a party in PF. Intended for CN use, but works on global.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1767581007,
+                "LastUpdate": 1767601734,
                 "is_closed_source": true
             },
             {
@@ -1713,7 +1713,7 @@
                 "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
-                "LastUpdate": 1767510783
+                "LastUpdate": 1767606466
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -2568,6 +2568,15 @@
         "plugins": [
             {
                 "Author": "FlawedBliss",
+                "Name": "OccultBuddy",
+                "InternalName": "OccultBuddy",
+                "Description": "Shows nearby Treasure Coffers in Occult Crescent.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/flawedBliss/occultbuddy",
+                "LastUpdate": 1767619029
+            },
+            {
+                "Author": "FlawedBliss",
                 "Name": "Population Tracker",
                 "InternalName": "PopulationTracker",
                 "Description": "Tracking number of nearby players in real-time with graphing and export abilities.",
@@ -3088,6 +3097,50 @@
         ]
     },
     {
+        "repo_developer_name": "HKazuki0818",
+        "repo_url": "https://raw.githubusercontent.com/HKazuki0818/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/HKazuki0818/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Det",
+                "Name": "AutoHook",
+                "InternalName": "AutoHook",
+                "Description": "It hooks the fish for you, can you believe it?",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+                "LastUpdate": 1767460595
+            },
+            {
+                "Author": "veyn",
+                "Name": "Boss Mod",
+                "InternalName": "BossMod",
+                "Description": "A bunch of utilities to simplify bosses.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+                "LastUpdate": 1767585596
+            },
+            {
+                "Author": "veyn, AtmoOmen",
+                "Name": "vnavmesh",
+                "InternalName": "vnavmesh",
+                "Description": "不仅会自动寻路, 还能自动避障",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
+                "LastUpdate": 1766307897
+            },
+            {
+                "Author": "daemitus, croizat",
+                "Name": "YesAlready",
+                "InternalName": "YesAlready",
+                "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/PunishXIV/YesAlready/",
+                "LastUpdate": 1767377709
+            }
+        ]
+    },
+    {
         "repo_developer_name": "HoshinoCorp",
         "repo_url": "https://raw.githubusercontent.com/HoshinoCorp/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/HoshinoCorp/DalamudPlugins",
@@ -3110,6 +3163,50 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/HoshinoCorp/Visibility",
                 "LastUpdate": 1767505016
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "HoshinoLYK",
+        "repo_url": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/HoshinoLYK/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Det",
+                "Name": "AutoHook",
+                "InternalName": "AutoHook",
+                "Description": "It hooks the fish for you, can you believe it?",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+                "LastUpdate": 1767460595
+            },
+            {
+                "Author": "veyn",
+                "Name": "Boss Mod",
+                "InternalName": "BossMod",
+                "Description": "A bunch of utilities to simplify bosses.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+                "LastUpdate": 1767585596
+            },
+            {
+                "Author": "veyn, AtmoOmen",
+                "Name": "vnavmesh",
+                "InternalName": "vnavmesh",
+                "Description": "不仅会自动寻路, 还能自动避障",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
+                "LastUpdate": 1766307897
+            },
+            {
+                "Author": "daemitus, croizat",
+                "Name": "YesAlready",
+                "InternalName": "YesAlready",
+                "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/PunishXIV/YesAlready/",
+                "LastUpdate": 1767377709
             }
         ]
     },
@@ -3615,7 +3712,7 @@
                 "Description": "Trigger making made easy",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KangasZ/BattleLog",
-                "LastUpdate": 1766597259
+                "LastUpdate": 1767619495
             },
             {
                 "Author": "KangasZ",
@@ -6410,7 +6507,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1767597584
+                "LastUpdate": 1767598756
             },
             {
                 "Author": "daemitus, kawaii",
