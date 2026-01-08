@@ -149,13 +149,19 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel }) => {
                                 </a>
                             )}
                             {plugin.isPunish && (
-                                <div className="flex items-center">
+                                <a
+                                    href="https://puni.sh/"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="flex items-center"
+                                    title="Visit Puni.sh"
+                                >
                                     <img
                                         src="punish-logo.webp"
                                         alt="Puni.sh"
                                         className="h-6 w-auto opacity-70 hover:opacity-100 transition-opacity"
                                     />
-                                </div>
+                                </a>
                             )}
                         </div>
                     )}
