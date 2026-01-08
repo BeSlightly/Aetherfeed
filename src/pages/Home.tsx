@@ -86,6 +86,7 @@ const Home: React.FC = () => {
         if (normalizedTerm) {
             result = result.filter(plugin => {
                 return plugin._searchMeta.name.includes(normalizedTerm) ||
+                    plugin._searchMeta.internalName.includes(normalizedTerm) ||
                     plugin._searchMeta.description.includes(normalizedTerm) ||
                     plugin._searchMeta.author.includes(normalizedTerm) ||
                     plugin._searchMeta.repo.includes(normalizedTerm);

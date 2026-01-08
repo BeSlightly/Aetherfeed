@@ -11,6 +11,7 @@ export interface ProcessedPlugin extends Plugin {
     _maxApiLevel?: number;
     _searchMeta: {
         name: string;
+        internalName: string;
         description: string;
         author: string;
         repo: string;
@@ -218,6 +219,7 @@ function createFinalPluginObject(occurrence: IntermediatePluginOccurrence): Proc
 
     finalPlugin._searchMeta = {
         name: normalizeForSearch(finalPlugin.Name || finalPlugin.InternalName),
+        internalName: normalizeForSearch(finalPlugin.InternalName),
         description: normalizeForSearch(finalPlugin.Description),
         author: normalizeForSearch(finalPlugin.Author),
         repo: normalizeForSearch(finalPlugin._repo.repo_name + (finalPlugin.isPunish ? " punish puni.sh" : ""))
