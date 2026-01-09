@@ -38,7 +38,7 @@
                 "Description": "Boss mod.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1767933927
+                "LastUpdate": 1767948920
             },
             {
                 "Author": "ocealot",
@@ -613,7 +613,7 @@
                 "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1767912066
+                "LastUpdate": 1767954592
             }
         ]
     },
@@ -853,7 +853,7 @@
                 "Description": "自动化 T 职副本场次成就刷取工具\n注意: 副本战斗需要自行使用其他插件解决",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/UntarnishedHeart",
-                "LastUpdate": 1767885303
+                "LastUpdate": 1767944961
             },
             {
                 "Author": "ocealot, AtmoOmen (汉化)",
@@ -1804,6 +1804,32 @@
         ]
     },
     {
+        "repo_url": "https://github.com/dodingdaga/DalamudPlugins/raw/main/PuppetMaster.json",
+        "repo_source_url": "https://github.com/dodingdaga/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "repo_developer_name": "dodingdaga",
+        "plugins": [
+            {
+                "Author": "DodingDaga",
+                "Name": "Right Back At You",
+                "InternalName": "Copycat",
+                "Description": "For the lulz",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins",
+                "LastUpdate": 1766248671
+            },
+            {
+                "Author": "DodingDaga",
+                "Name": "Puppet Master",
+                "InternalName": "PuppetMaster",
+                "Description": "For the lulz",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins",
+                "LastUpdate": 1766248671
+            }
+        ]
+    },
+    {
         "repo_developer_name": "doggjoe9",
         "repo_url": "https://raw.githubusercontent.com/doggjoe9/ShakSynchronous/main/repo.json",
         "repo_source_url": "https://github.com/doggjoe9/ShakSynchronous",
@@ -2421,7 +2447,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1767933927
+                "LastUpdate": 1767948920
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2439,7 +2465,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1767860084
+                "LastUpdate": 1767942772
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3031,7 +3057,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1767489245
+                "LastUpdate": 1767957113
             },
             {
                 "Author": "Haselnussbomber",
@@ -5080,7 +5106,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1767879125,
+                "LastUpdate": 1767959159,
                 "is_closed_source": true
             },
             {
@@ -5090,7 +5116,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1767879125,
+                "LastUpdate": 1767959159,
                 "is_closed_source": true
             },
             {
@@ -5100,7 +5126,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1767879125,
+                "LastUpdate": 1767959159,
                 "is_closed_source": true
             },
             {
@@ -5210,7 +5236,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1767889436,
+                "LastUpdate": 1767950986,
                 "is_closed_source": true
             },
             {
@@ -5220,7 +5246,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1767889436,
+                "LastUpdate": 1767950986,
                 "is_closed_source": true
             },
             {
@@ -5230,7 +5256,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1767889436,
+                "LastUpdate": 1767950986,
                 "is_closed_source": true
             },
             {
@@ -6462,7 +6488,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1767924689
+                "LastUpdate": 1767940994
             },
             {
                 "Author": "Team Wrath",
@@ -6471,7 +6497,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1767771754
+                "LastUpdate": 1767944077
             },
             {
                 "Author": "daemitus, kawaii",
@@ -6694,7 +6720,7 @@
                 "Description": "Opens on death, or /aetherbomber. A Bomberman clone mini-game.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/rail2025/AetherBomber",
-                "LastUpdate": 1766403946
+                "LastUpdate": 1767952265
             }
         ]
     },
@@ -7478,7 +7504,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1767924689
+                "LastUpdate": 1767940994
             }
         ]
     },
@@ -7943,7 +7969,7 @@
                 "Description": "Integration for Pishock and OpenShock devices.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
-                "LastUpdate": 1767913344
+                "LastUpdate": 1767958039
             }
         ]
     },
