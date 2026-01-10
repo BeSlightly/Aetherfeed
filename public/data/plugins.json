@@ -390,6 +390,23 @@
         ]
     },
     {
+        "repo_developer_name": "alpha-Centauri85",
+        "repo_url": "https://raw.githubusercontent.com/alpha-Centauri85/alpha-centauri-dalamud-repo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/alpha-Centauri85/alpha-centauri-dalamud-repo",
+        "repo_name": "alpha-centauri-dalamud-repo",
+        "plugins": [
+            {
+                "Author": "αCentauri",
+                "Name": "XIV Keyboard",
+                "InternalName": "XIVKeyboard",
+                "Description": "An on-screen virtual keyboard designed for controller users in FFXIV.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/alpha-Centauri85/XIV_keyboard",
+                "LastUpdate": 1768033569
+            }
+        ]
+    },
+    {
         "repo_developer_name": "amki",
         "repo_url": "https://raw.githubusercontent.com/amki/AkuTrack/master/repo.json",
         "repo_source_url": "https://github.com/amki/AkuTrack",
@@ -2519,7 +2536,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarRepo",
-                "LastUpdate": 1767990089
+                "LastUpdate": 1768029007
             },
             {
                 "Author": "Sonar Team",
@@ -2528,7 +2545,7 @@
                 "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1767990076
+                "LastUpdate": 1768028991
             },
             {
                 "Author": "Sonar Team",
@@ -2537,7 +2554,7 @@
                 "Description": "마물, 돌발 전파를 자동으로 주고받습니다. /sonar 명령어로 알림 오버레이를 열고, /sonarconfig 으로 설정 창을 엽니다. 지원은 Sonar Support Discord에서만 제공됩니다.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1767990076
+                "LastUpdate": 1768028991
             }
         ],
         "repo_name": "SonarRepo",
@@ -3145,7 +3162,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1767944077
+                "LastUpdate": 1768044331
             },
             {
                 "Author": "daemitus, croizat",
@@ -3233,7 +3250,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1767944077
+                "LastUpdate": 1768044331
             },
             {
                 "Author": "daemitus, croizat",
@@ -4902,6 +4919,32 @@
         ]
     },
     {
+        "repo_developer_name": "Nexaii",
+        "repo_url": "https://raw.githubusercontent.com/Nexaii/dalamud-plugins/main/repo.json",
+        "repo_source_url": "https://github.com/Nexaii/dalamud-plugins",
+        "repo_name": "dalamud-plugins",
+        "plugins": [
+            {
+                "Author": "Nexai",
+                "Name": "FCCH",
+                "InternalName": "FCCH",
+                "Description": "Automates moving existing items to and from the FC Chest.\nEasily withdraw custom item lists or materials for workshop projects.\n\nNote: Temporarily disables YesAlready while depositing or withdrawing.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Nexaii/FCCH",
+                "LastUpdate": 1768035179
+            },
+            {
+                "Author": "Nexai",
+                "Name": "Memba",
+                "InternalName": "Memba",
+                "Description": "FFXIV Memory Manager. Download more RAM! 0xDEADBEEF\n\nNote: This plugin is primarily designed for multibox users.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Nexaii/Memba",
+                "LastUpdate": 1768046954
+            }
+        ]
+    },
+    {
         "repo_developer_name": "NicciX",
         "repo_url": "https://raw.githubusercontent.com/NicciX/Repos/main/repo.json",
         "repo_source_url": "https://github.com/NicciX/Repos",
@@ -5272,7 +5315,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1768026687,
+                "LastUpdate": 1768045511,
                 "is_closed_source": true
             },
             {
@@ -5282,7 +5325,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1768026687,
+                "LastUpdate": 1768045511,
                 "is_closed_source": true
             },
             {
@@ -5292,7 +5335,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1768026687,
+                "LastUpdate": 1768045511,
                 "is_closed_source": true
             },
             {
@@ -6524,7 +6567,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1768026615
+                "LastUpdate": 1768034068
             },
             {
                 "Author": "Team Wrath",
@@ -6533,7 +6576,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1767944077
+                "LastUpdate": 1768044331
             },
             {
                 "Author": "daemitus, kawaii",
@@ -7128,7 +7171,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1768023378
+                "LastUpdate": 1768029765
             }
         ]
     },
@@ -7540,7 +7583,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1768026615
+                "LastUpdate": 1768034068
             }
         ]
     },
@@ -7749,7 +7792,7 @@
                 "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
-                "LastUpdate": 1768009602
+                "LastUpdate": 1768029431
             }
         ]
     },
@@ -8408,7 +8451,7 @@
                 "Description": "Plays a sound when a fish is caught, depending on tug-strength",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/VeraNala/FishNotify",
-                "LastUpdate": 1766971763
+                "LastUpdate": 1768047181
             },
             {
                 "Author": "vera.lyn",
@@ -8453,41 +8496,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.carvel.li/liza/Workshoppa",
                 "LastUpdate": 1766205466
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "VeraNala",
-        "repo_url": "https://raw.githubusercontent.com/VeraNala/XIVPlugins/main/repo.json",
-        "repo_source_url": "https://github.com/VeraNala/XIVPlugins",
-        "repo_name": "XIVPlugins",
-        "plugins": [
-            {
-                "Author": "Liza Carvelli",
-                "Name": "Discard Helper",
-                "InternalName": "ARDiscard",
-                "Description": "Temporary Reupload of Liza's Discard Helper - Small plugin to help keep your inventory organized (especially when automating retainers or submersibles) by discarding items you don't want (e.g. Stuffed Alphas)",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://git.carvel.li/liza/ARDiscard",
-                "LastUpdate": 1750640132
-            },
-            {
-                "Author": "Liza Carvelli",
-                "Name": "Deliveroo",
-                "InternalName": "Deliveroo",
-                "Description": "Temporary Reupload of Liza's Deliveroo",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/VeraNala/Deliveroo",
-                "LastUpdate": 1766212354
-            },
-            {
-                "Author": "Liza Carvelli",
-                "Name": "Fish Notify",
-                "InternalName": "FishNotify",
-                "Description": "Temporary Reupload of Liza's FishNotify - Plays a sound when a fish is caught, depending on tug-strength",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/VeraNala/FishNotify",
-                "LastUpdate": 1766971763
             }
         ]
     },
