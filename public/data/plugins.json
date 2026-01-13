@@ -957,7 +957,7 @@
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1766170026
+                "LastUpdate": 1768311573
             },
             {
                 "Author": "veyn, xan_0",
@@ -1224,7 +1224,7 @@
                 "Description": "Create and manage plugin presets with support for always-on plugins. Commands: /ppreset",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Brappp/PluginPresetManager",
-                "LastUpdate": 1768252085
+                "LastUpdate": 1768312060
             },
             {
                 "Author": "wah",
@@ -1693,7 +1693,7 @@
                 "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-                "LastUpdate": 1768246080
+                "LastUpdate": 1768299111
             },
             {
                 "Author": "decorwdyun",
@@ -1702,7 +1702,7 @@
                 "Description": "Crowd-sourced plugin to view what players are inside of a party in PF. Intended for CN use, but works on global.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1768159766,
+                "LastUpdate": 1768315790,
                 "is_closed_source": true
             },
             {
@@ -2913,7 +2913,7 @@
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1766170026
+                "LastUpdate": 1768311573
             }
         ]
     },
@@ -5703,7 +5703,7 @@
                 "Description": "由酥卷提供技术支持",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/open-xiv/dalamud-plugins",
-                "LastUpdate": 1768025327
+                "LastUpdate": 1768313977
             }
         ]
     },
@@ -7669,7 +7669,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1768291030,
+                "LastUpdate": 1768317858,
                 "is_closed_source": true
             }
         ]
@@ -8588,6 +8588,23 @@
                 "Description": "Make text notes ifor other players e.g. to remind you where you meet them in game.",
                 "RepoUrl": "https://github.com/Waitsnake/NotesPal",
                 "LastUpdate": 1767134107
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/WesleyLuk90/ffxiv-vr/raw/master/PluginRepo/pluginmaster.json",
+        "repo_source_url": "https://github.com/WesleyLuk90/ffxiv-vr",
+        "repo_name": "ffxiv-vr",
+        "repo_developer_name": "WesleyLuk90",
+        "plugins": [
+            {
+                "Author": "Steelgunner90",
+                "Name": "FFXIV VR",
+                "InternalName": "FfxivVR",
+                "Description": "A VR plugin for FFXIV.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/WesleyLuk90/ffxiv-vr",
+                "LastUpdate": 1766364056
             }
         ]
     },
