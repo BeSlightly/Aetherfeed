@@ -29,7 +29,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1768351312
+                "LastUpdate": 1768410498
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -931,7 +931,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1768351312
+                "LastUpdate": 1768410498
             },
             {
                 "Author": "veyn, croizat",
@@ -1508,6 +1508,15 @@
                 "LastUpdate": 1768077015
             },
             {
+                "Author": "CY",
+                "Name": "PlayerWatchlist",
+                "InternalName": "PlayerWatchlist",
+                "Description": "管理黑名單和白名單玩家，當目標玩家在指定範圍內時顯示連結線並發送通知。支援右鍵選單快速添加。(API12 版本，適用於台服)",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/cycleapple/PlayerWatchlist",
+                "LastUpdate": 1768403792
+            },
+            {
                 "Author": "Caraxi",
                 "Name": "Simple Heels",
                 "InternalName": "SimpleHeels",
@@ -1693,7 +1702,7 @@
                 "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-                "LastUpdate": 1768325243
+                "LastUpdate": 1768409148
             },
             {
                 "Author": "decorwdyun",
@@ -1746,7 +1755,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1768058731
+                "LastUpdate": 1768394093
             }
         ],
         "repo_developer_name": "Det"
@@ -3135,7 +3144,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1768058731
+                "LastUpdate": 1768394093
             },
             {
                 "Author": "veyn",
@@ -3144,7 +3153,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1768351312
+                "LastUpdate": 1768410498
             },
             {
                 "Author": "veyn, AtmoOmen",
@@ -3162,7 +3171,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1768378521
+                "LastUpdate": 1768410788
             },
             {
                 "Author": "daemitus, croizat",
@@ -3171,7 +3180,7 @@
                 "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready/",
-                "LastUpdate": 1767377709
+                "LastUpdate": 1768403563
             }
         ]
     },
@@ -3223,7 +3232,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1768058731
+                "LastUpdate": 1768394093
             },
             {
                 "Author": "veyn",
@@ -3232,7 +3241,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1768351312
+                "LastUpdate": 1768410498
             },
             {
                 "Author": "veyn, AtmoOmen",
@@ -3250,7 +3259,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1768378521
+                "LastUpdate": 1768410788
             },
             {
                 "Author": "daemitus, croizat",
@@ -3259,7 +3268,7 @@
                 "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready/",
-                "LastUpdate": 1767377709
+                "LastUpdate": 1768403563
             }
         ]
     },
@@ -5315,7 +5324,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1768220044,
+                "LastUpdate": 1768399848,
                 "is_closed_source": true
             },
             {
@@ -5325,7 +5334,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1768220044,
+                "LastUpdate": 1768399848,
                 "is_closed_source": true
             },
             {
@@ -5335,7 +5344,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1768220044,
+                "LastUpdate": 1768399848,
                 "is_closed_source": true
             },
             {
@@ -6486,7 +6495,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1768058731
+                "LastUpdate": 1768394093
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -6576,7 +6585,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1768378521
+                "LastUpdate": 1768410788
             },
             {
                 "Author": "daemitus, kawaii",
@@ -6585,7 +6594,7 @@
                 "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-                "LastUpdate": 1767377709
+                "LastUpdate": 1768403563
             }
         ],
         "repo_developer_name": "Puni.sh Team"
@@ -8048,7 +8057,7 @@
                 "Description": "Integration for Pishock and OpenShock devices.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
-                "LastUpdate": 1768214013
+                "LastUpdate": 1768404786
             }
         ]
     },
