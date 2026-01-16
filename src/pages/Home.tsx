@@ -57,8 +57,10 @@ const Home: React.FC = () => {
     useEffect(() => {
         const resetToken = (location.state as { resetHome?: number } | null)?.resetHome;
         if (resetToken) {
-            setSearchTerm('');
+            const timeoutId = window.setTimeout(() => setSearchTerm(''), 0);
+            return () => window.clearTimeout(timeoutId);
         }
+        return undefined;
     }, [location.state]);
 
     const filterOptions = useMemo(() => {
