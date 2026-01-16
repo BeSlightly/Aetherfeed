@@ -157,7 +157,7 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel }) => {
                                     title="Visit Puni.sh"
                                 >
                                     <img
-                                        src="punish-logo.webp"
+                                        src={`${import.meta.env.BASE_URL}punish-logo.webp`}
                                         alt="Puni.sh"
                                         className="h-6 w-auto opacity-70 hover:opacity-100 transition-opacity"
                                     />
