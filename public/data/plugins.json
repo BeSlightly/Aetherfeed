@@ -139,6 +139,15 @@
             },
             {
                 "Author": "Abyeon",
+                "Name": "RacingwayRewrite",
+                "InternalName": "RacingwayRewrite",
+                "Description": "RacingwayRewritten!",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Abyeon/RacingwayRewrite",
+                "LastUpdate": 1768987922
+            },
+            {
+                "Author": "Abyeon",
                 "Name": "WrongWarpFinder",
                 "InternalName": "WrongWarpFinder",
                 "Description": "A quick plugin to find Wrong Warps using Racingway rendering tools.",
@@ -176,18 +185,18 @@
                 "Name": "RaidNotes",
                 "InternalName": "RaidNotes",
                 "Description": "Dynamic encounter notes for that reminder you so sorely need. /notes",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Adalyia/RaidNotes",
-                "LastUpdate": 1743986691
+                "LastUpdate": 1768978007
             },
             {
                 "Author": "Ada Lyia",
                 "Name": "RP Logger",
                 "InternalName": "RPLogger",
                 "Description": "An automated scribe documenting your adventures in Eorzea. /rpl for configuration.",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Adalyia/RPLogger",
-                "LastUpdate": 1743986435
+                "LastUpdate": 1768977318
             },
             {
                 "Author": "Ada Lyia",
@@ -196,7 +205,7 @@
                 "Description": "Automates logging of voyage loot. /sdata",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Adalyia/SubDataLogger",
-                "LastUpdate": 1768976431
+                "LastUpdate": 1768977450
             }
         ]
     },
@@ -1316,7 +1325,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1767339546
+                "LastUpdate": 1768995357
             },
             {
                 "Author": "Caraxi",
@@ -2517,7 +2526,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1768973494
+                "LastUpdate": 1768982390
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3996,7 +4005,7 @@
                 "Description": "Host relay plugin for multi-card bingo.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KeiJoi/ffxivbingo4all",
-                "LastUpdate": 1768954696
+                "LastUpdate": 1768982645
             },
             {
                 "Author": "Kei Joi",
@@ -6645,7 +6654,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1768972979
+                "LastUpdate": 1768988312
             },
             {
                 "Author": "Team Wrath",
@@ -6724,6 +6733,23 @@
                 "Description": "A calming Baby Sensory plugin with Cocomelon-style visuals. Use /sensory to open the main window.",
                 "RepoUrl": "https://github.com/pupwife/SensoryPlugin",
                 "LastUpdate": 1766360311
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "QiongHHHZZZ",
+        "repo_url": "https://raw.githubusercontent.com/QiongHHHZZZ/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/QiongHHHZZZ/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "ReMakePlace Maintainers, QiongHHHZZZ(汉化&适配)",
+                "Name": "ReMakePlace Plugin",
+                "InternalName": "ReMakePlacePlugin",
+                "Description": "Automatically save & load interior and exterior house layouts. Import/export layouts from the ReMakePlace program.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/QiongHHHZZZ/plugin",
+                "LastUpdate": 1768984863
             }
         ]
     },
@@ -7206,7 +7232,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1768927924
+                "LastUpdate": 1768979903
             },
             {
                 "Author": "Ricimon",
@@ -7678,7 +7704,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1768972979
+                "LastUpdate": 1768988312
             }
         ]
     },
