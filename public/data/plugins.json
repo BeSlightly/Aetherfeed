@@ -12,7 +12,7 @@
                 "Description": "VFX, animation, and sound editing plugin. Icon by PAPACHIN",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
-                "LastUpdate": 1768864886
+                "LastUpdate": 1768969314
             }
         ]
     },
@@ -29,7 +29,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1768948048
+                "LastUpdate": 1768958751
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -74,7 +74,7 @@
                 "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://puni.sh/api/repository/taurenkey",
-                "LastUpdate": 1768439985
+                "LastUpdate": 1768956470
             }
         ]
     },
@@ -194,9 +194,9 @@
                 "Name": "Sub Data Logger",
                 "InternalName": "SubDataLogger",
                 "Description": "Automates logging of voyage loot. /sdata",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Adalyia/SubDataLogger",
-                "LastUpdate": 1758935473
+                "LastUpdate": 1768976431
             }
         ]
     },
@@ -851,7 +851,7 @@
                 "Description": "在选择角色界面, 右键对应角色, 即可进行超域旅行\n需要使用 XIVLauncherCN 启动游戏, 不支持 WeGame 端",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DCTraveler",
-                "LastUpdate": 1768797254
+                "LastUpdate": 1768972638
             },
             {
                 "Author": "The Combat Reborn Team, AtmoOmen (本地化及国服适配)",
@@ -948,7 +948,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1768948048
+                "LastUpdate": 1768958751
             },
             {
                 "Author": "veyn, croizat",
@@ -1480,6 +1480,15 @@
         "repo_name": "DalamudPlugins-TW",
         "plugins": [
             {
+                "Author": "Loskh, Papachin, DethiCra",
+                "Name": "Action Timeline Replacement",
+                "InternalName": "ActionTimelineReplacement",
+                "Description": "用於替換一些僅通過 mod 無法替換的動畫和特效，部分技能 mod 需要用到（例如 Papachin 的真維吉爾和但丁，Amon 的失落天堂，Bangja 的克勞德等）。(API12 版本，適用於台服)",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/papapachin/ActionTimelineReplacement",
+                "LastUpdate": 1766732253
+            },
+            {
                 "Author": "Sevii77",
                 "Name": "Aetherment",
                 "InternalName": "Aetherment",
@@ -1495,7 +1504,7 @@
                 "Description": "Control actors during GPose sessions. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1768874756
+                "LastUpdate": 1768966028
             },
             {
                 "Author": "Risa",
@@ -2340,7 +2349,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1768874756
+                "LastUpdate": 1768966028
             }
         ]
     },
@@ -2357,7 +2366,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1768874756
+                "LastUpdate": 1768966028
             }
         ]
     },
@@ -2508,7 +2517,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1768799241
+                "LastUpdate": 1768973494
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3170,7 +3179,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1768948048
+                "LastUpdate": 1768958751
             },
             {
                 "Author": "veyn, AtmoOmen",
@@ -3258,7 +3267,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1768948048
+                "LastUpdate": 1768958751
             },
             {
                 "Author": "veyn, AtmoOmen",
@@ -3379,7 +3388,7 @@
                 "Description": "在集体动作模式中控制参与的角色。",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1768874756
+                "LastUpdate": 1768966028
             }
         ]
     },
@@ -3987,7 +3996,16 @@
                 "Description": "Host relay plugin for multi-card bingo.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KeiJoi/ffxivbingo4all",
-                "LastUpdate": 1768936252
+                "LastUpdate": 1768954696
+            },
+            {
+                "Author": "Kei Joi",
+                "Name": "FFXIV Raffle 4 All",
+                "InternalName": "FFXIVRaffle4All",
+                "Description": "FFXIV Plugin for Running Raffles with a Wheel of Names Backend",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KeiJoi/ffxivraffle4all",
+                "LastUpdate": 1768954810
             }
         ]
     },
@@ -4692,7 +4710,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1768874756
+                "LastUpdate": 1768966028
             }
         ]
     },
@@ -5823,7 +5841,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1768874756
+                "LastUpdate": 1768966028
             },
             {
                 "Author": "Risa and Contributors",
@@ -6609,7 +6627,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1768900287
+                "LastUpdate": 1768964044
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -6627,7 +6645,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1768944919
+                "LastUpdate": 1768972979
             },
             {
                 "Author": "Team Wrath",
@@ -7489,7 +7507,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1768874756
+                "LastUpdate": 1768966028
             }
         ]
     },
@@ -7660,7 +7678,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1768944919
+                "LastUpdate": 1768972979
             }
         ]
     },
@@ -8316,7 +8334,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1768952055
+                "LastUpdate": 1768962800
             }
         ]
     },
