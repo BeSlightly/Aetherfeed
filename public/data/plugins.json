@@ -604,7 +604,7 @@
                 "Description": "/wymm takes what you have in your inventory and calculates the optimal combination of items to make. Item prices are fetched from Universalis, or can be manually overridden.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ArcaneAj/WachuMakeyMaking",
-                "LastUpdate": 1769080598
+                "LastUpdate": 1769131213
             }
         ]
     },
@@ -1342,7 +1342,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1768995357
+                "LastUpdate": 1769129657
             },
             {
                 "Author": "Caraxi",
@@ -3223,7 +3223,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1769078108
+                "LastUpdate": 1769131944
             },
             {
                 "Author": "daemitus, croizat",
@@ -3311,7 +3311,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1769078108
+                "LastUpdate": 1769131944
             },
             {
                 "Author": "daemitus, croizat",
@@ -3359,6 +3359,23 @@
         "repo_developer_name": "huntsffxiv"
     },
     {
+        "repo_developer_name": "iarcanar",
+        "repo_url": "https://raw.githubusercontent.com/iarcanar/MBB_Dalamud/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/iarcanar/MBB_Dalamud",
+        "repo_name": "MBB_Dalamud",
+        "plugins": [
+            {
+                "Author": "iarcanar",
+                "Name": "MBB Dalamud Bridge",
+                "InternalName": "DalamudMBBBridge",
+                "Description": "แปลภาษา FFXIV เป็นไทยแบบ real-time ผ่าน Gemini AI - Real-time FFXIV translation with advanced character database and Netflix-quality localization. Features elegant UI with auto-show/hide, full customization (size, colors), and seamless gameplay integration.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/iarcanar/MBB_Dalamud",
+                "LastUpdate": 1769133066
+            }
+        ]
+    },
+    {
         "repo_source_url": "https://github.com/IcarusXIV/Character-Select-/",
         "repo_url": "https://raw.githubusercontent.com/IcarusXIV/Character-Select-/master/CharacterSelectPlugin/repo.json",
         "repo_developer_name": "IcarusXIV",
@@ -3371,7 +3388,7 @@
                 "Description": "Character Select+ allows you to create, save, and instantly apply fully customized character profiles with the press of a button. Switch between your OCs effortlessly using /select CharacterName, applying Penumbra Collections, Glamourer Designs, Customize+ Profiles, and Honorific Titles in one command.\n\nWhile profile switching is its core purpose, Character Select+ includes additional features:\n✔ Advanced Mode – Create custom macro setups for deeper character customization.\n✔ Profile-Specific Designs – Use multiple outfits, styles, and looks per character.\n✔ Favorites & Sorting – Keep profiles organized by name, date, or importance.\n✔ Quick Swap Bar! \n✔ One-Click Macro Execution – Run predefined commands instantly when selecting a character.\n\nWhether you're roleplaying, gposing, or just love quick customization, Character Select+ makes switching between characters faster, easier, and seamless.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/IcarusXIV/Character-Select-",
-                "LastUpdate": 1769107238
+                "LastUpdate": 1769125788
             }
         ]
     },
@@ -4082,7 +4099,7 @@
                 "Description": "[BETA] A comprehensive writing assistant designed for FFXIV roleplayers. Automatically formats your text for seamless in-game chat, includes spell checking, thesaurus integration, and advanced editing tools to enhance your roleplay experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kirin-xiv/EorzeaScribe",
-                "LastUpdate": 1768701679
+                "LastUpdate": 1769121465
             },
             {
                 "Author": "Kirin",
@@ -5563,7 +5580,7 @@
                 "Description": "Allows for automatic execution of commands upon entering new zones, with a 'Roleplay Only' mode for those who want to only use it for RP purposes.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers",
-                "LastUpdate": 1768252339
+                "LastUpdate": 1769126441
             }
         ]
     },
@@ -6177,7 +6194,7 @@
                 "Description": "Just a different Version of Peeping Tom",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/lnjanos/peepingtim",
-                "LastUpdate": 1768680763
+                "LastUpdate": 1769123617
             },
             {
                 "Author": "kcuY",
@@ -6714,7 +6731,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1769078108
+                "LastUpdate": 1769131944
             },
             {
                 "Author": "daemitus, kawaii",
