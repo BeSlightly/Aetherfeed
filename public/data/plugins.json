@@ -1771,7 +1771,7 @@
                 "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-                "LastUpdate": 1769267956
+                "LastUpdate": 1769863510
             },
             {
                 "Author": "decorwdyun",
@@ -1824,7 +1824,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1769829774
+                "LastUpdate": 1769878460
             }
         ],
         "repo_developer_name": "Det"
@@ -2345,7 +2345,7 @@
                 "Description": "Chinese Plugin to export Adventurer Plates to strings, compatible with HaselTweaks Portrait Editor. (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/CharaCradThief",
-                "LastUpdate": 1766761163,
+                "LastUpdate": 1769871488,
                 "is_closed_source": true
             },
             {
@@ -2452,7 +2452,7 @@
                 "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/extrant?tab=repositories",
-                "LastUpdate": 1769620017
+                "LastUpdate": 1769877959
             },
             {
                 "Author": "Bluefissure",
@@ -2470,7 +2470,7 @@
                 "Description": "我是一个FF14学习插件(国服API13)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/I-Ching-GL.zip",
-                "LastUpdate": 1769619986,
+                "LastUpdate": 1769877968,
                 "is_closed_source": true
             },
             {
@@ -3083,7 +3083,7 @@
                 "Description": "The ultimate Ocean Fishing plugin. Automatically suggests baits, logs each boat you're on, tracks progress to achievements, adds a global point leaderboard, and more!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/haavis/varangerfjorden",
-                "LastUpdate": 1769281444
+                "LastUpdate": 1769863675
             }
         ]
     },
@@ -3152,7 +3152,7 @@
                 "Description": "Keep on tweaking.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1769813499
+                "LastUpdate": 1769874228
             },
             {
                 "Author": "Haselnussbomber",
@@ -3204,7 +3204,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1769829774
+                "LastUpdate": 1769878460
             },
             {
                 "Author": "veyn",
@@ -3292,7 +3292,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1769829774
+                "LastUpdate": 1769878460
             },
             {
                 "Author": "veyn",
@@ -3577,6 +3577,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/j0giwa/ComfyLoot/blob/master/ComfyLoot",
                 "LastUpdate": 1769019157
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "J2Slow",
+        "repo_url": "https://raw.githubusercontent.com/J2Slow/Flowline/main/repo.json",
+        "repo_source_url": "https://github.com/J2Slow/Flowline",
+        "repo_name": "Flowline",
+        "plugins": [
+            {
+                "Author": "J2Slow",
+                "Name": "Flowline",
+                "InternalName": "Flowline",
+                "Description": "A rhythm-game style timeline overlay that displays configured actions at specific timestamps during duty encounters. Supports recording, playback, and multiple display modes.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/J2Slow/Flowline",
+                "LastUpdate": 1769871086
             }
         ]
     },
@@ -4238,7 +4255,7 @@
                 "Description": "HSUI provides a highly configurable HUD replacement for FFXIV, recreated from DelvUI using KamiToolKit, FFXIVClientStructs, and Dalamud. Features unit frames, castbars, job gauges, nameplates, party frames, status effects, enemy list, configurable hotbars with drag-and-drop, and profiles.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Knack117/HSUI",
-                "LastUpdate": 1769846397
+                "LastUpdate": 1769878017
             }
         ]
     },
@@ -5077,7 +5094,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1769411697
+                "LastUpdate": 1769870275
             }
         ]
     },
@@ -6734,7 +6751,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1769829774
+                "LastUpdate": 1769878460
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -7453,7 +7470,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1769746221
+                "LastUpdate": 1769879923
             }
         ]
     },
