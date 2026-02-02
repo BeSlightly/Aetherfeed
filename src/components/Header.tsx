@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';
-import { Menu, X, Sun, Moon, Radio } from 'lucide-react';
+import { Menu, X, Sun, Moon, Github } from 'lucide-react';
 import { useTheme } from '../context/ThemeContext';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 
@@ -106,7 +106,7 @@ export const Header: React.FC = () => {
                             rel="noopener noreferrer"
                             className="px-4 py-2 text-sm font-medium text-white bg-slate-900 dark:bg-white dark:text-slate-900 rounded-full hover:bg-aether-600 dark:hover:bg-aether-200 transition-colors flex items-center gap-2"
                         >
-                            <Radio className="h-4 w-4" />
+                            <Github className="h-4 w-4" />
                             <span>GitHub</span>
                         </a>
                     </div>
@@ -152,7 +152,7 @@ export const Header: React.FC = () => {
                         rel="noopener noreferrer"
                         className="w-full mt-4 px-4 py-2 text-sm font-medium text-white bg-slate-900 dark:bg-white dark:text-slate-900 rounded-full hover:bg-aether-600 transition-colors flex items-center justify-center gap-2"
                     >
-                        <Radio className="h-4 w-4" />
+                        <Github className="h-4 w-4" />
                         <span>GitHub</span>
                     </a>
                 </div>
