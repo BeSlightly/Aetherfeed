@@ -13,7 +13,14 @@ Aetherfeed is a spiritual successor to the now-shutdown xivplugins.com, providin
 
 ## How it works
 
-The plugin list (`plugins.json`) is automatically updated every 6 hours by a separate scraper repository that monitors GitHub for FFXIV plugins. It validates repositories and aggregates the data displayed here.
+The plugin list (`plugins.json`) is automatically updated every 6 hours by a private scraper. It monitors for FFXIV plugins, validates repositories, and aggregates the data shown here.
+
+## Add or remove a plugin
+
+If the scraper misses your plugin (or you want one removed), open an issue and include:
+
+- The plugin's GitHub repository link
+- The plugin repository URL (the custom repo URL)
 
 ## ⚠️ Disclaimer
 
