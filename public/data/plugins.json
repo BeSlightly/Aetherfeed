@@ -3470,6 +3470,23 @@
         ]
     },
     {
+        "repo_url": "https://puni.sh/api/repository/gid",
+        "repo_source_url": "https://github.com/imgidedin/gearsetreminder",
+        "repo_developer_name": "imgidedin",
+        "repo_name": "gearsetreminder",
+        "plugins": [
+            {
+                "Author": "Gid",
+                "Name": "Gearset Reminder",
+                "InternalName": "GearsetReminder",
+                "Description": "Configure duties to warn you if you are not equipped with the correct gearset on entry.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://puni.sh/api/repository/gid",
+                "LastUpdate": 1768759808
+            }
+        ]
+    },
+    {
         "repo_developer_name": "InitialDet",
         "repo_url": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/InitialDet/MyDalamudPlugins",
@@ -5094,7 +5111,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1770018575
+                "LastUpdate": 1770041057
             }
         ]
     },
