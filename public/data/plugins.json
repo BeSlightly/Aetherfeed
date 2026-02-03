@@ -29,7 +29,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1769712816
+                "LastUpdate": 1770064115
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -946,16 +946,16 @@
                 "Description": "Turn and face to the camera direction immediately after any actions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Atomoxide/DalamudPluginRepo",
-                "LastUpdate": 1753573468
+                "LastUpdate": 1770067837
             },
             {
                 "Author": "Atomoxide",
                 "Name": "Hitbox Extend",
                 "InternalName": "TestPlugin",
                 "Description": "Extend the target hitbox by 3 yards (farthest allowed before your attack actions get invalidated by the server)",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Atomoxide/DalamudPluginRepo",
-                "LastUpdate": 1753573468
+                "LastUpdate": 1770067837
             }
         ],
         "repo_name": "DalamudPluginRepo",
@@ -974,7 +974,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1769712816
+                "LastUpdate": 1770064115
             },
             {
                 "Author": "veyn, croizat",
@@ -1009,7 +1009,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1769979147
+                "LastUpdate": 1770067250
             },
             {
                 "Author": "veyn, croizat",
@@ -1824,7 +1824,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1770058115
+                "LastUpdate": 1770072913
             }
         ],
         "repo_developer_name": "Det"
@@ -2507,7 +2507,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1769889802
+                "LastUpdate": 1770079437
             }
         ]
     },
@@ -3204,7 +3204,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1770058115
+                "LastUpdate": 1770072913
             },
             {
                 "Author": "veyn",
@@ -3213,7 +3213,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1769712816
+                "LastUpdate": 1770064115
             },
             {
                 "Author": "veyn, AtmoOmen",
@@ -3292,7 +3292,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1770058115
+                "LastUpdate": 1770072913
             },
             {
                 "Author": "veyn",
@@ -3301,7 +3301,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1769712816
+                "LastUpdate": 1770064115
             },
             {
                 "Author": "veyn, AtmoOmen",
@@ -4064,7 +4064,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1769889802
+                "LastUpdate": 1770079437
             }
         ]
     },
@@ -6369,6 +6369,114 @@
     },
     {
         "repo_developer_name": "Pistachio-dev",
+        "repo_url": "https://raw.githubusercontent.com/Pistachio-dev/DalamudPluginRepository/main/repo.json",
+        "repo_source_url": "https://github.com/Pistachio-dev/DalamudPluginRepository",
+        "repo_name": "DalamudPluginRepository",
+        "is_allowed_mega_repo": true,
+        "plugins": [
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Autogardener",
+                "InternalName": "Autogardener",
+                "Description": "Tend to your plot in one click. Type /autog to start.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Pistachio-dev/FFXIV_Autogardener",
+                "LastUpdate": 1766931109
+            },
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Cards Against Hyurmanity",
+                "InternalName": "CardsAgainstHyurmanity",
+                "Description": "Play cards against humanity over game chat. Type /cah to open the main window.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity",
+                "LastUpdate": 1766432150
+            },
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Energy Saving Alt-Tab",
+                "InternalName": "EnergySavingAltTab",
+                "Description": "Slows the game FPS to a crawl when the window is inactive, saving GPU use. /esat opens the configuration window",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Pistachio-dev/EnergySavingAltTab",
+                "LastUpdate": 1766255019
+            },
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Faded Orchestrion Roll Fixer",
+                "InternalName": "FadedRollFixer",
+                "Description": "Generate a crafting list for the faded orchestrion rolls in your inventory. Use /faded to begin",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Pistachio-dev/Faded-Roll-Fixer",
+                "LastUpdate": 1766263050
+            },
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Flash On Ready Check",
+                "InternalName": "FlashOnReadyCheck",
+                "Description": "Flash FFXIV's program on the taskbar when a /readycheck starts. Use /readyflash to test the window flashing.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Pistachio-dev/FlashOnReadyCheck",
+                "LastUpdate": 1766263611
+            },
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Texas Hold'em Helper'",
+                "InternalName": "HoldemHelper",
+                "Description": "Use /holdem to open the window.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
+                "LastUpdate": 1768475753
+            },
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Minigame Collection",
+                "InternalName": "MinigameCollection",
+                "Description": "A collection of of venue or casino games. Type /minig to start.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
+                "LastUpdate": 1770048008
+            },
+            {
+                "Author": "Pistachio Herald, based on Anna's Orange Guidance Tomestone",
+                "Name": "North Star",
+                "InternalName": "NorthStar",
+                "Description": "Shows a beacon on the position of the last <pos> or <flag> in chat. Use /northstar to configure",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Pistachio-dev/NorthStar",
+                "LastUpdate": 1768475627
+            },
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Passport Checkpoint",
+                "InternalName": "PassportCheckpoint",
+                "Description": "Right click to get party member tomestone pages.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Pistachio-dev/PassportCheckpoint",
+                "LastUpdate": 1767528458
+            },
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Polaroid",
+                "InternalName": "Polaroid",
+                "Description": "Makes /photograph take an actual picture",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Pistachio-dev/Polaroid",
+                "LastUpdate": 1767626599
+            },
+            {
+                "Author": "Pistachio Herald",
+                "Name": "ToD Howard",
+                "InternalName": "TruthOrDareHelper",
+                "Description": "Make Truth or Dare easier and faster. Type /tod to launch. It just works.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Pistachio-dev/TruthOrDareHelper",
+                "LastUpdate": 1766938172
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Pistachio-dev",
         "repo_url": "https://raw.githubusercontent.com/Pistachio-dev/EnergySavingAltTab/master/Repo.json",
         "repo_source_url": "https://github.com/Pistachio-dev/EnergySavingAltTab",
         "repo_name": "EnergySavingAltTab",
@@ -6687,7 +6795,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1770058115
+                "LastUpdate": 1770072913
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -7996,6 +8104,23 @@
         ]
     },
     {
+        "repo_developer_name": "sodaohoh",
+        "repo_url": "https://raw.githubusercontent.com/sodaohoh/ff14-duolingo/master/repo.json",
+        "repo_source_url": "https://github.com/sodaohoh/ff14-duolingo",
+        "repo_name": "ff14-duolingo",
+        "plugins": [
+            {
+                "Author": "Soda Ohoh",
+                "Name": "Cast Bar Translator",
+                "InternalName": "CastBarTranslator",
+                "Description": "Displays bilingual action names on cast bars. Select any two languages (English, Japanese, German, French, Traditional Chinese) to show on target cast bars - perfect for learning skill names in another language.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/sodaohoh/ff14-duolingo",
+                "LastUpdate": 1770085174
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Solandus",
         "repo_url": "https://raw.githubusercontent.com/Solandus/FFXIVPlugins/main/repo.json",
         "repo_source_url": "https://github.com/Solandus/FFXIVPlugins",
@@ -8491,7 +8616,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1769884493
+                "LastUpdate": 1770074061
             }
         ]
     },
