@@ -31,6 +31,7 @@ If the scraper misses your plugin (or you want one removed), open an issue and i
 *   Always understand what you are installing.
 *   This list includes closed-source and obfuscated plugins.
 *   If you use custom repositories found here, **DO NOT** ask for help on the official Dalamud/XIVLauncher Discord server.
+*   Aetherfeed is not affiliated with any listed plugins or developers.
 
 ---
 
