@@ -1824,7 +1824,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1770072913
+                "LastUpdate": 1770114667
             }
         ],
         "repo_developer_name": "Det"
@@ -2452,7 +2452,7 @@
                 "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/extrant?tab=repositories",
-                "LastUpdate": 1769877959
+                "LastUpdate": 1770127846
             },
             {
                 "Author": "Bluefissure",
@@ -2470,7 +2470,7 @@
                 "Description": "我是一个FF14学习插件(国服API13)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/I-Ching-GL.zip",
-                "LastUpdate": 1769877968,
+                "LastUpdate": 1770127795,
                 "is_closed_source": true
             },
             {
@@ -3204,7 +3204,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1770072913
+                "LastUpdate": 1770114667
             },
             {
                 "Author": "veyn",
@@ -3292,7 +3292,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1770072913
+                "LastUpdate": 1770114667
             },
             {
                 "Author": "veyn",
@@ -3610,7 +3610,7 @@
                 "Description": "A rhythm-game style timeline overlay that displays configured actions at specific timestamps during duty encounters. Supports recording, playback, and multiple display modes.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/J2Slow/Flowline",
-                "LastUpdate": 1769893823
+                "LastUpdate": 1770123113
             }
         ]
     },
@@ -6812,7 +6812,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1770072913
+                "LastUpdate": 1770114667
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -6875,7 +6875,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1770052135
+                "LastUpdate": 1770117413
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -7498,6 +7498,23 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/rkycx/AYO-tweaks",
                 "LastUpdate": 1732391446
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Robert5204",
+        "repo_url": "https://raw.githubusercontent.com/Robert5204/FFLogsUploader/main/repo.json",
+        "repo_source_url": "https://github.com/Robert5204/FFLogsUploader",
+        "repo_name": "FFLogsUploader",
+        "plugins": [
+            {
+                "Author": "Robert5204",
+                "Name": "FFLogs Uploader",
+                "InternalName": "FFLogsPlugin",
+                "Description": "A plugin that allows you to upload ACT combat logs to FFLogs without leaving the game. Supports both live logging and manual log uploads.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Robert5204/FFLogsUploader",
+                "LastUpdate": 1770120708
             }
         ]
     },
