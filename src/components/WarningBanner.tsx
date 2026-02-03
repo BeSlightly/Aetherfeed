@@ -4,13 +4,13 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 const WarningBanner: React.FC = () => {
     const [isVisible, setIsVisible] = useState(() => {
-        const dismissed = localStorage.getItem('aetherfeed_warning_dismissed');
+        const dismissed = localStorage.getItem('aetherfeed_warning_dismissed_v2');
         return !dismissed;
     });
 
     const handleDismiss = () => {
         setIsVisible(false);
-        localStorage.setItem('aetherfeed_warning_dismissed', 'true');
+        localStorage.setItem('aetherfeed_warning_dismissed_v2', 'true');
     };
 
     return (
@@ -34,6 +34,11 @@ const WarningBanner: React.FC = () => {
                                 </h3>
                                 <p className="text-slate-600 dark:text-slate-400 text-sm leading-relaxed text-pretty">
                                     These plugin lists are dynamically generated and not vetted. They may contain malware or jeopardize your account. Proceed&nbsp;with&nbsp;caution. If you're installing plugins from custom repositories, <span className="font-bold text-amber-700 dark:text-amber-400">DO NOT</span> ask for help on the XIVLauncher discord. Please&nbsp;review the plugin's README for support.
+                                </p>
+                                <p className="text-slate-600 dark:text-slate-400 text-sm leading-relaxed text-pretty mt-2">
+                                    Aetherfeed is not affiliated with any listed plugins or developers, including puni.sh.
+                                    <br />
+                                    For an official puni.sh plugin directory, visit <a href="https://puni.sh/" className="font-semibold underline underline-offset-2 text-amber-700 dark:text-amber-300 hover:text-amber-800 dark:hover:text-amber-200" target="_blank" rel="noreferrer">puni.sh</a>.
                                 </p>
                             </div>
                             <button
