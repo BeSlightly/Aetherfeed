@@ -74,7 +74,7 @@
                 "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://puni.sh/api/repository/taurenkey",
-                "LastUpdate": 1770166373
+                "LastUpdate": 1770340616
             }
         ]
     },
@@ -1342,7 +1342,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1770166436
+                "LastUpdate": 1770339254
             },
             {
                 "Author": "Caraxi",
@@ -3228,6 +3228,23 @@
         ]
     },
     {
+        "repo_developer_name": "hocng015",
+        "repo_url": "https://raw.githubusercontent.com/hocng015/PFRemote-Repo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/hocng015/PFRemote-Repo",
+        "repo_name": "PFRemote-Repo",
+        "plugins": [
+            {
+                "Author": "Mochi",
+                "Name": "PFRemote",
+                "InternalName": "PFRemote",
+                "Description": "PFRemote allows you to browse, join, and create Party Finder listings remotely through a Discord bot. Perfect for managing parties from your phone or another device.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/hocng015/PFRemote-Repo",
+                "LastUpdate": 1770355236
+            }
+        ]
+    },
+    {
         "repo_developer_name": "HoshinoCorp",
         "repo_url": "https://raw.githubusercontent.com/HoshinoCorp/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/HoshinoCorp/DalamudPlugins",
@@ -4488,6 +4505,23 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox",
                 "LastUpdate": 1766440935
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "LewisSmithVA",
+        "repo_url": "https://raw.githubusercontent.com/LewisSmithVA/FFXIV-VoiceMod-Repo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/LewisSmithVA/FFXIV-VoiceMod-Repo",
+        "repo_name": "FFXIV-VoiceMod-Repo",
+        "plugins": [
+            {
+                "Author": "Lewis Smith",
+                "Name": "Voice Mod Core",
+                "InternalName": "SamplePlugin",
+                "Description": "Adds voice acting to FFXIV via zone-based cloud caching.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/LewisSmithVA/FFXIV-VoiceMod-Repo",
+                "LastUpdate": 1770339300
             }
         ]
     },
@@ -6735,7 +6769,7 @@
                 "Description": "Chronofoil is a plugin that allows you to capture in-game packets for analysis later.\nIt also allows you to upload a censored version of these captures to a central repository for\npreservation and analysis. Privacy controls are at the center of Chronofoil, which is why it\nrequires two levels of user opt-in, has minimum delays on releasing any submitted user info,\nand allows users to delete their submitted data at any time.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ProjectChronofoil/Chronofoil.Plugin",
-                "LastUpdate": 1769565621
+                "LastUpdate": 1770354775
             }
         ]
     },
@@ -7463,7 +7497,7 @@
                 "Description": "A plugin that allows you to upload ACT combat logs to FFLogs without leaving the game. Supports both live logging and manual log uploads.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Robert5204/FFLogsUploader",
-                "LastUpdate": 1770120708
+                "LastUpdate": 1770357185
             }
         ]
     },
@@ -8599,7 +8633,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1770220538
+                "LastUpdate": 1770352121
             }
         ]
     },
@@ -8682,6 +8716,15 @@
             },
             {
                 "Author": "Vali",
+                "Name": "Foxy Jumpscare",
+                "InternalName": "FoxyJumpscare",
+                "Description": "Triggers random fullscreen Withered Foxy jumpscares during gameplay, inspired by Five Nights at Freddy's mods.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Valiice/FoxyJumpscare",
+                "LastUpdate": 1770342046
+            },
+            {
+                "Author": "Vali",
                 "Name": "Job Auto Switcher",
                 "InternalName": "JobAutoSwitcher",
                 "Description": "Automatically switches your gearset to match the queued job when you click Commence, bypassing the 'class/job is different' error.",
@@ -8705,7 +8748,7 @@
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1770325724
+                "LastUpdate": 1770339195
             }
         ]
     },
@@ -9283,7 +9326,7 @@
                 "Description": "Score your neurolink placement in UCoB! /ucobscoring for settings.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Yhumi/UcobNeuroScoring",
-                "LastUpdate": 1766052589
+                "LastUpdate": 1770342115
             }
         ],
         "repo_source_url": "https://github.com/Yhumi/Plogons",
