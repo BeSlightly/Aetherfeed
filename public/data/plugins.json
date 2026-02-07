@@ -673,7 +673,7 @@
                 "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1770415480
+                "LastUpdate": 1770467818
             }
         ]
     },
@@ -1780,7 +1780,7 @@
                 "Description": "Crowd-sourced plugin to view what players are inside of a party in PF. Intended for CN use, but works on global.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1770446245,
+                "LastUpdate": 1770455790,
                 "is_closed_source": true
             },
             {
@@ -1790,7 +1790,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1770039264
+                "LastUpdate": 1770461150
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -3598,6 +3598,23 @@
         "repo_developer_name": "iVeigar"
     },
     {
+        "repo_developer_name": "izaghar",
+        "repo_url": "https://raw.githubusercontent.com/izaghar/allagan-sync/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/izaghar/allagan-sync",
+        "repo_name": "allagan-sync",
+        "plugins": [
+            {
+                "Author": "izaghar",
+                "Name": "Allagan Sync",
+                "InternalName": "AllaganSync",
+                "Description": "Allagan Sync - Track and sync your mounts, minions, emotes, orchestrions, and titles",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/izaghar/allagan-sync",
+                "LastUpdate": 1770454607
+            }
+        ]
+    },
+    {
         "repo_developer_name": "j0giwa",
         "repo_url": "https://raw.githubusercontent.com/j0giwa/ComfyLoot/master/repo.json",
         "repo_source_url": "https://github.com/j0giwa/ComfyLoot",
@@ -3947,7 +3964,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1769525733,
+                "LastUpdate": 1770451393,
                 "is_closed_source": true
             },
             {
@@ -4021,7 +4038,7 @@
                 "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kawaii/Hyperborea",
-                "LastUpdate": 1769507915
+                "LastUpdate": 1770458954
             }
         ]
     },
@@ -4522,23 +4539,6 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox",
                 "LastUpdate": 1766440935
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "LewisSmithVA",
-        "repo_url": "https://raw.githubusercontent.com/LewisSmithVA/FFXIV-VoiceMod-Repo/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/LewisSmithVA/FFXIV-VoiceMod-Repo",
-        "repo_name": "FFXIV-VoiceMod-Repo",
-        "plugins": [
-            {
-                "Author": "Lewis Smith",
-                "Name": "Voice Mod Core",
-                "InternalName": "SamplePlugin",
-                "Description": "Adds voice acting to FFXIV via zone-based cloud caching.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://github.com/LewisSmithVA/FFXIV-VoiceMod-Repo",
-                "LastUpdate": 1770339300
             }
         ]
     },
@@ -5128,7 +5128,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1770428446
+                "LastUpdate": 1770469478
             }
         ]
     },
@@ -6380,7 +6380,7 @@
                 "InternalName": "WhoSaidWhatNow",
                 "Description": "Chat history plugin, view history per character, per group, or search.\n Main command /whowhat",
                 "RepoUrl": "https://github.com/perappu/WhoSaidWhatNow",
-                "LastUpdate": 1756919229
+                "LastUpdate": 1770449838
             }
         ]
     },
@@ -6875,7 +6875,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1770172034
+                "LastUpdate": 1770458691
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -7471,7 +7471,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1770447060
+                "LastUpdate": 1770453074
             },
             {
                 "Author": "Ricimon",
