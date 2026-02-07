@@ -97,6 +97,23 @@
         ]
     },
     {
+        "repo_developer_name": "aauukerochan",
+        "repo_url": "https://raw.githubusercontent.com/aauukerochan/xivplugins/main/plugins.json",
+        "repo_source_url": "https://github.com/aauukerochan/xivplugins",
+        "repo_name": "xivplugins",
+        "plugins": [
+            {
+                "Author": "aauukerochan",
+                "Name": "Death Key Chord Plugin",
+                "InternalName": "DeathKeyChord",
+                "Description": "Sends key chord on death. Defaults to holding F24, but can be configured. Recommend to use with Push to Mute in Discord for silly reasons.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/aauukerochan/deathkeychord",
+                "LastUpdate": 1770491240
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ABagOSunshine",
         "repo_url": "https://raw.githubusercontent.com/ABagOSunshine/RPChatHighlight/main/repo.json",
         "repo_source_url": "https://github.com/ABagOSunshine/RPChatHighlight",
@@ -1009,7 +1026,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1770311450
+                "LastUpdate": 1770490714
             },
             {
                 "Author": "veyn, croizat",
@@ -1565,7 +1582,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1770417907
+                "LastUpdate": 1770484575
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -2145,7 +2162,7 @@
                 "Description": "Use dresser outside of inns. Search items in other inventories or cheap at vendors. Try on your own character. Browse modded items.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/emyxiv/Dresser",
-                "LastUpdate": 1767428287
+                "LastUpdate": 1770474762
             }
         ]
     },
@@ -3214,7 +3231,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1770327395
+                "LastUpdate": 1770489602
             },
             {
                 "Author": "daemitus, croizat",
@@ -3336,7 +3353,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1770327395
+                "LastUpdate": 1770489602
             },
             {
                 "Author": "daemitus, croizat",
@@ -4521,7 +4538,7 @@
                 "Description": "*-insert a quirky description here later... hopefully-*",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1770443162
+                "LastUpdate": 1770482437
             }
         ]
     },
@@ -5128,7 +5145,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1770469478
+                "LastUpdate": 1770481396
             }
         ]
     },
@@ -6045,7 +6062,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1770417907
+                "LastUpdate": 1770484575
             }
         ]
     },
@@ -6089,7 +6106,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1770417907
+                "LastUpdate": 1770484575
             },
             {
                 "Author": "Anna",
@@ -6769,7 +6786,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1767830505
+                "LastUpdate": 1770491307
             }
         ]
     },
@@ -6902,7 +6919,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1770327395
+                "LastUpdate": 1770489602
             },
             {
                 "Author": "daemitus, kawaii",
@@ -7471,7 +7488,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1770453074
+                "LastUpdate": 1770488911
             },
             {
                 "Author": "Ricimon",
@@ -8046,7 +8063,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1770178837,
+                "LastUpdate": 1770481080,
                 "is_closed_source": true
             }
         ]
@@ -8738,7 +8755,7 @@
                 "Description": "Triggers random fullscreen Withered Foxy jumpscares during gameplay, inspired by Five Nights at Freddy's mods.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/FoxyJumpscare",
-                "LastUpdate": 1770342046
+                "LastUpdate": 1770480414
             },
             {
                 "Author": "Vali",
@@ -8765,7 +8782,7 @@
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1770339195
+                "LastUpdate": 1770480492
             }
         ]
     },
