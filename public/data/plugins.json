@@ -290,7 +290,7 @@
                 "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1770508453
+                "LastUpdate": 1770601645
             }
         ]
     },
@@ -1359,7 +1359,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1770543651
+                "LastUpdate": 1770598551
             },
             {
                 "Author": "Caraxi",
@@ -1564,7 +1564,7 @@
                 "Description": "Control actors during GPose sessions. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770505266
+                "LastUpdate": 1770600335
             },
             {
                 "Author": "Risa",
@@ -2213,7 +2213,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1770579852
+                "LastUpdate": 1770586507
             }
         ]
     },
@@ -2230,7 +2230,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1770579852
+                "LastUpdate": 1770586507
             }
         ]
     },
@@ -2383,7 +2383,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770505266
+                "LastUpdate": 1770600335
             }
         ]
     },
@@ -2400,7 +2400,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770505266
+                "LastUpdate": 1770600335
             }
         ]
     },
@@ -3473,7 +3473,7 @@
                 "Description": "在集体动作模式中控制参与的角色。",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770505266
+                "LastUpdate": 1770600335
             }
         ]
     },
@@ -4679,6 +4679,24 @@
         ]
     },
     {
+        "repo_url": "https://repo.lightless-sync.org/",
+        "repo_source_url": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
+        "repo_developer_name": "Lightless-Sync",
+        "repo_name": "LightlessClient",
+        "repo_discord_url": "https://discord.gg/Lightless",
+        "plugins": [
+            {
+                "Author": "Lightless Team",
+                "Name": "Lightless Sync",
+                "InternalName": "LightlessSync",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
+                "LastUpdate": 1768938180
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Limiana",
         "repo_url": "https://raw.githubusercontent.com/Limiana/DynamicBridgeStandalone/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Limiana/DynamicBridgeStandalone",
@@ -4896,7 +4914,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770505266
+                "LastUpdate": 1770600335
             }
         ]
     },
@@ -5127,7 +5145,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1770557837
+                "LastUpdate": 1770590124
             }
         ]
     },
@@ -6061,7 +6079,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770505266
+                "LastUpdate": 1770600335
             },
             {
                 "Author": "Risa and Contributors",
@@ -7805,7 +7823,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770505266
+                "LastUpdate": 1770600335
             }
         ]
     },
@@ -7942,6 +7960,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sevii77/properhousing",
                 "LastUpdate": 1754936973
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "SF-XIV",
+        "repo_url": "https://raw.githubusercontent.com/SF-XIV/DalamudPluginRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/SF-XIV/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "SF-XIV",
+                "Name": "Visibility+",
+                "InternalName": "VisibilityPlus",
+                "Description": "Fork of Visibility plugin. Allows you to hide players, pets, chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/SF-XIV/VisibilityPluginPlus",
+                "LastUpdate": 1770602197
             }
         ]
     },
@@ -8312,7 +8347,7 @@
                 "Description": "Brand new combos like never before - 1 button mode included! Features extra functionality not in other combo plugins like PvP, Blue Mage, Eureka, and Bozja!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/StackBLU/UltimateCombo",
-                "LastUpdate": 1767593946
+                "LastUpdate": 1770596861
             }
         ]
     },
