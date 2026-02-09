@@ -979,6 +979,23 @@
         "repo_developer_name": "Atomoxide"
     },
     {
+        "repo_developer_name": "Averthian",
+        "repo_url": "https://raw.githubusercontent.com/Averthian/Papers-Please-Dalamud/main/repo.json",
+        "repo_source_url": "https://github.com/Averthian/Papers-Please-Dalamud",
+        "repo_name": "Papers-Please-Dalamud",
+        "plugins": [
+            {
+                "Author": "Averthian",
+                "Name": "Papers Please",
+                "InternalName": "PapersPlease",
+                "Description": "Adds a right-click context menu option and /tome command to open character profiles on Tomestone.gg.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Averthian/Papers-Please-Dalamud",
+                "LastUpdate": 1770607862
+            }
+        ]
+    },
+    {
         "repo_url": "https://puni.sh/api/repository/veyn",
         "repo_source_url": "https://github.com/awgil",
         "repo_name": "veyn",
@@ -2213,7 +2230,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1770586507
+                "LastUpdate": 1770625078
             }
         ]
     },
@@ -2230,7 +2247,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1770586507
+                "LastUpdate": 1770625078
             }
         ]
     },
@@ -2507,7 +2524,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1770553224
+                "LastUpdate": 1770614357
             }
         ]
     },
@@ -2551,7 +2568,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1770275847
+                "LastUpdate": 1770612919
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -2578,7 +2595,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1770330928
+                "LastUpdate": 1770628170
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4115,7 +4132,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1770553224
+                "LastUpdate": 1770614357
             }
         ]
     },
@@ -5230,7 +5247,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1770325416
+                "LastUpdate": 1770627212
             }
         ]
     },
@@ -8313,7 +8330,7 @@
                 "Description": "Automatically translates your outgoing messages (to the party language) and incoming messages (to your local language) using Google Translate. Overlay window included. No API Key required.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ssalazar217/EchoXIV",
-                "LastUpdate": 1770558869
+                "LastUpdate": 1770617702
             }
         ]
     },
@@ -8798,7 +8815,7 @@
                 "Description": "Automatically switches your gearset to match the queued job when you click Commence, bypassing the 'class/job is different' error.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/JobAutoSwitcher",
-                "LastUpdate": 1769406122
+                "LastUpdate": 1770615614
             },
             {
                 "Author": "Vali",
@@ -8957,7 +8974,7 @@
                 "Description": "Helps optimize squadron mission compositions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/yourusername/Squadronista",
-                "LastUpdate": 1766207905
+                "LastUpdate": 1770608623
             },
             {
                 "Author": "vera.lyn",
