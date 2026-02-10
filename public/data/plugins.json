@@ -1805,7 +1805,7 @@
                 "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-                "LastUpdate": 1770552926
+                "LastUpdate": 1770720374
             },
             {
                 "Author": "decorwdyun",
@@ -3160,7 +3160,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1770684256
+                "LastUpdate": 1770709743
             },
             {
                 "Author": "Haselnussbomber",
@@ -3712,7 +3712,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1770633622
+                "LastUpdate": 1770728236
             },
             {
                 "Author": "croizat",
@@ -6299,6 +6299,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/PassiveModding/Meddle/raw/main/repo.json",
+        "repo_source_url": "https://github.com/PassiveModding/Meddle",
+        "repo_name": "Meddle",
+        "repo_developer_name": "PassiveModding",
+        "plugins": [
+            {
+                "Author": "Ramen",
+                "Name": "Meddle",
+                "InternalName": "Meddle.Plugin",
+                "Description": "Did I mention I'm a model? Export models to glTF format.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/PassiveModding/Meddle",
+                "LastUpdate": 1766184215
+            }
+        ]
+    },
+    {
         "repo_developer_name": "PassiveModding",
         "repo_url": "https://raw.githubusercontent.com/PassiveModding/XIVSplits/main/repo.json",
         "repo_source_url": "https://github.com/PassiveModding/XIVSplits",
@@ -6712,7 +6729,7 @@
                 "Description": "Configure presets for custom camera properties & features a freecam mode. Based on Cammy but with a simplified UI & various bug fixes.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/PyonCam.zip",
-                "LastUpdate": 1769143690,
+                "LastUpdate": 1770716226,
                 "is_closed_source": true
             },
             {
@@ -6892,7 +6909,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1770640533
+                "LastUpdate": 1770718295
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -6998,6 +7015,15 @@
         "repo_source_url": "https://github.com/QiongHHHZZZ/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
+            {
+                "Author": "Taurenkey (Puni.sh), QiongHHHZZZ(汉化&适配)",
+                "Name": "Artisan",
+                "InternalName": "Artisan",
+                "Description": "一体化制作插件。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/QiongHHHZZZ/Artisan",
+                "LastUpdate": 1770716950
+            },
             {
                 "Author": "ReMakePlace Maintainers, QiongHHHZZZ(汉化&适配)",
                 "Name": "ReMakePlace Plugin",
@@ -7332,6 +7358,23 @@
                 "RepoUrl": "https://github.com/redeven/TinyTweaks",
                 "LastUpdate": 1743083174
             },
+            {
+                "Author": "Redeven",
+                "Name": "VentureTime",
+                "InternalName": "VentureTime",
+                "Description": "Display your retainers' remaining venture time in the DTR bar.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/redeven/VentureTime",
+                "LastUpdate": 1743083201
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/redeven/VentureTime/raw/master/repository.json",
+        "repo_source_url": "https://github.com/redeven/VentureTime",
+        "repo_name": "VentureTime",
+        "repo_developer_name": "redeven",
+        "plugins": [
             {
                 "Author": "Redeven",
                 "Name": "VentureTime",
@@ -8653,6 +8696,23 @@
         ]
     },
     {
+        "repo_developer_name": "UnbirthdayHatter",
+        "repo_url": "https://raw.githubusercontent.com/UnbirthdayHatter/Inventory-Combat-Alert/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/UnbirthdayHatter/Inventory-Combat-Alert",
+        "repo_name": "Inventory-Combat-Alert",
+        "plugins": [
+            {
+                "Author": "UnbirthdayHatter",
+                "Name": "Inventory Combat Alert",
+                "InternalName": "InventoryCombatAlert",
+                "Description": "Warns you when your inventory is full upon entering combat.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/UnbirthdayHatter/Inventory-Combat-Alert",
+                "LastUpdate": 1770724302
+            }
+        ]
+    },
+    {
         "repo_url": "https://playersync.io/download/plugin/repo.json",
         "repo_source_url": "https://github.com/universalconquistador/MareSynchronosClient",
         "repo_developer_name": "universalconquistador",
@@ -8851,7 +8911,7 @@
                 "Description": "为副本记录器添加了额外功能，并在副本中自动录制\n在旅馆中使用 /record 指令来打开回放列表\n如果相关指令未解锁，请完成「回顾英雄诗篇」任务",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/VeeverSW/DalamudPlugins",
-                "LastUpdate": 1770028580
+                "LastUpdate": 1770729698
             },
             {
                 "Author": "kawaii, Veever(汉化+额外功能)",
@@ -8860,7 +8920,7 @@
                 "Description": "可在相对安全的环境下加载并探索任意区域，主要用于在无法进入/难以进入的场景中拍照",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/VeeverSW/Hyperborea",
-                "LastUpdate": 1770563382
+                "LastUpdate": 1770730317
             }
         ]
     },
