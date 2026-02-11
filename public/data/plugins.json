@@ -1548,7 +1548,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1770771236
+                "LastUpdate": 1770805133
             },
             {
                 "Author": "Caraxi",
@@ -2013,7 +2013,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1770461150
+                "LastUpdate": 1770810610
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -3536,7 +3536,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1770544827
+                "LastUpdate": 1770795690
             },
             {
                 "Author": "daemitus, croizat",
@@ -3658,7 +3658,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1770544827
+                "LastUpdate": 1770795690
             },
             {
                 "Author": "daemitus, croizat",
@@ -4786,6 +4786,23 @@
         ]
     },
     {
+        "repo_developer_name": "KoiKoiiKoiii",
+        "repo_url": "https://raw.githubusercontent.com/KoiKoiiKoiii/koikoiikoiii.github.io/main/JS/pluginmaster.json",
+        "repo_source_url": "https://github.com/KoiKoiiKoiii/koikoiikoiii.github.io",
+        "repo_name": "koikoiikoiii.github.io",
+        "plugins": [
+            {
+                "Author": "AtmoOmen",
+                "Name": "Daily Routines",
+                "InternalName": "DailyRoutines",
+                "Description": "海量自动化/易用性游戏系统优化模块合集, 帮你从一些无意义的重复性工作中解放出来\nA massive collection of automation / QoL optimization modules to free you from meaningless repetitive tasks.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins",
+                "LastUpdate": 1770639266
+            }
+        ]
+    },
+    {
         "repo_developer_name": "KomiTsuku",
         "repo_url": "https://raw.githubusercontent.com/KomiTsuku/AQR3Test/master/repo.json",
         "repo_source_url": "https://github.com/KomiTsuku/AQR3Test",
@@ -5290,6 +5307,23 @@
         ]
     },
     {
+        "repo_developer_name": "Loskh",
+        "repo_url": "https://raw.githubusercontent.com/Loskh/AoAoEnergy/master/repo.json",
+        "repo_source_url": "https://github.com/Loskh/AoAoEnergy",
+        "repo_name": "AoAoEnergy",
+        "plugins": [
+            {
+                "Author": "Loskh",
+                "Name": "AoAoEnergy",
+                "InternalName": "AoAoEnergy",
+                "Description": "可我还要打本啊！为了不睡过去，我需要补充能量。这时候就轮到我最爱的能量饮料登场了……",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Loskh/AoAoEnergy",
+                "LastUpdate": 1767444125
+            }
+        ]
+    },
+    {
         "repo_developer_name": "LucifurrMorningstar",
         "repo_url": "https://raw.githubusercontent.com/LucifurrMorningstar/Dalamud/main/repo.json",
         "repo_source_url": "https://github.com/LucifurrMorningstar/Dalamud",
@@ -5517,6 +5551,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MeowZWR/Ktisis",
                 "LastUpdate": 1766210357
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "midnightnoon69",
+        "repo_url": "https://raw.githubusercontent.com/midnightnoon69/GateTimerPlugin/main/repo.json",
+        "repo_source_url": "https://github.com/midnightnoon69/GateTimerPlugin",
+        "repo_name": "GateTimerPlugin",
+        "plugins": [
+            {
+                "Author": "Midnight Noon",
+                "Name": "GATE Notifier",
+                "InternalName": "GateNotifier",
+                "Description": "Alerts you before Gold Saucer GATE events with configurable per-GATE preferences, countdown overlay, and chat/toast notifications. Use /gate to toggle overlay, /gate config for settings.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/midnightnoon69/GateTimerPlugin",
+                "LastUpdate": 1770795367
             }
         ]
     },
@@ -5804,6 +5855,23 @@
     },
     {
         "repo_developer_name": "NanaKhide",
+        "repo_url": "https://raw.githubusercontent.com/NanaKhide/MCDExport/master/repo.json",
+        "repo_source_url": "https://github.com/NanaKhide/MCDExport",
+        "repo_name": "MCDExport",
+        "plugins": [
+            {
+                "Author": "your name here",
+                "Name": "MCDFExport",
+                "InternalName": "MCDExport",
+                "Description": "Allows you to export your character as a MCDF File.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NanaKhide/MCDExport",
+                "LastUpdate": 1766069824
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NanaKhide",
         "repo_url": "https://raw.githubusercontent.com/NanaKhide/TimelineAnimator/master/repo.json",
         "repo_source_url": "https://github.com/NanaKhide/TimelineAnimator",
         "repo_name": "TimelineAnimator",
@@ -5816,6 +5884,41 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NanaKhide/TimelineAnimator",
                 "LastUpdate": 1766323031
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NaokiEgusa",
+        "repo_url": "https://raw.githubusercontent.com/NaokiEgusa/NaokiEgusaPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/NaokiEgusa/NaokiEgusaPlugins",
+        "repo_name": "NaokiEgusaPlugins",
+        "plugins": [
+            {
+                "Author": "Naoki Egusa",
+                "Name": "Akashic Records",
+                "InternalName": "AkashicRecords",
+                "Description": "",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NaokiEgusa/NaokiEgusaPlugins",
+                "LastUpdate": 1769511060
+            },
+            {
+                "Author": "Naoki Egusa",
+                "Name": "AutoOBSRecorder",
+                "InternalName": "AutoOBSRecorder",
+                "Description": "",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NaokiEgusa/NaokiEgusaPlugins",
+                "LastUpdate": 1769511060
+            },
+            {
+                "Author": "Naoki Egusa",
+                "Name": "Laplace",
+                "InternalName": "Laplace",
+                "Description": "",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NaokiEgusa/NaokiEgusaPlugins",
+                "LastUpdate": 1769511060
             }
         ]
     },
@@ -7121,7 +7224,7 @@
                 "Description": "A collection of of venue or casino games. Type /minig to start.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
-                "LastUpdate": 1770752337
+                "LastUpdate": 1770806930
             },
             {
                 "Author": "Pistachio Herald, based on Anna's Orange Guidance Tomestone",
@@ -7208,7 +7311,7 @@
                 "Description": "A collection of of venue or casino games. Type /minig to start.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
-                "LastUpdate": 1770752337
+                "LastUpdate": 1770806930
             }
         ]
     },
@@ -7588,7 +7691,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1770544827
+                "LastUpdate": 1770795690
             },
             {
                 "Author": "daemitus, kawaii",
@@ -8248,6 +8351,23 @@
         ]
     },
     {
+        "repo_developer_name": "Rodanco",
+        "repo_url": "https://raw.githubusercontent.com/Rodanco/TurboGCD/master/repo.json",
+        "repo_source_url": "https://github.com/Rodanco/TurboGCD",
+        "repo_name": "TurboGCD",
+        "plugins": [
+            {
+                "Author": "Rodanco",
+                "Name": "Turbo GCD",
+                "InternalName": "TurboGCD",
+                "Description": "A plugin that allows you use Turbo Mode* for your gamepad.\n*You hold a button and keep firing it.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Rodanco/TurboGCD",
+                "LastUpdate": 1767791174
+            }
+        ]
+    },
+    {
         "repo_developer_name": "RokasKil",
         "repo_url": "https://raw.githubusercontent.com/RokasKil/SteamRecordingEnhanced/master/repo.json",
         "repo_source_url": "https://github.com/RokasKil/SteamRecordingEnhanced",
@@ -8440,7 +8560,7 @@
                 "Description": "20250316-请支持逆光喵，谢谢喵-画得更全喵",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
-                "LastUpdate": 1770710013
+                "LastUpdate": 1770791205
             }
         ]
     },
@@ -8842,7 +8962,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1770787990,
+                "LastUpdate": 1770804625,
                 "is_closed_source": true
             }
         ]
