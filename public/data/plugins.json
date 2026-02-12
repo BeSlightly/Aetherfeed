@@ -205,7 +205,7 @@
                 "Description": "RacingwayRewritten!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Abyeon/RacingwayRewrite",
-                "LastUpdate": 1770770051
+                "LastUpdate": 1770886626
             },
             {
                 "Author": "Abyeon",
@@ -1588,6 +1588,59 @@
         ]
     },
     {
+        "repo_developer_name": "Catphinaud",
+        "repo_url": "https://raw.githubusercontent.com/Catphinaud/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Catphinaud/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Catphinaud",
+                "Name": "GlamHouse",
+                "InternalName": "GlamHouse",
+                "Description": "GlamHouse",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Catphinaud/GlamHouse",
+                "LastUpdate": 1766164285
+            },
+            {
+                "Author": "Catphinaud",
+                "Name": "HouseGuest",
+                "InternalName": "HouseGuest",
+                "Description": "None",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Catphinaud/HouseGuest",
+                "LastUpdate": 1762275484
+            },
+            {
+                "Author": "Catphinaud",
+                "Name": "HousingSweepy",
+                "InternalName": "HousingSweepy",
+                "Description": "HousingSweepy",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Catphinaud/HousingSweepy",
+                "LastUpdate": 1768851870
+            },
+            {
+                "Author": "Noevain,kalilistic, Anna",
+                "Name": "NoSolicitingFork",
+                "InternalName": "NoSolicitingFork",
+                "Description": "Customisable chat and Party Finder filtering. In addition to letting\nyou filter anything from chat and PF, it comes with built-in filters\nfor the following:\n\n- RMT (both gil and content)\n- FC ads\n- RP ads\n- Phishing messages\n- Static recruitment\n- Trade ads\n- Community ads\n- Any PF with an item level over the max",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Catphinaud/NoSoliciting",
+                "LastUpdate": 1766323497
+            },
+            {
+                "Author": "Catphinaud",
+                "Name": "StatusLinker",
+                "InternalName": "StatusLinker",
+                "Description": "StatusLinker",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Catphinaud/StatusLinker",
+                "LastUpdate": 1766322324
+            }
+        ]
+    },
+    {
         "repo_developer_name": "catumin",
         "repo_url": "https://raw.githubusercontent.com/catumin/Dalamud-Repo/main/repo.json",
         "repo_source_url": "https://github.com/catumin/Dalamud-Repo",
@@ -2791,7 +2844,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1770708311
+                "LastUpdate": 1770880505
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4824,7 +4877,7 @@
                 "Description": "海量自动化/易用性游戏系统优化模块合集, 帮你从一些无意义的重复性工作中解放出来\nA massive collection of automation / QoL optimization modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins",
-                "LastUpdate": 1770865816
+                "LastUpdate": 1770894424
             }
         ]
     },
@@ -5073,7 +5126,7 @@
                 "Description": "*-insert a quirky description here later... hopefully-*",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1770873020
+                "LastUpdate": 1770878520
             }
         ]
     },
@@ -5632,6 +5685,23 @@
         ]
     },
     {
+        "repo_developer_name": "Milesnocte",
+        "repo_url": "https://raw.githubusercontent.com/Milesnocte/VFXToggler/master/repo.json",
+        "repo_source_url": "https://github.com/Milesnocte/VFXToggler",
+        "repo_name": "VFXToggler",
+        "plugins": [
+            {
+                "Author": "Miles",
+                "Name": "VFX Toggler",
+                "InternalName": "VFXToggler",
+                "Description": "Allows changing vfx settings on a per instance basis.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Milesnocte/PFLogs",
+                "LastUpdate": 1766182855
+            }
+        ]
+    },
+    {
         "repo_developer_name": "mimki684",
         "repo_url": "https://raw.githubusercontent.com/mimki684/Penumbra-testing_1.3.5.1/master/repo.json",
         "repo_source_url": "https://github.com/mimki684/Penumbra-testing_1.3.5.1",
@@ -5714,6 +5784,23 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/yoyokity/TreasureBox",
                 "LastUpdate": 1740110576
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mokocup",
+        "repo_url": "https://raw.githubusercontent.com/mokocup/OccultCrescentHelper/master/repo.json",
+        "repo_source_url": "https://github.com/mokocup/OccultCrescentHelper",
+        "repo_name": "OccultCrescentHelper",
+        "plugins": [
+            {
+                "Author": "Mokocup",
+                "Name": "Occult Crescent Helper",
+                "InternalName": "occultCrescentHelper",
+                "Description": "Automatically notifies about FATE, CE or Aurora Mirage in Occult Crescent related content.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/mokocup/OccultCrescentHelper",
+                "LastUpdate": 1750570997
             }
         ]
     },
@@ -5842,23 +5929,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MulleMjau/FFXIVmon",
                 "LastUpdate": 1769305392
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/MusicalPanini/PaninisXIVPluginDump/raw/main/repo.json",
-        "repo_source_url": "https://github.com/MusicalPanini/PaninisXIVPluginDump",
-        "repo_name": "PaninisXIVPluginDump",
-        "repo_developer_name": "MusicalPanini",
-        "plugins": [
-            {
-                "Author": "Musical Panini",
-                "Name": "Party List Layout",
-                "InternalName": "PaninisPartyListLayout",
-                "Description": "Customize the layout of the party list.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/MusicalPanini/PaninisXIVPluginDump",
-                "LastUpdate": 1752303010
             }
         ]
     },
@@ -6212,7 +6282,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1770874475,
+                "LastUpdate": 1770898353,
                 "is_closed_source": true
             },
             {
@@ -6222,7 +6292,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1770874475,
+                "LastUpdate": 1770898353,
                 "is_closed_source": true
             },
             {
@@ -6338,12 +6408,21 @@
             },
             {
                 "Author": "NiGuangOwO",
-                "Name": "LuckyStar",
+                "Name": "LuckyStar (API13)",
                 "InternalName": "LuckyStar",
                 "Description": "woc！触发组！",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/LuckyStar",
-                "LastUpdate": 1758035005
+                "LastUpdate": 1770895524
+            },
+            {
+                "Author": "NiGuangOwO",
+                "Name": "LuckyStar",
+                "InternalName": "LuckyStar",
+                "Description": "woc！触发组！",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NiGuangOwO/LuckyStar",
+                "LastUpdate": 1770895524
             },
             {
                 "Author": "Small_Miao",
@@ -7266,7 +7345,7 @@
                 "Description": "A collection of of venue or casino games. Type /minig to start.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
-                "LastUpdate": 1770831996
+                "LastUpdate": 1770891339
             },
             {
                 "Author": "Pistachio Herald, based on Anna's Orange Guidance Tomestone",
@@ -7353,7 +7432,7 @@
                 "Description": "A collection of of venue or casino games. Type /minig to start.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
-                "LastUpdate": 1770831996
+                "LastUpdate": 1770891339
             }
         ]
     },
@@ -7706,7 +7785,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1770819143
+                "LastUpdate": 1770890536
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -7982,7 +8061,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1770876145
+                "LastUpdate": 1770881134
             }
         ]
     },
@@ -8362,7 +8441,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1770871945
+                "LastUpdate": 1770899872
             },
             {
                 "Author": "Ricimon",
@@ -8405,7 +8484,7 @@
                 "Description": "A plugin that allows you to upload ACT combat logs to FFLogs without leaving the game. Supports both live logging and manual log uploads.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Robert5204/FFLogsUploader",
-                "LastUpdate": 1770357185
+                "LastUpdate": 1770885364
             }
         ]
     },
@@ -9759,7 +9838,7 @@
                 "InternalName": "SocialMorpho",
                 "Description": "A plugin designed to endance the social ecosystem in FFXIV.",
                 "RepoUrl": "https://github.com/UnbirthdayHatter/SocialMorpho",
-                "LastUpdate": 1770876839
+                "LastUpdate": 1770899353
             }
         ]
     },
