@@ -74,7 +74,7 @@
                 "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://puni.sh/api/repository/taurenkey",
-                "LastUpdate": 1770340616
+                "LastUpdate": 1770857687
             }
         ]
     },
@@ -1548,7 +1548,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1770805133
+                "LastUpdate": 1770857643
             },
             {
                 "Author": "Caraxi",
@@ -1770,7 +1770,7 @@
                 "Description": "Control actors during GPose sessions. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770702995
+                "LastUpdate": 1770859449
             },
             {
                 "Author": "Risa",
@@ -2623,7 +2623,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770702995
+                "LastUpdate": 1770859449
             }
         ]
     },
@@ -2640,7 +2640,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770702995
+                "LastUpdate": 1770859449
             }
         ]
     },
@@ -2995,6 +2995,15 @@
         "repo_source_url": "https://github.com/fuzzycore/ffxivrepo",
         "repo_name": "ffxivrepo",
         "plugins": [
+            {
+                "Author": "fuzzycore",
+                "Name": "BTS (PVP Changes)",
+                "InternalName": "BetterTargetingSystem",
+                "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/fuzzycore/ffxivrepo",
+                "LastUpdate": 1770862554
+            },
             {
                 "Author": "FuzzyCore",
                 "Name": "EorzeaLink",
@@ -3812,7 +3821,7 @@
                 "Description": "在集体动作模式中控制参与的角色。",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770702995
+                "LastUpdate": 1770859449
             }
         ]
     },
@@ -4496,7 +4505,7 @@
                 "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1770855481
+                "LastUpdate": 1770859333
             }
         ]
     },
@@ -4815,7 +4824,7 @@
                 "Description": "海量自动化/易用性游戏系统优化模块合集, 帮你从一些无意义的重复性工作中解放出来\nA massive collection of automation / QoL optimization modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins",
-                "LastUpdate": 1770639266
+                "LastUpdate": 1770865816
             }
         ]
     },
@@ -5046,7 +5055,7 @@
                 "Description": "A leve helper that lets you select which ones you want to do, and help turn them in for you. YOU NEED NAVMESH INSTALLED AS AN FYI.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/ChilledLeves",
-                "LastUpdate": 1770853280
+                "LastUpdate": 1770873087
             },
             {
                 "Author": "Ice",
@@ -5064,7 +5073,7 @@
                 "Description": "*-insert a quirky description here later... hopefully-*",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1770853297
+                "LastUpdate": 1770873020
             }
         ]
     },
@@ -5550,7 +5559,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770702995
+                "LastUpdate": 1770859449
             }
         ]
     },
@@ -6203,7 +6212,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1769602161,
+                "LastUpdate": 1770874475,
                 "is_closed_source": true
             },
             {
@@ -6213,7 +6222,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1769602161,
+                "LastUpdate": 1770874475,
                 "is_closed_source": true
             },
             {
@@ -6316,7 +6325,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1766411848
+                "LastUpdate": 1770876938
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -6325,7 +6334,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1766411848
+                "LastUpdate": 1770876938
             },
             {
                 "Author": "NiGuangOwO",
@@ -6546,7 +6555,7 @@
                 "Description": "This plugin allows you to view names of others, as set by themselves!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/nomenclature-xiv/Nomenclature",
-                "LastUpdate": 1770443971
+                "LastUpdate": 1770873552
             }
         ]
     },
@@ -6850,7 +6859,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770702995
+                "LastUpdate": 1770859449
             },
             {
                 "Author": "Risa and Contributors",
@@ -6898,13 +6907,13 @@
                 "LastUpdate": 1769685145
             },
             {
-                "Author": "kawaii, Glyceri",
+                "Author": "kawaii, Glyceri, Minmoose",
                 "Name": "Moodles",
                 "InternalName": "Moodles",
                 "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1770855481
+                "LastUpdate": 1770859333
             },
             {
                 "Author": "Ottermandias, Nylfae, Adam, Wintermute",
@@ -7962,6 +7971,23 @@
     },
     {
         "repo_developer_name": "rail2025",
+        "repo_url": "https://raw.githubusercontent.com/rail2025/AetherBlackbox/main/repo.json",
+        "repo_source_url": "https://github.com/rail2025/AetherBlackbox",
+        "repo_name": "AetherBlackbox",
+        "plugins": [
+            {
+                "Author": "rail",
+                "Name": "Aether Blackbox",
+                "InternalName": "AetherBlackbox",
+                "Description": "Replay positions and events before death. /abb to open",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
+                "LastUpdate": 1770876145
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "rail2025",
         "repo_url": "https://raw.githubusercontent.com/rail2025/AetherBomber/master/repo.json",
         "repo_source_url": "https://github.com/rail2025/AetherBomber",
         "repo_name": "AetherBomber",
@@ -8336,7 +8362,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1770488911
+                "LastUpdate": 1770871945
             },
             {
                 "Author": "Ricimon",
@@ -8721,7 +8747,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1770702995
+                "LastUpdate": 1770859449
             }
         ]
     },
@@ -9733,7 +9759,7 @@
                 "InternalName": "SocialMorpho",
                 "Description": "A plugin designed to endance the social ecosystem in FFXIV.",
                 "RepoUrl": "https://github.com/UnbirthdayHatter/SocialMorpho",
-                "LastUpdate": 1770823354
+                "LastUpdate": 1770876839
             }
         ]
     },
