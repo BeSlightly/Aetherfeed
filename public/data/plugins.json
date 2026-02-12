@@ -3630,6 +3630,23 @@
     },
     {
         "repo_developer_name": "hocng015",
+        "repo_url": "https://raw.githubusercontent.com/hocng015/Expedition-xiv/claude/recipe-automation-plugin-f6HyG/repo.json",
+        "repo_source_url": "https://github.com/hocng015/Expedition-xiv",
+        "repo_name": "Expedition-xiv",
+        "plugins": [
+            {
+                "Author": "Expedition Contributors",
+                "Name": "Expedition",
+                "InternalName": "Expedition",
+                "Description": "Orchestrates GatherBuddy Reborn and Artisan to fully automate the process of gathering materials and crafting any recipe in the game, including collectables, timed nodes, and multi-step dependency chains.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/hocng015/Expedition-xiv",
+                "LastUpdate": 1770916495
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "hocng015",
         "repo_url": "https://raw.githubusercontent.com/hocng015/PFRemote-Repo/main/pluginmaster.json",
         "repo_source_url": "https://github.com/hocng015/PFRemote-Repo",
         "repo_name": "PFRemote-Repo",
@@ -5126,7 +5143,7 @@
                 "Description": "*-insert a quirky description here later... hopefully-*",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1770878520
+                "LastUpdate": 1770914930
             }
         ]
     },
@@ -5933,6 +5950,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/MusicalPanini/PaninisXIVPluginDump/raw/main/repo.json",
+        "repo_source_url": "https://github.com/MusicalPanini/PaninisXIVPluginDump",
+        "repo_name": "PaninisXIVPluginDump",
+        "repo_developer_name": "MusicalPanini",
+        "plugins": [
+            {
+                "Author": "Musical Panini",
+                "Name": "Party List Layout",
+                "InternalName": "PaninisPartyListLayout",
+                "Description": "Customize the layout of the party list.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/MusicalPanini/PaninisXIVPluginDump",
+                "LastUpdate": 1752303010
+            }
+        ]
+    },
+    {
         "repo_developer_name": "NanaKhide",
         "repo_url": "https://raw.githubusercontent.com/NanaKhide/Astral/master/repo.json",
         "repo_source_url": "https://github.com/NanaKhide/Astral",
@@ -6031,7 +6065,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1770843938
+                "LastUpdate": 1770901212
             }
         ]
     },
@@ -7279,6 +7313,23 @@
     },
     {
         "repo_developer_name": "Pistachio-dev",
+        "repo_url": "https://raw.githubusercontent.com/Pistachio-dev/CardsAgainsHyurmanity/master/Repo.json",
+        "repo_source_url": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity",
+        "repo_name": "CardsAgainsHyurmanity",
+        "plugins": [
+            {
+                "Author": "Pistachio Herald",
+                "Name": "Cards Against Hyurmanity",
+                "InternalName": "CardsAgainstHyurmanity",
+                "Description": "Play cards against humanity over game chat. Type /cah to open the main window.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity",
+                "LastUpdate": 1766432150
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Pistachio-dev",
         "repo_url": "https://raw.githubusercontent.com/Pistachio-dev/DalamudPluginRepository/main/repo.json",
         "repo_source_url": "https://github.com/Pistachio-dev/DalamudPluginRepository",
         "repo_name": "DalamudPluginRepository",
@@ -7618,7 +7669,7 @@
                 "Description": "Conditionally trigger counter/emote/command/title reactions.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/TriggerPyon.zip",
-                "LastUpdate": 1769018763,
+                "LastUpdate": 1770912093,
                 "is_closed_source": true
             }
         ]
@@ -7898,7 +7949,7 @@
                 "Description": "一体化制作插件。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/QiongHHHZZZ/Artisan",
-                "LastUpdate": 1770738557
+                "LastUpdate": 1770921807
             },
             {
                 "Author": "ReMakePlace Maintainers, QiongHHHZZZ(汉化&适配)",
@@ -8441,7 +8492,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1770899872
+                "LastUpdate": 1770906605
             },
             {
                 "Author": "Ricimon",
@@ -9567,6 +9618,23 @@
         ]
     },
     {
+        "repo_developer_name": "Teppiest",
+        "repo_url": "https://raw.githubusercontent.com/Teppiest/plugins/main/Plugins.json",
+        "repo_source_url": "https://github.com/Teppiest/plugins",
+        "repo_name": "plugins",
+        "plugins": [
+            {
+                "Author": "Teppiest, Eqbot, ViviAshe, astrodoobs",
+                "Name": "Snappy",
+                "InternalName": "Snappy",
+                "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF. Now with threading fixes for the latest Dalamud version!",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Teppiest/Snappy",
+                "LastUpdate": 1746458473
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/thakyZ/MyDalamudPlugins/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/thakyZ/MyDalamudPlugins",
         "plugins": [
@@ -9838,7 +9906,7 @@
                 "InternalName": "SocialMorpho",
                 "Description": "A plugin designed to endance the social ecosystem in FFXIV.",
                 "RepoUrl": "https://github.com/UnbirthdayHatter/SocialMorpho",
-                "LastUpdate": 1770899353
+                "LastUpdate": 1770922947
             }
         ]
     },
@@ -9856,7 +9924,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1770841761
+                "LastUpdate": 1770917492
             }
         ]
     },
