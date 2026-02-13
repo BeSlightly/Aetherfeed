@@ -597,105 +597,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/anya-hichu/DalamudPluginRepo/raw/main/custom.json",
-        "repo_source_url": "https://github.com/anya-hichu/DalamudPluginRepo",
-        "is_allowed_mega_repo": true,
-        "repo_developer_name": "anya-hichu",
-        "repo_name": "DalamudPluginRepo",
-        "plugins": [
-            {
-                "Author": "Anya Hichu",
-                "Name": "ChatDeathRoll",
-                "InternalName": "ChatDeathRoll",
-                "Description": "Provides link buttons in chat for death rolling",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/anya-hichu/ChatDeathRoll",
-                "LastUpdate": 1766179654
-            },
-            {
-                "Author": "Anya Hichu",
-                "Name": "DeterministicPose",
-                "InternalName": "DeterministicPose",
-                "Description": "Provide deterministic pose commands (cpose, standup, walk, etc.)",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
-                "LastUpdate": 1769200287
-            },
-            {
-                "Author": "Anya Hichu",
-                "Name": "DiscordActivityHonorific",
-                "InternalName": "DiscordActivityHonorific",
-                "Description": "Update honorific title based on discord activity informations",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
-                "LastUpdate": 1767109189
-            },
-            {
-                "Author": "Pyon, Anya Hichu",
-                "Name": "GamblePyon",
-                "InternalName": "GamblePyon",
-                "Description": "An interface for managing a game of Blackjack.\n/pyon - Open GamblePyon",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/anya-hichu/FFXIVGamblePyon",
-                "LastUpdate": 1770044418
-            },
-            {
-                "Author": "Anya Hichu",
-                "Name": "ModAutoTagger",
-                "InternalName": "ModAutoTagger",
-                "Description": "Add bulk tags dynamically to penumbra mods based on conditions",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/anya-hichu/ModAutoTagger",
-                "LastUpdate": 1766177632
-            },
-            {
-                "Author": "Anya Hichu",
-                "Name": "ModSettingCommands",
-                "InternalName": "ModSettingCommands",
-                "Description": "Provides commands to interact with penumbra mod settings",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/anya-hichu/ModSettingCommands",
-                "LastUpdate": 1766175613
-            },
-            {
-                "Author": "Anya Hichu",
-                "Name": "PatMeHonorific",
-                "InternalName": "PatMeHonorific",
-                "Description": "Displays emote counters as honorific title dynamically",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
-                "LastUpdate": 1767114343
-            },
-            {
-                "Author": "Anya Hichu",
-                "Name": "Quack",
-                "InternalName": "Quack",
-                "Description": "Generate and run macro actions quickly using a spotlight inspired interface",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/anya-hichu/Quack",
-                "LastUpdate": 1766446235
-            },
-            {
-                "Author": "Anya Hichu",
-                "Name": "RecruitmentRefresher",
-                "InternalName": "RecruitmentRefresher",
-                "Description": "Refresh party finder recruitment automatically",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/anya-hichu/RecruitmentRefresher",
-                "LastUpdate": 1766178570
-            },
-            {
-                "Author": "Anya Hichu",
-                "Name": "Reggiex",
-                "InternalName": "Reggiex",
-                "Description": "Configurable text patterns or emotes to execute commands",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/anya-hichu/Reggiex",
-                "LastUpdate": 1766183478
-            }
-        ]
-    },
-    {
         "repo_developer_name": "apoclol",
         "repo_url": "https://raw.githubusercontent.com/apoclol/ffxiv-en-jp-translator/main/repo.json",
         "repo_source_url": "https://github.com/apoclol/ffxiv-en-jp-translator",
@@ -1759,6 +1660,23 @@
         ]
     },
     {
+        "repo_developer_name": "crweul",
+        "repo_url": "https://raw.githubusercontent.com/crweul/dalamud-plugins/main/repo.json",
+        "repo_source_url": "https://github.com/crweul/dalamud-plugins",
+        "repo_name": "dalamud-plugins",
+        "plugins": [
+            {
+                "Author": "crweul",
+                "Name": "Auto-status",
+                "InternalName": "AutoStatus",
+                "Description": "Sets your status to /afk or any status of choice when the game isn't the foreground window, and reverts it when the game regains focus. Commands: /autostatus, /aus.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/crweul/auto-status",
+                "LastUpdate": 1770848814
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Cthulhu252",
         "repo_url": "https://raw.githubusercontent.com/Cthulhu252/TestCthulu252/main/repo.json",
         "repo_source_url": "https://github.com/Cthulhu252/TestCthulu252",
@@ -2047,7 +1965,7 @@
                 "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-                "LastUpdate": 1770720374
+                "LastUpdate": 1770965927
             },
             {
                 "Author": "decorwdyun",
@@ -2506,7 +2424,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1770768896
+                "LastUpdate": 1770974793
             }
         ]
     },
@@ -2523,7 +2441,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1770768896
+                "LastUpdate": 1770974793
             }
         ]
     },
@@ -3831,7 +3749,7 @@
                 "Description": "Character Select+ allows you to create, save, and instantly apply fully customized character profiles with the press of a button. Switch between your OCs effortlessly using /select CharacterName, applying Penumbra Collections, Glamourer Designs, Customize+ Profiles, and Honorific Titles in one command.\n\nWhile profile switching is its core purpose, Character Select+ includes additional features:\n✔ Advanced Mode – Create custom macro setups for deeper character customization.\n✔ Profile-Specific Designs – Use multiple outfits, styles, and looks per character.\n✔ Favorites & Sorting – Keep profiles organized by name, date, or importance.\n✔ Quick Swap Bar! \n✔ One-Click Macro Execution – Run predefined commands instantly when selecting a character.\n\nWhether you're roleplaying, gposing, or just love quick customization, Character Select+ makes switching between characters faster, easier, and seamless.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/IcarusXIV/Character-Select-",
-                "LastUpdate": 1770676112
+                "LastUpdate": 1770957564
             }
         ]
     },
@@ -3848,7 +3766,7 @@
                 "Description": "One-Click Dance & Emote Mod Management\n\nCreate presets for your favorite dance and emote mods, then activate them instantly with a single click or custom chat commands. Automatically handles Penumbra mod priorities, conflict resolution, and mod option switching so your animations always show correctly.\n\nKey Features: Custom chat commands, automatic priority management, smart emote detection, idle/sit/doze pose support, preset folders, icon picker, drag & drop organization, and warp-to-target for group emotes. Perfect for anyone who uses multiple animation mods.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/IcarusXIV/Encore",
-                "LastUpdate": 1770834493
+                "LastUpdate": 1770958025
             }
         ]
     },
@@ -4894,7 +4812,7 @@
                 "Description": "海量自动化/易用性游戏系统优化模块合集, 帮你从一些无意义的重复性工作中解放出来\nA massive collection of automation / QoL optimization modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins",
-                "LastUpdate": 1770894424
+                "LastUpdate": 1770958791
             }
         ]
     },
@@ -5143,7 +5061,7 @@
                 "Description": "*-insert a quirky description here later... hopefully-*",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1770951888
+                "LastUpdate": 1770960633
             }
         ]
     },
@@ -6429,7 +6347,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1770876938
+                "LastUpdate": 1770957437
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -6438,7 +6356,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1770876938
+                "LastUpdate": 1770957437
             },
             {
                 "Author": "NiGuangOwO",
@@ -7713,7 +7631,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1770930769
+                "LastUpdate": 1770955433
             }
         ]
     },
@@ -8112,7 +8030,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1770881134
+                "LastUpdate": 1770973172
             }
         ]
     },
@@ -8492,7 +8410,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1770949782
+                "LastUpdate": 1770975832
             },
             {
                 "Author": "Ricimon",
@@ -9923,7 +9841,7 @@
                 "InternalName": "SocialMorpho",
                 "Description": "A plugin designed to endance the social ecosystem in FFXIV.",
                 "RepoUrl": "https://github.com/UnbirthdayHatter/SocialMorpho",
-                "LastUpdate": 1770934038
+                "LastUpdate": 1770974503
             }
         ]
     },
@@ -10400,7 +10318,7 @@
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1770315950
+                "LastUpdate": 1770975256
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -10886,7 +10804,7 @@
                 "Description": "Native DPS Meters for Final Fantasy XIV, still in beta and may be subject to change.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Zeffuro/NativeMeters",
-                "LastUpdate": 1770672164
+                "LastUpdate": 1770972215
             }
         ]
     },
