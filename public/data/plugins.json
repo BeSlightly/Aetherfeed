@@ -597,6 +597,105 @@
         ]
     },
     {
+        "repo_url": "https://github.com/anya-hichu/DalamudPluginRepo/raw/main/custom.json",
+        "repo_source_url": "https://github.com/anya-hichu/DalamudPluginRepo",
+        "is_allowed_mega_repo": true,
+        "repo_developer_name": "anya-hichu",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "Anya Hichu",
+                "Name": "ChatDeathRoll",
+                "InternalName": "ChatDeathRoll",
+                "Description": "Provides link buttons in chat for death rolling",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anya-hichu/ChatDeathRoll",
+                "LastUpdate": 1766179654
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "DeterministicPose",
+                "InternalName": "DeterministicPose",
+                "Description": "Provide deterministic pose commands (cpose, standup, walk, etc.)",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
+                "LastUpdate": 1769200287
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "DiscordActivityHonorific",
+                "InternalName": "DiscordActivityHonorific",
+                "Description": "Update honorific title based on discord activity informations",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
+                "LastUpdate": 1767109189
+            },
+            {
+                "Author": "Pyon, Anya Hichu",
+                "Name": "GamblePyon",
+                "InternalName": "GamblePyon",
+                "Description": "An interface for managing a game of Blackjack.\n/pyon - Open GamblePyon",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anya-hichu/FFXIVGamblePyon",
+                "LastUpdate": 1770044418
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "ModAutoTagger",
+                "InternalName": "ModAutoTagger",
+                "Description": "Add bulk tags dynamically to penumbra mods based on conditions",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anya-hichu/ModAutoTagger",
+                "LastUpdate": 1766177632
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "ModSettingCommands",
+                "InternalName": "ModSettingCommands",
+                "Description": "Provides commands to interact with penumbra mod settings",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anya-hichu/ModSettingCommands",
+                "LastUpdate": 1766175613
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "PatMeHonorific",
+                "InternalName": "PatMeHonorific",
+                "Description": "Displays emote counters as honorific title dynamically",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
+                "LastUpdate": 1767114343
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "Quack",
+                "InternalName": "Quack",
+                "Description": "Generate and run macro actions quickly using a spotlight inspired interface",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anya-hichu/Quack",
+                "LastUpdate": 1766446235
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "RecruitmentRefresher",
+                "InternalName": "RecruitmentRefresher",
+                "Description": "Refresh party finder recruitment automatically",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anya-hichu/RecruitmentRefresher",
+                "LastUpdate": 1766178570
+            },
+            {
+                "Author": "Anya Hichu",
+                "Name": "Reggiex",
+                "InternalName": "Reggiex",
+                "Description": "Configurable text patterns or emotes to execute commands",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anya-hichu/Reggiex",
+                "LastUpdate": 1766183478
+            }
+        ]
+    },
+    {
         "repo_developer_name": "apoclol",
         "repo_url": "https://raw.githubusercontent.com/apoclol/ffxiv-en-jp-translator/main/repo.json",
         "repo_source_url": "https://github.com/apoclol/ffxiv-en-jp-translator",
@@ -1672,7 +1771,7 @@
                 "Description": "Sets your status to /afk or any status of choice when the game isn't the foreground window, and reverts it when the game regains focus. Commands: /autostatus, /aus.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/crweul/auto-status",
-                "LastUpdate": 1770848814
+                "LastUpdate": 1770995659
             }
         ]
     },
@@ -5061,7 +5160,7 @@
                 "Description": "*-insert a quirky description here later... hopefully-*",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1770960633
+                "LastUpdate": 1770994285
             }
         ]
     },
@@ -7867,7 +7966,7 @@
                 "Description": "一体化制作插件。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/QiongHHHZZZ/Artisan",
-                "LastUpdate": 1770926119
+                "LastUpdate": 1770990076
             },
             {
                 "Author": "ReMakePlace Maintainers, QiongHHHZZZ(汉化&适配)",
@@ -8410,7 +8509,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1770975832
+                "LastUpdate": 1770994471
             },
             {
                 "Author": "Ricimon",
@@ -9841,7 +9940,7 @@
                 "InternalName": "SocialMorpho",
                 "Description": "A plugin designed to endance the social ecosystem in FFXIV.",
                 "RepoUrl": "https://github.com/UnbirthdayHatter/SocialMorpho",
-                "LastUpdate": 1770974503
+                "LastUpdate": 1770994592
             }
         ]
     },
@@ -9964,7 +10063,7 @@
                 "Description": "Triggers random fullscreen Withered Foxy jumpscares during gameplay, inspired by Five Nights at Freddy's mods.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/FoxyJumpscare",
-                "LastUpdate": 1770675980
+                "LastUpdate": 1770991734
             },
             {
                 "Author": "Vali",
