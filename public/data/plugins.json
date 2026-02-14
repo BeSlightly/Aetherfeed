@@ -1196,6 +1196,23 @@
         ]
     },
     {
+        "repo_developer_name": "Bekhmael",
+        "repo_url": "https://raw.githubusercontent.com/Bekhmael/AlphaScope/main/repo.json",
+        "repo_source_url": "https://github.com/Bekhmael/AlphaScope",
+        "repo_name": "AlphaScope",
+        "plugins": [
+            {
+                "Author": "Bekhmael",
+                "Name": "AlphaScope",
+                "InternalName": "PlayerScope",
+                "Description": "Keeps track of players and who a retainer belongs to. Alt characters can also be tracked if they have been seen before.\n--Currently only for whitelisted players.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/Bekhmael/AlphaScope",
+                "LastUpdate": 1741595956
+            }
+        ]
+    },
+    {
         "repo_developer_name": "BeldaFr",
         "repo_url": "https://raw.githubusercontent.com/BeldaFr/ShockPluginFF/master/repo.json",
         "repo_source_url": "https://github.com/BeldaFr/ShockPluginFF",
@@ -2317,7 +2334,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1770933509
+                "LastUpdate": 1771023450
             }
         ]
     },
@@ -2762,7 +2779,7 @@
                 "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/extrant?tab=repositories",
-                "LastUpdate": 1770543639
+                "LastUpdate": 1771042175
             },
             {
                 "Author": "Bluefissure",
@@ -2780,7 +2797,7 @@
                 "Description": "我是一个FF14学习插件(国服API13)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/I-Ching-GL.zip",
-                "LastUpdate": 1770543309,
+                "LastUpdate": 1771042189,
                 "is_closed_source": true
             },
             {
@@ -2987,7 +3004,7 @@
                 "Description": "A companion to help and guide you through completing your relics",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/flawedBliss/relicbuddy",
-                "LastUpdate": 1771011119
+                "LastUpdate": 1771031583
             }
         ]
     },
@@ -3632,7 +3649,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1771020391
+                "LastUpdate": 1771025262
             },
             {
                 "Author": "daemitus, croizat",
@@ -3658,7 +3675,7 @@
                 "Description": "Orchestrates GatherBuddy Reborn and Artisan to fully automate the process of gathering materials and crafting any recipe in the game, including collectables, timed nodes, and multi-step dependency chains.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/hocng015/Expedition-xiv",
-                "LastUpdate": 1770951084
+                "LastUpdate": 1771042288
             }
         ]
     },
@@ -3771,7 +3788,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1771020391
+                "LastUpdate": 1771025262
             },
             {
                 "Author": "daemitus, croizat",
@@ -3967,7 +3984,7 @@
                 "InternalName": "MinionRoulette",
                 "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped",
                 "RepoUrl": "https://github.com/InitialDet/MinionRoulette",
-                "LastUpdate": 1767132126
+                "LastUpdate": 1771026718
             }
         ]
     },
@@ -7686,7 +7703,7 @@
                 "Description": "Conditionally trigger counter/emote/command/title reactions.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/TriggerPyon.zip",
-                "LastUpdate": 1770912093,
+                "LastUpdate": 1771023148,
                 "is_closed_source": true
             }
         ]
@@ -7730,7 +7747,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1771014986
+                "LastUpdate": 1771042972
             }
         ]
     },
@@ -7808,7 +7825,7 @@
                 "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Avarice",
-                "LastUpdate": 1769581172
+                "LastUpdate": 1771033102
             },
             {
                 "Author": "Taurenkey, Gid, NightmareXIV",
@@ -7880,7 +7897,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1771020391
+                "LastUpdate": 1771025262
             },
             {
                 "Author": "daemitus, kawaii",
@@ -8129,7 +8146,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1770973172
+                "LastUpdate": 1771023683
             }
         ]
     },
@@ -8509,7 +8526,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1771018191
+                "LastUpdate": 1771035481
             },
             {
                 "Author": "Ricimon",
@@ -8683,12 +8700,21 @@
         "plugins": [
             {
                 "Author": "rumia-moe",
+                "Name": "GambaMoodles",
+                "InternalName": "GambaMoodles",
+                "Description": "Tracks winning using Moodles.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/rumia-moe/PatMeMoodles",
+                "LastUpdate": 1771042472
+            },
+            {
+                "Author": "rumia-moe",
                 "Name": "PatMeMoodles",
                 "InternalName": "PatMeMoodles",
                 "Description": "Display emote counters with the Moodles plugin.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rumia-moe/PatMeMoodles",
-                "LastUpdate": 1770950165
+                "LastUpdate": 1771042472
             }
         ]
     },
@@ -9940,7 +9966,7 @@
                 "InternalName": "SocialMorpho",
                 "Description": "A plugin designed to endance the social ecosystem in FFXIV.",
                 "RepoUrl": "https://github.com/UnbirthdayHatter/SocialMorpho",
-                "LastUpdate": 1770994592
+                "LastUpdate": 1771042466
             }
         ]
     },
@@ -10063,7 +10089,7 @@
                 "Description": "Triggers random fullscreen Withered Foxy jumpscares during gameplay, inspired by Five Nights at Freddy's mods.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/FoxyJumpscare",
-                "LastUpdate": 1770991734
+                "LastUpdate": 1771043245
             },
             {
                 "Author": "Vali",
@@ -10081,7 +10107,7 @@
                 "Description": "Scans your retainer inventories when you open them and calculates their total estimated market value using Universalis prices.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/RetainerInventoryPrice",
-                "LastUpdate": 1770425594
+                "LastUpdate": 1771030382
             },
             {
                 "Author": "Vali",
@@ -10239,7 +10265,7 @@
                 "InternalName": "VIWI",
                 "Description": "Vera's Integrated World Improvements",
                 "DalamudApiLevel": 14,
-                "LastUpdate": 1769721751
+                "LastUpdate": 1771041737
             },
             {
                 "Author": "vera.lyn",
@@ -10341,6 +10367,23 @@
                 "Description": "Make text notes ifor other players e.g. to remind you where you meet them in game.",
                 "RepoUrl": "https://github.com/Waitsnake/NotesPal",
                 "LastUpdate": 1767134107
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "welldooder64",
+        "repo_url": "https://raw.githubusercontent.com/welldooder64/DalamudPluginRepo/main/repo.json",
+        "repo_source_url": "https://github.com/welldooder64/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "welldooder64",
+                "Name": "Web Map",
+                "InternalName": "WebMap",
+                "Description": "Stream your FFXIV map to any web browser in real-time. See anything from the in-game map on a second screen or device.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/welldooder64/FFXIVWebMap",
+                "LastUpdate": 1771029301
             }
         ]
     },
