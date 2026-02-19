@@ -1109,6 +1109,23 @@
         "repo_developer_name": "Atomoxide"
     },
     {
+        "repo_developer_name": "aventurescence",
+        "repo_url": "https://raw.githubusercontent.com/aventurescence/churinplugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/aventurescence/churinplugins",
+        "repo_name": "churinplugins",
+        "plugins": [
+            {
+                "Author": "Churin",
+                "Name": "Understudy",
+                "InternalName": "Understudy",
+                "Description": "Tracks raid progression, tomestones, and gear.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/aventurescence/Understudy",
+                "LastUpdate": 1771481384
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Averthian",
         "repo_url": "https://raw.githubusercontent.com/Averthian/Papers-Please-Dalamud/main/repo.json",
         "repo_source_url": "https://github.com/Averthian/Papers-Please-Dalamud",
@@ -1318,7 +1335,7 @@
                 "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/BeSlightly/Snappy",
-                "LastUpdate": 1769391097
+                "LastUpdate": 1771475645
             }
         ]
     },
@@ -5298,7 +5315,7 @@
                 "Description": "将治疗技能的恢复力、持续恢复力等数据结合自身属性量化为具体数值，数值为最低期望。支持100级白魔法师、学者、占星术士、贤者。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/lianying1997/DalamudPlugins",
-                "LastUpdate": 1769645455
+                "LastUpdate": 1771487235
             }
         ]
     },
@@ -5750,7 +5767,7 @@
                 "Description": "Alerts you before Gold Saucer GATE events with configurable per-GATE preferences, countdown overlay, and chat/toast notifications. Use /gate to toggle overlay, /gate config for settings.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/midnightnoon69/GateTimerPlugin",
-                "LastUpdate": 1770795367
+                "LastUpdate": 1771482737
             }
         ]
     },
@@ -10036,7 +10053,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1771465752
+                "LastUpdate": 1771470426
             }
         ]
     },
@@ -10054,7 +10071,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1771153488
+                "LastUpdate": 1771487949
             }
         ]
     },
