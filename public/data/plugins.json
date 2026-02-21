@@ -29,7 +29,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1771607150
+                "LastUpdate": 1771690743
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -1155,7 +1155,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1771607150
+                "LastUpdate": 1771690743
             },
             {
                 "Author": "veyn, croizat",
@@ -2610,7 +2610,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1771672609
+                "LastUpdate": 1771694500
             }
         ]
     },
@@ -2627,7 +2627,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1771672609
+                "LastUpdate": 1771694500
             }
         ]
     },
@@ -2975,7 +2975,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1771562448
+                "LastUpdate": 1771684586
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3701,7 +3701,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1771607150
+                "LastUpdate": 1771690743
             },
             {
                 "Author": "veyn, AtmoOmen",
@@ -3719,7 +3719,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1771586141
+                "LastUpdate": 1771688778
             },
             {
                 "Author": "daemitus, croizat",
@@ -3840,7 +3840,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1771607150
+                "LastUpdate": 1771690743
             },
             {
                 "Author": "veyn, AtmoOmen",
@@ -3858,7 +3858,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1771586141
+                "LastUpdate": 1771688778
             },
             {
                 "Author": "daemitus, croizat",
@@ -5014,7 +5014,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1771604723
+                "LastUpdate": 1771682071
             }
         ]
     },
@@ -6709,18 +6709,18 @@
     },
     {
         "repo_developer_name": "NjalTheKnut",
-        "repo_url": "https://raw.githubusercontent.com/NjalTheKnut/Dalamud.TravelTriggers/main/repo.json",
-        "repo_source_url": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers",
-        "repo_name": "Dalamud.TravelTriggers",
+        "repo_url": "https://raw.githubusercontent.com/NjalTheKnut/NNekoPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/NjalTheKnut/NNekoPlugins",
+        "repo_name": "NNekoPlugins",
         "plugins": [
             {
                 "Author": "NaughtyNeko",
                 "Name": "TravelTriggers",
                 "InternalName": "TravelTriggers",
-                "Description": "Allows for automatic execution of commands upon entering new zones, with a 'Roleplay Only' mode for those who want to only use it for RP purposes.",
+                "Description": "Sets per-character chat command triggered on:\n- Zone changes\n - Class/Job Swaps\n Other Options:\n - Roleplay Only Toggle (Blocks unless \"RP\" Online Status is set)\n - RNG Toggle (Triggers fire randomly, given a custom min/max range)\n - Override Toggle (Overrides commands set for all triggers with a master command)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers",
-                "LastUpdate": 1769200074
+                "LastUpdate": 1771693323
             }
         ]
     },
@@ -7939,7 +7939,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1771521446
+                "LastUpdate": 1771694507
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -7966,7 +7966,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1771586141
+                "LastUpdate": 1771688778
             },
             {
                 "Author": "daemitus, kawaii",
