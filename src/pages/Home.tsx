@@ -16,6 +16,13 @@ const CHINESE_REGEX = /[\u4e00-\u9fff]/i;
 const JAPANESE_REGEX = /[\u3040-\u30ff\u31f0-\u31ff\u3400-\u4dbf]/i;
 const KOREAN_REGEX = /[\u1100-\u11ff\uac00-\ud7af]/i;
 
+const getGridColumns = () => {
+    if (typeof window === 'undefined') return 1;
+    if (window.matchMedia('(min-width: 1536px)').matches) return 3;
+    if (window.matchMedia('(min-width: 768px)').matches) return 2;
+    return 1;
+};
+
 const Home: React.FC = () => {
     const { plugins, loading, error, allApiLevels, currentApiLevel } = usePlugins();
     const location = useLocation();
@@ -40,6 +47,8 @@ const Home: React.FC = () => {
         }
         return ['latin_only'];
     });
+    const [gridColumns, setGridColumns] = useState(getGridColumns);
+    const [expandedRows, setExpandedRows] = useState<Set<number>>(() => new Set());
 
     // Persistence Effects
     useEffect(() => {
@@ -62,6 +71,17 @@ const Home: React.FC = () => {
         }
         return undefined;
     }, [location.state]);
+
+    useEffect(() => {
+        const updateColumns = () => setGridColumns(getGridColumns());
+        updateColumns();
+        window.addEventListener('resize', updateColumns);
+        return () => window.removeEventListener('resize', updateColumns);
+    }, []);
+
+    useEffect(() => {
+        setExpandedRows(new Set());
+    }, [gridColumns, searchTerm, sortBy, sortOrder, selectedFilters]);
 
     const filterOptions = useMemo(() => {
         const options: { label: string; value: string | number; tooltip?: string }[] = [
@@ -149,6 +169,18 @@ const Home: React.FC = () => {
         // eslint-disable-next-line react-hooks/set-state-in-effect
         setVisibleCount(50);
     }, [searchTerm, sortBy, sortOrder, selectedFilters]);
+
+    const toggleRowExpanded = (rowIndex: number) => {
+        setExpandedRows((prev) => {
+            const next = new Set(prev);
+            if (next.has(rowIndex)) {
+                next.delete(rowIndex);
+            } else {
+                next.add(rowIndex);
+            }
+            return next;
+        });
+    };
 
     const displayPlugins = filteredPlugins.slice(0, visibleCount);
     const hasMore = visibleCount < filteredPlugins.length;
@@ -258,13 +290,19 @@ const Home: React.FC = () => {
                     <>
                         <div className="grid grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-6">
                             <AnimatePresence mode='sync'>
-                                {displayPlugins.map((plugin) => (
-                                    <PluginCard
-                                        key={`${plugin._repo.repo_url}-${plugin.InternalName}`}
-                                        plugin={plugin}
-                                        maxApiLevel={currentApiLevel || allApiLevels[0]}
-                                    />
-                                ))}
+                                {displayPlugins.map((plugin, index) => {
+                                    const rowIndex = Math.floor(index / gridColumns);
+                                    const isRowExpanded = expandedRows.has(rowIndex);
+                                    return (
+                                        <PluginCard
+                                            key={`${plugin._repo.repo_url}-${plugin.InternalName}`}
+                                            plugin={plugin}
+                                            maxApiLevel={currentApiLevel || allApiLevels[0]}
+                                            isDescriptionExpanded={isRowExpanded}
+                                            onToggleDescription={() => toggleRowExpanded(rowIndex)}
+                                        />
+                                    );
+                                })}
                             </AnimatePresence>
                         </div>
 

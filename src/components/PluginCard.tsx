@@ -7,6 +7,8 @@ import type { ProcessedPlugin } from '../utils/pluginProcessor';
 interface PluginCardProps {
     plugin: ProcessedPlugin;
     maxApiLevel?: number;
+    isDescriptionExpanded: boolean;
+    onToggleDescription: () => void;
 }
 
 const getApiBadgeColor = (level: number, maxLevel?: number) => {
@@ -21,12 +23,14 @@ const getApiBadgeColor = (level: number, maxLevel?: number) => {
     return 'bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-400 border-slate-200 dark:border-slate-700';
 };
 
-const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel }) => {
+const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, isDescriptionExpanded, onToggleDescription }) => {
     const installUrl = plugin._repo.repo_url;
     const sourceUrl = plugin.RepoUrl || plugin._repo.repo_source_url;
     const isClosedSource = plugin.is_closed_source;
     const closedSourceUrl = sourceUrl || installUrl;
     const [copied, setCopied] = useState(false);
+    const descriptionText = plugin.Description || '';
+    const hasLongDescription = descriptionText.length > 160;
 
     const handleCopy = async (e: React.MouseEvent) => {
         e.preventDefault();
@@ -77,9 +81,28 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel }) => {
                 </div>
 
                 {/* Description */}
-                <p className="text-slate-600 dark:text-slate-300 text-sm leading-relaxed line-clamp-2 mb-4 grow">
-                    {plugin.Description}
-                </p>
+                <div className="mb-4 grow">
+                    <p
+                        className={[
+                            'text-slate-600 dark:text-slate-300 text-sm leading-relaxed',
+                            isDescriptionExpanded ? '' : 'line-clamp-2',
+                        ].join(' ')}
+                    >
+                        {descriptionText}
+                    </p>
+                    {hasLongDescription && (
+                        <button
+                            type="button"
+                            onClick={onToggleDescription}
+                            className="mt-2 inline-flex items-center gap-1 text-xs font-semibold text-aether-600 hover:text-aether-500 dark:text-aether-400 dark:hover:text-aether-300 transition-colors"
+                            aria-expanded={isDescriptionExpanded}
+                            aria-label={isDescriptionExpanded ? 'Collapse description' : 'Expand description'}
+                        >
+                            <span>{isDescriptionExpanded ? 'Show less' : 'Read more'}</span>
+                            <span className={`transition-transform ${isDescriptionExpanded ? 'rotate-180' : ''}`}>v</span>
+                        </button>
+                    )}
+                </div>
 
                 {/* Footer: Actions & Repo Info */}
                 <div className="mt-auto pt-4 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between gap-3">
