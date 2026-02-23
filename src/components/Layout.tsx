@@ -1,10 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Header from './Header';
 import Footer from './Footer';
 import ScrollToTop from './ScrollToTop';
 import { Outlet } from 'react-router-dom';
 
 const Layout: React.FC = () => {
+    const [searchTerm, setSearchTerm] = useState('');
+
     return (
         <div className="min-h-screen flex flex-col relative overflow-hidden bg-slate-50 dark:bg-void-950 text-slate-900 dark:text-slate-50 transition-colors duration-300">
             {/* Background Decorations */}
@@ -13,10 +15,10 @@ const Layout: React.FC = () => {
                 <div className="absolute bottom-[-20%] right-[-10%] w-[500px] h-[500px] bg-purple-500/20 dark:bg-purple-600/10 rounded-full blur-[100px] animate-float delay-1000" />
             </div>
 
-            <Header />
+            <Header searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
 
             <main className="grow z-10 pt-16">
-                <Outlet />
+                <Outlet context={{ searchTerm, setSearchTerm }} />
             </main>
 
             <Footer />

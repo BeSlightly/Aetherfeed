@@ -10,7 +10,7 @@ import { formatDate } from '../utils/formatDate';
 import { SortAsc, SortDesc } from 'lucide-react';
 import MultiSelect from '../components/MultiSelect';
 import Select from '../components/Select';
-import { useLocation } from 'react-router-dom';
+import { useLocation, useOutletContext } from 'react-router-dom';
 
 const CHINESE_REGEX = /[\u4e00-\u9fff]/i;
 const JAPANESE_REGEX = /[\u3040-\u30ff\u31f0-\u31ff\u3400-\u4dbf]/i;
@@ -24,9 +24,12 @@ const getGridColumns = () => {
 };
 
 const Home: React.FC = () => {
+    const { searchTerm, setSearchTerm } = useOutletContext<{
+        searchTerm: string;
+        setSearchTerm: (term: string) => void;
+    }>();
     const { plugins, loading, error, allApiLevels, currentApiLevel } = usePlugins();
     const location = useLocation();
-    const [searchTerm, setSearchTerm] = useState('');
     const [sortBy, setSortBy] = useState<'name' | 'updated' | 'author'>(() => {
         const saved = localStorage.getItem('aetherfeed_sortBy');
         return (saved as 'name' | 'updated' | 'author') || 'updated';

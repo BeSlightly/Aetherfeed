@@ -26,14 +26,18 @@ const Hero: React.FC<HeroProps> = ({ searchTerm, setSearchTerm }) => {
                     </div>
 
                     {/* Search Interface */}
-                    <div className="max-w-xl mx-auto bg-white dark:bg-slate-800/50 p-2 rounded-2xl shadow-xl border border-slate-200 dark:border-slate-700 backdrop-blur-xs">
+                    <div
+                        id="hero-search"
+                        className="max-w-xl mx-auto bg-white dark:bg-slate-800/50 p-2 rounded-2xl shadow-xl border border-slate-200 dark:border-slate-700 backdrop-blur-xs"
+                    >
                         <div className="relative flex items-center">
                             <Search className="absolute left-4 w-5 h-5 text-slate-400" />
                             <input
-                                type="text"
+                                type="search"
                                 value={searchTerm}
                                 onChange={(e) => setSearchTerm(e.target.value)}
                                 placeholder="Search plugins by name, author, or description..."
+                                aria-label="Search plugins"
                                 className="w-full pl-12 pr-4 py-3 bg-transparent border-none focus:ring-0 text-slate-900 dark:text-white placeholder-slate-500 dark:placeholder-slate-400 text-sm md:text-base focus:outline-hidden"
                             />
                         </div>
