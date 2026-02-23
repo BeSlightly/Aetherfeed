@@ -690,7 +690,7 @@
                 "Description": "Displays emote counters as honorific title dynamically",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
-                "LastUpdate": 1767114343
+                "LastUpdate": 1771847790
             },
             {
                 "Author": "Anya Hichu",
@@ -1954,7 +1954,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771798687
+                "LastUpdate": 1771859069
             },
             {
                 "Author": "CY",
@@ -4471,6 +4471,32 @@
         ]
     },
     {
+        "repo_url": "https://puni.sh/api/repository/jukka",
+        "repo_source_url": "https://github.com/Jukkales",
+        "repo_developer_name": "Jukkales",
+        "repo_name": "jukka",
+        "plugins": [
+            {
+                "Author": "jukka",
+                "Name": "Hoard Farm - DETECTABLE",
+                "InternalName": "HoardFarm",
+                "Description": "Might be detectable! Use at own risk! Plugin to help farming DeepDungeon Hoards (...for you)",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Jukkales/HoardFarm",
+                "LastUpdate": 1767828681
+            },
+            {
+                "Author": "jukka",
+                "Name": "NecroLens",
+                "InternalName": "NecroLens",
+                "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Jukkales/NecroLens",
+                "LastUpdate": 1766422327
+            }
+        ]
+    },
+    {
         "repo_developer_name": "kako5555",
         "repo_url": "https://raw.githubusercontent.com/kako5555/5555-plugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/kako5555/5555-plugins",
@@ -5844,7 +5870,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771798687
+                "LastUpdate": 1771859069
             }
         ]
     },
@@ -7150,7 +7176,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771798687
+                "LastUpdate": 1771859069
             },
             {
                 "Author": "Caraxi",
@@ -8449,7 +8475,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771798687
+                "LastUpdate": 1771859069
             }
         ]
     },
@@ -8466,7 +8492,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771798687
+                "LastUpdate": 1771859069
             }
         ]
     },
@@ -9367,6 +9393,23 @@
         ]
     },
     {
+        "repo_developer_name": "sm0kez",
+        "repo_url": "https://raw.githubusercontent.com/sm0kez/MyDalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/sm0kez/MyDalamudPlugins",
+        "repo_name": "MyDalamudPlugins",
+        "plugins": [
+            {
+                "Author": "sm0var",
+                "Name": "WaveKeeper",
+                "InternalName": "WaveKeeper",
+                "Description": "WaveKeeper automatically detects nearby players and greets them with a configurable emote. It can also auto-reply when someone emotes at you. Supports friends-only mode, ignore lists, adjustable range/timing, and more.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/sm0kez/WaveKeeper",
+                "LastUpdate": 1771861048
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Small-Miao",
         "repo_url": "https://raw.githubusercontent.com/Small-Miao/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Small-Miao/DalamudPlugins",
@@ -9535,6 +9578,14 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/spide-r/CCAnonymizer",
                 "LastUpdate": 1766176896
+            },
+            {
+                "Author": "spider",
+                "Name": "PvPAnnouncerForCoolPeople",
+                "InternalName": "PvPAnnouncerForCoolPeople",
+                "Description": "Temp Alpha build for the 2 people that want the code early - don't run this with PvPAnnouncer or stuff will probably not work & ill be sad",
+                "DalamudApiLevel": 14,
+                "LastUpdate": 1771861859
             }
         ]
     },
@@ -10070,32 +10121,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/jukka",
-        "repo_source_url": "https://github.com/Jukkales",
-        "repo_developer_name": "Unknown Developer",
-        "repo_name": "jukka",
-        "plugins": [
-            {
-                "Author": "jukka",
-                "Name": "Hoard Farm - DETECTABLE",
-                "InternalName": "HoardFarm",
-                "Description": "Might be detectable! Use at own risk! Plugin to help farming DeepDungeon Hoards (...for you)",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Jukkales/HoardFarm",
-                "LastUpdate": 1767828681
-            },
-            {
-                "Author": "jukka",
-                "Name": "NecroLens",
-                "InternalName": "NecroLens",
-                "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Jukkales/NecroLens",
-                "LastUpdate": 1766422327
-            }
-        ]
-    },
-    {
         "repo_url": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/repo.json",
         "repo_source_url": "https://git.heyitsmayo.com/MareMirror/client",
         "repo_discord_url": "https://discord.gg/anatoli",
@@ -10109,7 +10134,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1771660371
+                "LastUpdate": 1771846434
             }
         ]
     },
@@ -10223,7 +10248,7 @@
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1771304792
+                "LastUpdate": 1771842232
             }
         ]
     },
@@ -10551,7 +10576,7 @@
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1771792352
+                "LastUpdate": 1771847868
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -10603,7 +10628,7 @@
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1771792352
+                "LastUpdate": 1771847868
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -10760,7 +10785,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771798687
+                "LastUpdate": 1771859069
             }
         ]
     },
