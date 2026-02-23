@@ -326,7 +326,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1766170382
+                "LastUpdate": 1771795714
             }
         ]
     },
@@ -343,7 +343,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1766170382
+                "LastUpdate": 1771795714
             }
         ]
     },
@@ -447,7 +447,7 @@
                 "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1771769179
+                "LastUpdate": 1771815258
             }
         ]
     },
@@ -1608,7 +1608,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1771203333
+                "LastUpdate": 1771808144
             },
             {
                 "Author": "Caraxi",
@@ -1936,7 +1936,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1766170382
+                "LastUpdate": 1771795714
             },
             {
                 "Author": "Ottermandias",
@@ -1945,7 +1945,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1771713790
+                "LastUpdate": 1771798503
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -1954,7 +1954,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771434334
+                "LastUpdate": 1771798687
             },
             {
                 "Author": "CY",
@@ -2984,7 +2984,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1771684586
+                "LastUpdate": 1771810524
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4030,7 +4030,7 @@
                 "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1771769179
+                "LastUpdate": 1771815258
             }
         ]
     },
@@ -4123,7 +4123,7 @@
                 "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1771769179
+                "LastUpdate": 1771815258
             }
         ]
     },
@@ -4493,6 +4493,59 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kako5555/5555-plugins",
                 "LastUpdate": 1766043511
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugin_repository.json",
+        "repo_source_url": "https://github.com/KangasZ/DalamudPluginRepository",
+        "repo_name": "DalamudPluginRepository",
+        "repo_developer_name": "KangasZ",
+        "plugins": [
+            {
+                "Author": "KangasZ",
+                "Name": "BattleLog",
+                "InternalName": "BattleLog",
+                "Description": "Trigger making made easy",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KangasZ/BattleLog",
+                "LastUpdate": 1767619495
+            },
+            {
+                "Author": "KangasZ",
+                "Name": "Kangas Tweaks Plugin",
+                "InternalName": "KangasTweaks",
+                "Description": "Weather tracker and daily/weekly reset tracker",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KangasZ/KangasTweaks",
+                "LastUpdate": 1766121211
+            },
+            {
+                "Author": "KangasZ",
+                "Name": "Radar Plugin",
+                "InternalName": "RadarPlugin",
+                "Description": "Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
+                "LastUpdate": 1766109347
+            },
+            {
+                "Author": "KangasZ",
+                "Name": "SkipCutscene",
+                "InternalName": "SkipCutscene",
+                "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KangasZ/SkipCutscene",
+                "LastUpdate": 1766121111
+            },
+            {
+                "Author": "KangasZ",
+                "Name": "UI Anti AFK Kick",
+                "InternalName": "UIAntiAfkKick",
+                "Description": "A Dalamud Plugin that will do afk-timers!",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KangasZ/UIAntiAfkKick",
+                "LastUpdate": 1766121170
             }
         ]
     },
@@ -5694,23 +5747,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/MeowZWR/Ktisis/raw/cn/repo.json",
-        "repo_source_url": "https://github.com/MeowZWR/Ktisis",
-        "repo_name": "Ktisis",
-        "repo_developer_name": "MeowZWR",
-        "plugins": [
-            {
-                "Author": "Chirp, Cazzar, Bwuny and contributors",
-                "Name": "Ktisis",
-                "InternalName": "Ktisis",
-                "Description": "集体动作姿势编辑工具。初次使用记得设置→Language→选择简体中文。",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/MeowZWR/Ktisis",
-                "LastUpdate": 1766210357
-            }
-        ]
-    },
-    {
         "repo_developer_name": "midnightnoon69",
         "repo_url": "https://raw.githubusercontent.com/midnightnoon69/GateTimerPlugin/main/repo.json",
         "repo_source_url": "https://github.com/midnightnoon69/GateTimerPlugin",
@@ -5791,7 +5827,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771434334
+                "LastUpdate": 1771798687
             }
         ]
     },
@@ -6108,7 +6144,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1771783992
+                "LastUpdate": 1771806224
             }
         ]
     },
@@ -7014,7 +7050,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1771713790
+                "LastUpdate": 1771798503
             }
         ]
     },
@@ -7040,7 +7076,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1766170382
+                "LastUpdate": 1771795714
             },
             {
                 "Author": "NightmareXIV, AsunaTsuki",
@@ -7058,7 +7094,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1771713790
+                "LastUpdate": 1771798503
             },
             {
                 "Author": "Anna",
@@ -7094,7 +7130,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771434334
+                "LastUpdate": 1771798687
             },
             {
                 "Author": "Caraxi",
@@ -7895,7 +7931,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1771776725
+                "LastUpdate": 1771816453
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -8419,7 +8455,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771434334
+                "LastUpdate": 1771798687
             }
         ]
     },
@@ -8436,7 +8472,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771434334
+                "LastUpdate": 1771798687
             }
         ]
     },
@@ -8779,10 +8815,10 @@
                 "Author": "Treezy",
                 "Name": "OpenRadar",
                 "InternalName": "OpenRadar",
-                "Description": "Enables automatically on installation, use /openradar for config",
+                "Description": "Similar to PFRadar, but open source. Doesn't pull data from a hidden server, uses data from PlayerTrack or by requesting directly from SE (use at your own risk)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ryan-RH/OpenRadar",
-                "LastUpdate": 1771791405
+                "LastUpdate": 1771816609
             }
         ]
     },
@@ -10035,7 +10071,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1771787514
+                "LastUpdate": 1771816085
             }
         ]
     },
@@ -10703,7 +10739,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771434334
+                "LastUpdate": 1771798687
             }
         ]
     },
