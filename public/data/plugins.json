@@ -1954,7 +1954,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771877954
+                "LastUpdate": 1771890748
             },
             {
                 "Author": "CY",
@@ -5870,7 +5870,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771877954
+                "LastUpdate": 1771890748
             }
         ]
     },
@@ -6190,7 +6190,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1771884605
+                "LastUpdate": 1771900863
             }
         ]
     },
@@ -7176,7 +7176,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771877954
+                "LastUpdate": 1771890748
             },
             {
                 "Author": "Caraxi",
@@ -7977,7 +7977,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1771885431
+                "LastUpdate": 1771904675
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -8475,7 +8475,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771877954
+                "LastUpdate": 1771890748
             }
         ]
     },
@@ -8492,7 +8492,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771877954
+                "LastUpdate": 1771890748
             }
         ]
     },
@@ -8829,7 +8829,7 @@
                 "Description": "Allow draggable sorter instead of having to do some strange swapping that FFXIV only allows",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ryan-RH/GearsetSort",
-                "LastUpdate": 1771770607
+                "LastUpdate": 1771901232
             },
             {
                 "Author": "Treezy",
@@ -8961,13 +8961,30 @@
         "repo_name": "CraftQueue",
         "plugins": [
             {
-                "Author": "Claude & Trist",
+                "Author": "Sansflaire",
                 "Name": "Craft Queue",
                 "InternalName": "CraftQueue",
                 "Description": "Craft Queue lets you browse recipes from the crafting log, add them to a personal queue with quantities and material preferences, organize them, then send them to Artisan for automated execution. It is the shopping list to Artisan's cook.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sansflaire/CraftQueue",
-                "LastUpdate": 1771780857
+                "LastUpdate": 1771903030
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Sansflaire",
+        "repo_url": "https://raw.githubusercontent.com/Sansflaire/DanceLibraryFFXIV/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Sansflaire/DanceLibraryFFXIV",
+        "repo_name": "DanceLibraryFFXIV",
+        "plugins": [
+            {
+                "Author": "Sansflaire",
+                "Name": "Dance Library",
+                "InternalName": "DanceLibraryFFXIV",
+                "Description": "Scans your Penumbra mod library for mods that override emote animations. Organizes dance emotes in one tab and other emotes in another. Click any entry to temporarily activate the mod with high priority and automatically perform the emote. Includes a settings editor for mods with configurable options.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Sansflaire/DanceLibraryFFXIV",
+                "LastUpdate": 1771902398
             }
         ]
     },
@@ -9405,7 +9422,7 @@
                 "Description": "WaveKeeper automatically detects nearby players and greets them with a configurable emote. It can also auto-reply when someone emotes at you. Supports friends-only mode, ignore lists, adjustable range/timing, and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/sm0kez/WaveKeeper",
-                "LastUpdate": 1771861048
+                "LastUpdate": 1771894465
             }
         ]
     },
@@ -9578,14 +9595,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/spide-r/CCAnonymizer",
                 "LastUpdate": 1766176896
-            },
-            {
-                "Author": "spider",
-                "Name": "PvPAnnouncerForCoolPeople",
-                "InternalName": "PvPAnnouncerForCoolPeople",
-                "Description": "Temp Alpha build for the 2 people that want the code early - don't run this with PvPAnnouncer or stuff will probably not work & ill be sad",
-                "DalamudApiLevel": 14,
-                "LastUpdate": 1771865225
             }
         ]
     },
@@ -10116,7 +10125,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1771868313
+                "LastUpdate": 1771889440
             }
         ]
     },
@@ -10248,7 +10257,7 @@
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1771842232
+                "LastUpdate": 1771907615
             }
         ]
     },
@@ -10785,7 +10794,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771877954
+                "LastUpdate": 1771890748
             }
         ]
     },
@@ -11270,7 +11279,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1771591269
+                "LastUpdate": 1771893192
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
