@@ -1352,7 +1352,7 @@
                 "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/BeSlightly/Snappy",
-                "LastUpdate": 1771663940
+                "LastUpdate": 1772041285
             }
         ]
     },
@@ -1962,7 +1962,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1771955160
+                "LastUpdate": 1772042680
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -1971,7 +1971,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771890748
+                "LastUpdate": 1772044093
             },
             {
                 "Author": "CY",
@@ -2230,7 +2230,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1771925835
+                "LastUpdate": 1772040866
             }
         ],
         "repo_developer_name": "Det"
@@ -2935,6 +2935,23 @@
         ]
     },
     {
+        "repo_developer_name": "felpssantarosa",
+        "repo_url": "https://raw.githubusercontent.com/felpssantarosa/bloom-bell/master/repo.json",
+        "repo_source_url": "https://github.com/felpssantarosa/bloom-bell",
+        "repo_name": "bloom-bell",
+        "plugins": [
+            {
+                "Author": "Senya",
+                "Name": "Bloom Bell",
+                "InternalName": "BloomBell",
+                "Description": "Notifications for when you are waiting to fill.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/felpssantarosa/bloom-bell",
+                "LastUpdate": 1772038369
+            }
+        ]
+    },
+    {
         "repo_name": "CombatReborn",
         "repo_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo",
@@ -3001,7 +3018,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1771971899
+                "LastUpdate": 1772042178
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3718,7 +3735,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1771925835
+                "LastUpdate": 1772040866
             },
             {
                 "Author": "veyn",
@@ -3857,7 +3874,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1771925835
+                "LastUpdate": 1772040866
             },
             {
                 "Author": "veyn",
@@ -5299,7 +5316,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1772002635
+                "LastUpdate": 1772027597
             }
         ]
     },
@@ -5576,6 +5593,23 @@
         ]
     },
     {
+        "repo_developer_name": "Loveil381",
+        "repo_url": "https://raw.githubusercontent.com/Loveil381/AstralSolver/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Loveil381/AstralSolver",
+        "repo_name": "AstralSolver",
+        "plugins": [
+            {
+                "Author": "AstralSolver Team",
+                "Name": "AstralSolver",
+                "InternalName": "AstralSolver",
+                "Description": "AI-driven intelligent combat assistant. Features smart Astrologian card play, dual-rail timeline navigator, and training mode with scoring. Supports Chinese and Japanese.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Loveil381/AstralSolver",
+                "LastUpdate": 1772037147
+            }
+        ]
+    },
+    {
         "repo_developer_name": "LucifurrMorningstar",
         "repo_url": "https://raw.githubusercontent.com/LucifurrMorningstar/Dalamud/main/repo.json",
         "repo_source_url": "https://github.com/LucifurrMorningstar/Dalamud",
@@ -5606,6 +5640,22 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/lumxiv/Dalamud-VFXEditor",
                 "LastUpdate": 1769348090
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "MaJoRX0",
+        "repo_url": "https://raw.githubusercontent.com/MaJoRX0/MyDalamudPlugins/main/plugins.json",
+        "repo_source_url": "https://github.com/MaJoRX0/MyDalamudPlugins",
+        "repo_name": "MyDalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Twinki Toes",
+                "Name": "Plugin List",
+                "InternalName": "PluginList",
+                "Description": "",
+                "RepoUrl": "https://github.com/MaJoRX0/MyDalamudPlugins",
+                "LastUpdate": 1772033432
             }
         ]
     },
@@ -5887,7 +5937,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771890748
+                "LastUpdate": 1772044093
             }
         ]
     },
@@ -7130,7 +7180,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1771955160
+                "LastUpdate": 1772042680
             }
         ]
     },
@@ -7174,7 +7224,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1771955160
+                "LastUpdate": 1772042680
             },
             {
                 "Author": "Anna",
@@ -7210,7 +7260,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771890748
+                "LastUpdate": 1772044093
             },
             {
                 "Author": "Caraxi",
@@ -7948,7 +7998,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1771925835
+                "LastUpdate": 1772040866
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -8509,7 +8559,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771890748
+                "LastUpdate": 1772044093
             }
         ]
     },
@@ -8526,7 +8576,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771890748
+                "LastUpdate": 1772044093
             }
         ]
     },
@@ -9456,7 +9506,7 @@
                 "Description": "WaveKeeper automatically detects nearby players and greets them with a configurable emote. It can also auto-reply when someone emotes at you. Supports friends-only mode, ignore lists, adjustable range/timing, and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/sm0kez/WaveKeeper",
-                "LastUpdate": 1772003023
+                "LastUpdate": 1772035519
             }
         ]
     },
@@ -10828,7 +10878,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1771890748
+                "LastUpdate": 1772044093
             }
         ]
     },
