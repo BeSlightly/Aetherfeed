@@ -2196,7 +2196,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1770810610
+                "LastUpdate": 1772106735
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -4021,7 +4021,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1771958440
+                "LastUpdate": 1772091926
             }
         ]
     },
@@ -5644,6 +5644,86 @@
         ]
     },
     {
+        "repo_developer_name": "Lzsony",
+        "repo_url": "https://raw.githubusercontent.com/Lzsony/dalamud-plugins-tw/main/repo.json",
+        "repo_source_url": "https://github.com/Lzsony/dalamud-plugins-tw",
+        "repo_name": "dalamud-plugins-tw",
+        "plugins": [
+            {
+                "Author": "NightmareXIV",
+                "Name": "AntiAfkKick",
+                "InternalName": "AntiAfkKick",
+                "Description": "用於防止因不活躍而被 FFXIV 自動踢出。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/lzsony/dalamud-plugins-tw",
+                "LastUpdate": 1772097944
+            },
+            {
+                "Author": "Puni.sh",
+                "Name": "Artisan",
+                "InternalName": "Artisan",
+                "Description": "全自動搓生產",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/lzsony/dalamud-plugins-tw",
+                "LastUpdate": 1772097944
+            },
+            {
+                "Author": "Puni.sh",
+                "Name": "AutoHook",
+                "InternalName": "AutoHook",
+                "Description": "它能幫你自動釣魚, 你信嗎?",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/lzsony/dalamud-plugins-tw",
+                "LastUpdate": 1772097944
+            },
+            {
+                "Author": "Puni.sh",
+                "Name": "AutoRetainer",
+                "InternalName": "AutoRetainer",
+                "Description": "躺在床上，就能指揮你的雇員。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/lzsony/dalamud-plugins-tw",
+                "LastUpdate": 1772097944
+            },
+            {
+                "Author": "Haselnussbomber",
+                "Name": "HaselTweaks",
+                "InternalName": "HaselTweaks",
+                "Description": "小功能合集",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/lzsony/dalamud-plugins-tw",
+                "LastUpdate": 1772097944
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Lifestream",
+                "InternalName": "Lifestream",
+                "Description": "Lifestream 是一款插件，可協助您在資料中心、世界、執行個體和住宅區之間輕鬆導航。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/lzsony/dalamud-plugins-tw",
+                "LastUpdate": 1772097944
+            },
+            {
+                "Author": "UnknownX",
+                "Name": "NoClippy",
+                "InternalName": "NoClippy",
+                "Description": "減少延遲對遊戲某些方面的影響，例如技能穿插和狀態效果。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/lzsony/dalamud-plugins-tw",
+                "LastUpdate": 1772097944
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "Rotation Solver Reborn",
+                "InternalName": "RotationSolver",
+                "Description": "透過盡可能優化您的技能循環（包括治療、打斷、減傷和魔法值管理）來增強您的遊戲體驗。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/lzsony/dalamud-plugins-tw",
+                "LastUpdate": 1772097944
+            }
+        ]
+    },
+    {
         "repo_developer_name": "MaJoRX0",
         "repo_url": "https://raw.githubusercontent.com/MaJoRX0/MyDalamudPlugins/main/plugins.json",
         "repo_source_url": "https://github.com/MaJoRX0/MyDalamudPlugins",
@@ -5655,7 +5735,7 @@
                 "InternalName": "PluginList",
                 "Description": "",
                 "RepoUrl": "https://github.com/MaJoRX0/MyDalamudPlugins",
-                "LastUpdate": 1772082737
+                "LastUpdate": 1772095641
             }
         ]
     },
@@ -6274,7 +6354,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1772069761
+                "LastUpdate": 1772107109
             }
         ]
     },
@@ -7989,7 +8069,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1771958440
+                "LastUpdate": 1772091926
             },
             {
                 "Author": "Det, Taurenkey",
@@ -8061,7 +8141,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1772001434
+                "LastUpdate": 1772104977
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -8311,7 +8391,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1772086728
+                "LastUpdate": 1772091145
             }
         ]
     },
@@ -10209,7 +10289,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1772062293
+                "LastUpdate": 1772095246
             }
         ]
     },
