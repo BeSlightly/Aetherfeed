@@ -1962,7 +1962,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772065830
+                "LastUpdate": 1772121441
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -1971,7 +1971,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772066823
+                "LastUpdate": 1772120266
             },
             {
                 "Author": "CY",
@@ -3762,7 +3762,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1772004357
+                "LastUpdate": 1772119760
             },
             {
                 "Author": "daemitus, croizat",
@@ -3901,7 +3901,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1772004357
+                "LastUpdate": 1772119760
             },
             {
                 "Author": "daemitus, croizat",
@@ -4021,7 +4021,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1772091926
+                "LastUpdate": 1772126426
             }
         ]
     },
@@ -5083,7 +5083,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1771682071
+                "LastUpdate": 1772131254
             }
         ]
     },
@@ -5316,7 +5316,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1772027597
+                "LastUpdate": 1772122704
             }
         ]
     },
@@ -5605,7 +5605,7 @@
                 "Description": "AI-driven intelligent combat assistant. Features smart Astrologian card play, dual-rail timeline navigator, and training mode with scoring. Supports Chinese and Japanese.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Loveil381/AstralSolver",
-                "LastUpdate": 1772037147
+                "LastUpdate": 1772120668
             }
         ]
     },
@@ -5735,7 +5735,7 @@
                 "InternalName": "PluginList",
                 "Description": "",
                 "RepoUrl": "https://github.com/MaJoRX0/MyDalamudPlugins",
-                "LastUpdate": 1772095641
+                "LastUpdate": 1772113869
             }
         ]
     },
@@ -6017,7 +6017,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772066823
+                "LastUpdate": 1772120266
             }
         ]
     },
@@ -6917,12 +6917,47 @@
         "plugins": [
             {
                 "Author": "NaughtyNeko",
-                "Name": "TravelTriggers",
-                "InternalName": "TravelTriggers",
-                "Description": "Sets per-character chat command triggered on:\n- Zone changes\n - Class/Job Swaps\n Other Options:\n - Roleplay Only Toggle (Blocks unless \"RP\" Online Status is set)\n - RNG Toggle (Triggers fire randomly, given a custom min/max range)\n - Override Toggle (Overrides commands set for all triggers with a master command)",
+                "Name": "Enhanced Battle Mode",
+                "InternalName": "EnhancedBattleMode",
+                "Description": "Intelligent management of draw/sheathe actions.",
                 "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers",
-                "LastUpdate": 1771704399
+                "RepoUrl": "https://github.com/NNekoPlugins/EnhancedBattleMode",
+                "LastUpdate": 1772128737
+            },
+            {
+                "Author": "NaughtyNeko",
+                "Name": "NNekoTriggers",
+                "InternalName": "NNekoTriggers",
+                "Description": "Sets per-character chat command triggered on:\n- Zone changes\n - Class/Job Swaps\n- Login\n Other Options:\n - Roleplay Only Toggle (Blocks unless \"RP\" Online Status is set)\n - RNG Toggle (Triggers fire randomly, given a custom min/max range)\n - Override Toggle (Overrides commands set for all triggers with a master command)",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NNekoPlugins/NNekoTriggers",
+                "LastUpdate": 1772130390
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/NNekoPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/NNekoPlugins",
+        "repo_name": "NNekoPlugins",
+        "plugins": [
+            {
+                "Author": "NaughtyNeko",
+                "Name": "Enhanced Battle Mode",
+                "InternalName": "EnhancedBattleMode",
+                "Description": "Intelligent management of draw/sheathe actions.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NNekoPlugins/EnhancedBattleMode",
+                "LastUpdate": 1772128737
+            },
+            {
+                "Author": "NaughtyNeko",
+                "Name": "NNekoTriggers",
+                "InternalName": "NNekoTriggers",
+                "Description": "Sets per-character chat command triggered on:\n- Zone changes\n - Class/Job Swaps\n- Login\n Other Options:\n - Roleplay Only Toggle (Blocks unless \"RP\" Online Status is set)\n - RNG Toggle (Triggers fire randomly, given a custom min/max range)\n - Override Toggle (Overrides commands set for all triggers with a master command)",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NNekoPlugins/NNekoTriggers",
+                "LastUpdate": 1772130390
             }
         ]
     },
@@ -7260,7 +7295,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772065830
+                "LastUpdate": 1772121441
             }
         ]
     },
@@ -7304,7 +7339,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772065830
+                "LastUpdate": 1772121441
             },
             {
                 "Author": "Anna",
@@ -7340,7 +7375,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772066823
+                "LastUpdate": 1772120266
             },
             {
                 "Author": "Caraxi",
@@ -8018,7 +8053,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1772066574
+                "LastUpdate": 1772131329
             }
         ]
     },
@@ -8069,7 +8104,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1772091926
+                "LastUpdate": 1772126426
             },
             {
                 "Author": "Det, Taurenkey",
@@ -8168,7 +8203,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1772004357
+                "LastUpdate": 1772119760
             },
             {
                 "Author": "daemitus, kawaii",
@@ -8639,7 +8674,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772066823
+                "LastUpdate": 1772120266
             }
         ]
     },
@@ -8656,7 +8691,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772066823
+                "LastUpdate": 1772120266
             }
         ]
     },
@@ -10276,24 +10311,6 @@
         ]
     },
     {
-        "repo_url": "https://playersync.io/download/plugin/repo.json",
-        "repo_source_url": "https://github.com/universalconquistador/MareSynchronosClient",
-        "repo_developer_name": "universalconquistador",
-        "repo_name": "MareSynchronosClient",
-        "repo_discord_url": "https://discord.gg/playersync",
-        "plugins": [
-            {
-                "Author": "The PlayerSync Team",
-                "Name": "PlayerSync",
-                "InternalName": "MareSempiterne",
-                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1772095246
-            }
-        ]
-    },
-    {
         "repo_url": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/repo.json",
         "repo_source_url": "https://git.heyitsmayo.com/MareMirror/client",
         "repo_discord_url": "https://discord.gg/anatoli",
@@ -10958,7 +10975,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772066823
+                "LastUpdate": 1772120266
             }
         ]
     },
@@ -11245,7 +11262,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260219
+                "LastUpdate": 20260227
             },
             {
                 "Author": "Meoiswa, YouShu",
