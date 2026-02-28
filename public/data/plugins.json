@@ -1779,23 +1779,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/cfsen/Ktisis/raw/main/repo.json",
-        "repo_source_url": "https://github.com/cfsen/Ktisis",
-        "repo_name": "Ktisis",
-        "repo_developer_name": "cfsen",
-        "plugins": [
-            {
-                "Author": "Chirp",
-                "Name": "Ktisis",
-                "InternalName": "Ktisis",
-                "Description": "A robust posing tool for creating screenshots in GPose.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1771522770
-            }
-        ]
-    },
-    {
         "repo_developer_name": "chalkos",
         "repo_url": "https://raw.githubusercontent.com/chalkos/Marketbuddy/main/repo.json",
         "repo_source_url": "https://github.com/chalkos/Marketbuddy",
@@ -4081,7 +4064,7 @@
                 "Description": "Configure duties to warn you if you are not equipped with the correct gearset on entry.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://puni.sh/api/repository/gid",
-                "LastUpdate": 1768759808
+                "LastUpdate": 1772289558
             }
         ]
     },
@@ -6100,7 +6083,7 @@
                 "Description": "A plugin to track crystal across your FFXIV account.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
-                "LastUpdate": 1770019269
+                "LastUpdate": 1772288106
             }
         ]
     },
@@ -6117,7 +6100,7 @@
                 "Description": "Kaleidoscope is a Dalamud plugin for Final Fantasy XIV that provides an overlay for tracking game information across multiple characters.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1771123270
+                "LastUpdate": 1772281351
             }
         ]
     },
@@ -6135,6 +6118,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MulleMjau/FFXIVmon",
                 "LastUpdate": 1769305392
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mulongsheng",
+        "repo_url": "https://raw.githubusercontent.com/mulongsheng/simple-Tool-dist/main/repo.json",
+        "repo_source_url": "https://github.com/mulongsheng/simple-Tool-dist",
+        "repo_name": "simple-Tool-dist",
+        "plugins": [
+            {
+                "Author": "091",
+                "Name": "SpeedRadiusPlugin",
+                "InternalName": "SpeedRadiusPlugin",
+                "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
+                "LastUpdate": 1772278310
             }
         ]
     },
@@ -6185,7 +6185,7 @@
                 "Description": "Browse FFXIV community events from Partake.gg and FFXIVenue directly in-game. Filter by data center, time, and tags. Copy Lifestream teleport codes in one click.\n\nCommands:\n/venuescope or /vs — Open VenueScope",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/VenueScope",
-                "LastUpdate": 1772259083
+                "LastUpdate": 1772280610
             }
         ]
     },
@@ -6628,7 +6628,7 @@
                 "Description": "带有各种参数的Roll点命令 need | greed | pass\n聊天和Toast输出以及Roll点延迟。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/LazyLoot",
-                "LastUpdate": 1766333377
+                "LastUpdate": 1772285486
             },
             {
                 "Author": "53m1k0l0n/Gidedin (Puni.sh) / NiGuangOwO (本地化)",
@@ -6637,7 +6637,7 @@
                 "Description": "带有各种参数的Roll点命令 need | greed | pass\n聊天和Toast输出以及Roll点延迟。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/LazyLoot",
-                "LastUpdate": 1766333377
+                "LastUpdate": 1772285486
             },
             {
                 "Author": "53m1k0l0n/Gidedin (Puni.sh) / NiGuangOwO (本地化)",
@@ -6646,7 +6646,7 @@
                 "Description": "带有各种参数的Roll点命令 need | greed | pass\n聊天和Toast输出以及Roll点延迟。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/LazyLoot",
-                "LastUpdate": 1766333377
+                "LastUpdate": 1772285486
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -10744,7 +10744,7 @@
                 "Description": "The actively maintained and improved quest helper plugin for a smoother questing experience.\n\nThis plugin automates quests with enhanced pathing, reliable combat integration (e.g., Boss Mod and Wrath Combo), and consistent stability. It leverages tools like Vnavmesh for precise navigation, LifeStream for efficient travel, and TextAdvance for dialogue handling, keeping pace with game updates and user needs.\n\nOriginally created by Liza Carvelli.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1772229228
+                "LastUpdate": 1772286043
             }
         ]
     },
@@ -10761,7 +10761,7 @@
                 "Description": "Originally created by Liza Carvelli, now maintained and improved by WigglyMuffin and CryoTechnic.\n\nA tiny little quest helper plugin that automates quests where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way.\n\nNot all quests are supported, check Discord for support.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1772229228
+                "LastUpdate": 1772286043
             }
         ]
     },
@@ -10796,7 +10796,7 @@
                 "Description": "Created by Liza, maintained by WigglyMuffin, CryoTechnic. A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1772229228
+                "LastUpdate": 1772286043
             }
         ]
     },
