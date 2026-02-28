@@ -377,7 +377,7 @@
                 "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1772069000
+                "LastUpdate": 1772307488
             }
         ]
     },
@@ -1779,6 +1779,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/cfsen/Ktisis/raw/main/repo.json",
+        "repo_source_url": "https://github.com/cfsen/Ktisis",
+        "repo_name": "Ktisis",
+        "repo_developer_name": "cfsen",
+        "plugins": [
+            {
+                "Author": "Chirp",
+                "Name": "Ktisis",
+                "InternalName": "Ktisis",
+                "Description": "A robust posing tool for creating screenshots in GPose.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
+                "LastUpdate": 1771522770
+            }
+        ]
+    },
+    {
         "repo_developer_name": "chalkos",
         "repo_url": "https://raw.githubusercontent.com/chalkos/Marketbuddy/main/repo.json",
         "repo_source_url": "https://github.com/chalkos/Marketbuddy",
@@ -1945,7 +1962,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772229456
+                "LastUpdate": 1772291475
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -1954,7 +1971,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772238526
+                "LastUpdate": 1772309296
             },
             {
                 "Author": "CY",
@@ -3139,6 +3156,23 @@
         ]
     },
     {
+        "repo_developer_name": "frenchpresssscoffee-blip",
+        "repo_url": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/InstanTeleport/main/repo.json",
+        "repo_source_url": "https://github.com/frenchpresssscoffee-blip/InstanTeleport",
+        "repo_name": "InstanTeleport",
+        "plugins": [
+            {
+                "Author": "Administrator",
+                "Name": "Instant Teleport",
+                "InternalName": "InstantTeleport",
+                "Description": "Removes Teleport/Return cast time and minimizes the transition screen. Commands: /instanttp, /instanttp status, /instanttp debug.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/frenchpresssscoffee-blip/InstanTeleport",
+                "LastUpdate": 1772303211
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Friendly-Namazu",
         "repo_url": "https://raw.githubusercontent.com/Friendly-Namazu/dalamud-repo/main/repo.json",
         "repo_source_url": "https://github.com/Friendly-Namazu/dalamud-repo",
@@ -3745,7 +3779,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1772119760
+                "LastUpdate": 1772311352
             },
             {
                 "Author": "daemitus, croizat",
@@ -3884,7 +3918,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1772119760
+                "LastUpdate": 1772311352
             },
             {
                 "Author": "daemitus, croizat",
@@ -5066,7 +5100,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1772205278
+                "LastUpdate": 1772306683
             }
         ]
     },
@@ -5169,7 +5203,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1771271051
+                "LastUpdate": 1772310941
             }
         ]
     },
@@ -5721,6 +5755,23 @@
         ]
     },
     {
+        "repo_developer_name": "McVaxius",
+        "repo_url": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/repo.json",
+        "repo_source_url": "https://github.com/McVaxius/FrenRider",
+        "repo_name": "FrenRider",
+        "plugins": [
+            {
+                "Author": "McVaxius",
+                "Name": "Fren Rider",
+                "InternalName": "FrenRider",
+                "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/FrenRider",
+                "LastUpdate": 1772310948
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Medlinya",
         "repo_url": "https://raw.githubusercontent.com/Medlinya/MedlinyaPlugins/main/repo.json",
         "repo_source_url": "https://github.com/Medlinya/MedlinyaPlugins",
@@ -5920,7 +5971,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772238526
+                "LastUpdate": 1772309296
             }
         ]
     },
@@ -6134,7 +6185,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1772278310
+                "LastUpdate": 1772307331
             }
         ]
     },
@@ -6185,7 +6236,7 @@
                 "Description": "Browse FFXIV community events from Partake.gg and FFXIVenue directly in-game. Filter by data center, time, and tags. Copy Lifestream teleport codes in one click.\n\nCommands:\n/venuescope or /vs — Open VenueScope",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/VenueScope",
-                "LastUpdate": 1772280610
+                "LastUpdate": 1772310229
             }
         ]
     },
@@ -7214,7 +7265,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772229456
+                "LastUpdate": 1772291475
             }
         ]
     },
@@ -7258,7 +7309,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772229456
+                "LastUpdate": 1772291475
             },
             {
                 "Author": "Anna",
@@ -7294,7 +7345,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772238526
+                "LastUpdate": 1772309296
             },
             {
                 "Author": "Caraxi",
@@ -8112,7 +8163,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1772152706
+                "LastUpdate": 1772308028
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -8130,7 +8181,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1772254455
+                "LastUpdate": 1772302386
             },
             {
                 "Author": "Team Wrath",
@@ -8139,7 +8190,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1772119760
+                "LastUpdate": 1772311352
             },
             {
                 "Author": "daemitus, kawaii",
@@ -8610,7 +8661,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772238526
+                "LastUpdate": 1772309296
             }
         ]
     },
@@ -8627,7 +8678,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772238526
+                "LastUpdate": 1772309296
             }
         ]
     },
@@ -9410,7 +9461,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1772254455
+                "LastUpdate": 1772302386
             }
         ]
     },
@@ -10944,7 +10995,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772238526
+                "LastUpdate": 1772309296
             }
         ]
     },
@@ -11125,6 +11176,15 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Yhumi/UcobNeuroScoring",
                 "LastUpdate": 1770342115
+            },
+            {
+                "Author": "Yhumi",
+                "Name": "Yhumi Tweaks",
+                "InternalName": "YhumiTweaks",
+                "Description": "A collection of Tweaks and QoL I really wanted..",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Yhumi/YhumiTweaks",
+                "LastUpdate": 1772294035
             }
         ],
         "repo_source_url": "https://github.com/Yhumi/Plogons",
