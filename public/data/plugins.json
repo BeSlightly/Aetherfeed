@@ -1634,7 +1634,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1767226667
+                "LastUpdate": 1772320574
             }
         ]
     },
@@ -1962,7 +1962,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772291475
+                "LastUpdate": 1772316037
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -1971,7 +1971,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772309296
+                "LastUpdate": 1772321730
             },
             {
                 "Author": "CY",
@@ -1989,7 +1989,7 @@
                 "Description": "FFXIV plugin for adjusting the position of characters when wearing modded footwear. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1767226667
+                "LastUpdate": 1772320574
             }
         ]
     },
@@ -2230,7 +2230,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1772040866
+                "LastUpdate": 1772332446
             }
         ],
         "repo_developer_name": "Det"
@@ -3018,7 +3018,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1772042178
+                "LastUpdate": 1772319634
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3691,7 +3691,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1771532290
+                "LastUpdate": 1772323799
             },
             {
                 "Author": "Haselnussbomber",
@@ -3752,7 +3752,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1772040866
+                "LastUpdate": 1772332446
             },
             {
                 "Author": "veyn",
@@ -3779,7 +3779,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1772311352
+                "LastUpdate": 1772320831
             },
             {
                 "Author": "daemitus, croizat",
@@ -3805,7 +3805,7 @@
                 "Description": "Orchestrates GatherBuddy Reborn and Artisan to fully automate the process of gathering materials and crafting any recipe in the game, including collectables, timed nodes, and multi-step dependency chains.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/hocng015/Expedition-xiv",
-                "LastUpdate": 1771791575
+                "LastUpdate": 1772323377
             }
         ]
     },
@@ -3891,7 +3891,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1772040866
+                "LastUpdate": 1772332446
             },
             {
                 "Author": "veyn",
@@ -3918,7 +3918,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1772311352
+                "LastUpdate": 1772320831
             },
             {
                 "Author": "daemitus, croizat",
@@ -5694,6 +5694,23 @@
         ]
     },
     {
+        "repo_developer_name": "Marci696",
+        "repo_url": "https://raw.githubusercontent.com/Marci696/MateriaQoL/master/repo.json",
+        "repo_source_url": "https://github.com/Marci696/MateriaQoL",
+        "repo_name": "MateriaQoL",
+        "plugins": [
+            {
+                "Author": "Marci696",
+                "Name": "MateriaQoL",
+                "InternalName": "MateriaQoL",
+                "Description": "Currently you can use it to retrieve all materia from a gear piece and also queue multiple in succession via an added context menu option on items.\n\nEspecially helpful for penta melded gear, where you normally have to wait for each individual retrieval to finish.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Marci696/MateriaQoL",
+                "LastUpdate": 1772326012
+            }
+        ]
+    },
+    {
         "repo_developer_name": "maributt",
         "repo_url": "https://raw.githubusercontent.com/maributt/xivplugins/main/repo.json",
         "repo_source_url": "https://github.com/maributt/xivplugins",
@@ -5767,7 +5784,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1772310948
+                "LastUpdate": 1772322119
             }
         ]
     },
@@ -5971,7 +5988,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772309296
+                "LastUpdate": 1772321730
             }
         ]
     },
@@ -6236,7 +6253,7 @@
                 "Description": "Browse FFXIV community events from Partake.gg and FFXIVenue directly in-game. Filter by data center, time, and tags. Copy Lifestream teleport codes in one click.\n\nCommands:\n/venuescope or /vs — Open VenueScope",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/VenueScope",
-                "LastUpdate": 1772310229
+                "LastUpdate": 1772329563
             }
         ]
     },
@@ -6342,7 +6359,24 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1772257219
+                "LastUpdate": 1772332401
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NeoGriever",
+        "repo_url": "https://raw.githubusercontent.com/NeoGriever/IAmReady/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/NeoGriever/IAmReady",
+        "repo_name": "IAmReady",
+        "plugins": [
+            {
+                "Author": "Valenth Siveria",
+                "Name": "I Am Ready",
+                "InternalName": "IAmReady",
+                "Description": "/iar - opens the I Am Ready tool",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NeoGriever/IAmReady",
+                "LastUpdate": 1772317940
             }
         ]
     },
@@ -7265,7 +7299,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772291475
+                "LastUpdate": 1772316037
             }
         ]
     },
@@ -7309,7 +7343,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772291475
+                "LastUpdate": 1772316037
             },
             {
                 "Author": "Anna",
@@ -7345,7 +7379,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772309296
+                "LastUpdate": 1772321730
             },
             {
                 "Author": "Caraxi",
@@ -7354,7 +7388,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1767226667
+                "LastUpdate": 1772320574
             }
         ],
         "repo_developer_name": "Ottermandias"
@@ -8100,7 +8134,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1772040866
+                "LastUpdate": 1772332446
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -8181,7 +8215,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1772302386
+                "LastUpdate": 1772328739
             },
             {
                 "Author": "Team Wrath",
@@ -8190,7 +8224,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1772311352
+                "LastUpdate": 1772320831
             },
             {
                 "Author": "daemitus, kawaii",
@@ -8661,7 +8695,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772309296
+                "LastUpdate": 1772321730
             }
         ]
     },
@@ -8678,7 +8712,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772309296
+                "LastUpdate": 1772321730
             }
         ]
     },
@@ -9461,7 +9495,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1772302386
+                "LastUpdate": 1772328739
             }
         ]
     },
@@ -10795,7 +10829,7 @@
                 "Description": "The actively maintained and improved quest helper plugin for a smoother questing experience.\n\nThis plugin automates quests with enhanced pathing, reliable combat integration (e.g., Boss Mod and Wrath Combo), and consistent stability. It leverages tools like Vnavmesh for precise navigation, LifeStream for efficient travel, and TextAdvance for dialogue handling, keeping pace with game updates and user needs.\n\nOriginally created by Liza Carvelli.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1772286043
+                "LastUpdate": 1772330602
             }
         ]
     },
@@ -10812,7 +10846,7 @@
                 "Description": "Originally created by Liza Carvelli, now maintained and improved by WigglyMuffin and CryoTechnic.\n\nA tiny little quest helper plugin that automates quests where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way.\n\nNot all quests are supported, check Discord for support.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1772286043
+                "LastUpdate": 1772330602
             }
         ]
     },
@@ -10847,7 +10881,7 @@
                 "Description": "Created by Liza, maintained by WigglyMuffin, CryoTechnic. A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1772286043
+                "LastUpdate": 1772330602
             }
         ]
     },
@@ -10995,7 +11029,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772309296
+                "LastUpdate": 1772321730
             }
         ]
     },
@@ -11291,7 +11325,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260228
+                "LastUpdate": 20260301
             },
             {
                 "Author": "Meoiswa, YouShu",
@@ -11506,7 +11540,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1772158206
+                "LastUpdate": 1772326312
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
