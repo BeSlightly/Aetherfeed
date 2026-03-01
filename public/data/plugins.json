@@ -38,7 +38,7 @@
                 "Description": "Boss mod.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1771291872
+                "LastUpdate": 1772402725
             },
             {
                 "Author": "ocealot",
@@ -326,7 +326,7 @@
                 "Description": "Run chat commands automatically when you log in.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AEBus/FFXIV-Login-Commands",
-                "LastUpdate": 1771972342
+                "LastUpdate": 1772391294
             }
         ]
     },
@@ -1971,7 +1971,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772321730
+                "LastUpdate": 1772401679
             },
             {
                 "Author": "CY",
@@ -2973,7 +2973,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1771291872
+                "LastUpdate": 1772402725
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3779,7 +3779,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1772353142
+                "LastUpdate": 1772389654
             },
             {
                 "Author": "daemitus, croizat",
@@ -3805,7 +3805,7 @@
                 "Description": "Orchestrates GatherBuddy Reborn and Artisan to fully automate the process of gathering materials and crafting any recipe in the game, including collectables, timed nodes, and multi-step dependency chains.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/hocng015/Expedition-xiv",
-                "LastUpdate": 1772323377
+                "LastUpdate": 1772394006
             }
         ]
     },
@@ -3918,7 +3918,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1772353142
+                "LastUpdate": 1772389654
             },
             {
                 "Author": "daemitus, croizat",
@@ -4303,7 +4303,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1771418373
+                "LastUpdate": 1772380711
             },
             {
                 "Author": "croizat",
@@ -5487,7 +5487,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
-                "LastUpdate": 1771217665
+                "LastUpdate": 1772401505
             }
         ]
     },
@@ -5706,7 +5706,7 @@
                 "Description": "Currently you can use it to retrieve all materia from a gear piece and also queue multiple in succession via an added context menu option on items.\n\nEspecially helpful for penta melded gear, where you normally have to wait for each individual retrieval to finish.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Marci696/MateriaQoL",
-                "LastUpdate": 1772326012
+                "LastUpdate": 1772386891
             }
         ]
     },
@@ -5778,13 +5778,39 @@
         "repo_name": "FrenRider",
         "plugins": [
             {
-                "Author": "McVaxius",
+                "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1772379630
+                "LastUpdate": 1772392706
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "McVaxius",
+        "repo_url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
+        "repo_source_url": "https://github.com/McVaxius/TheDumpsterFire",
+        "repo_name": "TheDumpsterFire",
+        "plugins": [
+            {
+                "Author": "DhogGPT",
+                "Name": "Chocobo Colourized",
+                "InternalName": "ChocoboColourized",
+                "Description": "Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
+                "LastUpdate": 1772397875
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "Fren Rider",
+                "InternalName": "FrenRider",
+                "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/FrenRider",
+                "LastUpdate": 1772392706
             }
         ]
     },
@@ -5988,7 +6014,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772321730
+                "LastUpdate": 1772401679
             }
         ]
     },
@@ -6202,7 +6228,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1772373774
+                "LastUpdate": 1772395139
             }
         ]
     },
@@ -6253,7 +6279,7 @@
                 "Description": "Browse FFXIV community events from Partake.gg and FFXIVenue directly in-game. Filter by data center, time, and tags. Copy Lifestream teleport codes in one click.\n\nCommands:\n/venuescope or /vs — Open VenueScope",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/VenueScope",
-                "LastUpdate": 1772379405
+                "LastUpdate": 1772401003
             }
         ]
     },
@@ -6359,7 +6385,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1772332401
+                "LastUpdate": 1772388360
             }
         ]
     },
@@ -7379,7 +7405,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772321730
+                "LastUpdate": 1772401679
             },
             {
                 "Author": "Caraxi",
@@ -8197,7 +8223,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1772308028
+                "LastUpdate": 1772402349
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -8224,7 +8250,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1772353142
+                "LastUpdate": 1772389654
             },
             {
                 "Author": "daemitus, kawaii",
@@ -8695,7 +8721,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772321730
+                "LastUpdate": 1772401679
             }
         ]
     },
@@ -8712,7 +8738,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772321730
+                "LastUpdate": 1772401679
             }
         ]
     },
@@ -8844,7 +8870,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1771587292
+                "LastUpdate": 1772389093
             },
             {
                 "Author": "Ricimon",
@@ -9058,7 +9084,7 @@
                 "Description": "Similar to PFRadar, but open source. Doesn't pull data from a hidden server, uses data from PlayerTrack or by requesting directly from SE (use at your own risk)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ryan-RH/OpenRadar",
-                "LastUpdate": 1771816609
+                "LastUpdate": 1772388619
             }
         ]
     },
@@ -9832,6 +9858,14 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/spide-r/CCAnonymizer",
                 "LastUpdate": 1766176896
+            },
+            {
+                "Author": "spider",
+                "Name": "PvPAnnouncerForCoolPeople",
+                "InternalName": "PvPAnnouncerForCoolPeople",
+                "Description": "Alpha build for the 2 people that want to test the plugin early - don't run this with PvPAnnouncer or stuff will probably not work & ill be sad",
+                "DalamudApiLevel": 14,
+                "LastUpdate": 1772394106
             }
         ]
     },
@@ -11029,7 +11063,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772321730
+                "LastUpdate": 1772401679
             }
         ]
     },
