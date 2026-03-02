@@ -662,7 +662,7 @@
                 "Description": "Provide deterministic pose commands (cpose, standup, walk, etc.)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
-                "LastUpdate": 1769200287
+                "LastUpdate": 1772449843
             },
             {
                 "Author": "Anya Hichu",
@@ -680,7 +680,7 @@
                 "Description": "An interface for managing a game of Blackjack.\n/pyon - Open GamblePyon",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anya-hichu/FFXIVGamblePyon",
-                "LastUpdate": 1770044418
+                "LastUpdate": 1772449835
             },
             {
                 "Author": "Anya Hichu",
@@ -698,7 +698,7 @@
                 "Description": "Provides commands to interact with penumbra mod settings",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anya-hichu/ModSettingCommands",
-                "LastUpdate": 1766175613
+                "LastUpdate": 1772456629
             },
             {
                 "Author": "Anya Hichu",
@@ -707,7 +707,7 @@
                 "Description": "Displays emote counters as honorific title dynamically",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
-                "LastUpdate": 1771847790
+                "LastUpdate": 1772452582
             },
             {
                 "Author": "Anya Hichu",
@@ -716,7 +716,7 @@
                 "Description": "Generate and run macro actions quickly using a spotlight inspired interface",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anya-hichu/Quack",
-                "LastUpdate": 1766446235
+                "LastUpdate": 1772448445
             },
             {
                 "Author": "Anya Hichu",
@@ -1962,7 +1962,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772411442
+                "LastUpdate": 1772468695
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -1971,7 +1971,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772411233
+                "LastUpdate": 1772468664
             },
             {
                 "Author": "CY",
@@ -3018,7 +3018,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1772319634
+                "LastUpdate": 1772458571
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3805,7 +3805,7 @@
                 "Description": "Orchestrates GatherBuddy Reborn and Artisan to fully automate the process of gathering materials and crafting any recipe in the game, including collectables, timed nodes, and multi-step dependency chains.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/hocng015/Expedition-xiv",
-                "LastUpdate": 1772411871
+                "LastUpdate": 1772451820
             }
         ]
     },
@@ -3822,7 +3822,7 @@
                 "Description": "PFRemote allows you to browse, join, and create Party Finder listings remotely through a Discord bot. Perfect for managing parties from your phone or another device.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/hocng015/PFRemote-Repo",
-                "LastUpdate": 1770675028
+                "LastUpdate": 1772451821
             }
         ]
     },
@@ -3839,7 +3839,7 @@
                 "Description": "Reduces the effects of lag on animation locks, weaving, and cast actions. Features Jacobson/Karels RTT estimation, dynamic latency floor, cast lock prediction, context-aware lock database, and real-time diagnostics. An improved successor to NoClippy.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/hocng015/Tsunippy",
-                "LastUpdate": 1770391438
+                "LastUpdate": 1772452737
             }
         ]
     },
@@ -5100,7 +5100,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1772378781
+                "LastUpdate": 1772470067
             }
         ]
     },
@@ -5474,6 +5474,23 @@
         ]
     },
     {
+        "repo_developer_name": "LienChan666",
+        "repo_url": "https://raw.githubusercontent.com/LienChan666/DalamudPlugins/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/LienChan666/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "кайт машина (Puni.sh), NightmareXIV",
+                "Name": "AutoRetainer",
+                "InternalName": "AutoRetainer",
+                "Description": "轻松收取并派遣雇员探险。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/LienChan666/AutoRetainer",
+                "LastUpdate": 1772451316
+            }
+        ]
+    },
+    {
         "repo_url": "https://repo.lightless-sync.org/",
         "repo_source_url": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
         "repo_developer_name": "Lightless-Sync",
@@ -5784,7 +5801,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1772429339
+                "LastUpdate": 1772470289
             }
         ]
     },
@@ -5801,7 +5818,7 @@
                 "Description": "Automatically execute emotes when specific players are nearby. Configure distance thresholds, wait times, and repeat intervals. Perfect for roleplaying scenarios and automated greetings. Use /hfh to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
-                "LastUpdate": 1772429369
+                "LastUpdate": 1772470290
             }
         ]
     },
@@ -5827,7 +5844,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1772429339
+                "LastUpdate": 1772470289
             },
             {
                 "Author": "DhogGPT",
@@ -5836,7 +5853,7 @@
                 "Description": "Configure emote responses that trigger when specific players are nearby. Perfect for passive RP automation. Use /hfh to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
-                "LastUpdate": 1772429369
+                "LastUpdate": 1772470290
             }
         ]
     },
@@ -6040,7 +6057,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772411233
+                "LastUpdate": 1772468664
             }
         ]
     },
@@ -6254,7 +6271,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1772443073
+                "LastUpdate": 1772457052
             }
         ]
     },
@@ -6305,7 +6322,7 @@
                 "Description": "Browse FFXIV community events from Partake.gg and FFXIVenue directly in-game. Filter by data center, time, and tags. Copy Lifestream teleport codes in one click.\n\nCommands:\n/venuescope or /vs — Open VenueScope",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/VenueScope",
-                "LastUpdate": 1772432579
+                "LastUpdate": 1772458281
             }
         ]
     },
@@ -7351,7 +7368,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772411442
+                "LastUpdate": 1772468695
             }
         ]
     },
@@ -7395,7 +7412,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772411442
+                "LastUpdate": 1772468695
             },
             {
                 "Author": "Anna",
@@ -7431,7 +7448,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772411233
+                "LastUpdate": 1772468664
             },
             {
                 "Author": "Caraxi",
@@ -8747,7 +8764,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772411233
+                "LastUpdate": 1772468664
             }
         ]
     },
@@ -8764,7 +8781,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772411233
+                "LastUpdate": 1772468664
             }
         ]
     },
@@ -9650,7 +9667,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1772439812,
+                "LastUpdate": 1772456710,
                 "is_closed_source": true
             }
         ]
@@ -10436,7 +10453,7 @@
                 "InternalName": "VenueScope",
                 "Description": "Browse FFXIV community events from Partake.gg and FFXIV Venue directly in-game. Filter by data center, time, and tags.\n\n/venuescope or /vs — Open VenueScope",
                 "DalamudApiLevel": 14,
-                "LastUpdate": 1772423354
+                "LastUpdate": 1772457870
             }
         ]
     },
@@ -11131,7 +11148,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772411233
+                "LastUpdate": 1772468664
             }
         ]
     },
