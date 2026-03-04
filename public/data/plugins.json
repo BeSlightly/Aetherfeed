@@ -74,7 +74,7 @@
                 "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://puni.sh/api/repository/taurenkey",
-                "LastUpdate": 1771983083
+                "LastUpdate": 1772616870
             }
         ]
     },
@@ -4038,7 +4038,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1772126426
+                "LastUpdate": 1772623522
             }
         ]
     },
@@ -5220,7 +5220,7 @@
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1770371257
+                "LastUpdate": 1772619195
             },
             {
                 "Author": "Latihas",
@@ -5775,7 +5775,7 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1770371257
+                "LastUpdate": 1772619195
             }
         ]
     },
@@ -6182,6 +6182,32 @@
         ]
     },
     {
+        "repo_developer_name": "monnef",
+        "repo_url": "https://gitlab.com/monnef/dalamud-plugin-repo/-/raw/master/master.json",
+        "repo_source_url": "https://gitlab.com/monnef/dalamud-plugin-repo",
+        "plugins": [
+            {
+                "Author": "monnef",
+                "Name": "Mayai",
+                "InternalName": "Mayai",
+                "Description": "Adds a quick-repair, so when using repair NPC you can simply click repeatedly NUM0. Possibly more features will be added in the future.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://gitlab.com/monnef/mayai",
+                "LastUpdate": 1737187812
+            },
+            {
+                "Author": "monnef",
+                "Name": "Teiden",
+                "InternalName": "TeidenPlugin",
+                "Description": "Relay chat messages to your server.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://gitlab.com/monnef/teiden",
+                "LastUpdate": 1722230218
+            }
+        ],
+        "repo_name": "dalamud-plugin-repo"
+    },
+    {
         "repo_developer_name": "Moon-Magic-Z",
         "repo_url": "https://raw.githubusercontent.com/Moon-Magic-Z/Moon-Magic/main/repo.json",
         "repo_source_url": "https://github.com/Moon-Magic-Z/Moon-Magic",
@@ -6419,7 +6445,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1772388360
+                "LastUpdate": 1772621739
             }
         ]
     },
@@ -6695,7 +6721,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1771519267,
+                "LastUpdate": 1772615798,
                 "is_closed_source": true
             },
             {
@@ -6705,7 +6731,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1771519267,
+                "LastUpdate": 1772615798,
                 "is_closed_source": true
             },
             {
@@ -6808,7 +6834,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1770957437
+                "LastUpdate": 1772616092
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -6817,7 +6843,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1770957437
+                "LastUpdate": 1772616092
             },
             {
                 "Author": "NiGuangOwO",
@@ -8193,7 +8219,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1772126426
+                "LastUpdate": 1772623522
             },
             {
                 "Author": "Det, Taurenkey",
@@ -8265,7 +8291,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1772586708
+                "LastUpdate": 1772605571
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -9204,7 +9230,7 @@
                 "Description": "20250316-请支持逆光喵，谢谢喵-画得更全喵",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
-                "LastUpdate": 1771982505
+                "LastUpdate": 1772616739
             }
         ]
     },
@@ -9666,7 +9692,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1772597423,
+                "LastUpdate": 1772616692,
                 "is_closed_source": true
             }
         ]
