@@ -2196,7 +2196,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1772106735
+                "LastUpdate": 1772597537
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -2205,7 +2205,7 @@
                 "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
-                "LastUpdate": 1772559594
+                "LastUpdate": 1772597206
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -3805,7 +3805,7 @@
                 "Description": "Orchestrates GatherBuddy Reborn and Artisan to fully automate the process of gathering materials and crafting any recipe in the game, including collectables, timed nodes, and multi-step dependency chains.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/hocng015/Expedition-xiv",
-                "LastUpdate": 1772451820
+                "LastUpdate": 1772601995
             }
         ]
     },
@@ -5843,7 +5843,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1772582220
+                "LastUpdate": 1772601686
             }
         ]
     },
@@ -5887,7 +5887,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1772582220
+                "LastUpdate": 1772601686
             }
         ]
     },
@@ -6180,32 +6180,6 @@
                 "LastUpdate": 1766894936
             }
         ]
-    },
-    {
-        "repo_developer_name": "monnef",
-        "repo_url": "https://gitlab.com/monnef/dalamud-plugin-repo/-/raw/master/master.json",
-        "repo_source_url": "https://gitlab.com/monnef/dalamud-plugin-repo",
-        "plugins": [
-            {
-                "Author": "monnef",
-                "Name": "Mayai",
-                "InternalName": "Mayai",
-                "Description": "Adds a quick-repair, so when using repair NPC you can simply click repeatedly NUM0. Possibly more features will be added in the future.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://gitlab.com/monnef/mayai",
-                "LastUpdate": 1737187812
-            },
-            {
-                "Author": "monnef",
-                "Name": "Teiden",
-                "InternalName": "TeidenPlugin",
-                "Description": "Relay chat messages to your server.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://gitlab.com/monnef/teiden",
-                "LastUpdate": 1722230218
-            }
-        ],
-        "repo_name": "dalamud-plugin-repo"
     },
     {
         "repo_developer_name": "Moon-Magic-Z",
@@ -8291,7 +8265,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1772505954
+                "LastUpdate": 1772586708
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -8981,7 +8955,7 @@
                 "Description": "A plugin that allows you to upload ACT combat logs to FFLogs without leaving the game. Supports both live logging and manual log uploads.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Robert5204/FFLogsUploader",
-                "LastUpdate": 1770885364
+                "LastUpdate": 1772598935
             }
         ]
     },
@@ -9692,7 +9666,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1772539184,
+                "LastUpdate": 1772597423,
                 "is_closed_source": true
             }
         ]
@@ -9950,7 +9924,7 @@
                 "Description": "Automatically translates your outgoing messages (to the party language) and incoming messages (to your local language) using Google Translate. Overlay window included. No API Key required.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ssalazar217/EchoXIV",
-                "LastUpdate": 1770617702
+                "LastUpdate": 1772583074
             }
         ]
     },
@@ -10478,7 +10452,7 @@
                 "InternalName": "VenueScope",
                 "Description": "Browse FFXIV community events from Partake.gg and FFXIV Venue directly in-game. Filter by data center, time, and tags.\n\n/venuescope or /vs — Open VenueScope",
                 "DalamudApiLevel": 14,
-                "LastUpdate": 1772571199
+                "LastUpdate": 1772601108
             }
         ]
     },
@@ -11460,7 +11434,7 @@
                 "Description": "重定向所有职业的施法目标，避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/Macro-Redirection",
-                "LastUpdate": 20260303
+                "LastUpdate": 20260304
             },
             {
                 "Author": "YouShu",
