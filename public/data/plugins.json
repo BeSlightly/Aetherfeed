@@ -1962,7 +1962,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772496890
+                "LastUpdate": 1772733534
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -1971,7 +1971,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772545133
+                "LastUpdate": 1772733434
             },
             {
                 "Author": "CY",
@@ -3165,40 +3165,6 @@
         ]
     },
     {
-        "repo_developer_name": "frenchpresssscoffee-blip",
-        "repo_url": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/InstanTeleport/main/repo.json",
-        "repo_source_url": "https://github.com/frenchpresssscoffee-blip/InstanTeleport",
-        "repo_name": "InstanTeleport",
-        "plugins": [
-            {
-                "Author": "Administrator",
-                "Name": "Instant Teleport",
-                "InternalName": "InstantTeleport",
-                "Description": "Removes Teleport/Return cast time and minimizes the transition screen. Commands: /instanttp, /instanttp status, /instanttp debug.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/frenchpresssscoffee-blip/InstanTeleport",
-                "LastUpdate": 1772303211
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "frenchpresssscoffee-blip",
-        "repo_url": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/SmartBlock-/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/frenchpresssscoffee-blip/SmartBlock-",
-        "repo_name": "SmartBlock-",
-        "plugins": [
-            {
-                "Author": "jungle",
-                "Name": "Smart Block Checker",
-                "InternalName": "SmartBlockChecker",
-                "Description": "Hooks UseAction to prevent casting and wasting GCDs on blocked players. Draws ESP circles on blocked players. /blockchecker to configure.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/frenchpresssscoffee-blip/SmartBlock-",
-                "LastUpdate": 1772712530
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Friendly-Namazu",
         "repo_url": "https://raw.githubusercontent.com/Friendly-Namazu/dalamud-repo/main/repo.json",
         "repo_source_url": "https://github.com/Friendly-Namazu/dalamud-repo",
@@ -4157,7 +4123,24 @@
                 "Description": "Hooks UseAction to prevent casting and wasting GCDs on blocked players. Draws ESP circles on blocked players. /blockchecker to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/InTheWind222/SmartBlockCheccker",
-                "LastUpdate": 1772716179
+                "LastUpdate": 1772725934
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "InTheWind222",
+        "repo_url": "https://raw.githubusercontent.com/InTheWind222/SmartBlockChecker/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/InTheWind222/SmartBlockChecker",
+        "repo_name": "SmartBlockChecker",
+        "plugins": [
+            {
+                "Author": "jungle",
+                "Name": "Smart Block Checker",
+                "InternalName": "SmartBlockChecker",
+                "Description": "Hooks UseAction to prevent casting and wasting GCDs on blocked players. Draws ESP circles on blocked players. /blockchecker to configure.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/InTheWind222/SmartBlockChecker",
+                "LastUpdate": 1772725934
             }
         ]
     },
@@ -5852,7 +5835,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1772710447
+                "LastUpdate": 1772720959
             }
         ]
     },
@@ -5869,7 +5852,7 @@
                 "Description": "Automatically execute emotes when specific players are nearby. Configure distance thresholds, wait times, and repeat intervals. Perfect for roleplaying scenarios and automated greetings. Use /hfh to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
-                "LastUpdate": 1772710430
+                "LastUpdate": 1772719134
             }
         ]
     },
@@ -5912,7 +5895,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1772710447
+                "LastUpdate": 1772720959
             },
             {
                 "Author": "DhogGPT",
@@ -5921,7 +5904,7 @@
                 "Description": "Configure emote responses that trigger when specific players are nearby. Perfect for passive RP automation. Use /hfh to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
-                "LastUpdate": 1772710430
+                "LastUpdate": 1772719134
             },
             {
                 "Author": "DhogGPT",
@@ -6134,7 +6117,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772545133
+                "LastUpdate": 1772733434
             }
         ]
     },
@@ -6382,7 +6365,7 @@
                 "Description": "A Dalamud plugin that tracks Twitch streamers and DJs. Get notifications when they go live, see their stream info, schedule automatic shouts, and open streams directly from FFXIV.\n\nCommands:\n/nala or /dj - Open the DJ Tracker window\n/nalaschedule - Open the Shout Scheduler\n/nalaconfig - Open configuration",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/NalaDJTracker",
-                "LastUpdate": 1771981984
+                "LastUpdate": 1772737705
             }
         ]
     },
@@ -7436,7 +7419,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772496890
+                "LastUpdate": 1772733534
             }
         ]
     },
@@ -7480,7 +7463,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1772496890
+                "LastUpdate": 1772733534
             },
             {
                 "Author": "Anna",
@@ -7516,7 +7499,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772545133
+                "LastUpdate": 1772733434
             },
             {
                 "Author": "Caraxi",
@@ -8832,7 +8815,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772545133
+                "LastUpdate": 1772733434
             }
         ]
     },
@@ -8849,7 +8832,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772545133
+                "LastUpdate": 1772733434
             }
         ]
     },
@@ -9655,6 +9638,23 @@
     },
     {
         "repo_developer_name": "ShiftyKiwi",
+        "repo_url": "https://raw.githubusercontent.com/ShiftyKiwi/InstantTeleport/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/ShiftyKiwi/InstantTeleport",
+        "repo_name": "InstantTeleport",
+        "plugins": [
+            {
+                "Author": "ShiftyKiwi",
+                "Name": "Instant Teleport",
+                "InternalName": "InstantTeleport",
+                "Description": "Removes Teleport/Return cast time and minimizes the transition screen. Commands: /instanttp, /instanttp status, /instanttp debug.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/ShiftyKiwi/InstantTeleport",
+                "LastUpdate": 1772728399
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ShiftyKiwi",
         "repo_url": "https://raw.githubusercontent.com/ShiftyKiwi/SwamiSophie/main/pluginmaster.json",
         "repo_source_url": "https://github.com/ShiftyKiwi/SwamiSophie",
         "repo_name": "SwamiSophie",
@@ -9735,7 +9735,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1772698907,
+                "LastUpdate": 1772718694,
                 "is_closed_source": true
             }
         ]
@@ -11216,7 +11216,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1772545133
+                "LastUpdate": 1772733434
             }
         ]
     },
