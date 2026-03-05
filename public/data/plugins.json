@@ -2196,7 +2196,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1772597537
+                "LastUpdate": 1772712349
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -2248,7 +2248,7 @@
                 "Description": "Friend list but with better sorting, can search by name, refresh with a button, color names..\nRight click for context menu.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/devckuw/BetterFriendList",
-                "LastUpdate": 1766325517
+                "LastUpdate": 1772714759
             },
             {
                 "Author": "Loody",
@@ -2430,7 +2430,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1772641218
+                "LastUpdate": 1772714801
             }
         ]
     },
@@ -3178,6 +3178,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/frenchpresssscoffee-blip/InstanTeleport",
                 "LastUpdate": 1772303211
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "frenchpresssscoffee-blip",
+        "repo_url": "https://raw.githubusercontent.com/frenchpresssscoffee-blip/SmartBlock-/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/frenchpresssscoffee-blip/SmartBlock-",
+        "repo_name": "SmartBlock-",
+        "plugins": [
+            {
+                "Author": "jungle",
+                "Name": "Smart Block Checker",
+                "InternalName": "SmartBlockChecker",
+                "Description": "Hooks UseAction to prevent casting and wasting GCDs on blocked players. Draws ESP circles on blocked players. /blockchecker to configure.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/frenchpresssscoffee-blip/SmartBlock-",
+                "LastUpdate": 1772712530
             }
         ]
     },
@@ -4047,7 +4064,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1772623522
+                "LastUpdate": 1772695649
             }
         ]
     },
@@ -4124,6 +4141,23 @@
                 "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped",
                 "RepoUrl": "https://github.com/InitialDet/MinionRoulette",
                 "LastUpdate": 1771026718
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "InTheWind222",
+        "repo_url": "https://raw.githubusercontent.com/InTheWind222/SmartBlockCheccker/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/InTheWind222/SmartBlockCheccker",
+        "repo_name": "SmartBlockCheccker",
+        "plugins": [
+            {
+                "Author": "jungle",
+                "Name": "Smart Block Checker",
+                "InternalName": "SmartBlockChecker",
+                "Description": "Hooks UseAction to prevent casting and wasting GCDs on blocked players. Draws ESP circles on blocked players. /blockchecker to configure.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/InTheWind222/SmartBlockCheccker",
+                "LastUpdate": 1772716179
             }
         ]
     },
@@ -5818,7 +5852,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1772573803
+                "LastUpdate": 1772710447
             }
         ]
     },
@@ -5835,7 +5869,7 @@
                 "Description": "Automatically execute emotes when specific players are nearby. Configure distance thresholds, wait times, and repeat intervals. Perfect for roleplaying scenarios and automated greetings. Use /hfh to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
-                "LastUpdate": 1772471883
+                "LastUpdate": 1772710430
             }
         ]
     },
@@ -5852,7 +5886,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1772682926
+                "LastUpdate": 1772713805
             }
         ]
     },
@@ -5878,7 +5912,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1772573803
+                "LastUpdate": 1772710447
             },
             {
                 "Author": "DhogGPT",
@@ -5887,7 +5921,7 @@
                 "Description": "Configure emote responses that trigger when specific players are nearby. Perfect for passive RP automation. Use /hfh to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
-                "LastUpdate": 1772471883
+                "LastUpdate": 1772710430
             },
             {
                 "Author": "DhogGPT",
@@ -5896,7 +5930,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1772682926
+                "LastUpdate": 1772713805
             }
         ]
     },
@@ -6032,7 +6066,7 @@
                 "Description": "Alerts you before Gold Saucer GATE events with configurable per-GATE preferences, countdown overlay, and chat/toast notifications. Use /gate to toggle overlay, /gate config for settings.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/midnightnoon69/GateTimerPlugin",
-                "LastUpdate": 1772694496
+                "LastUpdate": 1772695593
             }
         ]
     },
@@ -8228,7 +8262,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1772623522
+                "LastUpdate": 1772695649
             },
             {
                 "Author": "Det, Taurenkey",
@@ -9701,7 +9735,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1772648384,
+                "LastUpdate": 1772698907,
                 "is_closed_source": true
             }
         ]
