@@ -2788,7 +2788,7 @@
                 "Description": "一个简单的绿色插件。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/blob/main/Plugins/latest.zip",
-                "LastUpdate": 1769890455,
+                "LastUpdate": 1772893897,
                 "is_closed_source": true
             }
         ]
@@ -4030,7 +4030,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1772828585
+                "LastUpdate": 1772879000
             }
         ]
     },
@@ -4775,6 +4775,32 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
                 "LastUpdate": 1771306312
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "KayrozDbs",
+        "repo_url": "https://raw.githubusercontent.com/KayrozDbs/KayRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/KayrozDbs/KayRepo",
+        "repo_name": "KayRepo",
+        "plugins": [
+            {
+                "Author": "Kay",
+                "Name": "KayArsenal",
+                "InternalName": "KayArsenal",
+                "Description": "Un plugin permettant de désynthétiser tous les équipements de votre inventaire et arsenal qui ne sont pas enregistrés dans un set d'équipement, en un seul clic.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KayrozDbs/KayArsenal",
+                "LastUpdate": 1772895366
+            },
+            {
+                "Author": "Kay",
+                "Name": "Kay Dps",
+                "InternalName": "KayDps",
+                "Description": "Affiche un overlay de performance en temps réel pendant les combats. Se connecte à IINACT via WebSocket pour parser les données. Commande: /kdps",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KayrozDbs/KayDpsMeter",
+                "LastUpdate": 1772895338
             }
         ]
     },
@@ -6348,7 +6374,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1772808933
+                "LastUpdate": 1772882421
             }
         ]
     },
@@ -8262,7 +8288,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1772828585
+                "LastUpdate": 1772879000
             },
             {
                 "Author": "Det, Taurenkey",
@@ -10218,6 +10244,23 @@
         ]
     },
     {
+        "repo_developer_name": "tancred423",
+        "repo_url": "https://raw.githubusercontent.com/tancred423/MitDisplay/master/repo.json",
+        "repo_source_url": "https://github.com/tancred423/MitDisplay",
+        "repo_name": "MitDisplay",
+        "plugins": [
+            {
+                "Author": "tancred423",
+                "Name": "MitDisplay",
+                "InternalName": "MitDisplay",
+                "Description": "Displays total physical and magical mitigation from active party buffs on you and debuffs on your current target. Use /mit to toggle the overlay.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/tancred423/MitDisplay",
+                "LastUpdate": 1772885426
+            }
+        ]
+    },
+    {
         "repo_url": "https://puni.sh/api/repository/taurenkey",
         "repo_source_url": "https://github.com/Taurenkey",
         "repo_name": "taurenkey",
@@ -10590,7 +10633,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1772442826
+                "LastUpdate": 1772874901
             }
         ]
     },
