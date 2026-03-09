@@ -38,7 +38,7 @@
                 "Description": "Boss mod.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1772942458
+                "LastUpdate": 1773018971
             },
             {
                 "Author": "ocealot",
@@ -1642,7 +1642,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1772865132
+                "LastUpdate": 1773017708
             },
             {
                 "Author": "Caraxi",
@@ -1952,7 +1952,7 @@
                 "Description": "Easy browsing, installing, and auto updating mods. Advanced automatic texture compositing. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
-                "LastUpdate": 1768091243
+                "LastUpdate": 1773008310
             },
             {
                 "Author": "Asgard, Minmoose and Contributors",
@@ -1988,7 +1988,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773007048
+                "LastUpdate": 1773013011
             },
             {
                 "Author": "CY",
@@ -2447,7 +2447,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1772833613
+                "LastUpdate": 1773014251
             }
         ]
     },
@@ -2653,7 +2653,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1772485818
+                "LastUpdate": 1773018837
             }
         ]
     },
@@ -2670,7 +2670,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1772485818
+                "LastUpdate": 1773018837
             }
         ]
     },
@@ -2990,7 +2990,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1772942458
+                "LastUpdate": 1773018971
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3035,7 +3035,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1772835781
+                "LastUpdate": 1773008526
             },
             {
                 "Author": "Churin",
@@ -3788,7 +3788,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773005405
+                "LastUpdate": 1773028679
             },
             {
                 "Author": "daemitus, croizat",
@@ -3832,6 +3832,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/hocng015/PFRemote-Repo",
                 "LastUpdate": 1772670544
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "hocng015",
+        "repo_url": "https://raw.githubusercontent.com/hocng015/QuickSwitch/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/hocng015/QuickSwitch",
+        "repo_name": "QuickSwitch",
+        "plugins": [
+            {
+                "Author": "Hoc",
+                "Name": "QuickSwitch",
+                "InternalName": "QuickSwitch",
+                "Description": "Detects your characters on login and lets you quickly switch between them with a single click. Supports both quick logout to character select and fully automated character switching. Features safety guards (cooldowns, confirmations, blocks during combat/duties/cutscenes/crafting/gathering), Discord bot integration for remote switching, and admin controls (whitelist/blacklist, force switch/logout, audit logging).",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/hocng015/QuickSwitch",
+                "LastUpdate": 1773011072
             }
         ]
     },
@@ -3927,7 +3944,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773005405
+                "LastUpdate": 1773028679
             },
             {
                 "Author": "daemitus, croizat",
@@ -5913,7 +5930,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1772860899
+                "LastUpdate": 1773026594
             }
         ]
     },
@@ -5947,7 +5964,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1773007181
+                "LastUpdate": 1773026581
             }
         ]
     },
@@ -5973,7 +5990,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1772860899
+                "LastUpdate": 1773026594
             },
             {
                 "Author": "DhogGPT",
@@ -5991,7 +6008,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1773007181
+                "LastUpdate": 1773026581
             }
         ]
     },
@@ -6195,7 +6212,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773007048
+                "LastUpdate": 1773013011
             }
         ]
     },
@@ -6549,7 +6566,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1772782914
+                "LastUpdate": 1773022381
             }
         ]
     },
@@ -7577,7 +7594,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773007048
+                "LastUpdate": 1773013011
             },
             {
                 "Author": "Caraxi",
@@ -8422,7 +8439,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773005405
+                "LastUpdate": 1773028679
             },
             {
                 "Author": "daemitus, kawaii",
@@ -8893,7 +8910,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773007048
+                "LastUpdate": 1773013011
             }
         ]
     },
@@ -8910,7 +8927,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773007048
+                "LastUpdate": 1773013011
             }
         ]
     },
@@ -9598,7 +9615,7 @@
                 "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
-                "LastUpdate": 1768091243
+                "LastUpdate": 1773008310
             }
         ]
     },
@@ -11406,7 +11423,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773007048
+                "LastUpdate": 1773013011
             }
         ]
     },
@@ -11917,7 +11934,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1772340752
+                "LastUpdate": 1773014565
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
