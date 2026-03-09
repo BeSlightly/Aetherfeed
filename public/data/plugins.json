@@ -141,6 +141,23 @@
         ]
     },
     {
+        "repo_developer_name": "aaronbcarlisle",
+        "repo_url": "https://raw.githubusercontent.com/aaronbcarlisle/XIVRaidPlannerPlugin/main/repo.json",
+        "repo_source_url": "https://github.com/aaronbcarlisle/XIVRaidPlannerPlugin",
+        "repo_name": "XIVRaidPlannerPlugin",
+        "plugins": [
+            {
+                "Author": "FFXIV Raid Planner",
+                "Name": "XIV Raid Planner",
+                "InternalName": "XIVRaidPlannerPlugin",
+                "Description": "Displays loot priority rankings during savage raids and auto-logs loot drops to your FFXIV Raid Planner static. Requires an API key from the web app.\n\nCommands:\n/xrp - Toggle priority overlay\n/xrp bis - Toggle BiS gear viewer\n/xrp sync - Sync equipped gear to web app\n/xrp config - Open configuration",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/aaronbcarlisle/XIVRaidPlannerPlugin",
+                "LastUpdate": 1773046327
+            }
+        ]
+    },
+    {
         "repo_developer_name": "aauukerochan",
         "repo_url": "https://raw.githubusercontent.com/aauukerochan/xivplugins/main/plugins.json",
         "repo_source_url": "https://github.com/aauukerochan/xivplugins",
@@ -716,7 +733,7 @@
                 "Description": "Generate and run macro actions quickly using a spotlight inspired interface",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anya-hichu/Quack",
-                "LastUpdate": 1772481971
+                "LastUpdate": 1773052594
             },
             {
                 "Author": "Anya Hichu",
@@ -3788,7 +3805,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773028679
+                "LastUpdate": 1773043770
             },
             {
                 "Author": "daemitus, croizat",
@@ -3944,7 +3961,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773028679
+                "LastUpdate": 1773043770
             },
             {
                 "Author": "daemitus, croizat",
@@ -4960,6 +4977,23 @@
         ]
     },
     {
+        "repo_developer_name": "KeiJoi",
+        "repo_url": "https://raw.githubusercontent.com/KeiJoi/venuestatusandgreet/main/latest/repo.json",
+        "repo_source_url": "https://github.com/KeiJoi/venuestatusandgreet",
+        "repo_name": "venuestatusandgreet",
+        "plugins": [
+            {
+                "Author": "Kay Joy",
+                "Name": "Venue Status and Greet",
+                "InternalName": "VenueStatusAndGreet",
+                "Description": "Tracks venue guests, greeting history, and nightly statistics with export support.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KeiJoi/venuestatusandgreet",
+                "LastUpdate": 1773034934
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/kelvin124124/CustomPlugins/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/kelvin124124/CustomPlugins",
         "repo_name": "CustomPlugins",
@@ -5171,7 +5205,7 @@
                 "Description": "海量自动化/易用性游戏系统优化模块合集, 帮你从一些无意义的重复性工作中解放出来\nA massive collection of automation / QoL optimization modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins",
-                "LastUpdate": 1772789791
+                "LastUpdate": 1773038109
             }
         ]
     },
@@ -5930,7 +5964,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1773026594
+                "LastUpdate": 1773035184
             }
         ]
     },
@@ -5990,7 +6024,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1773026594
+                "LastUpdate": 1773035184
             },
             {
                 "Author": "DhogGPT",
@@ -7763,7 +7797,7 @@
                 "Description": "Did I mention I'm a model? Export models to glTF format.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1766184215
+                "LastUpdate": 1773041516
             }
         ]
     },
@@ -8439,7 +8473,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773028679
+                "LastUpdate": 1773043770
             },
             {
                 "Author": "daemitus, kawaii",
@@ -9238,7 +9272,7 @@
                 "Description": "Tracks winning using Moodles.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rumia-moe/PatMeMoodles",
-                "LastUpdate": 1771839144
+                "LastUpdate": 1773033047
             },
             {
                 "Author": "rumia-moe",
@@ -9247,7 +9281,7 @@
                 "Description": "Display emote counters with the Moodles plugin.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rumia-moe/PatMeMoodles",
-                "LastUpdate": 1771839144
+                "LastUpdate": 1773033047
             }
         ]
     },
@@ -10645,7 +10679,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1773001790
+                "LastUpdate": 1773038248
             }
         ]
     },
@@ -10815,7 +10849,7 @@
                 "Description": "Relays chat to Discord via Webhook.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/DiscordChatWebhook",
-                "LastUpdate": 1772430487
+                "LastUpdate": 1773035427
             },
             {
                 "Author": "Vali",
@@ -10860,7 +10894,7 @@
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1772446897
+                "LastUpdate": 1773051182
             }
         ]
     },
@@ -11329,6 +11363,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/wolfcomp/BasedArtisanReleaseFix",
                 "LastUpdate": 1745588518
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "WondrousAJ",
+        "repo_url": "https://raw.githubusercontent.com/WondrousAJ/silly-lizard/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/WondrousAJ/silly-lizard",
+        "repo_name": "silly-lizard",
+        "plugins": [
+            {
+                "Author": "Oak",
+                "Name": "Silly Lizard",
+                "InternalName": "SillyLizard",
+                "Description": "This is a test plugin for learning about custom repositories.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/wondrousaj/silly-lizard",
+                "LastUpdate": 1773036742
             }
         ]
     },
