@@ -486,6 +486,32 @@
         ]
     },
     {
+        "repo_url": "https://github.com/AjisaiMirai/plugins/raw/main/repo.json",
+        "repo_source_url": "https://github.com/AjisaiMirai/plugins",
+        "repo_name": "plugins",
+        "repo_developer_name": "AjisaiMirai",
+        "plugins": [
+            {
+                "Author": "Nyssa",
+                "Name": "MiscPlugin",
+                "InternalName": "MiscPlugin",
+                "Description": "Just some stuff I wanted in plugin-form really.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/AjisaiMirai/MiscPlugin",
+                "LastUpdate": 1767871875
+            },
+            {
+                "Author": "Nyssa",
+                "Name": "Who Emoted At Me",
+                "InternalName": "WhoEmotedAtMe",
+                "Description": "Tracks who emoted at you and shows configurable on-screen notifications.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/AjisaiMirai/WhoEmotedAtMe",
+                "LastUpdate": 1767871875
+            }
+        ]
+    },
+    {
         "repo_url": "https://puni.sh/api/repository/akechi",
         "repo_source_url": "https://github.com/Akechi-kun/",
         "repo_developer_name": "Akechi-kun",
@@ -6460,7 +6486,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1772997066
+                "LastUpdate": 1773220650
             }
         ]
     },
@@ -8464,7 +8490,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1773170954
+                "LastUpdate": 1773228281
             },
             {
                 "Author": "Team Wrath",
@@ -9385,7 +9411,7 @@
                 "Description": "20250316-请支持逆光喵，谢谢喵-画得更全喵",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
-                "LastUpdate": 1772616739
+                "LastUpdate": 1773221629
             }
         ]
     },
@@ -9744,7 +9770,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1773170954
+                "LastUpdate": 1773228281
             }
         ]
     },
@@ -9893,12 +9919,21 @@
         "plugins": [
             {
                 "Author": "XSZYYS",
+                "Name": "XSZRemoteChatBridge",
+                "InternalName": "XSZRemoteChatBridge",
+                "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
+                "LastUpdate": 1773230538
+            },
+            {
+                "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1773154058,
+                "LastUpdate": 1773230538,
                 "is_closed_source": true
             }
         ]
@@ -11891,32 +11926,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zbee/Mappy",
                 "LastUpdate": 1767080867
-            }
-        ]
-    },
-    {
-        "repo_url": "https://raw.githubusercontent.com/Zeffuro/MyDalamudPlugins/master/repo.json",
-        "repo_source_url": "https://github.com/Zeffuro/MyDalamudPlugins",
-        "repo_developer_name": "Zeffuro",
-        "repo_name": "MyDalamudPlugins",
-        "plugins": [
-            {
-                "Author": "cultbaus",
-                "Name": "CBT",
-                "InternalName": "CBT",
-                "Description": "This plugin allows the configuration and customization of in-game flytext.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/cultbaus/CBT",
-                "LastUpdate": 1754868688
-            },
-            {
-                "Author": "Zeffuro",
-                "Name": "NativeMeters",
-                "InternalName": "NativeMeters",
-                "Description": "Native DPS Meters for Final Fantasy XIV, still in beta and may be subject to change.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Zeffuro/NativeMeters",
-                "LastUpdate": 1772782476
             }
         ]
     },
