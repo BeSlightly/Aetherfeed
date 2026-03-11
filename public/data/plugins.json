@@ -1302,7 +1302,7 @@
                 "Description": "Automates retainer item listing and repricing by cycling through retainers, reading market prices from Universalis, and updating listings safely. Use /repricer or /rr to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/baanderson40/Retainer-Repricer",
-                "LastUpdate": 1773181232
+                "LastUpdate": 1773240068
             }
         ]
     },
@@ -2022,7 +2022,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773181517
+                "LastUpdate": 1773246871
             },
             {
                 "Author": "CY",
@@ -3069,7 +3069,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1773140794
+                "LastUpdate": 1773251589
             },
             {
                 "Author": "Churin",
@@ -3734,7 +3734,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1773095668
+                "LastUpdate": 1773246662
             },
             {
                 "Author": "Haselnussbomber",
@@ -3743,7 +3743,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1772629933
+                "LastUpdate": 1773240650
             },
             {
                 "Author": "Haselnussbomber",
@@ -5375,7 +5375,7 @@
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1772619195
+                "LastUpdate": 1773247694
             },
             {
                 "Author": "Latihas",
@@ -5488,7 +5488,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1773105967
+                "LastUpdate": 1773245004
             }
         ]
     },
@@ -5947,7 +5947,24 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1772619195
+                "LastUpdate": 1773247694
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mcc1",
+        "repo_url": "https://raw.githubusercontent.com/mcc1/DalamudPlugins-zhTW/master/repo.json",
+        "repo_source_url": "https://github.com/mcc1/DalamudPlugins-zhTW",
+        "repo_name": "DalamudPlugins-zhTW",
+        "plugins": [
+            {
+                "Author": "кайт машина (Puni.sh)",
+                "Name": "AutoRetainer",
+                "InternalName": "AutoRetainer",
+                "Description": "躺在床上也能輕鬆收取並指派雇員探險。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/mcc1/AutoRetainer-zhTW",
+                "LastUpdate": 1773254491
             }
         ]
     },
@@ -6272,7 +6289,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773181517
+                "LastUpdate": 1773246871
             }
         ]
     },
@@ -7654,7 +7671,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773181517
+                "LastUpdate": 1773246871
             },
             {
                 "Author": "Caraxi",
@@ -8023,7 +8040,8 @@
                 "Description": "Use /holdem to open the window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
-                "LastUpdate": 1773156970
+                "LastUpdate": 1773156970,
+                "is_closed_source": true
             },
             {
                 "Author": "Pistachio Herald",
@@ -8349,7 +8367,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1772136699
+                "LastUpdate": 1773250445
             }
         ]
     },
@@ -8366,7 +8384,7 @@
                 "Description": "Chronofoil is a plugin that allows you to capture in-game packets for analysis later.\nIt also allows you to upload a censored version of these captures to a central repository for\npreservation and analysis. Privacy controls are at the center of Chronofoil, which is why it\nrequires two levels of user opt-in, has minimum delays on releasing any submitted user info,\nand allows users to delete their submitted data at any time.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ProjectChronofoil/Chronofoil.Plugin",
-                "LastUpdate": 1772554676
+                "LastUpdate": 1773253723
             }
         ]
     },
@@ -8970,7 +8988,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773181517
+                "LastUpdate": 1773246871
             }
         ]
     },
@@ -8987,7 +9005,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773181517
+                "LastUpdate": 1773246871
             }
         ]
     },
@@ -9213,7 +9231,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1769881802
+                "LastUpdate": 1773240619
             }
         ]
     },
@@ -9924,7 +9942,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1773230538
+                "LastUpdate": 1773237816
             },
             {
                 "Author": "XSZYYS",
@@ -9933,7 +9951,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1773230538,
+                "LastUpdate": 1773237816,
                 "is_closed_source": true
             }
         ]
@@ -11525,7 +11543,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773181517
+                "LastUpdate": 1773246871
             }
         ]
     },
@@ -11930,6 +11948,23 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/Zeffuro/MyDalamudPlugins/master/repo.json",
+        "repo_source_url": "https://github.com/Zeffuro/MyDalamudPlugins",
+        "repo_developer_name": "Zeffuro",
+        "repo_name": "MyDalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Zeffuro",
+                "Name": "NativeMeters",
+                "InternalName": "NativeMeters",
+                "Description": "Native DPS Meters for Final Fantasy XIV, still in beta and may be subject to change.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Zeffuro/NativeMeters",
+                "LastUpdate": 1772782476
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/zettiverse/DalamudRepo/raw/main/repo.json",
         "repo_source_url": "https://github.com/zettiverse/DalamudRepo",
         "repo_name": "DalamudRepo",
@@ -12007,7 +12042,7 @@
                 "Author": "Zune, Mangles, Potatoes",
                 "Name": "Game Chest",
                 "InternalName": "GameChest",
-                "Description": "The first and second rules of Fight Club are: you do not talk about Fight Club",
+                "Description": "A Dalamud plugin for Final Fantasy XIV that gives Game Masters a suite of roll-based and chat-based mini-games for use in roleplay events",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/GameChest",
                 "LastUpdate": 1773198552
