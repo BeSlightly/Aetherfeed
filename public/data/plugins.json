@@ -1550,7 +1550,7 @@
                 "Description": "SkipCutscene was taking too long to update, so here we are",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/BoxuChan/Skippy",
-                "LastUpdate": 1767977832
+                "LastUpdate": 1773259778
             }
         ]
     },
@@ -1567,7 +1567,7 @@
                 "Description": "Skip the Main Scenario Roulette Cutscenes so you can actually play the game!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/BoxuChan/Skippy",
-                "LastUpdate": 1767977832
+                "LastUpdate": 1773259778
             }
         ]
     },
@@ -1676,7 +1676,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1773209244
+                "LastUpdate": 1773276827
             },
             {
                 "Author": "Caraxi",
@@ -2299,7 +2299,7 @@
                 "Description": "Friend list but with better sorting, can search by name, refresh with a button, color names..\nRight click for context menu.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/devckuw/BetterFriendList",
-                "LastUpdate": 1772714759
+                "LastUpdate": 1773259951
             },
             {
                 "Author": "Loody",
@@ -5375,7 +5375,7 @@
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1773247694
+                "LastUpdate": 1773269379
             },
             {
                 "Author": "Latihas",
@@ -5676,7 +5676,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1769922861
+                "LastUpdate": 1773276721
             }
         ]
     },
@@ -5947,7 +5947,7 @@
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1773247694
+                "LastUpdate": 1773269379
             }
         ]
     },
@@ -5957,6 +5957,24 @@
         "repo_source_url": "https://github.com/mcc1/DalamudPlugins-zhTW",
         "repo_name": "DalamudPlugins-zhTW",
         "plugins": [
+            {
+                "Author": "Taurenkey (Puni.sh)",
+                "Name": "Artisan",
+                "InternalName": "Artisan",
+                "Description": "The all-in-one crafting plugin.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/mcc1/Artisan-zhTW",
+                "LastUpdate": 1773276082
+            },
+            {
+                "Author": "Taurenkey (Puni.sh)",
+                "Name": "Artisan Dev",
+                "InternalName": "ArtisanDev",
+                "Description": "Artisan 繁體中文測試版。此條目會追蹤固定更新的 dev prerelease。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/mcc1/Artisan-zhTW",
+                "LastUpdate": 1773276082
+            },
             {
                 "Author": "кайт машина (Puni.sh)",
                 "Name": "AutoRetainer",
@@ -6049,7 +6067,7 @@
                 "Description": "Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
-                "LastUpdate": 1772766729
+                "LastUpdate": 1773260998
             },
             {
                 "Author": "DhogGPT",
@@ -6085,7 +6103,7 @@
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1773205126
+                "LastUpdate": 1773273478
             }
         ]
     },
@@ -6615,7 +6633,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/tree/main/plugins/AutoOBSRecorder",
-                "LastUpdate": 1768998798,
+                "LastUpdate": 1773273341,
                 "is_closed_source": true
             },
             {
@@ -6643,7 +6661,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1773022381
+                "LastUpdate": 1773275228
             }
         ]
     },
@@ -6793,7 +6811,7 @@
                 "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1772865832
+                "LastUpdate": 1773276673
             },
             {
                 "Author": "NightmareXIV",
@@ -7626,7 +7644,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1769922861
+                "LastUpdate": 1773276721
             },
             {
                 "Author": "Ottermandias",
@@ -8384,7 +8402,7 @@
                 "Description": "Chronofoil is a plugin that allows you to capture in-game packets for analysis later.\nIt also allows you to upload a censored version of these captures to a central repository for\npreservation and analysis. Privacy controls are at the center of Chronofoil, which is why it\nrequires two levels of user opt-in, has minimum delays on releasing any submitted user info,\nand allows users to delete their submitted data at any time.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ProjectChronofoil/Chronofoil.Plugin",
-                "LastUpdate": 1773253723
+                "LastUpdate": 1773259351
             }
         ]
     },
@@ -9469,6 +9487,23 @@
     },
     {
         "repo_developer_name": "Sansflaire",
+        "repo_url": "https://raw.githubusercontent.com/Sansflaire/AutoReactFFXIV/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Sansflaire/AutoReactFFXIV",
+        "repo_name": "AutoReactFFXIV",
+        "plugins": [
+            {
+                "Author": "Sansflaire",
+                "Name": "Auto React",
+                "InternalName": "AutoReactFFXIV",
+                "Description": "Detects when an enemy Machinist uses Marksman's Spite on you and automatically uses Guard. Includes an Execute tab to coordinate your own Marksman's Spite with a teammate, with optional auto-Bravery sequencing.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Sansflaire/AutoReactFFXIV",
+                "LastUpdate": 1773276921
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Sansflaire",
         "repo_url": "https://raw.githubusercontent.com/Sansflaire/CraftQueue/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Sansflaire/CraftQueue",
         "repo_name": "CraftQueue",
@@ -9822,7 +9857,7 @@
                 "Description": "Automatically summons a minion on housing exteriors and dismisses it inside housing interiors or apartments. Main command: /autominion",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShiftyKiwi/Autominion",
-                "LastUpdate": 1772903266
+                "LastUpdate": 1773274194
             }
         ]
     },
@@ -9839,7 +9874,7 @@
                 "Description": "Automatically disables the GPose depth-of-field toggle on entry, then restores your previous graphics setting when you leave Group Pose.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShiftyKiwi/DisableDoF",
-                "LastUpdate": 1772994722
+                "LastUpdate": 1773270214
             }
         ]
     },
@@ -9856,7 +9891,7 @@
                 "Description": "Removes Teleport/Return cast time and minimizes the transition screen. Commands: /instanttp, /instanttp status, /instanttp debug.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShiftyKiwi/InstantTeleport",
-                "LastUpdate": 1772728399
+                "LastUpdate": 1773271571
             }
         ]
     },
@@ -9873,7 +9908,7 @@
                 "Description": "Draw arcane spreads and receive theatrical omen readings from Swami Sophie. Command: /swami",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShiftyKiwi/SwamiSophie",
-                "LastUpdate": 1772579628
+                "LastUpdate": 1773270519
             }
         ]
     },
@@ -10412,7 +10447,7 @@
                 "Description": "Displays total physical and magical mitigation from active party buffs on you and debuffs on your current target. Use /mit to toggle the overlay.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/tancred423/MitDisplay",
-                "LastUpdate": 1772885426
+                "LastUpdate": 1773263525
             }
         ]
     },
@@ -10732,7 +10767,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1773082389
+                "LastUpdate": 1773259498
             }
         ]
     },
@@ -11960,7 +11995,7 @@
                 "Description": "Native DPS Meters for Final Fantasy XIV, still in beta and may be subject to change.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Zeffuro/NativeMeters",
-                "LastUpdate": 1772782476
+                "LastUpdate": 1773264859
             }
         ]
     },
@@ -12045,7 +12080,7 @@
                 "Description": "A Dalamud plugin for Final Fantasy XIV that gives Game Masters a suite of roll-based and chat-based mini-games for use in roleplay events",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/GameChest",
-                "LastUpdate": 1773198552
+                "LastUpdate": 1773262747
             },
             {
                 "Author": "Zune",
@@ -12054,7 +12089,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1773147605
+                "LastUpdate": 1773274817
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
