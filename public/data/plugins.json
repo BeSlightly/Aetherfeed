@@ -1969,7 +1969,7 @@
                 "Description": "An inclusive and extensive custom status effect manager. Apply them to targets, group custom statuses with presets, or apply them under conditional events.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/CordeliaMist/Loci",
-                "LastUpdate": 1773380225
+                "LastUpdate": 1773429581
             }
         ]
     },
@@ -2073,7 +2073,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1773007073
+                "LastUpdate": 1773428289
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -2082,7 +2082,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773360880
+                "LastUpdate": 1773427571
             },
             {
                 "Author": "CY",
@@ -2359,7 +2359,7 @@
                 "Description": "Friend list but with better sorting, can search by name, refresh with a button, color names..\nRight click for context menu.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/devckuw/BetterFriendList",
-                "LastUpdate": 1773323196
+                "LastUpdate": 1773429523
             },
             {
                 "Author": "Loody",
@@ -2377,7 +2377,7 @@
                 "Description": "Discord / FFXIV bot to send msg from discord to the game",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/devckuw/DiscordBotFFXIV",
-                "LastUpdate": 1767449554
+                "LastUpdate": 1773431442
             },
             {
                 "Author": "Loody",
@@ -3228,7 +3228,7 @@
                 "Description": "Tracking number of nearby players in real-time with graphing and export abilities.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/flawedBliss/PopulationTracker",
-                "LastUpdate": 1767645635
+                "LastUpdate": 1773416250
             },
             {
                 "Author": "FlawedBliss",
@@ -3834,6 +3834,25 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/repo.json",
+        "repo_source_url": "https://git.heyitsmayo.com/MareMirror/client",
+        "repo_discord_url": "https://discord.gg/anatoli",
+        "repo_developer_name": "heyitsmayo",
+        "repo_name": "MareMirror",
+        "plugins": [
+            {
+                "Author": "mayo, lunar rain, irvine",
+                "Name": "Anatoli Iliou",
+                "InternalName": "AnatoliIliou",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
+                "LastUpdate": 1773292607,
+                "is_closed_source": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "HKazuki0818",
         "repo_url": "https://raw.githubusercontent.com/HKazuki0818/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/HKazuki0818/DalamudPlugins",
@@ -3882,7 +3901,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773406577
+                "LastUpdate": 1773428100
             },
             {
                 "Author": "daemitus, croizat",
@@ -4038,7 +4057,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773406577
+                "LastUpdate": 1773428100
             },
             {
                 "Author": "daemitus, croizat",
@@ -5192,6 +5211,32 @@
         ]
     },
     {
+        "repo_developer_name": "kk-triplesix",
+        "repo_url": "https://raw.githubusercontent.com/kk-triplesix/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/kk-triplesix/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "kk-triplesix",
+                "Name": "BMR (KK's Special)",
+                "InternalName": "BossModReborn",
+                "Description": "A bunch of utilities to simplify bosses.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/kk-triplesix/BossModRebornPrivate",
+                "LastUpdate": 1773415803
+            },
+            {
+                "Author": "kk-triplesix",
+                "Name": "RSR (KK's Special)",
+                "InternalName": "RotationSolver",
+                "Description": "Analyses combat information every frame and finds the best action.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
+                "LastUpdate": 1773417716
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Knack117",
         "repo_url": "https://raw.githubusercontent.com/Knack117/QuickTransfer/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Knack117/QuickTransfer",
@@ -5271,7 +5316,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1772995837
+                "LastUpdate": 1773427522
             }
         ]
     },
@@ -6031,7 +6076,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1773370795
+                "LastUpdate": 1773415671
             }
         ]
     },
@@ -6092,7 +6137,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1773370795
+                "LastUpdate": 1773415671
             },
             {
                 "Author": "DhogGPT",
@@ -6110,7 +6155,7 @@
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1773377762
+                "LastUpdate": 1773413030
             }
         ]
     },
@@ -6127,7 +6172,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1773377762
+                "LastUpdate": 1773413030
             }
         ]
     },
@@ -6331,7 +6376,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773360880
+                "LastUpdate": 1773427571
             }
         ]
     },
@@ -6381,7 +6426,7 @@
                 "Description": "A Dalamud plugin that automatically controls OBS recording during FFXIV encounters. Captures 30-second replay buffer before pulls and full encounter recordings. Requires OBS WebSocket v5 and IINACT. Use /pulltoobs or /pto to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Miu-B/PullToOBS",
-                "LastUpdate": 1773405764
+                "LastUpdate": 1773420184
             }
         ]
     },
@@ -6528,7 +6573,7 @@
                 "Description": "Kaleidoscope is a Dalamud plugin for Final Fantasy XIV that provides an overlay for tracking game information across multiple characters.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1773133262
+                "LastUpdate": 1773410465
             }
         ]
     },
@@ -7650,7 +7695,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1773007073
+                "LastUpdate": 1773428289
             }
         ]
     },
@@ -7694,7 +7739,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1773007073
+                "LastUpdate": 1773428289
             },
             {
                 "Author": "Anna",
@@ -7730,7 +7775,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773360880
+                "LastUpdate": 1773427571
             },
             {
                 "Author": "Caraxi",
@@ -8576,7 +8621,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773406577
+                "LastUpdate": 1773428100
             },
             {
                 "Author": "daemitus, kawaii",
@@ -9047,7 +9092,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773360880
+                "LastUpdate": 1773427571
             }
         ]
     },
@@ -9064,7 +9109,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773360880
+                "LastUpdate": 1773427571
             }
         ]
     },
@@ -9290,7 +9335,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1773352787
+                "LastUpdate": 1773431522
             }
         ]
     },
@@ -9864,7 +9909,7 @@
                 "Description": "Automatically summons a minion on housing exteriors and dismisses it inside housing interiors or apartments. Main command: /autominion",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShiftyKiwi/Autominion",
-                "LastUpdate": 1773274194
+                "LastUpdate": 1773420866
             }
         ]
     },
@@ -10227,14 +10272,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/spide-r/CCAnonymizer",
                 "LastUpdate": 1772631459
-            },
-            {
-                "Author": "spider",
-                "Name": "PvPAnnouncerForCoolPeople",
-                "InternalName": "PvPAnnouncerForCoolPeople",
-                "Description": "Alpha build for the 2 people that want to test the plugin early - don't run this with PvPAnnouncer or stuff will probably not work & ill be sad",
-                "DalamudApiLevel": 14,
-                "LastUpdate": 1773003665
             }
         ]
     },
@@ -10862,24 +10899,6 @@
         ]
     },
     {
-        "repo_url": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/repo.json",
-        "repo_source_url": "https://git.heyitsmayo.com/MareMirror/client",
-        "repo_discord_url": "https://discord.gg/anatoli",
-        "repo_developer_name": "Unknown Developer",
-        "repo_name": "repo",
-        "plugins": [
-            {
-                "Author": "mayo, lunar rain, irvine",
-                "Name": "Anatoli Iliou",
-                "InternalName": "AnatoliIliou",
-                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1773292607
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/pluginmaster.json",
         "repo_source_url": "https://github.com/UnknownX7/DalamudPluginRepo",
         "repo_name": "DalamudPluginRepo",
@@ -10962,7 +10981,7 @@
                 "Description": "Triggers random fullscreen Withered Foxy jumpscares during gameplay, inspired by Five Nights at Freddy's mods.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/FoxyJumpscare",
-                "LastUpdate": 1772201532
+                "LastUpdate": 1773410950
             },
             {
                 "Author": "Vali",
@@ -11585,7 +11604,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773360880
+                "LastUpdate": 1773427571
             }
         ]
     },
@@ -12096,7 +12115,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1773406810
+                "LastUpdate": 1773431169
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
