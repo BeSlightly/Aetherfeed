@@ -631,6 +631,49 @@
         ]
     },
     {
+        "repo_url": "https://plugins.anna.lgbt/",
+        "repo_source_url": "https://git.anna.lgbt/anna",
+        "repo_developer_name": "Anna",
+        "repo_name": "plugin_repo",
+        "plugins": [
+            {
+                "Author": "Anna",
+                "Name": "Mastercraft",
+                "InternalName": "Mastercraft",
+                "Description": "Mastercraft will handle your tedious crafting for you. Import rotations with\nspecific food and pot, then queue up all the crafts you need. Mastercraft\nautomatically refreshes food and pots as necessary, and it crafts faster than\na macro ever could!\n\n- Pauseable queue system for crafts\n- Byregot's protection on specialists with delineations (optional)\n- Skip quality actions when quality is already maxed (optional)\n- Macro importer\n- Pre-queue sanity checks (have stats, have gearset, have food, etc.)\n- Fastest possible crafting time\n- View all crafter gearset stats on one screen\n- Automatically switch job, use food/pot, start craft\n- Can use your computer (and to a lesser degree your game) while it runs",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://git.anna.lgbt/anna/Mastercraft",
+                "LastUpdate": 1770335041
+            },
+            {
+                "Author": "Anna",
+                "Name": "Nameplate Cast Bars",
+                "InternalName": "NameplateCastBars",
+                "Description": "Does what it says on the tin.",
+                "DalamudApiLevel": 14,
+                "LastUpdate": 1767397802
+            },
+            {
+                "Author": "anna",
+                "Name": "Party Damage",
+                "InternalName": "PartyDamage",
+                "Description": "Does what it says on the tin.\n\nREQUIRES THE ACT OVERLAYPLUGIN WEBSOCKET!\n\nIINACT uses the WebSocket by default, but you will need to enable it for\nnormal ACT. 127.0.0.1 port 10501 (the defaults)",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://git.anna.lgbt/anna/PartyDamage",
+                "LastUpdate": 1769463375
+            },
+            {
+                "Author": "Anna",
+                "Name": "Right There!",
+                "InternalName": "RightThere",
+                "Description": "Lets you place in-world pings on whatever's under your cursor. On controller,\npings your soft target or your hard target if you have no soft target.\n\nPings are automatically sent to and received from party members with the\nplugin installed.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://git.anna.lgbt/anna/RightThere",
+                "LastUpdate": 1766172912
+            }
+        ]
+    },
+    {
         "repo_developer_name": "anomek",
         "repo_url": "https://raw.githubusercontent.com/anomek/MyDalamudPlugins/master/pluginmaster.json",
         "repo_source_url": "https://github.com/anomek/MyDalamudPlugins",
@@ -1676,7 +1719,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1773298256
+                "LastUpdate": 1773363234
             },
             {
                 "Author": "Caraxi",
@@ -1914,6 +1957,23 @@
         ]
     },
     {
+        "repo_developer_name": "CordeliaMist",
+        "repo_url": "https://raw.githubusercontent.com/CordeliaMist/Loci/main/repo.json",
+        "repo_source_url": "https://github.com/CordeliaMist/Loci",
+        "repo_name": "Loci",
+        "plugins": [
+            {
+                "Author": "Cordelia, AndrielChaoti",
+                "Name": "Loci",
+                "InternalName": "Loci",
+                "Description": "An inclusive and extensive custom status effect manager. Apply them to targets, group custom statuses with presets, or apply them under conditional events.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/CordeliaMist/Loci",
+                "LastUpdate": 1773359890
+            }
+        ]
+    },
+    {
         "repo_developer_name": "crweul",
         "repo_url": "https://raw.githubusercontent.com/crweul/dalamud-plugins/main/repo.json",
         "repo_source_url": "https://github.com/crweul/dalamud-plugins",
@@ -2022,7 +2082,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773335741
+                "LastUpdate": 1773360880
             },
             {
                 "Author": "CY",
@@ -3734,7 +3794,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1773280588
+                "LastUpdate": 1773359690
             },
             {
                 "Author": "Haselnussbomber",
@@ -3822,7 +3882,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773333726
+                "LastUpdate": 1773353198
             },
             {
                 "Author": "daemitus, croizat",
@@ -3978,7 +4038,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773333726
+                "LastUpdate": 1773353198
             },
             {
                 "Author": "daemitus, croizat",
@@ -6015,7 +6075,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1773342137
+                "LastUpdate": 1773357079
             }
         ]
     },
@@ -6059,7 +6119,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1773342137
+                "LastUpdate": 1773357079
             },
             {
                 "Author": "DhogGPT",
@@ -6068,7 +6128,7 @@
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1773342113
+                "LastUpdate": 1773346880
             }
         ]
     },
@@ -6272,7 +6332,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773335741
+                "LastUpdate": 1773360880
             }
         ]
     },
@@ -6626,7 +6686,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1773295876
+                "LastUpdate": 1773355009
             }
         ]
     },
@@ -7654,7 +7714,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773335741
+                "LastUpdate": 1773360880
             },
             {
                 "Author": "Caraxi",
@@ -8033,7 +8093,7 @@
                 "Description": "A collection of of venue or casino games. Type /minig to start.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
-                "LastUpdate": 1773340207
+                "LastUpdate": 1773343403
             },
             {
                 "Author": "Pistachio Herald, based on Anna's Orange Guidance Tomestone",
@@ -8120,7 +8180,7 @@
                 "Description": "A collection of of venue or casino games. Type /minig to start.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
-                "LastUpdate": 1773340207
+                "LastUpdate": 1773343403
             }
         ]
     },
@@ -8500,7 +8560,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773333726
+                "LastUpdate": 1773353198
             },
             {
                 "Author": "daemitus, kawaii",
@@ -8971,7 +9031,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773335741
+                "LastUpdate": 1773360880
             }
         ]
     },
@@ -8988,7 +9048,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773335741
+                "LastUpdate": 1773360880
             }
         ]
     },
@@ -9214,7 +9274,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1773332613
+                "LastUpdate": 1773352787
             }
         ]
     },
@@ -10838,48 +10898,6 @@
         ]
     },
     {
-        "repo_url": "https://plugins.anna.lgbt/",
-        "repo_source_url": "https://git.anna.lgbt/anna",
-        "repo_developer_name": "Unknown Developer",
-        "repo_name": "Unknown Repo",
-        "plugins": [
-            {
-                "Author": "Anna",
-                "Name": "Mastercraft",
-                "InternalName": "Mastercraft",
-                "Description": "Mastercraft will handle your tedious crafting for you. Import rotations with\nspecific food and pot, then queue up all the crafts you need. Mastercraft\nautomatically refreshes food and pots as necessary, and it crafts faster than\na macro ever could!\n\n- Pauseable queue system for crafts\n- Byregot's protection on specialists with delineations (optional)\n- Skip quality actions when quality is already maxed (optional)\n- Macro importer\n- Pre-queue sanity checks (have stats, have gearset, have food, etc.)\n- Fastest possible crafting time\n- View all crafter gearset stats on one screen\n- Automatically switch job, use food/pot, start craft\n- Can use your computer (and to a lesser degree your game) while it runs",
-                "DalamudApiLevel": 14,
-                "LastUpdate": 1767111568
-            },
-            {
-                "Author": "Anna",
-                "Name": "Nameplate Cast Bars",
-                "InternalName": "NameplateCastBars",
-                "Description": "Does what it says on the tin.",
-                "DalamudApiLevel": 14,
-                "LastUpdate": 1767397802
-            },
-            {
-                "Author": "anna",
-                "Name": "Party Damage",
-                "InternalName": "PartyDamage",
-                "Description": "Does what it says on the tin.\n\nREQUIRES THE ACT OVERLAYPLUGIN WEBSOCKET!\n\nIINACT uses the WebSocket by default, but you will need to enable it for\nnormal ACT. 127.0.0.1 port 10501 (the defaults)",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://git.anna.lgbt/anna/PartyDamage",
-                "LastUpdate": 1769463375
-            },
-            {
-                "Author": "Anna",
-                "Name": "Right There!",
-                "InternalName": "RightThere",
-                "Description": "Lets you place in-world pings on whatever's under your cursor. On controller,\npings your soft target or your hard target if you have no soft target.\n\nPings are automatically sent to and received from party members with the\nplugin installed.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://git.anna.lgbt/anna/RightThere",
-                "LastUpdate": 1766172912
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/pluginmaster.json",
         "repo_source_url": "https://github.com/UnknownX7/DalamudPluginRepo",
         "repo_name": "DalamudPluginRepo",
@@ -11585,7 +11603,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773335741
+                "LastUpdate": 1773360880
             }
         ]
     },
@@ -12096,7 +12114,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1773279538
+                "LastUpdate": 1773343940
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
