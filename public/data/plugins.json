@@ -3803,7 +3803,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1773240650
+                "LastUpdate": 1773409602
             },
             {
                 "Author": "Haselnussbomber",
@@ -3882,7 +3882,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773353198
+                "LastUpdate": 1773406577
             },
             {
                 "Author": "daemitus, croizat",
@@ -4038,7 +4038,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773353198
+                "LastUpdate": 1773406577
             },
             {
                 "Author": "daemitus, croizat",
@@ -4903,50 +4903,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
                 "LastUpdate": 1771306312
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "KayrozDbs",
-        "repo_url": "https://raw.githubusercontent.com/KayrozDbs/KayRepo/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/KayrozDbs/KayRepo",
-        "repo_name": "KayRepo",
-        "plugins": [
-            {
-                "Author": "Kay",
-                "Name": "KayArsenal",
-                "InternalName": "KayArsenal",
-                "Description": "KayArsenal is a Dalamud plugin for Final Fantasy XIV designed to automate and optimize inventory desynthesis (recycling). Save time and manage your resources with style.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/KayrozDbs/KayArsenal",
-                "LastUpdate": 1772901526
-            },
-            {
-                "Author": "Kay",
-                "Name": "KayDeath",
-                "InternalName": "KayDeath",
-                "Description": "Detailed death recap for you and your party members. Track damage events, killing blows, and unused defensive cooldowns for yourself and your party members with a sleek, localized UI.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/KayrozDbs/KayDeath",
-                "LastUpdate": 1773090602
-            },
-            {
-                "Author": "Kay",
-                "Name": "Kay Dps",
-                "InternalName": "KayDps",
-                "Description": "Kay Dps is a premium performance (DPS/HPS) overlay for Final Fantasy XIV, designed to blend perfectly with the Dalamud interface.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/KayrozDbs/KayDpsMeter",
-                "LastUpdate": 1772901520
-            },
-            {
-                "Author": "Kay",
-                "Name": "KaySquadron",
-                "InternalName": "KaySquadron",
-                "Description": "KaySquadron is a Dalamud plugin for Final Fantasy XIV designed to help you manage and optimize your Grand Company Squadron training.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/KayrozDbs/KaySquadron",
-                "LastUpdate": 1772952658
             }
         ]
     },
@@ -6409,6 +6365,23 @@
                 "Description": "Thank you to a08381 for the original cutscene skip plugin https://github.com/a08381/Dalamud.SkipCutscene",
                 "RepoUrl": "https://github.com/MisterCatt/Working-ffxiv-pluginTemplate",
                 "LastUpdate": 1720565530
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Miu-B",
+        "repo_url": "https://raw.githubusercontent.com/Miu-B/PullToOBS/master/repo.json",
+        "repo_source_url": "https://github.com/Miu-B/PullToOBS",
+        "repo_name": "PullToOBS",
+        "plugins": [
+            {
+                "Author": "Miu-B",
+                "Name": "PullToOBS",
+                "InternalName": "PullToOBS",
+                "Description": "A Dalamud plugin that automatically controls OBS recording during FFXIV encounters. Captures 30-second replay buffer before pulls and full encounter recordings. Requires OBS WebSocket v5 and IINACT. Use /pulltoobs or /pto to configure.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Miu-B/PullToOBS",
+                "LastUpdate": 1773405764
             }
         ]
     },
@@ -8576,7 +8549,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1773303456
+                "LastUpdate": 1773397388
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -8603,7 +8576,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773353198
+                "LastUpdate": 1773406577
             },
             {
                 "Author": "daemitus, kawaii",
@@ -10584,7 +10557,7 @@
                 "Description": "Integration for Pishock and OpenShock devices.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
-                "LastUpdate": 1769025534
+                "LastUpdate": 1773390955
             }
         ]
     },
@@ -12123,7 +12096,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1773366227
+                "LastUpdate": 1773406810
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
