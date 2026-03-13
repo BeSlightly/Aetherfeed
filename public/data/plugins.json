@@ -1719,7 +1719,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1773363234
+                "LastUpdate": 1773367404
             },
             {
                 "Author": "Caraxi",
@@ -1969,7 +1969,7 @@
                 "Description": "An inclusive and extensive custom status effect manager. Apply them to targets, group custom statuses with presets, or apply them under conditional events.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/CordeliaMist/Loci",
-                "LastUpdate": 1773359890
+                "LastUpdate": 1773380225
             }
         ]
     },
@@ -4098,7 +4098,7 @@
                 "Description": "แปลภาษา FFXIV เป็นไทยแบบ real-time ผ่าน Gemini AI - Real-time FFXIV translation with advanced character database and Netflix-quality localization. Features elegant UI with auto-show/hide, full customization (size, colors), and seamless gameplay integration.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/iarcanar/MBB_Dalamud",
-                "LastUpdate": 1773324480
+                "LastUpdate": 1773366549
             }
         ]
     },
@@ -6075,7 +6075,24 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1773357079
+                "LastUpdate": 1773370795
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "McVaxius",
+        "repo_url": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/repo.json",
+        "repo_source_url": "https://github.com/McVaxius/MOGTOME",
+        "repo_name": "MOGTOME",
+        "plugins": [
+            {
+                "Author": "DhogGPT",
+                "Name": "MOGTOME",
+                "InternalName": "MOGTOME",
+                "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/MOGTOME",
+                "LastUpdate": 1773371556
             }
         ]
     },
@@ -6119,7 +6136,16 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1773357079
+                "LastUpdate": 1773370795
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "MOGTOME",
+                "InternalName": "MOGTOME",
+                "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/MOGTOME",
+                "LastUpdate": 1773371556
             },
             {
                 "Author": "DhogGPT",
@@ -6128,7 +6154,24 @@
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1773346880
+                "LastUpdate": 1773377762
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "McVaxius",
+        "repo_url": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/repo.json",
+        "repo_source_url": "https://github.com/McVaxius/VERMAXION",
+        "repo_name": "VERMAXION",
+        "plugins": [
+            {
+                "Author": "DhogGPT",
+                "Name": "VerMAXion",
+                "InternalName": "VERMAXION",
+                "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/VERMAXION",
+                "LastUpdate": 1773377762
             }
         ]
     },
@@ -9523,41 +9566,7 @@
                 "Description": "Detects when an enemy Machinist uses Marksman's Spite on you and automatically uses Guard. Includes an Execute tab to coordinate your own Marksman's Spite with a teammate, with optional auto-Bravery sequencing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sansflaire/AutoReactFFXIV",
-                "LastUpdate": 1773278399
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Sansflaire",
-        "repo_url": "https://raw.githubusercontent.com/Sansflaire/CraftQueue/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Sansflaire/CraftQueue",
-        "repo_name": "CraftQueue",
-        "plugins": [
-            {
-                "Author": "Sansflaire",
-                "Name": "Craft Queue",
-                "InternalName": "CraftQueue",
-                "Description": "Craft Queue lets you browse recipes from the crafting log, add them to a personal queue with quantities and material preferences, organize them, then send them to Artisan for automated execution. It is the shopping list to Artisan's cook.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Sansflaire/CraftQueue",
-                "LastUpdate": 1771903030
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Sansflaire",
-        "repo_url": "https://raw.githubusercontent.com/Sansflaire/DanceLibraryFFXIV/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Sansflaire/DanceLibraryFFXIV",
-        "repo_name": "DanceLibraryFFXIV",
-        "plugins": [
-            {
-                "Author": "Sansflaire",
-                "Name": "Dance Library",
-                "InternalName": "DanceLibraryFFXIV",
-                "Description": "Scans your Penumbra mod library for mods that override emote animations. Organizes dance emotes in one tab and other emotes in another. Click any entry to temporarily activate the mod with high priority and automatically perform the emote. Includes a settings editor for mods with configurable options.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Sansflaire/DanceLibraryFFXIV",
-                "LastUpdate": 1771902398
+                "LastUpdate": 1773382045
             }
         ]
     },
@@ -12114,7 +12123,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1773343940
+                "LastUpdate": 1773366227
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
