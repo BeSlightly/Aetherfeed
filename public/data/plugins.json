@@ -326,7 +326,7 @@
                 "Description": "Connect to an Adventure Machine server to manage characters, worlds, and live roleplay sessions with AI dungeon master support. Auto-populates character data from your current FFXIV game state.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/adventuremachine/dalamud-repo",
-                "LastUpdate": 1773542886
+                "LastUpdate": 1773560303
             }
         ]
     },
@@ -922,7 +922,7 @@
                 "Description": "A simple plugin that lets you play any game emote, whether you unlocked it or not.\nClient side only.\nJust type the emote command as you would normally.\nWorks with custom animations and syncable over Mare.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
-                "LastUpdate": 1769273989
+                "LastUpdate": 1773566376
             }
         ]
     },
@@ -1118,7 +1118,7 @@
                 "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
-                "LastUpdate": 1770942272
+                "LastUpdate": 1773561447
             },
             {
                 "Author": "Haselnussbomber",
@@ -3872,7 +3872,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1773543270,
+                "LastUpdate": 1773561603,
                 "is_closed_source": true
             }
         ]
@@ -3926,7 +3926,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773528714
+                "LastUpdate": 1773562419
             },
             {
                 "Author": "daemitus, croizat",
@@ -4082,7 +4082,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773528714
+                "LastUpdate": 1773562419
             },
             {
                 "Author": "daemitus, croizat",
@@ -4951,6 +4951,50 @@
         ]
     },
     {
+        "repo_developer_name": "KayrozDbs",
+        "repo_url": "https://raw.githubusercontent.com/KayrozDbs/KayRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/KayrozDbs/KayRepo",
+        "repo_name": "KayRepo",
+        "plugins": [
+            {
+                "Author": "Kay",
+                "Name": "KayArsenal",
+                "InternalName": "KayArsenal",
+                "Description": "Un plugin permettant de désynthétiser tous les équipements de votre inventaire et arsenal qui ne sont pas enregistrés dans un set d'équipement, en un seul clic.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KayrozDbs/KayArsenal",
+                "LastUpdate": 1772901526
+            },
+            {
+                "Author": "Kay",
+                "Name": "KayDeath",
+                "InternalName": "KayDeath",
+                "Description": "Detailed death recap for you and your party members. Track damage events, killing blows, and unused defensive cooldowns for yourself and your party members with a sleek, localized UI.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KayrozDbs/KayDeath",
+                "LastUpdate": 1773090602
+            },
+            {
+                "Author": "Kay",
+                "Name": "Kay Dps",
+                "InternalName": "KayDps",
+                "Description": "Affiche un overlay de performance en temps réel pendant les combats. Se connecte à IINACT via WebSocket pour parser les données. Commande: /kdps",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KayrozDbs/KayDpsMeter",
+                "LastUpdate": 1772901520
+            },
+            {
+                "Author": "Kay",
+                "Name": "KaySquadron",
+                "InternalName": "KaySquadron",
+                "Description": "Grand Company (GC) Squadron Optimizer. Calculates attributes, success chances, and training recommendations for your barracks.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KayrozDbs/KaySquadron",
+                "LastUpdate": 1773477836
+            }
+        ]
+    },
+    {
         "repo_developer_name": "kazukicorp",
         "repo_url": "https://raw.githubusercontent.com/kazukicorp/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/kazukicorp/DalamudPlugins",
@@ -5341,7 +5385,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1773517064
+                "LastUpdate": 1773563424
             }
         ]
     },
@@ -6118,7 +6162,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1773542154
+                "LastUpdate": 1773545463
             }
         ]
     },
@@ -6171,7 +6215,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1773542154
+                "LastUpdate": 1773545463
             },
             {
                 "Author": "DhogGPT",
@@ -6772,7 +6816,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1773531920
+                "LastUpdate": 1773553917
             }
         ]
     },
@@ -7207,7 +7251,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1773481362,
+                "LastUpdate": 1773548501,
                 "is_closed_source": true
             },
             {
@@ -7217,7 +7261,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1773481362,
+                "LastUpdate": 1773548501,
                 "is_closed_source": true
             },
             {
@@ -7227,7 +7271,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1773481362,
+                "LastUpdate": 1773548501,
                 "is_closed_source": true
             },
             {
@@ -8496,7 +8540,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1773250445
+                "LastUpdate": 1773558600
             }
         ]
     },
@@ -8646,7 +8690,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773528714
+                "LastUpdate": 1773562419
             },
             {
                 "Author": "daemitus, kawaii",
@@ -8869,7 +8913,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1773303295
+                "LastUpdate": 1773559064
             }
         ]
     },
@@ -10021,7 +10065,7 @@
                 "Description": "Removes Teleport/Return cast time and minimizes the transition screen. Commands: /instanttp, /instanttp status, /instanttp debug.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShiftyKiwi/InstantTeleport",
-                "LastUpdate": 1773290777
+                "LastUpdate": 1773559950
             }
         ]
     },
@@ -10812,7 +10856,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1770033992
+                "LastUpdate": 1773553103
             }
         ]
     },
