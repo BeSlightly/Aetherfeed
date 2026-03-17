@@ -1664,6 +1664,23 @@
         ]
     },
     {
+        "repo_developer_name": "Brolijah",
+        "repo_url": "https://raw.githubusercontent.com/Brolijah/DalamudPluginRepo/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/Brolijah/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "Brolijah",
+                "Name": "SimpleTriggers",
+                "InternalName": "SimpleTriggers",
+                "Description": "This plugin allows you to create custom responses to in-game messages.\nOptions include responding through in-game chat, in-game sound effects, and even Text-to-Speech.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Brolijah/SimpleTriggers",
+                "LastUpdate": 1773746416
+            }
+        ]
+    },
+    {
         "repo_developer_name": "bunnycou",
         "repo_url": "https://raw.githubusercontent.com/bunnycou/MSQTrackerFFXIV/main/repo.json",
         "repo_source_url": "https://github.com/bunnycou/MSQTrackerFFXIV",
@@ -5394,7 +5411,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1773724077
+                "LastUpdate": 1773744569
             }
         ]
     },
@@ -6233,7 +6250,7 @@
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1773703328
+                "LastUpdate": 1773742746
             }
         ]
     },
@@ -6250,7 +6267,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1773703328
+                "LastUpdate": 1773742746
             }
         ]
     },
@@ -9726,7 +9743,7 @@
                 "Description": "Places a virtual screen in 3D world space that displays images and video with proper depth testing. Supports local files, direct URLs, YouTube (via yt-dlp), and multi-player sync so all players with the plugin see the same content simultaneously.\n\nNote: yt-dlp.exe must be placed in the plugin folder for YouTube support.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sansflaire/FFXIV-TV",
-                "LastUpdate": 1773619398
+                "LastUpdate": 1773743736
             }
         ]
     },
@@ -12172,7 +12189,7 @@
                 "Description": "Native DPS Meters for Final Fantasy XIV, still in beta and may be subject to change.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Zeffuro/NativeMeters",
-                "LastUpdate": 1773581149
+                "LastUpdate": 1773744338
             }
         ]
     },
