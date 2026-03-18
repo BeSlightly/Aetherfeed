@@ -695,7 +695,7 @@
                 "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
-                "LastUpdate": 1773816180
+                "LastUpdate": 1773824105
             }
         ]
     },
@@ -3127,7 +3127,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1773722632
+                "LastUpdate": 1773819259
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3136,7 +3136,7 @@
                 "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1773796214
+                "LastUpdate": 1773835189
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -8692,7 +8692,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1773692289
+                "LastUpdate": 1773820915
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -9752,7 +9752,7 @@
                 "Description": "Places a virtual screen in 3D world space that displays images and video with proper depth testing. Supports local files, direct URLs, YouTube (via yt-dlp), and multi-player sync so all players with the plugin see the same content simultaneously.\n\nNote: yt-dlp.exe must be placed in the plugin folder for YouTube support.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sansflaire/FFXIV-TV",
-                "LastUpdate": 1773814613
+                "LastUpdate": 1773817749
             }
         ]
     },
@@ -10197,7 +10197,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1773816198
+                "LastUpdate": 1773828531
             },
             {
                 "Author": "XSZYYS",
@@ -10206,7 +10206,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1773816198,
+                "LastUpdate": 1773828531,
                 "is_closed_source": true
             }
         ]
@@ -10967,6 +10967,23 @@
         ]
     },
     {
+        "repo_developer_name": "twelvehouse",
+        "repo_url": "https://raw.githubusercontent.com/twelvehouse/ChatAnywhere/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/twelvehouse/ChatAnywhere",
+        "repo_name": "ChatAnywhere",
+        "plugins": [
+            {
+                "Author": "twelvehouse",
+                "Name": "ChatAnywhere",
+                "InternalName": "ChatAnywhere",
+                "Description": "Host your chat on a web server so you can talk from anywhere.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/twelvehouse/ChatAnywhere",
+                "LastUpdate": 1773835485
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Tykku",
         "repo_url": "https://raw.githubusercontent.com/Tykku/ToshiBox/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Tykku/ToshiBox",
@@ -10979,7 +10996,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1773805773
+                "LastUpdate": 1773838804
             }
         ]
     },
