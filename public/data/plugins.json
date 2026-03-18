@@ -481,7 +481,7 @@
                 "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1771815258
+                "LastUpdate": 1773841253
             }
         ]
     },
@@ -1676,7 +1676,7 @@
                 "Description": "This plugin allows you to create custom responses to in-game messages.\nOptions include responding through in-game chat, in-game sound effects, and even Text-to-Speech.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Brolijah/SimpleTriggers",
-                "LastUpdate": 1773753014
+                "LastUpdate": 1773852888
             }
         ]
     },
@@ -2081,7 +2081,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1773704840
+                "LastUpdate": 1773854349
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -2090,7 +2090,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773700191
+                "LastUpdate": 1773854178
             },
             {
                 "Author": "CY",
@@ -2985,7 +2985,7 @@
                 "Description": "一个用于分析游戏内网络包详细内容的Debug工具，更推荐开发人员使用。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/extrant/FFXIVNetworkPacketAnalysisTool",
-                "LastUpdate": 1766671848
+                "LastUpdate": 1773844279
             },
             {
                 "Author": "Siren",
@@ -4262,7 +4262,7 @@
                 "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1771815258
+                "LastUpdate": 1773841253
             }
         ]
     },
@@ -4389,7 +4389,7 @@
                 "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1771815258
+                "LastUpdate": 1773841253
             }
         ]
     },
@@ -5549,7 +5549,7 @@
                 "Description": "陆行鸟竞赛自动化",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/LatihasChocobo",
-                "LastUpdate": 1771404657
+                "LastUpdate": 1773845018
             },
             {
                 "Author": "Latihas",
@@ -6163,7 +6163,7 @@
                 "Description": "Automatically execute emotes when specific players are nearby. Configure distance thresholds, wait times, and repeat intervals. Perfect for roleplaying scenarios and automated greetings. Use /hfh to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
-                "LastUpdate": 1773788950
+                "LastUpdate": 1773851291
             }
         ]
     },
@@ -6232,7 +6232,7 @@
                 "Description": "Configure emote responses that trigger when specific players are nearby. Perfect for passive RP automation. Use /hfh to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
-                "LastUpdate": 1773788950
+                "LastUpdate": 1773851291
             },
             {
                 "Author": "DhogGPT",
@@ -6480,7 +6480,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773700191
+                "LastUpdate": 1773854178
             }
         ]
     },
@@ -6677,7 +6677,7 @@
                 "Description": "Kaleidoscope is a Dalamud plugin for Final Fantasy XIV that provides an overlay for tracking game information across multiple characters.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1773776743
+                "LastUpdate": 1773845771
             }
         ]
     },
@@ -6729,6 +6729,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/MusicalPanini/PaninisXIVPluginDump",
                 "LastUpdate": 1752303010
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NalaPraline",
+        "repo_url": "https://raw.githubusercontent.com/NalaPraline/NalaDJTracker/main/docs/pluginmaster.json",
+        "repo_source_url": "https://github.com/NalaPraline/NalaDJTracker",
+        "repo_name": "NalaDJTracker",
+        "plugins": [
+            {
+                "Author": "Nala Praline",
+                "Name": "DJ Tracker",
+                "InternalName": "SamplePlugin",
+                "Description": "A Dalamud plugin to track your favorite Twitch DJs and set up an automated shout schedule directly from FFXIV.\n\nCommands:\n/dj - Open the DJ Tracker window\n/djschedule - Open the Scheduler\n/djconfig - Open configuration",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NalaPraline/NalaDJTracker",
+                "LastUpdate": 1772737705
             }
         ]
     },
@@ -6869,6 +6886,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/IAmReady",
                 "LastUpdate": 1772317940
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Neprena",
+        "repo_url": "https://raw.githubusercontent.com/Neprena/eorzea-events-plugin/main/repo.json",
+        "repo_source_url": "https://github.com/Neprena/eorzea-events-plugin",
+        "repo_name": "eorzea-events-plugin",
+        "plugins": [
+            {
+                "Author": "Neprena",
+                "Name": "Eorzea Events",
+                "InternalName": "EorzeaEventsPlugin",
+                "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
+                "LastUpdate": 1773852468
             }
         ]
     },
@@ -7782,7 +7816,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1773704840
+                "LastUpdate": 1773854349
             }
         ]
     },
@@ -7826,7 +7860,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1773704840
+                "LastUpdate": 1773854349
             },
             {
                 "Author": "Anna",
@@ -7862,7 +7896,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773700191
+                "LastUpdate": 1773854178
             },
             {
                 "Author": "Caraxi",
@@ -9190,7 +9224,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773700191
+                "LastUpdate": 1773854178
             }
         ]
     },
@@ -9207,7 +9241,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773700191
+                "LastUpdate": 1773854178
             }
         ]
     },
@@ -9277,7 +9311,7 @@
                 "Description": "A TTS Plugin that breaks the silence! For self hosted AllTalk instance. /ek",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
-                "LastUpdate": 1773801677
+                "LastUpdate": 1773856251
             },
             {
                 "Author": "RenNagasaki",
@@ -9486,7 +9520,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1773807296
+                "LastUpdate": 1773841789
             }
         ]
     },
@@ -10197,7 +10231,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1773828531
+                "LastUpdate": 1773842311
             },
             {
                 "Author": "XSZYYS",
@@ -10206,7 +10240,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1773828531,
+                "LastUpdate": 1773842311,
                 "is_closed_source": true
             }
         ]
@@ -10762,7 +10796,7 @@
                 "Description": "Integration for Pishock and OpenShock devices.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
-                "LastUpdate": 1773390955
+                "LastUpdate": 1773838994
             }
         ]
     },
@@ -10979,7 +11013,7 @@
                 "Description": "Host your chat on a web server so you can talk from anywhere.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/twelvehouse/ChatAnywhere",
-                "LastUpdate": 1773835485
+                "LastUpdate": 1773859816
             }
         ]
     },
@@ -10996,7 +11030,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1773838804
+                "LastUpdate": 1773846368
             }
         ]
     },
@@ -11748,7 +11782,7 @@
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1773785152
+                "LastUpdate": 1773861201
             }
         ]
     },
@@ -11798,7 +11832,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1773700191
+                "LastUpdate": 1773854178
             }
         ]
     },
@@ -12309,7 +12343,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1773768809
+                "LastUpdate": 1773845730
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
