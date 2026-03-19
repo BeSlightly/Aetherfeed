@@ -1676,7 +1676,7 @@
                 "Description": "This plugin allows you to create custom responses to in-game messages.\nOptions include responding through in-game chat, in-game sound effects, and even Text-to-Speech.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Brolijah/SimpleTriggers",
-                "LastUpdate": 1773891652
+                "LastUpdate": 1773950382
             }
         ]
     },
@@ -3049,7 +3049,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1770782414
+                "LastUpdate": 1773947236
             }
         ]
     },
@@ -3086,97 +3086,6 @@
                 "LastUpdate": 1773591796
             }
         ]
-    },
-    {
-        "repo_name": "CombatReborn",
-        "repo_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo",
-        "repo_discord_url": "https://discord.gg/p54TZMPnC9",
-        "plugins": [
-            {
-                "Author": "The Combat Reborn Team",
-                "Name": "ActionTimeline Reborn",
-                "InternalName": "ActionTimelineReborn",
-                "Description": "Configurable timeline display of all the actions you use.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn",
-                "LastUpdate": 1773647067
-            },
-            {
-                "Author": "The Combat Reborn Team",
-                "Name": "BossMod Reborn",
-                "InternalName": "BossModReborn",
-                "Description": "A bunch of utilities to simplify boss mechanics",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1773883124
-            },
-            {
-                "Author": "The Combat Reborn Team",
-                "Name": "EasyZoom Reborn",
-                "InternalName": "EasyZoomReborn",
-                "Description": "Easy zoom distance unlock and fov control. /ez opens the EasyZoomReborn configuration window.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn",
-                "LastUpdate": 1773646888
-            },
-            {
-                "Author": "The Combat Reborn Team",
-                "Name": "GatherBuddy Reborn",
-                "InternalName": "GatherbuddyReborn",
-                "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1773904036
-            },
-            {
-                "Author": "The Combat Reborn Team",
-                "Name": "Passport Checker Reborn",
-                "InternalName": "PassportCheckerReborn",
-                "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1773879415
-            },
-            {
-                "Author": "The Combat Reborn Team",
-                "Name": "Reborn Toolbox",
-                "InternalName": "RebornToolbox",
-                "Description": "Various tweaks and features provided by the Combat Reborn team that don't need their own plugin",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/FFXIV-CombatReborn/RebornToolbox",
-                "LastUpdate": 1750262013
-            },
-            {
-                "Author": "The Combat Reborn Team",
-                "Name": "Rotation Solver Reborn",
-                "InternalName": "RotationSolver",
-                "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1773703079
-            },
-            {
-                "Author": "Churin",
-                "Name": "Understudy",
-                "InternalName": "Understudy",
-                "Description": "Tracks weekly raid lockout, tomestones, gear, and other miscellaneous things.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/aventurescence/Understudy",
-                "LastUpdate": 1772668552
-            },
-            {
-                "Author": "The Combat Reborn Team",
-                "Name": "ZodiacBuddy Reborn",
-                "InternalName": "ZodiacBuddyReborn",
-                "Description": "Automates various steps of the ARR Relic Quests",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn",
-                "LastUpdate": 1773493104
-            }
-        ],
-        "repo_developer_name": "FFXIV-CombatReborn",
-        "is_allowed_mega_repo": true
     },
     {
         "repo_url": "https://github.com/FFXIV-Sonar/SonarRepo/raw/main/pluginmaster.json",
@@ -3906,7 +3815,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1773575469,
+                "LastUpdate": 1773937851,
                 "is_closed_source": true
             }
         ]
@@ -5093,7 +5002,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1770782414
+                "LastUpdate": 1773947236
             }
         ]
     },
@@ -5335,7 +5244,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/BossModRebornPrivate",
-                "LastUpdate": 1773910758
+                "LastUpdate": 1773940529
             },
             {
                 "Author": "kk-triplesix",
@@ -5344,7 +5253,7 @@
                 "Description": "Your friendly quest companion for FFXIV.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/QuestieBestie",
-                "LastUpdate": 1773614731
+                "LastUpdate": 1773947564
             },
             {
                 "Author": "kk-triplesix",
@@ -5353,7 +5262,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1773709762
+                "LastUpdate": 1773947405
             }
         ]
     },
@@ -5437,7 +5346,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1773769423
+                "LastUpdate": 1773949350
             }
         ]
     },
@@ -6276,7 +6185,7 @@
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1773925298
+                "LastUpdate": 1773932563
             }
         ]
     },
@@ -6293,7 +6202,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1773925298
+                "LastUpdate": 1773932563
             }
         ]
     },
@@ -6547,7 +6456,7 @@
                 "Description": "A Dalamud plugin that automatically controls OBS recording during FFXIV encounters. Captures 30-second replay buffer before pulls and full encounter recordings. Requires OBS WebSocket v5 and IINACT. Use /pulltoobs or /pto to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Miu-B/PullToOBS",
-                "LastUpdate": 1773766390
+                "LastUpdate": 1773933320
             }
         ]
     },
@@ -8620,7 +8529,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1773809202
+                "LastUpdate": 1773942143
             }
         ]
     },
@@ -9112,7 +9021,7 @@
                 "Description": "Adds a window with an async-searchable list of all mobs and their known locations, using community data. Use /bbuddy to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/BeastieBuddy",
-                "LastUpdate": 1771582696
+                "LastUpdate": 1773939208
             }
         ]
     },
@@ -9537,7 +9446,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1773892340
+                "LastUpdate": 1773948669
             }
         ]
     },
@@ -10248,7 +10157,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1773842311
+                "LastUpdate": 1773929465
             },
             {
                 "Author": "XSZYYS",
@@ -10257,7 +10166,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1773842311,
+                "LastUpdate": 1773929465,
                 "is_closed_source": true
             }
         ]
@@ -10953,7 +10862,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1773911898
+                "LastUpdate": 1773939542
             }
         ]
     },
@@ -11064,7 +10973,7 @@
                 "Description": "Host your chat on a web server so you can talk from anywhere.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/twelvehouse/ChatAnywhere",
-                "LastUpdate": 1773899728
+                "LastUpdate": 1773939414
             }
         ]
     },
@@ -11081,7 +10990,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1773927124
+                "LastUpdate": 1773948107
             }
         ]
     },
@@ -11815,7 +11724,7 @@
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automatically collects character data — inventories, currencies, job levels, retainers, free company info, and more — and stores it in a local SQLite database. Browse all your characters' data without needing to log into each one.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xa-io/XA-Database",
-                "LastUpdate": 1773504193
+                "LastUpdate": 1773937153
             },
             {
                 "Author": "XA",
