@@ -524,7 +524,7 @@
                 "Description": "Chroma is a simple accessibility plugin for modifying the color of Area-of-Effect indicators.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Akechi-kun/Chroma",
-                "LastUpdate": 1774009251
+                "LastUpdate": 1774072010
             }
         ]
     },
@@ -3154,7 +3154,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1774022464
+                "LastUpdate": 1774062872
             },
             {
                 "Author": "Churin",
@@ -3986,7 +3986,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773773531
+                "LastUpdate": 1774075117
             },
             {
                 "Author": "daemitus, croizat",
@@ -4142,7 +4142,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773773531
+                "LastUpdate": 1774075117
             },
             {
                 "Author": "daemitus, croizat",
@@ -5463,7 +5463,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1774045170
+                "LastUpdate": 1774077136
             }
         ]
     },
@@ -5678,7 +5678,7 @@
                 "Description": "A leve helper that lets you select which ones you want to do, and help turn them in for you. YOU NEED NAVMESH INSTALLED AS AN FYI.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/ChilledLeves",
-                "LastUpdate": 1773894205
+                "LastUpdate": 1774064010
             },
             {
                 "Author": "Ice",
@@ -8216,6 +8216,41 @@
         ]
     },
     {
+        "repo_developer_name": "pffxivtools",
+        "repo_url": "https://raw.githubusercontent.com/pffxivtools/ffxiv-bard-plugins-linux/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux",
+        "repo_name": "ffxiv-bard-plugins-linux",
+        "plugins": [
+            {
+                "Author": "BardToolbox",
+                "Name": "BardToolbox",
+                "InternalName": "BardToolbox",
+                "Description": "",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
+                "LastUpdate": 1766108205
+            },
+            {
+                "Author": "Zune",
+                "Name": "Master Of Puppets",
+                "InternalName": "MasterOfPuppets",
+                "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
+                "LastUpdate": 1773971815
+            },
+            {
+                "Author": "akira0245, Ori, Kalle, Zune",
+                "Name": "MidiBard 2",
+                "InternalName": "MidiBard2",
+                "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: ffbard.com",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://midibard.org",
+                "LastUpdate": 1764618787
+            }
+        ]
+    },
+    {
         "repo_developer_name": "PineappleOrangeJelly",
         "repo_url": "https://raw.githubusercontent.com/PineappleOrangeJelly/heyiwei/master/pluginmaster.json",
         "repo_source_url": "https://github.com/PineappleOrangeJelly/heyiwei",
@@ -8769,7 +8804,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1774008713
+                "LastUpdate": 1774077221
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -8796,7 +8831,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1773773531
+                "LastUpdate": 1774075117
             },
             {
                 "Author": "daemitus, kawaii",
@@ -9019,7 +9054,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1774001563
+                "LastUpdate": 1774080090
             }
         ]
     },
@@ -9648,7 +9683,7 @@
                 "Description": "Tracks winning using Moodles.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rumia-moe/PatMeMoodles",
-                "LastUpdate": 1773542813
+                "LastUpdate": 1774073194
             },
             {
                 "Author": "rumia-moe",
@@ -9657,7 +9692,7 @@
                 "Description": "Display emote counters with the Moodles plugin.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rumia-moe/PatMeMoodles",
-                "LastUpdate": 1773542813
+                "LastUpdate": 1774073194
             }
         ]
     },
@@ -9674,7 +9709,7 @@
                 "Description": "Allow draggable sorter instead of having to do some strange swapping that FFXIV only allows",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ryan-RH/GearsetSort",
-                "LastUpdate": 1774057964
+                "LastUpdate": 1774066853
             }
         ]
     },
@@ -9809,6 +9844,23 @@
     },
     {
         "repo_developer_name": "Sansflaire",
+        "repo_url": "https://raw.githubusercontent.com/Sansflaire/DamageMeter/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Sansflaire/DamageMeter",
+        "repo_name": "DamageMeter",
+        "plugins": [
+            {
+                "Author": "Sansflaire",
+                "Name": "Damage Meter",
+                "InternalName": "DamageMeter",
+                "Description": "Tracks damage dealt, healing done, DPS, HPS, overhealing, damage taken, and more in real time for you and your party. Stores up to 20 recent combat sessions with manual save slots. Fully configurable display, bar colors, and window styles.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Sansflaire/DamageMeter",
+                "LastUpdate": 1774082454
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Sansflaire",
         "repo_url": "https://raw.githubusercontent.com/Sansflaire/FFXIV-TV/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Sansflaire/FFXIV-TV",
         "repo_name": "FFXIV-TV",
@@ -9821,6 +9873,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sansflaire/FFXIV-TV",
                 "LastUpdate": 1773817749
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Sansflaire",
+        "repo_url": "https://raw.githubusercontent.com/Sansflaire/PanacheUI/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Sansflaire/PanacheUI",
+        "repo_name": "PanacheUI",
+        "plugins": [
+            {
+                "Author": "Sansflaire",
+                "Name": "PanacheUI",
+                "InternalName": "PanacheUI",
+                "Description": "PanacheUI is a vector graphics UI framework for Dalamud plugins, backed by SkiaSharp (the same engine as Chrome and Flutter). Provides a node tree, CSS-like styling, layout engine, and smooth rendering — far beyond what vanilla ImGui can offer.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Sansflaire/PanacheUI",
+                "LastUpdate": 1774079870
             }
         ]
     },
@@ -11247,6 +11316,23 @@
         ]
     },
     {
+        "repo_developer_name": "UnlostWorld",
+        "repo_url": "https://raw.githubusercontent.com/UnlostWorld/StudioFourteen/Live/repo.json",
+        "repo_source_url": "https://github.com/UnlostWorld/StudioFourteen",
+        "repo_name": "StudioFourteen",
+        "plugins": [
+            {
+                "Author": "Unlost World",
+                "Name": "Studio Fourteen",
+                "InternalName": "StudioFourteen",
+                "Description": "Alpha - please be careful!",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/UnlostWorld/StudioFourteen",
+                "LastUpdate": 1774079529
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Valiice",
         "repo_url": "https://raw.githubusercontent.com/Valiice/DalamudPluginRepo/master/repo.json",
         "repo_source_url": "https://github.com/Valiice/DalamudPluginRepo",
@@ -12205,7 +12291,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260316
+                "LastUpdate": 20260321
             },
             {
                 "Author": "Meoiswa, YouShu",
