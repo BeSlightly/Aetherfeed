@@ -5370,7 +5370,7 @@
                 "Description": "Your friendly quest companion for FFXIV.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/QuestieBestie",
-                "LastUpdate": 1773956750
+                "LastUpdate": 1774050888
             },
             {
                 "Author": "kk-triplesix",
@@ -5379,7 +5379,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1773995363
+                "LastUpdate": 1774050753
             }
         ]
     },
@@ -5463,7 +5463,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1774039126
+                "LastUpdate": 1774045170
             }
         ]
     },
@@ -6945,7 +6945,7 @@
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1773928261
+                "LastUpdate": 1774048035
             }
         ]
     },
@@ -9354,7 +9354,7 @@
                 "Description": "A TTS Plugin that breaks the silence! For self hosted AllTalk instance. /ek",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
-                "LastUpdate": 1773883537
+                "LastUpdate": 1774057829
             },
             {
                 "Author": "RenNagasaki",
@@ -9563,7 +9563,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1773978061
+                "LastUpdate": 1774044357
             }
         ]
     },
@@ -9674,16 +9674,7 @@
                 "Description": "Allow draggable sorter instead of having to do some strange swapping that FFXIV only allows",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ryan-RH/GearsetSort",
-                "LastUpdate": 1772160125
-            },
-            {
-                "Author": "Treezy",
-                "Name": "OpenRadar",
-                "InternalName": "OpenRadar",
-                "Description": "Similar to PFRadar, but open source. Doesn't pull data from a hidden server, uses data from PlayerTrack or by requesting directly from SE (use at your own risk)",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Ryan-RH/OpenRadar",
-                "LastUpdate": 1772898485
+                "LastUpdate": 1774057964
             }
         ]
     },
@@ -11121,23 +11112,6 @@
         ]
     },
     {
-        "repo_developer_name": "Tykku",
-        "repo_url": "https://raw.githubusercontent.com/Tykku/ToshiBox/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Tykku/ToshiBox",
-        "repo_name": "ToshiBox",
-        "plugins": [
-            {
-                "Author": "Toshi",
-                "Name": "ToshiBox",
-                "InternalName": "ToshiBox",
-                "Description": "My own playground for plugin dev",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1773956622
-            }
-        ]
-    },
-    {
         "repo_developer_name": "uiharuayako",
         "repo_url": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/pluginmaster.json",
         "repo_source_url": "https://github.com/uiharuayako/PantsPlugins",
@@ -11321,7 +11295,7 @@
                 "Description": "Scans your retainer inventories when you open them and calculates their total estimated market value using Universalis prices.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/RetainerInventoryPrice",
-                "LastUpdate": 1772844809
+                "LastUpdate": 1774054406
             },
             {
                 "Author": "Vali",
@@ -11860,6 +11834,15 @@
         "repo_source_url": "https://github.com/xa-io/MyDalamudPlugins",
         "repo_name": "MyDalamudPlugins",
         "plugins": [
+            {
+                "Author": "XA",
+                "Name": "XA Database",
+                "InternalName": "XADatabase",
+                "Description": "Parser of all databases.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/xa-io/XA-Database",
+                "LastUpdate": 1774028767
+            },
             {
                 "Author": "XA",
                 "Name": "XA HUD Navigator",
