@@ -1118,7 +1118,7 @@
                 "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
-                "LastUpdate": 1773561447
+                "LastUpdate": 1774188343
             },
             {
                 "Author": "Haselnussbomber",
@@ -1965,6 +1965,24 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json",
+        "repo_source_url": "https://github.com/orgs/Sundouleia/repositories",
+        "repo_discord_url": "https://discord.gg/QJy4zTqpMD",
+        "repo_developer_name": "Cordelia",
+        "repo_name": "Sundouleia",
+        "plugins": [
+            {
+                "Author": "Cordelia",
+                "Name": "Sundouleia",
+                "InternalName": "Sundouleia",
+                "Description": "Handled with care. Always careful of the impacts our choices make, and how they affect the future ahead of us.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Sundouleia/client",
+                "LastUpdate": 1773645555
+            }
+        ]
+    },
+    {
         "repo_developer_name": "CordeliaMist",
         "repo_url": "https://raw.githubusercontent.com/CordeliaMist/Loci/main/repo.json",
         "repo_source_url": "https://github.com/CordeliaMist/Loci",
@@ -2081,7 +2099,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1773926020
+                "LastUpdate": 1774190002
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -3143,9 +3161,9 @@
                 "Name": "Reborn Toolbox",
                 "InternalName": "RebornToolbox",
                 "Description": "Various tweaks and features provided by the Combat Reborn team that don't need their own plugin",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RebornToolbox",
-                "LastUpdate": 1750262013
+                "LastUpdate": 1774187317
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3154,7 +3172,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1774173143
+                "LastUpdate": 1774176102
             },
             {
                 "Author": "Churin",
@@ -3986,7 +4004,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774130583
+                "LastUpdate": 1774184990
             },
             {
                 "Author": "daemitus, croizat",
@@ -4142,7 +4160,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774130583
+                "LastUpdate": 1774184990
             },
             {
                 "Author": "daemitus, croizat",
@@ -5480,7 +5498,7 @@
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1774169592
+                "LastUpdate": 1774175631
             }
         ]
     },
@@ -5644,7 +5662,7 @@
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1774018292
+                "LastUpdate": 1774180965
             }
         ]
     },
@@ -6019,7 +6037,7 @@
                 "Description": "General Logging Plugin,DPS meter and performance analysis plugin",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LoggingWay/LoggingWayPlugin",
-                "LastUpdate": 1774112633
+                "LastUpdate": 1774188813
             }
         ]
     },
@@ -6928,7 +6946,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1774136255
+                "LastUpdate": 1774187467
             }
         ]
     },
@@ -7855,24 +7873,6 @@
         ]
     },
     {
-        "repo_url": "https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json",
-        "repo_source_url": "https://github.com/orgs/Sundouleia/repositories",
-        "repo_discord_url": "https://discord.gg/QJy4zTqpMD",
-        "repo_developer_name": "orgs",
-        "repo_name": "Sundouleia",
-        "plugins": [
-            {
-                "Author": "Cordelia",
-                "Name": "Sundouleia",
-                "InternalName": "Sundouleia",
-                "Description": "Handled with care. Always careful of the impacts our choices make, and how they affect the future ahead of us.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Sundouleia/client",
-                "LastUpdate": 1773645555
-            }
-        ]
-    },
-    {
         "repo_developer_name": "OTCompa",
         "repo_url": "https://raw.githubusercontent.com/OTCompa/frey-s-dalamud-plugins/main/plogon.json",
         "repo_source_url": "https://github.com/OTCompa/frey-s-dalamud-plugins",
@@ -7894,7 +7894,7 @@
                 "Description": "Automatically opens and swaps to specific strategy boards depending on some conditions!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OTCompa/MapoTofu",
-                "LastUpdate": 1774140371
+                "LastUpdate": 1774179848
             },
             {
                 "Author": "Frey",
@@ -7920,7 +7920,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1773926020
+                "LastUpdate": 1774190002
             }
         ]
     },
@@ -7964,7 +7964,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1773926020
+                "LastUpdate": 1774190002
             },
             {
                 "Author": "Anna",
@@ -8668,7 +8668,7 @@
                 "Description": "Spawn screens in the world to display media content.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1774011748,
+                "LastUpdate": 1774182392,
                 "is_closed_source": true
             },
             {
@@ -8892,7 +8892,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774130583
+                "LastUpdate": 1774184990
             },
             {
                 "Author": "daemitus, kawaii",
@@ -9511,7 +9511,7 @@
                 "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Infiziert90/ChatTwo",
-                "LastUpdate": 1770633134
+                "LastUpdate": 1774188225
             },
             {
                 "Author": "Bluefissure",
@@ -10042,9 +10042,9 @@
                 "Name": "A Quest Reborn",
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1774169592
+                "LastUpdate": 1774175631
             }
         ]
     },
@@ -10076,9 +10076,9 @@
                 "Name": "Drag And Drop Texturing",
                 "InternalName": "DragAndDropTexturing",
                 "Description": "Drag and and drop textured directly onto what you see!",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1760354132
+                "LastUpdate": 1774182272
             }
         ]
     },
@@ -10110,9 +10110,9 @@
                 "Name": "Artemis Roleplaying Kit",
                 "InternalName": "RoleplayingVoiceDalamud",
                 "Description": "Player synced custom voices, Twitch playback integration, and more!",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
-                "LastUpdate": 1768026245
+                "LastUpdate": 1774175701
             }
         ]
     },
@@ -10412,7 +10412,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1774106595
+                "LastUpdate": 1774188164
             },
             {
                 "Author": "XSZYYS",
@@ -10421,7 +10421,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1774106595,
+                "LastUpdate": 1774188164,
                 "is_closed_source": true
             }
         ]
@@ -12056,7 +12056,7 @@
                 "InternalName": "Terra",
                 "Description": "Automated gardening manager for tending and harvesting crops.",
                 "RepoUrl": "https://github.com/XenaProtocol/Terra",
-                "LastUpdate": 1773522606
+                "LastUpdate": 1774196120
             }
         ]
     },
