@@ -2099,7 +2099,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1774215656
+                "LastUpdate": 1774306139
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -2108,7 +2108,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1774200362
+                "LastUpdate": 1774306196
             },
             {
                 "Author": "CY",
@@ -2333,7 +2333,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1774000731
+                "LastUpdate": 1774290454
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -2773,7 +2773,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1774285504
+                "LastUpdate": 1774292423
             }
         ]
     },
@@ -2790,7 +2790,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1774285504
+                "LastUpdate": 1774292423
             }
         ]
     },
@@ -4004,7 +4004,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774216802
+                "LastUpdate": 1774291635
             },
             {
                 "Author": "daemitus, croizat",
@@ -4160,7 +4160,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774216802
+                "LastUpdate": 1774291635
             },
             {
                 "Author": "daemitus, croizat",
@@ -5299,7 +5299,7 @@
                 "Description": "[BETA] A comprehensive writing assistant designed for FFXIV roleplayers. Automatically formats your text for seamless in-game chat, includes spell checking, thesaurus integration, and advanced editing tools to enhance your roleplay experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kirin-xiv/EorzeaScribe",
-                "LastUpdate": 1773628213
+                "LastUpdate": 1774303900
             },
             {
                 "Author": "Kirin",
@@ -5448,7 +5448,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1774284979
+                "LastUpdate": 1774291355
             }
         ]
     },
@@ -5532,7 +5532,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1774077136
+                "LastUpdate": 1774292232
             }
         ]
     },
@@ -5679,7 +5679,7 @@
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1774180965
+                "LastUpdate": 1774290524
             }
         ]
     },
@@ -6365,6 +6365,15 @@
             },
             {
                 "Author": "DhogGPT",
+                "Name": "Krangler",
+                "InternalName": "Krangler",
+                "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently. Features a fun Super Krangle Master 4000 mode for extra chaos.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/Krangler",
+                "LastUpdate": 1774284793
+            },
+            {
+                "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
@@ -6609,7 +6618,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1774200362
+                "LastUpdate": 1774306196
             }
         ]
     },
@@ -6908,7 +6917,7 @@
                 "Description": "Zone is the all-in-one companion for ZONE events. Features a live DJ lineup, activity tracker, staff directory, Zone Vision HUD overlay, and midnight time lock.\n\nCommands:\n/zone - Open Zone\n/zonevision - Toggle HUD overlay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/ZONE",
-                "LastUpdate": 1774285228
+                "LastUpdate": 1774308134
             }
         ]
     },
@@ -7988,7 +7997,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1774215656
+                "LastUpdate": 1774306139
             }
         ]
     },
@@ -8032,7 +8041,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1774215656
+                "LastUpdate": 1774306139
             },
             {
                 "Author": "Anna",
@@ -8068,7 +8077,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1774200362
+                "LastUpdate": 1774306196
             },
             {
                 "Author": "Caraxi",
@@ -8960,7 +8969,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774216802
+                "LastUpdate": 1774291635
             },
             {
                 "Author": "daemitus, kawaii",
@@ -9431,7 +9440,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1774200362
+                "LastUpdate": 1774306196
             }
         ]
     },
@@ -9448,7 +9457,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1774200362
+                "LastUpdate": 1774306196
             }
         ]
     },
@@ -9570,7 +9579,7 @@
                 "Description": "AutoDuty",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1774285504
+                "LastUpdate": 1774292423
             },
             {
                 "Author": "Infi, Anna",
@@ -10280,9 +10289,9 @@
                 "Name": "Better Housing",
                 "InternalName": "ProperHousingEx",
                 "Description": "Furniture selection based on what you see, keybinds, and more.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sevii77/properhousing",
-                "LastUpdate": 1754936973
+                "LastUpdate": 1774305632
             }
         ]
     },
@@ -12167,7 +12176,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1774200362
+                "LastUpdate": 1774306196
             }
         ]
     },
@@ -12714,7 +12723,7 @@
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1774220810
+                "LastUpdate": 1774297165
             }
         ]
     }
