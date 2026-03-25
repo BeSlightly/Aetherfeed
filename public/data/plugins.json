@@ -4021,7 +4021,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774335118
+                "LastUpdate": 1774459883
             },
             {
                 "Author": "daemitus, croizat",
@@ -4177,7 +4177,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774335118
+                "LastUpdate": 1774459883
             },
             {
                 "Author": "daemitus, croizat",
@@ -5532,7 +5532,7 @@
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1774443525
+                "LastUpdate": 1774443724
             }
         ]
     },
@@ -6071,7 +6071,7 @@
                 "Description": "General Logging Plugin,DPS meter and performance analysis plugin",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LoggingWay/LoggingWayPlugin",
-                "LastUpdate": 1774207665
+                "LastUpdate": 1774450587
             }
         ]
     },
@@ -6343,7 +6343,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1774391984
+                "LastUpdate": 1774464636
             }
         ]
     },
@@ -6405,7 +6405,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1774391984
+                "LastUpdate": 1774464636
             },
             {
                 "Author": "DhogGPT",
@@ -6872,6 +6872,77 @@
     },
     {
         "repo_developer_name": "mulongsheng",
+        "repo_url": "https://raw.githubusercontent.com/mulongsheng/puppys-plugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/mulongsheng/puppys-plugins",
+        "repo_name": "puppys-plugins",
+        "plugins": [
+            {
+                "Author": "Herculezz, erdelf",
+                "Name": "AutoDuty",
+                "InternalName": "AutoDuty",
+                "Description": "自动运行副本的插件，支持信任、副本支援、小队、多变术副本和普通副本。需要 BossMod、vnavmesh 和一个自动技能插件（Wrath Combo、BossMod AutoRotation 或 RotationSolverReborn）",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+                "LastUpdate": 1774466112
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "Bossmod Reborn",
+                "InternalName": "BossModReborn",
+                "Description": "简化 Boss 战的综合工具集。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+                "LastUpdate": 1774466112
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Lifestream",
+                "InternalName": "Lifestream",
+                "Description": "- 一键传送至任何世界或以太网目的地\n- 在区域地图中点击以太碎片即可传送",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+                "LastUpdate": 1774466112
+            },
+            {
+                "Author": "Liza Carvelli",
+                "Name": "Questionable",
+                "InternalName": "Questionable",
+                "Description": "一个自动任务助手插件，尽可能为您自动完成任务。使用 navmesh 自动行走至所有任务路径点，并尝试自动完成所有步骤（不包括副本、单人任务战斗和战斗）。\n\n并非所有任务都受支持，请查看 Discord 或 Git 仓库获取最新列表。\n\n必需插件：vnavmesh、TextAdvance、Lifestream",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+                "LastUpdate": 1774466112
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Splatoon",
+                "InternalName": "Splatoon",
+                "Description": "Splatoon 是一个强大的辅助工具。它通过自定义标记系统革新了游戏体验，提供创建无限分组标记、标签和角色指示器的能力，具有精确的像素级精度。此功能使关键对象和事件更加直观，从而加快反应速度。请注意，插件不附带预设，玩家可以自由创建或导入现有预设。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+                "LastUpdate": 1774466112
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "TextAdvance",
+                "InternalName": "TextAdvance",
+                "Description": "任务速通辅助工具。自动跳过对话框并确认跳过动画。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+                "LastUpdate": 1774466112
+            },
+            {
+                "Author": "veyn",
+                "Name": "vnavmesh",
+                "InternalName": "vnavmesh",
+                "Description": "自动导航移动工具，智能地带领角色在世界中穿行，巧妙地避开所有障碍物。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
+                "LastUpdate": 1774466112
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mulongsheng",
         "repo_url": "https://raw.githubusercontent.com/mulongsheng/simple-Tool-dist/main/repo.json",
         "repo_source_url": "https://github.com/mulongsheng/simple-Tool-dist",
         "repo_name": "simple-Tool-dist",
@@ -6934,7 +7005,7 @@
                 "Description": "Zone is the all-in-one companion for ZONE events. Features a live DJ lineup, activity tracker, staff directory, Zone Vision HUD overlay, and midnight time lock.\n\nCommands:\n/zone - Open Zone\n/zonevision - Toggle HUD overlay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/ZONE",
-                "LastUpdate": 1774441611
+                "LastUpdate": 1774461863
             }
         ]
     },
@@ -7022,7 +7093,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/tree/main/plugins/Laplace",
-                "LastUpdate": 1771751070,
+                "LastUpdate": 1774453617,
                 "is_closed_source": true
             }
         ]
@@ -8986,7 +9057,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774335118
+                "LastUpdate": 1774459883
             },
             {
                 "Author": "daemitus, kawaii",
@@ -10143,6 +10214,23 @@
         ]
     },
     {
+        "repo_developer_name": "Sebaek98",
+        "repo_url": "https://raw.githubusercontent.com/Sebaek98/ItemVault/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Sebaek98/ItemVault",
+        "repo_name": "ItemVault",
+        "plugins": [
+            {
+                "Author": "Sebaek",
+                "Name": "ItemVault",
+                "InternalName": "ItemVault",
+                "Description": "Custom item tagging and inventory management.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Sebaek98/ItemVault",
+                "LastUpdate": 1774462004
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Sebane1/AQuestReborn/raw/master/repo.json",
         "repo_source_url": "https://github.com/Sebane1/AQuestReborn",
         "repo_name": "AQuestReborn",
@@ -10155,7 +10243,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1774443525
+                "LastUpdate": 1774443724
             }
         ]
     },
@@ -10523,7 +10611,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1774274666
+                "LastUpdate": 1774456341
             },
             {
                 "Author": "XSZYYS",
@@ -10532,7 +10620,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1774274666,
+                "LastUpdate": 1774456341,
                 "is_closed_source": true
             }
         ]
@@ -12193,7 +12281,7 @@
                 "InternalName": "Terra",
                 "Description": "Automated gardening manager for tending and harvesting crops.",
                 "RepoUrl": "https://github.com/XenaProtocol/Terra",
-                "LastUpdate": 1774403733
+                "LastUpdate": 1774452466
             }
         ]
     },
@@ -12757,7 +12845,7 @@
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1774398547
+                "LastUpdate": 1774465717
             }
         ]
     }
