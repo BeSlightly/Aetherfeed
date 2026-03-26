@@ -153,7 +153,7 @@
                 "Description": "A fully-featured blackjack dealer plugin for FFXIV. Commands: /chatjack2 to open the dealer GUI. Players use > commands in /say chat to play. Features real-time chat updates, automatic or manual dealer control, and full game results.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/a325245/clap-jack",
-                "LastUpdate": 1774487035
+                "LastUpdate": 1774499439
             }
         ]
     },
@@ -2252,6 +2252,32 @@
         ]
     },
     {
+        "repo_developer_name": "dal4kr",
+        "repo_url": "https://raw.githubusercontent.com/dal4kr/Dalamud.Resources/main/Plugins/plugins.json",
+        "repo_source_url": "https://github.com/dal4kr/Dalamud.Resources",
+        "repo_name": "Dalamud.Resources",
+        "plugins": [
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "Bossmod Reborn (KR)",
+                "InternalName": "BossModReborn",
+                "Description": "A bunch of utilities to simplify bosses.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
+                "LastUpdate": 1774401876
+            },
+            {
+                "Author": "Critical_Impact",
+                "Name": "Allagan Tools (KR)",
+                "InternalName": "InventoryTools",
+                "Description": "Allagan Tool's primary purpose is to keep track of items across your characters/retainers/free company. With it's filter system you'll never lose track of items or not know where they should be sorted.\n\nWhile this is it's primary purpose, it has quite an exhaustive list of other features including:\n\t- Craft planning\n\t- Market board integration\n\t- Item highlighting in inventories when searching/sorting and picking ingredients for crafts\n\t- Item window that includes vendor and source information among other things\n\t- Duty/mob/airship/submarine windows that are fully searchable\n\t- A filtering system that lets you setup complex searches for specific items \n\t- Tooltip integration that'll let you see where the items are on hover",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
+                "LastUpdate": 1774098560
+            }
+        ]
+    },
+    {
         "repo_developer_name": "dalamudx",
         "repo_url": "https://raw.githubusercontent.com/dalamudx/onepiece/master/repo.json",
         "repo_source_url": "https://github.com/dalamudx/onepiece",
@@ -3251,7 +3277,7 @@
                 "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1770042646
+                "LastUpdate": 1774497508
             },
             {
                 "Author": "Sonar Team",
@@ -3260,7 +3286,7 @@
                 "Description": "마물, 돌발 전파를 자동으로 주고받습니다. /sonar 명령어로 알림 오버레이를 열고, /sonarconfig 으로 설정 창을 엽니다. 지원은 Sonar Support Discord에서만 제공됩니다.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1770042646
+                "LastUpdate": 1774497508
             }
         ],
         "repo_name": "SonarRepo",
@@ -4038,7 +4064,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774459883
+                "LastUpdate": 1774507734
             },
             {
                 "Author": "daemitus, croizat",
@@ -4194,7 +4220,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774459883
+                "LastUpdate": 1774507734
             },
             {
                 "Author": "daemitus, croizat",
@@ -4741,7 +4767,7 @@
                 "Description": "LangSwap allows you to change the language of castbars and tooltips in FFXIV by pressing a keyboard shortcut. Press again the key(s) to return to your original language.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jo44/LangSwap",
-                "LastUpdate": 1774144899
+                "LastUpdate": 1774509645
             }
         ]
     },
@@ -6326,7 +6352,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1773703305
+                "LastUpdate": 1774499383
             }
         ]
     },
@@ -6343,7 +6369,7 @@
                 "Description": "Automatically execute emotes when specific players are nearby. Configure distance thresholds, wait times, and repeat intervals. Perfect for roleplaying scenarios and automated greetings. Use /hfh to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
-                "LastUpdate": 1773884727
+                "LastUpdate": 1774499388
             }
         ]
     },
@@ -6360,7 +6386,7 @@
                 "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently. Features a fun Super Krangle Master 4000 mode for extra chaos.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/Krangler",
-                "LastUpdate": 1774467015
+                "LastUpdate": 1774509205
             }
         ]
     },
@@ -6377,7 +6403,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1773703337
+                "LastUpdate": 1774499409
             }
         ]
     },
@@ -6394,7 +6420,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1774467915
+                "LastUpdate": 1774500680
             }
         ]
     },
@@ -6415,12 +6441,21 @@
             },
             {
                 "Author": "DhogGPT",
+                "Name": "DhogGPT",
+                "InternalName": "DhogGPT",
+                "Description": "DhogGPT translates incoming chat from selected channels and gives you a translate-and-send composer for outgoing messages. Use /dhoggpt or /dgpt to open it.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/DhogGPT",
+                "LastUpdate": 1774509205
+            },
+            {
+                "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1773703305
+                "LastUpdate": 1774499383
             },
             {
                 "Author": "DhogGPT",
@@ -6429,7 +6464,7 @@
                 "Description": "Configure emote responses that trigger when specific players are nearby. Perfect for passive RP automation. Use /hfh to configure.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
-                "LastUpdate": 1773884727
+                "LastUpdate": 1774499388
             },
             {
                 "Author": "DhogGPT",
@@ -6438,7 +6473,7 @@
                 "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/Krangler",
-                "LastUpdate": 1774467015
+                "LastUpdate": 1774509205
             },
             {
                 "Author": "DhogGPT",
@@ -6447,7 +6482,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1773703337
+                "LastUpdate": 1774499409
             },
             {
                 "Author": "DhogGPT",
@@ -6456,7 +6491,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1774467915
+                "LastUpdate": 1774500680
             },
             {
                 "Author": "DhogGPT",
@@ -6465,7 +6500,7 @@
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1774346022
+                "LastUpdate": 1774499418
             }
         ]
     },
@@ -6482,7 +6517,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1774346022
+                "LastUpdate": 1774499418
             }
         ]
     },
@@ -6934,7 +6969,7 @@
                 "Description": "自动运行副本的插件，支持信任、副本支援、小队、多变术副本和普通副本。需要 BossMod、vnavmesh 和一个自动技能插件（Wrath Combo、BossMod AutoRotation 或 RotationSolverReborn）",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774467860
+                "LastUpdate": 1774496151
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6943,7 +6978,7 @@
                 "Description": "简化 Boss 战的综合工具集。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774467860
+                "LastUpdate": 1774496151
             },
             {
                 "Author": "NightmareXIV",
@@ -6952,7 +6987,7 @@
                 "Description": "- 一键传送至任何世界或以太网目的地\n- 在区域地图中点击以太碎片即可传送",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774467860
+                "LastUpdate": 1774496151
             },
             {
                 "Author": "Liza Carvelli",
@@ -6961,7 +6996,7 @@
                 "Description": "一个自动任务助手插件，尽可能为您自动完成任务。使用 navmesh 自动行走至所有任务路径点，并尝试自动完成所有步骤（不包括副本、单人任务战斗和战斗）。\n\n并非所有任务都受支持，请查看 Discord 或 Git 仓库获取最新列表。\n\n必需插件：vnavmesh、TextAdvance、Lifestream",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774467860
+                "LastUpdate": 1774496151
             },
             {
                 "Author": "NightmareXIV",
@@ -6970,7 +7005,7 @@
                 "Description": "Splatoon 是一个强大的辅助工具。它通过自定义标记系统革新了游戏体验，提供创建无限分组标记、标签和角色指示器的能力，具有精确的像素级精度。此功能使关键对象和事件更加直观，从而加快反应速度。请注意，插件不附带预设，玩家可以自由创建或导入现有预设。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774467860
+                "LastUpdate": 1774496151
             },
             {
                 "Author": "NightmareXIV",
@@ -6979,7 +7014,7 @@
                 "Description": "任务速通辅助工具。自动跳过对话框并确认跳过动画。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774467860
+                "LastUpdate": 1774496151
             },
             {
                 "Author": "veyn",
@@ -6988,7 +7023,7 @@
                 "Description": "自动导航移动工具，智能地带领角色在世界中穿行，巧妙地避开所有障碍物。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774467860
+                "LastUpdate": 1774496151
             }
         ]
     },
@@ -9081,7 +9116,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1774264399
+                "LastUpdate": 1774505435
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -9099,7 +9134,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1774487091
+                "LastUpdate": 1774490886
             },
             {
                 "Author": "Team Wrath",
@@ -9108,7 +9143,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774459883
+                "LastUpdate": 1774507734
             },
             {
                 "Author": "daemitus, kawaii",
@@ -9331,7 +9366,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1774258718
+                "LastUpdate": 1774498572
             }
         ]
     },
@@ -10508,7 +10543,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1774487091
+                "LastUpdate": 1774490886
             }
         ]
     },
@@ -11504,7 +11539,7 @@
                 "Description": "Host your chat on a web server so you can talk from anywhere.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/twelvehouse/DalamudPlugins",
-                "LastUpdate": 1774420426
+                "LastUpdate": 1774497681
             },
             {
                 "Author": "twelvehouse",
@@ -11513,7 +11548,7 @@
                 "Description": "Real-time foot IK for FFXIV characters. Keeps feet planted naturally on terrain (stairs, slopes, uneven ground) during normal gameplay.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/twelvehouse/DalamudPlugins",
-                "LastUpdate": 1774420426
+                "LastUpdate": 1774497681
             }
         ]
     },
@@ -12645,7 +12680,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260321
+                "LastUpdate": 20260326
             },
             {
                 "Author": "Meoiswa, YouShu",
