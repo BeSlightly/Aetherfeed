@@ -3205,7 +3205,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1774516336
+                "LastUpdate": 1774591338
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3232,7 +3232,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1774346421
+                "LastUpdate": 1774591704
             },
             {
                 "Author": "Churin",
@@ -5543,7 +5543,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1774553491
+                "LastUpdate": 1774594776
             }
         ]
     },
@@ -6370,7 +6370,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1774499383
+                "LastUpdate": 1774582991
             }
         ]
     },
@@ -6455,7 +6455,7 @@
                 "Description": "Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
-                "LastUpdate": 1773703295
+                "LastUpdate": 1774580537
             },
             {
                 "Author": "DhogGPT",
@@ -6482,7 +6482,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1774499383
+                "LastUpdate": 1774582991
             },
             {
                 "Author": "DhogGPT",
@@ -7118,7 +7118,7 @@
                 "Description": "Zone is the all-in-one companion for ZONE events. Features a live DJ lineup, activity tracker, staff directory, Zone Vision HUD overlay, and midnight time lock.\n\nCommands:\n/zone - Open Zone\n/zonevision - Toggle HUD overlay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/ZONE",
-                "LastUpdate": 1774578269
+                "LastUpdate": 1774593233
             }
         ]
     },
@@ -8601,7 +8601,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
-                "LastUpdate": 1774481034
+                "LastUpdate": 1774598903
             },
             {
                 "Author": "Zune",
@@ -8619,7 +8619,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: ffbard.com",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://midibard.org",
-                "LastUpdate": 1774481037
+                "LastUpdate": 1774598907
             }
         ]
     },
@@ -9920,7 +9920,7 @@
                 "Description": "A plugin that allows you to upload ACT combat logs to FFLogs without leaving the game. Supports both live logging and manual log uploads.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Robert5204/FFLogsUploader",
-                "LastUpdate": 1774202228
+                "LastUpdate": 1774583146
             }
         ]
     },
@@ -9971,7 +9971,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1774568639
+                "LastUpdate": 1774580876
             }
         ]
     },
@@ -10039,7 +10039,7 @@
                 "Description": "A Dalamud plugin for FFXIV that streamlines MakePlace shopping lists with guided item tracking, purchase progress, and a cleaner, more organized marketboard workflow.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rubyblaire/mpassist",
-                "LastUpdate": 1774578522
+                "LastUpdate": 1774584152
             }
         ]
     },
@@ -10712,6 +10712,23 @@
     },
     {
         "repo_developer_name": "ShiftyKiwi",
+        "repo_url": "https://raw.githubusercontent.com/ShiftyKiwi/PenumbraQuiet/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/ShiftyKiwi/PenumbraQuiet",
+        "repo_name": "PenumbraQuiet",
+        "plugins": [
+            {
+                "Author": "ShiftyKiwi",
+                "Name": "PenumbraQuiet",
+                "InternalName": "PenumbraQuiet",
+                "Description": "Suppress Penumbra mod-complete toasts and selected error notifications. The command to open the settings menu is /penumbraquiet.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/ShiftyKiwi/PenumbraQuiet",
+                "LastUpdate": 1774592739
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ShiftyKiwi",
         "repo_url": "https://raw.githubusercontent.com/ShiftyKiwi/SwamiSophie/main/pluginmaster.json",
         "repo_source_url": "https://github.com/ShiftyKiwi/SwamiSophie",
         "repo_name": "SwamiSophie",
@@ -10792,7 +10809,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1774534182
+                "LastUpdate": 1774585694
             },
             {
                 "Author": "XSZYYS",
@@ -10801,7 +10818,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1774534182,
+                "LastUpdate": 1774585694,
                 "is_closed_source": true
             }
         ]
@@ -11051,7 +11068,7 @@
                 "Description": "Automatically translates your outgoing messages (to the party language) and incoming messages (to your local language) using Google Translate. Overlay window included. No API Key required.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ssalazar217/EchoXIV",
-                "LastUpdate": 1772583074
+                "LastUpdate": 1774584811
             }
         ]
     },
