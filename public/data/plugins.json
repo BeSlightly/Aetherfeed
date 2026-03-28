@@ -3209,6 +3209,15 @@
             },
             {
                 "Author": "The Combat Reborn Team",
+                "Name": "No Silly Reborn",
+                "InternalName": "NoSillyReborn",
+                "Description": "No Silly Reborn intercepts your action inputs during combat and replaces incorrect actions with the correct ones based on your current job state.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/NoSillyReborn",
+                "LastUpdate": 1774729790
+            },
+            {
+                "Author": "The Combat Reborn Team",
                 "Name": "Passport Checker Reborn",
                 "InternalName": "PassportCheckerReborn",
                 "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
@@ -3232,7 +3241,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1774673212
+                "LastUpdate": 1774728432
             },
             {
                 "Author": "Churin",
@@ -3923,7 +3932,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1774625842
+                "LastUpdate": 1774730025
             },
             {
                 "Author": "Haselnussbomber",
@@ -4073,7 +4082,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774668363
+                "LastUpdate": 1774714668
             },
             {
                 "Author": "daemitus, croizat",
@@ -4238,7 +4247,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774668363
+                "LastUpdate": 1774714668
             },
             {
                 "Author": "daemitus, croizat",
@@ -5300,7 +5309,7 @@
                 "Description": "Host relay plugin for multi-card bingo.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KeiJoi/ffxivbingo4all",
-                "LastUpdate": 1774712877
+                "LastUpdate": 1774716695
             },
             {
                 "Author": "Kei Joi",
@@ -5534,7 +5543,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1774680608
+                "LastUpdate": 1774729287
             }
         ]
     },
@@ -5732,6 +5741,15 @@
         "repo_name": "dalamud-plugins",
         "plugins": [
             {
+                "Author": "Haselnussbomber",
+                "Name": "HaselDebug",
+                "InternalName": "HaselDebug",
+                "Description": "开发者工具",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Latihas/HaselDebug",
+                "LastUpdate": 1774718729
+            },
+            {
                 "Author": "Usagi, Latihas",
                 "Name": "IINACTEx",
                 "InternalName": "IINACTEx",
@@ -5747,7 +5765,7 @@
                 "Description": "陆行鸟竞赛自动化",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/LatihasChocobo",
-                "LastUpdate": 1774694464
+                "LastUpdate": 1774715717
             },
             {
                 "Author": "Latihas",
@@ -5756,7 +5774,7 @@
                 "Description": "自用收集工具",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/LatihasExport",
-                "LastUpdate": 1774713418
+                "LastUpdate": 1774715897
             },
             {
                 "Author": "Latihas",
@@ -5765,7 +5783,7 @@
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1774713432
+                "LastUpdate": 1774715554
             }
         ]
     },
@@ -6361,7 +6379,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1774647727
+                "LastUpdate": 1774734563
             }
         ]
     },
@@ -6430,113 +6448,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
                 "LastUpdate": 1774638308
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "McVaxius",
-        "repo_url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
-        "repo_source_url": "https://github.com/McVaxius/TheDumpsterFire",
-        "repo_name": "TheDumpsterFire",
-        "plugins": [
-            {
-                "Author": "DhogGPT",
-                "Name": "Chocobo Colourized",
-                "InternalName": "ChocoboColourized",
-                "Description": "Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
-                "LastUpdate": 1774643790
-            },
-            {
-                "Author": "DhogGPT",
-                "Name": "Choke-abo",
-                "InternalName": "ChokeAbo",
-                "Description": "Chocobo stable feeding and vendor-planning scaffold.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/McVaxius/ChokeAbo",
-                "LastUpdate": 1774643811
-            },
-            {
-                "Author": "DhogGPT",
-                "Name": "Dheacon",
-                "InternalName": "dheacon",
-                "Description": "Another hand touches the crystal.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/McVaxius/dheacon",
-                "LastUpdate": 1774638301
-            },
-            {
-                "Author": "DhogGPT",
-                "Name": "DhogGPT",
-                "InternalName": "DhogGPT",
-                "Description": "DhogGPT translates incoming chat from selected channels and gives you a translate-and-send composer for outgoing messages. Use /dhoggpt or /dgpt to open it.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/McVaxius/DhogGPT",
-                "LastUpdate": 1774706793
-            },
-            {
-                "Author": "DhogGPT",
-                "Name": "Dhog Potato System",
-                "InternalName": "DPS",
-                "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/McVaxius/DPS",
-                "LastUpdate": 1774664879
-            },
-            {
-                "Author": "DhogGPT",
-                "Name": "Fren Rider",
-                "InternalName": "FrenRider",
-                "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1774647727
-            },
-            {
-                "Author": "DhogGPT",
-                "Name": "Hello Fellow Human",
-                "InternalName": "HelloFellowHuman",
-                "Description": "Configure emote responses that trigger when specific players are nearby. Perfect for passive RP automation. Use /hfh to configure.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
-                "LastUpdate": 1774638280
-            },
-            {
-                "Author": "DhogGPT",
-                "Name": "Krangler",
-                "InternalName": "Krangler",
-                "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/McVaxius/Krangler",
-                "LastUpdate": 1774638304
-            },
-            {
-                "Author": "DhogGPT",
-                "Name": "Loot Goblin",
-                "InternalName": "LootGoblin",
-                "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1774638307
-            },
-            {
-                "Author": "DhogGPT",
-                "Name": "M.O.G.T.O.M.E.",
-                "InternalName": "MOGTOME",
-                "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1774638308
-            },
-            {
-                "Author": "DhogGPT",
-                "Name": "VerMAXion",
-                "InternalName": "VERMAXION",
-                "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1774703478
             }
         ]
     },
@@ -7127,7 +7038,7 @@
                 "Description": "Zone is the all-in-one companion for ZONE events. Features a live DJ lineup, activity tracker, staff directory, Zone Vision HUD overlay, and midnight time lock.\n\nCommands:\n/zone - Open Zone\n/zonevision - Toggle HUD overlay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/ZONE",
-                "LastUpdate": 1774679233
+                "LastUpdate": 1774733125
             }
         ]
     },
@@ -7233,7 +7144,7 @@
                 "Description": "Outil de jets de dés pour le Système Très Simple.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Neferith/sts_dalamud_plugin",
-                "LastUpdate": 1774653171
+                "LastUpdate": 1774726105
             }
         ]
     },
@@ -7335,7 +7246,7 @@
                 "Description": "Host relay plugin for multi-card bingo.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KeiJoi/ffxivbingo4all",
-                "LastUpdate": 1774712877
+                "LastUpdate": 1774716695
             },
             {
                 "Author": "Kei Joi",
@@ -9239,7 +9150,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1774668363
+                "LastUpdate": 1774714668
             },
             {
                 "Author": "daemitus, kawaii",
@@ -13078,7 +12989,7 @@
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1774713468
+                "LastUpdate": 1774727301
             }
         ]
     }
