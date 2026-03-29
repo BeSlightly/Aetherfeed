@@ -38,7 +38,7 @@
                 "Description": "Boss mod.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1774401876
+                "LastUpdate": 1774753273
             },
             {
                 "Author": "ocealot",
@@ -712,7 +712,7 @@
                 "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
-                "LastUpdate": 1774312459
+                "LastUpdate": 1774754797
             }
         ]
     },
@@ -2264,7 +2264,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1774401876
+                "LastUpdate": 1774753273
             },
             {
                 "Author": "Critical_Impact",
@@ -3187,7 +3187,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1774401876
+                "LastUpdate": 1774753273
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5543,7 +5543,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1774729287
+                "LastUpdate": 1774736471
             }
         ]
     },
@@ -5868,7 +5868,7 @@
                 "Description": "A leve helper that lets you select which ones you want to do, and help turn them in for you. YOU NEED NAVMESH INSTALLED AS AN FYI.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/ChilledLeves",
-                "LastUpdate": 1774154522
+                "LastUpdate": 1774755888
             },
             {
                 "Author": "Ice",
@@ -5886,7 +5886,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1773871647
+                "LastUpdate": 1774755699
             }
         ]
     },
@@ -6452,6 +6452,114 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
+        "repo_source_url": "https://github.com/McVaxius/TheDumpsterFire",
+        "is_allowed_mega_repo": true,
+        "repo_developer_name": "McVaxius",
+        "repo_name": "TheDumpsterFire",
+        "plugins": [
+            {
+                "Author": "DhogGPT",
+                "Name": "Chocobo Colourized",
+                "InternalName": "ChocoboColourized",
+                "Description": "(Personal Chocobo) Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
+                "LastUpdate": 1774643790
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "Choke-abo",
+                "InternalName": "ChokeAbo",
+                "Description": "Chocobo stable feeding and vendor-planning scaffold.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/ChokeAbo",
+                "LastUpdate": 1774643811
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "Dheacon",
+                "InternalName": "dheacon",
+                "Description": "Another hand touches the crystal.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/dheacon",
+                "LastUpdate": 1774638301
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "DhogGPT",
+                "InternalName": "DhogGPT",
+                "Description": "DhogGPT translates incoming chat from selected channels and gives you a translate-and-send composer for outgoing messages. Use /dhoggpt, /dgpt, or /dog to open it.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/DhogGPT",
+                "LastUpdate": 1774757976
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "Dhog Potato System",
+                "InternalName": "DPS",
+                "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/DPS",
+                "LastUpdate": 1774757490
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "Fren Rider",
+                "InternalName": "FrenRider",
+                "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/FrenRider",
+                "LastUpdate": 1774734563
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "Hello Fellow Human",
+                "InternalName": "HelloFellowHuman",
+                "Description": "Configure emote responses that trigger when specific players are nearby. Perfect for passive RP automation. Use /hfh to configure.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
+                "LastUpdate": 1774638280
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "Krangler",
+                "InternalName": "Krangler",
+                "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/Krangler",
+                "LastUpdate": 1774638304
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "Loot Goblin",
+                "InternalName": "LootGoblin",
+                "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/LootGoblin",
+                "LastUpdate": 1774638307
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "M.O.G.T.O.M.E.",
+                "InternalName": "MOGTOME",
+                "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/MOGTOME",
+                "LastUpdate": 1774638308
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "VerMAXion",
+                "InternalName": "VERMAXION",
+                "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/VERMAXION",
+                "LastUpdate": 1774703478
+            }
+        ]
+    },
+    {
         "repo_developer_name": "McVaxius",
         "repo_url": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/repo.json",
         "repo_source_url": "https://github.com/McVaxius/VERMAXION",
@@ -6507,7 +6615,7 @@
                 "Description": "Shows you an image of a random neko character. Click on the image to view the next one.\nYou can choose different image sources, allowing you to look at Catboys, Waifus, Cats, Dogs and more.\n\nSupported APIs:\nnekos.best, Nekos.life, Dog CEO, The Cat API, Pic.re, Waifu.im, Waifu.pics and shibe.online\n\nWarning: You might see naughty images",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1774150421
+                "LastUpdate": 1774756189
             },
             {
                 "Author": "Meisterlala",
@@ -6516,7 +6624,7 @@
                 "Description": "This Plugin does nothing on its own. Neko Fans needs to be installed.\nYou now have access to NSFW images in Neko Fans.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1774150421
+                "LastUpdate": 1774756189
             }
         ]
     },
@@ -7038,7 +7146,7 @@
                 "Description": "Zone is the all-in-one companion for ZONE events. Features a live DJ lineup, activity tracker, staff directory, Zone Vision HUD overlay, and midnight time lock.\n\nCommands:\n/zone - Open Zone\n/zonevision - Toggle HUD overlay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/ZONE",
-                "LastUpdate": 1774733125
+                "LastUpdate": 1774749829
             }
         ]
     },
@@ -7144,7 +7252,7 @@
                 "Description": "Outil de jets de dés pour le Système Très Simple.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Neferith/sts_dalamud_plugin",
-                "LastUpdate": 1774726105
+                "LastUpdate": 1774743778
             }
         ]
     },
@@ -8135,7 +8243,7 @@
                 "Description": "Automatically opens and swaps to specific strategy boards depending on some conditions!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OTCompa/MapoTofu",
-                "LastUpdate": 1774209889
+                "LastUpdate": 1774746895
             },
             {
                 "Author": "Frey",
@@ -8556,7 +8664,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1774443277
+                "LastUpdate": 1774741745
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -10242,7 +10350,7 @@
                 "Description": "JumpSolver records a sequence of jumps in any player-made jump puzzle, then replays them with automated movement and jump inputs so anyone can solve the puzzle hands-free. Supports manual step authoring and path recording.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sansflaire/JumpSolver",
-                "LastUpdate": 1774521284
+                "LastUpdate": 1774756140
             }
         ]
     },
@@ -12953,7 +13061,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1774443277
+                "LastUpdate": 1774741745
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -12989,7 +13097,7 @@
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1774727301
+                "LastUpdate": 1774736874
             }
         ]
     }
