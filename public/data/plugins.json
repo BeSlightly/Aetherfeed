@@ -142,6 +142,23 @@
     },
     {
         "repo_developer_name": "a325245",
+        "repo_url": "https://raw.githubusercontent.com/a325245/ChatCasino/main/repo.json",
+        "repo_source_url": "https://github.com/a325245/ChatCasino",
+        "repo_name": "ChatCasino",
+        "plugins": [
+            {
+                "Author": "Jess Some Deeler",
+                "Name": "Chat Casino",
+                "InternalName": "ChatCasino",
+                "Description": "A fully-featured casino dealer plugin for FFXIV including Blackjack, Roulette, Baccrat, Craps, Texas Hold'em, and Ultima (an Uno clone) Commands: /casino to open the GUI.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/a325245/ChatCasino",
+                "LastUpdate": 1775073954
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "a325245",
         "repo_url": "https://raw.githubusercontent.com/a325245/clap-jack/master/repo.json",
         "repo_source_url": "https://github.com/a325245/clap-jack",
         "repo_name": "clap-jack",
@@ -153,7 +170,7 @@
                 "Description": "A fully-featured blackjack dealer plugin for FFXIV. Commands: /chatjack2 to open the dealer GUI. Players use > commands in /say chat to play. Features real-time chat updates, automatic or manual dealer control, and full game results.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/a325245/clap-jack",
-                "LastUpdate": 1774982688
+                "LastUpdate": 1775066254
             }
         ]
     },
@@ -1095,7 +1112,7 @@
                 "Description": "记录你每一笔货币收支的数额、时间、地点与来源\nTrack every change of your currecies with its Amount, Time, Location and Source",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/CurrencyTracker",
-                "LastUpdate": 1767884426
+                "LastUpdate": 1775068055
             },
             {
                 "Author": "AtmoOmen",
@@ -1104,7 +1121,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1775044689,
+                "LastUpdate": 1775068919,
                 "is_closed_source": true
             },
             {
@@ -1114,7 +1131,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1775044689,
+                "LastUpdate": 1775068919,
                 "is_closed_source": true
             },
             {
@@ -1124,7 +1141,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1775044689,
+                "LastUpdate": 1775068919,
                 "is_closed_source": true
             },
             {
@@ -1143,7 +1160,7 @@
                 "Description": "在选择角色界面, 右键对应角色, 即可进行超域旅行\n需要使用 XIVLauncherCN 启动游戏, 不支持 WeGame 端",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DCTraveler",
-                "LastUpdate": 1775059715
+                "LastUpdate": 1775060952
             },
             {
                 "Author": "The Combat Reborn Team, AtmoOmen (本地化及国服适配)",
@@ -1197,7 +1214,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1775042946
+                "LastUpdate": 1775068883
             }
         ]
     },
@@ -3267,7 +3284,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1775035325
+                "LastUpdate": 1775068780
             },
             {
                 "Author": "Churin",
@@ -3376,6 +3393,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/flawedBliss/relicbuddy",
                 "LastUpdate": 1771547386
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "fnj00",
+        "repo_url": "https://raw.githubusercontent.com/fnj00/DalamudPluginRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/fnj00/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "fnj00",
+                "Name": "CrystalRadio",
+                "InternalName": "CrystalRadio",
+                "Description": "Listen to your favorite internet radio stations directly in-game. Browse stations and manage your favorites.\nUse /cradio to open the radio player",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/fnj00/CrystalRadio",
+                "LastUpdate": 1775075577
             }
         ]
     },
@@ -4099,7 +4133,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1775042946
+                "LastUpdate": 1775068883
             },
             {
                 "Author": "Team Wrath",
@@ -4264,7 +4298,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1775042946
+                "LastUpdate": 1775068883
             },
             {
                 "Author": "Team Wrath",
@@ -5586,7 +5620,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1775055502
+                "LastUpdate": 1775075846
             }
         ]
     },
@@ -5612,7 +5646,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix-private/RSR-kk-special",
-                "LastUpdate": 1775055502
+                "LastUpdate": 1775075846
             }
         ]
     },
@@ -5730,7 +5764,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1775042946
+                "LastUpdate": 1775068883
             }
         ]
     },
@@ -5799,7 +5833,7 @@
                 "Description": "开发者工具",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/HaselDebug",
-                "LastUpdate": 1774766488
+                "LastUpdate": 1775062121
             },
             {
                 "Author": "Usagi, Latihas",
@@ -6499,7 +6533,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1775058114
+                "LastUpdate": 1775069521
             }
         ]
     },
@@ -6598,7 +6632,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1775058114
+                "LastUpdate": 1775069521
             },
             {
                 "Author": "DhogGPT",
@@ -6607,7 +6641,7 @@
                 "Description": "An essential-state HUD for monitoring zone, position, combat state, durability, and party awareness when your main rendering setup is intentionally reduced.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/TTSL",
-                "LastUpdate": 1775058121
+                "LastUpdate": 1775069481
             },
             {
                 "Author": "DhogGPT",
@@ -7034,7 +7068,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1775006677
+                "LastUpdate": 1775071134
             }
         ]
     },
@@ -7156,7 +7190,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1775022026
+                "LastUpdate": 1775066703
             }
         ]
     },
@@ -8741,7 +8775,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1775005515
+                "LastUpdate": 1775079697
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -10691,7 +10725,7 @@
                 "Description": "Simple and fast way to know your night gamba results.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/seventity7/GambaBank",
-                "LastUpdate": 1775060011
+                "LastUpdate": 1775062736
             }
         ]
     },
@@ -13189,7 +13223,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1775005515
+                "LastUpdate": 1775079697
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -13225,7 +13259,7 @@
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1774908373
+                "LastUpdate": 1775075906
             }
         ]
     }
