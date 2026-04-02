@@ -1121,7 +1121,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1775144529,
+                "LastUpdate": 1775156405,
                 "is_closed_source": true
             },
             {
@@ -1131,7 +1131,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1775144529,
+                "LastUpdate": 1775156405,
                 "is_closed_source": true
             },
             {
@@ -1141,7 +1141,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1775144529,
+                "LastUpdate": 1775156405,
                 "is_closed_source": true
             },
             {
@@ -1160,7 +1160,7 @@
                 "Description": "在选择角色界面, 右键对应角色, 即可进行超域旅行\n需要使用 XIVLauncherCN 启动游戏, 不支持 WeGame 端",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DCTraveler",
-                "LastUpdate": 1775142034
+                "LastUpdate": 1775152472
             },
             {
                 "Author": "The Combat Reborn Team, AtmoOmen (本地化及国服适配)",
@@ -2185,7 +2185,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1775054416
+                "LastUpdate": 1775167531
             },
             {
                 "Author": "CY",
@@ -2567,6 +2567,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins/tree/main/Source/PuppetMaster",
                 "LastUpdate": 1771960116
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "dokkaebi-xiv",
+        "repo_url": "https://raw.githubusercontent.com/dokkaebi-xiv/Ghost-Cap/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/dokkaebi-xiv/Ghost-Cap",
+        "repo_name": "Ghost-Cap",
+        "plugins": [
+            {
+                "Author": "DokkaebiXIV",
+                "Name": "Ghost Cap",
+                "InternalName": "Gamtu",
+                "Description": "Ghost Cap (Dokkaebi's Gamtu) automatically switches Penumbra mod options based on conditions such as your current emote, allowing you to configure rules that trigger mod changes dynamically.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/dokkaebi-xiv/Ghost-Cap",
+                "LastUpdate": 1775171853
             }
         ]
     },
@@ -3284,7 +3301,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1775142536
+                "LastUpdate": 1775172168
             },
             {
                 "Author": "Churin",
@@ -3409,7 +3426,7 @@
                 "Description": "Listen to your favorite internet radio stations directly in-game. Browse stations and manage your favorites.\nUse /cradio to open the radio player",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/fnj00/CrystalRadio",
-                "LastUpdate": 1775075577
+                "LastUpdate": 1775154770
             }
         ]
     },
@@ -3992,7 +4009,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1774906356
+                "LastUpdate": 1775153830
             },
             {
                 "Author": "Haselnussbomber",
@@ -4001,7 +4018,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1774375447
+                "LastUpdate": 1775152085
             },
             {
                 "Author": "Haselnussbomber",
@@ -4079,7 +4096,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1775101689,
+                "LastUpdate": 1775156312,
                 "is_closed_source": true
             }
         ]
@@ -4854,7 +4871,7 @@
                 "Description": "LangSwap allows you to change the language of castbars and tooltips in FFXIV by pressing a keyboard shortcut. Press again the key(s) to return to your original language.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jo44/LangSwap",
-                "LastUpdate": 1774963463
+                "LastUpdate": 1775154511
             }
         ]
     },
@@ -5620,7 +5637,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1775148621
+                "LastUpdate": 1775168716
             }
         ]
     },
@@ -5646,7 +5663,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix-private/RSR-kk-special",
-                "LastUpdate": 1775148621
+                "LastUpdate": 1775168716
             }
         ]
     },
@@ -5713,7 +5730,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1775148736
+                "LastUpdate": 1775149891
             }
         ]
     },
@@ -6533,7 +6550,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1775149249
+                "LastUpdate": 1775170196
             }
         ]
     },
@@ -6632,7 +6649,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1775149249
+                "LastUpdate": 1775170196
             },
             {
                 "Author": "DhogGPT",
@@ -6641,7 +6658,7 @@
                 "Description": "An essential-state HUD for monitoring zone, position, combat state, durability, and party awareness when your main rendering setup is intentionally reduced.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/TTSL",
-                "LastUpdate": 1775149275
+                "LastUpdate": 1775166573
             },
             {
                 "Author": "DhogGPT",
@@ -6871,7 +6888,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1775054416
+                "LastUpdate": 1775167531
             }
         ]
     },
@@ -7415,7 +7432,7 @@
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1775127647
+                "LastUpdate": 1775167163
             }
         ]
     },
@@ -8033,7 +8050,24 @@
                 "Description": "Sets per-character chat command triggered on:\n- Zone changes\n - Class/Job Swaps\n- Login\n Other Options:\n - Roleplay Only Toggle (Blocks unless \"RP\" Online Status is set)\n - RNG Toggle (Triggers fire randomly, given a custom min/max range)\n - Override Toggle (Overrides commands set for all triggers with a master command)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NNekoPlugins/NNekoTriggers",
-                "LastUpdate": 1773713855
+                "LastUpdate": 1775151910
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/NNekoWeaponIcons/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/NNekoWeaponIcons",
+        "repo_name": "NNekoWeaponIcons",
+        "plugins": [
+            {
+                "Author": "NaughtyNeko",
+                "Name": "NNekoWeaponIcons",
+                "InternalName": "NNekoWeaponIcons",
+                "Description": "Adds a Clas/Job Icon Overlay in Armoury Chest.  Split from VIWI plugin's Kitchen Sink module.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NNekoPlugins/NNekoWeaponIcons",
+                "LastUpdate": 1775155837
             }
         ]
     },
@@ -8460,7 +8494,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1775054416
+                "LastUpdate": 1775167531
             },
             {
                 "Author": "Caraxi",
@@ -9840,7 +9874,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1775054416
+                "LastUpdate": 1775167531
             }
         ]
     },
@@ -9857,7 +9891,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1775054416
+                "LastUpdate": 1775167531
             }
         ]
     },
@@ -9927,7 +9961,7 @@
                 "Description": "A TTS Plugin that breaks the silence! For self hosted AllTalk instance. /ek",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
-                "LastUpdate": 1775047399
+                "LastUpdate": 1775169090
             },
             {
                 "Author": "RenNagasaki",
@@ -10073,6 +10107,23 @@
         ]
     },
     {
+        "repo_developer_name": "Rixifer",
+        "repo_url": "https://raw.githubusercontent.com/Rixifer/Sentinel/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Rixifer/Sentinel",
+        "repo_name": "Sentinel",
+        "plugins": [
+            {
+                "Author": "Rixifer",
+                "Name": "Sentinel",
+                "InternalName": "Sentinel",
+                "Description": "Draws AoE mechanic indicators directly on the game ground. Reveals untelegraphed AoEs with a cast-progress color gradient. Complements BossModReborn.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Rixifer/Sentinel",
+                "LastUpdate": 1775169342
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/rkycx/plogons/raw/main/repo.json",
         "repo_source_url": "https://github.com/rkycx/plogons",
         "repo_name": "plogons",
@@ -10102,7 +10153,7 @@
                 "Description": "A plugin that allows you to upload ACT combat logs to FFLogs without leaving the game. Supports both live logging and manual log uploads.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Robert5204/FFLogsUploader",
-                "LastUpdate": 1774583146
+                "LastUpdate": 1775168743
             }
         ]
     },
@@ -10725,7 +10776,7 @@
                 "Description": "Simple and fast way to know your night gamba results.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/seventity7/GambaBank",
-                "LastUpdate": 1775134576
+                "LastUpdate": 1775171402
             }
         ]
     },
@@ -12712,7 +12763,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1775054416
+                "LastUpdate": 1775167531
             }
         ]
     },
