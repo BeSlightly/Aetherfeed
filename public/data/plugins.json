@@ -3329,7 +3329,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarRepo",
-                "LastUpdate": 1774685286
+                "LastUpdate": 1775353636
             },
             {
                 "Author": "Sonar Team",
@@ -3338,7 +3338,7 @@
                 "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1774497508
+                "LastUpdate": 1775353621
             },
             {
                 "Author": "Sonar Team",
@@ -3347,7 +3347,7 @@
                 "Description": "마물, 돌발 전파를 자동으로 주고받습니다. /sonar 명령어로 알림 오버레이를 열고, /sonarconfig 으로 설정 창을 엽니다. 지원은 Sonar Support Discord에서만 제공됩니다.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1774497508
+                "LastUpdate": 1775353621
             }
         ],
         "repo_name": "SonarRepo",
@@ -3418,7 +3418,7 @@
                 "Description": "Listen to your favorite internet radio stations directly in-game. Browse stations and manage your favorites.\nUse /cradio to open the radio player",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/fnj00/CrystalRadio",
-                "LastUpdate": 1775332985
+                "LastUpdate": 1775354282
             }
         ]
     },
@@ -4010,7 +4010,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1775213858
+                "LastUpdate": 1775353327
             },
             {
                 "Author": "Haselnussbomber",
@@ -5629,7 +5629,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1775341324
+                "LastUpdate": 1775372254
             }
         ]
     },
@@ -5655,7 +5655,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix-private/RSR-kk-special",
-                "LastUpdate": 1775341324
+                "LastUpdate": 1775372254
             }
         ]
     },
@@ -6457,7 +6457,24 @@
                 "Description": "Suppresses the large on-screen countdown overlay produced by the /countdown command. The countdown still runs and fires normally — only the visual is hidden.\n\nCommands:\n/countdownhide — toggle the feature on/off\n/countdownhide config — open settings",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Mbobchin/CountdownHide",
-                "LastUpdate": 1775351708
+                "LastUpdate": 1775353180
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Mbobchin",
+        "repo_url": "https://raw.githubusercontent.com/Mbobchin/MacroVault/master/repo.json",
+        "repo_source_url": "https://github.com/Mbobchin/MacroVault",
+        "repo_name": "MacroVault",
+        "plugins": [
+            {
+                "Author": "Mbobchin",
+                "Name": "MacroVault",
+                "InternalName": "MacroVault",
+                "Description": "MacroVault lets you send your FFXIV macros to a Discord channel via webhook.\n\nCommands:\n/mvexport — export the currently selected macro\n/mvbackup — export all non-empty macros (both tabs)\n/mv — open the settings window",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Mbobchin/MacroVault",
+                "LastUpdate": 1775360061
             }
         ]
     },
@@ -6559,7 +6576,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1775349296
+                "LastUpdate": 1775352438
             }
         ]
     },
@@ -6578,15 +6595,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
                 "LastUpdate": 1775260007
-            },
-            {
-                "Author": "DhogGPT",
-                "Name": "Choke-abo",
-                "InternalName": "ChokeAbo",
-                "Description": "Chocobo stable feeding and vendor-planning scaffold.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/McVaxius/ChokeAbo",
-                "LastUpdate": 1775260021
             },
             {
                 "Author": "DhogGPT",
@@ -6658,7 +6666,16 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1775349296
+                "LastUpdate": 1775352438
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "Choke-abo",
+                "InternalName": "MOGTOME",
+                "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/MOGTOME",
+                "LastUpdate": 1775352438
             },
             {
                 "Author": "DhogGPT",
@@ -7094,7 +7111,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1775275041
+                "LastUpdate": 1775367371
             }
         ]
     },
@@ -7267,7 +7284,7 @@
                 "Description": "Zone is the all-in-one companion for ZONE events. Features a live DJ lineup, activity tracker, staff directory, Zone Vision HUD overlay, and midnight time lock.\n\nCommands:\n/zone - Open Zone\n/zonevision - Toggle HUD overlay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/ZONE",
-                "LastUpdate": 1775284114
+                "LastUpdate": 1775370779
             }
         ]
     },
@@ -7390,7 +7407,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1775183586
+                "LastUpdate": 1775365203
             }
         ]
     },
@@ -7868,7 +7885,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1774108635,
+                "LastUpdate": 1775371231,
                 "is_closed_source": true
             },
             {
@@ -7878,7 +7895,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1774108635,
+                "LastUpdate": 1775371231,
                 "is_closed_source": true
             },
             {
@@ -7888,7 +7905,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1774108635,
+                "LastUpdate": 1775371231,
                 "is_closed_source": true
             },
             {
@@ -9652,7 +9669,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1775290925
+                "LastUpdate": 1775372896
             }
         ]
     },
@@ -12036,7 +12053,7 @@
                 "InternalName": "VenueScope",
                 "Description": "Browse FFXIV community events from Partake.gg and FFXIV Venue directly in-game. Filter by data center, time, and tags.\n\n/venuescope or /vs — Open VenueScope",
                 "DalamudApiLevel": 14,
-                "LastUpdate": 1774789713
+                "LastUpdate": 1775362825
             }
         ]
     },
@@ -12361,6 +12378,66 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/vibicer/Chat-Translator-AI",
                 "LastUpdate": 1747143334
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "VimaFFXIV",
+        "repo_url": "https://raw.githubusercontent.com/VimaFFXIV/CountdownHide/master/repo.json",
+        "repo_source_url": "https://github.com/VimaFFXIV/CountdownHide",
+        "repo_name": "CountdownHide",
+        "plugins": [
+            {
+                "Author": "Mbobchin",
+                "Name": "CountdownHide",
+                "InternalName": "CountdownHide",
+                "Description": "Suppresses the large on-screen countdown overlay produced by the /countdown command. The countdown still runs and fires normally — only the visual is hidden.\n\nCommands:\n/countdownhide — toggle the feature on/off\n/countdownhide config — open settings",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/VimaFFXIV/CountdownHide",
+                "LastUpdate": 1775360906
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "VimaFFXIV",
+        "repo_url": "https://raw.githubusercontent.com/VimaFFXIV/DalamudPlugins/master/repo.json",
+        "repo_source_url": "https://github.com/VimaFFXIV/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "VimaFFXIV",
+                "Name": "CountdownHide",
+                "InternalName": "CountdownHide",
+                "Description": "Suppresses the large on-screen countdown overlay produced by the /countdown command. The countdown still runs and fires normally — only the visual is hidden.\n\nCommands:\n/cdhide — toggle the feature on/off\n/cdhide config — open settings",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/VimaFFXIV/CountdownHide",
+                "LastUpdate": 1775360906
+            },
+            {
+                "Author": "VimaFFXIV",
+                "Name": "MacroVault",
+                "InternalName": "MacroVault",
+                "Description": "MacroVault lets you send your FFXIV macros to a Discord channel via webhook.\n\nCommands:\n/mvexport — export the currently selected macro\n/mvbackup — export all non-empty macros (both tabs)\n/mv — open the settings window",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/VimaFFXIV/MacroVault",
+                "LastUpdate": 1775360908
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "VimaFFXIV",
+        "repo_url": "https://raw.githubusercontent.com/VimaFFXIV/MacroVault/master/repo.json",
+        "repo_source_url": "https://github.com/VimaFFXIV/MacroVault",
+        "repo_name": "MacroVault",
+        "plugins": [
+            {
+                "Author": "Mbobchin",
+                "Name": "MacroVault",
+                "InternalName": "MacroVault",
+                "Description": "MacroVault lets you send your FFXIV macros to a Discord channel via webhook.\n\nCommands:\n/mvexport — export the currently selected macro\n/mvbackup — export all non-empty macros (both tabs)\n/mv — open the settings window",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/VimaFFXIV/MacroVault",
+                "LastUpdate": 1775360908
             }
         ]
     },
@@ -13017,6 +13094,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
                 "LastUpdate": 1769606254
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Yodhrin13",
+        "repo_url": "https://raw.githubusercontent.com/Yodhrin13/XIVRolladeck/master/repo.json",
+        "repo_source_url": "https://github.com/Yodhrin13/XIVRolladeck",
+        "repo_name": "XIVRolladeck",
+        "plugins": [
+            {
+                "Author": "XIV Rolladeck Team",
+                "Name": "XIVRolladeck",
+                "InternalName": "XIVRolladeck",
+                "Description": "Track live DJs and venues across Eorzea with real-time updates from XIV Rolladeck.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Yodhrin13/XIVRolladeck",
+                "LastUpdate": 1775372585
             }
         ]
     },
