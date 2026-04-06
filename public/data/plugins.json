@@ -1205,7 +1205,7 @@
                 "Description": "自动化 T 职副本场次成就刷取工具\n注意: 副本战斗需要自行使用其他插件解决",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/UntarnishedHeart",
-                "LastUpdate": 1775411964
+                "LastUpdate": 1775458585
             },
             {
                 "Author": "ocealot, AtmoOmen (汉化)",
@@ -3329,7 +3329,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarRepo",
-                "LastUpdate": 1775425764
+                "LastUpdate": 1775452342
             },
             {
                 "Author": "Sonar Team",
@@ -3338,7 +3338,7 @@
                 "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1775425748
+                "LastUpdate": 1775452324
             },
             {
                 "Author": "Sonar Team",
@@ -3347,7 +3347,7 @@
                 "Description": "마물, 돌발 전파를 자동으로 주고받습니다. /sonar 명령어로 알림 오버레이를 열고, /sonarconfig 으로 설정 창을 엽니다. 지원은 Sonar Support Discord에서만 제공됩니다.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarDistrib",
-                "LastUpdate": 1775425748
+                "LastUpdate": 1775452324
             }
         ],
         "repo_name": "SonarRepo",
@@ -5629,7 +5629,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1775440247
+                "LastUpdate": 1775463507
             }
         ]
     },
@@ -5655,7 +5655,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix-private/RSR-kk-special",
-                "LastUpdate": 1775440247
+                "LastUpdate": 1775463507
             }
         ]
     },
@@ -6423,6 +6423,24 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/maributt/Reset-dummy-enmity-command",
                 "LastUpdate": 1731643185
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/marzent/IINACT/raw/main/repo.json",
+        "repo_source_url": "https://github.com/marzent/IINACT",
+        "repo_discord_url": "https://discord.gg/pcexJC8YPG",
+        "repo_name": "IINACT",
+        "repo_developer_name": "marzent",
+        "plugins": [
+            {
+                "Author": "Usagi",
+                "Name": "IINACT",
+                "InternalName": "IINACT",
+                "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/marzent/IINACT",
+                "LastUpdate": 1774374425
             }
         ]
     },
@@ -7257,7 +7275,7 @@
                 "Description": "Zone is the all-in-one companion for ZONE events. Features a live DJ lineup, activity tracker, staff directory, Zone Vision HUD overlay, and midnight time lock.\n\nCommands:\n/zone - Open Zone\n/zonevision - Toggle HUD overlay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/ZONE",
-                "LastUpdate": 1775370779
+                "LastUpdate": 1775457987
             }
         ]
     },
@@ -7573,7 +7591,7 @@
                 "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1773276673
+                "LastUpdate": 1775450257
             },
             {
                 "Author": "NightmareXIV",
@@ -7719,7 +7737,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1770641781,
+                "LastUpdate": 1775457522,
                 "is_closed_source": true
             },
             {
@@ -7729,7 +7747,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1770641781,
+                "LastUpdate": 1775457522,
                 "is_closed_source": true
             },
             {
@@ -7739,7 +7757,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1770641781,
+                "LastUpdate": 1775457522,
                 "is_closed_source": true
             },
             {
@@ -7812,7 +7830,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1775224666
+                "LastUpdate": 1775457144
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -7821,7 +7839,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1775224666
+                "LastUpdate": 1775457144
             },
             {
                 "Author": "NiGuangOwO",
@@ -9642,7 +9660,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1775372896
+                "LastUpdate": 1775462042
             }
         ]
     },
@@ -10759,6 +10777,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SetsuaD/CeeLoPlugin",
                 "LastUpdate": 1743915263
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "seventity7",
+        "repo_url": "https://raw.githubusercontent.com/seventity7/Auto-Death-Roll/main/repo.json",
+        "repo_source_url": "https://github.com/seventity7/Auto-Death-Roll",
+        "repo_name": "Auto-Death-Roll",
+        "plugins": [
+            {
+                "Author": "Bryer",
+                "Name": "Auto Death Roll",
+                "InternalName": "AutoDeathRoll",
+                "Description": "Easyest Death Roll of your life.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/seventity7/Auto-Death-Roll",
+                "LastUpdate": 1775447947
             }
         ]
     },
@@ -12878,6 +12913,23 @@
         ]
     },
     {
+        "repo_developer_name": "XIVRolladeck",
+        "repo_url": "https://raw.githubusercontent.com/XIVRolladeck/XIVRolladeckPlugin/main/repo.json",
+        "repo_source_url": "https://github.com/XIVRolladeck/XIVRolladeckPlugin",
+        "repo_name": "XIVRolladeckPlugin",
+        "plugins": [
+            {
+                "Author": "XIV Rolladeck Team",
+                "Name": "XIVRolladeck",
+                "InternalName": "XIVRolladeck",
+                "Description": "Track live DJs and venues across Eorzea with real-time updates from XIV Rolladeck.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/XIVRolladeck/XIVRolladeckPlugin",
+                "LastUpdate": 1775460823
+            }
+        ]
+    },
+    {
         "repo_developer_name": "xivwolf",
         "repo_url": "https://raw.githubusercontent.com/xivwolf/a-tour-ingame/master/pluginmaster.json",
         "repo_source_url": "https://github.com/xivwolf/a-tour-ingame",
@@ -13083,7 +13135,7 @@
                 "Description": "Track live DJs and venues across Eorzea with real-time updates from XIV Rolladeck.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Yodhrin13/XIVRolladeck",
-                "LastUpdate": 1775421910
+                "LastUpdate": 1775461835
             }
         ]
     },
