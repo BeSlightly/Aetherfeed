@@ -999,7 +999,7 @@
                 "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1775603227
+                "LastUpdate": 1775671571
             }
         ]
     },
@@ -1164,7 +1164,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1775640314,
+                "LastUpdate": 1775667927,
                 "is_closed_source": true
             },
             {
@@ -1174,7 +1174,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1775640314,
+                "LastUpdate": 1775667927,
                 "is_closed_source": true
             },
             {
@@ -1184,7 +1184,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1775640314,
+                "LastUpdate": 1775667927,
                 "is_closed_source": true
             },
             {
@@ -3335,7 +3335,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1775172168
+                "LastUpdate": 1775684623
             },
             {
                 "Author": "Churin",
@@ -5671,7 +5671,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1775473858
+                "LastUpdate": 1775687535
             }
         ]
     },
@@ -5697,7 +5697,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix-private/RSR-kk-special",
-                "LastUpdate": 1775473858
+                "LastUpdate": 1775687535
             }
         ]
     },
@@ -5867,7 +5867,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1772310941
+                "LastUpdate": 1775682042
             }
         ]
     },
@@ -7144,7 +7144,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1775657779
+                "LastUpdate": 1775686322
             }
         ]
     },
@@ -8109,7 +8109,24 @@
                 "Description": "Intelligent /bm replacement.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NNekoPlugins/NNekoBattleMode",
-                "LastUpdate": 1775600458
+                "LastUpdate": 1775670312
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/NNekoBattleMode/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/NNekoBattleMode",
+        "repo_name": "NNekoBattleMode",
+        "plugins": [
+            {
+                "Author": "NaughtyNeko",
+                "Name": "NNekoBattleMode",
+                "InternalName": "NNekoBattleMode",
+                "Description": "Intelligent /bm replacement.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NNekoPlugins/NNekoBattleMode",
+                "LastUpdate": 1775670312
             }
         ]
     },
@@ -9469,7 +9486,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1775620831
+                "LastUpdate": 1775676439
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -10115,7 +10132,7 @@
                 "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Infiziert90/ChatTwo",
-                "LastUpdate": 1774188225
+                "LastUpdate": 1775675736
             },
             {
                 "Author": "Bluefissure",
@@ -10196,23 +10213,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-SmartPings",
                 "LastUpdate": 1767018391
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Rixifer",
-        "repo_url": "https://raw.githubusercontent.com/Rixifer/Sentinel/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Rixifer/Sentinel",
-        "repo_name": "Sentinel",
-        "plugins": [
-            {
-                "Author": "Rixifer",
-                "Name": "Sentinel",
-                "InternalName": "Sentinel",
-                "Description": "Draws AoE mechanic indicators directly on the game ground. Reveals untelegraphed AoEs with a cast-progress color gradient. Complements BossModReborn.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Rixifer/Sentinel",
-                "LastUpdate": 1775338653
             }
         ]
     },
@@ -13367,7 +13367,7 @@
                 "Description": "Native DPS Meters for Final Fantasy XIV, still in beta and may be subject to change.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Zeffuro/NativeMeters",
-                "LastUpdate": 1773744338
+                "LastUpdate": 1775686400
             }
         ]
     },
