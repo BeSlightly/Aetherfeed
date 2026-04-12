@@ -952,6 +952,22 @@
         ]
     },
     {
+        "repo_developer_name": "arzolath",
+        "repo_url": "https://raw.githubusercontent.com/arzolath/FFXIV_BigBody/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/arzolath/FFXIV_BigBody",
+        "repo_name": "FFXIV_BigBody",
+        "plugins": [
+            {
+                "Author": "Arzolath",
+                "Name": "BigBody",
+                "InternalName": "BigBody",
+                "Description": "Lets you resize your character and automatically adjust the nameplate position. Contact: support@arzolath.com",
+                "RepoUrl": "https://github.com/arzolath/FFXIV_BigBody",
+                "LastUpdate": 1776010611
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ashandarei",
         "repo_url": "https://raw.githubusercontent.com/ashandarei/fast-release/main/repo.json",
         "repo_source_url": "https://github.com/ashandarei/fast-release",
@@ -1685,7 +1701,7 @@
                 "InternalName": "XIVVenueManagerSync",
                 "Description": "Automatically sync patron enter/leave events to your XIVVenueManager.",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
-                "LastUpdate": 1775995336
+                "LastUpdate": 1776015574
             }
         ]
     },
@@ -3204,7 +3220,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1775091830
+                "LastUpdate": 1776021114
             }
         ]
     },
@@ -4176,7 +4192,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1775990819
+                "LastUpdate": 1776009806
             },
             {
                 "Author": "daemitus, croizat",
@@ -4341,7 +4357,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1775990819
+                "LastUpdate": 1776009806
             },
             {
                 "Author": "daemitus, croizat",
@@ -4887,7 +4903,7 @@
                 "Description": "LangSwap allows you to change the language of castbars and tooltips in FFXIV by pressing a keyboard shortcut. Press again the key(s) to return to your original language.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jo44/LangSwap",
-                "LastUpdate": 1776002631
+                "LastUpdate": 1776013767
             }
         ]
     },
@@ -5385,7 +5401,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1775091830
+                "LastUpdate": 1776021114
             }
         ]
     },
@@ -5746,7 +5762,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1776000434
+                "LastUpdate": 1776008453
             }
         ]
     },
@@ -5763,7 +5779,16 @@
                 "Description": "Adds a context menu action to open hovered items in an external wiki.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KotoLetta/kotoffxivrepo",
-                "LastUpdate": 1767455866
+                "LastUpdate": 1776007353
+            },
+            {
+                "Author": "KotoLetta",
+                "Name": "OOFs!",
+                "InternalName": "OofsPlugin",
+                "Description": "Play the OOFs! sound on fall and/or death. Includes options for deaths, fall damage, and custom audio.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/KotoLetta/kotoffxivrepo",
+                "LastUpdate": 1776007353
             }
         ]
     },
@@ -6596,6 +6621,15 @@
         "plugins": [
             {
                 "Author": "DhogGPT",
+                "Name": "AI Duty Solver",
+                "InternalName": "ADS",
+                "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/McVaxius/ADS",
+                "LastUpdate": 1776012103
+            },
+            {
+                "Author": "DhogGPT",
                 "Name": "Chocobo Colourized",
                 "InternalName": "ChocoboColourized",
                 "Description": "(Personal Chocobo) Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
@@ -7118,7 +7152,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1776003039
+                "LastUpdate": 1776022788
             }
         ]
     },
@@ -7414,7 +7448,7 @@
                 "Description": "Outil de jets de dés pour le Système Très Simple.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Neferith/sts_dalamud_plugin",
-                "LastUpdate": 1775996810
+                "LastUpdate": 1776019853
             }
         ]
     },
@@ -9355,7 +9389,7 @@
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1775089895
+                "LastUpdate": 1776024165
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -9436,7 +9470,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1775990819
+                "LastUpdate": 1776009806
             },
             {
                 "Author": "daemitus, kawaii",
@@ -13358,7 +13392,7 @@
                 "Description": "RPFramework provides roleplay helpers including a custom item inventory (/rpinv or /rpinventory), a synced BGM player (/rpbgm), inventory trading and shared bags over a relay server, and more modules coming soon.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ZeroTheScyther/RPFramework",
-                "LastUpdate": 1775967944
+                "LastUpdate": 1776025046
             }
         ]
     },
