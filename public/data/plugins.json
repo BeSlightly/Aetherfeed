@@ -1862,7 +1862,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1775177637
+                "LastUpdate": 1776041718
             },
             {
                 "Author": "Caraxi",
@@ -4051,7 +4051,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1775998863
+                "LastUpdate": 1776043979
             },
             {
                 "Author": "Haselnussbomber",
@@ -4129,7 +4129,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1775947050,
+                "LastUpdate": 1776038699,
                 "is_closed_source": true
             }
         ]
@@ -4903,7 +4903,7 @@
                 "Description": "LangSwap allows you to change the language of castbars and tooltips in FFXIV by pressing a keyboard shortcut. Press again the key(s) to return to your original language.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jo44/LangSwap",
-                "LastUpdate": 1776013767
+                "LastUpdate": 1776026010
             }
         ]
     },
@@ -6635,7 +6635,7 @@
                 "Description": "(Personal Chocobo) Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
-                "LastUpdate": 1775665712
+                "LastUpdate": 1776025924
             },
             {
                 "Author": "DhogGPT",
@@ -6734,7 +6734,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1775664858
+                "LastUpdate": 1776046198
             }
         ]
     },
@@ -6751,7 +6751,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1775664858
+                "LastUpdate": 1776046198
             }
         ]
     },
@@ -7152,7 +7152,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1776022788
+                "LastUpdate": 1776027895
             }
         ]
     },
@@ -7448,7 +7448,7 @@
                 "Description": "Outil de jets de dés pour le Système Très Simple.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Neferith/sts_dalamud_plugin",
-                "LastUpdate": 1776019853
+                "LastUpdate": 1776028314
             }
         ]
     },
@@ -8118,6 +8118,40 @@
                 "Description": "Automatically shout/yell a custom macro across all worlds and major cities using Lifestream and ECommons. Supports all regions (NA/EU/JP/OCE), auto-resume, zone detection, and comprehensive error handling.",
                 "RepoUrl": "https://github.com/nilah-xiv/Shout-Bot-Repo",
                 "LastUpdate": 1772075273
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/NNekoTriggers/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/NNekoTriggers",
+        "repo_name": "NNekoTriggers",
+        "plugins": [
+            {
+                "Author": "NaughtyNeko",
+                "Name": "NNekoTriggers",
+                "InternalName": "NNekoTriggers",
+                "Description": "Sets per-character chat command triggered on:\n- Zone changes\n - Class/Job Swaps\n- Login\n Other Options:\n - Roleplay Only Toggle (Blocks unless \"RP\" Online Status is set)\n - RNG Toggle (Triggers fire randomly, given a custom min/max range)\n - Override Toggle (Overrides commands set for all triggers with a master command)",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NNekoPlugins/NNekoTriggers",
+                "LastUpdate": 1776042144
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/NNekoWeaponIcons/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/NNekoWeaponIcons",
+        "repo_name": "NNekoWeaponIcons",
+        "plugins": [
+            {
+                "Author": "NaughtyNeko",
+                "Name": "NNekoWeaponIcons",
+                "InternalName": "NNekoWeaponIcons",
+                "Description": "Adds a Clas/Job Icon Overlay in Armoury Chest.  Split from VIWI plugin's Kitchen Sink module.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NNekoPlugins/NNekoWeaponIcons",
+                "LastUpdate": 1776045331
             }
         ]
     },
@@ -8876,7 +8910,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1775595817
+                "LastUpdate": 1776041187
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -13392,7 +13426,7 @@
                 "Description": "RPFramework provides roleplay helpers including a custom item inventory (/rpinv or /rpinventory), a synced BGM player (/rpbgm), inventory trading and shared bags over a relay server, and more modules coming soon.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ZeroTheScyther/RPFramework",
-                "LastUpdate": 1776025046
+                "LastUpdate": 1776042603
             }
         ]
     },
@@ -13503,7 +13537,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1775595817
+                "LastUpdate": 1776041187
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
