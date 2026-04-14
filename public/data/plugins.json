@@ -1180,7 +1180,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1775976990,
+                "LastUpdate": 1776146714,
                 "is_closed_source": true
             },
             {
@@ -1190,7 +1190,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1775976990,
+                "LastUpdate": 1776146714,
                 "is_closed_source": true
             },
             {
@@ -1200,7 +1200,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1775976990,
+                "LastUpdate": 1776146714,
                 "is_closed_source": true
             },
             {
@@ -2846,6 +2846,23 @@
         ]
     },
     {
+        "repo_developer_name": "ElyFura",
+        "repo_url": "https://raw.githubusercontent.com/ElyFura/Easy-Chatlog/main/repo.json",
+        "repo_source_url": "https://github.com/ElyFura/Easy-Chatlog",
+        "repo_name": "Easy-Chatlog",
+        "plugins": [
+            {
+                "Author": "ElyFura",
+                "Name": "Easy Chatlog",
+                "InternalName": "EasyChatlog",
+                "Description": "Captures your in-game chat, exports it (txt/json/html/md) and optionally forwards it live to a Discord channel via webhook or bot. Type /easychatlog or /ecl to open the main window or /easychatlog config for settings.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/ElyFura/easy-chatlog",
+                "LastUpdate": 1776128519
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/emyxiv/Dresser/raw/master/repo.json",
         "repo_source_url": "https://github.com/emyxiv/Dresser",
         "repo_name": "Dresser",
@@ -3254,7 +3271,7 @@
                 "Description": "Advanced marketboard tools and cross-world arbitrage scanning.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ff14-advanced-market-search/SaddlebagExchangeMarketboardPlugin",
-                "LastUpdate": 1776122230
+                "LastUpdate": 1776125304
             }
         ]
     },
@@ -4553,7 +4570,7 @@
                 "InternalName": "TomestonePhone",
                 "Description": "TomestonePhone adds a styled in-game phone UI with contacts, SMS, calls, group chat, and friend tools.",
                 "RepoUrl": "https://github.com/ImOv3rburdened/TomstonePhone",
-                "LastUpdate": 1775780455
+                "LastUpdate": 1776132671
             }
         ]
     },
@@ -5762,7 +5779,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1776008453
+                "LastUpdate": 1776146082
             }
         ]
     },
@@ -6013,7 +6030,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1775494344
+                "LastUpdate": 1776134145
             }
         ]
     },
@@ -7113,12 +7130,21 @@
         "plugins": [
             {
                 "Author": "lin",
+                "Name": "Hotswap",
+                "InternalName": "Hotswap",
+                "Description": "Like /hotbar but it lets you set macros",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/mousseng/DalamudPlugins",
+                "LastUpdate": 1776127748
+            },
+            {
+                "Author": "lin",
                 "Name": "omgcombo",
                 "InternalName": "omgcombo",
                 "Description": "Lazy one-button combos and stuff",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mousseng/DalamudPlugins",
-                "LastUpdate": 1768868587
+                "LastUpdate": 1776127748
             }
         ]
     },
@@ -7482,7 +7508,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1775784288
+                "LastUpdate": 1776139160
             }
         ]
     },
@@ -9494,7 +9520,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1775926116
+                "LastUpdate": 1776128306
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -12925,7 +12951,7 @@
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1775773476
+                "LastUpdate": 1776138255
             }
         ]
     },
@@ -13026,7 +13052,7 @@
                 "Description": "Track live DJs and venues across Eorzea with real-time updates from XIV Rolladeck.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XIVRolladeck/XIVRolladeckPlugin",
-                "LastUpdate": 1775878312
+                "LastUpdate": 1776146080
             }
         ]
     },
