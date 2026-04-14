@@ -1455,7 +1455,7 @@
                 "Description": "Automates retainer item listing and repricing by cycling through retainers, reading market prices from Universalis, and updating listings safely. Use /repricer or /rr to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/baanderson40/Retainer-Repricer",
-                "LastUpdate": 1774019763
+                "LastUpdate": 1776108823
             }
         ]
     },
@@ -2139,7 +2139,7 @@
                 "Description": "An inclusive and extensive custom status effect manager. Apply them to targets, group custom statuses with presets, or apply them under conditional events.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/CordeliaMist/Loci",
-                "LastUpdate": 1775769913
+                "LastUpdate": 1776116842
             }
         ]
     },
@@ -3254,7 +3254,7 @@
                 "Description": "Advanced marketboard tools and cross-world arbitrage scanning.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ff14-advanced-market-search/SaddlebagExchangeMarketboardPlugin",
-                "LastUpdate": 1775872314
+                "LastUpdate": 1776122230
             }
         ]
     },
@@ -5288,7 +5288,7 @@
                 "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1771306312
+                "LastUpdate": 1776112452
             }
         ]
     },
@@ -5779,7 +5779,7 @@
                 "Description": "Adds a context menu action to open hovered items in an external wiki.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KotoLetta/kotoffxivrepo",
-                "LastUpdate": 1776007353
+                "LastUpdate": 1776106984
             },
             {
                 "Author": "KotoLetta",
@@ -5788,7 +5788,7 @@
                 "Description": "Play the OOFs! sound on fall and/or death. Includes options for deaths, fall damage, and custom audio.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KotoLetta/kotoffxivrepo",
-                "LastUpdate": 1776007353
+                "LastUpdate": 1776106984
             }
         ]
     },
@@ -6608,7 +6608,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1775846293
+                "LastUpdate": 1776111839
             }
         ]
     },
@@ -6626,7 +6626,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1776012103
+                "LastUpdate": 1776107869
             },
             {
                 "Author": "DhogGPT",
@@ -6716,7 +6716,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1775846293
+                "LastUpdate": 1776111839
             },
             {
                 "Author": "DhogGPT",
@@ -7533,7 +7533,7 @@
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1775771447
+                "LastUpdate": 1776113276
             }
         ]
     },
@@ -8151,7 +8151,7 @@
                 "Description": "Adds a Clas/Job Icon Overlay in Armoury Chest.  Split from VIWI plugin's Kitchen Sink module.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NNekoPlugins/NNekoWeaponIcons",
-                "LastUpdate": 1776045331
+                "LastUpdate": 1776112712
             }
         ]
     },
@@ -8468,6 +8468,23 @@
         ]
     },
     {
+        "repo_developer_name": "OrionCloudrunner",
+        "repo_url": "https://raw.githubusercontent.com/OrionCloudrunner/ArtisanBuddy/main/repo.json",
+        "repo_source_url": "https://github.com/OrionCloudrunner/ArtisanBuddy",
+        "repo_name": "ArtisanBuddy",
+        "plugins": [
+            {
+                "Author": "Orion Cloudrunner",
+                "Name": "ArtisanBuddy",
+                "InternalName": "ArtisanBuddy",
+                "Description": "Coordinates GatherBuddy Reborn and Artisan so timed gathering windows preempt crafting lists, with optional apartment-only crafting resume and conservative teleport-stall recovery.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/OrionCloudrunner/ArtisanBuddy",
+                "LastUpdate": 1776118671
+            }
+        ]
+    },
+    {
         "repo_developer_name": "OTCompa",
         "repo_url": "https://raw.githubusercontent.com/OTCompa/frey-s-dalamud-plugins/main/plogon.json",
         "repo_source_url": "https://github.com/OTCompa/frey-s-dalamud-plugins",
@@ -8586,7 +8603,7 @@
                 "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1771306312
+                "LastUpdate": 1776112452
             },
             {
                 "Author": "Ottermandias, Nylfae, Adam, Wintermute",
@@ -10619,6 +10636,23 @@
     },
     {
         "repo_developer_name": "Sansflaire",
+        "repo_url": "https://raw.githubusercontent.com/Sansflaire/LocalCollidables/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/Sansflaire/LocalCollidables",
+        "repo_name": "LocalCollidables",
+        "plugins": [
+            {
+                "Author": "Sansflaire",
+                "Name": "Local Collidables",
+                "InternalName": "LocalCollidables",
+                "Description": "Hooks the RMI (raw movement input) pipeline to intercept player movement before it reaches the game server. When the player attempts to walk into a registered barrier volume (placed around locally-visible props), the movement component pointing into the barrier is zeroed and a sliding response is computed. The server only ever sees the player stop moving naturally.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Sansflaire/LocalCollidables",
+                "LastUpdate": 1776116387
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Sansflaire",
         "repo_url": "https://raw.githubusercontent.com/Sansflaire/PanacheUI/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Sansflaire/PanacheUI",
         "repo_name": "PanacheUI",
@@ -12036,7 +12070,7 @@
                 "Description": "Host your chat on a web server so you can talk from anywhere.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/twelvehouse/DalamudPlugins",
-                "LastUpdate": 1775619527
+                "LastUpdate": 1776123780
             },
             {
                 "Author": "twelvehouse",
@@ -12045,7 +12079,7 @@
                 "Description": "Real-time foot IK for FFXIV characters. Keeps feet planted naturally on terrain (stairs, slopes, uneven ground) during normal gameplay.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/twelvehouse/DalamudPlugins",
-                "LastUpdate": 1775619527
+                "LastUpdate": 1776123780
             }
         ]
     },
@@ -13573,7 +13607,7 @@
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1775916647
+                "LastUpdate": 1776112430
             },
             {
                 "Author": "zysilm",
