@@ -3438,7 +3438,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarRepo",
-                "LastUpdate": 1776058440
+                "LastUpdate": 1776173933
             },
             {
                 "Author": "Sonar Team",
@@ -5737,7 +5737,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1775825616
+                "LastUpdate": 1776185890
             }
         ]
     },
@@ -5763,7 +5763,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix-private/RSR-kk-special",
-                "LastUpdate": 1775825616
+                "LastUpdate": 1776185890
             }
         ]
     },
@@ -6694,7 +6694,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1776107869
+                "LastUpdate": 1776192469
             },
             {
                 "Author": "DhogGPT",
@@ -7129,6 +7129,32 @@
                 "LastUpdate": 1766894936
             }
         ]
+    },
+    {
+        "repo_developer_name": "monnef",
+        "repo_url": "https://gitlab.com/monnef/dalamud-plugin-repo/-/raw/master/master.json",
+        "repo_source_url": "https://gitlab.com/monnef/dalamud-plugin-repo",
+        "plugins": [
+            {
+                "Author": "monnef",
+                "Name": "Mayai",
+                "InternalName": "Mayai",
+                "Description": "Adds a quick-repair, so when using repair NPC you can simply click repeatedly NUM0. Possibly more features will be added in the future.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://gitlab.com/monnef/mayai",
+                "LastUpdate": 1737187812
+            },
+            {
+                "Author": "monnef",
+                "Name": "Teiden",
+                "InternalName": "TeidenPlugin",
+                "Description": "Relay chat messages to your server.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://gitlab.com/monnef/teiden",
+                "LastUpdate": 1722230218
+            }
+        ],
+        "repo_name": "dalamud-plugin-repo"
     },
     {
         "repo_developer_name": "Moon-Magic-Z",
@@ -9348,7 +9374,7 @@
                 "Description": "Spawn screens in the world to display media content.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins",
-                "LastUpdate": 1774182392,
+                "LastUpdate": 1776182238,
                 "is_closed_source": true
             },
             {
@@ -10356,7 +10382,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1775922827
+                "LastUpdate": 1776185048
             }
         ]
     },
@@ -11279,7 +11305,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1776165532
+                "LastUpdate": 1776171249
             },
             {
                 "Author": "XSZYYS",
@@ -11288,7 +11314,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1776165532,
+                "LastUpdate": 1776171249,
                 "is_closed_source": true
             }
         ]
@@ -11830,6 +11856,23 @@
         ],
         "repo_name": "MyDalamudPlugins",
         "repo_developer_name": "thakyZ"
+    },
+    {
+        "repo_developer_name": "TheDeathDragon",
+        "repo_url": "https://raw.githubusercontent.com/TheDeathDragon/SkinTattoo/master/repo.json",
+        "repo_source_url": "https://github.com/TheDeathDragon/SkinTattoo",
+        "repo_name": "SkinTattoo",
+        "plugins": [
+            {
+                "Author": "Shiro",
+                "Name": "SkinTattoo",
+                "InternalName": "SkinTattoo",
+                "Description": "Composites image decals onto character skin textures (diffuse + normal) in real time via Penumbra. No game file modification. Supports per-layer emissive, iris glow, ColorTable PBR, and Mod (.pmp) export. Under active development - feedback welcome via Issues or Discord. Type /skintattoo to open.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
+                "LastUpdate": 1776189576
+            }
+        ]
     },
     {
         "repo_developer_name": "TheHeadpatCat",
@@ -12740,7 +12783,7 @@
                 "Description": "Uploads your game statistics (such as quest progress, gil, retainer stats) to an InfluxDB or QuestDB instance, making it possible to automatically track your progress through external tools such as Grafana.\n\nOriginally created by Liza Carvelli.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Influx",
-                "LastUpdate": 1774877716
+                "LastUpdate": 1776183701
             },
             {
                 "Author": "MacaronDream",
@@ -12792,7 +12835,7 @@
                 "Description": "Created by Liza Carvelli, maintained by WigglyMuffin.\n\nUploads your game statistics (such as quest progress, gil, retainer stats) to an InfluxDB or QuestDB instance, making it possible to automatically track your progress through external tools such as Grafana.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WigglyMuffin/Influx",
-                "LastUpdate": 1774877716
+                "LastUpdate": 1776183701
             },
             {
                 "Author": "MacaronDream",
