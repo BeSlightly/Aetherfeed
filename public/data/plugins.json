@@ -1180,7 +1180,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1776146714,
+                "LastUpdate": 1776163140,
                 "is_closed_source": true
             },
             {
@@ -1190,7 +1190,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1776146714,
+                "LastUpdate": 1776163140,
                 "is_closed_source": true
             },
             {
@@ -1200,7 +1200,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1776146714,
+                "LastUpdate": 1776163140,
                 "is_closed_source": true
             },
             {
@@ -1850,6 +1850,23 @@
         ]
     },
     {
+        "repo_developer_name": "cantascendia",
+        "repo_url": "https://raw.githubusercontent.com/cantascendia/AstralSolver/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/cantascendia/AstralSolver",
+        "repo_name": "AstralSolver",
+        "plugins": [
+            {
+                "Author": "AstralSolver Team",
+                "Name": "AstralSolver",
+                "InternalName": "AstralSolver",
+                "Description": "AI-driven intelligent combat assistant. Features smart Astrologian card play, dual-rail timeline navigator, and training mode with scoring. Supports Chinese and Japanese.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Loveil381/AstralSolver",
+                "LastUpdate": 1772120668
+            }
+        ]
+    },
+    {
         "repo_url": "https://repo.caraxian.com",
         "repo_source_url": "https://github.com/Caraxi/SimpleGlamourSwitcher",
         "repo_name": "SimpleGlamourSwitcher",
@@ -1862,7 +1879,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1776041718
+                "LastUpdate": 1776169610
             },
             {
                 "Author": "Caraxi",
@@ -2345,6 +2362,23 @@
         ]
     },
     {
+        "repo_developer_name": "D3FVLT",
+        "repo_url": "https://raw.githubusercontent.com/D3FVLT/Notificator/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/D3FVLT/Notificator",
+        "repo_name": "Notificator",
+        "plugins": [
+            {
+                "Author": "D3FVLT",
+                "Name": "Notificator",
+                "InternalName": "Notificator",
+                "Description": "Send Telegram notifications for various in-game events like level ups, currency thresholds, duty completion, and more.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/D3FVLT/Notificator",
+                "LastUpdate": 1776158306
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json",
         "repo_source_url": "https://github.com/daemitus/MyDalamudPlugins",
         "repo_name": "MyDalamudPlugins",
@@ -2384,6 +2418,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
                 "LastUpdate": 1774867355
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "dalamudx",
+        "repo_url": "https://raw.githubusercontent.com/dalamudx/onepiece/master/repo.json",
+        "repo_source_url": "https://github.com/dalamudx/onepiece",
+        "repo_name": "onepiece",
+        "plugins": [
+            {
+                "Author": "dalamudx",
+                "Name": "One Piece",
+                "InternalName": "OnePiece",
+                "Description": "Import coordinates from selected channels and enjoy your treasure hunt. Optimize routes considering player location, aetheryte costs, and distances.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/dalamudx/onepiece",
+                "LastUpdate": 1776149916
             }
         ]
     },
@@ -4494,7 +4545,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1776064711
+                "LastUpdate": 1776148700
             }
         ]
     },
@@ -7080,32 +7131,6 @@
         ]
     },
     {
-        "repo_developer_name": "monnef",
-        "repo_url": "https://gitlab.com/monnef/dalamud-plugin-repo/-/raw/master/master.json",
-        "repo_source_url": "https://gitlab.com/monnef/dalamud-plugin-repo",
-        "plugins": [
-            {
-                "Author": "monnef",
-                "Name": "Mayai",
-                "InternalName": "Mayai",
-                "Description": "Adds a quick-repair, so when using repair NPC you can simply click repeatedly NUM0. Possibly more features will be added in the future.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://gitlab.com/monnef/mayai",
-                "LastUpdate": 1737187812
-            },
-            {
-                "Author": "monnef",
-                "Name": "Teiden",
-                "InternalName": "TeidenPlugin",
-                "Description": "Relay chat messages to your server.",
-                "DalamudApiLevel": 11,
-                "RepoUrl": "https://gitlab.com/monnef/teiden",
-                "LastUpdate": 1722230218
-            }
-        ],
-        "repo_name": "dalamud-plugin-repo"
-    },
-    {
         "repo_developer_name": "Moon-Magic-Z",
         "repo_url": "https://raw.githubusercontent.com/Moon-Magic-Z/Moon-Magic/main/repo.json",
         "repo_source_url": "https://github.com/Moon-Magic-Z/Moon-Magic",
@@ -7368,7 +7393,7 @@
                 "Description": "Zone is the all-in-one companion for ZONE events. Features a live DJ lineup, activity tracker, staff directory, Zone Vision HUD overlay, and midnight time lock.\n\nCommands:\n/zone - Open Zone\n/zonevision - Toggle HUD overlay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/ZONE",
-                "LastUpdate": 1776063216
+                "LastUpdate": 1776149109
             }
         ]
     },
@@ -7508,7 +7533,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1776139160
+                "LastUpdate": 1776154004
             }
         ]
     },
@@ -9448,7 +9473,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1776064711
+                "LastUpdate": 1776148700
             },
             {
                 "Author": "Det, Taurenkey",
@@ -10228,7 +10253,7 @@
                 "Description": "An in-game voice chat plugin with character proximity detection.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-ProximityVoiceChat",
-                "LastUpdate": 1775749525
+                "LastUpdate": 1776149409
             },
             {
                 "Author": "Ricimon",
@@ -10246,7 +10271,7 @@
                 "Description": "Send other players ground pings and UI information.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-SmartPings",
-                "LastUpdate": 1775749436
+                "LastUpdate": 1776149390
             }
         ]
     },
@@ -10280,7 +10305,7 @@
                 "Description": "A plugin that allows you to upload ACT combat logs to FFLogs without leaving the game. Supports both live logging and manual log uploads.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Robert5204/FFLogsUploader",
-                "LastUpdate": 1775168743
+                "LastUpdate": 1776149160
             }
         ]
     },
@@ -11254,7 +11279,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1775896156
+                "LastUpdate": 1776165532
             },
             {
                 "Author": "XSZYYS",
@@ -11263,7 +11288,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1775896156,
+                "LastUpdate": 1776165532,
                 "is_closed_source": true
             }
         ]
@@ -12951,7 +12976,7 @@
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1776138255
+                "LastUpdate": 1776167204
             }
         ]
     },
@@ -13305,7 +13330,7 @@
                 "Description": "重定向所有职业的施法目标，避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/Macro-Redirection",
-                "LastUpdate": 20260304
+                "LastUpdate": 20260414
             },
             {
                 "Author": "YouShu",
@@ -13314,7 +13339,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260410
+                "LastUpdate": 20260414
             },
             {
                 "Author": "Meoiswa, YouShu",
