@@ -1282,7 +1282,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1776325973
+                "LastUpdate": 1776343165
             }
         ]
     },
@@ -4234,7 +4234,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1776325973
+                "LastUpdate": 1776343165
             },
             {
                 "Author": "Team Wrath",
@@ -4399,7 +4399,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1776325973
+                "LastUpdate": 1776343165
             },
             {
                 "Author": "Team Wrath",
@@ -5861,6 +5861,23 @@
         ]
     },
     {
+        "repo_developer_name": "kuchris",
+        "repo_url": "https://raw.githubusercontent.com/kuchris/xivaichat/main/repo.json",
+        "repo_source_url": "https://github.com/kuchris/xivaichat",
+        "repo_name": "xivaichat",
+        "plugins": [
+            {
+                "Author": "kuchris",
+                "Name": "XIV AI Chat",
+                "InternalName": "XivAiChat",
+                "Description": "Personal dev plugin that watches the selected FFXIV chat channels, sends per-channel context to LM Studio or API models like Gemini, supports saved system prompt presets, and can print or send replies back into the same channel in game. Slash command: /xivaichat",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/kuchris/xivaichat",
+                "LastUpdate": 1776341812
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Kyuraa",
         "repo_url": "https://raw.githubusercontent.com/Kyuraa/invi/master/Invi/repo.json",
         "repo_source_url": "https://github.com/Kyuraa/invi",
@@ -7212,7 +7229,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1776298947
+                "LastUpdate": 1776340196
             }
         ]
     },
@@ -7280,7 +7297,7 @@
                 "Description": "自动运行副本的插件，支持信任、副本支援、小队、多变术副本和普通副本。需要 BossMod、vnavmesh 和一个自动技能插件（Wrath Combo、BossMod AutoRotation 或 RotationSolverReborn）",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774987215
+                "LastUpdate": 1776338932
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7289,7 +7306,7 @@
                 "Description": "简化 Boss 战的综合工具集。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774987215
+                "LastUpdate": 1776338932
             },
             {
                 "Author": "NightmareXIV",
@@ -7298,7 +7315,7 @@
                 "Description": "- 一键传送至任何世界或以太网目的地\n- 在区域地图中点击以太碎片即可传送",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774987215
+                "LastUpdate": 1776338932
             },
             {
                 "Author": "Liza Carvelli",
@@ -7307,7 +7324,7 @@
                 "Description": "一个自动任务助手插件，尽可能为您自动完成任务。使用 navmesh 自动行走至所有任务路径点，并尝试自动完成所有步骤（不包括副本、单人任务战斗和战斗）。\n\n并非所有任务都受支持，请查看 Discord 或 Git 仓库获取最新列表。\n\n必需插件：vnavmesh、TextAdvance、Lifestream",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774987215
+                "LastUpdate": 1776338932
             },
             {
                 "Author": "NightmareXIV",
@@ -7316,7 +7333,7 @@
                 "Description": "Splatoon 是一个强大的辅助工具。它通过自定义标记系统革新了游戏体验，提供创建无限分组标记、标签和角色指示器的能力，具有精确的像素级精度。此功能使关键对象和事件更加直观，从而加快反应速度。请注意，插件不附带预设，玩家可以自由创建或导入现有预设。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774987215
+                "LastUpdate": 1776338932
             },
             {
                 "Author": "NightmareXIV",
@@ -7325,7 +7342,7 @@
                 "Description": "任务速通辅助工具。自动跳过对话框并确认跳过动画。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774987215
+                "LastUpdate": 1776338932
             },
             {
                 "Author": "veyn",
@@ -7334,7 +7351,7 @@
                 "Description": "自动导航移动工具，智能地带领角色在世界中穿行，巧妙地避开所有障碍物。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/mulongsheng/dalamudTW",
-                "LastUpdate": 1774987215
+                "LastUpdate": 1776338932
             }
         ]
     },
