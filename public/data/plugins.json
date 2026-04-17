@@ -433,6 +433,23 @@
         ]
     },
     {
+        "repo_developer_name": "Agent-KI7KO",
+        "repo_url": "https://raw.githubusercontent.com/Agent-KI7KO/Grabby/master/repo.json",
+        "repo_source_url": "https://github.com/Agent-KI7KO/Grabby",
+        "repo_name": "Grabby",
+        "plugins": [
+            {
+                "Author": "Eqbot, ViviAshe, astrodoobs, BeSlightly",
+                "Name": "Grabby",
+                "InternalName": "Grabby",
+                "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/BeSlightly/Grabby",
+                "LastUpdate": 1776420648
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Aida-Enna",
         "repo_url": "https://raw.githubusercontent.com/Aida-Enna/PluginRepo/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Aida-Enna/PluginRepo",
@@ -1180,7 +1197,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1776367123,
+                "LastUpdate": 1776416456,
                 "is_closed_source": true
             },
             {
@@ -1190,7 +1207,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1776367123,
+                "LastUpdate": 1776416456,
                 "is_closed_source": true
             },
             {
@@ -1200,7 +1217,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1776367123,
+                "LastUpdate": 1776416456,
                 "is_closed_source": true
             },
             {
@@ -1282,7 +1299,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1776366336
+                "LastUpdate": 1776416423
             }
         ]
     },
@@ -4234,7 +4251,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1776366336
+                "LastUpdate": 1776416423
             },
             {
                 "Author": "Team Wrath",
@@ -4399,7 +4416,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1776366336
+                "LastUpdate": 1776416423
             },
             {
                 "Author": "Team Wrath",
@@ -4528,7 +4545,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1776148700
+                "LastUpdate": 1776403939
             }
         ]
     },
@@ -6234,7 +6251,7 @@
                 "Description": "轻松收取并派遣雇员探险。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LienChan666/AutoRetainer",
-                "LastUpdate": 1775184595
+                "LastUpdate": 1776402238
             }
         ]
     },
@@ -6608,7 +6625,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1775665695
+                "LastUpdate": 1776417114
             }
         ]
     },
@@ -6659,7 +6676,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1775665735
+                "LastUpdate": 1776418152
             }
         ]
     },
@@ -6694,7 +6711,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1776316486
+                "LastUpdate": 1776418158
             },
             {
                 "Author": "DhogGPT",
@@ -6748,7 +6765,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1775665695
+                "LastUpdate": 1776417114
             },
             {
                 "Author": "DhogGPT",
@@ -6775,7 +6792,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1775665735
+                "LastUpdate": 1776418152
             },
             {
                 "Author": "DhogGPT",
@@ -6802,7 +6819,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1776046198
+                "LastUpdate": 1776417152
             }
         ]
     },
@@ -6819,7 +6836,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1776046198
+                "LastUpdate": 1776417152
             }
         ]
     },
@@ -9533,7 +9550,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1776148700
+                "LastUpdate": 1776403939
             },
             {
                 "Author": "Det, Taurenkey",
@@ -9855,7 +9872,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1776256908
+                "LastUpdate": 1776401145
             }
         ]
     },
@@ -10870,6 +10887,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
                 "LastUpdate": 1774443724
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/Sebane1/Brio/raw/main/repo.json",
+        "repo_source_url": "https://github.com/Sebane1/Brio",
+        "repo_name": "Brio",
+        "repo_developer_name": "Sebane1",
+        "plugins": [
+            {
+                "Author": "Asgard, Minmoose and Contributors",
+                "Name": "Brio",
+                "InternalName": "Brio",
+                "Description": "Control actors during GPose sessions.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/Etheirys/Brio",
+                "LastUpdate": 1774206879
             }
         ]
     },
