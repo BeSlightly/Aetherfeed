@@ -29,7 +29,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1776193344
+                "LastUpdate": 1776541187
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -38,7 +38,7 @@
                 "Description": "Boss mod.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1776304960
+                "LastUpdate": 1776547095
             },
             {
                 "Author": "ocealot",
@@ -153,7 +153,7 @@
                 "Description": "A fully-featured casino dealer plugin for FFXIV including Blackjack, Roulette, Baccrat, Craps, Texas Hold'em, and Ultima (an Uno clone) Commands: /casino to open the GUI.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/a325245/ChatCasino",
-                "LastUpdate": 1775073954
+                "LastUpdate": 1776534343
             }
         ]
     },
@@ -1197,7 +1197,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1776508473,
+                "LastUpdate": 1776530624,
                 "is_closed_source": true
             },
             {
@@ -1207,7 +1207,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1776508473,
+                "LastUpdate": 1776530624,
                 "is_closed_source": true
             },
             {
@@ -1217,7 +1217,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1776508473,
+                "LastUpdate": 1776530624,
                 "is_closed_source": true
             },
             {
@@ -1299,7 +1299,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1776529269
+                "LastUpdate": 1776530570
             }
         ]
     },
@@ -1376,7 +1376,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1776193344
+                "LastUpdate": 1776541187
             },
             {
                 "Author": "veyn, croizat",
@@ -1402,7 +1402,7 @@
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1769248637
+                "LastUpdate": 1776547245
             },
             {
                 "Author": "veyn, xan_0",
@@ -2260,7 +2260,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1776370788
+                "LastUpdate": 1776536013
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -2269,7 +2269,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1776436672
+                "LastUpdate": 1776535006
             },
             {
                 "Author": "CY",
@@ -2408,7 +2408,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1776304960
+                "LastUpdate": 1776547095
             },
             {
                 "Author": "Critical_Impact",
@@ -2589,7 +2589,7 @@
                 "Description": "Friend list but with better sorting, can search by name, refresh with a button, color names..\nRight click for context menu.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/devckuw/BetterFriendList",
-                "LastUpdate": 1775218539
+                "LastUpdate": 1776551771
             },
             {
                 "Author": "Loody",
@@ -2810,6 +2810,41 @@
         ]
     },
     {
+        "repo_url": "https://github.com/Eisenhuth/TrustworthyDalamudPlugins/raw/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/Eisenhuth/TrustworthyDalamudPlugins",
+        "repo_name": "TrustworthyDalamudPlugins",
+        "repo_developer_name": "Eisenhuth",
+        "plugins": [
+            {
+                "Author": "Eisenhuth",
+                "Name": "ChatGPT for FFXIV",
+                "InternalName": "ChatGPTPlugin",
+                "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
+                "LastUpdate": 1771103963
+            },
+            {
+                "Author": "Eisenhuth",
+                "Name": "LogChamp",
+                "InternalName": "LogchampPlugin",
+                "Description": "automatically deletes your ACT logs after a configurable amount of time",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
+                "LastUpdate": 1766132806
+            },
+            {
+                "Author": "Eisenhuth",
+                "Name": "Nael'd it for UCOB",
+                "InternalName": "NaelPlugin",
+                "Description": "Dalamud Plugin that translates Nael's quotes",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
+                "LastUpdate": 1766132898
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ElliotZ",
         "repo_url": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/pluginmaster.json",
         "repo_source_url": "https://github.com/ElliotZ/DalamudPlugins",
@@ -2879,6 +2914,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/emyxiv/Dresser/raw/master/repo.json",
+        "repo_source_url": "https://github.com/emyxiv/Dresser",
+        "repo_name": "Dresser",
+        "repo_developer_name": "emyxiv",
+        "plugins": [
+            {
+                "Author": "emyxiv",
+                "Name": "Dresser Anywhere",
+                "InternalName": "Dresser",
+                "Description": "Use dresser outside of inns. Search items in other inventories or cheap at vendors. Try on your own character. Browse modded items.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/emyxiv/Dresser",
+                "LastUpdate": 1774231915
+            }
+        ]
+    },
+    {
         "repo_developer_name": "emyxiv",
         "repo_url": "https://raw.githubusercontent.com/emyxiv/PoseBrowser/master/repo.json",
         "repo_source_url": "https://github.com/emyxiv/PoseBrowser",
@@ -2942,7 +2994,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1776501623
+                "LastUpdate": 1776541773
             }
         ]
     },
@@ -2959,7 +3011,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1776501623
+                "LastUpdate": 1776541773
             }
         ]
     },
@@ -3100,6 +3152,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/Etheirys/Brio/raw/main/repo.json",
+        "repo_source_url": "https://github.com/Etheirys/Brio",
+        "repo_name": "Brio",
+        "repo_developer_name": "Etheirys",
+        "plugins": [
+            {
+                "Author": "Minmoose, Asgard and Contributors",
+                "Name": "Brio",
+                "InternalName": "Brio",
+                "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during G-Pose.\n\n- Advanced actor posing \n\t- While animating\n\t- Adjust actor positions without them resetting\n\t- Overlay and graphical posing modes\n- Creation of up to 239 G-Pose actors\n- Creation of custom lights\n- Supports integration with Penumbra, Glamourer & Customize+\n- Offline import and export of MCDF files onto G-Pose actors\n- Play XAT .xcp camera files\n- Play/Blend animations of G-Pose actors\n- Control Time/Weather in both the Overworld and G-Pose\n- Change the active festivals and apply up to 4 at once\n- Add/Remove Status Effects of G-Pose actors",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Etheirys/Brio",
+                "LastUpdate": 1774206879
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Etheirys",
         "repo_url": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
         "repo_source_url": "https://github.com/Etheirys/WorldOfEtheirys",
@@ -3130,6 +3199,77 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Ewilhan/LMeter",
                 "LastUpdate": 1732143501
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/extrant/DalamudPlugins/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/extrant/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "repo_developer_name": "extrant",
+        "plugins": [
+            {
+                "Author": "Siren",
+                "Name": "Coyote-FFXiv",
+                "InternalName": "Coyote-FFXiv",
+                "Description": "通过条件触发实现郊狼的控制，对接Coyote。顺带支持一些RP小功能。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/extrant/Coyote-FFXiv",
+                "LastUpdate": 1762016362
+            },
+            {
+                "Author": "Siren",
+                "Name": "FFXIV Network Packet Analysis Tool",
+                "InternalName": "FFXIVNetworkPacketAnalysisTool",
+                "Description": "一个用于分析游戏内网络包详细内容的Debug工具，更推荐开发人员使用。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/extrant/FFXIVNetworkPacketAnalysisTool",
+                "LastUpdate": 1773844279
+            },
+            {
+                "Author": "Siren",
+                "Name": "GposeResizer",
+                "InternalName": "GposeResizer",
+                "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/extrant?tab=repositories",
+                "LastUpdate": 1775203129
+            },
+            {
+                "Author": "Bluefissure",
+                "Name": "HousingPos",
+                "InternalName": "HousingPos",
+                "Description": "API13修复 By Siren",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/Bluefissure/HousingPos",
+                "LastUpdate": 1763489468
+            },
+            {
+                "Author": "Siren",
+                "Name": "I-Ching-GL",
+                "InternalName": "I-Ching-GL",
+                "Description": "我是一个FF14学习插件(国服API14)",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/extrant/I-Ching",
+                "LastUpdate": 1775203140
+            },
+            {
+                "Author": "John Smith && OttoCorp",
+                "Name": "InsertNameHere3",
+                "InternalName": "InsertNameHere3",
+                "Description": "Helps you kill",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/transparent-duck/InsertNameHere3",
+                "LastUpdate": 1756391920
+            },
+            {
+                "Author": "Siren",
+                "Name": "Zhouyi",
+                "InternalName": "Zhouyi",
+                "Description": "战场小助手",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/extrant/I-Ching",
+                "LastUpdate": 1775203140
             }
         ]
     },
@@ -3206,7 +3346,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1776304960
+                "LastUpdate": 1776547095
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3283,6 +3423,42 @@
         ],
         "repo_developer_name": "FFXIV-CombatReborn",
         "is_allowed_mega_repo": true
+    },
+    {
+        "repo_url": "https://github.com/FFXIV-Sonar/SonarRepo/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/FFXIV-Sonar/SonarRepo",
+        "repo_discord_url": "https://discord.gg/K7y24Rr",
+        "plugins": [
+            {
+                "Author": "Sonar Team",
+                "Name": "Sonar Diagnostics",
+                "InternalName": "SonarDiagnostics",
+                "Description": "",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/FFXIV-Sonar/SonarRepo",
+                "LastUpdate": 1776173933
+            },
+            {
+                "Author": "Sonar Team",
+                "Name": "Sonar-preview",
+                "InternalName": "SonarPlugin-preview",
+                "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://discord.gg/K7y24Rr",
+                "LastUpdate": 1776173931
+            },
+            {
+                "Author": "Sonar Team",
+                "Name": "Sonar-preview-kr",
+                "InternalName": "SonarPlugin-preview-kr",
+                "Description": "마물, 돌발 전파를 자동으로 주고받습니다. /sonar 명령어로 알림 오버레이를 열고, /sonarconfig 으로 설정 창을 엽니다. 지원은 Sonar Support Discord에서만 제공됩니다.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://discord.gg/K7y24Rr",
+                "LastUpdate": 1776173931
+            }
+        ],
+        "repo_name": "SonarRepo",
+        "repo_developer_name": "FFXIV-Sonar"
     },
     {
         "repo_developer_name": "Finfingway",
@@ -3728,7 +3904,7 @@
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1769248637
+                "LastUpdate": 1776547245
             }
         ]
     },
@@ -4055,7 +4231,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1776193344
+                "LastUpdate": 1776541187
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -4073,7 +4249,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1776529269
+                "LastUpdate": 1776530570
             },
             {
                 "Author": "Team Wrath",
@@ -4220,7 +4396,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1776193344
+                "LastUpdate": 1776541187
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -4238,7 +4414,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1776529269
+                "LastUpdate": 1776530570
             },
             {
                 "Author": "Team Wrath",
@@ -4494,6 +4670,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/InTheWind222/SmartBlockChecker",
                 "LastUpdate": 1776000935
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/iri-impulse/IriBetaChannel/raw/main/testing.json",
+        "repo_source_url": "https://github.com/iri-impulse/IriBetaChannel/",
+        "repo_developer_name": "iri-impulse",
+        "repo_name": "IriBetaChannel",
+        "plugins": [
+            {
+                "Author": "iri",
+                "Name": "Photobooth",
+                "InternalName": "Photobooth",
+                "Description": "Take your portrait & adventurer plate game to the next level with this companion panel for the portrait editor.\n\n• Rewind, fast forward, and step through animations frame by frame.\n• Adjust character head and eye direction without moving the camera.\n• Position camera and pivot point with a top-down map.\n• More intuitive controls for lighting color and angle.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/iri-impulse/PhotoboothPlugin",
+                "LastUpdate": 1766865134
             }
         ]
     },
@@ -6863,7 +7056,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1776436672
+                "LastUpdate": 1776535006
             }
         ]
     },
@@ -7026,7 +7219,7 @@
                 "Description": "Like /hotbar but it lets you set macros",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mousseng/DalamudPlugins",
-                "LastUpdate": 1776127748
+                "LastUpdate": 1776542724
             },
             {
                 "Author": "lin",
@@ -7035,7 +7228,7 @@
                 "Description": "Lazy one-button combos and stuff",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mousseng/DalamudPlugins",
-                "LastUpdate": 1776127748
+                "LastUpdate": 1776542724
             }
         ]
     },
@@ -7208,7 +7401,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1775066703
+                "LastUpdate": 1776536935
             }
         ]
     },
@@ -7450,7 +7643,7 @@
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1776481102
+                "LastUpdate": 1776550822
             }
         ]
     },
@@ -8466,7 +8659,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1776370788
+                "LastUpdate": 1776536013
             }
         ]
     },
@@ -8510,7 +8703,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1776370788
+                "LastUpdate": 1776536013
             },
             {
                 "Author": "Anna",
@@ -8546,7 +8739,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1776436672
+                "LastUpdate": 1776535006
             },
             {
                 "Author": "Caraxi",
@@ -9445,7 +9638,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1776520963
+                "LastUpdate": 1776550679
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -9943,7 +10136,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1776436672
+                "LastUpdate": 1776535006
             }
         ]
     },
@@ -9960,7 +10153,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1776436672
+                "LastUpdate": 1776535006
             }
         ]
     },
@@ -10082,7 +10275,7 @@
                 "Description": "AutoDuty",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1776501623
+                "LastUpdate": 1776541773
             },
             {
                 "Author": "Infi, Anna",
@@ -10564,7 +10757,7 @@
                 "Description": "Places a virtual screen in 3D world space that displays images and video with proper depth testing. Supports local files, direct URLs, YouTube (via yt-dlp), and multi-player sync so all players with the plugin see the same content simultaneously.\n\nNote: yt-dlp.exe must be placed in the plugin folder for YouTube support.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sansflaire/FFXIV-TV",
-                "LastUpdate": 1773817749
+                "LastUpdate": 1776551695
             }
         ]
     },
@@ -11679,6 +11872,23 @@
         ]
     },
     {
+        "repo_developer_name": "TenaciousDaveBlack",
+        "repo_url": "https://raw.githubusercontent.com/TenaciousDaveBlack/Dote-a-base/main/XIVPlugins/repo.json",
+        "repo_source_url": "https://github.com/TenaciousDaveBlack/Dote-a-base",
+        "repo_name": "Dote-a-base",
+        "plugins": [
+            {
+                "Author": "Dave Black",
+                "Name": "Dote-a-base",
+                "InternalName": "Dote-a-base",
+                "Description": "Easily see who you have doted and who has doted you",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/TenaciousDaveBlack/Dote-a-base",
+                "LastUpdate": 1776544430
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Tenrys",
         "repo_url": "https://raw.githubusercontent.com/Tenrys/ZoomTilt/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Tenrys/ZoomTilt",
@@ -11760,7 +11970,7 @@
                 "Description": "Composites image decals onto character skin textures (diffuse + normal) in real time via Penumbra. No game file modification. Supports per-layer emissive, iris glow, ColorTable PBR, and Mod (.pmp) export. Under active development - feedback welcome via Issues or Discord. Type /skintattoo to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
-                "LastUpdate": 1776504677
+                "LastUpdate": 1776531662
             }
         ]
     },
@@ -12656,7 +12866,7 @@
                 "Description": "A VR plugin for FFXIV.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/WesleyLuk90/ffxiv-vr",
-                "LastUpdate": 1776278412
+                "LastUpdate": 1776549385
             }
         ]
     },
@@ -12977,7 +13187,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1776436672
+                "LastUpdate": 1776535006
             }
         ]
     },
@@ -13479,7 +13689,7 @@
                 "Description": "RPFramework provides roleplay helpers including a custom item inventory (/rpinv or /rpinventory), a synced BGM player (/rpbgm), inventory trading and shared bags over a relay server, and more modules coming soon.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ZeroTheScyther/RPFramework",
-                "LastUpdate": 1776056326
+                "LastUpdate": 1776539811
             }
         ]
     },
