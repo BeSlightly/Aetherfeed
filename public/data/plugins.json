@@ -648,6 +648,23 @@
         ]
     },
     {
+        "repo_developer_name": "anaa98fdgdfgw",
+        "repo_url": "https://raw.githubusercontent.com/anaa98fdgdfgw/LilithDalamud/main/repo.json",
+        "repo_source_url": "https://github.com/anaa98fdgdfgw/LilithDalamud",
+        "repo_name": "LilithDalamud",
+        "plugins": [
+            {
+                "Author": "Lilith",
+                "Name": "LilithKeyboard",
+                "InternalName": "LilithKeyboard",
+                "Description": "Displays HP/MP/Soul/Shroud as F1-F12 RGB bars on SteelSeries Apex Pro TKL via GameSense API. Reaper-aware (Soul + Shroud). Includes button to toggle Yuki's OLED Switcher.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
+                "LastUpdate": 1776618763
+            }
+        ]
+    },
+    {
         "repo_developer_name": "andrewbabbittdev",
         "repo_url": "https://raw.githubusercontent.com/andrewbabbittdev/archipendium/main/assets/repo.json",
         "repo_source_url": "https://github.com/andrewbabbittdev/archipendium",
@@ -2589,7 +2606,7 @@
                 "Description": "Friend list but with better sorting, can search by name, refresh with a button, color names..\nRight click for context menu.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/devckuw/BetterFriendList",
-                "LastUpdate": 1776593576
+                "LastUpdate": 1776610459
             },
             {
                 "Author": "Loody",
@@ -2944,6 +2961,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/emyxiv/PoseBrowser",
                 "LastUpdate": 1743269312
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "endfish",
+        "repo_url": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/endfish/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Endfish",
+                "Name": "PosePad",
+                "InternalName": "PosePad",
+                "Description": "用按钮面板快速使用站姿、坐姿、躺姿等常用姿势，以及情感动作与表情，方便在 GPose、截图、演出和角色扮演场景中配合 Mod 使用。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/endfish/PosePad",
+                "LastUpdate": 1776613853
             }
         ]
     },
@@ -3436,7 +3470,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-Sonar/SonarRepo",
-                "LastUpdate": 1776173933
+                "LastUpdate": 1776601370
             },
             {
                 "Author": "Sonar Team",
@@ -3445,7 +3479,7 @@
                 "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://discord.gg/K7y24Rr",
-                "LastUpdate": 1776173931
+                "LastUpdate": 1776601369
             },
             {
                 "Author": "Sonar Team",
@@ -3454,7 +3488,7 @@
                 "Description": "마물, 돌발 전파를 자동으로 주고받습니다. /sonar 명령어로 알림 오버레이를 열고, /sonarconfig 으로 설정 창을 엽니다. 지원은 Sonar Support Discord에서만 제공됩니다.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://discord.gg/K7y24Rr",
-                "LastUpdate": 1776173931
+                "LastUpdate": 1776601369
             }
         ],
         "repo_name": "SonarRepo",
@@ -4258,7 +4292,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1776593773
+                "LastUpdate": 1776603467
             },
             {
                 "Author": "daemitus, croizat",
@@ -4423,7 +4457,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1776593773
+                "LastUpdate": 1776603467
             },
             {
                 "Author": "daemitus, croizat",
@@ -5778,7 +5812,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1776525953
+                "LastUpdate": 1776606612
             }
         ]
     },
@@ -6283,8 +6317,7 @@
                 "InternalName": "LightlessSync",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
-                "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
-                "LastUpdate": 1772771991
+                "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient"
             }
         ]
     },
@@ -9665,7 +9698,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1776593773
+                "LastUpdate": 1776603467
             },
             {
                 "Author": "daemitus, kawaii",
@@ -11647,7 +11680,7 @@
                 "Description": "Automatically translates your outgoing messages (to the party language) and incoming messages (to your local language) using Google Translate. Overlay window included. No API Key required.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ssalazar217/EchoXIV",
-                "LastUpdate": 1776582522
+                "LastUpdate": 1776616911
             }
         ]
     },
@@ -13171,6 +13204,22 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xanunderscore/CopeSeetheMeld",
                 "LastUpdate": 1766248591
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "XeldarAlz",
+        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-MahjongAI/main/repo/repo.json",
+        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
+        "repo_name": "FFXIV-MahjongAI",
+        "plugins": [
+            {
+                "Author": "XeldarAlz",
+                "Name": "Doman Mahjong AI",
+                "InternalName": "DomanMahjongAI",
+                "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
+                "LastUpdate": 1776618525
             }
         ]
     },
