@@ -660,7 +660,7 @@
                 "Description": "Displays HP/MP/Soul/Shroud as F1-F12 RGB bars on SteelSeries Apex Pro TKL via GameSense API. Reaper-aware (Soul + Shroud). Includes button to toggle Yuki's OLED Switcher.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1776618763
+                "LastUpdate": 1776639659
             }
         ]
     },
@@ -3972,7 +3972,7 @@
                 "Description": "A relatively robust tool that allows you to non-destructively edit textures.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Glorou/TextureOverlayer",
-                "LastUpdate": 1766249248
+                "LastUpdate": 1776631836
             }
         ]
     },
@@ -4292,7 +4292,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1776603467
+                "LastUpdate": 1776622862
             },
             {
                 "Author": "daemitus, croizat",
@@ -4457,7 +4457,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1776603467
+                "LastUpdate": 1776622862
             },
             {
                 "Author": "daemitus, croizat",
@@ -5629,7 +5629,7 @@
                 "Description": "[BETA] A comprehensive writing assistant designed for FFXIV roleplayers. Automatically formats your text for seamless in-game chat, includes spell checking, thesaurus integration, and advanced editing tools to enhance your roleplay experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kirin-xiv/EorzeaScribe",
-                "LastUpdate": 1775862462
+                "LastUpdate": 1776622534
             },
             {
                 "Author": "Kirin",
@@ -6044,7 +6044,7 @@
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1776576201
+                "LastUpdate": 1776625479
             }
         ]
     },
@@ -6317,7 +6317,8 @@
                 "InternalName": "LightlessSync",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
-                "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient"
+                "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
+                "LastUpdate": 1772771991
             }
         ]
     },
@@ -7123,23 +7124,6 @@
                 "Description": "Thank you to a08381 for the original cutscene skip plugin https://github.com/a08381/Dalamud.SkipCutscene",
                 "RepoUrl": "https://github.com/MisterCatt/Working-ffxiv-pluginTemplate",
                 "LastUpdate": 1720565530
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Miu-B",
-        "repo_url": "https://raw.githubusercontent.com/Miu-B/PullToOBS/master/repo.json",
-        "repo_source_url": "https://github.com/Miu-B/PullToOBS",
-        "repo_name": "PullToOBS",
-        "plugins": [
-            {
-                "Author": "Miu-B",
-                "Name": "PullToOBS",
-                "InternalName": "PullToOBS",
-                "Description": "A Dalamud plugin that automatically controls OBS recording during FFXIV encounters. Captures 30-second replay buffer before pulls and full encounter recordings. Requires OBS WebSocket v5 and IINACT. Use /pulltoobs or /pto to configure.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Miu-B/PullToOBS",
-                "LastUpdate": 1774027016
             }
         ]
     },
@@ -8345,7 +8329,7 @@
                 "Description": "Record gameplay, UI, and moments without leaving the game.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NoHideout/EorzeaCamcorder",
-                "LastUpdate": 1775903826
+                "LastUpdate": 1776621982
             }
         ]
     },
@@ -8855,23 +8839,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/paissaheavyindustries/WheresMouse",
                 "LastUpdate": 1766510598
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/papapachin/ActionTimelineReplacement/raw/Global/repo.json",
-        "repo_source_url": "https://github.com/papapachin/ActionTimelineReplacement",
-        "repo_name": "ActionTimelineReplacement",
-        "repo_developer_name": "papapachin",
-        "plugins": [
-            {
-                "Author": "Loskh,Papachin,DethiCra",
-                "Name": "ActionTimelineReplacement(aka. ATR)",
-                "InternalName": "ActionTimelineReplacement",
-                "Description": "A simple plugin to replace timelines of actions.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/papapachin/ActionTimelineReplacement/tree/Global",
-                "LastUpdate": 1766732253
             }
         ]
     },
@@ -9548,7 +9515,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1774311141
+                "LastUpdate": 1776637506
             }
         ]
     },
@@ -9698,7 +9665,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1776603467
+                "LastUpdate": 1776622862
             },
             {
                 "Author": "daemitus, kawaii",
@@ -9921,7 +9888,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1776558572
+                "LastUpdate": 1776637937
             }
         ]
     },
@@ -10317,7 +10284,7 @@
                 "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Infiziert90/ChatTwo",
-                "LastUpdate": 1775943308
+                "LastUpdate": 1776626335
             },
             {
                 "Author": "Bluefissure",
@@ -10482,7 +10449,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1776573112
+                "LastUpdate": 1776631117
             }
         ]
     },
@@ -10790,7 +10757,7 @@
                 "Description": "Places a virtual screen in 3D world space that displays images and video with proper depth testing. Supports local files, direct URLs, YouTube (via yt-dlp), and multi-player sync so all players with the plugin see the same content simultaneously.\n\nNote: yt-dlp.exe must be placed in the plugin folder for YouTube support.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sansflaire/FFXIV-TV",
-                "LastUpdate": 1776575451
+                "LastUpdate": 1776641005
             }
         ]
     },
@@ -11680,7 +11647,7 @@
                 "Description": "Automatically translates your outgoing messages (to the party language) and incoming messages (to your local language) using Google Translate. Overlay window included. No API Key required.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ssalazar217/EchoXIV",
-                "LastUpdate": 1776616911
+                "LastUpdate": 1776625780
             }
         ]
     },
@@ -11917,7 +11884,7 @@
                 "Description": "Easily see who you have doted and who has doted you",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TenaciousDaveBlack/Dote-a-base",
-                "LastUpdate": 1776544430
+                "LastUpdate": 1776635599
             }
         ]
     },
@@ -13169,7 +13136,7 @@
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1776439930
+                "LastUpdate": 1776619066
             }
         ]
     },
@@ -13209,17 +13176,35 @@
     },
     {
         "repo_developer_name": "XeldarAlz",
+        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-DomanMahjongSolver/main/repo/repo.json",
+        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
+        "repo_name": "FFXIV-DomanMahjongSolver",
+        "plugins": [
+            {
+                "Author": "XeldarAlz",
+                "Name": "Doman Mahjong Solver",
+                "InternalName": "DomanMahjongAI",
+                "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
+                "LastUpdate": 1776636378
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "XeldarAlz",
         "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-MahjongAI/main/repo/repo.json",
         "repo_source_url": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
         "repo_name": "FFXIV-MahjongAI",
         "plugins": [
             {
                 "Author": "XeldarAlz",
-                "Name": "Doman Mahjong AI",
+                "Name": "Doman Mahjong Solver",
                 "InternalName": "DomanMahjongAI",
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1776618525
+                "LastUpdate": 1776636378
             }
         ]
     },
