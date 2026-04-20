@@ -153,7 +153,7 @@
                 "Description": "A fully-featured casino dealer plugin for FFXIV including Blackjack, Roulette, Baccrat, Craps, Texas Hold'em, and Ultima (an Uno clone) Commands: /casino to open the GUI.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/a325245/ChatCasino",
-                "LastUpdate": 1776534343
+                "LastUpdate": 1776652129
             }
         ]
     },
@@ -2173,7 +2173,7 @@
                 "Description": "An inclusive and extensive custom status effect manager. Apply them to targets, group custom statuses with presets, or apply them under conditional events.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/CordeliaMist/Loci",
-                "LastUpdate": 1776116842
+                "LastUpdate": 1776645064
             }
         ]
     },
@@ -2943,7 +2943,7 @@
                 "Description": "Use dresser outside of inns. Search items in other inventories or cheap at vendors. Try on your own character. Browse modded items.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/emyxiv/Dresser",
-                "LastUpdate": 1774231915
+                "LastUpdate": 1776645864
             }
         ]
     },
@@ -4151,7 +4151,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1776457583
+                "LastUpdate": 1776642530
             },
             {
                 "Author": "Haselnussbomber",
@@ -5003,7 +5003,7 @@
                 "Description": "LangSwap allows you to change the language of castbars and tooltips in FFXIV by pressing a keyboard shortcut. Press again the key(s) to return to your original language.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jo44/LangSwap",
-                "LastUpdate": 1776026010
+                "LastUpdate": 1776645541
             }
         ]
     },
@@ -6674,7 +6674,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1776573464
+                "LastUpdate": 1776659972
             }
         ]
     },
@@ -6725,7 +6725,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1776573466
+                "LastUpdate": 1776663425
             }
         ]
     },
@@ -6760,7 +6760,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1776516779
+                "LastUpdate": 1776663422
             },
             {
                 "Author": "DhogGPT",
@@ -6814,7 +6814,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1776573464
+                "LastUpdate": 1776659972
             },
             {
                 "Author": "DhogGPT",
@@ -6841,7 +6841,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1776573466
+                "LastUpdate": 1776663425
             },
             {
                 "Author": "DhogGPT",
@@ -6863,12 +6863,12 @@
             },
             {
                 "Author": "DhogGPT",
-                "Name": "VerMAXion",
+                "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1776566528
+                "LastUpdate": 1776658315
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -6886,7 +6886,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1776566528
+                "LastUpdate": 1776658315
             }
         ]
     },
@@ -8843,6 +8843,23 @@
         ]
     },
     {
+        "repo_url": "https://github.com/papapachin/ActionTimelineReplacement/raw/Global/repo.json",
+        "repo_source_url": "https://github.com/papapachin/ActionTimelineReplacement",
+        "repo_name": "ActionTimelineReplacement",
+        "repo_developer_name": "papapachin",
+        "plugins": [
+            {
+                "Author": "Loskh,Papachin,DethiCra",
+                "Name": "ActionTimelineReplacement(aka. ATR)",
+                "InternalName": "ActionTimelineReplacement",
+                "Description": "A simple plugin to replace timelines of actions.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/papapachin/ActionTimelineReplacement/tree/Global",
+                "LastUpdate": 1766732253
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/Paparogue/PaparogueRepo/refs/heads/main/repo.json",
         "repo_source_url": "https://github.com/Paparogue/PaparogueRepo",
         "repo_developer_name": "Paparogue",
@@ -9054,7 +9071,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1776041187
+                "LastUpdate": 1776644123
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -9515,7 +9532,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1776637506
+                "LastUpdate": 1776659090
             }
         ]
     },
@@ -10449,7 +10466,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1776631117
+                "LastUpdate": 1776655900
             }
         ]
     },
@@ -10757,7 +10774,7 @@
                 "Description": "Places a virtual screen in 3D world space that displays images and video with proper depth testing. Supports local files, direct URLs, YouTube (via yt-dlp), and multi-player sync so all players with the plugin see the same content simultaneously.\n\nNote: yt-dlp.exe must be placed in the plugin folder for YouTube support.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sansflaire/FFXIV-TV",
-                "LastUpdate": 1776641005
+                "LastUpdate": 1776663452
             }
         ]
     },
@@ -13136,7 +13153,7 @@
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1776619066
+                "LastUpdate": 1776656922
             }
         ]
     },
@@ -13834,7 +13851,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1776041187
+                "LastUpdate": 1776644123
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
