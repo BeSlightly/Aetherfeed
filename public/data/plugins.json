@@ -654,13 +654,22 @@
         "repo_name": "LilithDalamud",
         "plugins": [
             {
+                "Author": "NightmareXIV (fork: Lilith)",
+                "Name": "Lifestream Lilith",
+                "InternalName": "LifestreamLilith",
+                "Description": "Fork of Lifestream with a new 'Select_Ward' Custom Alias kind that clicks a ward number (1-30) on the HousingSelectBlock grid. Lets you build custom aliases that navigate to a specific ward. Based on NightmareXIV/Lifestream.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
+                "LastUpdate": 1776794454
+            },
+            {
                 "Author": "Lilith",
                 "Name": "LilithKeyboard",
                 "InternalName": "LilithKeyboard",
                 "Description": "Displays HP/MP/Soul/Shroud as F1-F12 RGB bars on SteelSeries Apex Pro TKL via GameSense API. Reaper-aware (Soul + Shroud). Includes button to toggle Yuki's OLED Switcher.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1776639659
+                "LastUpdate": 1776794454
             }
         ]
     },
@@ -2978,6 +2987,15 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/endfish/PosePad",
                 "LastUpdate": 1776613853
+            },
+            {
+                "Author": "veyn, croizat, Endfish (CN localization)",
+                "Name": "Visland-CN",
+                "InternalName": "visland_cn",
+                "Description": "自动处理采集、工坊排班等无人岛事务，包含中文界面与国服工坊排班导入适配。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/endfish/ffxiv_visland_cn",
+                "LastUpdate": 1776785357
             }
         ]
     },
@@ -4577,7 +4595,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1776403939
+                "LastUpdate": 1776790988
             }
         ]
     },
@@ -5200,7 +5218,7 @@
                 "Description": "Import cast logs and display them in a timeline view.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/k0etsu/CastTimeline",
-                "LastUpdate": 1776747198
+                "LastUpdate": 1776786997
             }
         ]
     },
@@ -6052,7 +6070,7 @@
                 "Description": "自用收集工具",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/LatihasExport",
-                "LastUpdate": 1776430877
+                "LastUpdate": 1776791686
             },
             {
                 "Author": "Latihas",
@@ -6691,7 +6709,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1776716072
+                "LastUpdate": 1776793001
             }
         ]
     },
@@ -6742,7 +6760,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1776737993
+                "LastUpdate": 1776792941
             }
         ]
     },
@@ -6759,7 +6777,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1776750857
+                "LastUpdate": 1776792991
             }
         ]
     },
@@ -6777,7 +6795,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1776757666
+                "LastUpdate": 1776792941
             },
             {
                 "Author": "DhogGPT",
@@ -6831,7 +6849,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1776716072
+                "LastUpdate": 1776793001
             },
             {
                 "Author": "DhogGPT",
@@ -6858,7 +6876,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1776737993
+                "LastUpdate": 1776792941
             },
             {
                 "Author": "DhogGPT",
@@ -6867,7 +6885,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1776750857
+                "LastUpdate": 1776792991
             },
             {
                 "Author": "DhogGPT",
@@ -6885,7 +6903,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1776658315
+                "LastUpdate": 1776792978
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -6903,7 +6921,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1776658315
+                "LastUpdate": 1776792978
             }
         ]
     },
@@ -7945,7 +7963,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1775286353,
+                "LastUpdate": 1776786528,
                 "is_closed_source": true
             },
             {
@@ -7955,7 +7973,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1775286353,
+                "LastUpdate": 1776786528,
                 "is_closed_source": true
             },
             {
@@ -8607,7 +8625,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1776446422
+                "LastUpdate": 1776793298
             }
         ]
     },
@@ -9600,7 +9618,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1776403939
+                "LastUpdate": 1776790988
             },
             {
                 "Author": "Det, Taurenkey",
@@ -10318,7 +10336,7 @@
                 "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Infiziert90/ChatTwo",
-                "LastUpdate": 1776626335
+                "LastUpdate": 1776776299
             },
             {
                 "Author": "Bluefissure",
@@ -10483,7 +10501,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1776715503
+                "LastUpdate": 1776787153
             }
         ]
     },
@@ -12004,7 +12022,7 @@
                 "Description": "Composites image decals onto character skin textures (diffuse + normal) in real time via Penumbra. No game file modification. Supports per-layer emissive, iris glow, ColorTable PBR, and Mod (.pmp) export. Under active development - feedback welcome via Issues or Discord. Type /skintattoo to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
-                "LastUpdate": 1776696246
+                "LastUpdate": 1776787262
             }
         ]
     },
@@ -13227,6 +13245,23 @@
     },
     {
         "repo_developer_name": "XeldarAlz",
+        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-LastHit/master/repo.json",
+        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-LastHit",
+        "repo_name": "FFXIV-LastHit",
+        "plugins": [
+            {
+                "Author": "XeldarAlz",
+                "Name": "LastHit",
+                "InternalName": "LastHitPlugin",
+                "Description": "Fires your job's PvP Limit Break when the target's HP drops below a configurable threshold. Threshold is set as a percent of max HP or an absolute HP value. Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Commands: /lasthit, /lasthit config.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-LastHit",
+                "LastUpdate": 1776797985
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "XeldarAlz",
         "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-MahjongAI/main/repo/repo.json",
         "repo_source_url": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
         "repo_name": "FFXIV-MahjongAI",
@@ -13877,7 +13912,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1776207154,
+                "LastUpdate": 1776790260,
                 "is_closed_source": true
             },
             {
