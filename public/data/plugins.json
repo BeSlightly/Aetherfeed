@@ -3070,6 +3070,22 @@
         ]
     },
     {
+        "repo_developer_name": "epinephren",
+        "repo_url": "https://raw.githubusercontent.com/epinephren/QuestionableJsonBuilder/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/epinephren/QuestionableJsonBuilder",
+        "repo_name": "QuestionableJsonBuilder",
+        "plugins": [
+            {
+                "Author": "epinephren",
+                "Name": "Questionable JSON Builder",
+                "InternalName": "QuestionableJsonBuilder",
+                "Description": "Build Questionable quest JSON files via UI.",
+                "RepoUrl": "https://github.com/epinephren/QuestionableJsonBuilder",
+                "LastUpdate": 1776859360
+            }
+        ]
+    },
+    {
         "repo_developer_name": "erdelf",
         "repo_url": "https://raw.githubusercontent.com/erdelf/DalamudPluginRepo/main/repo.json",
         "repo_source_url": "https://github.com/erdelf/DalamudPluginRepo",
@@ -3374,7 +3390,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1776021114
+                "LastUpdate": 1776855610
             }
         ]
     },
@@ -3452,7 +3468,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1776756911
+                "LastUpdate": 1776860264
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5572,7 +5588,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1776021114
+                "LastUpdate": 1776855610
             }
         ]
     },
@@ -6062,7 +6078,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1775682042
+                "LastUpdate": 1776862257
             }
         ]
     },
@@ -6813,7 +6829,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1776836609
+                "LastUpdate": 1776862368
             }
         ]
     },
@@ -6921,7 +6937,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1776836609
+                "LastUpdate": 1776862368
             },
             {
                 "Author": "DhogGPT",
@@ -8661,7 +8677,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1776793298
+                "LastUpdate": 1776861877
             }
         ]
     },
@@ -9726,7 +9742,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1776550679
+                "LastUpdate": 1776853562
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -13275,7 +13291,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1776724053
+                "LastUpdate": 1776850151
             }
         ]
     },
@@ -13292,7 +13308,7 @@
                 "Description": "Fires your job's PvP Limit Break when the target's HP drops below a configurable threshold. Threshold is set as a percent of max HP or an absolute HP value. Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Commands: /lasthit, /lasthit config.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-LastHit",
-                "LastUpdate": 1776806498
+                "LastUpdate": 1776857434
             }
         ]
     },
@@ -13309,7 +13325,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1776724053
+                "LastUpdate": 1776850151
             }
         ]
     },
