@@ -2792,12 +2792,48 @@
         "plugins": [
             {
                 "Author": "Eauldane",
+                "Name": "Armoire",
+                "InternalName": "Armoire",
+                "Description": "[ALPHA] Change your appearance in-game.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
+                "LastUpdate": 1776832899
+            },
+            {
+                "Author": "Eauldane",
+                "Name": "BigMac",
+                "InternalName": "BigMac",
+                "Description": "Extends macro capabilities with conditionals, extra functions, and a few other nice things.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Eauldane/BigMac",
+                "LastUpdate": 1776824764
+            },
+            {
+                "Author": "Eauldane",
+                "Name": "Ledger",
+                "InternalName": "Ledger",
+                "Description": "Shows collection progress for achievements, titles, mounts, minions, orchestrion rolls, and more.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Eauldane/Ledger",
+                "LastUpdate": 1776822794
+            },
+            {
+                "Author": "Eauldane",
                 "Name": "Snowcloak Sync",
                 "InternalName": "Snowcloak",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1775543049
+                "LastUpdate": 1776832899
+            },
+            {
+                "Author": "Eauldane",
+                "Name": "Weave",
+                "InternalName": "Weave",
+                "Description": "[ALPHA] PMP compatible mod loader.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
+                "LastUpdate": 1776832899
             }
         ]
     },
@@ -3452,7 +3488,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1776052423
+                "LastUpdate": 1776830443
             },
             {
                 "Author": "Churin",
@@ -4247,7 +4283,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1776038699,
+                "LastUpdate": 1776831727,
                 "is_closed_source": true
             }
         ]
@@ -5804,7 +5840,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1776185890
+                "LastUpdate": 1776832901
             }
         ]
     },
@@ -5830,7 +5866,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix-private/RSR-kk-special",
-                "LastUpdate": 1776185890
+                "LastUpdate": 1776832901
             }
         ]
     },
@@ -6777,7 +6813,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1776792991
+                "LastUpdate": 1776836609
             }
         ]
     },
@@ -6795,7 +6831,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1776798571
+                "LastUpdate": 1776838596
             },
             {
                 "Author": "DhogGPT",
@@ -6885,7 +6921,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1776792991
+                "LastUpdate": 1776836609
             },
             {
                 "Author": "DhogGPT",
@@ -6898,12 +6934,12 @@
             },
             {
                 "Author": "DhogGPT",
-                "Name": "VerMAXion",
+                "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1776792978
+                "LastUpdate": 1776822013
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -6921,7 +6957,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1776792978
+                "LastUpdate": 1776822013
             }
         ]
     },
@@ -6964,7 +7000,7 @@
                 "Description": "Shows you an image of a random neko character. Click on the image to view the next one.\nYou can choose different image sources, allowing you to look at Catboys, Waifus, Cats, Dogs and more.\n\nSupported APIs:\nnekos.best, Nekos.life, Dog CEO, The Cat API, Pic.re, Waifu.im, Waifu.pics and shibe.online\n\nWarning: You might see naughty images",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1776225305
+                "LastUpdate": 1776830082
             },
             {
                 "Author": "Meisterlala",
@@ -6973,7 +7009,7 @@
                 "Description": "This Plugin does nothing on its own. Neko Fans needs to be installed.\nYou now have access to NSFW images in Neko Fans.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1776225305
+                "LastUpdate": 1776830082
             }
         ]
     },
@@ -7453,7 +7489,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1776757192
+                "LastUpdate": 1776838935
             }
         ]
     },
@@ -12022,7 +12058,7 @@
                 "Description": "Composites image decals onto character skin textures (diffuse + normal) in real time via Penumbra. No game file modification. Supports per-layer emissive, iris glow, ColorTable PBR, and Mod (.pmp) export. Under active development - feedback welcome via Issues or Discord. Type /skintattoo to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
-                "LastUpdate": 1776803475
+                "LastUpdate": 1776825124
             }
         ]
     },
