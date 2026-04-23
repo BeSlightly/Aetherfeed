@@ -1779,7 +1779,7 @@
                 "Description": "SkipCutscene was taking too long to update, so here we are",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/BoxuChan/Skippy",
-                "LastUpdate": 1776689492
+                "LastUpdate": 1776954827
             }
         ]
     },
@@ -2330,7 +2330,7 @@
                 "Description": "FFXIV 繁中藏寶圖協作插件，與網頁版 xiv-tc-treasure-finder 相通，遊戲內與網頁使用者可混合組隊、即時同步同一份清單。支援:打開藏寶圖時自動選取、在遊戲內開地圖打旗標、以 /p 發送可點擊地圖連結、順序調整、完成勾選、備註與負責玩家指派等。指令:/pth。(API12 版本，適用於繁中服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/cycleapple/xiv-party-treasure-helper",
-                "LastUpdate": 1776916278
+                "LastUpdate": 1776934524
             }
         ]
     },
@@ -2614,7 +2614,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1775011758
+                "LastUpdate": 1776940951
             }
         ],
         "repo_developer_name": "Det"
@@ -3032,6 +3032,15 @@
         "repo_source_url": "https://github.com/endfish/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
+            {
+                "Author": "kawaii, 汉化: Endfish",
+                "Name": "HyperboreaCN",
+                "InternalName": "HyperboreaCN",
+                "Description": "以相对安全的方式加载并探索任意区域，主要用于在原本难以抵达的地点拍摄 GPose。\n\n/hyper -> 打开主界面\n/hyper settings -> 打开设置\n/hyper debug -> 打开调试\n/hyper editor -> 打开编辑器\n/hyper log -> 打开日志",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/endfish/Hyperborea-CN",
+                "LastUpdate": 1776950373
+            },
             {
                 "Author": "Endfish",
                 "Name": "PosePad",
@@ -4343,7 +4352,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1775011758
+                "LastUpdate": 1776940951
             },
             {
                 "Author": "veyn",
@@ -4508,7 +4517,7 @@
                 "Description": "It hooks the fish for you, can you believe it?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1775011758
+                "LastUpdate": 1776940951
             },
             {
                 "Author": "veyn",
@@ -6148,7 +6157,7 @@
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1776625479
+                "LastUpdate": 1776946222
             }
         ]
     },
@@ -6864,7 +6873,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1776921713
+                "LastUpdate": 1776953951
             },
             {
                 "Author": "DhogGPT",
@@ -7545,23 +7554,6 @@
     },
     {
         "repo_developer_name": "NalaPraline",
-        "repo_url": "https://raw.githubusercontent.com/NalaPraline/NalaDJTracker/main/docs/pluginmaster.json",
-        "repo_source_url": "https://github.com/NalaPraline/NalaDJTracker",
-        "repo_name": "NalaDJTracker",
-        "plugins": [
-            {
-                "Author": "Nala Praline",
-                "Name": "DJ Tracker",
-                "InternalName": "SamplePlugin",
-                "Description": "A Dalamud plugin to track your favorite Twitch DJs and set up an automated shout schedule directly from FFXIV.\n\nCommands:\n/dj - Open the DJ Tracker window\n/djschedule - Open the Scheduler\n/djconfig - Open configuration",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/NalaPraline/NalaDJTracker",
-                "LastUpdate": 1772737705
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "NalaPraline",
         "repo_url": "https://raw.githubusercontent.com/NalaPraline/ZONE/main/pluginmaster.json",
         "repo_source_url": "https://github.com/NalaPraline/ZONE",
         "repo_name": "ZONE",
@@ -7679,7 +7671,7 @@
                 "Description": "Outil de jets de dés pour le Système Très Simple.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Neferith/sts_dalamud_plugin",
-                "LastUpdate": 1776291518
+                "LastUpdate": 1776953539
             }
         ]
     },
@@ -9696,7 +9688,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1775011758
+                "LastUpdate": 1776940951
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -12385,7 +12377,7 @@
                 "Description": "Host your chat on a web server so you can talk from anywhere.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/twelvehouse/DalamudPlugins",
-                "LastUpdate": 1776905013
+                "LastUpdate": 1776953009
             },
             {
                 "Author": "twelvehouse",
@@ -12394,7 +12386,7 @@
                 "Description": "Real-time foot IK for FFXIV characters. Keeps feet planted naturally on terrain (stairs, slopes, uneven ground) during normal gameplay.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/twelvehouse/DalamudPlugins",
-                "LastUpdate": 1776905013
+                "LastUpdate": 1776953009
             }
         ]
     },
@@ -13308,7 +13300,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1776929491
+                "LastUpdate": 1776955305
             }
         ]
     },
@@ -13325,7 +13317,7 @@
                 "Description": "Fires your job's PvP Limit Break when the target's HP drops below a configurable threshold. Threshold is set as a percent of max HP or an absolute HP value. Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Commands: /lasthit, /lasthit config.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-LastHit",
-                "LastUpdate": 1776872111
+                "LastUpdate": 1776947585
             }
         ]
     },
@@ -13342,7 +13334,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1776929491
+                "LastUpdate": 1776955305
             }
         ]
     },
