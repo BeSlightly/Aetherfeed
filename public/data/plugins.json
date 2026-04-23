@@ -1463,7 +1463,7 @@
                 "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/UnknownX7/Cammy",
-                "LastUpdate": 1767383369
+                "LastUpdate": 1776915815
             },
             {
                 "Author": "UnknownX",
@@ -2080,7 +2080,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1776906724
+                "LastUpdate": 1776911626
             }
         ]
     },
@@ -2314,6 +2314,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
                 "LastUpdate": 1775116368
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "cycleapple",
+        "repo_url": "https://raw.githubusercontent.com/cycleapple/xiv-party-treasure-helper/main/repo.json",
+        "repo_source_url": "https://github.com/cycleapple/xiv-party-treasure-helper",
+        "repo_name": "xiv-party-treasure-helper",
+        "plugins": [
+            {
+                "Author": "cycleapple",
+                "Name": "XIV 藏寶圖工具小幫手",
+                "InternalName": "XivTreasureParty",
+                "Description": "FFXIV 繁中藏寶圖協作插件，與網頁版 xiv-tc-treasure-finder 相通，遊戲內與網頁使用者可混合組隊、即時同步同一份清單。支援:打開藏寶圖時自動選取、在遊戲內開地圖打旗標、以 /p 發送可點擊地圖連結、順序調整、完成勾選、備註與負責玩家指派等。指令:/pth。(API12 版本，適用於繁中服)",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/cycleapple/xiv-party-treasure-helper",
+                "LastUpdate": 1776916278
             }
         ]
     },
@@ -5073,7 +5090,7 @@
                 "Description": "LangSwap allows you to change the language of castbars and tooltips in FFXIV by pressing a keyboard shortcut. Press again the key(s) to return to your original language.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jo44/LangSwap",
-                "LastUpdate": 1776908736
+                "LastUpdate": 1776912151
             }
         ]
     },
@@ -6009,7 +6026,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1776906724
+                "LastUpdate": 1776911626
             }
         ]
     },
@@ -6234,7 +6251,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1776468281
+                "LastUpdate": 1776916342
             }
         ]
     },
@@ -6847,7 +6864,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1776893506
+                "LastUpdate": 1776921713
             },
             {
                 "Author": "DhogGPT",
@@ -8825,7 +8842,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1776906724
+                "LastUpdate": 1776911626
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -9992,7 +10009,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1776637937
+                "LastUpdate": 1776930709
             }
         ]
     },
@@ -12494,7 +12511,7 @@
                 "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/UnknownX7/Cammy",
-                "LastUpdate": 1767383369
+                "LastUpdate": 1776915815
             },
             {
                 "Author": "UnknownX",
@@ -13291,7 +13308,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1776907898
+                "LastUpdate": 1776929491
             }
         ]
     },
@@ -13325,7 +13342,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1776907898
+                "LastUpdate": 1776929491
             }
         ]
     },
