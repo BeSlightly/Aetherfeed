@@ -2096,7 +2096,7 @@
                 "InternalName": "Marketbuddy",
                 "Description": "Helper for your day-to-day market operations.",
                 "RepoUrl": "https://github.com/chalkos/Marketbuddy",
-                "LastUpdate": 1766194164
+                "LastUpdate": 1776977805
             }
         ]
     },
@@ -2993,6 +2993,23 @@
         ]
     },
     {
+        "repo_developer_name": "ElyFura",
+        "repo_url": "https://raw.githubusercontent.com/ElyFura/GlamourDocumenter/master/repo.json",
+        "repo_source_url": "https://github.com/ElyFura/GlamourDocumenter",
+        "repo_name": "GlamourDocumenter",
+        "plugins": [
+            {
+                "Author": "ElyFura",
+                "Name": "Glamour Documenter",
+                "InternalName": "GlamourDocumenter",
+                "Description": "Exports the combined state of Penumbra, Glamourer and Customize+ for the local character as Markdown, HTML or JSON. Ships a re-import path, export history, diff of two exports, optional git auto-commit and auto-export on zone change. Type /glamdoc to open the window or /glamdoc export [md|html|json] for a headless export.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/ElyFura/GlamourDocumenter",
+                "LastUpdate": 1776999103
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/emyxiv/Dresser/raw/master/repo.json",
         "repo_source_url": "https://github.com/emyxiv/Dresser",
         "repo_name": "Dresser",
@@ -3005,7 +3022,7 @@
                 "Description": "Use dresser outside of inns. Search items in other inventories or cheap at vendors. Try on your own character. Browse modded items.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/emyxiv/Dresser",
-                "LastUpdate": 1776645864
+                "LastUpdate": 1776987706
             }
         ]
     },
@@ -7898,7 +7915,7 @@
                 "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1776725439
+                "LastUpdate": 1776991738
             },
             {
                 "Author": "NightmareXIV",
@@ -9791,6 +9808,22 @@
             }
         ],
         "repo_developer_name": "Puni.sh Team"
+    },
+    {
+        "repo_developer_name": "PunishXIV",
+        "repo_url": "https://raw.githubusercontent.com/PunishXIV/Marketbuddy/main/repo.json",
+        "repo_source_url": "https://github.com/PunishXIV/Marketbuddy",
+        "repo_name": "Marketbuddy",
+        "plugins": [
+            {
+                "Author": "Chalkos",
+                "Name": "Marketbuddy",
+                "InternalName": "Marketbuddy",
+                "Description": "Helper for your day-to-day market operations.",
+                "RepoUrl": "https://github.com/chalkos/Marketbuddy",
+                "LastUpdate": 1776977805
+            }
+        ]
     },
     {
         "repo_developer_name": "pupwife",
@@ -12634,7 +12667,7 @@
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1776977726
+                "LastUpdate": 1776984601
             }
         ]
     },
@@ -13300,7 +13333,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1776972460
+                "LastUpdate": 1776999597
             }
         ]
     },
@@ -13317,7 +13350,7 @@
                 "Description": "Fires your job's PvP Limit Break when the target's HP drops below a configurable threshold. Threshold is set as a percent of max HP or an absolute HP value. Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Commands: /lasthit, /lasthit config.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-LastHit",
-                "LastUpdate": 1776976056
+                "LastUpdate": 1776982882
             }
         ]
     },
@@ -13334,7 +13367,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1776972460
+                "LastUpdate": 1776999597
             }
         ]
     },
