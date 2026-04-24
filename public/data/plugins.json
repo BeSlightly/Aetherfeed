@@ -3547,7 +3547,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1777029881
+                "LastUpdate": 1777063451
             },
             {
                 "Author": "Churin",
@@ -4690,7 +4690,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1776790988
+                "LastUpdate": 1777047139
             }
         ]
     },
@@ -7548,7 +7548,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1777044475
+                "LastUpdate": 1777055333
             }
         ]
     },
@@ -7650,7 +7650,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/tree/main/plugins/AkashicRecords",
-                "LastUpdate": 1769475177,
+                "LastUpdate": 1777057697,
                 "is_closed_source": true
             },
             {
@@ -7660,7 +7660,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/tree/main/plugins/AutoOBSRecorder",
-                "LastUpdate": 1773273341,
+                "LastUpdate": 1777057697,
                 "is_closed_source": true
             },
             {
@@ -7670,7 +7670,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/tree/main/plugins/Laplace",
-                "LastUpdate": 1775933675,
+                "LastUpdate": 1777057697,
                 "is_closed_source": true
             }
         ]
@@ -7688,7 +7688,7 @@
                 "Description": "Outil de jets de dés pour le Système Très Simple.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Neferith/sts_dalamud_plugin",
-                "LastUpdate": 1777044702
+                "LastUpdate": 1777065033
             }
         ]
     },
@@ -8358,6 +8358,23 @@
                 "Description": "Automatically shout/yell a custom macro across all worlds and major cities using Lifestream and ECommons. Supports all regions (NA/EU/JP/OCE), auto-resume, zone detection, and comprehensive error handling.",
                 "RepoUrl": "https://github.com/nilah-xiv/Shout-Bot-Repo",
                 "LastUpdate": 1772075273
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/AqrNarrator/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/AqrNarrator",
+        "repo_name": "AqrNarrator",
+        "plugins": [
+            {
+                "Author": "NaughtyNeko",
+                "Name": "AQR-Narrator",
+                "InternalName": "AQR-Narrator",
+                "Description": "",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/NNekoPlugins/AQR-Narrator",
+                "LastUpdate": 1777054144
             }
         ]
     },
@@ -9696,7 +9713,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1776790988
+                "LastUpdate": 1777047139
             },
             {
                 "Author": "Det, Taurenkey",
@@ -9768,7 +9785,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1776853562
+                "LastUpdate": 1777062013
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -13299,7 +13316,7 @@
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1776704851
+                "LastUpdate": 1777062575
             }
         ]
     },
@@ -13350,7 +13367,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1777044264
+                "LastUpdate": 1777061541
             }
         ]
     },
@@ -13367,7 +13384,7 @@
                 "Description": "Fires your job's PvP Limit Break when the target's HP drops below a configurable threshold. Threshold is set as a percent of max HP or an absolute HP value. Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Commands: /lasthit, /lasthit config.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-LastHit",
-                "LastUpdate": 1777000516
+                "LastUpdate": 1777051559
             }
         ]
     },
@@ -13384,7 +13401,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1777044264
+                "LastUpdate": 1777061541
             }
         ]
     },
@@ -14050,7 +14067,7 @@
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death effects (ragdoll physics), active camera (bone tracking), death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1776112430
+                "LastUpdate": 1777060140
             },
             {
                 "Author": "zysilm",
