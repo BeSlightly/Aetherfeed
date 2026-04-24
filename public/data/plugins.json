@@ -3547,7 +3547,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1776830443
+                "LastUpdate": 1777029881
             },
             {
                 "Author": "Churin",
@@ -4255,7 +4255,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1776701794
+                "LastUpdate": 1777042225
             },
             {
                 "Author": "Haselnussbomber",
@@ -7548,7 +7548,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1776838935
+                "LastUpdate": 1777044475
             }
         ]
     },
@@ -7688,7 +7688,7 @@
                 "Description": "Outil de jets de dés pour le Système Très Simple.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Neferith/sts_dalamud_plugin",
-                "LastUpdate": 1776975124
+                "LastUpdate": 1777044702
             }
         ]
     },
@@ -7773,7 +7773,7 @@
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1776550822
+                "LastUpdate": 1777024069
             }
         ]
     },
@@ -11687,6 +11687,23 @@
         ]
     },
     {
+        "repo_developer_name": "SomethingAstraSomething",
+        "repo_url": "https://raw.githubusercontent.com/SomethingAstraSomething/PinkChocoboTrivial/master/repo.json",
+        "repo_source_url": "https://github.com/SomethingAstraSomething/PinkChocoboTrivial",
+        "repo_name": "PinkChocoboTrivial",
+        "plugins": [
+            {
+                "Author": "Astra",
+                "Name": "Pink Chocobo Club, Trivial Night!",
+                "InternalName": "PinkChocoboTrivial",
+                "Description": "Host FFXIV-themed trivia nights with your Free Company or friends! The host shouts questions in chat and players answer via /yell or /shout. First correct answer wins the point! Features: configurable win conditions, 60-second timer, manual score adjustment, 50 FFXIV-themed questions, and question tracking to avoid repeats.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/SomethingAstraSomething/PinkChocoboTrivial",
+                "LastUpdate": 1777041256
+            }
+        ]
+    },
+    {
         "repo_url": "https://puni.sh/api/repository/sourpuh",
         "repo_source_url": "https://github.com/sourpuh/",
         "repo_name": "sourpuh",
@@ -13333,7 +13350,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1776999597
+                "LastUpdate": 1777044264
             }
         ]
     },
@@ -13367,7 +13384,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1776999597
+                "LastUpdate": 1777044264
             }
         ]
     },
