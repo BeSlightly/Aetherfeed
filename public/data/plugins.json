@@ -626,7 +626,7 @@
                 "Description": "Simple tool to check boss health when sandbagging.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/altaint/MyDalamudPlugins",
-                "LastUpdate": 1777093892
+                "LastUpdate": 1777157050
             }
         ]
     },
@@ -1761,7 +1761,7 @@
                 "InternalName": "XIVVenueManagerSync",
                 "Description": "Automatically sync patron enter/leave events to your XIVVenueManager.",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
-                "LastUpdate": 1776674485
+                "LastUpdate": 1777142882
             }
         ]
     },
@@ -4365,6 +4365,23 @@
         ]
     },
     {
+        "repo_developer_name": "High-Depth",
+        "repo_url": "https://raw.githubusercontent.com/High-Depth/Bagginz/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/High-Depth/Bagginz",
+        "repo_name": "Bagginz",
+        "plugins": [
+            {
+                "Author": "Bagginz",
+                "Name": "Bagginz",
+                "InternalName": "Bagginz",
+                "Description": "Quickly deposit and withdraw items from your chocobo saddlebag via right-click context menu.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/High-Depth/Bagginz",
+                "LastUpdate": 1777154234
+            }
+        ]
+    },
+    {
         "repo_developer_name": "HKazuki0818",
         "repo_url": "https://raw.githubusercontent.com/HKazuki0818/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/HKazuki0818/DalamudPlugins",
@@ -4707,7 +4724,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1777047139
+                "LastUpdate": 1777146481
             }
         ]
     },
@@ -6043,7 +6060,7 @@
                 "Description": "Adds a context menu action to open hovered items in an external wiki.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KotoLetta/kotoffxivrepo",
-                "LastUpdate": 1777133217
+                "LastUpdate": 1777150613
             },
             {
                 "Author": "KotoLetta",
@@ -6052,7 +6069,7 @@
                 "Description": "Play the OOFs! sound on fall and/or death. Includes options for deaths, fall damage, and custom audio.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KotoLetta/kotoffxivrepo",
-                "LastUpdate": 1777133217
+                "LastUpdate": 1777150613
             }
         ]
     },
@@ -6397,23 +6414,6 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/lichie567/GlamApply",
                 "LastUpdate": 1766296962
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/lichie567/LMeter/raw/main/repo.json",
-        "repo_source_url": "https://github.com/lichie567/LMeter",
-        "repo_name": "LMeter",
-        "repo_developer_name": "lichie567",
-        "plugins": [
-            {
-                "Author": "Lichie",
-                "Name": "LMeter",
-                "InternalName": "LMeter",
-                "Description": "Plugin to display ACT combat log data.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/lichie567/LMeter",
-                "LastUpdate": 1769936141
             }
         ]
     },
@@ -9730,7 +9730,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1777047139
+                "LastUpdate": 1777146481
             },
             {
                 "Author": "Det, Taurenkey",
@@ -10629,7 +10629,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1776787153
+                "LastUpdate": 1777156781
             }
         ]
     },
@@ -13400,7 +13400,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1777133404
+                "LastUpdate": 1777147751
             }
         ]
     },
@@ -13417,7 +13417,7 @@
                 "Description": "Fires your job's PvP Limit Break when the target's HP drops below a configurable threshold. Threshold is set as a percent of max HP or an absolute HP value. Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Commands: /lasthit, /lasthit config.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-LastHit",
-                "LastUpdate": 1777133961
+                "LastUpdate": 1777148293
             }
         ]
     },
@@ -13434,7 +13434,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1777133404
+                "LastUpdate": 1777147751
             }
         ]
     },
@@ -13781,7 +13781,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260425
+                "LastUpdate": 20260426
             },
             {
                 "Author": "Meoiswa, YouShu",
