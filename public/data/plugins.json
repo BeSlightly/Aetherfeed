@@ -614,6 +614,23 @@
         ]
     },
     {
+        "repo_developer_name": "altaint",
+        "repo_url": "https://raw.githubusercontent.com/altaint/MyDalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/altaint/MyDalamudPlugins",
+        "repo_name": "MyDalamudPlugins",
+        "plugins": [
+            {
+                "Author": "altan",
+                "Name": "Threshold Checker",
+                "InternalName": "ThresholdChecker",
+                "Description": "Simple tool to check boss health when sandbagging.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/altaint/MyDalamudPlugins",
+                "LastUpdate": 1777093892
+            }
+        ]
+    },
+    {
         "repo_developer_name": "amarinne",
         "repo_url": "https://raw.githubusercontent.com/amarinne/Auto-Marketbuddy/main/repo.json",
         "repo_source_url": "https://github.com/amarinne/Auto-Marketbuddy",
@@ -956,7 +973,7 @@
                 "Description": "/wymm takes what you have in your inventory and calculates the optimal combination of items to make. Item prices are fetched from Universalis, or can be manually overridden.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ArcaneAj/WachuMakeyMaking",
-                "LastUpdate": 1772953836
+                "LastUpdate": 1777097652
             }
         ]
     },
@@ -1223,7 +1240,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1776530624,
+                "LastUpdate": 1777107366,
                 "is_closed_source": true
             },
             {
@@ -1233,7 +1250,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1776530624,
+                "LastUpdate": 1777107366,
                 "is_closed_source": true
             },
             {
@@ -1243,7 +1260,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1776530624,
+                "LastUpdate": 1777107366,
                 "is_closed_source": true
             },
             {
@@ -1325,7 +1342,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1776530570
+                "LastUpdate": 1777111159
             }
         ]
     },
@@ -2330,7 +2347,7 @@
                 "Description": "FFXIV 繁中藏寶圖協作插件，與網頁版 xiv-tc-treasure-finder 相通，遊戲內與網頁使用者可混合組隊、即時同步同一份清單。支援:打開藏寶圖時自動選取、在遊戲內開地圖打旗標、以 /p 發送可點擊地圖連結、順序調整、完成勾選、備註與負責玩家指派等。指令:/pth。(API12 版本，適用於繁中服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/cycleapple/xiv-party-treasure-helper",
-                "LastUpdate": 1776934524
+                "LastUpdate": 1777099429
             }
         ]
     },
@@ -4396,7 +4413,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1776530570
+                "LastUpdate": 1777111159
             },
             {
                 "Author": "Team Wrath",
@@ -4561,7 +4578,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1776530570
+                "LastUpdate": 1777111159
             },
             {
                 "Author": "Team Wrath",
@@ -5116,7 +5133,7 @@
                 "Description": "LangSwap allows you to change the language of castbars and tooltips in FFXIV by pressing a keyboard shortcut. Press again the key(s) to return to your original language.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jo44/LangSwap",
-                "LastUpdate": 1776912151
+                "LastUpdate": 1777108736
             }
         ]
     },
@@ -6890,7 +6907,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1776953951
+                "LastUpdate": 1777094132
             },
             {
                 "Author": "DhogGPT",
@@ -7548,7 +7565,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1777055333
+                "LastUpdate": 1777097056
             }
         ]
     },
@@ -11716,7 +11733,7 @@
                 "Description": "Host FFXIV-themed trivia nights with your Free Company or friends! The host shouts questions in chat and players answer via /yell or /shout. First correct answer wins the point! Features: configurable win conditions, 60-second timer, manual score adjustment, 50 FFXIV-themed questions, and question tracking to avoid repeats.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/SomethingAstraSomething/PinkChocoboTrivial",
-                "LastUpdate": 1777041256
+                "LastUpdate": 1777102016
             }
         ]
     },
@@ -11742,7 +11759,7 @@
                 "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
-                "LastUpdate": 1768527333
+                "LastUpdate": 1777103603
             }
         ]
     },
@@ -12150,7 +12167,7 @@
                 "Description": "Composites image decals onto character skin textures (diffuse + normal) in real time via Penumbra. No game file modification. Supports per-layer emissive, iris glow, ColorTable PBR, and Mod (.pmp) export. Under active development - feedback welcome via Issues or Discord. Type /skintattoo to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
-                "LastUpdate": 1776873944
+                "LastUpdate": 1777105682
             }
         ]
     },
@@ -12851,7 +12868,7 @@
                 "Description": "A collection of plugins-turned-modules, QoL improvements, and Automation features",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/VeraNala/VIWI",
-                "LastUpdate": 1775091992
+                "LastUpdate": 1777091375
             },
             {
                 "Author": "vera.lyn",
@@ -12966,6 +12983,22 @@
         ],
         "repo_name": "plugins",
         "repo_developer_name": "ViviAshe"
+    },
+    {
+        "repo_developer_name": "VorpalMoth",
+        "repo_url": "https://raw.githubusercontent.com/VorpalMoth/MothJack/master/repo.json",
+        "repo_source_url": "https://github.com/VorpalMoth/MothJack",
+        "repo_name": "MothJack",
+        "plugins": [
+            {
+                "Author": "Vorpal Gabbiani",
+                "Name": "MothJack",
+                "InternalName": "MothJack",
+                "Description": "A dealer-side dashboard for running Blackjack games in FFXIV.",
+                "RepoUrl": "https://github.com/VorpalMoth/MothJack",
+                "LastUpdate": 1777097507
+            }
+        ]
     },
     {
         "repo_developer_name": "Vueren",
@@ -13367,7 +13400,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1777089843
+                "LastUpdate": 1777108581
             }
         ]
     },
@@ -13401,7 +13434,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1777089843
+                "LastUpdate": 1777108581
             }
         ]
     },
