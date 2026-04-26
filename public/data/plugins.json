@@ -677,7 +677,7 @@
                 "Description": "Fork of Lifestream with a new 'Select_Ward' Custom Alias kind that clicks a ward number (1-30) on the HousingSelectBlock grid. Lets you build custom aliases that navigate to a specific ward. Based on NightmareXIV/Lifestream.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1777201975
+                "LastUpdate": 1777211968
             },
             {
                 "Author": "Lilith",
@@ -686,7 +686,7 @@
                 "Description": "Displays HP/MP/Soul/Shroud as F1-F12 RGB bars on SteelSeries Apex Pro TKL via GameSense API. Reaper-aware (Soul + Shroud). Includes button to toggle Yuki's OLED Switcher.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1777201975
+                "LastUpdate": 1777211968
             },
             {
                 "Author": "Lilith",
@@ -695,7 +695,7 @@
                 "Description": "Live REPL bridge for AI-driven FFXIV market trading. Exposes UI state (player, addon trees) + click/chat actions over HTTP :18810 so Claude can pilot the game step by step. Includes a kill-switch ImGui window so the user can halt the bridge instantly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1777201975
+                "LastUpdate": 1777211968
             }
         ]
     },
@@ -2312,7 +2312,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1776886925
+                "LastUpdate": 1777206141
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -2898,6 +2898,23 @@
         ]
     },
     {
+        "repo_developer_name": "EchoEngineering",
+        "repo_url": "https://raw.githubusercontent.com/EchoEngineering/Tera-Sync-V2/main/Tera-Sync-V2-client/repo.json",
+        "repo_source_url": "https://github.com/EchoEngineering/Tera-Sync-V2",
+        "repo_name": "Tera-Sync-V2",
+        "plugins": [
+            {
+                "Author": "kirin-xiv",
+                "Name": "Tera Sync V2",
+                "InternalName": "TeraSyncV2",
+                "Description": "Share your appearance, mods, and glamour configurations with friends. Synchronize your Penumbra and Glamourer state seamlessly.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/EchoEngineering/Tera-Sync-V2",
+                "LastUpdate": 1757029342
+            }
+        ]
+    },
+    {
         "repo_developer_name": "edeeeen",
         "repo_url": "https://raw.githubusercontent.com/edeeeen/WikiSearch/master/repo.json",
         "repo_source_url": "https://github.com/edeeeen/WikiSearch",
@@ -3167,7 +3184,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1777196770
+                "LastUpdate": 1777203705
             }
         ]
     },
@@ -3184,7 +3201,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1777196770
+                "LastUpdate": 1777203705
             }
         ]
     },
@@ -4281,7 +4298,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1777042225
+                "LastUpdate": 1777216034
             },
             {
                 "Author": "Haselnussbomber",
@@ -5159,7 +5176,7 @@
                 "Description": "LangSwap allows you to change the language of castbars and tooltips in FFXIV by pressing a keyboard shortcut. Press again the key(s) to return to your original language.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Jo44/LangSwap",
-                "LastUpdate": 1777108736
+                "LastUpdate": 1777209132
             }
         ]
     },
@@ -5985,7 +6002,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1777132737
+                "LastUpdate": 1777217536
             }
         ]
     },
@@ -6898,7 +6915,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1776792941
+                "LastUpdate": 1777216807
             }
         ]
     },
@@ -7014,7 +7031,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1776792941
+                "LastUpdate": 1777216807
             },
             {
                 "Author": "DhogGPT",
@@ -7609,6 +7626,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/MusicalPanini/PaninisXIVPluginDump",
                 "LastUpdate": 1752303010
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mustbetommy",
+        "repo_url": "https://raw.githubusercontent.com/mustbetommy/AutoEmotion/main/repo.json",
+        "repo_source_url": "https://github.com/mustbetommy/AutoEmotion",
+        "repo_name": "AutoEmotion",
+        "plugins": [
+            {
+                "Author": "FoxShadow10",
+                "Name": "Auto Emotion",
+                "InternalName": "AutoEmotion",
+                "Description": "This plugin lets you assign a keyword to an emote. When the keyword is typed in the chat, the corresponding emote is automatically triggered.\n\nThe plugin icon was created by https://twitter.com/AlcielCroix",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/FoxShadow10/AutoEmotion",
+                "LastUpdate": 1766400857
             }
         ]
     },
@@ -8849,7 +8883,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1776886925
+                "LastUpdate": 1777206141
             }
         ]
     },
@@ -8893,7 +8927,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1776886925
+                "LastUpdate": 1777206141
             },
             {
                 "Author": "Anna",
@@ -9705,7 +9739,7 @@
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1776659090
+                "LastUpdate": 1777223748
             }
         ]
     },
@@ -10481,7 +10515,7 @@
                 "Description": "AutoDuty",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1777196770
+                "LastUpdate": 1777203705
             },
             {
                 "Author": "Infi, Anna",
@@ -10655,7 +10689,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1777178203
+                "LastUpdate": 1777216533
             }
         ]
     },
@@ -12193,7 +12227,7 @@
                 "Description": "Composites image decals onto character skin textures (diffuse + normal) in real time via Penumbra. No game file modification. Supports per-layer emissive, iris glow, ColorTable PBR, and Mod (.pmp) export. Under active development - feedback welcome via Issues or Discord. Type /skintattoo to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
-                "LastUpdate": 1777199323
+                "LastUpdate": 1777206980
             }
         ]
     },
@@ -12729,6 +12763,15 @@
                 "LastUpdate": 1776058398
             },
             {
+                "Author": "Valiice",
+                "Name": "ProvokeCounter",
+                "InternalName": "ProvokeCounter",
+                "Description": "Displays a counter badge on the party list for each party member who uses Provoke. Resets per zone. Toggle with /provokecounter, reset with /provokecounter reset.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/Valiice/ProvokeCounter",
+                "LastUpdate": 1777216200
+            },
+            {
                 "Author": "Vali",
                 "Name": "Retainer Inventory Price",
                 "InternalName": "RetainerInventoryPrice",
@@ -12798,6 +12841,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/VariableVixen/XivEsp",
                 "LastUpdate": 1767476611
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "VariaLab-0101",
+        "repo_url": "https://raw.githubusercontent.com/VariaLab-0101/MovementTracker/main/repo.json",
+        "repo_source_url": "https://github.com/VariaLab-0101/MovementTracker",
+        "repo_name": "MovementTracker",
+        "plugins": [
+            {
+                "Author": "yamak",
+                "Name": "MovementTracker",
+                "InternalName": "MovementTracker",
+                "Description": "Records the movement of yourself, party members, and bosses, and replays them on a 2D map. Commands: /mtracker, /mtracker map",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/VariaLab-0101/MovementTracker",
+                "LastUpdate": 1777208021
             }
         ]
     },
@@ -13426,7 +13486,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1777198433
+                "LastUpdate": 1777223567
             }
         ]
     },
@@ -13460,7 +13520,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1777198433
+                "LastUpdate": 1777223567
             }
         ]
     },
