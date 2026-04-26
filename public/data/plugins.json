@@ -626,7 +626,7 @@
                 "Description": "Simple tool to check boss health when sandbagging.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/altaint/MyDalamudPlugins",
-                "LastUpdate": 1777167462
+                "LastUpdate": 1777196968
             }
         ]
     },
@@ -677,7 +677,7 @@
                 "Description": "Fork of Lifestream with a new 'Select_Ward' Custom Alias kind that clicks a ward number (1-30) on the HousingSelectBlock grid. Lets you build custom aliases that navigate to a specific ward. Based on NightmareXIV/Lifestream.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1776972411
+                "LastUpdate": 1777201975
             },
             {
                 "Author": "Lilith",
@@ -686,7 +686,16 @@
                 "Description": "Displays HP/MP/Soul/Shroud as F1-F12 RGB bars on SteelSeries Apex Pro TKL via GameSense API. Reaper-aware (Soul + Shroud). Includes button to toggle Yuki's OLED Switcher.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1776972411
+                "LastUpdate": 1777201975
+            },
+            {
+                "Author": "Lilith",
+                "Name": "LilithTrader",
+                "InternalName": "LilithTrader",
+                "Description": "Live REPL bridge for AI-driven FFXIV market trading. Exposes UI state (player, addon trees) + click/chat actions over HTTP :18810 so Claude can pilot the game step by step. Includes a kill-switch ImGui window so the user can halt the bridge instantly.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
+                "LastUpdate": 1777201975
             }
         ]
     },
@@ -2477,7 +2486,7 @@
                 "Description": "Allagan Tool's primary purpose is to keep track of items across your characters/retainers/free company. With it's filter system you'll never lose track of items or not know where they should be sorted.\n\nWhile this is it's primary purpose, it has quite an exhaustive list of other features including:\n\t- Craft planning\n\t- Market board integration\n\t- Item highlighting in inventories when searching/sorting and picking ingredients for crafts\n\t- Item window that includes vendor and source information among other things\n\t- Duty/mob/airship/submarine windows that are fully searchable\n\t- A filtering system that lets you setup complex searches for specific items \n\t- Tooltip integration that'll let you see where the items are on hover",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
-                "LastUpdate": 1774867355
+                "LastUpdate": 1777182804
             }
         ]
     },
@@ -3158,7 +3167,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1776967029
+                "LastUpdate": 1777196770
             }
         ]
     },
@@ -3175,7 +3184,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1776967029
+                "LastUpdate": 1777196770
             }
         ]
     },
@@ -4439,7 +4448,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1776622862
+                "LastUpdate": 1777201775
             },
             {
                 "Author": "daemitus, croizat",
@@ -4604,7 +4613,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1776622862
+                "LastUpdate": 1777201775
             },
             {
                 "Author": "daemitus, croizat",
@@ -4664,7 +4673,7 @@
                 "Description": "แปลภาษา FFXIV เป็นไทยแบบ real-time ผ่าน Gemini AI - Real-time FFXIV translation with advanced character database and Netflix-quality localization. Features elegant UI with auto-show/hide, full customization (size, colors), and seamless gameplay integration.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/iarcanar/MBB_Dalamud",
-                "LastUpdate": 1773366549
+                "LastUpdate": 1777180818
             }
         ]
     },
@@ -6924,7 +6933,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1777131764
+                "LastUpdate": 1777193493
             },
             {
                 "Author": "DhogGPT",
@@ -7582,7 +7591,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1777097056
+                "LastUpdate": 1777196999
             }
         ]
     },
@@ -7704,7 +7713,7 @@
                 "Description": "",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/tree/main/plugins/Laplace",
-                "LastUpdate": 1777083467,
+                "LastUpdate": 1777184569,
                 "is_closed_source": true
             }
         ]
@@ -9846,7 +9855,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1776622862
+                "LastUpdate": 1777201775
             },
             {
                 "Author": "daemitus, kawaii",
@@ -10472,7 +10481,7 @@
                 "Description": "AutoDuty",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1776967029
+                "LastUpdate": 1777196770
             },
             {
                 "Author": "Infi, Anna",
@@ -11569,7 +11578,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1776316264
+                "LastUpdate": 1777199038
             },
             {
                 "Author": "XSZYYS",
@@ -11578,7 +11587,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1776316264,
+                "LastUpdate": 1777199038,
                 "is_closed_source": true
             }
         ]
@@ -11750,7 +11759,7 @@
                 "Description": "Host FFXIV-themed trivia nights with your Free Company or friends! The host shouts questions in chat and players answer via /yell or /shout. First correct answer wins the point! Features: configurable win conditions, 60-second timer, manual score adjustment, 50 FFXIV-themed questions, and question tracking to avoid repeats.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/SomethingAstraSomething/PinkChocoboTrivial",
-                "LastUpdate": 1777173741
+                "LastUpdate": 1777201209
             }
         ]
     },
@@ -12184,7 +12193,7 @@
                 "Description": "Composites image decals onto character skin textures (diffuse + normal) in real time via Penumbra. No game file modification. Supports per-layer emissive, iris glow, ColorTable PBR, and Mod (.pmp) export. Under active development - feedback welcome via Issues or Discord. Type /skintattoo to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
-                "LastUpdate": 1777172695
+                "LastUpdate": 1777199323
             }
         ]
     },
@@ -13270,7 +13279,7 @@
                 "Description": "Ever wanted a kill feed ala Battlefield and Modern Warfare? Well now you can with AllaganKillFeed.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/wolfcomp/AllaganKillFeed",
-                "LastUpdate": 1776264644
+                "LastUpdate": 1777195216
             },
             {
                 "Author": "WildWolf",
@@ -13417,7 +13426,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1777167117
+                "LastUpdate": 1777198433
             }
         ]
     },
@@ -13434,7 +13443,7 @@
                 "Description": "Fires your job's PvP Limit Break when the target's HP drops below a configurable threshold. Threshold is set as a percent of max HP or an absolute HP value. Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Commands: /lasthit, /lasthit config.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-LastHit",
-                "LastUpdate": 1777148293
+                "LastUpdate": 1777180142
             }
         ]
     },
@@ -13451,7 +13460,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1777167117
+                "LastUpdate": 1777198433
             }
         ]
     },
