@@ -626,7 +626,7 @@
                 "Description": "Simple tool to check boss health when sandbagging.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/altaint/MyDalamudPlugins",
-                "LastUpdate": 1777157050
+                "LastUpdate": 1777167462
             }
         ]
     },
@@ -3564,7 +3564,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1777080158
+                "LastUpdate": 1777179438
             },
             {
                 "Author": "Churin",
@@ -6043,7 +6043,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1776717538
+                "LastUpdate": 1777179412
             }
         ]
     },
@@ -6414,6 +6414,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/lichie567/GlamApply",
                 "LastUpdate": 1766296962
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/lichie567/LMeter/raw/main/repo.json",
+        "repo_source_url": "https://github.com/lichie567/LMeter",
+        "repo_name": "LMeter",
+        "repo_developer_name": "lichie567",
+        "plugins": [
+            {
+                "Author": "Lichie",
+                "Name": "LMeter",
+                "InternalName": "LMeter",
+                "Description": "Plugin to display ACT combat log data.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/lichie567/LMeter",
+                "LastUpdate": 1769936141
             }
         ]
     },
@@ -9820,7 +9837,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1776731720
+                "LastUpdate": 1777166219
             },
             {
                 "Author": "Team Wrath",
@@ -10068,7 +10085,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1776930709
+                "LastUpdate": 1777176514
             }
         ]
     },
@@ -10629,7 +10646,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1777156781
+                "LastUpdate": 1777178203
             }
         ]
     },
@@ -11364,7 +11381,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1776731720
+                "LastUpdate": 1777166219
             }
         ]
     },
@@ -11733,7 +11750,7 @@
                 "Description": "Host FFXIV-themed trivia nights with your Free Company or friends! The host shouts questions in chat and players answer via /yell or /shout. First correct answer wins the point! Features: configurable win conditions, 60-second timer, manual score adjustment, 50 FFXIV-themed questions, and question tracking to avoid repeats.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/SomethingAstraSomething/PinkChocoboTrivial",
-                "LastUpdate": 1777132844
+                "LastUpdate": 1777173741
             }
         ]
     },
@@ -12167,7 +12184,7 @@
                 "Description": "Composites image decals onto character skin textures (diffuse + normal) in real time via Penumbra. No game file modification. Supports per-layer emissive, iris glow, ColorTable PBR, and Mod (.pmp) export. Under active development - feedback welcome via Issues or Discord. Type /skintattoo to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
-                "LastUpdate": 1777132486
+                "LastUpdate": 1777172695
             }
         ]
     },
@@ -13400,7 +13417,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1777147751
+                "LastUpdate": 1777167117
             }
         ]
     },
@@ -13434,7 +13451,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1777147751
+                "LastUpdate": 1777167117
             }
         ]
     },
