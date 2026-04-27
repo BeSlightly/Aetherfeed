@@ -626,7 +626,7 @@
                 "Description": "Simple tool to check boss health when sandbagging.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/altaint/MyDalamudPlugins",
-                "LastUpdate": 1777244865
+                "LastUpdate": 1777271012
             }
         ]
     },
@@ -677,7 +677,7 @@
                 "Description": "Fork of Lifestream with a new 'Select_Ward' Custom Alias kind that clicks a ward number (1-30) on the HousingSelectBlock grid. Lets you build custom aliases that navigate to a specific ward. Based on NightmareXIV/Lifestream.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1777241706
+                "LastUpdate": 1777291271
             },
             {
                 "Author": "Lilith",
@@ -686,7 +686,7 @@
                 "Description": "Displays HP/MP/Soul/Shroud as F1-F12 RGB bars on SteelSeries Apex Pro TKL via GameSense API. Reaper-aware (Soul + Shroud). Includes button to toggle Yuki's OLED Switcher.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1777241706
+                "LastUpdate": 1777291271
             },
             {
                 "Author": "Lilith",
@@ -695,7 +695,7 @@
                 "Description": "Live REPL bridge for AI-driven FFXIV market trading. Exposes UI state (player, addon trees) + click/chat actions over HTTP :18810 so Claude can pilot the game step by step. Includes a kill-switch ImGui window so the user can halt the bridge instantly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1777241706
+                "LastUpdate": 1777291271
             }
         ]
     },
@@ -3590,7 +3590,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1777179438
+                "LastUpdate": 1777277596
             },
             {
                 "Author": "Churin",
@@ -5959,7 +5959,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1777247730
+                "LastUpdate": 1777284518
             }
         ]
     },
@@ -5985,7 +5985,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix-private/RSR-kk-special",
-                "LastUpdate": 1777247730
+                "LastUpdate": 1777284518
             }
         ]
     },
@@ -6181,7 +6181,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1776862257
+                "LastUpdate": 1777280934
             }
         ]
     },
@@ -6626,7 +6626,7 @@
                 "Description": "General Logging Plugin,DPS meter and performance analysis plugin",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/LoggingWay/LoggingWayPlugin",
-                "LastUpdate": 1775754364
+                "LastUpdate": 1777276795
             }
         ]
     },
@@ -7659,7 +7659,7 @@
                 "Description": "Zone is the all-in-one companion for ZONE events. Features a live DJ lineup, activity tracker, staff directory, Zone Vision HUD overlay, and midnight time lock.\n\nCommands:\n/zone - Open Zone\n/zonevision - Toggle HUD overlay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NalaPraline/ZONE",
-                "LastUpdate": 1776493988
+                "LastUpdate": 1777273397
             }
         ]
     },
@@ -9829,7 +9829,7 @@
                 "LastUpdate": 1768328520
             },
             {
-                "Author": "NightmareXIV",
+                "Author": "Chalkos, NightmareXIV",
                 "Name": "Marketbuddy",
                 "InternalName": "Marketbuddy",
                 "Description": "Helper for your day-to-day market operations.",
@@ -10136,7 +10136,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1777176514
+                "LastUpdate": 1777272327
             }
         ]
     },
@@ -12235,7 +12235,7 @@
                 "Description": "Composites image decals onto character skin textures (diffuse + normal) in real time via Penumbra. No game file modification. Supports per-layer emissive, iris glow, ColorTable PBR, and Mod (.pmp) export. Under active development - feedback welcome via Issues or Discord. Type /skintattoo to open.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
-                "LastUpdate": 1777206980
+                "LastUpdate": 1777280334
             }
         ]
     },
@@ -13494,7 +13494,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1777266106
+                "LastUpdate": 1777286208
             }
         ]
     },
@@ -13511,7 +13511,7 @@
                 "Description": "Fires your job's PvP Limit Break when the target's HP drops below a configurable threshold. Threshold is set as a percent of max HP or an absolute HP value. Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Commands: /lasthit, /lasthit config.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-LastHit",
-                "LastUpdate": 1777180142
+                "LastUpdate": 1777286743
             }
         ]
     },
@@ -13528,7 +13528,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1777266106
+                "LastUpdate": 1777286208
             }
         ]
     },
