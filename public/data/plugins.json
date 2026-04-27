@@ -677,7 +677,7 @@
                 "Description": "Fork of Lifestream with a new 'Select_Ward' Custom Alias kind that clicks a ward number (1-30) on the HousingSelectBlock grid. Lets you build custom aliases that navigate to a specific ward. Based on NightmareXIV/Lifestream.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1777291271
+                "LastUpdate": 1777305046
             },
             {
                 "Author": "Lilith",
@@ -686,7 +686,7 @@
                 "Description": "Displays HP/MP/Soul/Shroud as F1-F12 RGB bars on SteelSeries Apex Pro TKL via GameSense API. Reaper-aware (Soul + Shroud). Includes button to toggle Yuki's OLED Switcher.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1777291271
+                "LastUpdate": 1777305046
             },
             {
                 "Author": "Lilith",
@@ -695,7 +695,16 @@
                 "Description": "Live REPL bridge for AI-driven FFXIV market trading. Exposes UI state (player, addon trees) + click/chat actions over HTTP :18810 so Claude can pilot the game step by step. Includes a kill-switch ImGui window so the user can halt the bridge instantly.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
-                "LastUpdate": 1777291271
+                "LastUpdate": 1777305046
+            },
+            {
+                "Author": "MidoriKami (fork: Lilith)",
+                "Name": "SortaKinda Lilith",
+                "InternalName": "SortaKindaLilith",
+                "Description": "Fork of SortaKinda. Adds a 'Class Job Category' filter so you can target items like 'All DoH' or 'All Classes' gear that the standard Type filter can't isolate. Also extends sorting to retainer inventories and saddlebags.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/anaa98fdgdfgw/LilithDalamud",
+                "LastUpdate": 1777305046
             }
         ]
     },
@@ -2106,7 +2115,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1776911626
+                "LastUpdate": 1777313330
             }
         ]
     },
@@ -2312,7 +2321,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1777206141
+                "LastUpdate": 1777298642
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -3476,7 +3485,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1776855610
+                "LastUpdate": 1777309684
             }
         ]
     },
@@ -3520,15 +3529,6 @@
         "repo_source_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo",
         "repo_discord_url": "https://discord.gg/p54TZMPnC9",
         "plugins": [
-            {
-                "Author": "The Combat Reborn Team",
-                "Name": "ActionTimeline Reborn",
-                "InternalName": "ActionTimelineReborn",
-                "Description": "Configurable timeline display of all the actions you use.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn",
-                "LastUpdate": 1773647067
-            },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
@@ -5578,7 +5578,7 @@
                 "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1776967485
+                "LastUpdate": 1777308973
             }
         ]
     },
@@ -5691,7 +5691,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1776855610
+                "LastUpdate": 1777309684
             }
         ]
     },
@@ -6002,7 +6002,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1777217536
+                "LastUpdate": 1777292711
             }
         ]
     },
@@ -6112,7 +6112,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1776911626
+                "LastUpdate": 1777313330
             }
         ]
     },
@@ -7608,7 +7608,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1777268685
+                "LastUpdate": 1777313644
             }
         ]
     },
@@ -7782,7 +7782,7 @@
                 "Description": "/avf - opens the Active Venue Finder window",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/ActiveVenueFinder",
-                "LastUpdate": 1775467588
+                "LastUpdate": 1777298510
             }
         ]
     },
@@ -7799,7 +7799,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1776154004
+                "LastUpdate": 1777298773
             }
         ]
     },
@@ -8446,12 +8446,12 @@
         "plugins": [
             {
                 "Author": "NaughtyNeko",
-                "Name": "AQR-Narrator",
-                "InternalName": "AQR-Narrator",
-                "Description": "",
+                "Name": "AqrNarrator",
+                "InternalName": "AqrNarrator",
+                "Description": "A companion plugin that forwards A Quest Reborn dialog text into a dedicated window for Chat2 users.",
                 "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/NNekoPlugins/AQR-Narrator",
-                "LastUpdate": 1777054144
+                "RepoUrl": "https://github.com/NNekoPlugins/AqrNarrator",
+                "LastUpdate": 1777311835
             }
         ]
     },
@@ -8588,15 +8588,6 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NostraThomas99/BuyHelper",
                 "LastUpdate": 1751680278
-            },
-            {
-                "Author": "NostraThomas",
-                "Name": "Scrounger",
-                "InternalName": "Scrounger",
-                "Description": "Automatic gathering of crafting materials using vnavmesh (and other plugins)",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NostraThomas99/Scrounger",
-                "LastUpdate": 1744079640
             },
             {
                 "Author": "NostraThomas",
@@ -8883,7 +8874,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1777206141
+                "LastUpdate": 1777298642
             }
         ]
     },
@@ -8927,7 +8918,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1777206141
+                "LastUpdate": 1777298642
             },
             {
                 "Author": "Anna",
@@ -8945,7 +8936,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1776911626
+                "LastUpdate": 1777313330
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -8954,7 +8945,7 @@
                 "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1776967485
+                "LastUpdate": 1777308973
             },
             {
                 "Author": "Ottermandias, Nylfae, Adam, Wintermute",
@@ -10697,7 +10688,7 @@
                 "Description": "Apollo: An intelligent White Mage rotation assistant that handles healing, damage, defensive cooldowns, and resource management with full level-sync awareness.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1777232642
+                "LastUpdate": 1777301203
             }
         ]
     },
@@ -13494,7 +13485,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1777286208
+                "LastUpdate": 1777307404
             }
         ]
     },
@@ -13506,12 +13497,12 @@
         "plugins": [
             {
                 "Author": "XeldarAlz",
-                "Name": "LastHit",
-                "InternalName": "LastHitPlugin",
-                "Description": "Fires your job's PvP Limit Break when the target's HP drops below a configurable threshold. Threshold is set as a percent of max HP or an absolute HP value. Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Commands: /lasthit, /lasthit config.",
+                "Name": "PVP Auto LB",
+                "InternalName": "PvpAutoLb",
+                "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-LastHit",
-                "LastUpdate": 1777286743
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
+                "LastUpdate": 1777302686
             }
         ]
     },
@@ -13528,7 +13519,24 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1777286208
+                "LastUpdate": 1777307404
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "XeldarAlz",
+        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-PvPAutoLB/master/repo.json",
+        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
+        "repo_name": "FFXIV-PvPAutoLB",
+        "plugins": [
+            {
+                "Author": "XeldarAlz",
+                "Name": "PVP Auto LB",
+                "InternalName": "PvpAutoLb",
+                "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
+                "LastUpdate": 1777302686
             }
         ]
     },
