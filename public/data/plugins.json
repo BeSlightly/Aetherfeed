@@ -1258,7 +1258,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1777107366,
+                "LastUpdate": 1777449120,
                 "is_closed_source": true
             },
             {
@@ -1268,7 +1268,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1777107366,
+                "LastUpdate": 1777449120,
                 "is_closed_source": true
             },
             {
@@ -1278,7 +1278,17 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1777107366,
+                "LastUpdate": 1777449120,
+                "is_closed_source": true
+            },
+            {
+                "Author": "AtmoOmen",
+                "Name": "Daily Routines (API 14)",
+                "InternalName": "DailyRoutines",
+                "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
+                "LastUpdate": 1777449120,
                 "is_closed_source": true
             },
             {
@@ -1358,9 +1368,9 @@
                 "Name": "vnavmesh",
                 "InternalName": "vnavmesh",
                 "Description": "不仅会自动寻路, 还能自动避障",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1777115071
+                "LastUpdate": 1777449045
             }
         ]
     },
@@ -2615,7 +2625,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1775958620
+                "LastUpdate": 1777440762
             },
             {
                 "Author": "The Combat Reborn Team, decorwdyun(汉化)",
@@ -3398,6 +3408,59 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Ewilhan/LMeter",
                 "LastUpdate": 1732143501
+            }
+        ]
+    },
+    {
+        "repo_url": "https://github.com/extrant/DalamudPlugins/raw/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/extrant/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "repo_developer_name": "extrant",
+        "plugins": [
+            {
+                "Author": "Siren",
+                "Name": "Coyote-FFXiv",
+                "InternalName": "Coyote-FFXiv",
+                "Description": "通过条件触发实现郊狼的控制，对接Coyote。顺带支持一些RP小功能。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/extrant/Coyote-FFXiv",
+                "LastUpdate": 1762016362
+            },
+            {
+                "Author": "Siren",
+                "Name": "FFXIV Network Packet Analysis Tool",
+                "InternalName": "FFXIVNetworkPacketAnalysisTool",
+                "Description": "一个用于分析游戏内网络包详细内容的Debug工具，更推荐开发人员使用。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/extrant/FFXIVNetworkPacketAnalysisTool",
+                "LastUpdate": 1773844279
+            },
+            {
+                "Author": "Siren",
+                "Name": "GposeResizer",
+                "InternalName": "GposeResizer",
+                "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
+                "DalamudApiLevel": 14,
+                "RepoUrl": "https://github.com/extrant?tab=repositories",
+                "LastUpdate": 1777436443
+            },
+            {
+                "Author": "Siren",
+                "Name": "I-Ching-GL",
+                "InternalName": "I-Ching-GL",
+                "Description": "我是一个FF14学习插件(国服API15)",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/extrant/I-Ching",
+                "LastUpdate": 1777436452
+            },
+            {
+                "Author": "Siren",
+                "Name": "Zhouyi",
+                "InternalName": "Zhouyi",
+                "Description": "战场小助手",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/extrant/I-Ching",
+                "LastUpdate": 1777436452
             }
         ]
     },
@@ -4394,7 +4457,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1777115071
+                "LastUpdate": 1777449045
             },
             {
                 "Author": "Team Wrath",
@@ -4403,7 +4466,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1777201775
+                "LastUpdate": 1777443402
             },
             {
                 "Author": "daemitus, croizat",
@@ -4559,7 +4622,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1777115071
+                "LastUpdate": 1777449045
             },
             {
                 "Author": "Team Wrath",
@@ -4568,7 +4631,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1777201775
+                "LastUpdate": 1777443402
             },
             {
                 "Author": "daemitus, croizat",
@@ -6173,6 +6236,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
                 "LastUpdate": 1777404137
+            },
+            {
+                "Author": "veyn, AtmoOmen",
+                "Name": "vnavmesh",
+                "InternalName": "vnavmesh",
+                "Description": "不仅会自动寻路, 还能自动避障(API15先行版)",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Latihas/dalamud-plugins",
+                "LastUpdate": 1777445685
             }
         ]
     },
@@ -7057,7 +7129,7 @@
                 "Description": "Shows you an image of a random neko character. Click on the image to view the next one.\nYou can choose different image sources, allowing you to look at Catboys, Waifus, Cats, Dogs and more.\n\nSupported APIs:\nnekos.best, Nekos.life, Dog CEO, The Cat API, Pic.re, Waifu.im, Waifu.pics and shibe.online\n\nWarning: You might see naughty images",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1776830082
+                "LastUpdate": 1777436607
             },
             {
                 "Author": "Meisterlala",
@@ -7066,7 +7138,7 @@
                 "Description": "This Plugin does nothing on its own. Neko Fans needs to be installed.\nYou now have access to NSFW images in Neko Fans.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1776830082
+                "LastUpdate": 1777436607
             }
         ]
     },
@@ -7561,9 +7633,9 @@
                 "Name": "SpeedRadiusPlugin",
                 "InternalName": "SpeedRadiusPlugin",
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1777365223
+                "LastUpdate": 1777446308
             }
         ]
     },
@@ -9841,9 +9913,9 @@
                 "Name": "Splatoon",
                 "InternalName": "Splatoon",
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1777166219
+                "LastUpdate": 1777431530
             },
             {
                 "Author": "Team Wrath",
@@ -9852,7 +9924,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1777201775
+                "LastUpdate": 1777443402
             },
             {
                 "Author": "daemitus, kawaii",
@@ -11371,7 +11443,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1777166219
+                "LastUpdate": 1777431530
             }
         ]
     },
@@ -12380,18 +12452,18 @@
                 "Name": "AutoHunt",
                 "InternalName": "AutoHunt",
                 "Description": "用卫月实现自动狩猎。",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ToxicStar8/DalamudPlugins",
-                "LastUpdate": 1766576854
+                "LastUpdate": 1777439612
             },
             {
                 "Author": "ToxicStar",
                 "Name": "BlockAnyRace",
                 "InternalName": "BlockAnyRace",
                 "Description": "屏蔽掉任何你不想看到的种族和玩家，除了你队友和好友！",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ToxicStar8/BlockAnyRace",
-                "LastUpdate": 1774086310
+                "LastUpdate": 1777439551
             }
         ]
     },
@@ -13795,7 +13867,7 @@
                 "Description": "在游戏内显示到目标/单位的距离，并可显示支持 Boss 的仇恨范围，支持姓名板与多种自定义显示",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/Distance",
-                "LastUpdate": 1758050486
+                "LastUpdate": 1777439664
             },
             {
                 "Author": "Xorus, YouShu",
@@ -13813,7 +13885,7 @@
                 "Description": "在游戏内查看 FF Logs 排名百分比，支持右键搜索",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/FFLogsViewer",
-                "LastUpdate": 1762619652
+                "LastUpdate": 1777441043
             },
             {
                 "Author": "YouShu",
@@ -13840,7 +13912,7 @@
                 "Description": "根据条件自动调整第三人称镜头角度与距离，支持战斗、副本、拔刀、骑乘、飞行、镜头靠近等模式（仅支持在线安装）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/YouShux/TiltedPlugin",
-                "LastUpdate": 1762695061
+                "LastUpdate": 20251218
             },
             {
                 "Author": "Infi, PunishedPineapple, YouShu",
@@ -14054,7 +14126,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1776694088
+                "LastUpdate": 1777448049
             }
         ]
     },
