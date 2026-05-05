@@ -2277,7 +2277,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1777912997
+                "LastUpdate": 1777989585
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -2442,7 +2442,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1777956101
+                "LastUpdate": 1777989026
             },
             {
                 "Author": "Critical_Impact",
@@ -3525,7 +3525,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1777956101
+                "LastUpdate": 1777989026
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5283,7 +5283,7 @@
                 "Description": "Hellion Chat is built on top of Chat 2 with one removal and a stack\nof privacy controls on top. Tabs, channel filters, RGB colours,\nemotes, screenshot mode, IPC integration and the chat replacement\nwindow itself work the same. The optional webinterface that Chat 2\nships is intentionally not part of this fork because it serves a\ndifferent use case from the smaller default footprint Hellion Chat\nis built around.\n\nOn top of that, Hellion Chat adds privacy and data-handling controls\ndesigned to align with the modern data protection rules that apply\nacross the EU, the United States and Japan. By default only your own\nconversations are stored; messages from strangers, NPCs and system\nspam stay out of the database. Retention windows are configurable per\nchannel, history can be wiped retroactively, and stored data can be\nexported on demand.\n\nKey additions on top of Chat 2:\n\n- Channel whitelist with a Privacy-First default\n- Per-channel retention with a daily background sweep\n- Retroactive cleanup with a Ctrl+Shift confirm\n- Export to Markdown, JSON or CSV\n- First-run wizard with three preset profiles (Privacy-First, Casual,\n  Full History)\n- Bilingual UI (English and German) with live language switching\n- Independent plugin state — own config file and database directory,\n  so Hellion Chat does not share state with the upstream plugin\n\nBased on Chat 2 by Infi and Anna, licensed under EUPL-1.2.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JonKazama-Hellion/HellionChat",
-                "LastUpdate": 1777987154
+                "LastUpdate": 1777988181
             }
         ]
     },
@@ -6101,7 +6101,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1777987334
+                "LastUpdate": 1777987587
             }
         ]
     },
@@ -8171,7 +8171,7 @@
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1777771888
+                "LastUpdate": 1777993114
             }
         ]
     },
@@ -8845,6 +8845,54 @@
         ]
     },
     {
+        "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/AqrNarrator/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/AqrNarrator",
+        "repo_name": "AqrNarrator",
+        "plugins": [
+            {
+                "Author": "NaughtyNeko",
+                "Name": "NNeko's AQR Narrator",
+                "InternalName": "AqrNarrator",
+                "Description": "A companion plugin that forwards A Quest Reborn dialog text into a dedicated window for Chat2 users.",
+                "RepoUrl": "https://github.com/NNekoPlugins/AqrNarrator",
+                "LastUpdate": 1777989659
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/NNekoTriggers/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/NNekoTriggers",
+        "repo_name": "NNekoTriggers",
+        "plugins": [
+            {
+                "Author": "NaughtyNeko",
+                "Name": "NNeko's Conditional Triggers",
+                "InternalName": "NNekoTriggers",
+                "Description": "Provides zone triggers, RNG triggers, job-swap triggers, login triggers, and more.",
+                "RepoUrl": "https://github.com/NNekoPlugins/NNekoTriggers",
+                "LastUpdate": 1777989535
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/NNekoWeaponIcons/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/NNekoWeaponIcons",
+        "repo_name": "NNekoWeaponIcons",
+        "plugins": [
+            {
+                "Author": "NaughtyNeko",
+                "Name": "NNeko's Weapon Icons",
+                "InternalName": "NNekoWeaponIcons",
+                "Description": "Adds a Clas/Job Icon Overlay in Armoury Chest.  Split from VIWI plugin's Kitchen Sink module.",
+                "RepoUrl": "https://github.com/NNekoPlugins/NNekoWeaponIcons",
+                "LastUpdate": 1777989595
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Noevain",
         "repo_url": "https://raw.githubusercontent.com/Noevain/DotCalculator/master/repo.json",
         "repo_source_url": "https://github.com/Noevain/DotCalculator",
@@ -9247,7 +9295,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1777912997
+                "LastUpdate": 1777989585
             }
         ]
     },
@@ -9291,7 +9339,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1777912997
+                "LastUpdate": 1777989585
             },
             {
                 "Author": "Anna",
@@ -9495,7 +9543,7 @@
                 "Description": "Did I mention I'm a model? Export models to glTF format.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1777680775
+                "LastUpdate": 1777988571
             }
         ]
     },
@@ -10153,7 +10201,7 @@
                 "Description": "Shows aether current locations as markers on the in-game World Map for all expansion zones.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/prop11/AetherCurrents",
-                "LastUpdate": 1777924663
+                "LastUpdate": 1777993103
             }
         ]
     },
@@ -10285,7 +10333,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1777961905
+                "LastUpdate": 1777989544
             },
             {
                 "Author": "Team Wrath",
@@ -11864,7 +11912,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1777961905
+                "LastUpdate": 1777989544
             }
         ]
     },
@@ -12700,9 +12748,9 @@
                 "Name": "SkinTattoo",
                 "InternalName": "SkinTattoo",
                 "Description": "Composites image decals onto character skin textures (diffuse + normal) in real time via Penumbra. No game file modification. Supports per-layer emissive, iris glow, ColorTable PBR, and Mod (.pmp) export. Under active development - feedback welcome via Issues or Discord. Type /skintattoo to open.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
-                "LastUpdate": 1777280334
+                "LastUpdate": 1777989330
             }
         ]
     },
@@ -13685,7 +13733,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1777912997
+                "LastUpdate": 1777989585
             }
         ]
     },
@@ -14244,7 +14292,7 @@
                 "Description": "Cross-retainer market workbench. Per-retainer collapsible view of every listing. Bulk reprice with optional outlier-aware 'match lowest -1 gil'. Bulk new listing with auto stack-splitting (e.g. 990 items, stack size 99 → ten listings of 99 distributed across retainers; no inter-retainer transfer). Active 'refresh all retainers' walks the bell automatically to repopulate snapshots. Snapshots are also collected passively whenever you summon a retainer and open the sell list. Character bag and saddlebag are displayed as separate sections (entrust-then-list flow planned). Six-language UI (EN/JA/DE/FR/ZH/KO). Warns once at startup if AutoRetainer is also loaded since both drive retainer summoning.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yagi2/Restocker",
-                "LastUpdate": 1777987149
+                "LastUpdate": 1777989747
             }
         ]
     },
