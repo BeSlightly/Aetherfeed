@@ -17,68 +17,6 @@
         ]
     },
     {
-        "repo_developer_name": "44451516-ff14",
-        "repo_url": "https://raw.githubusercontent.com/44451516-ff14/DalamudPlugins/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/44451516-ff14/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "veyn",
-                "Name": "Boss Mod",
-                "InternalName": "BossMod",
-                "Description": "A bunch of utilities to simplify bosses.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1777944214
-            },
-            {
-                "Author": "The Combat Reborn Team",
-                "Name": "BossMod Reborn",
-                "InternalName": "BossModReborn",
-                "Description": "Boss mod.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1777956101
-            },
-            {
-                "Author": "ocealot",
-                "Name": "JobBars",
-                "InternalName": "JobBars",
-                "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/0ceal0t/JobBars",
-                "LastUpdate": 1777958395
-            },
-            {
-                "Author": "shdwp, Avaflow, abashby, nebel",
-                "Name": "Party Icons",
-                "InternalName": "PartyIcons",
-                "Description": "PartyIcons plugin",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/nebel/xivPartyIcons",
-                "LastUpdate": 1777505522
-            },
-            {
-                "Author": "Anna, Maintained by Caraxi",
-                "Name": "Peeping Tom",
-                "InternalName": "PeepingTom",
-                "Description": "Shows who is currently or was previously targeting you.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Caraxi/PeepingTom",
-                "LastUpdate": 1777596818
-            },
-            {
-                "Author": "UnknownX, Taurenkey",
-                "Name": "ReActionEx",
-                "InternalName": "ReActionEx",
-                "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://puni.sh/api/repository/taurenkey",
-                "LastUpdate": 1777651087
-            }
-        ]
-    },
-    {
         "repo_developer_name": "4679",
         "repo_url": "https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/4679/DalamudPlugins",
@@ -311,13 +249,22 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
+                "Author": "Haselnussbomber,cyf5119(汉化),zhouhuichen741(汉化&本地化维护)",
+                "Name": "HaselTweaks",
+                "InternalName": "HaselTweaks",
+                "Description": "继续调整",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
+                "LastUpdate": 1777752424
+            },
+            {
                 "Author": "cy237",
                 "Name": "RankAHuntHelper",
                 "InternalName": "RankAHuntHelper",
                 "Description": "自动找A怪，依赖插件: LifeStream, Teleporter, Vnavmesh, HuntHelper",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Acecy237/DalamudPlugins",
-                "LastUpdate": 1777861116
+                "LastUpdate": 1777974939
             }
         ]
     },
@@ -911,9 +858,9 @@
                 "Name": "RecruitmentRefresher",
                 "InternalName": "RecruitmentRefresher",
                 "Description": "Refresh party finder recruitment automatically",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/RecruitmentRefresher",
-                "LastUpdate": 1777755458
+                "LastUpdate": 1777966498
             },
             {
                 "Author": "Anya Hichu",
@@ -1038,9 +985,9 @@
                 "Name": "AetherLink",
                 "InternalName": "AetherLink",
                 "Description": "A plugin that connects Final Fantasy XIV in-game chat with Discord, allowing real-time message exchange between the two platforms.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ashylila/AetherLink",
-                "LastUpdate": 1766190582
+                "LastUpdate": 1777965868
             },
             {
                 "Author": "Ashylila",
@@ -2339,7 +2286,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1777845906
+                "LastUpdate": 1777986751
             },
             {
                 "Author": "CY",
@@ -2866,7 +2813,7 @@
                 "Description": "[ALPHA] Change your appearance in-game.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1777832212
+                "LastUpdate": 1777983155
             },
             {
                 "Author": "Eauldane",
@@ -2893,7 +2840,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1777832212
+                "LastUpdate": 1777983155
             },
             {
                 "Author": "Eauldane",
@@ -2902,7 +2849,7 @@
                 "Description": "[ALPHA] PMP compatible mod loader.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1777832212
+                "LastUpdate": 1777983155
             }
         ]
     },
@@ -4373,7 +4320,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1777764009
+                "LastUpdate": 1777977501
             },
             {
                 "Author": "Haselnussbomber",
@@ -4460,7 +4407,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1777964664,
+                "LastUpdate": 1777965783,
                 "is_closed_source": true
             }
         ]
@@ -5111,6 +5058,23 @@
         ]
     },
     {
+        "repo_developer_name": "J3sven",
+        "repo_url": "https://raw.githubusercontent.com/J3sven/IINACTNativeOverlay/main/repo.json",
+        "repo_source_url": "https://github.com/J3sven/IINACTNativeOverlay",
+        "repo_name": "IINACTNativeOverlay",
+        "plugins": [
+            {
+                "Author": "J3",
+                "Name": "IINACT Native Overlay",
+                "InternalName": "IINACTNativeOverlay",
+                "Description": "Native Dalamud DPS meter HUD for IINACT combat data. Especially useful for linux users who use tiling window managers!",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/J3sven/IINACTNativeOverlay",
+                "LastUpdate": 1777986466
+            }
+        ]
+    },
+    {
         "repo_developer_name": "jackandcarter",
         "repo_url": "https://raw.githubusercontent.com/jackandcarter/DemiCat/main/repo.json",
         "repo_source_url": "https://github.com/jackandcarter/DemiCat",
@@ -5302,7 +5266,7 @@
                 "Description": "A vibecoded version made my John Vibescode and Claude, this is NOT a replacement for C+ its to tide you gooners over until risa does the real hard work",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JohnVibescode/CustomizePlus-7.5",
-                "LastUpdate": 1777955996
+                "LastUpdate": 1777977337
             }
         ]
     },
@@ -5319,7 +5283,7 @@
                 "Description": "Hellion Chat is built on top of Chat 2 with one removal and a stack\nof privacy controls on top. Tabs, channel filters, RGB colours,\nemotes, screenshot mode, IPC integration and the chat replacement\nwindow itself work the same. The optional webinterface that Chat 2\nships is intentionally not part of this fork because it serves a\ndifferent use case from the smaller default footprint Hellion Chat\nis built around.\n\nOn top of that, Hellion Chat adds privacy and data-handling controls\ndesigned to align with the modern data protection rules that apply\nacross the EU, the United States and Japan. By default only your own\nconversations are stored; messages from strangers, NPCs and system\nspam stay out of the database. Retention windows are configurable per\nchannel, history can be wiped retroactively, and stored data can be\nexported on demand.\n\nKey additions on top of Chat 2:\n\n- Channel whitelist with a Privacy-First default\n- Per-channel retention with a daily background sweep\n- Retroactive cleanup with a Ctrl+Shift confirm\n- Export to Markdown, JSON or CSV\n- First-run wizard with three preset profiles (Privacy-First, Casual,\n  Full History)\n- Bilingual UI (English and German) with live language switching\n- Independent plugin state — own config file and database directory,\n  so Hellion Chat does not share state with the upstream plugin\n\nBased on Chat 2 by Infi and Anna, licensed under EUPL-1.2.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JonKazama-Hellion/HellionChat",
-                "LastUpdate": 1777963799
+                "LastUpdate": 1777987154
             }
         ]
     },
@@ -6137,7 +6101,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1777963864
+                "LastUpdate": 1777987334
             }
         ]
     },
@@ -6187,7 +6151,7 @@
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1777961565
+                "LastUpdate": 1777982996
             }
         ]
     },
@@ -7025,7 +6989,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1777854487
+                "LastUpdate": 1777972721
             }
         ]
     },
@@ -7144,7 +7108,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1777881216
+                "LastUpdate": 1777972710
             }
         ]
     },
@@ -7195,7 +7159,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1777962799
+                "LastUpdate": 1777972684
             }
         ]
     },
@@ -7230,7 +7194,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1777854487
+                "LastUpdate": 1777972721
             },
             {
                 "Author": "DhogGPT",
@@ -7284,7 +7248,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1777881216
+                "LastUpdate": 1777972710
             },
             {
                 "Author": "DhogGPT",
@@ -7311,7 +7275,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1777962799
+                "LastUpdate": 1777972684
             },
             {
                 "Author": "DhogGPT",
@@ -7637,7 +7601,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1777845906
+                "LastUpdate": 1777986751
             }
         ]
     },
@@ -7965,7 +7929,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1777820169
+                "LastUpdate": 1777979581
             }
         ]
     },
@@ -9363,7 +9327,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1777845906
+                "LastUpdate": 1777986751
             },
             {
                 "Author": "Caraxi",
@@ -10303,7 +10267,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1777960771
+                "LastUpdate": 1777983033
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -10801,7 +10765,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1777845906
+                "LastUpdate": 1777986751
             }
         ]
     },
@@ -10818,7 +10782,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1777845906
+                "LastUpdate": 1777986751
             }
         ]
     },
@@ -11601,7 +11565,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1777961565
+                "LastUpdate": 1777982996
             }
         ]
     },
@@ -12080,7 +12044,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1777866632
+                "LastUpdate": 1777967587
             },
             {
                 "Author": "XSZYYS",
@@ -12089,7 +12053,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1777866632,
+                "LastUpdate": 1777967587,
                 "is_closed_source": true
             }
         ]
@@ -12227,7 +12191,7 @@
                 "Description": "Displays bilingual action names on cast bars. Select any two languages (English, Japanese, German, French, Traditional Chinese) to show on target cast bars - perfect for learning skill names in another language.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/sodaohoh/ff14-duolingo",
-                "LastUpdate": 1777376395
+                "LastUpdate": 1777979436
             }
         ]
     },
@@ -12937,7 +12901,7 @@
                 "Description": "Turn everyone around you into a nudist.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/tigurand/OopsAllNudist",
-                "LastUpdate": 1777698087
+                "LastUpdate": 1777968175
             },
             {
                 "Author": "Lucille",
@@ -12946,7 +12910,7 @@
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1777698327
+                "LastUpdate": 1777968402
             }
         ]
     },
@@ -14016,7 +13980,7 @@
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1777757696
+                "LastUpdate": 1777987368
             }
         ]
     },
@@ -14067,7 +14031,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1777940389
+                "LastUpdate": 1777980388
             }
         ]
     },
@@ -14101,7 +14065,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1777940389
+                "LastUpdate": 1777980388
             }
         ]
     },
@@ -14152,7 +14116,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1777845906
+                "LastUpdate": 1777986751
             }
         ]
     },
@@ -14255,6 +14219,32 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xww2652008969/mydapl",
                 "LastUpdate": 1769016479
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "yagi2",
+        "repo_url": "https://raw.githubusercontent.com/yagi2/dalamud-plugins/main/repo.json",
+        "repo_source_url": "https://github.com/yagi2/dalamud-plugins",
+        "repo_name": "dalamud-plugins",
+        "plugins": [
+            {
+                "Author": "yagi2",
+                "Name": "RepeatBuy",
+                "InternalName": "RepeatBuy",
+                "Description": "Embeds a small overlay next to the standard NPC Shop window. Pick an item from the mirrored shop list, choose a stop condition (fixed count >99 OK, until owned, gil floor, inventory full), and the plugin handles the repeat purchases for you. Shows an estimated total cost popup before starting and warns in red if you cannot afford it. Six-language UI (EN/JA/DE/FR/ZH/KO).",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/yagi2/RepeatBuy",
+                "LastUpdate": 1777973563
+            },
+            {
+                "Author": "yagi2",
+                "Name": "Restocker",
+                "InternalName": "Restocker",
+                "Description": "Cross-retainer market workbench. Per-retainer collapsible view of every listing. Bulk reprice with optional outlier-aware 'match lowest -1 gil'. Bulk new listing with auto stack-splitting (e.g. 990 items, stack size 99 → ten listings of 99 distributed across retainers; no inter-retainer transfer). Active 'refresh all retainers' walks the bell automatically to repopulate snapshots. Snapshots are also collected passively whenever you summon a retainer and open the sell list. Character bag and saddlebag are displayed as separate sections (entrust-then-list flow planned). Six-language UI (EN/JA/DE/FR/ZH/KO). Warns once at startup if AutoRetainer is also loaded since both drive retainer summoning.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/yagi2/Restocker",
+                "LastUpdate": 1777987149
             }
         ]
     },
