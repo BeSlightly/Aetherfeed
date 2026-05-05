@@ -12,7 +12,7 @@
                 "Description": "VFX, animation, and sound editing plugin. Icon by PAPACHIN",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
-                "LastUpdate": 1777871206
+                "LastUpdate": 1777956767
             }
         ]
     },
@@ -29,7 +29,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1777743109
+                "LastUpdate": 1777944214
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -38,7 +38,7 @@
                 "Description": "Boss mod.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1777923887
+                "LastUpdate": 1777956101
             },
             {
                 "Author": "ocealot",
@@ -47,7 +47,7 @@
                 "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/0ceal0t/JobBars",
-                "LastUpdate": 1777600601
+                "LastUpdate": 1777958395
             },
             {
                 "Author": "shdwp, Avaflow, abashby, nebel",
@@ -280,18 +280,18 @@
                 "Name": "HousingPos",
                 "InternalName": "HousingPos",
                 "Description": "Automatically save/load the positions of housing furnitures.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Abyeon/HousingPos",
-                "LastUpdate": 1767615554
+                "LastUpdate": 1777942671
             },
             {
                 "Author": "Abyeon",
                 "Name": "RacingwayRewrite",
                 "InternalName": "RacingwayRewrite",
                 "Description": "Time yourself in jump puzzles, race others, and become the fastest jumper!",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Abyeon/RacingwayRewrite",
-                "LastUpdate": 1771980985
+                "LastUpdate": 1777944679
             },
             {
                 "Author": "Abyeon",
@@ -635,7 +635,7 @@
                 "Description": "Simple tool to check boss health when sandbagging.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/altaint/MyDalamudPlugins",
-                "LastUpdate": 1777914445
+                "LastUpdate": 1777946345
             }
         ]
     },
@@ -1056,9 +1056,9 @@
                 "Name": "The Collector",
                 "InternalName": "TheCollector",
                 "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1775671571
+                "LastUpdate": 1777962203
             }
         ]
     },
@@ -1412,7 +1412,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1777743109
+                "LastUpdate": 1777944214
             },
             {
                 "Author": "veyn, croizat",
@@ -2265,6 +2265,23 @@
         ]
     },
     {
+        "repo_developer_name": "curatorjin",
+        "repo_url": "https://raw.githubusercontent.com/curatorjin/DalamudPluginsRepository/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/curatorjin/DalamudPluginsRepository",
+        "repo_name": "DalamudPluginsRepository",
+        "plugins": [
+            {
+                "Author": "CuratorJin",
+                "Name": "DutyRecorder",
+                "InternalName": "DutyRecorder",
+                "Description": "A plugin that helps you to record your duty.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/curatorjin/DalamudPluginsRepository",
+                "LastUpdate": 1777963954
+            }
+        ]
+    },
+    {
         "repo_developer_name": "cycleapple",
         "repo_url": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW/main/repo.json",
         "repo_source_url": "https://github.com/cycleapple/DalamudPlugins-TW",
@@ -2478,7 +2495,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1777923887
+                "LastUpdate": 1777956101
             },
             {
                 "Author": "Critical_Impact",
@@ -2487,7 +2504,7 @@
                 "Description": "Allagan Tool's primary purpose is to keep track of items across your characters/retainers/free company. With it's filter system you'll never lose track of items or not know where they should be sorted.\n\nWhile this is it's primary purpose, it has quite an exhaustive list of other features including:\n\t- Craft planning\n\t- Market board integration\n\t- Item highlighting in inventories when searching/sorting and picking ingredients for crafts\n\t- Item window that includes vendor and source information among other things\n\t- Duty/mob/airship/submarine windows that are fully searchable\n\t- A filtering system that lets you setup complex searches for specific items \n\t- Tooltip integration that'll let you see where the items are on hover",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
-                "LastUpdate": 1777698636
+                "LastUpdate": 1777954472
             }
         ]
     },
@@ -3472,6 +3489,23 @@
         ]
     },
     {
+        "repo_developer_name": "Fabricio20",
+        "repo_url": "https://raw.githubusercontent.com/Fabricio20/xivmarket-dalamud/main/repo.json",
+        "repo_source_url": "https://github.com/Fabricio20/xivmarket-dalamud",
+        "repo_name": "xivmarket-dalamud",
+        "plugins": [
+            {
+                "Author": "notfab",
+                "Name": "XIVMarket",
+                "InternalName": "XivMarket",
+                "Description": "Looks up items against the XivMarket API and shows price summaries, history, and recent sales in-game.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Fabricio20/xivmarket-dalamud",
+                "LastUpdate": 1777962471
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/FantasticalMouthpiece/XivVoices/raw/main/repo.json",
         "repo_source_url": "https://github.com/FantasticalMouthpiece/XivVoices",
         "repo_name": "XivVoices",
@@ -3544,7 +3578,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1777923887
+                "LastUpdate": 1777956101
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4426,7 +4460,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1777671070,
+                "LastUpdate": 1777964664,
                 "is_closed_source": true
             }
         ]
@@ -4479,7 +4513,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1777743109
+                "LastUpdate": 1777944214
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -4644,7 +4678,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1777743109
+                "LastUpdate": 1777944214
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -5268,7 +5302,7 @@
                 "Description": "A vibecoded version made my John Vibescode and Claude, this is NOT a replacement for C+ its to tide you gooners over until risa does the real hard work",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JohnVibescode/CustomizePlus-7.5",
-                "LastUpdate": 1777942121
+                "LastUpdate": 1777955996
             }
         ]
     },
@@ -5285,7 +5319,7 @@
                 "Description": "Hellion Chat is built on top of Chat 2 with one removal and a stack\nof privacy controls on top. Tabs, channel filters, RGB colours,\nemotes, screenshot mode, IPC integration and the chat replacement\nwindow itself work the same. The optional webinterface that Chat 2\nships is intentionally not part of this fork because it serves a\ndifferent use case from the smaller default footprint Hellion Chat\nis built around.\n\nOn top of that, Hellion Chat adds privacy and data-handling controls\ndesigned to align with the modern data protection rules that apply\nacross the EU, the United States and Japan. By default only your own\nconversations are stored; messages from strangers, NPCs and system\nspam stay out of the database. Retention windows are configurable per\nchannel, history can be wiped retroactively, and stored data can be\nexported on demand.\n\nKey additions on top of Chat 2:\n\n- Channel whitelist with a Privacy-First default\n- Per-channel retention with a daily background sweep\n- Retroactive cleanup with a Ctrl+Shift confirm\n- Export to Markdown, JSON or CSV\n- First-run wizard with three preset profiles (Privacy-First, Casual,\n  Full History)\n- Bilingual UI (English and German) with live language switching\n- Independent plugin state — own config file and database directory,\n  so Hellion Chat does not share state with the upstream plugin\n\nBased on Chat 2 by Infi and Anna, licensed under EUPL-1.2.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JonKazama-Hellion/HellionChat",
-                "LastUpdate": 1777904327
+                "LastUpdate": 1777963799
             }
         ]
     },
@@ -6103,7 +6137,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1777908582
+                "LastUpdate": 1777963864
             }
         ]
     },
@@ -6153,7 +6187,7 @@
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1777942355
+                "LastUpdate": 1777961565
             }
         ]
     },
@@ -6247,7 +6281,7 @@
                 "Description": "Calculates the raw material cost of crafted items using Universalis market data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kylohq/craft-analyzer",
-                "LastUpdate": 1777921814
+                "LastUpdate": 1777946117
             }
         ]
     },
@@ -7161,7 +7195,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1777881198
+                "LastUpdate": 1777962799
             }
         ]
     },
@@ -7277,7 +7311,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1777881198
+                "LastUpdate": 1777962799
             },
             {
                 "Author": "DhogGPT",
@@ -7492,7 +7526,7 @@
                 "Description": "Alerts you before Gold Saucer GATE events with configurable per-GATE preferences, countdown overlay, and chat/toast notifications. Use /gate to toggle overlay, /gate config for settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/midnightnoon69/GateTimerPlugin",
-                "LastUpdate": 1777883195
+                "LastUpdate": 1777962199
             }
         ]
     },
@@ -8341,7 +8375,7 @@
                 "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1777929472
+                "LastUpdate": 1777954119
             },
             {
                 "Author": "NightmareXIV",
@@ -9180,7 +9214,7 @@
                 "Description": "由酥卷提供技术支持",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/open-xiv/dalamud-plugins",
-                "LastUpdate": 1777933692
+                "LastUpdate": 1777946208
             }
         ]
     },
@@ -10269,7 +10303,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1777933820
+                "LastUpdate": 1777960771
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -10287,7 +10321,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1777760200
+                "LastUpdate": 1777961905
             },
             {
                 "Author": "Team Wrath",
@@ -10519,7 +10553,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1777942355
+                "LastUpdate": 1777944360
             }
         ]
     },
@@ -10689,7 +10723,7 @@
                 "Description": "Bard Toolbox is an all-in-one FFXIV Dalamud plugin for bards and bands, providing all the essential functions that people would need every day.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
-                "LastUpdate": 1777656359,
+                "LastUpdate": 1777964258,
                 "is_closed_source": true
             }
         ]
@@ -11320,7 +11354,7 @@
                 "Description": "20250316-请支持逆光喵，谢谢喵-画得更全喵",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
-                "LastUpdate": 1777913971
+                "LastUpdate": 1777959532
             }
         ]
     },
@@ -11567,7 +11601,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1777942355
+                "LastUpdate": 1777961565
             }
         ]
     },
@@ -11866,7 +11900,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1777760200
+                "LastUpdate": 1777961905
             }
         ]
     },
@@ -13144,7 +13178,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1777851938
+                "LastUpdate": 1777959985
             }
         ]
     },
@@ -14169,7 +14203,7 @@
                 "Description": "Track live DJs and venues across Eorzea with real-time updates from XIV Rolladeck.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XIVRolladeck/XIVRolladeckPlugin",
-                "LastUpdate": 1777844371
+                "LastUpdate": 1777962259
             }
         ]
     },
