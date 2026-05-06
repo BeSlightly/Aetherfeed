@@ -229,7 +229,7 @@
                 "Description": "Time yourself in jump puzzles, race others, and become the fastest jumper!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Abyeon/RacingwayRewrite",
-                "LastUpdate": 1777944679
+                "LastUpdate": 1778054435
             },
             {
                 "Author": "Abyeon",
@@ -2459,7 +2459,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778021327
+                "LastUpdate": 1778038647
             },
             {
                 "Author": "Critical_Impact",
@@ -2519,6 +2519,23 @@
                 "Description": "Thank you to a08381 for the original cutscene skip plugin https://github.com/a08381/Dalamud.SkipCutscene",
                 "RepoUrl": "https://github.com/MisterCatt/temp",
                 "LastUpdate": 1720565530
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "DarrellTang",
+        "repo_url": "https://raw.githubusercontent.com/DarrellTang/namazu-flippers/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/DarrellTang/namazu-flippers",
+        "repo_name": "namazu-flippers",
+        "plugins": [
+            {
+                "Author": "DarrellTang",
+                "Name": "Namazu Flippers",
+                "InternalName": "NamazuFlippers",
+                "Description": "Namazu Flippers connects to the Saddlebag Exchange API to find daily cross-server arbitrage opportunities. Get a route-optimized shopping list, travel between servers, buy low, sell high on your home world. One scan, one route, done in under 20 minutes.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/DarrellTang/namazu-flippers",
+                "LastUpdate": 1778043426
             }
         ]
     },
@@ -3525,7 +3542,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778021327
+                "LastUpdate": 1778038647
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4487,7 +4504,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778007789
+                "LastUpdate": 1778048194
             },
             {
                 "Author": "daemitus, croizat",
@@ -4652,7 +4669,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778007789
+                "LastUpdate": 1778048194
             },
             {
                 "Author": "daemitus, croizat",
@@ -5283,7 +5300,7 @@
                 "Description": "Hellion Chat is built on top of Chat 2 with one removal and a stack\nof privacy controls on top. Tabs, channel filters, RGB colours,\nemotes, screenshot mode, IPC integration and the chat replacement\nwindow itself work the same. The optional webinterface that Chat 2\nships is intentionally not part of this fork because it serves a\ndifferent use case from the smaller default footprint Hellion Chat\nis built around.\n\nOn top of that, Hellion Chat adds privacy and data-handling controls\ndesigned to align with the modern data protection rules that apply\nacross the EU, the United States and Japan. By default only your own\nconversations are stored; messages from strangers, NPCs and system\nspam stay out of the database. Retention windows are configurable per\nchannel, history can be wiped retroactively, and stored data can be\nexported on demand.\n\nKey additions on top of Chat 2:\n\n- Channel whitelist with a Privacy-First default\n- Per-channel retention with a daily background sweep\n- Retroactive cleanup with a Ctrl+Shift confirm\n- Export to Markdown, JSON or CSV\n- First-run wizard with three preset profiles (Privacy-First, Casual,\n  Full History)\n- Bilingual UI (English and German) with live language switching\n- Independent plugin state — own config file and database directory,\n  so Hellion Chat does not share state with the upstream plugin\n\nBased on Chat 2 by Infi and Anna, licensed under EUPL-1.2.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JonKazama-Hellion/HellionChat",
-                "LastUpdate": 1778020647
+                "LastUpdate": 1778060595
             }
         ]
     },
@@ -6118,7 +6135,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1777997349
+                "LastUpdate": 1778044185
             }
         ]
     },
@@ -6168,7 +6185,7 @@
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1778034246
+                "LastUpdate": 1778058939
             }
         ]
     },
@@ -7006,7 +7023,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778012815
+                "LastUpdate": 1778059608
             }
         ]
     },
@@ -7057,7 +7074,7 @@
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1777533625
+                "LastUpdate": 1778044676
             }
         ]
     },
@@ -7125,7 +7142,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1778012807
+                "LastUpdate": 1778057804
             }
         ]
     },
@@ -7176,7 +7193,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1777972684
+                "LastUpdate": 1778044586
             }
         ]
     },
@@ -7211,7 +7228,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778012815
+                "LastUpdate": 1778059608
             },
             {
                 "Author": "DhogGPT",
@@ -7247,7 +7264,7 @@
                 "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/DPS",
-                "LastUpdate": 1777554092
+                "LastUpdate": 1778046322
             },
             {
                 "Author": "DhogGPT",
@@ -7265,7 +7282,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1778012807
+                "LastUpdate": 1778057804
             },
             {
                 "Author": "DhogGPT",
@@ -7292,7 +7309,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1777972684
+                "LastUpdate": 1778044586
             },
             {
                 "Author": "DhogGPT",
@@ -8103,7 +8120,7 @@
                 "Description": "Outil de jets de dés pour le Système Très Simple.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Neferith/sts_dalamud_plugin",
-                "LastUpdate": 1778015631
+                "LastUpdate": 1778060738
             }
         ]
     },
@@ -9251,6 +9268,23 @@
         ]
     },
     {
+        "repo_developer_name": "Originaljsx",
+        "repo_url": "https://raw.githubusercontent.com/Originaljsx/PvpStats-api15/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/Originaljsx/PvpStats-api15",
+        "repo_name": "PvpStats-api15",
+        "plugins": [
+            {
+                "Author": "SaMo (fork: Originaljsx)",
+                "Name": "PvP Tracker (API 15)",
+                "InternalName": "PvpStatsApi15",
+                "Description": "Record, browse and filter your Crystalline Conflict, Frontline and Rival Wings match history, view match scoreboards and view aggregated statistics like win rate and average damage dealt per match. Community fork of wrath16/PvpStats restoring compatibility with Dalamud API 15 (FFXIV patch 7.5).",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Originaljsx/PvpStats-api15",
+                "LastUpdate": 1778049271
+            }
+        ]
+    },
+    {
         "repo_developer_name": "OrionCloudrunner",
         "repo_url": "https://raw.githubusercontent.com/OrionCloudrunner/ArtisanBuddy/main/repo.json",
         "repo_source_url": "https://github.com/OrionCloudrunner/ArtisanBuddy",
@@ -10204,7 +10238,7 @@
                 "Description": "Chronofoil is a plugin that allows you to capture in-game packets for analysis later.\nIt also allows you to upload a censored version of these captures to a central repository for\npreservation and analysis. Privacy controls are at the center of Chronofoil, which is why it\nrequires two levels of user opt-in, has minimum delays on releasing any submitted user info,\nand allows users to delete their submitted data at any time.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ProjectChronofoil/Chronofoil.Plugin",
-                "LastUpdate": 1777661592
+                "LastUpdate": 1778040299
             }
         ]
     },
@@ -10335,7 +10369,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778029462
+                "LastUpdate": 1778060210
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -10353,7 +10387,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1777989544
+                "LastUpdate": 1778038912
             },
             {
                 "Author": "Team Wrath",
@@ -10362,7 +10396,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778007789
+                "LastUpdate": 1778048194
             },
             {
                 "Author": "daemitus, kawaii",
@@ -10585,7 +10619,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1777944360
+                "LastUpdate": 1778055257
             }
         ]
     },
@@ -10739,6 +10773,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/rauvagol/gamercheck",
                 "LastUpdate": 1771369565
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Ray-CR",
+        "repo_url": "https://raw.githubusercontent.com/Ray-CR/BackstabTheTrade/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Ray-CR/BackstabTheTrade",
+        "repo_name": "BackstabTheTrade",
+        "plugins": [
+            {
+                "Author": "Ray-CR",
+                "Name": "Backstab The Trade",
+                "InternalName": "BackstabTheTrade",
+                "Description": "Free your mouse and fingers from repetitive trading",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Ray-CR/BackstabTheTrade",
+                "LastUpdate": 1778051632
             }
         ]
     },
@@ -11386,7 +11437,7 @@
                 "Description": "20250316-请支持逆光喵，谢谢喵-画得更全喵",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
-                "LastUpdate": 1778028204
+                "LastUpdate": 1778059542
             }
         ]
     },
@@ -11616,7 +11667,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1778034246
+                "LastUpdate": 1778058939
             }
         ]
     },
@@ -11701,7 +11752,7 @@
                 "Description": "Chat Tools was developed to cut through the cluttered chat that can happen at large RP events, or in crowded environments.\n\nJust some of the things you can do with Chat Tools is:\n- Filter messages in crowded environments\n- Set up windows to watch specific characters of your choice\n- Set up windows to watch for messages from a group of characters\n- Quickly scan what your selected or hovered targets have said\n- Search through your message history\n- Preserve messages on logout",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/serifine/XIV-Chat-Tools",
-                "LastUpdate": 1778015983
+                "LastUpdate": 1778049176
             }
         ]
     },
@@ -11915,7 +11966,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1777989544
+                "LastUpdate": 1778038912
             }
         ]
     },
@@ -14082,7 +14133,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778036431
+                "LastUpdate": 1778060679
             }
         ]
     },
@@ -14116,7 +14167,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1778036431
+                "LastUpdate": 1778060679
             }
         ]
     },
@@ -14150,7 +14201,7 @@
                 "Description": "Updates a dedicated BossMod Reborn preset during combat using Avarice and current combat state. XCAI manages positionals, target range, forbidden-zone cushion, and party-role follow while avoiding any out-of-combat movement behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xeltor/XelsCombatAI",
-                "LastUpdate": 1778015759
+                "LastUpdate": 1778059833
             }
         ]
     },
@@ -14286,7 +14337,7 @@
                 "Description": "An always-on gil tracker for FFXIV. Watches your own gil, every retainer, and the FC chest, classifies each change (submarine return, retainer sale, NPC purchase, marketboard buy, repair, etc.), and surfaces the flow through a configurable widget (4 density modes) and a dashboard (timeline / chart / breakdown / heatmap). Read-only — never writes back to game state. Six-language UI (EN/JA/DE/FR/ZH/KO).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yagi2/GilDelta",
-                "LastUpdate": 1778035714
+                "LastUpdate": 1778060514
             },
             {
                 "Author": "yagi2",
@@ -14710,7 +14761,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1777880226
+                "LastUpdate": 1778049060
             }
         ]
     },
