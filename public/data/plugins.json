@@ -12,7 +12,7 @@
                 "Description": "VFX, animation, and sound editing plugin. Icon by PAPACHIN",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
-                "LastUpdate": 1777956767
+                "LastUpdate": 1778034940
             }
         ]
     },
@@ -763,6 +763,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://git.anna.lgbt/anna/RightThere",
                 "LastUpdate": 1766172912
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "AnnaNomoly",
+        "repo_url": "https://raw.githubusercontent.com/AnnaNomoly/SayMyName/main/repo.json",
+        "repo_source_url": "https://github.com/AnnaNomoly/SayMyName",
+        "repo_name": "SayMyName",
+        "plugins": [
+            {
+                "Author": "Anna Nomoly",
+                "Name": "Say My Name",
+                "InternalName": "SayMyName",
+                "Description": "A client-only rename for your own character. Affects nameplate, party list, target info, and the sender label of your outgoing chat. This is client side only; other players still see your real name.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AnnaNomoly/SayMyName",
+                "LastUpdate": 1778025194
             }
         ]
     },
@@ -2442,7 +2459,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778007151
+                "LastUpdate": 1778021327
             },
             {
                 "Author": "Critical_Impact",
@@ -3140,7 +3157,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1777934186
+                "LastUpdate": 1778025002
             }
         ]
     },
@@ -3157,7 +3174,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1777934186
+                "LastUpdate": 1778025002
             }
         ]
     },
@@ -3448,7 +3465,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1777572141
+                "LastUpdate": 1778027897
             }
         ]
     },
@@ -3508,7 +3525,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778007151
+                "LastUpdate": 1778021327
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3562,7 +3579,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778013408
+                "LastUpdate": 1778023080
             },
             {
                 "Author": "Churin",
@@ -4303,7 +4320,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1777977501
+                "LastUpdate": 1778019742
             },
             {
                 "Author": "Haselnussbomber",
@@ -4670,13 +4687,13 @@
         "repo_source_url": "https://github.com/huntsffxiv/repo",
         "plugins": [
             {
-                "Author": "HuntsFFXIV",
+                "Author": "Asuna",
                 "Name": "HuntAlerts",
                 "InternalName": "HuntAlerts",
                 "Description": "Notifies you when hunt trains are starting soon",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/huntsffxiv",
-                "LastUpdate": 1777488991
+                "LastUpdate": 1778035960
             }
         ],
         "repo_name": "repo",
@@ -5249,7 +5266,7 @@
                 "Description": "A vibecoded version made my John Vibescode and Claude, this is NOT a replacement for C+ its to tide you gooners over until risa does the real hard work",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JohnVibescode/CustomizePlus-7.5",
-                "LastUpdate": 1777977337
+                "LastUpdate": 1778028267
             }
         ]
     },
@@ -5266,7 +5283,7 @@
                 "Description": "Hellion Chat is built on top of Chat 2 with one removal and a stack\nof privacy controls on top. Tabs, channel filters, RGB colours,\nemotes, screenshot mode, IPC integration and the chat replacement\nwindow itself work the same. The optional webinterface that Chat 2\nships is intentionally not part of this fork because it serves a\ndifferent use case from the smaller default footprint Hellion Chat\nis built around.\n\nOn top of that, Hellion Chat adds privacy and data-handling controls\ndesigned to align with the modern data protection rules that apply\nacross the EU, the United States and Japan. By default only your own\nconversations are stored; messages from strangers, NPCs and system\nspam stay out of the database. Retention windows are configurable per\nchannel, history can be wiped retroactively, and stored data can be\nexported on demand.\n\nKey additions on top of Chat 2:\n\n- Channel whitelist with a Privacy-First default\n- Per-channel retention with a daily background sweep\n- Retroactive cleanup with a Ctrl+Shift confirm\n- Export to Markdown, JSON or CSV\n- First-run wizard with three preset profiles (Privacy-First, Casual,\n  Full History)\n- Bilingual UI (English and German) with live language switching\n- Independent plugin state — own config file and database directory,\n  so Hellion Chat does not share state with the upstream plugin\n\nBased on Chat 2 by Infi and Anna, licensed under EUPL-1.2.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JonKazama-Hellion/HellionChat",
-                "LastUpdate": 1778010028
+                "LastUpdate": 1778020647
             }
         ]
     },
@@ -5404,6 +5421,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jshade2710/PriceWatcher",
                 "LastUpdate": 1777672287
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "juiposa",
+        "repo_url": "https://raw.githubusercontent.com/juiposa/Simple-Character-Select/main/Releases/repo.json",
+        "repo_source_url": "https://github.com/juiposa/Simple-Character-Select",
+        "repo_name": "Simple-Character-Select",
+        "plugins": [
+            {
+                "Author": "Juiposa",
+                "Name": "Simple Character Select",
+                "InternalName": "SimpleCharacterSelectPlugin",
+                "Description": "Character Select Simplified",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Juiposa/Simple-Character-Select",
+                "LastUpdate": 1778026209
             }
         ]
     },
@@ -5773,7 +5807,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1777572141
+                "LastUpdate": 1778027897
             }
         ]
     },
@@ -6134,7 +6168,7 @@
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1777982996
+                "LastUpdate": 1778034246
             }
         ]
     },
@@ -8838,8 +8872,9 @@
                 "Name": "NNeko's AQR Narrator",
                 "InternalName": "AqrNarrator",
                 "Description": "A companion plugin that forwards A Quest Reborn dialog text into a dedicated window for Chat2 users.",
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NNekoPlugins/AqrNarrator",
-                "LastUpdate": 1777989659
+                "LastUpdate": 1778017633
             }
         ]
     },
@@ -8854,8 +8889,9 @@
                 "Name": "NNeko's Conditional Triggers",
                 "InternalName": "NNekoTriggers",
                 "Description": "Provides zone triggers, RNG triggers, job-swap triggers, login triggers, and more.",
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NNekoPlugins/NNekoTriggers",
-                "LastUpdate": 1778004034
+                "LastUpdate": 1778028837
             }
         ]
     },
@@ -8870,8 +8906,9 @@
                 "Name": "NNeko's Weapon Icons",
                 "InternalName": "NNekoWeaponIcons",
                 "Description": "Adds a Clas/Job Icon Overlay in Armoury Chest.  Split from VIWI plugin's Kitchen Sink module.",
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NNekoPlugins/NNekoWeaponIcons",
-                "LastUpdate": 1777989595
+                "LastUpdate": 1778017619
             }
         ]
     },
@@ -9183,7 +9220,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1778002177
+                "LastUpdate": 1778024014
             },
             {
                 "Author": "OOFGames",
@@ -9192,7 +9229,7 @@
                 "Description": "Browse active gambling events across Eorzea or host your own session. Use /gambawhere to open the interface.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1778002174
+                "LastUpdate": 1778017503
             }
         ]
     },
@@ -9209,7 +9246,7 @@
                 "Description": "由酥卷提供技术支持",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/open-xiv/dalamud-plugins",
-                "LastUpdate": 1777946208
+                "LastUpdate": 1778031487
             }
         ]
     },
@@ -9672,7 +9709,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1778013990
+                "LastUpdate": 1778020074
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -10298,7 +10335,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1777983033
+                "LastUpdate": 1778029462
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -10935,7 +10972,7 @@
                 "Description": "AutoDuty",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1777934186
+                "LastUpdate": 1778025002
             },
             {
                 "Author": "Infi, Anna",
@@ -11349,7 +11386,7 @@
                 "Description": "20250316-请支持逆光喵，谢谢喵-画得更全喵",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
-                "LastUpdate": 1778001160
+                "LastUpdate": 1778028204
             }
         ]
     },
@@ -11579,7 +11616,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1777982996
+                "LastUpdate": 1778034246
             }
         ]
     },
@@ -11647,7 +11684,7 @@
                 "Description": "Player synced custom voices, Twitch playback integration, and more!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
-                "LastUpdate": 1777724183
+                "LastUpdate": 1778017496
             }
         ]
     },
@@ -11664,7 +11701,7 @@
                 "Description": "Chat Tools was developed to cut through the cluttered chat that can happen at large RP events, or in crowded environments.\n\nJust some of the things you can do with Chat Tools is:\n- Filter messages in crowded environments\n- Set up windows to watch specific characters of your choice\n- Set up windows to watch for messages from a group of characters\n- Quickly scan what your selected or hovered targets have said\n- Search through your message history\n- Preserve messages on logout",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/serifine/XIV-Chat-Tools",
-                "LastUpdate": 1778015536
+                "LastUpdate": 1778015983
             }
         ]
     },
@@ -12058,7 +12095,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1777967587
+                "LastUpdate": 1778033940
             },
             {
                 "Author": "XSZYYS",
@@ -12067,7 +12104,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1777967587,
+                "LastUpdate": 1778033940,
                 "is_closed_source": true
             }
         ]
@@ -12492,9 +12529,9 @@
                 "Name": "Rolling Battery",
                 "InternalName": "RollingBattery",
                 "Description": "Tracks your Machinist battery usage. When using your battery, the value is saved onto an on-screen tracker. The previous two values are stored and displayed by this plugin",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/strawberry-cc/rollingbattery",
-                "LastUpdate": 1768556967
+                "LastUpdate": 1778024288
             }
         ]
     },
@@ -12975,7 +13012,7 @@
                 "Description": "用卫月实现自动狩猎。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ToxicStar8/DalamudPlugins",
-                "LastUpdate": 1777638249
+                "LastUpdate": 1778037025
             },
             {
                 "Author": "ToxicStar",
@@ -13156,7 +13193,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1777959985
+                "LastUpdate": 1778024584
             }
         ]
     },
@@ -14045,7 +14082,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778012446
+                "LastUpdate": 1778036431
             }
         ]
     },
@@ -14079,7 +14116,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1778012446
+                "LastUpdate": 1778036431
             }
         ]
     },
@@ -14244,6 +14281,15 @@
         "plugins": [
             {
                 "Author": "yagi2",
+                "Name": "GilDelta",
+                "InternalName": "GilDelta",
+                "Description": "An always-on gil tracker for FFXIV. Watches your own gil, every retainer, and the FC chest, classifies each change (submarine return, retainer sale, NPC purchase, marketboard buy, repair, etc.), and surfaces the flow through a configurable widget (4 density modes) and a dashboard (timeline / chart / breakdown / heatmap). Read-only — never writes back to game state. Six-language UI (EN/JA/DE/FR/ZH/KO).",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/yagi2/GilDelta",
+                "LastUpdate": 1778035714
+            },
+            {
+                "Author": "yagi2",
                 "Name": "RepeatBuy",
                 "InternalName": "RepeatBuy",
                 "Description": "Embeds a small overlay next to the standard NPC Shop window. Pick an item from the mirrored shop list, choose a stop condition (fixed count >99 OK, until owned, gil floor, inventory full), and the plugin handles the repeat purchases for you. Shows an estimated total cost popup before starting and warns in red if you cannot afford it. Six-language UI (EN/JA/DE/FR/ZH/KO).",
@@ -14258,7 +14304,7 @@
                 "Description": "Cross-retainer market workbench. Per-retainer collapsible view of every listing. Bulk reprice with optional outlier-aware 'match lowest -1 gil'. Bulk new listing with auto stack-splitting (e.g. 990 items, stack size 99 → ten listings of 99 distributed across retainers; no inter-retainer transfer). Active 'refresh all retainers' walks the bell automatically to repopulate snapshots. Snapshots are also collected passively whenever you summon a retainer and open the sell list. Character bag and saddlebag are displayed as separate sections (entrust-then-list flow planned). Six-language UI (EN/JA/DE/FR/ZH/KO). Warns once at startup if AutoRetainer is also loaded since both drive retainer summoning.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yagi2/Restocker",
-                "LastUpdate": 1777989747
+                "LastUpdate": 1778033989
             }
         ]
     },
@@ -14724,7 +14770,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1778013990
+                "LastUpdate": 1778020074
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
