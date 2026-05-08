@@ -255,7 +255,7 @@
                 "Description": "继续调整",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1778189217
+                "LastUpdate": 1778239015
             },
             {
                 "Author": "cy237",
@@ -823,6 +823,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
                 "LastUpdate": 1778209251
+            },
+            {
+                "Author": "Anomek",
+                "Name": "UltiSim",
+                "InternalName": "UltiSim",
+                "Description": "Spawns fake party members and bosses client-side so you can practice ultimate raid mechanics without a full party. Currently implements The Omega Protocol (Ultimate) P5 Delta.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/anomek/UltiSim",
+                "LastUpdate": 1778230810
             }
         ]
     },
@@ -3038,7 +3047,7 @@
                 "Description": "Exports your currently equipped gear with all materia and the active class job. Output is compatible with xivgear.app's import format and the FFXIV Bis Meld Optimizer HTML app. Use /bisme to print to chat, save to file, or copy to clipboard.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/elrichs2/Bisme",
-                "LastUpdate": 1778204582
+                "LastUpdate": 1778239947
             }
         ]
     },
@@ -3328,9 +3337,9 @@
                 "Name": "ARealmRecorded",
                 "InternalName": "ARealmRecorded",
                 "Description": "使用 /record 指令打开配置界面\n如显示相关指令未解锁, 请去摩杜纳第七天堂找异国的诗人完成任务「回顾英雄诗篇」",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/ARRX",
-                "LastUpdate": 1769149310,
+                "LastUpdate": 1778238820,
                 "is_closed_source": true
             },
             {
@@ -3360,7 +3369,7 @@
                 "Description": "一个简单的绿色插件。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/blob/main/Plugins/latest.zip",
-                "LastUpdate": 1777612265,
+                "LastUpdate": 1778235333,
                 "is_closed_source": true
             }
         ]
@@ -3594,7 +3603,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778216877
+                "LastUpdate": 1778221595
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4380,7 +4389,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1778189217
+                "LastUpdate": 1778239015
             },
             {
                 "Author": "Haselnussbomber",
@@ -5360,7 +5369,7 @@
                 "Description": "Hellion Chat is built on top of Chat 2 with one removal and a stack\nof privacy controls on top. Tabs, channel filters, RGB colours,\nemotes, screenshot mode, IPC integration and the chat replacement\nwindow itself work the same. The optional webinterface that Chat 2\nships is intentionally not part of this fork because it serves a\ndifferent use case from the smaller default footprint Hellion Chat\nis built around.\n\nOn top of that, Hellion Chat adds privacy and data-handling controls\ndesigned to align with the modern data protection rules that apply\nacross the EU, the United States and Japan. By default only your own\nconversations are stored; messages from strangers, NPCs and system\nspam stay out of the database. Retention windows are configurable per\nchannel, history can be wiped retroactively, and stored data can be\nexported on demand.\n\nKey additions on top of Chat 2:\n\n- Channel whitelist with a Privacy-First default\n- Per-channel retention with a daily background sweep\n- Retroactive cleanup with a Ctrl+Shift confirm\n- Export to Markdown, JSON or CSV\n- First-run wizard with three preset profiles (Privacy-First, Casual,\n  Full History)\n- Bilingual UI (English and German) with live language switching\n- Independent plugin state — own config file and database directory,\n  so Hellion Chat does not share state with the upstream plugin\n\nBased on Chat 2 by Infi and Anna, licensed under EUPL-1.2.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JonKazama-Hellion/HellionChat",
-                "LastUpdate": 1778188997
+                "LastUpdate": 1778223114
             }
         ]
     },
@@ -6262,7 +6271,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1777698934
+                "LastUpdate": 1778238480
             }
         ]
     },
@@ -7083,7 +7092,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778218072
+                "LastUpdate": 1778222190
             }
         ]
     },
@@ -7253,7 +7262,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778218079
+                "LastUpdate": 1778230282
             }
         ]
     },
@@ -7270,7 +7279,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1778218102
+                "LastUpdate": 1778239254
             }
         ]
     },
@@ -7288,7 +7297,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778218072
+                "LastUpdate": 1778222190
             },
             {
                 "Author": "DhogGPT",
@@ -7369,7 +7378,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778218079
+                "LastUpdate": 1778230282
             },
             {
                 "Author": "DhogGPT",
@@ -7378,7 +7387,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1778218102
+                "LastUpdate": 1778239254
             },
             {
                 "Author": "DhogGPT",
@@ -8585,7 +8594,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1778165218,
+                "LastUpdate": 1778240610,
                 "is_closed_source": true
             },
             {
@@ -8595,7 +8604,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1778165218,
+                "LastUpdate": 1778240610,
                 "is_closed_source": true
             },
             {
@@ -8605,7 +8614,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1778165218,
+                "LastUpdate": 1778240610,
                 "is_closed_source": true
             },
             {
@@ -9374,7 +9383,7 @@
                 "Description": "Record, browse and filter your Crystalline Conflict, Frontline and Rival Wings match history, view match scoreboards and view aggregated statistics like win rate and average damage dealt per match. Community fork of wrath16/PvpStats restoring compatibility with Dalamud API 15 (FFXIV patch 7.5).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Originaljsx/PvpStats-api15",
-                "LastUpdate": 1778218004
+                "LastUpdate": 1778221390
             }
         ]
     },
@@ -10462,7 +10471,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778192876
+                "LastUpdate": 1778231526
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -10814,7 +10823,7 @@
                 "Description": "A word puzzle plugin for Final Fantasy XIV inspired by wordle. Features multiple themes and stat tracking.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rail2025/Aetherle",
-                "LastUpdate": 1778203656
+                "LastUpdate": 1778232229
             }
         ]
     },
@@ -10899,7 +10908,7 @@
                 "Description": "Free your mouse and fingers from repetitive trading",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ray-CR/BackstabTheTrade",
-                "LastUpdate": 1778216654
+                "LastUpdate": 1778223308
             }
         ]
     },
@@ -13332,6 +13341,22 @@
         ]
     },
     {
+        "repo_developer_name": "Uniffay",
+        "repo_url": "https://raw.githubusercontent.com/Uniffay/NoLalaForMe/main/repo.json",
+        "repo_source_url": "https://github.com/Uniffay/NoLalaForMe",
+        "repo_name": "NoLalaForMe",
+        "plugins": [
+            {
+                "Author": "Quent",
+                "Name": "NoLalaForMe",
+                "InternalName": "NoLalaForMe",
+                "Description": "Transforms all Lalafell characters and NPCs around you into your chosen race.\n/polala on = enable\n/polala off = disable",
+                "RepoUrl": "https://github.com/Uniffay/NoLalaForMe",
+                "LastUpdate": 1778236498
+            }
+        ]
+    },
+    {
         "repo_url": "https://playersync.io/download/plugin/repo.json",
         "repo_source_url": "https://github.com/universalconquistador/MareSynchronosClient",
         "repo_developer_name": "universalconquistador",
@@ -13345,7 +13370,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778207291
+                "LastUpdate": 1778222742
             }
         ]
     },
@@ -13879,7 +13904,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778216877
+                "LastUpdate": 1778221595
             },
             {
                 "Author": "Ottermandias",
@@ -14234,7 +14259,7 @@
                 "Description": "A helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778203954
+                "LastUpdate": 1778239672
             }
         ]
     },
@@ -14268,7 +14293,7 @@
                 "Description": "Plays FFXIV Doman Mahjong end-to-end with a hand-crafted efficiency + safety policy, a Bayesian opponent model, and Information-Set MCTS on close decisions. Suggestion-only mode supported. Automation off by default. Replace this manifest with the actual release-built URLs before publishing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-MahjongAI",
-                "LastUpdate": 1778203954
+                "LastUpdate": 1778239672
             }
         ]
     },
@@ -14666,7 +14691,7 @@
                 "Description": "重定向所有职业的施法目标，避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/YouShux/Macro-Redirection",
-                "LastUpdate": 20260429
+                "LastUpdate": 20260508
             },
             {
                 "Author": "YouShu",
@@ -14675,7 +14700,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260507
+                "LastUpdate": 20260508
             }
         ]
     },
