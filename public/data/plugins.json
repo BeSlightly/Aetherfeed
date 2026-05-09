@@ -548,7 +548,7 @@
                 "Description": "Scans inventory, armoury chest, saddlebag, retainers, glamour dresser, and armoire to show item set collection progress with job filters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Akurosia/AkuItemSets",
-                "LastUpdate": 1778320729
+                "LastUpdate": 1778342486
             }
         ]
     },
@@ -982,12 +982,21 @@
         "plugins": [
             {
                 "Author": "Market Assistant Dev",
+                "Name": "Armoury Cleaner",
+                "InternalName": "ArmouryCleaner",
+                "Description": "Define filters by job, minimum/maximum equip level, and item level. Armoury Cleaner scans each gear slot and moves only items that match all active filters into your inventory so you can discard them.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
+                "LastUpdate": 1778348496
+            },
+            {
+                "Author": "Market Assistant Dev",
                 "Name": "Market Master Pro",
                 "InternalName": "UndercutterFFXIV",
                 "Description": "Analyzes market opportunities with Universalis data, watchlists, velocity filters, and manual undercut helpers. All actions are manual. Now includes real-time undercut notifications.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778323677
+                "LastUpdate": 1778348496
             }
         ]
     },
@@ -1316,7 +1325,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1777794285
+                "LastUpdate": 1778345846
             }
         ]
     },
@@ -1393,7 +1402,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778264056
+                "LastUpdate": 1778348450
             },
             {
                 "Author": "veyn, croizat",
@@ -3243,7 +3252,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1778185551
+                "LastUpdate": 1778344023
             }
         ]
     },
@@ -3260,7 +3269,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1778185551
+                "LastUpdate": 1778344023
             }
         ]
     },
@@ -3665,7 +3674,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778304568
+                "LastUpdate": 1778342647
             },
             {
                 "Author": "Churin",
@@ -4406,7 +4415,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1778019742
+                "LastUpdate": 1778340918
             },
             {
                 "Author": "Haselnussbomber",
@@ -4546,7 +4555,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778264056
+                "LastUpdate": 1778348450
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -4564,7 +4573,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1777794285
+                "LastUpdate": 1778345846
             },
             {
                 "Author": "Team Wrath",
@@ -4573,7 +4582,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778048194
+                "LastUpdate": 1778329674
             },
             {
                 "Author": "daemitus, croizat",
@@ -4711,7 +4720,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778264056
+                "LastUpdate": 1778348450
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -4729,7 +4738,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1777794285
+                "LastUpdate": 1778345846
             },
             {
                 "Author": "Team Wrath",
@@ -4738,7 +4747,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778048194
+                "LastUpdate": 1778329674
             },
             {
                 "Author": "daemitus, croizat",
@@ -5807,7 +5816,7 @@
                 "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1778321960
+                "LastUpdate": 1778339632
             }
         ]
     },
@@ -6231,7 +6240,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1778324749
+                "LastUpdate": 1778332393
             }
         ]
     },
@@ -7119,7 +7128,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778269564
+                "LastUpdate": 1778342483
             }
         ]
     },
@@ -7289,7 +7298,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778307096
+                "LastUpdate": 1778340460
             }
         ]
     },
@@ -7306,7 +7315,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1778293343
+                "LastUpdate": 1778336691
             }
         ]
     },
@@ -7324,7 +7333,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778269564
+                "LastUpdate": 1778342483
             },
             {
                 "Author": "DhogGPT",
@@ -7405,7 +7414,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778307096
+                "LastUpdate": 1778340460
             },
             {
                 "Author": "DhogGPT",
@@ -7414,7 +7423,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1778293343
+                "LastUpdate": 1778336691
             },
             {
                 "Author": "DhogGPT",
@@ -7920,7 +7929,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1778173850
+                "LastUpdate": 1778346454
             }
         ]
     },
@@ -7937,7 +7946,7 @@
                 "Description": "Kaleidoscope is a Dalamud plugin for Final Fantasy XIV that provides an overlay for tracking game information across multiple characters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1778253929
+                "LastUpdate": 1778345197
             }
         ]
     },
@@ -8216,7 +8225,7 @@
                 "Description": "Outil de jets de dés pour le Système Très Simple.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Neferith/sts_dalamud_plugin",
-                "LastUpdate": 1778271343
+                "LastUpdate": 1778340482
             }
         ]
     },
@@ -9376,7 +9385,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1778268804
+                "LastUpdate": 1778338563
             },
             {
                 "Author": "OOFGames",
@@ -9385,7 +9394,7 @@
                 "Description": "Browse active gambling events across Eorzea or host your own session. Use /gambawhere to open the interface.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1778268802
+                "LastUpdate": 1778338560
             }
         ]
     },
@@ -9559,7 +9568,7 @@
                 "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1778321960
+                "LastUpdate": 1778339632
             },
             {
                 "Author": "Ottermandias, Nylfae, Adam, Wintermute",
@@ -9882,7 +9891,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1778278421
+                "LastUpdate": 1778345544
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -9998,14 +10007,13 @@
                 "Description": "A collection of of venue or casino games. Type /minig to start.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
-                "LastUpdate": 1777911379
+                "LastUpdate": 1778346672
             },
             {
                 "Author": "Pistachio Herald, based on Anna's Orange Guidance Tomestone",
                 "Name": "North Star",
                 "InternalName": "NorthStar",
                 "Description": "Shows a beacon on the position of the last <pos> or <flag> in chat. Use /northstar to configure",
-                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Pistachio-dev/NorthStar",
                 "LastUpdate": 1778089279
             },
@@ -10085,7 +10093,7 @@
                 "Description": "A collection of of venue or casino games. Type /minig to start.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
-                "LastUpdate": 1777911379
+                "LastUpdate": 1778346672
             }
         ]
     },
@@ -10507,7 +10515,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778309102
+                "LastUpdate": 1778344385
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -10534,7 +10542,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778048194
+                "LastUpdate": 1778329674
             },
             {
                 "Author": "daemitus, kawaii",
@@ -10996,7 +11004,7 @@
                 "Description": "Collection of small QoL tweaks and commands",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/redeven/TinyTweaks",
-                "LastUpdate": 1743083174
+                "LastUpdate": 1778342996
             },
             {
                 "Author": "Redeven",
@@ -11005,7 +11013,7 @@
                 "Description": "Display your retainers' remaining venture time in the DTR bar.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/redeven/VentureTime",
-                "LastUpdate": 1743083201
+                "LastUpdate": 1778342999
             }
         ]
     },
@@ -11022,7 +11030,7 @@
                 "Description": "Display your retainers' remaining venture time in the DTR bar.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/redeven/VentureTime",
-                "LastUpdate": 1743083201
+                "LastUpdate": 1778342999
             }
         ]
     },
@@ -11126,7 +11134,7 @@
                 "Description": "A TTS Plugin that breaks the silence! For self hosted AllTalk instance. /ek",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
-                "LastUpdate": 1775863679
+                "LastUpdate": 1778346736
             },
             {
                 "Author": "RenNagasaki",
@@ -11178,7 +11186,7 @@
                 "Description": "AutoDuty",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1778185551
+                "LastUpdate": 1778344023
             },
             {
                 "Author": "Infi, Anna",
@@ -11601,7 +11609,7 @@
                 "Description": "20250316-请支持逆光喵，谢谢喵-画得更全喵",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
-                "LastUpdate": 1778242619
+                "LastUpdate": 1778327384
             }
         ]
     },
@@ -13226,7 +13234,7 @@
                 "Description": "用卫月实现自动狩猎。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ToxicStar8/DalamudPlugins",
-                "LastUpdate": 1778318407
+                "LastUpdate": 1778346568
             },
             {
                 "Author": "ToxicStar",
@@ -15026,7 +15034,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1778278421
+                "LastUpdate": 1778345544
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
