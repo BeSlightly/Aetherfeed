@@ -488,7 +488,7 @@
                 "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1778171700
+                "LastUpdate": 1778289363
             }
         ]
     },
@@ -954,6 +954,23 @@
                 "Description": "Lets you resize your character and automatically adjust the nameplate position. Contact: support@arzolath.com",
                 "RepoUrl": "https://github.com/arzolath/FFXIV_BigBody",
                 "LastUpdate": 1776010611
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Aschmies",
+        "repo_url": "https://raw.githubusercontent.com/Aschmies/UndercutterFFXIV/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Aschmies/UndercutterFFXIV",
+        "repo_name": "UndercutterFFXIV",
+        "plugins": [
+            {
+                "Author": "Market Assistant Dev",
+                "Name": "Market Master Pro",
+                "InternalName": "UndercutterFFXIV",
+                "Description": "Analyzes market opportunities with Universalis data, watchlists, velocity filters, and manual undercut helpers. All actions are manual. Now includes real-time undercut notifications.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
+                "LastUpdate": 1778303758
             }
         ]
     },
@@ -2259,7 +2276,7 @@
                 "Description": "Control actors during GPose sessions. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1777927934
+                "LastUpdate": 1778289783
             },
             {
                 "Author": "Risa",
@@ -2430,6 +2447,50 @@
         ]
     },
     {
+        "repo_developer_name": "dajoey",
+        "repo_url": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/dajoey/lalalazy",
+        "repo_name": "lalalazy",
+        "plugins": [
+            {
+                "Author": "dajoey",
+                "Name": "AutoKupo",
+                "InternalName": "AutoKupo",
+                "Description": "Stand near Lizbeth in the Firmament and type /autokupo to automatically turn in all your Kupo of Fortune cards. Random right-side selection. Only activates when near Lizbeth.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dajoey/lalalazy",
+                "LastUpdate": 1778303881
+            },
+            {
+                "Author": "dajoey",
+                "Name": "AutoPotion",
+                "InternalName": "AutoPotion",
+                "Description": "Automatically uses the highest-tier HP potion in your inventory at a configurable HP threshold. In deep dungeons, also auto-uses the dungeon's regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at its own threshold.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dajoey/lalalazy",
+                "LastUpdate": 1778303881
+            },
+            {
+                "Author": "dajoey",
+                "Name": "Dagobert - Price Matcher",
+                "InternalName": "DagobertPriceMatcher",
+                "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dajoey/lalalazy",
+                "LastUpdate": 1778303881
+            },
+            {
+                "Author": "dajoey",
+                "Name": "PvP Solver",
+                "InternalName": "PvPSolver",
+                "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dajoey/lalalazy",
+                "LastUpdate": 1778303881
+            }
+        ]
+    },
+    {
         "repo_developer_name": "dal4kr",
         "repo_url": "https://raw.githubusercontent.com/dal4kr/Dalamud.Resources/main/Plugins/plugins.json",
         "repo_source_url": "https://github.com/dal4kr/Dalamud.Resources",
@@ -2451,7 +2512,7 @@
                 "Description": "Allagan Tool's primary purpose is to keep track of items across your characters/retainers/free company. With it's filter system you'll never lose track of items or not know where they should be sorted.\n\nWhile this is it's primary purpose, it has quite an exhaustive list of other features including:\n\t- Craft planning\n\t- Market board integration\n\t- Item highlighting in inventories when searching/sorting and picking ingredients for crafts\n\t- Item window that includes vendor and source information among other things\n\t- Duty/mob/airship/submarine windows that are fully searchable\n\t- A filtering system that lets you setup complex searches for specific items \n\t- Tooltip integration that'll let you see where the items are on hover",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
-                "LastUpdate": 1778251395
+                "LastUpdate": 1778296628
             }
         ]
     },
@@ -2518,7 +2579,7 @@
                 "Description": "Namazu Flippers connects to the Saddlebag Exchange API to find daily cross-server arbitrage opportunities. Get a route-optimized shopping list, travel between servers, buy low, sell high on your home world. One scan, one route, done in under 20 minutes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/DarrellTang/namazu-flippers",
-                "LastUpdate": 1778214026
+                "LastUpdate": 1778303914
             }
         ]
     },
@@ -3344,7 +3405,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during G-Pose.\n\n- Advanced actor posing \n\t- While animating\n\t- Adjust actor positions without them resetting\n\t- Overlay and graphical posing modes\n- Creation of up to 239 G-Pose actors\n- Creation of custom lights\n- Supports integration with Penumbra, Glamourer & Customize+\n- Offline import and export of MCDF files onto G-Pose actors\n- Play XAT .xcp camera files\n- Play/Blend animations of G-Pose actors\n- Control Time/Weather in both the Overworld and G-Pose\n- Change the active festivals and apply up to 4 at once\n- Add/Remove Status Effects of G-Pose actors",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1777927934
+                "LastUpdate": 1778289783
             }
         ]
     },
@@ -3361,7 +3422,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1777927934
+                "LastUpdate": 1778289783
             }
         ]
     },
@@ -4806,7 +4867,7 @@
                 "Description": "在集体动作模式中控制参与的角色。",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1777927934
+                "LastUpdate": 1778289783
             }
         ]
     },
@@ -4832,7 +4893,7 @@
                 "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1778171700
+                "LastUpdate": 1778289363
             }
         ]
     },
@@ -4865,7 +4926,7 @@
                 "InternalName": "TomestonePhone",
                 "Description": "TomestonePhone adds a styled in-game phone UI with contacts, SMS, calls, group chat, and friend tools.",
                 "RepoUrl": "https://github.com/ImOv3rburdened/TomstonePhone",
-                "LastUpdate": 1778281124
+                "LastUpdate": 1778292676
             }
         ]
     },
@@ -4975,7 +5036,7 @@
                 "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1778171700
+                "LastUpdate": 1778289363
             }
         ]
     },
@@ -5104,7 +5165,7 @@
                 "Description": "A native Dalamud encounter callout engine powered by IINACT log events, with a cute chocobo for moral support!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/J3sven/J3Plugins",
-                "LastUpdate": 1778272957
+                "LastUpdate": 1778287900
             },
             {
                 "Author": "J3",
@@ -5113,7 +5174,16 @@
                 "Description": "Configurable cursor trails and a cursor ring indicators.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/J3sven/J3Plugins",
-                "LastUpdate": 1778272957
+                "LastUpdate": 1778287900
+            },
+            {
+                "Author": "J3",
+                "Name": "Cutscene Transcripts",
+                "InternalName": "CutsceneTranscripts",
+                "Description": "Records dialog boxes shown during cutscenes and adds an in-game transcript button so you can review missed lines and replay audio without leaving the cutscene.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/J3sven/J3Plugins",
+                "LastUpdate": 1778287900
             },
             {
                 "Author": "J3",
@@ -5122,7 +5192,7 @@
                 "Description": "Native Dalamud DPS meter HUD for IINACT combat data. Especially useful for linux users who use tiling window managers!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/J3sven/J3Plugins",
-                "LastUpdate": 1778272957
+                "LastUpdate": 1778287900
             }
         ]
     },
@@ -7245,7 +7315,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1778269582
+                "LastUpdate": 1778293343
             }
         ]
     },
@@ -7353,7 +7423,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1778269582
+                "LastUpdate": 1778293343
             },
             {
                 "Author": "DhogGPT",
@@ -7525,7 +7595,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1777927934
+                "LastUpdate": 1778289783
             }
         ]
     },
@@ -8032,7 +8102,7 @@
                 "Description": "Mannerisms gives your character a life of their own. Set up gestures that react to what you say in chat — type 'bye' and your character waves, say 'WHAT' and they recoil in shock. Create idle profiles so your character reads, checks their phone, or paces around when you're AFK. Supports regex triggers, target-aware emotes, random emote pools with rarity controls, and fully customizable idle sequences.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mustbetommy/Mannerisms",
-                "LastUpdate": 1778273552
+                "LastUpdate": 1778293183
             }
         ]
     },
@@ -9444,7 +9514,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1777927934
+                "LastUpdate": 1778289783
             },
             {
                 "Author": "Risa and Contributors",
@@ -10446,7 +10516,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778278893
+                "LastUpdate": 1778302308
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -10464,7 +10534,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1778284880
+                "LastUpdate": 1778287519
             },
             {
                 "Author": "Team Wrath",
@@ -10798,7 +10868,7 @@
                 "Description": "A word puzzle plugin for Final Fantasy XIV inspired by wordle. Features multiple themes and stat tracking.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rail2025/Aetherle",
-                "LastUpdate": 1778232229
+                "LastUpdate": 1778295413
             }
         ]
     },
@@ -10883,7 +10953,7 @@
                 "Description": "Free your mouse and fingers from repetitive trading",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ray-CR/BackstabTheTrade",
-                "LastUpdate": 1778223308
+                "LastUpdate": 1778295041
             }
         ]
     },
@@ -11197,7 +11267,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1778204598
+                "LastUpdate": 1778302886
             },
             {
                 "Author": "Ricimon",
@@ -11753,7 +11823,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1777927934
+                "LastUpdate": 1778289783
             }
         ]
     },
@@ -12035,7 +12105,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1778284880
+                "LastUpdate": 1778287519
             }
         ]
     },
@@ -12640,6 +12710,23 @@
     },
     {
         "repo_developer_name": "strawberry-cc",
+        "repo_url": "https://raw.githubusercontent.com/strawberry-cc/RolanberryCollection/master/repo.json",
+        "repo_source_url": "https://github.com/strawberry-cc/RolanberryCollection",
+        "repo_name": "RolanberryCollection",
+        "plugins": [
+            {
+                "Author": "strawberry-cc",
+                "Name": "Rolling Battery",
+                "InternalName": "RollingBattery",
+                "Description": "Tracks your Machinist battery usage. When using your battery, the value is saved onto an on-screen tracker. The previous two values are stored and displayed by this plugin",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/strawberry-cc/RolanberryCollection",
+                "LastUpdate": 1778024288
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "strawberry-cc",
         "repo_url": "https://raw.githubusercontent.com/strawberry-cc/rollingbattery/master/repo.json",
         "repo_source_url": "https://github.com/strawberry-cc/rollingbattery",
         "repo_name": "rollingbattery",
@@ -13148,7 +13235,7 @@
                 "Description": "用卫月实现自动狩猎。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ToxicStar8/DalamudPlugins",
-                "LastUpdate": 1778252362
+                "LastUpdate": 1778300980
             },
             {
                 "Author": "ToxicStar",
@@ -13345,7 +13432,24 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778267753
+                "LastUpdate": 1778286640
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/boxu",
+        "repo_source_url": "https://github.com/BoxuChan",
+        "repo_developer_name": "Unknown Developer",
+        "repo_name": "boxu",
+        "plugins": [
+            {
+                "Author": "Boxu",
+                "Name": "Skippy",
+                "InternalName": "Skippy",
+                "Description": "Skip all of the Cutscenes that bother you (MSQ Roulette for example) so you can actually play the game!",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/BoxuChan/Skippy",
+                "LastUpdate": 1777884507
             }
         ]
     },
@@ -14234,7 +14338,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778278336
+                "LastUpdate": 1778286172
             }
         ]
     },
@@ -14268,7 +14372,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778278336
+                "LastUpdate": 1778286172
             }
         ]
     },
@@ -14871,7 +14975,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1778049060
+                "LastUpdate": 1778297009
             }
         ]
     },
