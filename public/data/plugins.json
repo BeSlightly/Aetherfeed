@@ -536,6 +536,23 @@
         ]
     },
     {
+        "repo_developer_name": "Akurosia",
+        "repo_url": "https://raw.githubusercontent.com/Akurosia/AkuItemSets/main/repo.json",
+        "repo_source_url": "https://github.com/Akurosia/AkuItemSets",
+        "repo_name": "AkuItemSets",
+        "plugins": [
+            {
+                "Author": "Akurosia",
+                "Name": "AkuItemSets",
+                "InternalName": "AkuItemSets",
+                "Description": "Scans inventory, armoury chest, saddlebag, retainers, glamour dresser, and armoire to show item set collection progress with job filters.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Akurosia/AkuItemSets",
+                "LastUpdate": 1778320729
+            }
+        ]
+    },
+    {
         "repo_developer_name": "AliaXIV",
         "repo_url": "https://raw.githubusercontent.com/AliaXIV/XIVGearPlugin/master/repo.json",
         "repo_source_url": "https://github.com/AliaXIV/XIVGearPlugin",
@@ -650,7 +667,7 @@
                 "Description": "A plugin for giving hints for your Archipelago games.\n\nHint tokens obtained from:\n- Fates\n- Gold Saucer\n- PvP\n- The Hunt\n- Crafting Collectables\n- Gathering Collectables\n- Ishgard Restoration\n- Allied Society Quests\n- Faux Hallows\n- Island Sanctuary\n- Cosmic Exploration\n- Eureka\n- Bozja\n- Occult Cresent\n- Endwalker & Dawntrail Extreme Trials\n- Endwalker & Dawntrail Savage Raids\n- Dawntrail Alliance Raids\n- Dawntrail Chaotic Raids\n- Ultimate Raids",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/andrewbabbittdev/archipendium",
-                "LastUpdate": 1777917331
+                "LastUpdate": 1778312292
             }
         ]
     },
@@ -970,7 +987,7 @@
                 "Description": "Analyzes market opportunities with Universalis data, watchlists, velocity filters, and manual undercut helpers. All actions are manual. Now includes real-time undercut notifications.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778303758
+                "LastUpdate": 1778323677
             }
         ]
     },
@@ -1187,7 +1204,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778264047,
+                "LastUpdate": 1778316216,
                 "is_closed_source": true
             },
             {
@@ -1197,7 +1214,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778264047,
+                "LastUpdate": 1778316216,
                 "is_closed_source": true
             },
             {
@@ -1207,7 +1224,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778264047,
+                "LastUpdate": 1778316216,
                 "is_closed_source": true
             },
             {
@@ -1217,7 +1234,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778264047,
+                "LastUpdate": 1778316216,
                 "is_closed_source": true
             },
             {
@@ -1245,7 +1262,7 @@
                 "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
-                "LastUpdate": 1777748670
+                "LastUpdate": 1778316107
             },
             {
                 "Author": "Haselnussbomber",
@@ -2373,7 +2390,7 @@
                 "Description": "Monitor mount collections across your social circle with ease. This plugin lets you track which mounts your friends and/or party members own, helping you coordinate mount farming.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Cyenia/DalamudPlugins",
-                "LastUpdate": 1777805575
+                "LastUpdate": 1778312450
             },
             {
                 "Author": "Cyenia",
@@ -2454,21 +2471,12 @@
         "plugins": [
             {
                 "Author": "dajoey",
-                "Name": "AutoKupo",
-                "InternalName": "AutoKupo",
-                "Description": "Stand near Lizbeth in the Firmament and type /autokupo to automatically turn in all your Kupo of Fortune cards. Random right-side selection. Only activates when near Lizbeth.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778303881
-            },
-            {
-                "Author": "dajoey",
                 "Name": "AutoPotion",
                 "InternalName": "AutoPotion",
                 "Description": "Automatically uses the highest-tier HP potion in your inventory at a configurable HP threshold. In deep dungeons, also auto-uses the dungeon's regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at its own threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778303881
+                "LastUpdate": 1778305030
             },
             {
                 "Author": "dajoey",
@@ -2477,7 +2485,7 @@
                 "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778303881
+                "LastUpdate": 1778305030
             },
             {
                 "Author": "dajoey",
@@ -2486,7 +2494,7 @@
                 "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778303881
+                "LastUpdate": 1778305030
             }
         ]
     },
@@ -2512,7 +2520,7 @@
                 "Description": "Allagan Tool's primary purpose is to keep track of items across your characters/retainers/free company. With it's filter system you'll never lose track of items or not know where they should be sorted.\n\nWhile this is it's primary purpose, it has quite an exhaustive list of other features including:\n\t- Craft planning\n\t- Market board integration\n\t- Item highlighting in inventories when searching/sorting and picking ingredients for crafts\n\t- Item window that includes vendor and source information among other things\n\t- Duty/mob/airship/submarine windows that are fully searchable\n\t- A filtering system that lets you setup complex searches for specific items \n\t- Tooltip integration that'll let you see where the items are on hover",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
-                "LastUpdate": 1778296628
+                "LastUpdate": 1778318824
             }
         ]
     },
@@ -3657,7 +3665,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778277984
+                "LastUpdate": 1778304568
             },
             {
                 "Author": "Churin",
@@ -4850,7 +4858,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1777997367
+                "LastUpdate": 1778318173
             }
         ]
     },
@@ -5165,7 +5173,7 @@
                 "Description": "A native Dalamud encounter callout engine powered by IINACT log events, with a cute chocobo for moral support!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/J3sven/J3Plugins",
-                "LastUpdate": 1778287900
+                "LastUpdate": 1778323034
             },
             {
                 "Author": "J3",
@@ -5174,7 +5182,7 @@
                 "Description": "Configurable cursor trails and a cursor ring indicators.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/J3sven/J3Plugins",
-                "LastUpdate": 1778287900
+                "LastUpdate": 1778323034
             },
             {
                 "Author": "J3",
@@ -5183,7 +5191,7 @@
                 "Description": "Records dialog boxes shown during cutscenes and adds an in-game transcript button so you can review missed lines and replay audio without leaving the cutscene.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/J3sven/J3Plugins",
-                "LastUpdate": 1778287900
+                "LastUpdate": 1778323034
             },
             {
                 "Author": "J3",
@@ -5192,7 +5200,7 @@
                 "Description": "Native Dalamud DPS meter HUD for IINACT combat data. Especially useful for linux users who use tiling window managers!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/J3sven/J3Plugins",
-                "LastUpdate": 1778287900
+                "LastUpdate": 1778323034
             }
         ]
     },
@@ -5389,23 +5397,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JohnVibescode/CustomizePlus-7.5",
                 "LastUpdate": 1778100179
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "JonKazama-Hellion",
-        "repo_url": "https://raw.githubusercontent.com/JonKazama-Hellion/HellionChat/main/repo.json",
-        "repo_source_url": "https://github.com/JonKazama-Hellion/HellionChat",
-        "repo_name": "HellionChat",
-        "plugins": [
-            {
-                "Author": "JonKazama-Hellion",
-                "Name": "Hellion Chat",
-                "InternalName": "HellionChat",
-                "Description": "Hellion Chat is built on top of Chat 2 with one removal and a stack\nof privacy controls on top. Tabs, channel filters, RGB colours,\nemotes, screenshot mode, IPC integration and the chat replacement\nwindow itself work the same. The optional webinterface that Chat 2\nships is intentionally not part of this fork because it serves a\ndifferent use case from the smaller default footprint Hellion Chat\nis built around.\n\nOn top of that, Hellion Chat adds privacy and data-handling controls\ndesigned to align with the modern data protection rules that apply\nacross the EU, the United States and Japan. By default only your own\nconversations are stored; messages from strangers, NPCs and system\nspam stay out of the database. Retention windows are configurable per\nchannel, history can be wiped retroactively, and stored data can be\nexported on demand.\n\nKey additions on top of Chat 2:\n\n- Channel whitelist with a Privacy-First default\n- Per-channel retention with a daily background sweep\n- Retroactive cleanup with a Ctrl+Shift confirm\n- Export to Markdown, JSON or CSV\n- First-run wizard with three preset profiles (Privacy-First, Casual,\n  Full History)\n- Bilingual UI (English and German) with live language switching\n- Independent plugin state — own config file and database directory,\n  so Hellion Chat does not share state with the upstream plugin\n\nBased on Chat 2 by Infi and Anna, licensed under EUPL-1.2.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/JonKazama-Hellion/HellionChat",
-                "LastUpdate": 1778223114
             }
         ]
     },
@@ -5816,7 +5807,7 @@
                 "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1778256764
+                "LastUpdate": 1778321960
             }
         ]
     },
@@ -6240,7 +6231,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1778256903
+                "LastUpdate": 1778324749
             }
         ]
     },
@@ -7298,7 +7289,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778262307
+                "LastUpdate": 1778307096
             }
         ]
     },
@@ -7414,7 +7405,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778262307
+                "LastUpdate": 1778307096
             },
             {
                 "Author": "DhogGPT",
@@ -9568,7 +9559,7 @@
                 "Description": "Design and apply your own status effects with custom formatting, durations, and other accoutrements.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kawaii/Moodles",
-                "LastUpdate": 1778256764
+                "LastUpdate": 1778321960
             },
             {
                 "Author": "Ottermandias, Nylfae, Adam, Wintermute",
@@ -10436,7 +10427,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1777997367
+                "LastUpdate": 1778318173
             },
             {
                 "Author": "Det, Taurenkey",
@@ -10516,7 +10507,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778302308
+                "LastUpdate": 1778309102
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -10868,7 +10859,7 @@
                 "Description": "A word puzzle plugin for Final Fantasy XIV inspired by wordle. Features multiple themes and stat tracking.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rail2025/Aetherle",
-                "LastUpdate": 1778295413
+                "LastUpdate": 1778322930
             }
         ]
     },
@@ -11267,7 +11258,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1778302886
+                "LastUpdate": 1778313011
             },
             {
                 "Author": "Ricimon",
@@ -11840,7 +11831,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778206394
+                "LastUpdate": 1778318948
             }
         ]
     },
@@ -13235,7 +13226,7 @@
                 "Description": "用卫月实现自动狩猎。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ToxicStar8/DalamudPlugins",
-                "LastUpdate": 1778300980
+                "LastUpdate": 1778318407
             },
             {
                 "Author": "ToxicStar",
@@ -13532,9 +13523,9 @@
                 "Name": "Peer Sync",
                 "InternalName": "PeerSync",
                 "Description": "Where mods",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/UnlostWorld/PeerSync",
-                "LastUpdate": 1777708966
+                "LastUpdate": 1778324838
             }
         ]
     },
@@ -14338,7 +14329,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778286172
+                "LastUpdate": 1778322697
             }
         ]
     },
@@ -14372,7 +14363,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778286172
+                "LastUpdate": 1778322697
             }
         ]
     },
@@ -14604,7 +14595,7 @@
                 "Description": "Puts a marker on the specified player. If the target player travels to DC, the internal ID will change and the marker will be invalid.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yasatoma/MyDalamudPlugins/tree/master/plugins/PikuminMarker",
-                "LastUpdate": 1777556612,
+                "LastUpdate": 1778316832,
                 "is_closed_source": true
             }
         ]
@@ -14975,7 +14966,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1778297009
+                "LastUpdate": 1778314212
             }
         ]
     },
