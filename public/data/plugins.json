@@ -981,31 +981,49 @@
         "repo_name": "UndercutterFFXIV",
         "plugins": [
             {
-                "Author": "Market Assistant Dev",
+                "Author": "Aschy",
                 "Name": "Armoury Cleaner",
                 "InternalName": "ArmouryCleaner",
                 "Description": "Define filters by job, minimum/maximum equip level, and item level. Armoury Cleaner scans each gear slot and moves only items that match all active filters into your inventory so you can discard them.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778393705
+                "LastUpdate": 1778414851
             },
             {
-                "Author": "Market Assistant Dev",
+                "Author": "Aschy",
+                "Name": "BagAssistant",
+                "InternalName": "BagAssistant",
+                "Description": "Define a stack of sorting rules and BagAssistant will route items to the right bag every time. Filter by item category, rarity, level range, item level, class/job, HQ, tradeable, name match, vendor price, item ID and more.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Aschmies/AschyQOL",
+                "LastUpdate": 1778414851
+            },
+            {
+                "Author": "Aschy",
                 "Name": "QuestNav",
                 "InternalName": "QuestNav",
                 "Description": "QuestNav lists all your active quests and adds a Teleport button next to each one. Clicking it teleports you to the nearest unlocked aetheryte to the quest's location — no more hunting through the map.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778393705
+                "LastUpdate": 1778414851
             },
             {
-                "Author": "Market Assistant Dev",
+                "Author": "Aschy",
+                "Name": "Slidecaster",
+                "InternalName": "Slidecaster",
+                "Description": "Adds a cast-bar overlay that marks the slidecasting timeframe so you can start moving without interrupting the cast. Includes an optional audio cue when the safe window begins.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Aschmies/AschyQOL",
+                "LastUpdate": 1778414851
+            },
+            {
+                "Author": "Aschy",
                 "Name": "Market Master Pro",
                 "InternalName": "UndercutterFFXIV",
                 "Description": "Analyzes market opportunities with Universalis data, watchlists, velocity filters, and manual undercut helpers. All actions are manual. Now includes real-time undercut notifications.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778393705
+                "LastUpdate": 1778414851
             }
         ]
     },
@@ -1334,7 +1352,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778349573
+                "LastUpdate": 1778416097
             }
         ]
     },
@@ -1797,7 +1815,7 @@
                 "Description": "SkipCutscene was taking too long to update, so here we are",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BoxuChan/Skippy",
-                "LastUpdate": 1778349913
+                "LastUpdate": 1778400781
             }
         ]
     },
@@ -2547,7 +2565,7 @@
                 "Description": "Allagan Tool's primary purpose is to keep track of items across your characters/retainers/free company. With it's filter system you'll never lose track of items or not know where they should be sorted.\n\nWhile this is it's primary purpose, it has quite an exhaustive list of other features including:\n\t- Craft planning\n\t- Market board integration\n\t- Item highlighting in inventories when searching/sorting and picking ingredients for crafts\n\t- Item window that includes vendor and source information among other things\n\t- Duty/mob/airship/submarine windows that are fully searchable\n\t- A filtering system that lets you setup complex searches for specific items \n\t- Tooltip integration that'll let you see where the items are on hover",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
-                "LastUpdate": 1778318824
+                "LastUpdate": 1778402299
             }
         ]
     },
@@ -2614,7 +2632,7 @@
                 "Description": "Namazu Flippers connects to the Saddlebag Exchange API to find daily cross-server arbitrage opportunities. Get a route-optimized shopping list, travel between servers, buy low, sell high on your home world. One scan, one route, done in under 20 minutes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/DarrellTang/namazu-flippers",
-                "LastUpdate": 1778371303
+                "LastUpdate": 1778394808
             }
         ]
     },
@@ -2761,9 +2779,26 @@
                 "Name": "Emote React",
                 "InternalName": "EmoteReact",
                 "Description": "React to emotes with a command, can add different reaction to any person.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devckuw/EmoteReact",
-                "LastUpdate": 1777763053
+                "LastUpdate": 1778399907
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "devoreofox",
+        "repo_url": "https://raw.githubusercontent.com/devoreofox/Silkstring/main/repo.json",
+        "repo_source_url": "https://github.com/devoreofox/Silkstring",
+        "repo_name": "Silkstring",
+        "plugins": [
+            {
+                "Author": "Oreo",
+                "Name": "Silkstring",
+                "InternalName": "Silkstring",
+                "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/devoreofox/Silkstring",
+                "LastUpdate": 1778395092
             }
         ]
     },
@@ -3270,7 +3305,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1778344023
+                "LastUpdate": 1778407173
             }
         ]
     },
@@ -3287,7 +3322,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1778344023
+                "LastUpdate": 1778407173
             }
         ]
     },
@@ -3867,7 +3902,7 @@
                 "InternalName": "AutoEmotion",
                 "Description": "This plugin lets you assign a keyword to an emote. When the keyword is typed in the chat, the corresponding emote is automatically triggered.\n\nThe plugin icon was created by https://twitter.com/AlcielCroix",
                 "RepoUrl": "https://github.com/FoxShadow10/AutoEmotion",
-                "LastUpdate": 1777805328
+                "LastUpdate": 1778405926
             }
         ]
     },
@@ -4591,7 +4626,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778349573
+                "LastUpdate": 1778416097
             },
             {
                 "Author": "Team Wrath",
@@ -4600,7 +4635,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778366984
+                "LastUpdate": 1778413350
             },
             {
                 "Author": "daemitus, croizat",
@@ -4756,7 +4791,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778349573
+                "LastUpdate": 1778416097
             },
             {
                 "Author": "Team Wrath",
@@ -4765,7 +4800,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778366984
+                "LastUpdate": 1778413350
             },
             {
                 "Author": "daemitus, croizat",
@@ -4813,6 +4848,23 @@
         "repo_developer_name": "huntsffxiv"
     },
     {
+        "repo_developer_name": "hyirax",
+        "repo_url": "https://raw.githubusercontent.com/hyirax/AlmondHousing/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/hyirax/AlmondHousing",
+        "repo_name": "AlmondHousing",
+        "plugins": [
+            {
+                "Author": "AlmondCookie",
+                "Name": "AlmondHousing (杏仁房屋工具)",
+                "InternalName": "AlmondHousing",
+                "Description": "由 AlmondCookie 深度重构与独立维护的房屋装修辅助工具。支持 7 国语言无缝切换、一键导出 Teamcraft/CSV 购物清单、自动保存和加载房屋家具位置，以及导入/导出 MakePlace 程序的布局文件。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/hyirax/AlmondHousing",
+                "LastUpdate": 1778410513
+            }
+        ]
+    },
+    {
         "repo_developer_name": "iarcanar",
         "repo_url": "https://raw.githubusercontent.com/iarcanar/MBB_Dalamud/main/pluginmaster.json",
         "repo_source_url": "https://github.com/iarcanar/MBB_Dalamud",
@@ -4825,7 +4877,7 @@
                 "Description": "แปลภาษา FFXIV เป็นไทยแบบ real-time ผ่าน Gemini AI - Real-time FFXIV translation with advanced character database and Netflix-quality localization. Features elegant UI with auto-show/hide, full customization (size, colors), and seamless gameplay integration.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/iarcanar/MBB_Dalamud",
-                "LastUpdate": 1777632905
+                "LastUpdate": 1778408901
             }
         ]
     },
@@ -6258,7 +6310,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1778332393
+                "LastUpdate": 1778416017
             }
         ]
     },
@@ -6325,7 +6377,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1778273270
+                "LastUpdate": 1778406086
             }
         ]
     },
@@ -6402,7 +6454,7 @@
                 "Description": "Calculates the raw material cost of crafted items using Universalis market data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kylohq/craft-analyzer",
-                "LastUpdate": 1778092013
+                "LastUpdate": 1778413464
             }
         ]
     },
@@ -7146,7 +7198,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778392598
+                "LastUpdate": 1778414283
             }
         ]
     },
@@ -7351,7 +7403,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778392598
+                "LastUpdate": 1778414283
             },
             {
                 "Author": "DhogGPT",
@@ -8957,7 +9009,7 @@
                 "Description": "简单的播报SS前置小怪的小工具",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/SSMinionBoradcast",
-                "LastUpdate": 1777915584
+                "LastUpdate": 1778409805
             },
             {
                 "Author": "NiGuangOwO",
@@ -8966,7 +9018,7 @@
                 "Description": "简单的播报SS前置小怪的小工具",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/SSMinionBoradcast",
-                "LastUpdate": 1777915584
+                "LastUpdate": 1778409805
             },
             {
                 "Author": "NiGuangOwO",
@@ -8975,7 +9027,7 @@
                 "Description": "简单的播报SS前置小怪的小工具",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/SSMinionBoradcast",
-                "LastUpdate": 1777915584
+                "LastUpdate": 1778409805
             }
         ]
     },
@@ -9623,61 +9675,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/owu4346/DaPCPluginRepo",
                 "LastUpdate": 1778365414
-            }
-        ]
-    },
-    {
-        "repo_name": "paissaheavyindustries (CN)",
-        "repo_url": "https://github.com/paissaheavyindustries/Dalamud-Repo/raw/main/repo.json",
-        "repo_source_url": "https://github.com/paissaheavyindustries/Dalamud-Repo",
-        "repo_discord_url": "https://discord.gg/6f9MY55",
-        "repo_game_client": "chinese",
-        "repo_developer_name": "paissaheavyindustries",
-        "plugins": [
-            {
-                "Author": "Paissa Heavy Industries",
-                "Name": "Chibi Omega",
-                "InternalName": "Chibi Omega",
-                "Description": "Plugin to apply a custom scale to the Omega beetle model (TOP and O11)",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/paissaheavyindustries/Chibi-Omega",
-                "LastUpdate": 1777539740
-            },
-            {
-                "Author": "Paissa Heavy Industries",
-                "Name": "Lemegeton",
-                "InternalName": "Lemegeton",
-                "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
-                "LastUpdate": 1777539696
-            },
-            {
-                "Author": "Paissa Heavy Industries",
-                "Name": "Tallafell",
-                "InternalName": "Tallafell",
-                "Description": "Plugin to apply a custom scale to lalafell models",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/paissaheavyindustries/Tallafell",
-                "LastUpdate": 1777539835
-            },
-            {
-                "Author": "Paissa Heavy Industries",
-                "Name": "Telesto",
-                "InternalName": "Telesto",
-                "Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
-                "LastUpdate": 1777539797
-            },
-            {
-                "Author": "Paissa Heavy Industries",
-                "Name": "Where's Mouse?",
-                "InternalName": "WheresMouse",
-                "Description": "An accessibility plugin to help you locate your mouse cursor when you need it the most.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/paissaheavyindustries/WheresMouse",
-                "LastUpdate": 1777539771
             }
         ]
     },
@@ -10560,7 +10557,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778366984
+                "LastUpdate": 1778413350
             },
             {
                 "Author": "daemitus, kawaii",
@@ -11204,7 +11201,7 @@
                 "Description": "AutoDuty",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1778344023
+                "LastUpdate": 1778407173
             },
             {
                 "Author": "Infi, Anna",
@@ -11238,7 +11235,7 @@
                 "Name": "Something Need Doing",
                 "InternalName": "SomethingNeedDoing",
                 "Description": "Now for more than crafting!",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
                 "LastUpdate": 1777592350
             }
@@ -11284,7 +11281,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1778392117
+                "LastUpdate": 1778409179
             },
             {
                 "Author": "Ricimon",
@@ -11857,7 +11854,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778383971
+                "LastUpdate": 1778397109
             }
         ]
     },
@@ -13484,7 +13481,7 @@
                 "Description": "Skip all of the Cutscenes that bother you (MSQ Roulette for example) so you can actually play the game!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BoxuChan/Skippy",
-                "LastUpdate": 1778349913
+                "LastUpdate": 1778400781
             }
         ]
     },
