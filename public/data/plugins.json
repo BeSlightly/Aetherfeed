@@ -732,6 +732,68 @@
         ]
     },
     {
+        "repo_developer_name": "anmili2022",
+        "repo_url": "https://raw.githubusercontent.com/anmili2022/MyDalamudRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/anmili2022/MyDalamudRepo",
+        "repo_name": "MyDalamudRepo",
+        "plugins": [
+            {
+                "Author": "wozaiha",
+                "Name": "DalamudACT",
+                "InternalName": "DalamudACT",
+                "Description": "一个基于本地 ACTX 风格口径的 Dalamud 战斗统计插件，直接在游戏内显示队伍 DPS、HPS、承伤、概览和战斗历史，不依赖外部网页悬浮窗。 Local ACTX-style combat meter for Dalamud. Displays party DPS, HPS, damage taken, overview summaries, and encounter history directly in game without relying on an external web overlay.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/anmili2022/DalamudACT",
+                "LastUpdate": 1778521052
+            },
+            {
+                "Author": "shdwp, Avaflow, abashby, nebel",
+                "Name": "Party Icons",
+                "InternalName": "PartyIcons",
+                "Description": "按当前内容调整玩家名牌显示，例如显示职业图标、自动分配的团队站位，或名字加职业图标。 Adjusts player nameplates based on current content, for example by showing job icons, automatically assigned raid positions, or names with job icons.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/anmili2022/xivPartyIcons",
+                "LastUpdate": 1778162965
+            },
+            {
+                "Author": "Shiyuvi",
+                "Name": "Plugin Dock Standalone",
+                "InternalName": "PluginDockStandalone",
+                "Description": "把常用 Dalamud 插件的主界面和设置入口收纳到一个可折叠的悬浮图标栏里，并提供可配置布局与快捷访问。 Collect common Dalamud plugin entry points into a collapsible floating icon dock with configurable layout and quick access.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/anmili2022/PluginDockStandalone",
+                "LastUpdate": 1778055706
+            },
+            {
+                "Author": "Taurenkey (Puni.sh)",
+                "Name": "Saucy",
+                "InternalName": "Saucy",
+                "Description": "自动化处理部分金碟小游戏。 Automates certain Gold Saucer mini-games.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/anmili2022/SaucyCN",
+                "LastUpdate": 1778162768
+            },
+            {
+                "Author": "Loskh",
+                "Name": "StarlightBreaker",
+                "InternalName": "StarlightBreaker",
+                "Description": "关闭屏蔽词过滤，并特殊显示聊天频道或招募板发出的屏蔽词。 Disable word-filter blocking and specially highlight filtered words from chat channels or the Party Finder.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/anmili2022/StarlightBreaker",
+                "LastUpdate": 1778157159
+            },
+            {
+                "Author": "daemitus, MidoriKami",
+                "Name": "天书概率助手",
+                "InternalName": "WondrousTailsSolver",
+                "Description": "在天书界面实时显示 1 线、2 线、3 线概率，并提供重排后的平均参考。 This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/anmili2022/EzWondrousTails",
+                "LastUpdate": 1778400699
+            }
+        ]
+    },
+    {
         "repo_developer_name": "AnnaNomoly",
         "repo_url": "https://raw.githubusercontent.com/AnnaNomoly/SayMyName/main/repo.json",
         "repo_source_url": "https://github.com/AnnaNomoly/SayMyName",
@@ -842,7 +904,7 @@
                 "Description": "Generate and run macro actions quickly using a spotlight inspired interface",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/Quack",
-                "LastUpdate": 1777908154
+                "LastUpdate": 1778511260
             },
             {
                 "Author": "Anya Hichu",
@@ -1403,7 +1465,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778473465
+                "LastUpdate": 1778510988
             },
             {
                 "Author": "veyn, croizat",
@@ -1789,7 +1851,7 @@
                 "Description": "SkipCutscene was taking too long to update, so here we are",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BoxuChan/Skippy",
-                "LastUpdate": 1778449165
+                "LastUpdate": 1778506161
             }
         ]
     },
@@ -2530,7 +2592,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778349972
+                "LastUpdate": 1778526932
             },
             {
                 "Author": "Critical_Impact",
@@ -3664,7 +3726,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778349972
+                "LastUpdate": 1778526932
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3718,7 +3780,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778436542
+                "LastUpdate": 1778526901
             },
             {
                 "Author": "Churin",
@@ -4228,15 +4290,15 @@
                 "Name": "Glaive Tweaks",
                 "InternalName": "Glaives.Plugin.Tweaks",
                 "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
-                "DalamudApiLevel": 14,
-                "LastUpdate": 1766371927
+                "DalamudApiLevel": 15,
+                "LastUpdate": 1778524986
             },
             {
                 "Author": "veyn, croizat",
                 "Name": "V(ery) Island",
                 "InternalName": "visland",
                 "Description": "Automate gathering, workshop assignments, etc.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
                 "LastUpdate": 1777499385
             }
@@ -4468,7 +4530,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1778467738
+                "LastUpdate": 1778522227
             },
             {
                 "Author": "Haselnussbomber",
@@ -4599,7 +4661,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778473465
+                "LastUpdate": 1778510988
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -4764,7 +4826,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778473465
+                "LastUpdate": 1778510988
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -4851,7 +4913,7 @@
                 "Description": "由 AlmondCookie 深度重构与独立维护的房屋装修辅助工具。支持 7 国语言无缝切换、一键导出 Teamcraft/CSV 购物清单、自动保存和加载房屋家具位置，以及导入/导出 MakePlace 程序的布局文件。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/hyirax/AlmondHousing",
-                "LastUpdate": 1778497239
+                "LastUpdate": 1778524043
             }
         ]
     },
@@ -8041,7 +8103,7 @@
                 "Description": "Kaleidoscope is a Dalamud plugin for Final Fantasy XIV that provides an overlay for tracking game information across multiple characters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1778345197
+                "LastUpdate": 1778528475
             }
         ]
     },
@@ -8197,7 +8259,7 @@
                 "Description": "Mannerisms gives your character a life of their own. Set up gestures that react to what you say in chat — type 'bye' and your character waves, say 'WHAT' and they recoil in shock. Create idle profiles so your character reads, checks their phone, or paces around when you're AFK. Supports regex triggers, target-aware emotes, random emote pools with rarity controls, and fully customizable idle sequences.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mustbetommy/Mannerisms",
-                "LastUpdate": 1778375921
+                "LastUpdate": 1778519044
             }
         ]
     },
@@ -11948,7 +12010,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778500526
+                "LastUpdate": 1778507615
             }
         ]
     },
@@ -12231,6 +12293,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
                 "LastUpdate": 1778499516
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "sharpordull",
+        "repo_url": "https://raw.githubusercontent.com/sharpordull/FFLogsViewer-Achievements/main/repo.json",
+        "repo_source_url": "https://github.com/sharpordull/FFLogsViewer-Achievements",
+        "repo_name": "FFLogsViewer-Achievements",
+        "plugins": [
+            {
+                "Author": "sharpordull",
+                "Name": "FFLogsViewer Achievements",
+                "InternalName": "FFLogsViewer Achievement",
+                "Description": "Adds achievement tracking and milestone unlocks to FFLogsViewer.",
+                "DalamudApiLevel": 11,
+                "RepoUrl": "https://github.com/sharpordull/FFLogsViewer-Achievements",
+                "LastUpdate": 1778518558
             }
         ]
     },
@@ -13575,7 +13654,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778452090
+                "LastUpdate": 1778527917
             }
         ]
     },
@@ -13592,7 +13671,7 @@
                 "Description": "Skip all of the Cutscenes that bother you (MSQ Roulette for example) so you can actually play the game!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BoxuChan/Skippy",
-                "LastUpdate": 1778449165
+                "LastUpdate": 1778506161
             }
         ]
     },
@@ -14210,9 +14289,9 @@
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1771974270
+                "LastUpdate": 1778506621
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -14262,9 +14341,9 @@
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1771974270
+                "LastUpdate": 1778506621
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -14469,6 +14548,23 @@
         ]
     },
     {
+        "repo_developer_name": "Xekiest",
+        "repo_url": "https://raw.githubusercontent.com/Xekiest/valor-and-chaos-repo/main/repo.json",
+        "repo_source_url": "https://github.com/Xekiest/valor-and-chaos-repo",
+        "repo_name": "valor-and-chaos-repo",
+        "plugins": [
+            {
+                "Author": "Christopher Graham",
+                "Name": "Valor & Chaos",
+                "InternalName": "ValorAndChaos",
+                "Description": "Character sheet, trackers, roller, and DM tools for Valor & Chaos in FFXIV.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Xekiest/valor-and-chaos-repo",
+                "LastUpdate": 1778527028
+            }
+        ]
+    },
+    {
         "repo_developer_name": "XeldarAlz",
         "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-DomanMahjongSolver/main/repo/repo.json",
         "repo_source_url": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
@@ -14481,7 +14577,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778458973
+                "LastUpdate": 1778521260
             }
         ]
     },
@@ -14515,7 +14611,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778458973
+                "LastUpdate": 1778521260
             }
         ]
     },
