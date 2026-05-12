@@ -1405,7 +1405,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778504694
+                "LastUpdate": 1778571075
             }
         ]
     },
@@ -2297,7 +2297,7 @@
                 "Description": "An inclusive and extensive custom status effect manager. Apply them to targets, group custom statuses with presets, or apply them under conditional events.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CordeliaMist/Loci",
-                "LastUpdate": 1778549843
+                "LastUpdate": 1778551575
             }
         ]
     },
@@ -2618,7 +2618,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778530553
+                "LastUpdate": 1778564406
             },
             {
                 "Author": "Critical_Impact",
@@ -3060,23 +3060,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/echodetla/ffxiv-look-at-me",
                 "LastUpdate": 1777614835
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "EchoEngineering",
-        "repo_url": "https://raw.githubusercontent.com/EchoEngineering/Tera-Sync-V2/main/Tera-Sync-V2-client/repo.json",
-        "repo_source_url": "https://github.com/EchoEngineering/Tera-Sync-V2",
-        "repo_name": "Tera-Sync-V2",
-        "plugins": [
-            {
-                "Author": "kirin-xiv",
-                "Name": "Tera Sync V2",
-                "InternalName": "TeraSyncV2",
-                "Description": "Share your appearance, mods, and glamour configurations with friends. Synchronize your Penumbra and Glamourer state seamlessly.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/EchoEngineering/Tera-Sync-V2",
-                "LastUpdate": 1757029342
             }
         ]
     },
@@ -3752,7 +3735,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778530553
+                "LastUpdate": 1778564406
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3788,7 +3771,7 @@
                 "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1778200816
+                "LastUpdate": 1778560243
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4669,7 +4652,7 @@
                 "Description": "一个为你自动运行副本的插件\n支持亲信战友、剧情辅助器、冒险者分队、多变迷宫和普通迷宫模式\n需要 BossMod、vnavmesh 和一个循环插件（如 WrathCombo、BossMod AutoRotation 或 RotationSolverReborn）",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ookura-Risona/AutoDuty",
-                "LastUpdate": 1778164118
+                "LastUpdate": 1778568968
             },
             {
                 "Author": "Det",
@@ -4705,7 +4688,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778504694
+                "LastUpdate": 1778571075
             },
             {
                 "Author": "Team Wrath",
@@ -4834,7 +4817,7 @@
                 "Description": "一个为你自动运行副本的插件\n支持亲信战友、剧情辅助器、冒险者分队、多变迷宫和普通迷宫模式\n需要 BossMod、vnavmesh 和一个循环插件（如 WrathCombo、BossMod AutoRotation 或 RotationSolverReborn）",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ookura-Risona/AutoDuty",
-                "LastUpdate": 1778164118
+                "LastUpdate": 1778568968
             },
             {
                 "Author": "Det",
@@ -4870,7 +4853,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778504694
+                "LastUpdate": 1778571075
             },
             {
                 "Author": "Team Wrath",
@@ -5487,6 +5470,23 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/JimmyRustles15/Ktisis",
                 "LastUpdate": 1732129838
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "jkleinne",
+        "repo_url": "https://raw.githubusercontent.com/jkleinne/ascended-plugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/jkleinne/ascended-plugins",
+        "repo_name": "ascended-plugins",
+        "plugins": [
+            {
+                "Author": "jkleinne",
+                "Name": "Ascended Rotation Solver Reborn",
+                "InternalName": "ascended-rotationsolverreborn",
+                "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
+                "LastUpdate": 1778570514
             }
         ]
     },
@@ -6178,40 +6178,6 @@
     },
     {
         "repo_developer_name": "kirin-xiv",
-        "repo_url": "https://raw.githubusercontent.com/kirin-xiv/FFToD-Release/main/repo.json",
-        "repo_source_url": "https://github.com/kirin-xiv/FFToD-Release",
-        "repo_name": "FFToD-Release",
-        "plugins": [
-            {
-                "Author": "Kirin",
-                "Name": "Truth or Dare",
-                "InternalName": "FFToD",
-                "Description": "Truth or Dare mini-game automation plugin for FFXIV",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/kirin-xiv/FFToD-Release",
-                "LastUpdate": 1755388331
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "kirin-xiv",
-        "repo_url": "https://raw.githubusercontent.com/kirin-xiv/FFToD-TestBuilds/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/kirin-xiv/FFToD-TestBuilds",
-        "repo_name": "FFToD-TestBuilds",
-        "plugins": [
-            {
-                "Author": "Kirin",
-                "Name": "Truth or Dare (TEST BUILD)",
-                "InternalName": "FFToD",
-                "Description": "TEST BUILD: Truth or Dare mini-game automation with configurable winner selection features. This is a test version with experimental duplicate prevention and exclusion targeting options.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/kirin-xiv/FFToD-TestBuilds",
-                "LastUpdate": 1774958667
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "kirin-xiv",
         "repo_url": "https://raw.githubusercontent.com/kirin-xiv/KirinPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/kirin-xiv/KirinPlugins",
         "repo_name": "KirinPlugins",
@@ -6223,42 +6189,25 @@
                 "Description": "[BETA] A comprehensive writing assistant designed for FFXIV roleplayers. Automatically formats your text for seamless in-game chat, includes spell checking, thesaurus integration, and advanced editing tools to enhance your roleplay experience.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kirin-xiv/EorzeaScribe",
-                "LastUpdate": 1776622534
+                "LastUpdate": 1778559666
             },
             {
                 "Author": "Kirin",
                 "Name": "Truth or Dare",
                 "InternalName": "FFToD",
                 "Description": "Truth or Dare mini-game automation plugin for FFXIV",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kirin-xiv/FFToD-Release",
-                "LastUpdate": 1755388331
+                "LastUpdate": 1778559666
             },
             {
                 "Author": "Kirin",
                 "Name": "SpamrollGiveaway",
                 "InternalName": "SpamrollGiveaway",
                 "Description": "A FFXIV plugin for hosting giveaways where the host sets winning numbers and players use /random until someone hits the target numbers.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kirin-xiv/SpamrollGiveaway-Release",
-                "LastUpdate": 1755388352
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "kirin-xiv",
-        "repo_url": "https://raw.githubusercontent.com/kirin-xiv/SpamrollGiveaway-Release/main/repo.json",
-        "repo_source_url": "https://github.com/kirin-xiv/SpamrollGiveaway-Release",
-        "repo_name": "SpamrollGiveaway-Release",
-        "plugins": [
-            {
-                "Author": "Kirin",
-                "Name": "SpamrollGiveaway",
-                "InternalName": "SpamrollGiveaway",
-                "Description": "A FFXIV plugin for hosting giveaways where the host sets winning numbers and players use /random until someone hits the target numbers.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/kirin-xiv/SpamrollGiveaway-Release",
-                "LastUpdate": 1755388352
+                "LastUpdate": 1778559666
             }
         ]
     },
@@ -6619,7 +6568,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1778549510
+                "LastUpdate": 1778555989
             }
         ]
     },
@@ -10962,7 +10911,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1778537773
+                "LastUpdate": 1778571971
             }
         ]
     },
@@ -11410,7 +11359,7 @@
                 "Description": "Map Party Features.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/wrath16/MapPartyAssist",
-                "LastUpdate": 1766189906
+                "LastUpdate": 1778565155
             },
             {
                 "Author": "daemitus, croizat",
@@ -11634,7 +11583,7 @@
                 "Description": "A Customize+ companion plugin for applying saved profiles, managing referenced templates, and safely releasing active changes without rewriting Customize+ data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rubyblaire/BoneSmith",
-                "LastUpdate": 1777996293
+                "LastUpdate": 1778566437
             }
         ]
     },
@@ -12036,7 +11985,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778507615
+                "LastUpdate": 1778563910
             }
         ]
     },
@@ -12189,7 +12138,7 @@
                 "Description": "Adds a private list for contacts and places. Right-click Add to privacy, profile images, notes, tells, party invites and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/seventity7/Privacy",
-                "LastUpdate": 1778542853
+                "LastUpdate": 1778562502
             }
         ]
     },
@@ -12515,7 +12464,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778501572
+                "LastUpdate": 1778560422
             },
             {
                 "Author": "XSZYYS",
@@ -12524,7 +12473,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778501572,
+                "LastUpdate": 1778560422,
                 "is_closed_source": true
             }
         ]
@@ -13420,6 +13369,22 @@
         ]
     },
     {
+        "repo_developer_name": "Tihlyn",
+        "repo_url": "https://raw.githubusercontent.com/Tihlyn/RedMoon-Cappuccino/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Tihlyn/RedMoon-Cappuccino",
+        "repo_name": "RedMoon-Cappuccino",
+        "plugins": [
+            {
+                "Author": "Tihlyn",
+                "Name": "RedMoonCappuccino",
+                "InternalName": "RedMoonCappuccino",
+                "Description": "Connects to your FC's WebSocket server to display the lowest market tax rate and location, as well as upcoming and past FC events with event images.",
+                "RepoUrl": "https://github.com/Tihlyn/RedMoon-Cappuccino",
+                "LastUpdate": 1778573329
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Tischel/BLMInTheShell/raw/master/repo.json",
         "repo_source_url": "https://github.com/Tischel/BLMInTheShell",
         "repo_name": "BLMInTheShell",
@@ -13552,7 +13517,7 @@
                 "Description": "Remove the need to target people for healing, instead assign actions to mouse buttons and use them by clicking player names.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tulla4U/XIV_ClickCast",
-                "LastUpdate": 1777665112
+                "LastUpdate": 1778570718
             }
         ]
     },
@@ -14026,7 +13991,7 @@
                 "Name": "Squadronista",
                 "InternalName": "Squadronista",
                 "Description": "Helps optimize squadron mission compositions",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VeraNala/Squadronista",
                 "LastUpdate": 1770608821
             },
@@ -14224,6 +14189,15 @@
         "repo_source_url": "https://github.com/wasdcxz/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
+            {
+                "Author": "Kid Icarus",
+                "Name": "Character Select+ (KR)",
+                "InternalName": "CharacterSelectPlugin",
+                "Description": "Instant Character Switching Made Simple\n\nCreate and save character profiles, then switch between them instantly. Applies Penumbra Collections, Glamourer Designs, Customize+ Profiles, Honorifics, Moodles, and Idles.Key Features: One-click character switching, multiple designs per character, advanced macro support, roleplay profiles, a character gallery, and immersive dialogue options. Perfect for roleplayers, gposers, and anyone who loves seamless character customization without manually switching between multiple plugins.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/wasdcxz/DalamudPlugins",
+                "LastUpdate": 1778573506
+            },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "GatherBuddy Reborn (KR)",
@@ -15196,7 +15170,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1778314212
+                "LastUpdate": 1778572878
             }
         ]
     },
@@ -15265,7 +15239,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1778464086,
+                "LastUpdate": 1778562234,
                 "is_closed_source": true
             },
             {
