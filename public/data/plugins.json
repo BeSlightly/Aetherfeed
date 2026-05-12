@@ -522,7 +522,7 @@
                 "Description": "Scans inventory, armoury chest, saddlebag, retainers, glamour dresser, and armoire to show item set collection progress with job filters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Akurosia/AkuItemSets",
-                "LastUpdate": 1778342486
+                "LastUpdate": 1778534704
             }
         ]
     },
@@ -608,6 +608,23 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/amarinne/Auto-Marketbuddy",
                 "LastUpdate": 1768415976
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "AmberFey",
+        "repo_url": "https://raw.githubusercontent.com/AmberFey/Urban888/master/repo/pluginmaster.json",
+        "repo_source_url": "https://github.com/AmberFey/Urban888",
+        "repo_name": "Urban888",
+        "plugins": [
+            {
+                "Author": "AmberFey",
+                "Name": "Urban 888",
+                "InternalName": "Urban888",
+                "Description": "Tracks paid /random rolls, remaining attempts, incoming sales, total pot, and detects when the target player rolls 888.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AmberFey/Urban888",
+                "LastUpdate": 1778549200
             }
         ]
     },
@@ -1880,6 +1897,15 @@
         "plugins": [
             {
                 "Author": "wah",
+                "Name": "PaissaWah",
+                "InternalName": "PaissaWah",
+                "Description": "PassiaDB Search",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Brappp/PaissaWah",
+                "LastUpdate": 1778548030
+            },
+            {
+                "Author": "wah",
                 "Name": "Plugin Preset Manager",
                 "InternalName": "PluginPresetManager",
                 "Description": "Create and manage plugin presets with support for always-on plugins. Commands: /ppreset",
@@ -1900,8 +1926,8 @@
                 "Name": "wahventory",
                 "InternalName": "wahventory",
                 "Description": "Advanced inventory management with safety filters and auto-discard",
-                "DalamudApiLevel": 14,
-                "LastUpdate": 1766032674
+                "DalamudApiLevel": 15,
+                "LastUpdate": 1778531923
             },
             {
                 "Author": "wah",
@@ -2271,7 +2297,7 @@
                 "Description": "An inclusive and extensive custom status effect manager. Apply them to targets, group custom statuses with presets, or apply them under conditional events.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CordeliaMist/Loci",
-                "LastUpdate": 1777747558
+                "LastUpdate": 1778549843
             }
         ]
     },
@@ -2592,7 +2618,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778526932
+                "LastUpdate": 1778530553
             },
             {
                 "Author": "Critical_Impact",
@@ -3700,7 +3726,7 @@
                 "Description": "纷争前线的战场态势感知、本地即时战术决策、LLM 大决策、战术图谱与战斗指挥界面。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FF14Yoshiko/Black-Manba-ai02",
-                "LastUpdate": 1778450730
+                "LastUpdate": 1778541470
             }
         ]
     },
@@ -3726,7 +3752,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778526932
+                "LastUpdate": 1778530553
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3744,7 +3770,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778493006
+                "LastUpdate": 1778542858
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3780,7 +3806,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778526901
+                "LastUpdate": 1778548294
             },
             {
                 "Author": "Churin",
@@ -4521,7 +4547,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1778449429
+                "LastUpdate": 1778542978
             },
             {
                 "Author": "Haselnussbomber",
@@ -6593,7 +6619,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1778457380
+                "LastUpdate": 1778549510
             }
         ]
     },
@@ -7285,7 +7311,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778414283
+                "LastUpdate": 1778531578
             }
         ]
     },
@@ -7455,7 +7481,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778430611
+                "LastUpdate": 1778542356
             }
         ]
     },
@@ -7490,7 +7516,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778414283
+                "LastUpdate": 1778531578
             },
             {
                 "Author": "DhogGPT",
@@ -7571,7 +7597,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778430611
+                "LastUpdate": 1778542356
             },
             {
                 "Author": "DhogGPT",
@@ -8086,7 +8112,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1778346454
+                "LastUpdate": 1778534725
             }
         ]
     },
@@ -10936,7 +10962,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1778479128
+                "LastUpdate": 1778537773
             }
         ]
     },
@@ -11428,7 +11454,7 @@
                 "Description": "An in-game voice chat plugin with character proximity detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-ProximityVoiceChat",
-                "LastUpdate": 1778456520
+                "LastUpdate": 1778540276
             },
             {
                 "Author": "Ricimon",
@@ -12112,7 +12138,7 @@
                 "Description": "Lets players create custom slash command aliases from an in-game UI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/seventity7/CreateXIV",
-                "LastUpdate": 1778379946
+                "LastUpdate": 1778547473
             }
         ]
     },
@@ -12163,7 +12189,7 @@
                 "Description": "Adds a private list for contacts and places. Right-click Add to privacy, profile images, notes, tells, party invites and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/seventity7/Privacy",
-                "LastUpdate": 1778470357
+                "LastUpdate": 1778542853
             }
         ]
     },
@@ -13028,7 +13054,7 @@
                 "Description": "Track Allied Society reputation, rank progress, daily quest readiness, and achievement milestones in one planner-focused Dalamud window. Optional Questionable integration can help start available society dailies.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Talbuki/Auto-Societal",
-                "LastUpdate": 1778471543
+                "LastUpdate": 1778537788
             }
         ]
     },
@@ -13654,7 +13680,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778527917
+                "LastUpdate": 1778539433
             }
         ]
     },
@@ -14205,7 +14231,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778493006
+                "LastUpdate": 1778542858
             },
             {
                 "Author": "Ottermandias",
@@ -14509,7 +14535,7 @@
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1778353608
+                "LastUpdate": 1778537906
             }
         ]
     },
@@ -14577,7 +14603,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778521260
+                "LastUpdate": 1778545427
             }
         ]
     },
@@ -14611,7 +14637,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778521260
+                "LastUpdate": 1778545427
             }
         ]
     },
@@ -14645,7 +14671,7 @@
                 "Description": "Updates a dedicated BossMod Reborn preset during combat using Avarice and current combat state. XCAI manages positionals, target range, forbidden-zone cushion, and party-role follow while avoiding any out-of-combat movement behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xeltor/XelsCombatAI",
-                "LastUpdate": 1778366451
+                "LastUpdate": 1778538518
             }
         ]
     },
