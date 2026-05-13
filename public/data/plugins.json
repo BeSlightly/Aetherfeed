@@ -5563,7 +5563,7 @@
                 "Description": "Personal fork of Dagobert, the automatic market board undercut plugin. Adds bait listing protection so a 1-unit decoy at 5 gil can't drag your retainer prices to the floor while real stacks sit at 1.2k. If you don't need that, install upstream Dagobert instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-dagobert",
-                "LastUpdate": 1778635898
+                "LastUpdate": 1778646307
             },
             {
                 "Author": "jkleinne",
@@ -5572,7 +5572,7 @@
                 "Description": "Personal fork of MidoriKami's EzWondrousTails, ported to Dalamud API 15 after the upstream repository was archived. Injects row probabilities and shuffle averages into the Wondrous Tails journal, and adds a standalone plugin window so the same information is reachable when the journal isn't open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-EzWondrousTails",
-                "LastUpdate": 1778602127
+                "LastUpdate": 1778645633
             },
             {
                 "Author": "jkleinne",
@@ -5581,7 +5581,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778638944
+                "LastUpdate": 1778648112
             }
         ]
     },
@@ -6828,7 +6828,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1778116996
+                "LastUpdate": 1778643200
             }
         ]
     },
@@ -11507,7 +11507,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1778637163
+                "LastUpdate": 1778642924
             },
             {
                 "Author": "Ricimon",
@@ -12216,7 +12216,7 @@
                 "Description": "Adds a private list for contacts and places. Right-click Add to privacy, profile images, notes, tells, party invites and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/seventity7/Privacy",
-                "LastUpdate": 1778636457
+                "LastUpdate": 1778646784
             }
         ]
     },
@@ -13723,7 +13723,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778641064
+                "LastUpdate": 1778641128
             }
         ]
     },
@@ -14158,7 +14158,7 @@
                 "Description": "SharkChat intercepts your chat before it's sent and swaps words or phrases for whatever you want.\n\nSet up rules like Thanks → Thankies, and they'll apply automatically every time you chat — across any channel.\n\nFeatures:\n• Whole-word matching (so \"tank\" won't mangle \"thanks\")\n• Case-insensitive by default\n• Per-rule enable/disable\n• Live preview so you can test rules before using them\n\nCommands:\n/shark — toggle on/off\n/shark config — open settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/SharkChat",
-                "LastUpdate": 1778639371
+                "LastUpdate": 1778642713
             }
         ]
     },
@@ -14192,7 +14192,7 @@
                 "Description": "SharkChat intercepts your chat before it's sent and swaps words or phrases for whatever you want.\n\nSet up rules like Thanks → Thankies, and they'll apply automatically every time you chat — across any channel.\n\nFeatures:\n• Whole-word matching (so \"tank\" won't mangle \"thanks\")\n• Case-insensitive by default\n• Per-rule enable/disable\n• Live preview so you can test rules before using them\n\nCommands:\n/shark — toggle on/off\n/shark config — open settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/SharkChat",
-                "LastUpdate": 1778639371
+                "LastUpdate": 1778642713
             }
         ]
     },
