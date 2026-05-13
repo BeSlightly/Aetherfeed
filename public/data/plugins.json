@@ -312,6 +312,23 @@
         ]
     },
     {
+        "repo_developer_name": "aethel-tail",
+        "repo_url": "https://raw.githubusercontent.com/aethel-tail/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/aethel-tail/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "aethel-tail",
+                "Name": "Graphics Upscaler Toggle",
+                "InternalName": "GraphicsUpscalerToggle",
+                "Description": "Automatically switches graphics upscaling from DLSS to FSR and back when entering the game. Works around the bug where DLSS doesn't properly engage on initial load and requires a manual toggle.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/aethel-tail/GraphicsUpscalerToggle",
+                "LastUpdate": 1778693226
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Aether-Tools/CustomizePlus/raw/main/repo.json",
         "repo_source_url": "https://github.com/Aether-Tools/CustomizePlus",
         "repo_name": "CustomizePlus",
@@ -539,7 +556,7 @@
                 "Description": "Tracks actions used by battle NPCs/enemies in the current territory and exports observations as JSON and JSONL. Slash command: /akust",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Akurosia/AkusEnemySkillTracking",
-                "LastUpdate": 1778664802
+                "LastUpdate": 1778672549
             }
         ]
     },
@@ -1293,7 +1310,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778606671,
+                "LastUpdate": 1778679437,
                 "is_closed_source": true
             },
             {
@@ -1303,7 +1320,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778606671,
+                "LastUpdate": 1778679437,
                 "is_closed_source": true
             },
             {
@@ -1313,7 +1330,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778606671,
+                "LastUpdate": 1778679437,
                 "is_closed_source": true
             },
             {
@@ -1323,7 +1340,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778606671,
+                "LastUpdate": 1778679437,
                 "is_closed_source": true
             },
             {
@@ -1394,9 +1411,9 @@
                 "Name": "VFXEditorCN",
                 "InternalName": "VFXEditorCN",
                 "Description": "游戏内视觉效果、动画与音频编辑插件 | 图标来源: PAPACHIN | 本地化维护: AtmoOmen",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/VFXEditor-CN",
-                "LastUpdate": 1766485907
+                "LastUpdate": 1778679238
             },
             {
                 "Author": "veyn, AtmoOmen",
@@ -1405,7 +1422,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778671092
+                "LastUpdate": 1778679440
             }
         ]
     },
@@ -1482,7 +1499,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778607845
+                "LastUpdate": 1778691667
             },
             {
                 "Author": "veyn, croizat",
@@ -2126,7 +2143,7 @@
                 "Description": "Report RMT PF's to gms for funsies",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Catphinaud/PFReport",
-                "LastUpdate": 1777576283
+                "LastUpdate": 1778693877
             },
             {
                 "Author": "MidoriKami, Catphinaud",
@@ -2444,7 +2461,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778622270
+                "LastUpdate": 1778685752
             },
             {
                 "Author": "CY",
@@ -3197,7 +3214,7 @@
                 "Description": "Exports your currently equipped gear with all materia and the active class job. Output is compatible with xivgear.app's import format and the FFXIV Bis Meld Optimizer HTML app. Use /bisme to print to chat, save to file, or copy to clipboard.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/elrichs2/Bisme",
-                "LastUpdate": 1778640390
+                "LastUpdate": 1778673083
             }
         ]
     },
@@ -3509,7 +3526,7 @@
                 "Description": "AE3分离的hackbox",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/neko",
-                "LastUpdate": 1778608598,
+                "LastUpdate": 1778687419,
                 "is_closed_source": true
             },
             {
@@ -3769,7 +3786,7 @@
                 "Description": "纷争前线的战场态势感知、本地即时战术决策、LLM 大决策、战术图谱与战斗指挥界面。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FF14Yoshiko/Black-Manba-ai02",
-                "LastUpdate": 1778623075
+                "LastUpdate": 1778694055
             }
         ]
     },
@@ -3849,7 +3866,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778653274
+                "LastUpdate": 1778673803
             },
             {
                 "Author": "Churin",
@@ -4599,7 +4616,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1778670563
+                "LastUpdate": 1778688626
             },
             {
                 "Author": "Haselnussbomber",
@@ -4730,7 +4747,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778607845
+                "LastUpdate": 1778691667
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -4748,7 +4765,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778671092
+                "LastUpdate": 1778679440
             },
             {
                 "Author": "Team Wrath",
@@ -4757,7 +4774,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778413350
+                "LastUpdate": 1778673739
             },
             {
                 "Author": "daemitus, croizat",
@@ -4895,7 +4912,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778607845
+                "LastUpdate": 1778691667
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -4913,7 +4930,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778671092
+                "LastUpdate": 1778679440
             },
             {
                 "Author": "Team Wrath",
@@ -4922,7 +4939,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778413350
+                "LastUpdate": 1778673739
             },
             {
                 "Author": "daemitus, croizat",
@@ -6663,7 +6680,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1778637824
+                "LastUpdate": 1778678158
             }
         ]
     },
@@ -6828,7 +6845,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1778643200
+                "LastUpdate": 1778675963
             }
         ]
     },
@@ -7967,7 +7984,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778622270
+                "LastUpdate": 1778685752
             }
         ]
     },
@@ -8113,7 +8130,7 @@
                 "Description": "Sort and tag your Penumbra mods by clothing type, season, and occasion. Keep your glamour collection perfectly organized.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/moralfiberffxiv/PenumbraSort",
-                "LastUpdate": 1778653518
+                "LastUpdate": 1778689967
             }
         ]
     },
@@ -8694,7 +8711,7 @@
                 "Description": "",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NightmareXIV/Battlevest",
-                "LastUpdate": 1777527886
+                "LastUpdate": 1778678936
             },
             {
                 "Author": "NightmareXIV",
@@ -8883,7 +8900,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1778426222,
+                "LastUpdate": 1778672372,
                 "is_closed_source": true
             },
             {
@@ -8893,7 +8910,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1778426222,
+                "LastUpdate": 1778672372,
                 "is_closed_source": true
             },
             {
@@ -8903,7 +8920,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1778426222,
+                "LastUpdate": 1778672372,
                 "is_closed_source": true
             },
             {
@@ -9025,7 +9042,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1777556504
+                "LastUpdate": 1778672560
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -9034,7 +9051,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1777556504
+                "LastUpdate": 1778672560
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -9043,7 +9060,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1777556504
+                "LastUpdate": 1778672560
             },
             {
                 "Author": "NiGuangOwO",
@@ -9837,7 +9854,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778622270
+                "LastUpdate": 1778685752
             },
             {
                 "Author": "Caraxi",
@@ -10800,7 +10817,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778413350
+                "LastUpdate": 1778673739
             },
             {
                 "Author": "daemitus, kawaii",
@@ -11305,7 +11322,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778622270
+                "LastUpdate": 1778685752
             }
         ]
     },
@@ -11322,7 +11339,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778622270
+                "LastUpdate": 1778685752
             }
         ]
     },
@@ -11390,7 +11407,7 @@
                 "Name": "Echokraut",
                 "InternalName": "Echokraut",
                 "Description": "A TTS Plugin that breaks the silence! For self hosted AllTalk instance. /ek",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
                 "LastUpdate": 1778364030
             },
@@ -11497,7 +11514,7 @@
                 "Description": "A lightweight raffle ticket manager for FFXIV venues.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/reyalexffxiv/VenueRaffle",
-                "LastUpdate": 1778668108
+                "LastUpdate": 1778679810
             }
         ]
     },
@@ -11712,7 +11729,7 @@
                 "Description": "A Customize+ companion plugin for applying saved profiles, managing referenced templates, and safely releasing active changes without rewriting Customize+ data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rubyblaire/BoneSmith",
-                "LastUpdate": 1778662046
+                "LastUpdate": 1778691645
             }
         ]
     },
@@ -11884,7 +11901,7 @@
                 "Description": "20250316-请支持逆光喵，谢谢喵-画得更全喵",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
-                "LastUpdate": 1778375172
+                "LastUpdate": 1778686388
             }
         ]
     },
@@ -12114,7 +12131,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778656582
+                "LastUpdate": 1778680814
             }
         ]
     },
@@ -12250,7 +12267,7 @@
                 "Description": "Adds a private list for contacts and places. Right-click Add to privacy, profile images, notes, tells, party invites and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/seventity7/Privacy",
-                "LastUpdate": 1778646784
+                "LastUpdate": 1778693164
             }
         ]
     },
@@ -12576,7 +12593,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778587649
+                "LastUpdate": 1778687765
             },
             {
                 "Author": "XSZYYS",
@@ -12585,7 +12602,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778587649,
+                "LastUpdate": 1778687765,
                 "is_closed_source": true
             }
         ]
@@ -13560,7 +13577,7 @@
                 "Description": "用卫月实现自动狩猎。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ToxicStar8/DalamudPlugins",
-                "LastUpdate": 1778667282
+                "LastUpdate": 1778690255
             },
             {
                 "Author": "ToxicStar",
@@ -13629,7 +13646,7 @@
                 "Description": "Remove the need to target people for healing, instead assign actions to mouse buttons and use them by clicking player names.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tulla4U/XIV_ClickCast",
-                "LastUpdate": 1778627283
+                "LastUpdate": 1778680560
             }
         ]
     },
@@ -13947,7 +13964,7 @@
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1778184219
+                "LastUpdate": 1778687944
             }
         ]
     },
@@ -14800,7 +14817,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778622270
+                "LastUpdate": 1778685752
             }
         ]
     },
@@ -15352,7 +15369,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1778671214
+                "LastUpdate": 1778679804
             }
         ]
     },
