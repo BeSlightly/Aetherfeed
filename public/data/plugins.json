@@ -91,7 +91,7 @@
                 "Description": "A fully-featured casino dealer plugin for FFXIV including Blackjack, Roulette, Baccrat, Craps, Texas Hold'em, and Ultima (an Uno clone) Commands: /casino to open the GUI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/a325245/ChatCasino",
-                "LastUpdate": 1778611661
+                "LastUpdate": 1778636970
             }
         ]
     },
@@ -324,7 +324,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1778094630
+                "LastUpdate": 1778621891
             }
         ]
     },
@@ -341,7 +341,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1778094630
+                "LastUpdate": 1778621891
             }
         ]
     },
@@ -858,7 +858,7 @@
                 "Description": "Spawns fake party members and bosses client-side so you can practice ultimate raid mechanics without a full party. Currently implements The Omega Protocol (Ultimate) P5 Delta.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anomek/UltiSim",
-                "LastUpdate": 1778230810
+                "LastUpdate": 1778626359
             }
         ]
     },
@@ -2020,7 +2020,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1777856042
+                "LastUpdate": 1778637357
             },
             {
                 "Author": "Caraxi",
@@ -2250,6 +2250,23 @@
         ]
     },
     {
+        "repo_developer_name": "cleo-ai-ops",
+        "repo_url": "https://raw.githubusercontent.com/cleo-ai-ops/Craftimizer/main/repo.json",
+        "repo_source_url": "https://github.com/cleo-ai-ops/Craftimizer",
+        "repo_name": "Craftimizer",
+        "plugins": [
+            {
+                "Author": "Asriel",
+                "Name": "Craftimizer Revived",
+                "InternalName": "CraftimizerRevived",
+                "Description": "Allows you to generate macros and simulate all sorts of crafts without having to open another app. Open your crafting log to get started!",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/cleo-ai-ops/Craftimizer",
+                "LastUpdate": 1778627159
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/CondeSaheki/MeterWay/raw/main/repo.json",
         "repo_source_url": "https://github.com/CondeSaheki/MeterWay",
         "repo_name": "MeterWay",
@@ -2409,7 +2426,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1778094630
+                "LastUpdate": 1778621891
             },
             {
                 "Author": "Ottermandias",
@@ -2427,7 +2444,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778282409
+                "LastUpdate": 1778622270
             },
             {
                 "Author": "CY",
@@ -2618,7 +2635,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778617904
+                "LastUpdate": 1778634239
             },
             {
                 "Author": "Critical_Impact",
@@ -3180,7 +3197,7 @@
                 "Description": "Exports your currently equipped gear with all materia and the active class job. Output is compatible with xivgear.app's import format and the FFXIV Bis Meld Optimizer HTML app. Use /bisme to print to chat, save to file, or copy to clipboard.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/elrichs2/Bisme",
-                "LastUpdate": 1778252379
+                "LastUpdate": 1778640390
             }
         ]
     },
@@ -3752,7 +3769,7 @@
                 "Description": "纷争前线的战场态势感知、本地即时战术决策、LLM 大决策、战术图谱与战斗指挥界面。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FF14Yoshiko/Black-Manba-ai02",
-                "LastUpdate": 1778541470
+                "LastUpdate": 1778623075
             }
         ]
     },
@@ -3778,7 +3795,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778617904
+                "LastUpdate": 1778634239
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3796,7 +3813,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778608541
+                "LastUpdate": 1778625140
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4573,7 +4590,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1778611670
+                "LastUpdate": 1778633207
             },
             {
                 "Author": "Haselnussbomber",
@@ -4582,7 +4599,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1778522227
+                "LastUpdate": 1778639893
             },
             {
                 "Author": "Haselnussbomber",
@@ -5546,7 +5563,7 @@
                 "Description": "Personal fork of Dagobert, the automatic market board undercut plugin. Adds bait listing protection so a 1-unit decoy at 5 gil can't drag your retainer prices to the floor while real stacks sit at 1.2k. If you don't need that, install upstream Dagobert instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-dagobert",
-                "LastUpdate": 1778603237
+                "LastUpdate": 1778635898
             },
             {
                 "Author": "jkleinne",
@@ -5564,7 +5581,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778616623
+                "LastUpdate": 1778638944
             }
         ]
     },
@@ -6646,7 +6663,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1778618113
+                "LastUpdate": 1778637824
             }
         ]
     },
@@ -7508,7 +7525,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778542356
+                "LastUpdate": 1778629823
             }
         ]
     },
@@ -7624,7 +7641,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778542356
+                "LastUpdate": 1778629823
             },
             {
                 "Author": "DhogGPT",
@@ -7950,7 +7967,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778282409
+                "LastUpdate": 1778622270
             }
         ]
     },
@@ -8156,7 +8173,7 @@
                 "Description": "Kaleidoscope is a Dalamud plugin for Final Fantasy XIV that provides an overlay for tracking game information across multiple characters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1778528475
+                "LastUpdate": 1778626945
             }
         ]
     },
@@ -9749,7 +9766,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1778094630
+                "LastUpdate": 1778621891
             },
             {
                 "Author": "NightmareXIV, AsunaTsuki",
@@ -9803,7 +9820,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778282409
+                "LastUpdate": 1778622270
             },
             {
                 "Author": "Caraxi",
@@ -10115,7 +10132,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1778421830
+                "LastUpdate": 1778637042
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -11125,7 +11142,7 @@
                 "Description": "Adds a window with an async-searchable list of all mobs and their known locations, using community data. Use /bbuddy to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rail2025/BeastieBuddy",
-                "LastUpdate": 1777509614
+                "LastUpdate": 1778633154
             }
         ]
     },
@@ -11271,7 +11288,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778282409
+                "LastUpdate": 1778622270
             }
         ]
     },
@@ -11288,7 +11305,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778282409
+                "LastUpdate": 1778622270
             }
         ]
     },
@@ -11481,7 +11498,7 @@
                 "Description": "An in-game voice chat plugin with character proximity detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-ProximityVoiceChat",
-                "LastUpdate": 1778540276
+                "LastUpdate": 1778628955
             },
             {
                 "Author": "Ricimon",
@@ -11490,7 +11507,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1778409179
+                "LastUpdate": 1778637163
             },
             {
                 "Author": "Ricimon",
@@ -11499,7 +11516,7 @@
                 "Description": "Send other players ground pings and UI information.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-SmartPings",
-                "LastUpdate": 1777568469
+                "LastUpdate": 1778628934
             }
         ]
     },
@@ -11533,7 +11550,7 @@
                 "Description": "A plugin that allows you to upload ACT combat logs to FFLogs without leaving the game. Supports both live logging and manual log uploads.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Robert5204/FFLogsUploader",
-                "LastUpdate": 1777711283
+                "LastUpdate": 1778634926
             }
         ]
     },
@@ -12171,23 +12188,6 @@
     },
     {
         "repo_developer_name": "seventity7",
-        "repo_url": "https://raw.githubusercontent.com/seventity7/EZSheets/main/repo.json",
-        "repo_source_url": "https://github.com/seventity7/EZSheets",
-        "repo_name": "EZSheets",
-        "plugins": [
-            {
-                "Author": "Bryer",
-                "Name": "EZSheets",
-                "InternalName": "EZSheets",
-                "Description": "Collaborative spreadsheet. Create sheets, share a code and sync in real-time with other users.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/seventity7/EZSheets",
-                "LastUpdate": 1775864094
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "seventity7",
         "repo_url": "https://raw.githubusercontent.com/seventity7/GambaBank/main/repo.json",
         "repo_source_url": "https://github.com/seventity7/GambaBank",
         "repo_name": "GambaBank",
@@ -12216,7 +12216,7 @@
                 "Description": "Adds a private list for contacts and places. Right-click Add to privacy, profile images, notes, tells, party invites and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/seventity7/Privacy",
-                "LastUpdate": 1778616433
+                "LastUpdate": 1778636457
             }
         ]
     },
@@ -13081,7 +13081,7 @@
                 "Description": "Track Allied Society reputation, rank progress, daily quest readiness, and achievement milestones in one planner-focused Dalamud window. Optional Questionable integration can help start available society dailies.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Talbuki/Auto-Societal",
-                "LastUpdate": 1778615233
+                "LastUpdate": 1778626338
             }
         ]
     },
@@ -13595,7 +13595,7 @@
                 "Description": "Remove the need to target people for healing, instead assign actions to mouse buttons and use them by clicking player names.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tulla4U/XIV_ClickCast",
-                "LastUpdate": 1778605707
+                "LastUpdate": 1778627283
             }
         ]
     },
@@ -13723,7 +13723,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778539433
+                "LastUpdate": 1778641064
             }
         ]
     },
@@ -13756,7 +13756,7 @@
                 "InternalName": "VenueScope",
                 "Description": "Browse FFXIV community events from Partake.gg and FFXIV Venue directly in-game. Filter by data center, time, and tags.\n\n/venuescope or /vs — Open VenueScope",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1778448020
+                "LastUpdate": 1778639067
             }
         ]
     },
@@ -14150,6 +14150,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/MacroVault",
                 "LastUpdate": 1777676199
+            },
+            {
+                "Author": "VimaFFXIV",
+                "Name": "SharkChat",
+                "InternalName": "SharkChat",
+                "Description": "SharkChat intercepts your chat before it's sent and swaps words or phrases for whatever you want.\n\nSet up rules like Thanks → Thankies, and they'll apply automatically every time you chat — across any channel.\n\nFeatures:\n• Whole-word matching (so \"tank\" won't mangle \"thanks\")\n• Case-insensitive by default\n• Per-rule enable/disable\n• Live preview so you can test rules before using them\n\nCommands:\n/shark — toggle on/off\n/shark config — open settings",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/VimaFFXIV/SharkChat",
+                "LastUpdate": 1778639371
             }
         ]
     },
@@ -14167,6 +14176,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/MacroVault",
                 "LastUpdate": 1777676199
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "VimaFFXIV",
+        "repo_url": "https://raw.githubusercontent.com/VimaFFXIV/SharkChat/master/repo.json",
+        "repo_source_url": "https://github.com/VimaFFXIV/SharkChat",
+        "repo_name": "SharkChat",
+        "plugins": [
+            {
+                "Author": "VimaFFXIV",
+                "Name": "SharkChat",
+                "InternalName": "SharkChat",
+                "Description": "SharkChat intercepts your chat before it's sent and swaps words or phrases for whatever you want.\n\nSet up rules like Thanks → Thankies, and they'll apply automatically every time you chat — across any channel.\n\nFeatures:\n• Whole-word matching (so \"tank\" won't mangle \"thanks\")\n• Case-insensitive by default\n• Per-rule enable/disable\n• Live preview so you can test rules before using them\n\nCommands:\n/shark — toggle on/off\n/shark config — open settings",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/VimaFFXIV/SharkChat",
+                "LastUpdate": 1778639371
             }
         ]
     },
@@ -14283,7 +14309,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778608541
+                "LastUpdate": 1778625140
             },
             {
                 "Author": "Ottermandias",
@@ -14655,7 +14681,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778545427
+                "LastUpdate": 1778631920
             }
         ]
     },
@@ -14689,7 +14715,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778545427
+                "LastUpdate": 1778631920
             }
         ]
     },
@@ -14740,7 +14766,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778282409
+                "LastUpdate": 1778622270
             }
         ]
     },
@@ -15308,7 +15334,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1778421830
+                "LastUpdate": 1778637042
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
