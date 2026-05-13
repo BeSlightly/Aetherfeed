@@ -522,7 +522,24 @@
                 "Description": "Scans inventory, armoury chest, saddlebag, retainers, glamour dresser, and armoire to show item set collection progress with job filters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Akurosia/AkuItemSets",
-                "LastUpdate": 1778534704
+                "LastUpdate": 1778664853
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Akurosia",
+        "repo_url": "https://raw.githubusercontent.com/Akurosia/AkusEnemySkillTracking/main/repo.json",
+        "repo_source_url": "https://github.com/Akurosia/AkusEnemySkillTracking",
+        "repo_name": "AkusEnemySkillTracking",
+        "plugins": [
+            {
+                "Author": "Akurosia",
+                "Name": "AkusEnemySkillTracking",
+                "InternalName": "AkusEnemySkillTracking",
+                "Description": "Tracks actions used by battle NPCs/enemies in the current territory and exports observations as JSON and JSONL. Slash command: /akust",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Akurosia/AkusEnemySkillTracking",
+                "LastUpdate": 1778664802
             }
         ]
     },
@@ -608,23 +625,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/amarinne/Auto-Marketbuddy",
                 "LastUpdate": 1768415976
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "AmberFey",
-        "repo_url": "https://raw.githubusercontent.com/AmberFey/Urban888/master/repo/pluginmaster.json",
-        "repo_source_url": "https://github.com/AmberFey/Urban888",
-        "repo_name": "Urban888",
-        "plugins": [
-            {
-                "Author": "AmberFey",
-                "Name": "Urban 888",
-                "InternalName": "Urban888",
-                "Description": "Tracks paid /random rolls, remaining attempts, incoming sales, total pot, and detects when the target player rolls 888.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/AmberFey/Urban888",
-                "LastUpdate": 1778549200
             }
         ]
     },
@@ -1405,7 +1405,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778606692
+                "LastUpdate": 1778671092
             }
         ]
     },
@@ -3849,7 +3849,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778548294
+                "LastUpdate": 1778653274
             },
             {
                 "Author": "Churin",
@@ -4599,7 +4599,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1778639893
+                "LastUpdate": 1778670563
             },
             {
                 "Author": "Haselnussbomber",
@@ -4748,7 +4748,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778606692
+                "LastUpdate": 1778671092
             },
             {
                 "Author": "Team Wrath",
@@ -4913,7 +4913,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778606692
+                "LastUpdate": 1778671092
             },
             {
                 "Author": "Team Wrath",
@@ -5076,7 +5076,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1778367397
+                "LastUpdate": 1778670452
             }
         ]
     },
@@ -5563,7 +5563,7 @@
                 "Description": "Personal fork of Dagobert, the automatic market board undercut plugin. Adds bait listing protection so a 1-unit decoy at 5 gil can't drag your retainer prices to the floor while real stacks sit at 1.2k. If you don't need that, install upstream Dagobert instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-dagobert",
-                "LastUpdate": 1778646307
+                "LastUpdate": 1778651580
             },
             {
                 "Author": "jkleinne",
@@ -5572,7 +5572,7 @@
                 "Description": "Personal fork of MidoriKami's EzWondrousTails, ported to Dalamud API 15 after the upstream repository was archived. Injects row probabilities and shuffle averages into the Wondrous Tails journal, and adds a standalone plugin window so the same information is reachable when the journal isn't open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-EzWondrousTails",
-                "LastUpdate": 1778645633
+                "LastUpdate": 1778666820
             },
             {
                 "Author": "jkleinne",
@@ -5581,7 +5581,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778648112
+                "LastUpdate": 1778661893
             }
         ]
     },
@@ -8097,6 +8097,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Moon-Magic-Z/Moon-Magic",
                 "LastUpdate": 1759558146
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "moralfiberffxiv",
+        "repo_url": "https://raw.githubusercontent.com/moralfiberffxiv/PenumbraSort/main/repo.json",
+        "repo_source_url": "https://github.com/moralfiberffxiv/PenumbraSort",
+        "repo_name": "PenumbraSort",
+        "plugins": [
+            {
+                "Author": "moralfiberffxiv",
+                "Name": "PenumbraSort",
+                "InternalName": "PenumbraSort",
+                "Description": "Sort and tag your Penumbra mods by clothing type, season, and occasion. Keep your glamour collection perfectly organized.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/moralfiberffxiv/PenumbraSort",
+                "LastUpdate": 1778653518
             }
         ]
     },
@@ -10676,7 +10693,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1778367397
+                "LastUpdate": 1778670452
             },
             {
                 "Author": "Det, Taurenkey",
@@ -11454,7 +11471,7 @@
                 "Description": "Map Party Features.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/wrath16/MapPartyAssist",
-                "LastUpdate": 1778565155
+                "LastUpdate": 1778659533
             },
             {
                 "Author": "daemitus, croizat",
@@ -11464,6 +11481,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
                 "LastUpdate": 1777592350
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "reyalexffxiv",
+        "repo_url": "https://raw.githubusercontent.com/reyalexffxiv/VenueRaffle/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/reyalexffxiv/VenueRaffle",
+        "repo_name": "VenueRaffle",
+        "plugins": [
+            {
+                "Author": "ReyAlex",
+                "Name": "Venue Raffle",
+                "InternalName": "VenueRaffle",
+                "Description": "A lightweight raffle ticket manager for FFXIV venues.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/reyalexffxiv/VenueRaffle",
+                "LastUpdate": 1778668108
             }
         ]
     },
@@ -11498,7 +11532,7 @@
                 "Description": "An in-game voice chat plugin with character proximity detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-ProximityVoiceChat",
-                "LastUpdate": 1778628955
+                "LastUpdate": 1778653857
             },
             {
                 "Author": "Ricimon",
@@ -11507,7 +11541,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1778642924
+                "LastUpdate": 1778653729
             },
             {
                 "Author": "Ricimon",
@@ -11516,7 +11550,7 @@
                 "Description": "Send other players ground pings and UI information.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-SmartPings",
-                "LastUpdate": 1778628934
+                "LastUpdate": 1778650115
             }
         ]
     },
@@ -11678,7 +11712,7 @@
                 "Description": "A Customize+ companion plugin for applying saved profiles, managing referenced templates, and safely releasing active changes without rewriting Customize+ data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rubyblaire/BoneSmith",
-                "LastUpdate": 1778566437
+                "LastUpdate": 1778662046
             }
         ]
     },
@@ -12080,7 +12114,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778605077
+                "LastUpdate": 1778656582
             }
         ]
     },
@@ -12362,7 +12396,7 @@
                 "Description": "Adds achievement tracking and milestone unlocks to FFLogsViewer.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/sharpordull/FFLogsViewer-Achievements",
-                "LastUpdate": 1778518558
+                "LastUpdate": 1778664523
             }
         ]
     },
@@ -13526,7 +13560,7 @@
                 "Description": "用卫月实现自动狩猎。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ToxicStar8/DalamudPlugins",
-                "LastUpdate": 1778488443
+                "LastUpdate": 1778667282
             },
             {
                 "Author": "ToxicStar",
@@ -14158,7 +14192,7 @@
                 "Description": "SharkChat intercepts your chat before it's sent and swaps words or phrases for whatever you want.\n\nSet up rules like Thanks → Thankies, and they'll apply automatically every time you chat — across any channel.\n\nFeatures:\n• Whole-word matching (so \"tank\" won't mangle \"thanks\")\n• Case-insensitive by default\n• Per-rule enable/disable\n• Live preview so you can test rules before using them\n\nCommands:\n/shark — toggle on/off\n/shark config — open settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/SharkChat",
-                "LastUpdate": 1778642713
+                "LastUpdate": 1778655038
             }
         ]
     },
@@ -14192,7 +14226,7 @@
                 "Description": "SharkChat intercepts your chat before it's sent and swaps words or phrases for whatever you want.\n\nSet up rules like Thanks → Thankies, and they'll apply automatically every time you chat — across any channel.\n\nFeatures:\n• Whole-word matching (so \"tank\" won't mangle \"thanks\")\n• Case-insensitive by default\n• Per-rule enable/disable\n• Live preview so you can test rules before using them\n\nCommands:\n/shark — toggle on/off\n/shark config — open settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/SharkChat",
-                "LastUpdate": 1778642713
+                "LastUpdate": 1778655038
             }
         ]
     },
@@ -15083,6 +15117,50 @@
         ]
     },
     {
+        "repo_developer_name": "YouShux",
+        "repo_url": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json",
+        "repo_source_url": "https://github.com/YouShux/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "PunishedPineapple, YouShu",
+                "Name": "Distance (汉化)",
+                "InternalName": "Distance",
+                "Description": "在游戏内显示到目标/单位的距离，并可显示支持 Boss 的仇恨范围，支持姓名板与多种自定义显示",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/YouShux/Distance",
+                "LastUpdate": 1777439664
+            },
+            {
+                "Author": "Aireil, Nuko, YouShu",
+                "Name": "FF Logs Viewer (汉化)",
+                "InternalName": "FFLogsViewer",
+                "Description": "在游戏内查看 FF Logs 排名百分比，支持右键搜索",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/YouShux/FFLogsViewer",
+                "LastUpdate": 1777441043
+            },
+            {
+                "Author": "YouShu",
+                "Name": "Macro Redirection",
+                "InternalName": "MacroRedirection",
+                "Description": "重定向所有职业的施法目标，避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/YouShux/Macro-Redirection",
+                "LastUpdate": 20260509
+            },
+            {
+                "Author": "YouShu",
+                "Name": "Omni Toolbox",
+                "InternalName": "OmniToolbox",
+                "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/YouShux/OmniToolbox",
+                "LastUpdate": 20260513
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/yschuurmans/MyDalamudPlugins/raw/master/pluginmaster.json",
         "repo_source_url": "https://github.com/yschuurmans/MyDalamudPlugins",
         "repo_name": "MyDalamudPlugins",
@@ -15274,7 +15352,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1778588717
+                "LastUpdate": 1778671214
             }
         ]
     },
