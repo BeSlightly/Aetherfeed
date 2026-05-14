@@ -2612,12 +2612,12 @@
         "plugins": [
             {
                 "Author": "dajoey",
-                "Name": "Armoire Auto-Fill (Testing)",
-                "InternalName": "ArmoireAutoFillTest",
-                "Description": "TESTING build. Lists every armoire-eligible item in the game and shows whether each is in your inventory, in your armoire, or missing. Open the armoire UI at an inn once to populate armoire state. Will be replaced by the non-testing build once verified.",
+                "Name": "Armoire Auto-Fill",
+                "InternalName": "ArmoireAutoFill",
+                "Description": "Lists every armoire-eligible dungeon drop in the game and shows whether each is in your inventory, in your armoire, or still missing. Sort by level, hide completed dungeons, toggle to show owned items too. Open the armoire UI at an inn once per session to populate the in-armoire state; in-inventory and equipped state is detected automatically. Use /armoire.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778716891
+                "LastUpdate": 1778723192
             },
             {
                 "Author": "dajoey",
@@ -2626,7 +2626,7 @@
                 "Description": "Automatically uses the highest-tier HP potion in your inventory at a configurable HP threshold. In deep dungeons, also auto-uses the dungeon's regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at its own threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778716891
+                "LastUpdate": 1778723192
             },
             {
                 "Author": "dajoey",
@@ -2635,7 +2635,7 @@
                 "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778716891
+                "LastUpdate": 1778723192
             },
             {
                 "Author": "dajoey",
@@ -2644,7 +2644,7 @@
                 "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778716891
+                "LastUpdate": 1778723192
             }
         ]
     },
@@ -2807,7 +2807,7 @@
                 "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/decorwdyun/Questionable",
-                "LastUpdate": 1777802727
+                "LastUpdate": 1778731105
             },
             {
                 "Author": "veyn, decorwdyun(汉化)",
@@ -3875,7 +3875,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778673803
+                "LastUpdate": 1778731082
             },
             {
                 "Author": "Churin",
@@ -5607,7 +5607,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778661893
+                "LastUpdate": 1778738754
             }
         ]
     },
@@ -5846,7 +5846,7 @@
                 "Description": "Character Select Simplified",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Juiposa/Simple-Character-Select",
-                "LastUpdate": 1778357275
+                "LastUpdate": 1778731737
             }
         ]
     },
@@ -7216,6 +7216,86 @@
         ]
     },
     {
+        "repo_developer_name": "Lzsony",
+        "repo_url": "https://raw.githubusercontent.com/Lzsony/dalamud-plugins-tw/main/repo.json",
+        "repo_source_url": "https://github.com/Lzsony/dalamud-plugins-tw",
+        "repo_name": "dalamud-plugins-tw",
+        "plugins": [
+            {
+                "Author": "Det, Taurenkey",
+                "Name": "AutoHook",
+                "InternalName": "AutoHook",
+                "Description": "它能幫你自動釣魚, 你信嗎?",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+                "LastUpdate": 1778282088
+            },
+            {
+                "Author": "kawaii, NightmareXIV",
+                "Name": "AutoRetainer",
+                "InternalName": "AutoRetainer",
+                "Description": "躺在床上，就能指揮你的雇員/潛水艇。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+                "LastUpdate": 1777758485
+            },
+            {
+                "Author": "electr0sheep",
+                "Name": "Item Vendor Location",
+                "InternalName": "itemVendorLocation",
+                "Description": "尋找可從供應商購買的商品的供應商位置",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/electr0sheep/ItemVendorLocation",
+                "LastUpdate": 1778643840
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Lifestream",
+                "InternalName": "Lifestream",
+                "Description": "只需一條命令，即可存取其他世界、資料中心或房屋。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+                "LastUpdate": 1778259575
+            },
+            {
+                "Author": "karashiiro (modified by kalispp)",
+                "Name": "PingPlugin",
+                "InternalName": "PingPlugin",
+                "Description": "延遲顯示",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/karashiiro/PingPlugin",
+                "LastUpdate": 1778728193
+            },
+            {
+                "Author": "Kouzukii",
+                "Name": "Price Insight",
+                "InternalName": "PriceInsight",
+                "Description": "每當您將滑鼠懸停在一個物品上時，它將在底部向您顯示NQ/HQ市場板價格以及最近的購買记录。\n價格源自 Universalis 並緩存90分鐘。\n按住 Alt 可刷新價格。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
+                "LastUpdate": 1777720007
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "Rotation Solver Reborn",
+                "InternalName": "RotationSolver",
+                "Description": "逐幀分析戰鬥情況，並找出下一幀最適合使用的技能。\n\n這意味著幾乎所有戰鬥中可用的資訊都在一幀中，包括隊伍中所有玩家的狀態、任何敵對目標的狀態、技能冷卻時間、角色的MP/HP、角色的位置、敵對目標的施法狀態、連擊、戰鬥時長、玩家等級等。\n\n然後，它會在快捷欄上高亮顯示最佳行動，或説明你點擊它。\n\n它是為“日常戰鬥”設計的，不適用於零式或者絕境戰。請謹慎使用\"",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
+                "LastUpdate": 1778731082
+            },
+            {
+                "Author": "Taurenkey, Kage, NightmareXIV",
+                "Name": "Saucy",
+                "InternalName": "Saucy",
+                "Description": "自動金蝶小遊戲",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/PunishXIV/Saucy",
+                "LastUpdate": 1777639584
+            }
+        ]
+    },
+    {
         "repo_developer_name": "MaJoRX0",
         "repo_url": "https://raw.githubusercontent.com/MaJoRX0/MyDalamudPlugins/main/plugins.json",
         "repo_source_url": "https://github.com/MaJoRX0/MyDalamudPlugins",
@@ -7551,7 +7631,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778717064
+                "LastUpdate": 1778717174
             }
         ]
     },
@@ -7667,7 +7747,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778717064
+                "LastUpdate": 1778717174
             },
             {
                 "Author": "DhogGPT",
@@ -8123,23 +8203,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Moon-Magic-Z/Moon-Magic",
                 "LastUpdate": 1759558146
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "moralfiberffxiv",
-        "repo_url": "https://raw.githubusercontent.com/moralfiberffxiv/PenumbraSort/main/repo.json",
-        "repo_source_url": "https://github.com/moralfiberffxiv/PenumbraSort",
-        "repo_name": "PenumbraSort",
-        "plugins": [
-            {
-                "Author": "moralfiberffxiv",
-                "Name": "PenumbraSort",
-                "InternalName": "PenumbraSort",
-                "Description": "Sort and tag your Penumbra mods by clothing type, season, and occasion. Keep your glamour collection perfectly organized.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/moralfiberffxiv/PenumbraSort",
-                "LastUpdate": 1778689967
             }
         ]
     },
@@ -11567,7 +11630,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1778716207
+                "LastUpdate": 1778724503
             },
             {
                 "Author": "Ricimon",
@@ -12140,7 +12203,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778680814
+                "LastUpdate": 1778734970
             }
         ]
     },
@@ -12789,6 +12852,23 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/solona-m/plugins/main/repo.json",
+        "repo_source_url": "https://github.com/solona-m/plugins",
+        "repo_developer_name": "solona-m",
+        "repo_name": "plugins",
+        "plugins": [
+            {
+                "Author": "Solona",
+                "Name": "Proteus",
+                "InternalName": "Proteus",
+                "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/solona-m/proteus",
+                "LastUpdate": 1778719220
+            }
+        ]
+    },
+    {
         "repo_developer_name": "SomethingAstraSomething",
         "repo_url": "https://raw.githubusercontent.com/SomethingAstraSomething/PinkChocoboTrivial/master/repo.json",
         "repo_source_url": "https://github.com/SomethingAstraSomething/PinkChocoboTrivial",
@@ -12836,7 +12916,7 @@
                 "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
-                "LastUpdate": 1777617078
+                "LastUpdate": 1778724743
             }
         ]
     },
@@ -14741,7 +14821,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778631920
+                "LastUpdate": 1778718395
             }
         ]
     },
@@ -14775,7 +14855,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778631920
+                "LastUpdate": 1778718395
             }
         ]
     },
