@@ -185,7 +185,7 @@
                 "Description": "Removes the annoying 400 housing item display limit.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Abyeon/HousingCullFix",
-                "LastUpdate": 1778207727
+                "LastUpdate": 1778712514
             }
         ]
     },
@@ -539,7 +539,7 @@
                 "Description": "Scans inventory, armoury chest, saddlebag, retainers, glamour dresser, and armoire to show item set collection progress with job filters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Akurosia/AkuItemSets",
-                "LastUpdate": 1778664853
+                "LastUpdate": 1778698840
             }
         ]
     },
@@ -556,7 +556,7 @@
                 "Description": "Tracks actions used by battle NPCs/enemies in the current territory and exports observations as JSON and JSONL. Slash command: /akust",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Akurosia/AkusEnemySkillTracking",
-                "LastUpdate": 1778672549
+                "LastUpdate": 1778701949
             }
         ]
     },
@@ -1499,7 +1499,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778691667
+                "LastUpdate": 1778698007
             },
             {
                 "Author": "veyn, croizat",
@@ -2612,12 +2612,21 @@
         "plugins": [
             {
                 "Author": "dajoey",
+                "Name": "Armoire Auto-Fill (Testing)",
+                "InternalName": "ArmoireAutoFillTest",
+                "Description": "TESTING build. Lists every armoire-eligible item in the game and shows whether each is in your inventory, in your armoire, or missing. Open the armoire UI at an inn once to populate armoire state. Will be replaced by the non-testing build once verified.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dajoey/lalalazy",
+                "LastUpdate": 1778716891
+            },
+            {
+                "Author": "dajoey",
                 "Name": "AutoPotion",
                 "InternalName": "AutoPotion",
                 "Description": "Automatically uses the highest-tier HP potion in your inventory at a configurable HP threshold. In deep dungeons, also auto-uses the dungeon's regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at its own threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778305030
+                "LastUpdate": 1778716891
             },
             {
                 "Author": "dajoey",
@@ -2626,7 +2635,7 @@
                 "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778305030
+                "LastUpdate": 1778716891
             },
             {
                 "Author": "dajoey",
@@ -2635,7 +2644,7 @@
                 "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778305030
+                "LastUpdate": 1778716891
             }
         ]
     },
@@ -2728,7 +2737,7 @@
                 "Description": "Namazu Flippers connects to the Saddlebag Exchange API to find daily cross-server arbitrage opportunities. Get a route-optimized shopping list, travel between servers, buy low, sell high on your home world. One scan, one route, done in under 20 minutes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/DarrellTang/namazu-flippers",
-                "LastUpdate": 1778394808
+                "LastUpdate": 1778708050
             }
         ]
     },
@@ -3384,7 +3393,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1778616617
+                "LastUpdate": 1778713660
             }
         ]
     },
@@ -3401,7 +3410,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1778616617
+                "LastUpdate": 1778713660
             }
         ]
     },
@@ -3786,7 +3795,7 @@
                 "Description": "纷争前线的战场态势感知、本地即时战术决策、LLM 大决策、战术图谱与战斗指挥界面。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FF14Yoshiko/Black-Manba-ai02",
-                "LastUpdate": 1778694055
+                "LastUpdate": 1778701246
             }
         ]
     },
@@ -3830,7 +3839,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778625140
+                "LastUpdate": 1778714486
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4616,7 +4625,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1778688626
+                "LastUpdate": 1778713266
             },
             {
                 "Author": "Haselnussbomber",
@@ -4747,7 +4756,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778691667
+                "LastUpdate": 1778698007
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -4912,7 +4921,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778691667
+                "LastUpdate": 1778698007
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -6424,7 +6433,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
-                "LastUpdate": 1778612590
+                "LastUpdate": 1778700543
             }
         ]
     },
@@ -6450,7 +6459,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kk-triplesix-private/RSR-kk-special",
-                "LastUpdate": 1778612590
+                "LastUpdate": 1778700543
             }
         ]
     },
@@ -6680,7 +6689,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1778678158
+                "LastUpdate": 1778706333
             }
         ]
     },
@@ -6845,7 +6854,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1778675963
+                "LastUpdate": 1778709358
             }
         ]
     },
@@ -7542,7 +7551,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778629823
+                "LastUpdate": 1778717064
             }
         ]
     },
@@ -7658,7 +7667,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778629823
+                "LastUpdate": 1778717064
             },
             {
                 "Author": "DhogGPT",
@@ -8520,7 +8529,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1777715723
+                "LastUpdate": 1778709574
             }
         ]
     },
@@ -8605,7 +8614,7 @@
                 "Description": "Automates moving existing items to and from the FC Chest.\nEasily withdraw custom item lists or materials for workshop projects.\n\nNote: Temporarily disables YesAlready while depositing or withdrawing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1778201427
+                "LastUpdate": 1778698563
             }
         ]
     },
@@ -9333,7 +9342,7 @@
                 "Description": "Provides zone triggers, RNG triggers, job-swap triggers, login triggers, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NNekoPlugins/NNekoTriggers",
-                "LastUpdate": 1778610019
+                "LastUpdate": 1778697493
             }
         ]
     },
@@ -9468,9 +9477,9 @@
                 "Name": "Supermarket Sweep",
                 "InternalName": "SupermarketSweep",
                 "Description": "Makes shopping on the Marketboard easier by using Lifestream and vnavmesh to move you between servers automatically while helping you find the best prices.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NostraThomas99/SupermarketSweep",
-                "LastUpdate": 1766859847
+                "LastUpdate": 1778716340
             }
         ]
     },
@@ -11461,7 +11470,7 @@
                 "Description": "AutoDuty",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1778616617
+                "LastUpdate": 1778713660
             },
             {
                 "Author": "Infi, Anna",
@@ -11470,7 +11479,7 @@
                 "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Infiziert90/ChatTwo",
-                "LastUpdate": 1778615355
+                "LastUpdate": 1778698570
             },
             {
                 "Author": "Bluefissure",
@@ -11514,7 +11523,7 @@
                 "Description": "A lightweight raffle ticket manager for FFXIV venues.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/reyalexffxiv/VenueRaffle",
-                "LastUpdate": 1778679810
+                "LastUpdate": 1778703753
             }
         ]
     },
@@ -11549,7 +11558,7 @@
                 "Description": "An in-game voice chat plugin with character proximity detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-ProximityVoiceChat",
-                "LastUpdate": 1778653857
+                "LastUpdate": 1778716285
             },
             {
                 "Author": "Ricimon",
@@ -11558,7 +11567,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1778653729
+                "LastUpdate": 1778716207
             },
             {
                 "Author": "Ricimon",
@@ -12267,7 +12276,7 @@
                 "Description": "Adds a private list for contacts and places. Right-click Add to privacy, profile images, notes, tells, party invites and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/seventity7/Privacy",
-                "LastUpdate": 1778693164
+                "LastUpdate": 1778702235
             }
         ]
     },
@@ -14351,7 +14360,7 @@
                 "Description": "Instant Character Switching Made Simple\n\nCreate and save character profiles, then switch between them instantly. Applies Penumbra Collections, Glamourer Designs, Customize+ Profiles, Honorifics, Moodles, and Idles.Key Features: One-click character switching, multiple designs per character, advanced macro support, roleplay profiles, a character gallery, and immersive dialogue options. Perfect for roleplayers, gposers, and anyone who loves seamless character customization without manually switching between multiple plugins.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/wasdcxz/DalamudPlugins",
-                "LastUpdate": 1778576838
+                "LastUpdate": 1778698464
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -14360,7 +14369,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778625140
+                "LastUpdate": 1778714486
             },
             {
                 "Author": "Ottermandias",
@@ -14646,7 +14655,7 @@
                 "Description": "Parser of all databases.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xa-io/XA-Database",
-                "LastUpdate": 1778276279
+                "LastUpdate": 1778702900
             },
             {
                 "Author": "XA",
@@ -14664,7 +14673,7 @@
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1778537906
+                "LastUpdate": 1778715515
             }
         ]
     },
@@ -15438,7 +15447,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1778562234,
+                "LastUpdate": 1778711062,
                 "is_closed_source": true
             },
             {
