@@ -324,7 +324,7 @@
                 "Description": "Automatically switches graphics upscaling from DLSS to FSR and back when entering the game. Works around the bug where DLSS doesn't properly engage on initial load and requires a manual toggle.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/aethel-tail/GraphicsUpscalerToggle",
-                "LastUpdate": 1778693226
+                "LastUpdate": 1778761889
             }
         ]
     },
@@ -545,6 +545,59 @@
     },
     {
         "repo_developer_name": "Akurosia",
+        "repo_url": "https://raw.githubusercontent.com/Akurosia/AkusDalamudRepo/main/repo.json",
+        "repo_source_url": "https://github.com/Akurosia/AkusDalamudRepo",
+        "repo_name": "AkusDalamudRepo",
+        "plugins": [
+            {
+                "Author": "Akurosia",
+                "Name": "AkuItemSets",
+                "InternalName": "AkuItemSets",
+                "Description": "Scans inventory, armoury chest, saddlebag, retainers, glamour dresser, and armoire to show item set collection progress with job filters.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Akurosia/AkuItemSets",
+                "LastUpdate": 1778698840
+            },
+            {
+                "Author": "Akurosia",
+                "Name": "AkusEnemySkillTracking",
+                "InternalName": "AkusEnemySkillTracking",
+                "Description": "Tracks actions used by battle NPCs/enemies in the current territory and exports observations as JSON and JSONL. Slash command: /akust",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Akurosia/AkusEnemySkillTracking",
+                "LastUpdate": 1778760491
+            },
+            {
+                "Author": "goat, Maple, Akurosia",
+                "Name": "Fancy Loading Screens",
+                "InternalName": "Dalamud.LoadingImage",
+                "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Akurosia/Dalamud.LoadingImage",
+                "LastUpdate": 1778753059
+            },
+            {
+                "Author": "UnknownX, iRobsie, BeSlightly, Akurosia",
+                "Name": "DalamudRepoBrowser",
+                "InternalName": "DalamudRepoBrowser",
+                "Description": "An interface for browsing and managing third party repositories.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Akurosia/DalamudRepoBrowser",
+                "LastUpdate": 1778750407
+            },
+            {
+                "Author": "Akurosia, PunishedPineapple",
+                "Name": "HP Difference Gauge",
+                "InternalName": "HPDiff",
+                "Description": "Provides a visual representation of the HP difference between two enemies on your aggro list.  Open the plugin config window to see a preview of the gauge and to change options.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Akurosia/HPDiff",
+                "LastUpdate": 1778750982
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Akurosia",
         "repo_url": "https://raw.githubusercontent.com/Akurosia/AkusEnemySkillTracking/main/repo.json",
         "repo_source_url": "https://github.com/Akurosia/AkusEnemySkillTracking",
         "repo_name": "AkusEnemySkillTracking",
@@ -556,7 +609,7 @@
                 "Description": "Tracks actions used by battle NPCs/enemies in the current territory and exports observations as JSON and JSONL. Slash command: /akust",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Akurosia/AkusEnemySkillTracking",
-                "LastUpdate": 1778701949
+                "LastUpdate": 1778760491
             }
         ]
     },
@@ -1841,7 +1894,7 @@
                 "InternalName": "XIVVenueManagerSync",
                 "Description": "Automatically sync patron enter/leave events to your XIVVenueManager.",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
-                "LastUpdate": 1777531632
+                "LastUpdate": 1778760674
             }
         ]
     },
@@ -3839,7 +3892,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778714486
+                "LastUpdate": 1778746498
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3875,7 +3928,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778731082
+                "LastUpdate": 1778745532
             },
             {
                 "Author": "Churin",
@@ -5008,7 +5061,7 @@
                 "Description": "由 AlmondCookie 深度重构与独立维护的房屋装修辅助工具。支持 7 国语言无缝切换、一键导出 Teamcraft/CSV 购物清单、自动保存和加载房屋家具位置，以及导入/导出 MakePlace 程序的布局文件。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/hyirax/AlmondHousing",
-                "LastUpdate": 1778611935
+                "LastUpdate": 1778750943
             }
         ]
     },
@@ -5607,7 +5660,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778738754
+                "LastUpdate": 1778741505
             }
         ]
     },
@@ -6259,7 +6312,7 @@
                 "Description": "Create repeating macros that shout, teleport, or travel between worlds/data centers on a timer.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KeiJoi/ShoutRunner",
-                "LastUpdate": 1777724364
+                "LastUpdate": 1778758936
             }
         ]
     },
@@ -6510,7 +6563,7 @@
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
-                "LastUpdate": 1768751714
+                "LastUpdate": 1778755851
             }
         ]
     },
@@ -6543,7 +6596,7 @@
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1778406086
+                "LastUpdate": 1778756774
             }
         ]
     },
@@ -7240,6 +7293,15 @@
                 "LastUpdate": 1777758485
             },
             {
+                "Author": "Snowy, KangasZ",
+                "Name": "Eureka Helper",
+                "InternalName": "EurekaHelper",
+                "Description": "A tool to assist you on your Eureka adventures, now updated for Dawntrail! Type /eurekahelper to get started.\n\nFeatures include:\n- In-Game Tracker GUI\n- Instance Tracker\n- Elementals Tracker\n- Relic Helper\n- Alarms\n- Money NM weather timings\n- More to come",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/KangasZ/EurekaHelper",
+                "LastUpdate": 1777741604
+            },
+            {
                 "Author": "electr0sheep",
                 "Name": "Item Vendor Location",
                 "InternalName": "itemVendorLocation",
@@ -7282,7 +7344,7 @@
                 "Description": "逐幀分析戰鬥情況，並找出下一幀最適合使用的技能。\n\n這意味著幾乎所有戰鬥中可用的資訊都在一幀中，包括隊伍中所有玩家的狀態、任何敵對目標的狀態、技能冷卻時間、角色的MP/HP、角色的位置、敵對目標的施法狀態、連擊、戰鬥時長、玩家等級等。\n\n然後，它會在快捷欄上高亮顯示最佳行動，或説明你點擊它。\n\n它是為“日常戰鬥”設計的，不適用於零式或者絕境戰。請謹慎使用\"",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778731082
+                "LastUpdate": 1778745532
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -7631,7 +7693,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778717174
+                "LastUpdate": 1778761213
             }
         ]
     },
@@ -7747,7 +7809,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778717174
+                "LastUpdate": 1778761213
             },
             {
                 "Author": "DhogGPT",
@@ -11630,7 +11692,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1778724503
+                "LastUpdate": 1778756027
             },
             {
                 "Author": "Ricimon",
@@ -11801,7 +11863,7 @@
                 "Description": "A Customize+ companion plugin for applying saved profiles, managing referenced templates, and safely releasing active changes without rewriting Customize+ data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rubyblaire/BoneSmith",
-                "LastUpdate": 1778691645
+                "LastUpdate": 1778743270
             }
         ]
     },
@@ -12203,7 +12265,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778734970
+                "LastUpdate": 1778754112
             }
         ]
     },
@@ -12665,7 +12727,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778687765
+                "LastUpdate": 1778753896
             },
             {
                 "Author": "XSZYYS",
@@ -12674,7 +12736,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778687765,
+                "LastUpdate": 1778753896,
                 "is_closed_source": true
             }
         ]
@@ -13238,7 +13300,7 @@
                 "Description": "Displays total physical and magical mitigation from active party buffs on you and debuffs on your current target. Use /mit to toggle the overlay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/tancred423/MitDisplay",
-                "LastUpdate": 1777632393
+                "LastUpdate": 1778753844
             }
         ]
     },
@@ -13863,7 +13925,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778641128
+                "LastUpdate": 1778745653
             }
         ]
     },
@@ -14449,7 +14511,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778714486
+                "LastUpdate": 1778746498
             },
             {
                 "Author": "Ottermandias",
@@ -15458,7 +15520,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1778679804
+                "LastUpdate": 1778761498
             }
         ]
     },
