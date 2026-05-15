@@ -484,32 +484,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/AjisaiMirai/plugins/raw/main/repo.json",
-        "repo_source_url": "https://github.com/AjisaiMirai/plugins",
-        "repo_name": "plugins",
-        "repo_developer_name": "AjisaiMirai",
-        "plugins": [
-            {
-                "Author": "Nyssa",
-                "Name": "MiscPlugin",
-                "InternalName": "MiscPlugin",
-                "Description": "Just some stuff I wanted in plugin-form really.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/AjisaiMirai/MiscPlugin",
-                "LastUpdate": 1767871875
-            },
-            {
-                "Author": "Nyssa",
-                "Name": "Who Emoted At Me",
-                "InternalName": "WhoEmotedAtMe",
-                "Description": "Tracks who emoted at you and shows configurable on-screen notifications.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/AjisaiMirai/WhoEmotedAtMe",
-                "LastUpdate": 1767871875
-            }
-        ]
-    },
-    {
         "repo_url": "https://puni.sh/api/repository/akechi",
         "repo_source_url": "https://github.com/Akechi-kun/",
         "repo_developer_name": "Akechi-kun",
@@ -1049,7 +1023,7 @@
                 "Description": "Define filters by job, minimum/maximum equip level, and item level. Armoury Cleaner scans each gear slot and moves only items that match all active filters into your inventory so you can discard them.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778836991
+                "LastUpdate": 1778847333
             },
             {
                 "Author": "Aschy",
@@ -1058,7 +1032,16 @@
                 "Description": "Define a stack of sorting rules and BagAssistant will route items to the right bag every time. Filter by item category, rarity, level range, item level, class/job, HQ, tradeable, name match, vendor price, item ID and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778836991
+                "LastUpdate": 1778847333
+            },
+            {
+                "Author": "Aschy",
+                "Name": "Combat Statistics",
+                "InternalName": "CombatStatistics",
+                "Description": "Tracks DPS, HPS, overheal, pet contribution, and encounter summaries with a compact overlay and detailed breakdowns.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
+                "LastUpdate": 1778847333
             },
             {
                 "Author": "Aschy",
@@ -1067,7 +1050,7 @@
                 "Description": "QuestNav lists all your active quests and adds a Teleport button next to each one. Clicking it teleports you to the nearest unlocked aetheryte to the quest's location — no more hunting through the map.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778836991
+                "LastUpdate": 1778847333
             },
             {
                 "Author": "Aschy",
@@ -1076,7 +1059,7 @@
                 "Description": "Adds a cast-bar overlay that marks the slidecasting timeframe so you can start moving without interrupting the cast. Includes an optional audio cue when the safe window begins.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778836991
+                "LastUpdate": 1778847333
             },
             {
                 "Author": "Aschy",
@@ -1085,7 +1068,7 @@
                 "Description": "Analyzes market opportunities with Universalis data, watchlists, velocity filters, and manual undercut helpers. All actions are manual. Now includes real-time undercut notifications.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778836991
+                "LastUpdate": 1778847333
             }
         ]
     },
@@ -1797,32 +1780,6 @@
     },
     {
         "repo_developer_name": "BluntEXE",
-        "repo_url": "https://raw.githubusercontent.com/BluntEXE/VelvetRift/master/repo.json",
-        "repo_source_url": "https://github.com/BluntEXE/VelvetRift",
-        "repo_name": "VelvetRift",
-        "plugins": [
-            {
-                "Author": "Ehno",
-                "Name": "Eorzean Degeneracy",
-                "InternalName": "EorzeanDegeneracy",
-                "Description": "A Cards Against Humanity–style party game for FFXIV, built for degenerates of Eorzea. Play with friends, laugh at absurd prompts, and embrace the chaos. Major slash-commands: /deg start to start a game",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/BluntEXE/VelvetRift",
-                "LastUpdate": 1766095482
-            },
-            {
-                "Author": "Ehno",
-                "Name": "Moonshadow's Tarot Reader",
-                "InternalName": "MoonshadowTarotReader",
-                "Description": "A mystical tarot card reader for FFXIV roleplay. Draw single cards or three-card spreads with AI-powered interpretations in Eorzean, Chaos, or Maternal modes. Uses Ollama for local LLM generation. Use /tarot to open.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/BluntEXE/VelvetRift",
-                "LastUpdate": 1766095482
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "BluntEXE",
         "repo_url": "https://raw.githubusercontent.com/BluntEXE/XIVVenueManagerSync/master/repo.json",
         "repo_source_url": "https://github.com/BluntEXE/XIVVenueManagerSync",
         "repo_name": "XIVVenueManagerSync",
@@ -1833,7 +1790,7 @@
                 "InternalName": "XIVVenueManagerSync",
                 "Description": "Automatically sync patron enter/leave events to your XIVVenueManager.",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
-                "LastUpdate": 1778793559
+                "LastUpdate": 1778839583
             }
         ]
     },
@@ -1944,7 +1901,7 @@
                 "InternalName": "WrathIcon",
                 "Description": "Wrath Auto Toggle",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1777853093
+                "LastUpdate": 1778844086
             }
         ]
     },
@@ -3194,6 +3151,39 @@
         ]
     },
     {
+        "repo_developer_name": "elchupi",
+        "repo_url": "https://raw.githubusercontent.com/elchupi/Modern-XIV/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/elchupi/Modern-XIV",
+        "repo_name": "Modern-XIV",
+        "plugins": [
+            {
+                "Author": "elchupi",
+                "Name": "Modern XIV",
+                "InternalName": "noWickyXIV",
+                "Description": "All-in-one plugin: dynamic camera system, race/job animation swaps, Glamourer automation, custom teleport menu, compass overlay, HP vignette, MSQ teleport, chat bubbles, and more.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/elchupi/Modern-XIV",
+                "LastUpdate": 1778859507
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "elliethegator",
+        "repo_url": "https://raw.githubusercontent.com/elliethegator/GilTradeTracker/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/elliethegator/GilTradeTracker",
+        "repo_name": "GilTradeTracker",
+        "plugins": [
+            {
+                "Author": "elliethegator",
+                "Name": "GilTradeTracker",
+                "InternalName": "GilTradeTracker",
+                "Description": "Tracks gil trades and statistics.",
+                "RepoUrl": "https://github.com/elliethegator/GilTradeTracker",
+                "LastUpdate": 1778858538
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ElliotZ",
         "repo_url": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/pluginmaster.json",
         "repo_source_url": "https://github.com/ElliotZ/DalamudPlugins",
@@ -3910,7 +3900,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778799979
+                "LastUpdate": 1778845381
             },
             {
                 "Author": "Churin",
@@ -4660,7 +4650,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1778713266
+                "LastUpdate": 1778854979
             },
             {
                 "Author": "Haselnussbomber",
@@ -5642,7 +5632,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778833641
+                "LastUpdate": 1778858319
             }
         ]
     },
@@ -5848,6 +5838,22 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Jrogo7/VenueManager",
                 "LastUpdate": 1777860303
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "jshade2710",
+        "repo_url": "https://raw.githubusercontent.com/jshade2710/faloop-messenger/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/jshade2710/faloop-messenger",
+        "repo_name": "faloop-messenger",
+        "plugins": [
+            {
+                "Author": "Iam Batman",
+                "Name": "Faloop Messenger",
+                "InternalName": "FaloopMessenger",
+                "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
+                "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
+                "LastUpdate": 1778857913
             }
         ]
     },
@@ -6655,7 +6661,7 @@
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1778821220
+                "LastUpdate": 1778841051
             }
         ]
     },
@@ -6707,6 +6713,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/kznr02/Ices-Cosmic-Exploration",
                 "LastUpdate": 1758031904
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Laboon2501",
+        "repo_url": "https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/repo.json",
+        "repo_source_url": "https://github.com/Laboon2501/GposeCameraSaver",
+        "repo_name": "GposeCameraSaver",
+        "plugins": [
+            {
+                "Author": "Eunox",
+                "Name": "Gpose Camera Saver",
+                "InternalName": "GposeCameraSaver",
+                "Description": "Save, load, and manage GPose camera presets.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Laboon2501/GposeCameraSaver",
+                "LastUpdate": 1778852072
             }
         ]
     },
@@ -7352,7 +7375,7 @@
                 "Description": "逐幀分析戰鬥情況，並找出下一幀最適合使用的技能。\n\n這意味著幾乎所有戰鬥中可用的資訊都在一幀中，包括隊伍中所有玩家的狀態、任何敵對目標的狀態、技能冷卻時間、角色的MP/HP、角色的位置、敵對目標的施法狀態、連擊、戰鬥時長、玩家等級等。\n\n然後，它會在快捷欄上高亮顯示最佳行動，或説明你點擊它。\n\n它是為“日常戰鬥”設計的，不適用於零式或者絕境戰。請謹慎使用\"",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778799979
+                "LastUpdate": 1778845381
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -7531,7 +7554,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778804527
+                "LastUpdate": 1778858384
             }
         ]
     },
@@ -7701,7 +7724,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778792617
+                "LastUpdate": 1778858392
             }
         ]
     },
@@ -7808,7 +7831,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778792617
+                "LastUpdate": 1778858392
             },
             {
                 "Author": "DhogGPT",
@@ -7835,7 +7858,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1777854502
+                "LastUpdate": 1778859308
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -7870,7 +7893,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1777854502
+                "LastUpdate": 1778859308
             }
         ]
     },
@@ -9670,9 +9693,9 @@
                 "Name": "FishersIntuition",
                 "InternalName": "FishersIntuition",
                 "Description": "",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nukoooo/DalamudPlugins",
-                "LastUpdate": 1777536399
+                "LastUpdate": 1778840902
             },
             {
                 "Author": "Nuko",
@@ -9812,7 +9835,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1778790383
+                "LastUpdate": 1778855683
             },
             {
                 "Author": "OOFGames",
@@ -10940,7 +10963,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778836990
+                "LastUpdate": 1778841310
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11664,7 +11687,7 @@
                 "Description": "A lightweight venue macro assistant for DJ announcements, set transitions, giveaway reminders, and reusable shout macros.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/reyalexffxiv/VenueHost",
-                "LastUpdate": 1778837082
+                "LastUpdate": 1778840832
             }
         ]
     },
@@ -11716,7 +11739,7 @@
                 "Description": "An in-game voice chat plugin with character proximity detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-ProximityVoiceChat",
-                "LastUpdate": 1778716285
+                "LastUpdate": 1778843240
             },
             {
                 "Author": "Ricimon",
@@ -12298,7 +12321,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778822961
+                "LastUpdate": 1778841230
             }
         ]
     },
@@ -12760,7 +12783,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778835578
+                "LastUpdate": 1778849145
             },
             {
                 "Author": "XSZYYS",
@@ -12769,7 +12792,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778835578,
+                "LastUpdate": 1778849145,
                 "is_closed_source": true
             }
         ]
@@ -12959,7 +12982,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1778719220
+                "LastUpdate": 1778848653
             }
         ]
     },
@@ -13958,7 +13981,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778823608
+                "LastUpdate": 1778844127
             }
         ]
     },
@@ -15248,41 +15271,6 @@
         "repo_source_url": "https://github.com/Yhumi/Plogons",
         "repo_name": "Plogons",
         "repo_developer_name": "Yhumi"
-    },
-    {
-        "repo_developer_name": "yimo0908",
-        "repo_url": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/yimo0908/DalamudPlugin",
-        "repo_name": "DalamudPlugin",
-        "plugins": [
-            {
-                "Author": "uy/sun, yimo",
-                "Name": "Blind Box",
-                "InternalName": "BlindBoxPlugin",
-                "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/yimo0908/FFXIVBlindBoxPlugin",
-                "LastUpdate": 1777626450
-            },
-            {
-                "Author": "Infi, translated by yimo",
-                "Name": "Eventy",
-                "InternalName": "Eventy",
-                "Description": "简单但实用的日历\n- 当前活动显示在服务器栏条目中，便于快速查看\n- 浏览当前、即将举行和过往举办的活动\n- 对制作人来信和其他重要场合的特殊日期进行高亮显示",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/yimo0908/Eventy",
-                "LastUpdate": 1777627071
-            },
-            {
-                "Author": "KirisameVanilla",
-                "Name": "SpecialWeaponProgressOverview",
-                "InternalName": "SpecialWeaponProgressOverview",
-                "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools，但数据读取依旧不稳定）",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
-                "LastUpdate": 1777627677
-            }
-        ]
     },
     {
         "repo_developer_name": "Yodhrin13",
