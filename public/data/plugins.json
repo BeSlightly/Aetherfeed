@@ -527,93 +527,6 @@
         ]
     },
     {
-        "repo_developer_name": "Akurosia",
-        "repo_url": "https://raw.githubusercontent.com/Akurosia/AkuItemSets/main/repo.json",
-        "repo_source_url": "https://github.com/Akurosia/AkuItemSets",
-        "repo_name": "AkuItemSets",
-        "plugins": [
-            {
-                "Author": "Akurosia",
-                "Name": "AkuItemSets",
-                "InternalName": "AkuItemSets",
-                "Description": "Scans inventory, armoury chest, saddlebag, retainers, glamour dresser, and armoire to show item set collection progress with job filters.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Akurosia/AkuItemSets",
-                "LastUpdate": 1778698840
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Akurosia",
-        "repo_url": "https://raw.githubusercontent.com/Akurosia/AkusDalamudRepo/main/repo.json",
-        "repo_source_url": "https://github.com/Akurosia/AkusDalamudRepo",
-        "repo_name": "AkusDalamudRepo",
-        "plugins": [
-            {
-                "Author": "Akurosia",
-                "Name": "AkuItemSets",
-                "InternalName": "AkuItemSets",
-                "Description": "Scans inventory, armoury chest, saddlebag, retainers, glamour dresser, and armoire to show item set collection progress with job filters.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Akurosia/AkuItemSets",
-                "LastUpdate": 1778698840
-            },
-            {
-                "Author": "Akurosia",
-                "Name": "AkusEnemySkillTracking",
-                "InternalName": "AkusEnemySkillTracking",
-                "Description": "Tracks actions used by battle NPCs/enemies in the current territory and exports observations as JSON and JSONL. Slash command: /akust",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Akurosia/AkusEnemySkillTracking",
-                "LastUpdate": 1778760491
-            },
-            {
-                "Author": "goat, Maple, Akurosia",
-                "Name": "Fancy Loading Screens",
-                "InternalName": "Dalamud.LoadingImage",
-                "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Akurosia/Dalamud.LoadingImage",
-                "LastUpdate": 1778753059
-            },
-            {
-                "Author": "UnknownX, iRobsie, BeSlightly, Akurosia",
-                "Name": "DalamudRepoBrowser",
-                "InternalName": "DalamudRepoBrowser",
-                "Description": "An interface for browsing and managing third party repositories.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Akurosia/DalamudRepoBrowser",
-                "LastUpdate": 1778750407
-            },
-            {
-                "Author": "Akurosia, PunishedPineapple",
-                "Name": "HP Difference Gauge",
-                "InternalName": "HPDiff",
-                "Description": "Provides a visual representation of the HP difference between two enemies on your aggro list.  Open the plugin config window to see a preview of the gauge and to change options.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Akurosia/HPDiff",
-                "LastUpdate": 1778750982
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Akurosia",
-        "repo_url": "https://raw.githubusercontent.com/Akurosia/AkusEnemySkillTracking/main/repo.json",
-        "repo_source_url": "https://github.com/Akurosia/AkusEnemySkillTracking",
-        "repo_name": "AkusEnemySkillTracking",
-        "plugins": [
-            {
-                "Author": "Akurosia",
-                "Name": "AkusEnemySkillTracking",
-                "InternalName": "AkusEnemySkillTracking",
-                "Description": "Tracks actions used by battle NPCs/enemies in the current territory and exports observations as JSON and JSONL. Slash command: /akust",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Akurosia/AkusEnemySkillTracking",
-                "LastUpdate": 1778760491
-            }
-        ]
-    },
-    {
         "repo_developer_name": "AlessHub",
         "repo_url": "https://raw.githubusercontent.com/AlessHub/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/AlessHub/DalamudPlugins",
@@ -894,6 +807,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/EzWondrousTails",
                 "LastUpdate": 1778400699
+            },
+            {
+                "Author": "StarHeartHunt",
+                "Name": "日随伴侣",
+                "InternalName": "日随伴侣卫月版",
+                "Description": "帮助你记录每日随机任务、导出报告，并实时同步到 DungeonLogger。\n\nHelp you to record your daily roulettes, export reports, and sync with DungeonLogger in real time.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/anmili2022/RouletteRecorder.Dalamud",
+                "LastUpdate": 1778835221
             }
         ]
     },
@@ -945,7 +867,7 @@
                 "Description": "Spawns fake party members and bosses client-side so you can practice ultimate raid mechanics without a full party. Currently implements The Omega Protocol (Ultimate) P5 Delta.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anomek/UltiSim",
-                "LastUpdate": 1778626359
+                "LastUpdate": 1778831384
             }
         ]
     },
@@ -1127,7 +1049,7 @@
                 "Description": "Define filters by job, minimum/maximum equip level, and item level. Armoury Cleaner scans each gear slot and moves only items that match all active filters into your inventory so you can discard them.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778828180
+                "LastUpdate": 1778836991
             },
             {
                 "Author": "Aschy",
@@ -1136,7 +1058,7 @@
                 "Description": "Define a stack of sorting rules and BagAssistant will route items to the right bag every time. Filter by item category, rarity, level range, item level, class/job, HQ, tradeable, name match, vendor price, item ID and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778828180
+                "LastUpdate": 1778836991
             },
             {
                 "Author": "Aschy",
@@ -1145,7 +1067,7 @@
                 "Description": "QuestNav lists all your active quests and adds a Teleport button next to each one. Clicking it teleports you to the nearest unlocked aetheryte to the quest's location — no more hunting through the map.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778828180
+                "LastUpdate": 1778836991
             },
             {
                 "Author": "Aschy",
@@ -1154,7 +1076,7 @@
                 "Description": "Adds a cast-bar overlay that marks the slidecasting timeframe so you can start moving without interrupting the cast. Includes an optional audio cue when the safe window begins.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778828180
+                "LastUpdate": 1778836991
             },
             {
                 "Author": "Aschy",
@@ -1163,7 +1085,7 @@
                 "Description": "Analyzes market opportunities with Universalis data, watchlists, velocity filters, and manual undercut helpers. All actions are manual. Now includes real-time undercut notifications.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778828180
+                "LastUpdate": 1778836991
             }
         ]
     },
@@ -5215,7 +5137,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1778781540
+                "LastUpdate": 1778832487
             }
         ]
     },
@@ -5591,7 +5513,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1778773142
+                "LastUpdate": 1778836071
             },
             {
                 "Author": "croizat",
@@ -5720,7 +5642,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778821743
+                "LastUpdate": 1778833641
             }
         ]
     },
@@ -8358,7 +8280,7 @@
                 "Description": "Sort and tag your Penumbra mods by clothing type, season, and occasion. Keep your glamour collection perfectly organized.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/moralfiberffxiv/PenumbraSort",
-                "LastUpdate": 1778828870
+                "LastUpdate": 1778830218
             }
         ]
     },
@@ -10938,7 +10860,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1778781540
+                "LastUpdate": 1778832487
             },
             {
                 "Author": "Det, Taurenkey",
@@ -11018,7 +10940,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778811549
+                "LastUpdate": 1778836990
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11731,6 +11653,23 @@
     },
     {
         "repo_developer_name": "reyalexffxiv",
+        "repo_url": "https://raw.githubusercontent.com/reyalexffxiv/VenueHost/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/reyalexffxiv/VenueHost",
+        "repo_name": "VenueHost",
+        "plugins": [
+            {
+                "Author": "ReyAlex",
+                "Name": "Venue Host",
+                "InternalName": "VenueHost",
+                "Description": "A lightweight venue macro assistant for DJ announcements, set transitions, giveaway reminders, and reusable shout macros.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/reyalexffxiv/VenueHost",
+                "LastUpdate": 1778837082
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "reyalexffxiv",
         "repo_url": "https://raw.githubusercontent.com/reyalexffxiv/VenueRaffle/master/pluginmaster.json",
         "repo_source_url": "https://github.com/reyalexffxiv/VenueRaffle",
         "repo_name": "VenueRaffle",
@@ -12393,7 +12332,7 @@
                 "Description": "Player synced custom voices, Twitch playback integration, and more!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
-                "LastUpdate": 1778828857
+                "LastUpdate": 1778833732
             }
         ]
     },
@@ -12821,7 +12760,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778820675
+                "LastUpdate": 1778835578
             },
             {
                 "Author": "XSZYYS",
@@ -12830,7 +12769,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778820675,
+                "LastUpdate": 1778835578,
                 "is_closed_source": true
             }
         ]
