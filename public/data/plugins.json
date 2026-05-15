@@ -1127,7 +1127,7 @@
                 "Description": "Define filters by job, minimum/maximum equip level, and item level. Armoury Cleaner scans each gear slot and moves only items that match all active filters into your inventory so you can discard them.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778425646
+                "LastUpdate": 1778828180
             },
             {
                 "Author": "Aschy",
@@ -1136,7 +1136,7 @@
                 "Description": "Define a stack of sorting rules and BagAssistant will route items to the right bag every time. Filter by item category, rarity, level range, item level, class/job, HQ, tradeable, name match, vendor price, item ID and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778425646
+                "LastUpdate": 1778828180
             },
             {
                 "Author": "Aschy",
@@ -1145,7 +1145,7 @@
                 "Description": "QuestNav lists all your active quests and adds a Teleport button next to each one. Clicking it teleports you to the nearest unlocked aetheryte to the quest's location — no more hunting through the map.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778425646
+                "LastUpdate": 1778828180
             },
             {
                 "Author": "Aschy",
@@ -1154,7 +1154,7 @@
                 "Description": "Adds a cast-bar overlay that marks the slidecasting timeframe so you can start moving without interrupting the cast. Includes an optional audio cue when the safe window begins.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778425646
+                "LastUpdate": 1778828180
             },
             {
                 "Author": "Aschy",
@@ -1163,7 +1163,7 @@
                 "Description": "Analyzes market opportunities with Universalis data, watchlists, velocity filters, and manual undercut helpers. All actions are manual. Now includes real-time undercut notifications.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778425646
+                "LastUpdate": 1778828180
             }
         ]
     },
@@ -1937,7 +1937,7 @@
                 "Description": "EmoteCounter Adaptation to Honorific - PatMeCounter",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BoxuChan/EmoteCounterHonorific",
-                "LastUpdate": 1777661495
+                "LastUpdate": 1778816806
             },
             {
                 "Author": "Boxu",
@@ -2116,7 +2116,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1777551559
+                "LastUpdate": 1778826329
             }
         ]
     },
@@ -2549,7 +2549,7 @@
                 "Description": "FFXIV plugin for adjusting the position of characters when wearing modded footwear. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1777551559
+                "LastUpdate": 1778826329
             }
         ]
     },
@@ -2887,6 +2887,32 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
                 "LastUpdate": 1778772814
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "denghaoxuan991876906",
+        "repo_url": "https://raw.githubusercontent.com/denghaoxuan991876906/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/denghaoxuan991876906/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "嗨呀",
+                "Name": "Browsingway",
+                "InternalName": "Browsingway",
+                "Description": "GPU-accelerated browser overlays with external IPC API for plugin control. Based on BrowserHost by ackwell.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/denghaoxuan991876906/Browsingway",
+                "LastUpdate": 1778676235
+            },
+            {
+                "Author": "嗨呀",
+                "Name": "MCP for Dalamud",
+                "InternalName": "MCPforDalamud",
+                "Description": "MCP(Model Context Protocol)服务插件，让AI工具获取FFXIV游戏实时数据、操作角色/系统，以及与插件交互测试。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/denghaoxuan991876906/MCPforDalamud",
+                "LastUpdate": 1778820678
             }
         ]
     },
@@ -5694,7 +5720,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778741505
+                "LastUpdate": 1778821743
             }
         ]
     },
@@ -5933,7 +5959,7 @@
                 "Description": "Character Select Simplified",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Juiposa/Simple-Character-Select",
-                "LastUpdate": 1778731737
+                "LastUpdate": 1778821512
             }
         ]
     },
@@ -6613,7 +6639,7 @@
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1778799343
+                "LastUpdate": 1778826144
             }
         ]
     },
@@ -6707,7 +6733,7 @@
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1778751593
+                "LastUpdate": 1778821220
             }
         ]
     },
@@ -6793,7 +6819,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1778805693
+                "LastUpdate": 1778808680
             }
         ]
     },
@@ -7965,7 +7991,7 @@
                 "Description": "Shows you an image of a random neko character. Click on the image to view the next one.\nYou can choose different image sources, allowing you to look at Catboys, Waifus, Cats, Dogs and more.\n\nSupported APIs:\nnekos.best, Nekos.life, Dog CEO, The Cat API, Pic.re, Waifu.im, Waifu.pics and shibe.online\n\nWarning: You might see naughty images",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1778213481
+                "LastUpdate": 1778820094
             },
             {
                 "Author": "Meisterlala",
@@ -7974,7 +8000,7 @@
                 "Description": "This Plugin does nothing on its own. Neko Fans needs to be installed.\nYou now have access to NSFW images in Neko Fans.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1778213481
+                "LastUpdate": 1778820094
             }
         ]
     },
@@ -8316,6 +8342,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Moon-Magic-Z/Moon-Magic",
                 "LastUpdate": 1759558146
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "moralfiberffxiv",
+        "repo_url": "https://raw.githubusercontent.com/moralfiberffxiv/PenumbraSort/main/repo.json",
+        "repo_source_url": "https://github.com/moralfiberffxiv/PenumbraSort",
+        "repo_name": "PenumbraSort",
+        "plugins": [
+            {
+                "Author": "moralfiberffxiv",
+                "Name": "PenumbraSort",
+                "InternalName": "PenumbraSort",
+                "Description": "Sort and tag your Penumbra mods by clothing type, season, and occasion. Keep your glamour collection perfectly organized.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/moralfiberffxiv/PenumbraSort",
+                "LastUpdate": 1778828870
             }
         ]
     },
@@ -10048,7 +10091,7 @@
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1777551559
+                "LastUpdate": 1778826329
             }
         ],
         "repo_developer_name": "Ottermandias"
@@ -10975,7 +11018,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778806333
+                "LastUpdate": 1778811549
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11743,7 +11786,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1778804582
+                "LastUpdate": 1778828725
             },
             {
                 "Author": "Ricimon",
@@ -11837,7 +11880,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1778185953
+                "LastUpdate": 1778820545
             },
             {
                 "Author": "Rose",
@@ -12282,7 +12325,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1778799343
+                "LastUpdate": 1778826144
             }
         ]
     },
@@ -12316,7 +12359,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778805547
+                "LastUpdate": 1778822961
             }
         ]
     },
@@ -12350,7 +12393,7 @@
                 "Description": "Player synced custom voices, Twitch playback integration, and more!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
-                "LastUpdate": 1778495882
+                "LastUpdate": 1778828857
             }
         ]
     },
@@ -12778,7 +12821,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778771045
+                "LastUpdate": 1778820675
             },
             {
                 "Author": "XSZYYS",
@@ -12787,7 +12830,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778771045,
+                "LastUpdate": 1778820675,
                 "is_closed_source": true
             }
         ]
@@ -13976,7 +14019,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778767896
+                "LastUpdate": 1778823608
             }
         ]
     },
@@ -15571,7 +15614,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1778764445
+                "LastUpdate": 1778829217
             }
         ]
     },
@@ -15640,7 +15683,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1778711062,
+                "LastUpdate": 1778809756,
                 "is_closed_source": true
             },
             {
