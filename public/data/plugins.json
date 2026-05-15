@@ -91,7 +91,7 @@
                 "Description": "A fully-featured casino dealer plugin for FFXIV including Blackjack, Roulette, Baccrat, Craps, Texas Hold'em, and Ultima (an Uno clone) Commands: /casino to open the GUI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/a325245/ChatCasino",
-                "LastUpdate": 1778636970
+                "LastUpdate": 1778879028
             }
         ]
     },
@@ -513,7 +513,7 @@
                 "Description": "Adds a customisable radial wheel to Final Fantasy XIV. Assign emotes or macros to slots, organise them across multiple pages, bind a key to open the wheel, and execute them with a single click. Supports per-character and per-page colour theming.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AlessHub/ActionWheel",
-                "LastUpdate": 1778783689
+                "LastUpdate": 1778874274
             }
         ]
     },
@@ -841,7 +841,7 @@
                 "Description": "Spawns fake party members and bosses client-side so you can practice ultimate raid mechanics without a full party. Currently implements The Omega Protocol (Ultimate) P5 Delta.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anomek/UltiSim",
-                "LastUpdate": 1778831384
+                "LastUpdate": 1778865987
             }
         ]
     },
@@ -1397,7 +1397,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778679440
+                "LastUpdate": 1778879483
             }
         ]
     },
@@ -2065,7 +2065,7 @@
                 "Description": "Sweeps the housing wards automatically instead of going through each.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Catphinaud/HousingSweepy",
-                "LastUpdate": 1777576325
+                "LastUpdate": 1778869342
             },
             {
                 "Author": "Noevain,kalilistic, Anna",
@@ -2686,7 +2686,7 @@
                 "Description": "Namazu Flippers connects to the Saddlebag Exchange API to find daily cross-server arbitrage opportunities. Get a route-optimized shopping list, travel between servers, buy low, sell high on your home world. One scan, one route, done in under 20 minutes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/DarrellTang/namazu-flippers",
-                "LastUpdate": 1778708050
+                "LastUpdate": 1778865572
             }
         ]
     },
@@ -3146,7 +3146,7 @@
                 "Description": "Swap walk/run animations between races. Swap weapon hold, movement, and auto-attack animations between jobs. Auto-apply Glamourer designs by territory.\n\nRequires Penumbra (for animation swaps) and Glamourer (for glamour automation).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/elchupi/AnimSwapper",
-                "LastUpdate": 1778785463
+                "LastUpdate": 1778881228
             }
         ]
     },
@@ -3163,7 +3163,7 @@
                 "Description": "All-in-one plugin: dynamic camera system, race/job animation swaps, Glamourer automation, custom teleport menu, compass overlay, HP vignette, MSQ teleport, chat bubbles, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/elchupi/Modern-XIV",
-                "LastUpdate": 1778859507
+                "LastUpdate": 1778881134
             }
         ]
     },
@@ -4650,7 +4650,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1778854979
+                "LastUpdate": 1778881795
             },
             {
                 "Author": "Haselnussbomber",
@@ -4799,7 +4799,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778679440
+                "LastUpdate": 1778879483
             },
             {
                 "Author": "Team Wrath",
@@ -4964,7 +4964,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778679440
+                "LastUpdate": 1778879483
             },
             {
                 "Author": "Team Wrath",
@@ -5632,7 +5632,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778858319
+                "LastUpdate": 1778870970
             }
         ]
     },
@@ -5853,7 +5853,7 @@
                 "InternalName": "FaloopMessenger",
                 "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
                 "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1778857913
+                "LastUpdate": 1778877797
             }
         ]
     },
@@ -6567,7 +6567,7 @@
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1778826144
+                "LastUpdate": 1778867261
             }
         ]
     },
@@ -6747,7 +6747,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1778612574
+                "LastUpdate": 1778870503
             }
         ]
     },
@@ -7858,7 +7858,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1778859308
+                "LastUpdate": 1778877567
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -7893,7 +7893,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1778859308
+                "LastUpdate": 1778877567
             }
         ]
     },
@@ -8380,7 +8380,78 @@
                 "Description": "Kaleidoscope is a Dalamud plugin for Final Fantasy XIV that provides an overlay for tracking game information across multiple characters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1778626945
+                "LastUpdate": 1778866175
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "MTVirux",
+        "repo_url": "https://raw.githubusercontent.com/MTVirux/LighthouseTerror/main/tests/fixtures/repo.json",
+        "repo_source_url": "https://github.com/MTVirux/LighthouseTerror",
+        "repo_name": "LighthouseTerror",
+        "plugins": [
+            {
+                "Author": "MTVirux",
+                "Name": "Crystal Terror",
+                "InternalName": "CrystalTerror",
+                "Description": "DM @mtvirux on discord for assistance or bug reports.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
+                "LastUpdate": 1777684247
+            },
+            {
+                "Author": "MTVirux",
+                "Name": "Damage Terror",
+                "InternalName": "DamageTerror",
+                "Description": "DM @mtvirux on discord for assistance or bug reports.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/MTVirux/DamageTerror",
+                "LastUpdate": 1778534725
+            },
+            {
+                "Author": "MTVirux",
+                "Name": "Glamourous Terror",
+                "InternalName": "GlamorousTerror",
+                "Description": "DM @mtvirux on discord for assistance or bug reports. THIS REPLACES GLAMOURER, so make sure to uninstall either Glamourer or GlamorousTerror before installing the other.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/MTVirux/GlamorousTerror",
+                "LastUpdate": 1778061737
+            },
+            {
+                "Author": "Usagi",
+                "Name": "IINACT",
+                "InternalName": "IINACT",
+                "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/marzent/IINACT",
+                "LastUpdate": 1778189019
+            },
+            {
+                "Author": "MTVirux",
+                "Name": "Kaleidoscope",
+                "InternalName": "Kaleidoscope",
+                "Description": "DM @mtvirux on discord for assistance or bug reports.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
+                "LastUpdate": 1778866175
+            },
+            {
+                "Author": "MTVirux",
+                "Name": "Market Terror",
+                "InternalName": "MarketTerror",
+                "Description": "Custom build of Market Board Plugin with Lifestream and FFXIVMT sales data. /pmb to open",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/MTVirux/MarketTerror",
+                "LastUpdate": 1777684375
+            },
+            {
+                "Author": "MTVirux",
+                "Name": "TempoTerror",
+                "InternalName": "TempoTerror",
+                "Description": "Real-time scrolling timeline showing skill usage with action icons, cast bars, and per-player tracking. Requires IINACT for network log data.\n\nDM @mtvirux on discord for assistance or bug reports.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/MTVirux/TempoTerror",
+                "LastUpdate": 1777686152
             }
         ]
     },
@@ -8502,7 +8573,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1778587325
+                "LastUpdate": 1778873285
             }
         ]
     },
@@ -9835,7 +9906,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1778855683
+                "LastUpdate": 1778879076
             },
             {
                 "Author": "OOFGames",
@@ -9845,6 +9916,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
                 "LastUpdate": 1778781342
+            },
+            {
+                "Author": "OOFGames",
+                "Name": "Mini Games Emporium",
+                "InternalName": "MiniGamesEmporium",
+                "Description": "A plugin to manage mini game sessions, player queues, and Gil transactions. Use /minigames to open the main window.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
+                "LastUpdate": 1778879072
             }
         ]
     },
@@ -10963,7 +11043,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778841310
+                "LastUpdate": 1778867097
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11643,7 +11723,7 @@
                 "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Infiziert90/ChatTwo",
-                "LastUpdate": 1778803252
+                "LastUpdate": 1778866664
             },
             {
                 "Author": "Bluefissure",
@@ -11687,7 +11767,7 @@
                 "Description": "A lightweight venue macro assistant for DJ announcements, set transitions, giveaway reminders, and reusable shout macros.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/reyalexffxiv/VenueHost",
-                "LastUpdate": 1778840832
+                "LastUpdate": 1778882032
             }
         ]
     },
@@ -12287,7 +12367,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1778826144
+                "LastUpdate": 1778867261
             }
         ]
     },
@@ -12321,7 +12401,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778841230
+                "LastUpdate": 1778881006
             }
         ]
     },
@@ -12355,7 +12435,7 @@
                 "Description": "Player synced custom voices, Twitch playback integration, and more!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
-                "LastUpdate": 1778833732
+                "LastUpdate": 1778867931
             }
         ]
     },
@@ -12457,7 +12537,7 @@
                 "Description": "Adds a private list for contacts and places. Right-click Add to privacy, profile images, notes, tells, party invites and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/seventity7/Privacy",
-                "LastUpdate": 1778702235
+                "LastUpdate": 1778879311
             }
         ]
     },
@@ -13561,7 +13641,7 @@
                 "InternalName": "Habitat",
                 "Description": "The official companion plugin for Habitat Nightclub",
                 "RepoUrl": "https://github.com/thescarini/Habitat",
-                "LastUpdate": 1778257362
+                "LastUpdate": 1778862044
             }
         ]
     },
@@ -13981,7 +14061,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778844127
+                "LastUpdate": 1778873395
             }
         ]
     },
@@ -15007,7 +15087,7 @@
                 "Description": "Updates a dedicated BossMod Reborn preset during combat using Avarice and current combat state. XCAI manages positionals, target range, forbidden-zone cushion, and party-role follow while avoiding any out-of-combat movement behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xeltor/XelsCombatAI",
-                "LastUpdate": 1778794832
+                "LastUpdate": 1778880541
             }
         ]
     },
@@ -15541,7 +15621,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1778829217
+                "LastUpdate": 1778867791
             }
         ]
     },
