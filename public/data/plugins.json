@@ -614,6 +614,23 @@
         ]
     },
     {
+        "repo_developer_name": "AlessHub",
+        "repo_url": "https://raw.githubusercontent.com/AlessHub/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/AlessHub/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Aless",
+                "Name": "Action Wheel",
+                "InternalName": "ActionWheel",
+                "Description": "Adds a customisable radial wheel to Final Fantasy XIV. Assign emotes or macros to slots, organise them across multiple pages, bind a key to open the wheel, and execute them with a single click. Supports per-character and per-page colour theming.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AlessHub/ActionWheel",
+                "LastUpdate": 1778783689
+            }
+        ]
+    },
+    {
         "repo_developer_name": "AliaXIV",
         "repo_url": "https://raw.githubusercontent.com/AliaXIV/XIVGearPlugin/master/repo.json",
         "repo_source_url": "https://github.com/AliaXIV/XIVGearPlugin",
@@ -1894,7 +1911,7 @@
                 "InternalName": "XIVVenueManagerSync",
                 "Description": "Automatically sync patron enter/leave events to your XIVVenueManager.",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
-                "LastUpdate": 1778760674
+                "LastUpdate": 1778793559
             }
         ]
     },
@@ -2265,7 +2282,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1777996621
+                "LastUpdate": 1778802375
             }
         ]
     },
@@ -2487,7 +2504,7 @@
                 "Description": "Control actors during GPose sessions. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1778289783
+                "LastUpdate": 1778799612
             },
             {
                 "Author": "Risa",
@@ -3212,6 +3229,23 @@
         ]
     },
     {
+        "repo_developer_name": "elchupi",
+        "repo_url": "https://raw.githubusercontent.com/elchupi/AnimSwapper/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/elchupi/AnimSwapper",
+        "repo_name": "AnimSwapper",
+        "plugins": [
+            {
+                "Author": "elchupi",
+                "Name": "AnimSwapper",
+                "InternalName": "AnimSwapper",
+                "Description": "Swap walk/run animations between races. Swap weapon hold, movement, and auto-attack animations between jobs. Auto-apply Glamourer designs by territory.\n\nRequires Penumbra (for animation swaps) and Glamourer (for glamour automation).",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/elchupi/AnimSwapper",
+                "LastUpdate": 1778785463
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ElliotZ",
         "repo_url": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/pluginmaster.json",
         "repo_source_url": "https://github.com/ElliotZ/DalamudPlugins",
@@ -3616,7 +3650,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during G-Pose.\n\n- Advanced actor posing \n\t- While animating\n\t- Adjust actor positions without them resetting\n\t- Overlay and graphical posing modes\n- Creation of up to 239 G-Pose actors\n- Creation of custom lights\n- Supports integration with Penumbra, Glamourer & Customize+\n- Offline import and export of MCDF files onto G-Pose actors\n- Play XAT .xcp camera files\n- Play/Blend animations of G-Pose actors\n- Control Time/Weather in both the Overworld and G-Pose\n- Change the active festivals and apply up to 4 at once\n- Add/Remove Status Effects of G-Pose actors",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1778289783
+                "LastUpdate": 1778799612
             }
         ]
     },
@@ -3633,7 +3667,7 @@
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1778289783
+                "LastUpdate": 1778799612
             }
         ]
     },
@@ -3892,7 +3926,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778746498
+                "LastUpdate": 1778804679
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3928,7 +3962,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778745532
+                "LastUpdate": 1778799979
             },
             {
                 "Author": "Churin",
@@ -5172,7 +5206,7 @@
                 "Description": "在集体动作模式中控制参与的角色。",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1778289783
+                "LastUpdate": 1778799612
             }
         ]
     },
@@ -6579,7 +6613,7 @@
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1778216070
+                "LastUpdate": 1778799343
             }
         ]
     },
@@ -6639,7 +6673,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1777996621
+                "LastUpdate": 1778802375
             }
         ]
     },
@@ -6759,7 +6793,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1778783346
+                "LastUpdate": 1778805693
             }
         ]
     },
@@ -7370,7 +7404,7 @@
                 "Description": "逐幀分析戰鬥情況，並找出下一幀最適合使用的技能。\n\n這意味著幾乎所有戰鬥中可用的資訊都在一幀中，包括隊伍中所有玩家的狀態、任何敵對目標的狀態、技能冷卻時間、角色的MP/HP、角色的位置、敵對目標的施法狀態、連擊、戰鬥時長、玩家等級等。\n\n然後，它會在快捷欄上高亮顯示最佳行動，或説明你點擊它。\n\n它是為“日常戰鬥”設計的，不適用於零式或者絕境戰。請謹慎使用\"",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778745532
+                "LastUpdate": 1778799979
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -7549,7 +7583,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778614879
+                "LastUpdate": 1778804527
             }
         ]
     },
@@ -7668,7 +7702,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1778428634
+                "LastUpdate": 1778789820
             }
         ]
     },
@@ -7719,7 +7753,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778776829
+                "LastUpdate": 1778792617
             }
         ]
     },
@@ -7799,7 +7833,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1778428634
+                "LastUpdate": 1778789820
             },
             {
                 "Author": "DhogGPT",
@@ -7826,7 +7860,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778776829
+                "LastUpdate": 1778792617
             },
             {
                 "Author": "DhogGPT",
@@ -8007,7 +8041,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1778289783
+                "LastUpdate": 1778799612
             }
         ]
     },
@@ -8637,7 +8671,7 @@
                 "Description": "Outil de jets de dés pour le Système Très Simple.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Neferith/sts_dalamud_plugin",
-                "LastUpdate": 1778781097
+                "LastUpdate": 1778788752
             }
         ]
     },
@@ -8671,7 +8705,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1778709574
+                "LastUpdate": 1778806331
             }
         ]
     },
@@ -9813,7 +9847,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1778781345
+                "LastUpdate": 1778790383
             },
             {
                 "Author": "OOFGames",
@@ -9942,7 +9976,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1778289783
+                "LastUpdate": 1778799612
             },
             {
                 "Author": "Risa and Contributors",
@@ -9987,7 +10021,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1777996621
+                "LastUpdate": 1778802375
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -10941,7 +10975,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778604441
+                "LastUpdate": 1778806333
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11621,7 +11655,7 @@
                 "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Infiziert90/ChatTwo",
-                "LastUpdate": 1778698570
+                "LastUpdate": 1778803252
             },
             {
                 "Author": "Bluefissure",
@@ -11665,7 +11699,7 @@
                 "Description": "A lightweight raffle ticket manager for FFXIV venues.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/reyalexffxiv/VenueRaffle",
-                "LastUpdate": 1778703753
+                "LastUpdate": 1778788659
             }
         ]
     },
@@ -11709,7 +11743,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1778756027
+                "LastUpdate": 1778804582
             },
             {
                 "Author": "Ricimon",
@@ -12248,7 +12282,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1778216070
+                "LastUpdate": 1778799343
             }
         ]
     },
@@ -12265,7 +12299,7 @@
                 "Description": "Control actors during GPose sessions.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1778289783
+                "LastUpdate": 1778799612
             }
         ]
     },
@@ -12282,7 +12316,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778764298
+                "LastUpdate": 1778805547
             }
         ]
     },
@@ -14528,7 +14562,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778746498
+                "LastUpdate": 1778804679
             },
             {
                 "Author": "Ottermandias",
@@ -14900,7 +14934,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778718395
+                "LastUpdate": 1778804641
             }
         ]
     },
@@ -14934,7 +14968,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778718395
+                "LastUpdate": 1778804641
             }
         ]
     },
@@ -14968,7 +15002,7 @@
                 "Description": "Updates a dedicated BossMod Reborn preset during combat using Avarice and current combat state. XCAI manages positionals, target range, forbidden-zone cushion, and party-role follow while avoiding any out-of-combat movement behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xeltor/XelsCombatAI",
-                "LastUpdate": 1778538518
+                "LastUpdate": 1778794832
             }
         ]
     },
