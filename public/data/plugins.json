@@ -780,7 +780,7 @@
                 "Description": "在天书界面实时显示 1 线、2 线、3 线概率，并提供重排后的平均参考。 This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/EzWondrousTails",
-                "LastUpdate": 1778400699
+                "LastUpdate": 1778920826
             },
             {
                 "Author": "StarHeartHunt",
@@ -1023,7 +1023,7 @@
                 "Description": "Define filters by job, minimum/maximum equip level, and item level. Armoury Cleaner scans each gear slot and moves only items that match all active filters into your inventory so you can discard them.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778847333
+                "LastUpdate": 1778923965
             },
             {
                 "Author": "Aschy",
@@ -1032,7 +1032,7 @@
                 "Description": "Define a stack of sorting rules and BagAssistant will route items to the right bag every time. Filter by item category, rarity, level range, item level, class/job, HQ, tradeable, name match, vendor price, item ID and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778847333
+                "LastUpdate": 1778923965
             },
             {
                 "Author": "Aschy",
@@ -1041,7 +1041,16 @@
                 "Description": "Tracks DPS, HPS, overheal, pet contribution, and encounter summaries with a compact overlay and detailed breakdowns.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778847333
+                "LastUpdate": 1778923965
+            },
+            {
+                "Author": "Aschy",
+                "Name": "MinimapPlugin",
+                "InternalName": "MinimapPlugin",
+                "Description": "Displays a resizable, zoomable minimap overlay using the current zone's game map texture. Shows player position, party members, aetherytes, FATEs, and more. Supports north-up and player-up rotation modes.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Aschmies/AschyQOL",
+                "LastUpdate": 1778923965
             },
             {
                 "Author": "Aschy",
@@ -1050,7 +1059,7 @@
                 "Description": "QuestNav lists all your active quests and adds a Teleport button next to each one. Clicking it teleports you to the nearest unlocked aetheryte to the quest's location — no more hunting through the map.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778847333
+                "LastUpdate": 1778923965
             },
             {
                 "Author": "Aschy",
@@ -1059,7 +1068,7 @@
                 "Description": "Adds a cast-bar overlay that marks the slidecasting timeframe so you can start moving without interrupting the cast. Includes an optional audio cue when the safe window begins.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/AschyQOL",
-                "LastUpdate": 1778847333
+                "LastUpdate": 1778923965
             },
             {
                 "Author": "Aschy",
@@ -1068,7 +1077,7 @@
                 "Description": "Analyzes market opportunities with Universalis data, watchlists, velocity filters, and manual undercut helpers. All actions are manual. Now includes real-time undercut notifications.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
-                "LastUpdate": 1778847333
+                "LastUpdate": 1778923965
             }
         ]
     },
@@ -1285,7 +1294,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778679437,
+                "LastUpdate": 1778908376,
                 "is_closed_source": true
             },
             {
@@ -1295,7 +1304,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778679437,
+                "LastUpdate": 1778908376,
                 "is_closed_source": true
             },
             {
@@ -1305,7 +1314,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778679437,
+                "LastUpdate": 1778908376,
                 "is_closed_source": true
             },
             {
@@ -1315,7 +1324,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778679437,
+                "LastUpdate": 1778908376,
                 "is_closed_source": true
             },
             {
@@ -1334,7 +1343,7 @@
                 "Description": "在选择角色界面, 右键对应角色, 即可进行超域旅行\n需要使用 XIVLauncherCN 启动游戏, 不支持 WeGame 端",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DCTraveler",
-                "LastUpdate": 1777516803
+                "LastUpdate": 1778908276
             },
             {
                 "Author": "The Combat Reborn Team, AtmoOmen (本地化及国服适配)",
@@ -1397,7 +1406,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778879483
+                "LastUpdate": 1778925706
             }
         ]
     },
@@ -3864,7 +3873,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778804679
+                "LastUpdate": 1778912518
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4799,7 +4808,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778879483
+                "LastUpdate": 1778925706
             },
             {
                 "Author": "Team Wrath",
@@ -4964,7 +4973,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778879483
+                "LastUpdate": 1778925706
             },
             {
                 "Author": "Team Wrath",
@@ -5632,7 +5641,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778890745
+                "LastUpdate": 1778925813
             }
         ]
     },
@@ -5887,7 +5896,7 @@
                 "Description": "Character Select Simplified",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Juiposa/Simple-Character-Select",
-                "LastUpdate": 1778821512
+                "LastUpdate": 1778904940
             }
         ]
     },
@@ -6972,7 +6981,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1778709358
+                "LastUpdate": 1778910469
             }
         ]
     },
@@ -8165,7 +8174,7 @@
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1778612129
+                "LastUpdate": 1778911763
             },
             {
                 "Author": "Miruku",
@@ -8174,7 +8183,7 @@
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1778612129
+                "LastUpdate": 1778911763
             }
         ]
     },
@@ -8337,7 +8346,7 @@
                 "Description": "Sort and tag your Penumbra mods by clothing type, season, and occasion. Keep your glamour collection perfectly organized.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/moralfiberffxiv/PenumbraSort",
-                "LastUpdate": 1778904700
+                "LastUpdate": 1778910967
             }
         ]
     },
@@ -8798,7 +8807,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1778806331
+                "LastUpdate": 1778910510
             }
         ]
     },
@@ -9940,7 +9949,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1778879076
+                "LastUpdate": 1778921056
             },
             {
                 "Author": "OOFGames",
@@ -9949,7 +9958,7 @@
                 "Description": "Browse active gambling events across Eorzea or host your own session. Use /gambawhere to open the interface.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1778781342
+                "LastUpdate": 1778921053
             },
             {
                 "Author": "OOFGames",
@@ -11077,7 +11086,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778867097
+                "LastUpdate": 1778917212
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11801,7 +11810,7 @@
                 "Description": "A lightweight venue macro assistant for DJ announcements, set transitions, giveaway reminders, and reusable shout macros.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/reyalexffxiv/VenueHost",
-                "LastUpdate": 1778883146
+                "LastUpdate": 1778921058
             }
         ]
     },
@@ -11862,7 +11871,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1778828725
+                "LastUpdate": 1778916834
             },
             {
                 "Author": "Ricimon",
@@ -12469,7 +12478,7 @@
                 "Description": "Player synced custom voices, Twitch playback integration, and more!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
-                "LastUpdate": 1778867931
+                "LastUpdate": 1778922167
             }
         ]
     },
@@ -12871,7 +12880,7 @@
                 "Description": "Automates market board penny pinching",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
-                "LastUpdate": 1777719531
+                "LastUpdate": 1778917094
             },
             {
                 "Author": "SHOEGAZEssb",
@@ -14095,7 +14104,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778882947
+                "LastUpdate": 1778926429
             }
         ]
     },
@@ -14197,7 +14206,7 @@
                 "Description": "Where mods",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/UnlostWorld/PeerSync",
-                "LastUpdate": 1778324838
+                "LastUpdate": 1778927018
             }
         ]
     },
@@ -14681,7 +14690,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778804679
+                "LastUpdate": 1778912518
             },
             {
                 "Author": "Ottermandias",
@@ -15109,19 +15118,19 @@
         ]
     },
     {
-        "repo_developer_name": "Xeltor",
-        "repo_url": "https://raw.githubusercontent.com/Xeltor/XelsCombatAI/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/Xeltor/XelsCombatAI",
-        "repo_name": "XelsCombatAI",
+        "repo_developer_name": "XelsPlugins",
+        "repo_url": "https://raw.githubusercontent.com/XelsPlugins/XelsDalamudRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/XelsPlugins/XelsDalamudRepo",
+        "repo_name": "XelsDalamudRepo",
         "plugins": [
             {
                 "Author": "xeltor",
                 "Name": "Xel's Combat AI",
                 "InternalName": "XelsCombatAI",
-                "Description": "Updates a dedicated BossMod Reborn preset during combat using Avarice and current combat state. XCAI manages positionals, target range, forbidden-zone cushion, and party-role follow while avoiding any out-of-combat movement behavior.",
+                "Description": "Tired of manually babysitting your BossMod settings mid-fight? XCAI handles your positioning, distances, and Ley Lines automatically so you can focus on not dying. Results may vary on the not dying part.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/xeltor/XelsCombatAI",
-                "LastUpdate": 1778884405
+                "RepoUrl": "https://github.com/XelsPlugins/XelsCombatAI",
+                "LastUpdate": 1778925787
             }
         ]
     },
@@ -15655,7 +15664,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1778867791
+                "LastUpdate": 1778920346
             }
         ]
     },
