@@ -91,7 +91,7 @@
                 "Description": "A fully-featured casino dealer plugin for FFXIV including Blackjack, Roulette, Baccrat, Craps, Texas Hold'em, and Ultima (an Uno clone) Commands: /casino to open the GUI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/a325245/ChatCasino",
-                "LastUpdate": 1778879028
+                "LastUpdate": 1778882619
             }
         ]
     },
@@ -185,7 +185,7 @@
                 "Description": "Removes the annoying 400 housing item display limit.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Abyeon/HousingCullFix",
-                "LastUpdate": 1778712514
+                "LastUpdate": 1778899979
             }
         ]
     },
@@ -2374,7 +2374,7 @@
                 "Description": "Easy browsing, installing, and auto updating mods. Advanced automatic texture compositing. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
-                "LastUpdate": 1778262253
+                "LastUpdate": 1778890049
             },
             {
                 "Author": "Asgard, Minmoose and Contributors",
@@ -2610,7 +2610,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778634239
+                "LastUpdate": 1778886257
             },
             {
                 "Author": "Critical_Impact",
@@ -3163,7 +3163,7 @@
                 "Description": "All-in-one plugin: dynamic camera system, race/job animation swaps, Glamourer automation, custom teleport menu, compass overlay, HP vignette, MSQ teleport, chat bubbles, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/elchupi/Modern-XIV",
-                "LastUpdate": 1778881134
+                "LastUpdate": 1778895075
             }
         ]
     },
@@ -3846,7 +3846,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778634239
+                "LastUpdate": 1778886257
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4650,7 +4650,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1778881795
+                "LastUpdate": 1778883304
             },
             {
                 "Author": "Haselnussbomber",
@@ -5632,7 +5632,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778870970
+                "LastUpdate": 1778890745
             }
         ]
     },
@@ -6649,6 +6649,40 @@
         ]
     },
     {
+        "repo_developer_name": "KuroZantetsuken",
+        "repo_url": "https://raw.githubusercontent.com/KuroZantetsuken/Slackingway/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/KuroZantetsuken/Slackingway",
+        "repo_name": "Slackingway",
+        "plugins": [
+            {
+                "Author": "KuroZantetsuken",
+                "Name": "Slackingway",
+                "InternalName": "Slackingway",
+                "Description": "Dynamic frame rate limiter to allow GPU headroom for Windows to do other things, preventing other apps like Discord and YouTube from freezing when FFXIV is in focus.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/KuroZantetsuken/Slackingway",
+                "LastUpdate": 1778882687
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "KuroZantetsuken",
+        "repo_url": "https://raw.githubusercontent.com/KuroZantetsuken/Upscalingway/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/KuroZantetsuken/Upscalingway",
+        "repo_name": "Upscalingway",
+        "plugins": [
+            {
+                "Author": "KuroZantetsuken",
+                "Name": "Upscalingway",
+                "InternalName": "Upscalingway",
+                "Description": "Automatically sets upscaling to FSR in the main menu (to allow render resolution scaling) and switches to DLSS on login (to force custom resolutions from DLSS Tweaker).",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/KuroZantetsuken/Upscalingway",
+                "LastUpdate": 1778882708
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Kussie",
         "repo_url": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/repo.json",
         "repo_source_url": "https://github.com/Kussie/Aetherfit",
@@ -6764,7 +6798,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1778808680
+                "LastUpdate": 1778902444
             }
         ]
     },
@@ -7724,7 +7758,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778858392
+                "LastUpdate": 1778887582
             }
         ]
     },
@@ -7831,7 +7865,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778858392
+                "LastUpdate": 1778887582
             },
             {
                 "Author": "DhogGPT",
@@ -7858,7 +7892,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1778877567
+                "LastUpdate": 1778888878
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -7893,7 +7927,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1778877567
+                "LastUpdate": 1778888878
             }
         ]
     },
@@ -8303,7 +8337,7 @@
                 "Description": "Sort and tag your Penumbra mods by clothing type, season, and occasion. Keep your glamour collection perfectly organized.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/moralfiberffxiv/PenumbraSort",
-                "LastUpdate": 1778830218
+                "LastUpdate": 1778904700
             }
         ]
     },
@@ -8796,9 +8830,9 @@
                 "Name": "I Am Ready",
                 "InternalName": "IAmReady",
                 "Description": "/iar - opens the I Am Ready tool",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeoGriever/IAmReady",
-                "LastUpdate": 1772317940
+                "LastUpdate": 1778900332
             }
         ]
     },
@@ -11767,7 +11801,7 @@
                 "Description": "A lightweight venue macro assistant for DJ announcements, set transitions, giveaway reminders, and reusable shout macros.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/reyalexffxiv/VenueHost",
-                "LastUpdate": 1778882032
+                "LastUpdate": 1778883146
             }
         ]
     },
@@ -12401,7 +12435,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778881006
+                "LastUpdate": 1778904253
             }
         ]
     },
@@ -12571,7 +12605,7 @@
                 "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
-                "LastUpdate": 1778262253
+                "LastUpdate": 1778890049
             }
         ]
     },
@@ -14061,7 +14095,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778873395
+                "LastUpdate": 1778882947
             }
         ]
     },
@@ -14951,7 +14985,7 @@
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1778715515
+                "LastUpdate": 1778893844
             }
         ]
     },
@@ -15019,7 +15053,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778804641
+                "LastUpdate": 1778890934
             }
         ]
     },
@@ -15053,7 +15087,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778804641
+                "LastUpdate": 1778890934
             }
         ]
     },
@@ -15087,7 +15121,7 @@
                 "Description": "Updates a dedicated BossMod Reborn preset during combat using Avarice and current combat state. XCAI manages positionals, target range, forbidden-zone cushion, and party-role follow while avoiding any out-of-combat movement behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xeltor/XelsCombatAI",
-                "LastUpdate": 1778880541
+                "LastUpdate": 1778884405
             }
         ]
     },
