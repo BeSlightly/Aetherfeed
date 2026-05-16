@@ -341,7 +341,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1778621891
+                "LastUpdate": 1778963090
             }
         ]
     },
@@ -358,7 +358,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1778621891
+                "LastUpdate": 1778963090
             }
         ]
     },
@@ -841,7 +841,7 @@
                 "Description": "Spawns fake party members and bosses client-side so you can practice ultimate raid mechanics without a full party. Currently implements The Omega Protocol (Ultimate) P5 Delta.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anomek/UltiSim",
-                "LastUpdate": 1778865987
+                "LastUpdate": 1778961169
             }
         ]
     },
@@ -1483,7 +1483,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778698007
+                "LastUpdate": 1778956356
             },
             {
                 "Author": "veyn, croizat",
@@ -1983,6 +1983,23 @@
         ]
     },
     {
+        "repo_developer_name": "CaraMacchiato",
+        "repo_url": "https://raw.githubusercontent.com/CaraMacchiato/DalamudRepo/main/repo.json",
+        "repo_source_url": "https://github.com/CaraMacchiato/DalamudRepo",
+        "repo_name": "DalamudRepo",
+        "plugins": [
+            {
+                "Author": "CaraMacchiato",
+                "Name": "NoBodyPull",
+                "InternalName": "NoBodyPull",
+                "Description": "Prevents accidentally walking into boss aggro range before a pull. Automatically disables once combat starts.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/CaraMacchiato/NoBodyPull",
+                "LastUpdate": 1778970285
+            }
+        ]
+    },
+    {
         "repo_url": "https://repo.caraxian.com",
         "repo_source_url": "https://github.com/Caraxi/SimpleGlamourSwitcher",
         "repo_name": "SimpleGlamourSwitcher",
@@ -2401,7 +2418,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1778621891
+                "LastUpdate": 1778963090
             },
             {
                 "Author": "Ottermandias",
@@ -2575,7 +2592,7 @@
                 "Description": "Lists every armoire-eligible dungeon drop in the game and shows whether each is in your inventory, in your armoire, or still missing. Sort by level, hide completed dungeons, toggle to show owned items too. Open the armoire UI at an inn once per session to populate the in-armoire state; in-inventory and equipped state is detected automatically. Use /armoire.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778949476
+                "LastUpdate": 1778960693
             },
             {
                 "Author": "dajoey",
@@ -2584,7 +2601,7 @@
                 "Description": "Automatically uses the highest-tier HP potion in your inventory at a configurable HP threshold. In deep dungeons, also auto-uses the dungeon's regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at its own threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778949476
+                "LastUpdate": 1778960693
             },
             {
                 "Author": "dajoey",
@@ -2593,7 +2610,16 @@
                 "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778949476
+                "LastUpdate": 1778960693
+            },
+            {
+                "Author": "dajoey",
+                "Name": "Gluttony Combo",
+                "InternalName": "GluttonyCombo",
+                "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dajoey/lalalazy",
+                "LastUpdate": 1778960693
             },
             {
                 "Author": "dajoey",
@@ -2602,7 +2628,7 @@
                 "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1778949476
+                "LastUpdate": 1778960693
             }
         ]
     },
@@ -2791,7 +2817,7 @@
                 "Description": "GPU-accelerated browser overlays with external IPC API for plugin control. Based on BrowserHost by ackwell.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/denghaoxuan991876906/Browsingway",
-                "LastUpdate": 1778676235
+                "LastUpdate": 1778960097
             },
             {
                 "Author": "嗨呀",
@@ -4420,7 +4446,15 @@
                 "InternalName": "Glaives.Plugin.Tweaks",
                 "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1778524986
+                "LastUpdate": 1778951724
+            },
+            {
+                "Author": "Chris",
+                "Name": "Glaive's Wondrous Tails Solver",
+                "InternalName": "Glaives.Plugin.WondrousTailsSolver",
+                "Description": "A Dalamud plugin that adds row probabilities to the Wondrous Tails display",
+                "DalamudApiLevel": 15,
+                "LastUpdate": 1778951724
             },
             {
                 "Author": "veyn, croizat",
@@ -4461,7 +4495,7 @@
                 "Name": "Texture Overlayer",
                 "InternalName": "TextureOverlayer",
                 "Description": "A relatively robust tool that allows you to non-destructively edit textures.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Glorou/TextureOverlayer",
                 "LastUpdate": 1777663083
             }
@@ -4675,7 +4709,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1778945231
+                "LastUpdate": 1778955566
             },
             {
                 "Author": "Haselnussbomber",
@@ -4806,7 +4840,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778698007
+                "LastUpdate": 1778956356
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -4971,7 +5005,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1778698007
+                "LastUpdate": 1778956356
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -5058,7 +5092,7 @@
                 "Description": "由 AlmondCookie 深度重构与独立维护的房屋装修辅助工具。支持 7 国语言无缝切换、一键导出 Teamcraft/CSV 购物清单、自动保存和加载房屋家具位置，以及导入/导出 MakePlace 程序的布局文件。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/hyirax/AlmondHousing",
-                "LastUpdate": 1778750943
+                "LastUpdate": 1778958280
             }
         ]
     },
@@ -5152,7 +5186,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1778832487
+                "LastUpdate": 1778959996
             }
         ]
     },
@@ -5878,7 +5912,7 @@
                 "InternalName": "FaloopMessenger",
                 "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
                 "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1778877797
+                "LastUpdate": 1778971937
             }
         ]
     },
@@ -6325,7 +6359,7 @@
                 "Description": "Create repeating macros that shout, teleport, or travel between worlds/data centers on a timer.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KeiJoi/ShoutRunner",
-                "LastUpdate": 1778947708
+                "LastUpdate": 1778967873
             }
         ]
     },
@@ -6547,6 +6581,23 @@
         ]
     },
     {
+        "repo_developer_name": "klerikdust",
+        "repo_url": "https://raw.githubusercontent.com/klerikdust/dududeshu/master/repo.json",
+        "repo_source_url": "https://github.com/klerikdust/dududeshu",
+        "repo_name": "dududeshu",
+        "plugins": [
+            {
+                "Author": "xduduking",
+                "Name": "dudu的書",
+                "InternalName": "dududeshu",
+                "Description": "Listens to the chat channels you choose and echoes a translation back in your target language. Japanese gets romaji and Chinese gets pinyin in parentheses. Sends translated messages on your active channel via /jp and /zh. Open settings with /ducfg, /duconfig, or /duduconfig.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/klerikdust/dududeshu",
+                "LastUpdate": 1778971352
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Knack117",
         "repo_url": "https://raw.githubusercontent.com/Knack117/QuickTransfer/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Knack117/QuickTransfer",
@@ -6759,6 +6810,22 @@
         ]
     },
     {
+        "repo_developer_name": "Kyuwu",
+        "repo_url": "https://raw.githubusercontent.com/Kyuwu/Mountify/main/repo.json",
+        "repo_source_url": "https://github.com/Kyuwu/Mountify",
+        "repo_name": "Mountify",
+        "plugins": [
+            {
+                "Author": "Choco",
+                "Name": "Mountify",
+                "InternalName": "Mountify",
+                "Description": "Automatically mutes game BGM and starts Spotify playback when you mount your mount. Restores BGM and pauses Spotify when you dismount.",
+                "RepoUrl": "https://github.com/Kyuwu/Mountify",
+                "LastUpdate": 1778953773
+            }
+        ]
+    },
+    {
         "repo_developer_name": "kznr02",
         "repo_url": "https://raw.githubusercontent.com/kznr02/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/kznr02/DalamudPlugins",
@@ -6777,6 +6844,41 @@
     },
     {
         "repo_developer_name": "Laboon2501",
+        "repo_url": "https://raw.githubusercontent.com/Laboon2501/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/Laboon2501/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Eunox",
+                "Name": "Gpose Camera Saver",
+                "InternalName": "GposeCameraSaver",
+                "Description": "Save, load, and manage GPose camera presets.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Laboon2501/GposeCameraSaver",
+                "LastUpdate": 1778959110
+            },
+            {
+                "Author": "kawaii, Veever(汉化+额外功能)",
+                "Name": "Hyperborea",
+                "InternalName": "HyperboreaCN",
+                "Description": "可在相对安全的环境下加载并探索任意区域，主要用于在无法进入/难以进入的场景中拍照",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Laboon2501/Hyperborea",
+                "LastUpdate": 1778955552
+            },
+            {
+                "Author": "Eunox",
+                "Name": "Yourcraft",
+                "InternalName": "Yourcraft",
+                "Description": "Yourcraft creates and restores persistent actors, applies saved appearances, and edits local scene objects with GPose-aware rebuild support.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Laboon2501/Yourcraft",
+                "LastUpdate": 1778959019
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Laboon2501",
         "repo_url": "https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/repo.json",
         "repo_source_url": "https://github.com/Laboon2501/GposeCameraSaver",
         "repo_name": "GposeCameraSaver",
@@ -6788,7 +6890,7 @@
                 "Description": "Save, load, and manage GPose camera presets.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Laboon2501/GposeCameraSaver",
-                "LastUpdate": 1778852072
+                "LastUpdate": 1778959110
             }
         ]
     },
@@ -6806,7 +6908,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1778870503
+                "LastUpdate": 1778967377
             }
         ]
     },
@@ -10112,7 +10214,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1778621891
+                "LastUpdate": 1778963090
             },
             {
                 "Author": "NightmareXIV, AsunaTsuki",
@@ -11022,7 +11124,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1778832487
+                "LastUpdate": 1778959996
             },
             {
                 "Author": "Det, Taurenkey",
@@ -11102,7 +11204,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778944548
+                "LastUpdate": 1778960126
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11782,7 +11884,7 @@
                 "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Infiziert90/ChatTwo",
-                "LastUpdate": 1778866664
+                "LastUpdate": 1778956935
             },
             {
                 "Author": "Bluefissure",
@@ -13121,7 +13223,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1778945472
+                "LastUpdate": 1778960643
             }
         ]
     },
@@ -14343,9 +14445,9 @@
                 "Name": "WoLua",
                 "InternalName": "WoLua",
                 "Description": "Write custom chat commands by creating lua scripts",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VariableVixen/WoLua",
-                "LastUpdate": 1767476429
+                "LastUpdate": 1778951040
             },
             {
                 "Author": "attick, daemitus, VariableVixen",
@@ -14395,18 +14497,18 @@
                 "Name": "A Realm Recorded (Unrestricted)",
                 "InternalName": "A-Realm-Recorded-Unrestricted",
                 "Description": "为副本记录器添加了额外功能，并在副本中自动录制\n在旅馆中使用 /record 指令来打开回放列表\n如果相关指令未解锁，请完成「回顾英雄诗篇」任务",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VeeverSW/DalamudPlugins",
-                "LastUpdate": 1770729698
+                "LastUpdate": 1778967256
             },
             {
                 "Author": "kawaii, Veever(汉化+额外功能)",
                 "Name": "Hyperborea",
                 "InternalName": "HyperboreaCN",
                 "Description": "可在相对安全的环境下加载并探索任意区域，主要用于在无法进入/难以进入的场景中拍照",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VeeverSW/Hyperborea",
-                "LastUpdate": 1770730317
+                "LastUpdate": 1778962574
             }
         ]
     },
@@ -15155,7 +15257,7 @@
                 "Description": "A modular Dalamud tweak hub for small opt-in quality-of-life features.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsTweaks",
-                "LastUpdate": 1778937193
+                "LastUpdate": 1778971684
             }
         ]
     },
