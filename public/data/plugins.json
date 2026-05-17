@@ -1406,7 +1406,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779011802
+                "LastUpdate": 1779033293
             }
         ]
     },
@@ -1458,7 +1458,7 @@
                 "Description": "Builds an item list manually or from artisan/teamcraft link imports, fetches marketboard prices from Universalis, and shows per-item plus total cost.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/auxee/AuxMarketboard",
-                "LastUpdate": 1779016828
+                "LastUpdate": 1779017966
             }
         ]
     },
@@ -1475,6 +1475,32 @@
                 "Description": "Credit to FoxShadow10 for the original AutoEmotion plugin. This version builds on that base and adds macro-slot responses directly in the Emote Reaction table, alongside emote and expression reactions.",
                 "RepoUrl": "https://github.com/Spoooki/AuxEmotion",
                 "LastUpdate": 1779016473
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "auxee",
+        "repo_url": "https://raw.githubusercontent.com/auxee/AuxMarketboard/main/AuxieDalamudRepo/repo.json",
+        "repo_source_url": "https://github.com/auxee/AuxMarketboard",
+        "repo_name": "AuxMarketboard",
+        "plugins": [
+            {
+                "Author": "Auxie",
+                "Name": "AuxEmotion",
+                "InternalName": "AuxEmotion",
+                "Description": "Credit to FoxShadow10 for the original AutoEmotion plugin. This version builds on that base and adds macro-slot responses directly in the Emote Reaction table, alongside emote and expression reactions.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Auxie/AuxEmotion",
+                "LastUpdate": 1779017966
+            },
+            {
+                "Author": "Auxie",
+                "Name": "AuxMarketboard",
+                "InternalName": "AuxMarketboard",
+                "Description": "Builds an item list manually or from artisan/teamcraft link imports, fetches marketboard prices from Universalis, and shows per-item plus total cost.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Auxie/AuxMarketboard",
+                "LastUpdate": 1779017966
             }
         ]
     },
@@ -2442,7 +2468,7 @@
                 "Description": "Easy browsing, installing, and auto updating mods. Advanced automatic texture compositing. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
-                "LastUpdate": 1778890049
+                "LastUpdate": 1779037975
             },
             {
                 "Author": "Asgard, Minmoose and Contributors",
@@ -2687,7 +2713,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779016646
+                "LastUpdate": 1779017561
             },
             {
                 "Author": "Critical_Impact",
@@ -3256,7 +3282,7 @@
                 "InternalName": "GilTradeTracker",
                 "Description": "Tracks gil trades and statistics.",
                 "RepoUrl": "https://github.com/elliethegator/GilTradeTracker",
-                "LastUpdate": 1778858538
+                "LastUpdate": 1779036080
             }
         ]
     },
@@ -3923,7 +3949,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779016646
+                "LastUpdate": 1779017561
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4085,7 +4111,7 @@
                 "Description": "A companion to help and guide you through completing your relics",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/flawedBliss/relicbuddy",
-                "LastUpdate": 1771547386
+                "LastUpdate": 1779029935
             }
         ]
     },
@@ -4900,7 +4926,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779011802
+                "LastUpdate": 1779033293
             },
             {
                 "Author": "Team Wrath",
@@ -5065,7 +5091,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779011802
+                "LastUpdate": 1779033293
             },
             {
                 "Author": "Team Wrath",
@@ -5151,7 +5177,7 @@
                 "Description": "แปลภาษา FFXIV เป็นไทยแบบ real-time ผ่าน Gemini AI - Real-time FFXIV translation with advanced character database and Netflix-quality localization. Features elegant UI with auto-show/hide, full customization (size, colors), and seamless gameplay integration.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/iarcanar/MBB_Dalamud",
-                "LastUpdate": 1778408901
+                "LastUpdate": 1779030573
             }
         ]
     },
@@ -5228,7 +5254,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1778959996
+                "LastUpdate": 1779034126
             }
         ]
     },
@@ -5492,7 +5518,7 @@
                 "Description": "Tracks the contents and market value of items dropped while killing monsters. And drops from some other activities such as dungeons, raids, gathering, and maps.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/j0giwa/ComfyLoot/blob/master/ComfyLoot",
-                "LastUpdate": 1769019157
+                "LastUpdate": 1779020450
             }
         ]
     },
@@ -6618,7 +6644,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1778936761
+                "LastUpdate": 1779029342
             }
         ]
     },
@@ -6635,7 +6661,7 @@
                 "Description": "Listens to the chat channels you choose and echoes a translation back in your target language. Japanese gets romaji and Chinese gets pinyin in parentheses. Sends translated messages on your active channel via /jp and /zh. Open settings with /ducfg, /duconfig, or /duduconfig.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/klerikdust/dududeshu",
-                "LastUpdate": 1778971352
+                "LastUpdate": 1779019310
             }
         ]
     },
@@ -6915,7 +6941,7 @@
                 "Description": "Yourcraft creates and restores persistent actors, applies saved appearances, and edits local scene objects with GPose-aware rebuild support.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Laboon2501/Yourcraft",
-                "LastUpdate": 1778997435
+                "LastUpdate": 1779034428
             }
         ]
     },
@@ -8198,7 +8224,7 @@
                 "Description": "An emote management plugin with Penumbra mod association. Add/remove/rename/duplicate emotes, auto-toggle Penumbra mods, search and organize your emote collection. Use /emotes to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/meowickz/emotes",
-                "LastUpdate": 1777789147
+                "LastUpdate": 1779029775
             }
         ]
     },
@@ -8600,7 +8626,7 @@
                 "Description": "Kaleidoscope is a Dalamud plugin for Final Fantasy XIV that provides an overlay for tracking game information across multiple characters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1778866175
+                "LastUpdate": 1779020620
             }
         ]
     },
@@ -8653,7 +8679,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1778866175
+                "LastUpdate": 1779020620
             },
             {
                 "Author": "MTVirux",
@@ -8671,7 +8697,7 @@
                 "Description": "Real-time scrolling timeline showing skill usage with action icons, cast bars, and per-player tracking. Requires IINACT for network log data.\n\nDM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/TempoTerror",
-                "LastUpdate": 1777686152
+                "LastUpdate": 1779020988
             }
         ]
     },
@@ -8688,7 +8714,7 @@
                 "Description": "Real-time scrolling timeline showing skill usage with action icons, cast bars, and per-player tracking. Requires IINACT for network log data.\n\nDM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/TempoTerror",
-                "LastUpdate": 1777686152
+                "LastUpdate": 1779020988
             }
         ]
     },
@@ -9052,7 +9078,7 @@
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1778187874
+                "LastUpdate": 1779030399
             }
         ]
     },
@@ -10108,7 +10134,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1778947043
+                "LastUpdate": 1779036066
             },
             {
                 "Author": "OOFGames",
@@ -10117,7 +10143,7 @@
                 "Description": "Browse active gambling events across Eorzea or host your own session. Use /gambawhere to open the interface.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1778947041
+                "LastUpdate": 1779035791
             },
             {
                 "Author": "OOFGames",
@@ -10126,7 +10152,7 @@
                 "Description": "A plugin to manage mini game sessions, player queues, and Gil transactions. Use /minigames to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
-                "LastUpdate": 1778879072
+                "LastUpdate": 1779036063
             }
         ]
     },
@@ -11165,7 +11191,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1778959996
+                "LastUpdate": 1779034126
             },
             {
                 "Author": "Det, Taurenkey",
@@ -12130,6 +12156,23 @@
     },
     {
         "repo_developer_name": "RoseOfficial",
+        "repo_url": "https://raw.githubusercontent.com/RoseOfficial/Memoria/main/repo.json",
+        "repo_source_url": "https://github.com/RoseOfficial/Memoria",
+        "repo_name": "Memoria",
+        "plugins": [
+            {
+                "Author": "RoseOfficial",
+                "Name": "Memoria",
+                "InternalName": "Memoria",
+                "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/RoseOfficial/Memoria",
+                "LastUpdate": 1778820545
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "RoseOfficial",
         "repo_url": "https://raw.githubusercontent.com/RoseOfficial/Olympus/main/repo.json",
         "repo_source_url": "https://github.com/RoseOfficial/Olympus",
         "repo_name": "Olympus",
@@ -12218,7 +12261,7 @@
                 "Description": "A Customize+ companion plugin for applying saved profiles, managing referenced templates, and safely releasing active changes without rewriting Customize+ data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rubyblaire/BoneSmith",
-                "LastUpdate": 1778743270
+                "LastUpdate": 1779020548
             }
         ]
     },
@@ -12235,7 +12278,51 @@
                 "Description": "A Dalamud plugin for FFXIV that streamlines MakePlace shopping lists with guided item tracking, purchase progress, and a cleaner, more organized marketboard workflow.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rubyblaire/mpassist",
-                "LastUpdate": 1777598844
+                "LastUpdate": 1779037674
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "rubyblaire",
+        "repo_url": "https://raw.githubusercontent.com/rubyblaire/pluginmaster/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/rubyblaire/pluginmaster",
+        "repo_name": "pluginmaster",
+        "plugins": [
+            {
+                "Author": "Ruby Blaire",
+                "Name": "BoneSmith",
+                "InternalName": "BoneSmith",
+                "Description": "BoneSmith is an alternative to Customize+, with native profile and template handling, a true smithing studio, profile diagnostics, and safer appearance workflow tools.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/rubyblaire/BoneSmith",
+                "LastUpdate": 1779020548
+            },
+            {
+                "Author": "Ruby Blaire",
+                "Name": "MakePlace Assistant",
+                "InternalName": "MakePlaceAssistant",
+                "Description": "A MakePlace shopping-list companion for market board runs, inventory tracking, and Patch 7.5 consolidated dye handling.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/rubyblaire/mpassist",
+                "LastUpdate": 1779037674
+            },
+            {
+                "Author": "Ruby Blaire",
+                "Name": "SceneKeeper",
+                "InternalName": "SceneKeeper",
+                "Description": "A lightweight SFW roleplay scene assistant for tracking RP partners, organizing scene chat, keeping notes, drafting posts, and making active scenes easier to follow.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/rubyblaire/scenekeeper",
+                "LastUpdate": 1779016870
+            },
+            {
+                "Author": "Ruby Blaire",
+                "Name": "Tyrian Targeting",
+                "InternalName": "TyrianTargeting",
+                "Description": "Tyrian Targeting is a GW2-inspired manual targeting refinement plugin for FFXIV. It improves tab targeting with configurable target cycling, called targets, target markers, presets, filters, and theme options while keeping all targeting fully manual.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/rubyblaire/tyrian-targeting",
+                "LastUpdate": 1779015397
             }
         ]
     },
@@ -12637,7 +12724,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1779003369
+                "LastUpdate": 1779024323
             }
         ]
     },
@@ -12807,7 +12894,7 @@
                 "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
-                "LastUpdate": 1778890049
+                "LastUpdate": 1779037975
             }
         ]
     },
@@ -13099,7 +13186,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778849145
+                "LastUpdate": 1779038995
             },
             {
                 "Author": "XSZYYS",
@@ -13108,7 +13195,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1778849145,
+                "LastUpdate": 1779038995,
                 "is_closed_source": true
             }
         ]
@@ -13298,7 +13385,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1778982271
+                "LastUpdate": 1779038158
             }
         ]
     },
@@ -15332,7 +15419,7 @@
                 "Description": "A modular Dalamud tweak hub for small opt-in quality-of-life features.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsTweaks",
-                "LastUpdate": 1779012463
+                "LastUpdate": 1779019127
             }
         ]
     },
@@ -15670,7 +15757,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260513
+                "LastUpdate": 20260518
             }
         ]
     },
@@ -15866,7 +15953,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1778936942
+                "LastUpdate": 1779028445
             }
         ]
     },
@@ -15935,7 +16022,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1778972060,
+                "LastUpdate": 1779034720,
                 "is_closed_source": true
             },
             {
