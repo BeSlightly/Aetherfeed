@@ -789,7 +789,7 @@
                 "Description": "帮助你记录每日随机任务、导出报告，并实时同步到 DungeonLogger。\n\nHelp you to record your daily roulettes, export reports, and sync with DungeonLogger in real time.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/RouletteRecorder.Dalamud",
-                "LastUpdate": 1778835221
+                "LastUpdate": 1779010292
             }
         ]
     },
@@ -1406,7 +1406,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778925706
+                "LastUpdate": 1779011802
             }
         ]
     },
@@ -1435,6 +1435,48 @@
         ],
         "repo_name": "DalamudPluginRepo",
         "repo_developer_name": "Atomoxide"
+    },
+    {
+        "repo_developer_name": "auxee",
+        "repo_url": "https://raw.githubusercontent.com/auxee/AuxDalamudRepo/main/repo.json",
+        "repo_source_url": "https://github.com/auxee/AuxDalamudRepo",
+        "repo_name": "AuxDalamudRepo",
+        "plugins": [
+            {
+                "Author": "Auxie",
+                "Name": "AuxEmotion",
+                "InternalName": "AuxEmotion",
+                "Description": "Credit to FoxShadow10 for the original AutoEmotion plugin. This version builds on that base and adds macro-slot responses directly in the Emote Reaction table, alongside emote and expression reactions.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/auxee/AuxEmotion",
+                "LastUpdate": 1779016473
+            },
+            {
+                "Author": "Auxie",
+                "Name": "AuxMarketboard",
+                "InternalName": "AuxMarketboard",
+                "Description": "Builds an item list manually or from artisan/teamcraft link imports, fetches marketboard prices from Universalis, and shows per-item plus total cost.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/auxee/AuxMarketboard",
+                "LastUpdate": 1779016828
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "auxee",
+        "repo_url": "https://raw.githubusercontent.com/auxee/AuxEmotion/main/repo.json",
+        "repo_source_url": "https://github.com/auxee/AuxEmotion",
+        "repo_name": "AuxEmotion",
+        "plugins": [
+            {
+                "Author": "Auxie",
+                "Name": "AuxEmotion",
+                "InternalName": "AuxEmotion",
+                "Description": "Credit to FoxShadow10 for the original AutoEmotion plugin. This version builds on that base and adds macro-slot responses directly in the Emote Reaction table, alongside emote and expression reactions.",
+                "RepoUrl": "https://github.com/Spoooki/AuxEmotion",
+                "LastUpdate": 1779016473
+            }
+        ]
     },
     {
         "repo_developer_name": "aventurescence",
@@ -2645,7 +2687,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778990557
+                "LastUpdate": 1779016646
             },
             {
                 "Author": "Critical_Impact",
@@ -3598,6 +3640,15 @@
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/blob/main/Plugins/latest.zip",
                 "LastUpdate": 1778426837,
                 "is_closed_source": true
+            },
+            {
+                "Author": "veyn, AtmoOmen",
+                "Name": "vnavmesh",
+                "InternalName": "vnavmesh",
+                "Description": "不仅会自动寻路, 还能自动避障 魔改版本 正常勿用",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://gh.atmoomen.top/https://github.com/AtmoOmen/ffxiv_navmesh-cn",
+                "LastUpdate": 1779001620
             }
         ]
     },
@@ -3872,7 +3923,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778990557
+                "LastUpdate": 1779016646
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3908,7 +3959,7 @@
                 "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1778560243
+                "LastUpdate": 1779008221
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3926,7 +3977,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778845381
+                "LastUpdate": 1779005265
             },
             {
                 "Author": "Churin",
@@ -4849,7 +4900,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778925706
+                "LastUpdate": 1779011802
             },
             {
                 "Author": "Team Wrath",
@@ -4858,7 +4909,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778935168
+                "LastUpdate": 1778999171
             },
             {
                 "Author": "daemitus, croizat",
@@ -5014,7 +5065,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1778925706
+                "LastUpdate": 1779011802
             },
             {
                 "Author": "Team Wrath",
@@ -5023,7 +5074,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778935168
+                "LastUpdate": 1778999171
             },
             {
                 "Author": "daemitus, croizat",
@@ -6864,7 +6915,7 @@
                 "Description": "Yourcraft creates and restores persistent actors, applies saved appearances, and edits local scene objects with GPose-aware rebuild support.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Laboon2501/Yourcraft",
-                "LastUpdate": 1778959019
+                "LastUpdate": 1778997435
             }
         ]
     },
@@ -7544,7 +7595,7 @@
                 "Description": "逐幀分析戰鬥情況，並找出下一幀最適合使用的技能。\n\n這意味著幾乎所有戰鬥中可用的資訊都在一幀中，包括隊伍中所有玩家的狀態、任何敵對目標的狀態、技能冷卻時間、角色的MP/HP、角色的位置、敵對目標的施法狀態、連擊、戰鬥時長、玩家等級等。\n\n然後，它會在快捷欄上高亮顯示最佳行動，或説明你點擊它。\n\n它是為“日常戰鬥”設計的，不適用於零式或者絕境戰。請謹慎使用\"",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1778845381
+                "LastUpdate": 1779005265
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -9313,7 +9364,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1778672372,
+                "LastUpdate": 1779012748,
                 "is_closed_source": true
             },
             {
@@ -9323,7 +9374,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1778672372,
+                "LastUpdate": 1779012748,
                 "is_closed_source": true
             },
             {
@@ -9333,7 +9384,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1778672372,
+                "LastUpdate": 1779012748,
                 "is_closed_source": true
             },
             {
@@ -9375,24 +9426,6 @@
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
                 "LastUpdate": 1778590370,
                 "is_closed_source": true
-            },
-            {
-                "Author": "Jukkales / NiGuangOwO(适配&汉化)",
-                "Name": "HoardFarm (API13)",
-                "InternalName": "HoardFarm",
-                "Description": "帮助您伐木深层迷宫宝藏的插件（...为您）",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/NiGuangOwO/HoardFarm",
-                "LastUpdate": 1778993374
-            },
-            {
-                "Author": "Jukkales / NiGuangOwO(适配&汉化)",
-                "Name": "HoardFarm",
-                "InternalName": "HoardFarm",
-                "Description": "帮助您伐木深层迷宫宝藏的插件（...为您）",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/NiGuangOwO/HoardFarm",
-                "LastUpdate": 1778993374
             },
             {
                 "Author": "Bluefissure",
@@ -11239,7 +11272,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778935168
+                "LastUpdate": 1778999171
             },
             {
                 "Author": "daemitus, kawaii",
@@ -11462,7 +11495,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1778571971
+                "LastUpdate": 1779006944
             }
         ]
     },
@@ -11958,6 +11991,23 @@
         ]
     },
     {
+        "repo_developer_name": "richardlh023",
+        "repo_url": "https://raw.githubusercontent.com/richardlh023/FateWalker/main/repo.json",
+        "repo_source_url": "https://github.com/richardlh023/FateWalker",
+        "repo_name": "FateWalker",
+        "plugins": [
+            {
+                "Author": "Caim Weiss",
+                "Name": "FateWalker",
+                "InternalName": "FateWalker",
+                "Description": "Open-world FATE grinder. Walks between FATEs, mounts, flies, engages, and chains across zones. Uses vnavmesh for pathfinding, BossmodReborn (FateUtils + autorotation) for combat, and Lifestream for cross-zone teleport.\n\nRequired plugins: vnavmesh, BossmodReborn, Lifestream",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/richardlh023/FateWalker",
+                "LastUpdate": 1779008111
+            }
+        ]
+    },
+    {
         "repo_developer_name": "richtertarnished",
         "repo_url": "https://raw.githubusercontent.com/richtertarnished/ukr_chat/master/repo.json",
         "repo_source_url": "https://github.com/richtertarnished/ukr_chat",
@@ -12202,7 +12252,24 @@
                 "Description": "A lightweight SFW roleplay scene assistant for tracking RP partners, organizing scene chat, keeping notes, and making active scenes easier to follow.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rubyblaire/scenekeeper",
-                "LastUpdate": 1777782573
+                "LastUpdate": 1779016870
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "rubyblaire",
+        "repo_url": "https://raw.githubusercontent.com/rubyblaire/tyrian-targeting/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/rubyblaire/tyrian-targeting",
+        "repo_name": "tyrian-targeting",
+        "plugins": [
+            {
+                "Author": "Ruby Blaire",
+                "Name": "Tyrian Targeting",
+                "InternalName": "TyrianTargeting",
+                "Description": "Tyrian Targeting is a GW2-inspired manual targeting refinement plugin for FFXIV. It improves tab targeting with configurable target cycling, called targets, target markers, presets, filters, and theme options while keeping all targeting fully manual.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/rubyblaire/tyrian-targeting",
+                "LastUpdate": 1779015397
             }
         ]
     },
@@ -12570,7 +12637,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778973288
+                "LastUpdate": 1779003369
             }
         ]
     },
@@ -14332,7 +14399,7 @@
                 "Description": "Where mods",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/UnlostWorld/PeerSync",
-                "LastUpdate": 1778942578
+                "LastUpdate": 1778996082
             }
         ]
     },
@@ -15265,7 +15332,7 @@
                 "Description": "A modular Dalamud tweak hub for small opt-in quality-of-life features.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsTweaks",
-                "LastUpdate": 1778983737
+                "LastUpdate": 1779012463
             }
         ]
     },
