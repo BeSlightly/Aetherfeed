@@ -818,6 +818,15 @@
         "plugins": [
             {
                 "Author": "Anomek",
+                "Name": "AnoMech",
+                "InternalName": "AnoMech",
+                "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.\n\nThis plugin is in beta and is unstable. You won't crash during your training sessions, but you will crash after it.\n\nIf you are doing any serious content: **RESTART YOUR GAME AFTER USING PLUGIN**. You **WILL CRASH** in the middle of pull.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/anomek/AnoMech",
+                "LastUpdate": 1778987531
+            },
+            {
+                "Author": "Anomek",
                 "Name": "Auto Travel",
                 "InternalName": "AutoTravel",
                 "Description": "Automates Data Center travel process. Select your destination and enjoy, while plugin is going through all menus.",
@@ -832,16 +841,7 @@
                 "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
-                "LastUpdate": 1778209251
-            },
-            {
-                "Author": "Anomek",
-                "Name": "UltiSim",
-                "InternalName": "UltiSim",
-                "Description": "Spawns fake party members and bosses client-side so you can practice ultimate raid mechanics without a full party. Currently implements The Omega Protocol (Ultimate) P5 Delta.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/anomek/UltiSim",
-                "LastUpdate": 1778961169
+                "LastUpdate": 1778979649
             }
         ]
     },
@@ -2012,7 +2012,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1778637357
+                "LastUpdate": 1778989614
             },
             {
                 "Author": "Caraxi",
@@ -2645,7 +2645,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778886257
+                "LastUpdate": 1778990557
             },
             {
                 "Author": "Critical_Impact",
@@ -2913,7 +2913,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1778459680
+                "LastUpdate": 1778984389
             }
         ]
     },
@@ -3453,7 +3453,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons and Regular, Requires BossMod, vnavmesh and Rotation Solver (Recommend Reborn Fork)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1778781058
+                "LastUpdate": 1778982411
             }
         ]
     },
@@ -3470,7 +3470,7 @@
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1778781058
+                "LastUpdate": 1778982411
             }
         ]
     },
@@ -3502,43 +3502,34 @@
                 "Name": "Character Panel Refined CN",
                 "InternalName": "CharacterPanelRefined",
                 "Description": "角色面板精炼删除了角色面板中无用的信息，同时添加了有用的统计数据，例如暴击和直击概率百分比以及估计伤害输出，以便更轻松地比较装备。",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/eroubue/ffxiv-characterstatus-refined",
-                "LastUpdate": 1766394569
+                "LastUpdate": 1778986247
             },
             {
                 "Author": "Kouzukii Nag0mi",
                 "Name": "Death Recap CN",
                 "InternalName": "DeathRecap",
                 "Description": "快速确认什么玩意弄死了你和你的小伙伴!\n\n显示:\n- 治疗\n- 受到的伤害\n- Debuffs\n- Buffs\n- 盾\n- 伤害来源的目标减",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/eroubue/ffxiv-deathrecap",
-                "LastUpdate": 1766395995
-            },
-            {
-                "Author": "ocealot Nag0mi",
-                "Name": "JobBars CN",
-                "InternalName": "JobBars",
-                "Description": "额外的职业计量表、队伍增益计时器、减伤追踪器等等。图标由 PAPACHIN 设计",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/eroubue/JobBars",
-                "LastUpdate": 1766398165
+                "LastUpdate": 1778986461
             },
             {
                 "Author": "shdwp, Avaflow, abashby, nebel, Nag0mi",
                 "Name": "Party Icons CN",
                 "InternalName": "PartyIcons",
                 "Description": "根据当前内容调整玩家铭牌。例如，您可以显示团队位置（通过监听聊天自动分配）、职业图标或带有职业图标的名称。",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/eroubue/xivPartyIcons",
-                "LastUpdate": 1766396653
+                "LastUpdate": 1778986346
             },
             {
                 "Author": "ReMakePlace Maintainers Nag0mi(汉化)",
                 "Name": "ReMakePlace Plugin CN",
                 "InternalName": "ReMakePlacePlugin",
                 "Description": "自动保存和加载室内及室外房屋布局。从 ReMakePlace 程序导入/导出布局。",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ReMakePlace/plugin",
                 "LastUpdate": 1777759769
             },
@@ -3547,18 +3538,18 @@
                 "Name": "RezPls CN",
                 "InternalName": "RezPls",
                 "Description": "轻松概览谁正在复活谁,\n已经复活了,\n以及世界上谁拥有可驱散的debuff影响.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/eroubue/RezPls/",
-                "LastUpdate": 1766398893
+                "LastUpdate": 1778986227
             },
             {
                 "Author": "Nag0mi Tischel",
-                "Name": "TPie Reborn",
+                "Name": "TPie CN",
                 "InternalName": "TPie",
                 "Description": "高度可配置的快捷栏，可以通过按键绑定进行切换。它们可以填充动作、物品、装备组、宏等等...",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/eroubue/TPie",
-                "LastUpdate": 1766398204
+                "LastUpdate": 1778979945
             }
         ]
     },
@@ -3881,7 +3872,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1778886257
+                "LastUpdate": 1778990557
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5691,7 +5682,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778925813
+                "LastUpdate": 1778988315
             }
         ]
     },
@@ -5912,7 +5903,7 @@
                 "InternalName": "FaloopMessenger",
                 "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
                 "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1778971937
+                "LastUpdate": 1778977955
             }
         ]
     },
@@ -5946,7 +5937,7 @@
                 "Description": "Character Select Simplified",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Juiposa/Simple-Character-Select",
-                "LastUpdate": 1778904940
+                "LastUpdate": 1778972680
             }
         ]
     },
@@ -6359,7 +6350,7 @@
                 "Description": "Create repeating macros that shout, teleport, or travel between worlds/data centers on a timer.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KeiJoi/ShoutRunner",
-                "LastUpdate": 1778967873
+                "LastUpdate": 1778972408
             }
         ]
     },
@@ -6643,7 +6634,7 @@
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1778867261
+                "LastUpdate": 1778975340
             }
         ]
     },
@@ -7457,6 +7448,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/lumxiv/Dalamud-VFXEditor",
                 "LastUpdate": 1778485153
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Lunauryae",
+        "repo_url": "https://raw.githubusercontent.com/Lunauryae/Gaia/main/repo.json",
+        "repo_source_url": "https://github.com/Lunauryae/Gaia",
+        "repo_name": "Gaia",
+        "plugins": [
+            {
+                "Author": "lunauryae",
+                "Name": "Gaia",
+                "InternalName": "Gaia",
+                "Description": "Full-featured FFXIV gardening plugin with automated tending, harvesting, planting, crossbreeding optimization, and status tracking. Handles the tedious work so you can focus on the fun parts of gardening.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Lunauryae/Gaia",
+                "LastUpdate": 1778990213
             }
         ]
     },
@@ -9375,7 +9383,7 @@
                 "Description": "帮助您伐木深层迷宫宝藏的插件（...为您）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/HoardFarm",
-                "LastUpdate": 1767154085
+                "LastUpdate": 1778993374
             },
             {
                 "Author": "Jukkales / NiGuangOwO(适配&汉化)",
@@ -9384,7 +9392,7 @@
                 "Description": "帮助您伐木深层迷宫宝藏的插件（...为您）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/HoardFarm",
-                "LastUpdate": 1767154085
+                "LastUpdate": 1778993374
             },
             {
                 "Author": "Bluefissure",
@@ -11204,7 +11212,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778960126
+                "LastUpdate": 1778977495
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11875,7 +11883,7 @@
                 "Description": "AutoDuty",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1778781058
+                "LastUpdate": 1778982411
             },
             {
                 "Author": "Infi, Anna",
@@ -12528,7 +12536,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1778867261
+                "LastUpdate": 1778975340
             }
         ]
     },
@@ -12562,7 +12570,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1778904253
+                "LastUpdate": 1778973288
             }
         ]
     },
@@ -13223,7 +13231,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1778960643
+                "LastUpdate": 1778982271
             }
         ]
     },
@@ -15180,7 +15188,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778890934
+                "LastUpdate": 1778977392
             }
         ]
     },
@@ -15197,7 +15205,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1778948190
+                "LastUpdate": 1778977429
             }
         ]
     },
@@ -15214,7 +15222,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1778890934
+                "LastUpdate": 1778977392
             }
         ]
     },
@@ -15231,7 +15239,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1778948190
+                "LastUpdate": 1778977429
             }
         ]
     },
@@ -15257,7 +15265,7 @@
                 "Description": "A modular Dalamud tweak hub for small opt-in quality-of-life features.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsTweaks",
-                "LastUpdate": 1778971684
+                "LastUpdate": 1778983737
             }
         ]
     },
@@ -15860,7 +15868,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1778940379,
+                "LastUpdate": 1778972060,
                 "is_closed_source": true
             },
             {
