@@ -341,7 +341,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1778963090
+                "LastUpdate": 1779048908
             }
         ]
     },
@@ -358,7 +358,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1778963090
+                "LastUpdate": 1779048908
             }
         ]
     },
@@ -1294,7 +1294,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778908376,
+                "LastUpdate": 1779043471,
                 "is_closed_source": true
             },
             {
@@ -1304,7 +1304,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778908376,
+                "LastUpdate": 1779043471,
                 "is_closed_source": true
             },
             {
@@ -1314,7 +1314,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778908376,
+                "LastUpdate": 1779043471,
                 "is_closed_source": true
             },
             {
@@ -1324,7 +1324,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1778908376,
+                "LastUpdate": 1779043471,
                 "is_closed_source": true
             },
             {
@@ -1406,7 +1406,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779033293
+                "LastUpdate": 1779043432
             }
         ]
     },
@@ -1586,7 +1586,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1777603841
+                "LastUpdate": 1779040181
             },
             {
                 "Author": "veyn, croizat",
@@ -2486,7 +2486,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1778963090
+                "LastUpdate": 1779048908
             },
             {
                 "Author": "Ottermandias",
@@ -3281,8 +3281,9 @@
                 "Name": "GilTradeTracker",
                 "InternalName": "GilTradeTracker",
                 "Description": "Tracks gil trades and statistics.",
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/elliethegator/GilTradeTracker",
-                "LastUpdate": 1779036080
+                "LastUpdate": 1779042305
             }
         ]
     },
@@ -4926,7 +4927,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779033293
+                "LastUpdate": 1779043432
             },
             {
                 "Author": "Team Wrath",
@@ -4935,7 +4936,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778999171
+                "LastUpdate": 1779042882
             },
             {
                 "Author": "daemitus, croizat",
@@ -5091,7 +5092,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779033293
+                "LastUpdate": 1779043432
             },
             {
                 "Author": "Team Wrath",
@@ -5100,7 +5101,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778999171
+                "LastUpdate": 1779042882
             },
             {
                 "Author": "daemitus, croizat",
@@ -5759,7 +5760,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1778988315
+                "LastUpdate": 1779054989
             }
         ]
     },
@@ -6014,7 +6015,7 @@
                 "Description": "Character Select Simplified",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Juiposa/Simple-Character-Select",
-                "LastUpdate": 1778972680
+                "LastUpdate": 1779053536
             }
         ]
     },
@@ -6661,7 +6662,7 @@
                 "Description": "Listens to the chat channels you choose and echoes a translation back in your target language. Japanese gets romaji and Chinese gets pinyin in parentheses. Sends translated messages on your active channel via /jp and /zh. Open settings with /ducfg, /duconfig, or /duduconfig.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/klerikdust/dududeshu",
-                "LastUpdate": 1779019310
+                "LastUpdate": 1779047041
             }
         ]
     },
@@ -6907,6 +6908,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/kznr02/Ices-Cosmic-Exploration",
                 "LastUpdate": 1758031904
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "la1998",
+        "repo_url": "https://raw.githubusercontent.com/la1998/RollTracker/main/repo.json",
+        "repo_source_url": "https://github.com/la1998/RollTracker",
+        "repo_name": "RollTracker",
+        "plugins": [
+            {
+                "Author": "Arty",
+                "Name": "RollTracker",
+                "InternalName": "RollTracker",
+                "Description": "Reads chat messages, detects /random rolls, shows all rolls plus highest and lowest roll in a small ImGui window. Commands: /rolltracker, /rt.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/la1998/RollTracker",
+                "LastUpdate": 1779056344
             }
         ]
     },
@@ -7800,7 +7818,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1778858384
+                "LastUpdate": 1779057413
             }
         ]
     },
@@ -7834,7 +7852,7 @@
                 "Description": "Healbot Coppelia is here to serve!  Healing from outside of party for n targets.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/Coppelia",
-                "LastUpdate": 1777533622
+                "LastUpdate": 1779057423
             }
         ]
     },
@@ -7970,7 +7988,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778940970
+                "LastUpdate": 1779057412
             }
         ]
     },
@@ -8077,7 +8095,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1778940970
+                "LastUpdate": 1779057412
             },
             {
                 "Author": "DhogGPT",
@@ -8104,7 +8122,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1778944185
+                "LastUpdate": 1779057428
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -8139,7 +8157,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1778944185
+                "LastUpdate": 1779057428
             }
         ]
     },
@@ -10134,7 +10152,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1779036066
+                "LastUpdate": 1779048835
             },
             {
                 "Author": "OOFGames",
@@ -10152,7 +10170,7 @@
                 "Description": "A plugin to manage mini game sessions, player queues, and Gil transactions. Use /minigames to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
-                "LastUpdate": 1779036063
+                "LastUpdate": 1779048083
             }
         ]
     },
@@ -10169,7 +10187,7 @@
                 "Description": "由酥卷提供技术支持",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/open-xiv/dalamud-plugins",
-                "LastUpdate": 1778248704
+                "LastUpdate": 1779045783
             }
         ]
     },
@@ -10281,7 +10299,7 @@
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1778963090
+                "LastUpdate": 1779048908
             },
             {
                 "Author": "NightmareXIV, AsunaTsuki",
@@ -11271,7 +11289,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1778977495
+                "LastUpdate": 1779060692
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11298,7 +11316,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1778999171
+                "LastUpdate": 1779042882
             },
             {
                 "Author": "daemitus, kawaii",
@@ -12724,7 +12742,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1779024323
+                "LastUpdate": 1779061180
             }
         ]
     },
@@ -13385,7 +13403,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1779038158
+                "LastUpdate": 1779055614
             }
         ]
     },
@@ -14059,7 +14077,7 @@
                 "Description": "A tool for Omni-100 players. Updates and saves the 'Optimize Gear' function for all healers, tanks, etc. with a single click.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ThymmRayne/RoleGearSync_Solution",
-                "LastUpdate": 1777749943
+                "LastUpdate": 1779041022
             }
         ]
     },
@@ -15419,7 +15437,7 @@
                 "Description": "A modular Dalamud tweak hub for small opt-in quality-of-life features.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsTweaks",
-                "LastUpdate": 1779019127
+                "LastUpdate": 1779045989
             }
         ]
     },
@@ -15772,9 +15790,9 @@
                 "Name": "FFXIV Money Tracker",
                 "InternalName": "XIVMoneyTracker",
                 "Description": "For when you want to know how much you spend/earn in ffxiv!",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yschuurmans/FFXIVMoneyTracker",
-                "LastUpdate": 1772986278
+                "LastUpdate": 1779058578
             }
         ]
     },
@@ -16022,7 +16040,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1779034720,
+                "LastUpdate": 1779045769,
                 "is_closed_source": true
             },
             {
