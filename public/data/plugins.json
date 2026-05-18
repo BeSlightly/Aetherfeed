@@ -1867,7 +1867,7 @@
                 "InternalName": "XIVVenueManagerSync",
                 "Description": "Automatically sync patron enter/leave events to your XIVVenueManager.",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
-                "LastUpdate": 1778839583
+                "LastUpdate": 1779095142
             }
         ]
     },
@@ -2468,7 +2468,7 @@
                 "Description": "Easy browsing, installing, and auto updating mods. Advanced automatic texture compositing. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
-                "LastUpdate": 1779037975
+                "LastUpdate": 1779106043
             },
             {
                 "Author": "Asgard, Minmoose and Contributors",
@@ -2504,7 +2504,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778685752
+                "LastUpdate": 1779095447
             },
             {
                 "Author": "CY",
@@ -3895,6 +3895,32 @@
         ]
     },
     {
+        "repo_developer_name": "fenk19",
+        "repo_url": "https://raw.githubusercontent.com/fenk19/DalamudPluginRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/fenk19/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "fenk19",
+                "Name": "BossMod Reborn (RSR Integration)",
+                "InternalName": "BossModReborn",
+                "Description": "Unofficial BossMod Reborn integration build with RotationSolverReborn movement request and feedback support.\n\nThis build keeps the original BossModReborn plugin identity so it replaces the original plugin in Dalamud. It includes RSR positional movement handling, movement feedback, melee-range-aware avoidance options, diagnostics, configuration import/export helpers, and kill-time statistics.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/fenk19/DalamudPluginRepo",
+                "LastUpdate": 1779084294
+            },
+            {
+                "Author": "fenk19",
+                "Name": "Rotation Solver Reborn (BMR Integration)",
+                "InternalName": "RotationSolver",
+                "Description": "Unofficial Rotation Solver Reborn integration build with BossModReborn movement and feedback support.\n\nThis build keeps the original RotationSolver plugin identity so it replaces the original plugin in Dalamud. It includes additional BMR positional movement requests, movement feedback handling, interrupt movement support, diagnostics, and configuration import/export helpers.\n\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/fenk19/DalamudPluginRepo",
+                "LastUpdate": 1779084294
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ff14-advanced-market-search",
         "repo_url": "https://raw.githubusercontent.com/ff14-advanced-market-search/SaddlebagExchangeMarketboardPlugin/main/repo.json",
         "repo_source_url": "https://github.com/ff14-advanced-market-search/SaddlebagExchangeMarketboardPlugin",
@@ -3968,7 +3994,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778912518
+                "LastUpdate": 1779086677
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4724,6 +4750,23 @@
         ]
     },
     {
+        "repo_developer_name": "happytunesai",
+        "repo_url": "https://raw.githubusercontent.com/happytunesai/Craftimizer_alt/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/happytunesai/Craftimizer_alt",
+        "repo_name": "Craftimizer_alt",
+        "plugins": [
+            {
+                "Author": "Asriel",
+                "Name": "Craftimizer (.NET 10)",
+                "InternalName": "CraftimizerNET10",
+                "Description": "Allows you to generate macros and simulate all sorts of crafts without having to open another app. Open your crafting log to get started! (.NET 10 / API 15 build)",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/happytunesai/Craftimizer_alt",
+                "LastUpdate": 1779022860
+            }
+        ]
+    },
+    {
         "repo_developer_name": "harbingerftw",
         "repo_url": "https://raw.githubusercontent.com/harbingerftw/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/harbingerftw/DalamudPlugins",
@@ -4936,7 +4979,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1779042882
+                "LastUpdate": 1779085785
             },
             {
                 "Author": "daemitus, croizat",
@@ -5101,7 +5144,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1779042882
+                "LastUpdate": 1779085785
             },
             {
                 "Author": "daemitus, croizat",
@@ -5178,7 +5221,7 @@
                 "Description": "แปลภาษา FFXIV เป็นไทยแบบ real-time ผ่าน Gemini AI - Real-time FFXIV translation with advanced character database and Netflix-quality localization. Features elegant UI with auto-show/hide, full customization (size, colors), and seamless gameplay integration.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/iarcanar/MBB_Dalamud",
-                "LastUpdate": 1779030573
+                "LastUpdate": 1779097689
             }
         ]
     },
@@ -5255,7 +5298,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1779034126
+                "LastUpdate": 1779089927
             }
         ]
     },
@@ -5725,7 +5768,7 @@
                 "Description": "Personal fork of Dagobert, the automatic market board undercut plugin. Adds bait listing protection so a 1-unit decoy at 5 gil can't drag your retainer prices to the floor while real stacks sit at 1.2k. If you don't need that, install upstream Dagobert instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-dagobert",
-                "LastUpdate": 1779083798
+                "LastUpdate": 1779085687
             },
             {
                 "Author": "jkleinne",
@@ -5743,7 +5786,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1779054989
+                "LastUpdate": 1779090475
             }
         ]
     },
@@ -5998,7 +6041,7 @@
                 "Description": "Character Select Simplified",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Juiposa/Simple-Character-Select",
-                "LastUpdate": 1779080047
+                "LastUpdate": 1779084995
             }
         ]
     },
@@ -6942,7 +6985,7 @@
                 "Description": "Yourcraft creates and restores persistent actors, applies saved appearances, and edits local scene objects with GPose-aware rebuild support.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Laboon2501/Yourcraft",
-                "LastUpdate": 1779068420
+                "LastUpdate": 1779097775
             }
         ]
     },
@@ -7020,7 +7063,7 @@
                 "Description": "开发者工具",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/HaselDebug",
-                "LastUpdate": 1777620377
+                "LastUpdate": 1779093177
             },
             {
                 "Author": "Usagi, Latihas",
@@ -7047,7 +7090,7 @@
                 "Description": "自用收集工具",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/LatihasExport",
-                "LastUpdate": 1778158451
+                "LastUpdate": 1779092101
             },
             {
                 "Author": "Latihas",
@@ -7056,7 +7099,7 @@
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1778782219
+                "LastUpdate": 1779091539
             },
             {
                 "Author": "Siren, Latihas",
@@ -7065,7 +7108,7 @@
                 "Description": "AI幻卡",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/TTC_Siren",
-                "LastUpdate": 1778941758
+                "LastUpdate": 1779093243
             }
         ]
     },
@@ -7356,7 +7399,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1777929527
+                "LastUpdate": 1779087545
             }
         ]
     },
@@ -8404,7 +8447,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778685752
+                "LastUpdate": 1779095447
             }
         ]
     },
@@ -9274,7 +9317,7 @@
                 "Description": "Numpad is also supported.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NightmareXIV/SelectString",
-                "LastUpdate": 1778499174
+                "LastUpdate": 1779087490
             },
             {
                 "Author": "NightmareXIV",
@@ -10291,7 +10334,7 @@
                 "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
-                "LastUpdate": 1777929527
+                "LastUpdate": 1779087545
             },
             {
                 "Author": "Ottermandias",
@@ -10336,7 +10379,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778685752
+                "LastUpdate": 1779095447
             },
             {
                 "Author": "Caraxi",
@@ -11192,7 +11235,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1779034126
+                "LastUpdate": 1779089927
             },
             {
                 "Author": "Det, Taurenkey",
@@ -11272,7 +11315,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1779082248
+                "LastUpdate": 1779097407
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11299,7 +11342,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1779042882
+                "LastUpdate": 1779085785
             },
             {
                 "Author": "daemitus, kawaii",
@@ -11804,7 +11847,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778685752
+                "LastUpdate": 1779095447
             }
         ]
     },
@@ -11821,7 +11864,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778685752
+                "LastUpdate": 1779095447
             }
         ]
     },
@@ -12725,7 +12768,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1779069812
+                "LastUpdate": 1779105111
             }
         ]
     },
@@ -12895,7 +12938,7 @@
                 "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sevii77/aetherment",
-                "LastUpdate": 1779037975
+                "LastUpdate": 1779106043
             }
         ]
     },
@@ -13187,7 +13230,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1779038995
+                "LastUpdate": 1779102132
             },
             {
                 "Author": "XSZYYS",
@@ -13196,7 +13239,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1779038995,
+                "LastUpdate": 1779102132,
                 "is_closed_source": true
             }
         ]
@@ -13386,7 +13429,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1779068307
+                "LastUpdate": 1779103452
             }
         ]
     },
@@ -13659,6 +13702,40 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/SubPlay/GatherBuddyRebornFixesRelease",
                 "LastUpdate": 1742462281
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "supasentaidalmud",
+        "repo_url": "https://raw.githubusercontent.com/supasentaidalmud/eorzeaoutlook/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/supasentaidalmud/eorzeaoutlook",
+        "repo_name": "eorzeaoutlook",
+        "plugins": [
+            {
+                "Author": "supasentaidalmud",
+                "Name": "Eorzea Outlook",
+                "InternalName": "EorzeaOutlook",
+                "Description": "A calendar for personal events, reminders, and official Lodestone in-game events. Use /pcalendar to open Eorzea Outlook.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/supasentaidalmud/eorzeaoutlook",
+                "LastUpdate": 1779105421
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "supasentaidalmud",
+        "repo_url": "https://raw.githubusercontent.com/supasentaidalmud/MateriaRetreive/main/repo.json",
+        "repo_source_url": "https://github.com/supasentaidalmud/MateriaRetreive",
+        "repo_name": "MateriaRetreive",
+        "plugins": [
+            {
+                "Author": "supasentaidalmud",
+                "Name": "MateriaRetreive",
+                "InternalName": "MateriaRetreive",
+                "Description": "Adds a safe review window for retrieving attached materia from inventory and armory gear. Open it from /mr or an item's context menu, filter gearset and non-gearset items, then begin or cancel the retrieval queue when ready.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/supasentaidalmud/MateriaRetreive",
+                "LastUpdate": 1779102714
             }
         ]
     },
@@ -14077,7 +14154,7 @@
                 "Description": "Change your and other peoples names in various UI elements!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/tigurand/FakeName",
-                "LastUpdate": 1777637818
+                "LastUpdate": 1779086073
             },
             {
                 "Author": "Lucille",
@@ -14487,7 +14564,7 @@
                 "Description": "Where mods",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/UnlostWorld/PeerSync",
-                "LastUpdate": 1778996082
+                "LastUpdate": 1779103418
             }
         ]
     },
@@ -14962,7 +15039,7 @@
                 "Description": "Instant Character Switching Made Simple\n\nCreate and save character profiles, then switch between them instantly. Applies Penumbra Collections, Glamourer Designs, Customize+ Profiles, Honorifics, Moodles, and Idles.Key Features: One-click character switching, multiple designs per character, advanced macro support, roleplay profiles, a character gallery, and immersive dialogue options. Perfect for roleplayers, gposers, and anyone who loves seamless character customization without manually switching between multiple plugins.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/wasdcxz/DalamudPlugins",
-                "LastUpdate": 1778771555
+                "LastUpdate": 1779101613
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -14971,7 +15048,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1778912518
+                "LastUpdate": 1779086677
             },
             {
                 "Author": "Ottermandias",
@@ -15437,7 +15514,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1778685752
+                "LastUpdate": 1779095447
             }
         ]
     },
