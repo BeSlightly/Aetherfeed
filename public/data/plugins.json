@@ -2730,7 +2730,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779238643
+                "LastUpdate": 1779261097
             },
             {
                 "Author": "Critical_Impact",
@@ -3984,7 +3984,7 @@
                 "Description": "Configurable timeline display of all the actions you use.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn",
-                "LastUpdate": 1777835142
+                "LastUpdate": 1779258840
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -3993,7 +3993,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779238643
+                "LastUpdate": 1779261097
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4047,7 +4047,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1779005265
+                "LastUpdate": 1779263495
             },
             {
                 "Author": "Churin",
@@ -4065,7 +4065,7 @@
                 "Description": "Automates various steps of the ARR Relic Quests",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/ZodiacBuddyReborn",
-                "LastUpdate": 1777634268
+                "LastUpdate": 1779258944
             }
         ],
         "repo_developer_name": "FFXIV-CombatReborn",
@@ -5238,7 +5238,7 @@
                 "Description": "แปลภาษา FFXIV เป็นไทยแบบ real-time ผ่าน Gemini AI - Real-time FFXIV translation with advanced character database and Netflix-quality localization. Features elegant UI with auto-show/hide, full customization (size, colors), and seamless gameplay integration.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/iarcanar/MBB_Dalamud",
-                "LastUpdate": 1779199658
+                "LastUpdate": 1779254465
             }
         ]
     },
@@ -5408,7 +5408,7 @@
                 "Description": "AetherTrail records player movement into a local navigation graph, renders trail guidance to map flags or quest targets, and supports opt-in party graph sync.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ImperfectRain/AetherTrail",
-                "LastUpdate": 1779241259
+                "LastUpdate": 1779263286
             }
         ]
     },
@@ -5691,7 +5691,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1778836071
+                "LastUpdate": 1779261256
             },
             {
                 "Author": "croizat",
@@ -5802,7 +5802,7 @@
                 "Description": "Personal fork of Dagobert, the automatic market board undercut plugin. Adds bait listing protection so a 1-unit decoy at 5 gil can't drag your retainer prices to the floor while real stacks sit at 1.2k. If you don't need that, install upstream Dagobert instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-dagobert",
-                "LastUpdate": 1779085687
+                "LastUpdate": 1779246309
             },
             {
                 "Author": "jkleinne",
@@ -6076,6 +6076,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Juiposa/Simple-Character-Select",
                 "LastUpdate": 1779128079
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "juiposa",
+        "repo_url": "https://raw.githubusercontent.com/juiposa/Spaketh/main/Releases/repo.json",
+        "repo_source_url": "https://github.com/juiposa/Spaketh",
+        "repo_name": "Spaketh",
+        "plugins": [
+            {
+                "Author": "Juiposa",
+                "Name": "Spaketh",
+                "InternalName": "SpakethPlugin",
+                "Description": "/spaketh",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/juiposa/Spaketh",
+                "LastUpdate": 1779250833
             }
         ]
     },
@@ -7019,7 +7036,7 @@
                 "Description": "Yourcraft creates and restores persistent actors, applies saved appearances, and edits local scene objects with GPose-aware rebuild support.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Laboon2501/Yourcraft",
-                "LastUpdate": 1779097775
+                "LastUpdate": 1779252343
             }
         ]
     },
@@ -7071,7 +7088,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1779230676
+                "LastUpdate": 1779256149
             }
         ]
     },
@@ -7699,7 +7716,7 @@
                 "Description": "逐幀分析戰鬥情況，並找出下一幀最適合使用的技能。\n\n這意味著幾乎所有戰鬥中可用的資訊都在一幀中，包括隊伍中所有玩家的狀態、任何敵對目標的狀態、技能冷卻時間、角色的MP/HP、角色的位置、敵對目標的施法狀態、連擊、戰鬥時長、玩家等級等。\n\n然後，它會在快捷欄上高亮顯示最佳行動，或説明你點擊它。\n\n它是為“日常戰鬥”設計的，不適用於零式或者絕境戰。請謹慎使用\"",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1779005265
+                "LastUpdate": 1779263495
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11879,7 +11896,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: ffbard.com",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://midibard.org",
-                "LastUpdate": 1777692108
+                "LastUpdate": 1778163839
             }
         ],
         "repo_name": "DalamudPlugins-Ori",
@@ -12862,7 +12879,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1779226242
+                "LastUpdate": 1779259057
             }
         ]
     },
@@ -13341,7 +13358,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1779181085
+                "LastUpdate": 1779263520
             },
             {
                 "Author": "XSZYYS",
@@ -13350,7 +13367,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1779181085,
+                "LastUpdate": 1779263520,
                 "is_closed_source": true
             }
         ]
@@ -14454,7 +14471,7 @@
                 "Description": "Tracks dice rolls, captures names, and highlights winners.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tuconei/SimpleRollTracker",
-                "LastUpdate": 1777524839
+                "LastUpdate": 1779255699
             }
         ]
     },
@@ -14512,9 +14529,9 @@
                 "Name": "ToshiBox",
                 "InternalName": "ToshiBox",
                 "Description": "My own playground for plugin dev",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1779145890
+                "LastUpdate": 1779252883
             }
         ]
     },
@@ -14626,6 +14643,14 @@
         "repo_developer_name": "Unknown Developer",
         "repo_name": "nala",
         "plugins": [
+            {
+                "Author": "Nala Praline",
+                "Name": "NalaPF",
+                "InternalName": "NalaPF",
+                "Description": "Captures your PF configuration and automatically recreates it after a disconnect or datacenter switch.\n\nCommands:\n/pfr",
+                "DalamudApiLevel": 15,
+                "LastUpdate": 1779248281
+            },
             {
                 "Author": "Nala Praline",
                 "Name": "VenueScope",
@@ -14789,7 +14814,7 @@
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1779201788
+                "LastUpdate": 1779256895
             }
         ]
     },
@@ -15262,7 +15287,7 @@
                 "Description": "Uploads your game statistics (such as quest progress, gil, retainer stats) to an InfluxDB or QuestDB instance, making it possible to automatically track your progress through external tools such as Grafana.\n\nOriginally created by Liza Carvelli.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/WigglyMuffin/Influx",
-                "LastUpdate": 1779239199
+                "LastUpdate": 1779242297
             },
             {
                 "Author": "MacaronDream",
@@ -15314,7 +15339,7 @@
                 "Description": "Created by Liza Carvelli, maintained by WigglyMuffin.\n\nUploads your game statistics (such as quest progress, gil, retainer stats) to an InfluxDB or QuestDB instance, making it possible to automatically track your progress through external tools such as Grafana.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/WigglyMuffin/Influx",
-                "LastUpdate": 1779239199
+                "LastUpdate": 1779242297
             },
             {
                 "Author": "MacaronDream",
