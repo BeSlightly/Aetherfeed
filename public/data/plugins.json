@@ -2693,7 +2693,7 @@
                 "Description": "Lists every armoire-eligible dungeon drop in the game and shows whether each is in your inventory, in your armoire, or still missing. Sort by level, hide completed dungeons, toggle to show owned items too. Open the armoire UI at an inn once per session to populate the in-armoire state; in-inventory and equipped state is detected automatically. Use /armoire.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779236711
+                "LastUpdate": 1779383124
             },
             {
                 "Author": "dajoey",
@@ -2702,7 +2702,7 @@
                 "Description": "Automatically uses the highest-tier HP potion in your inventory at a configurable HP threshold. In deep dungeons, also auto-uses the dungeon's regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at its own threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779236711
+                "LastUpdate": 1779383124
             },
             {
                 "Author": "dajoey",
@@ -2711,7 +2711,7 @@
                 "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779236711
+                "LastUpdate": 1779383124
             },
             {
                 "Author": "dajoey",
@@ -2720,7 +2720,16 @@
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779236711
+                "LastUpdate": 1779383124
+            },
+            {
+                "Author": "daemitus, MidoriKami, dajoey",
+                "Name": "Lazy WT Math",
+                "InternalName": "LazyWTMath",
+                "Description": "Adds row probabilities to the Wondrous Tails display along with the average probability of what would happen if you shuffled. Upgraded for modern FFXIV.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dajoey/lalalazy",
+                "LastUpdate": 1779383124
             },
             {
                 "Author": "dajoey",
@@ -2729,7 +2738,7 @@
                 "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779236711
+                "LastUpdate": 1779383124
             }
         ]
     },
@@ -2746,7 +2755,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779294032
+                "LastUpdate": 1779397369
             },
             {
                 "Author": "Critical_Impact",
@@ -4026,7 +4035,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779294032
+                "LastUpdate": 1779397369
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4383,6 +4392,23 @@
                 "Description": "Play Blackjack and gamble your chips away with friends!",
                 "RepoUrl": "https://github.com/GamerLatte/Ultimate-Gamba",
                 "LastUpdate": 1753886860
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "GayPotatoEmma",
+        "repo_url": "https://raw.githubusercontent.com/GayPotatoEmma/botw-quest-banner/master/repo.json",
+        "repo_source_url": "https://github.com/GayPotatoEmma/botw-quest-banner",
+        "repo_name": "botw-quest-banner",
+        "plugins": [
+            {
+                "Author": "gaypotatoemma",
+                "Name": "Quest Banners",
+                "InternalName": "QuestBanners",
+                "Description": "Adds several styles of Quest Banners to replace the Vanilla Styles, inspired by various other games.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/GayPotatoEmma/botw-quest-banner",
+                "LastUpdate": 1779383711
             }
         ]
     },
@@ -5441,7 +5467,7 @@
                 "Description": "AetherTrail records player movement into a local navigation graph, renders trail guidance to map flags or quest targets, and supports opt-in party graph sync.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ImperfectRain/AetherTrail",
-                "LastUpdate": 1779339894
+                "LastUpdate": 1779391136
             }
         ]
     },
@@ -5870,16 +5896,16 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1779351249
+                "LastUpdate": 1779399995
             },
             {
-                "Author": "Ice",
+                "Author": "jkleinne",
                 "Name": "Ice's Cosmic Exploration",
                 "InternalName": "ICE",
                 "Description": "A little helper to go gather your heart out.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-Ices-Cosmic-Exploration",
-                "LastUpdate": 1779377570
+                "LastUpdate": 1779386335
             }
         ]
     },
@@ -7060,7 +7086,7 @@
                 "Description": "Reads chat messages, detects /random rolls, shows all rolls plus highest and lowest roll in a small ImGui window. Commands: /rolltracker, /rt.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/la1998/RollTracker",
-                "LastUpdate": 1779307146
+                "LastUpdate": 1779396637
             }
         ]
     },
@@ -7954,7 +7980,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1779372289
+                "LastUpdate": 1779396348
             }
         ]
     },
@@ -8073,7 +8099,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1779372554
+                "LastUpdate": 1779393522
             }
         ]
     },
@@ -8124,7 +8150,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1779322663
+                "LastUpdate": 1779393560
             }
         ]
     },
@@ -8141,7 +8167,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1778429005
+                "LastUpdate": 1779393507
             }
         ]
     },
@@ -8204,7 +8230,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1779372554
+                "LastUpdate": 1779393522
             },
             {
                 "Author": "DhogGPT",
@@ -8231,7 +8257,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1779322663
+                "LastUpdate": 1779393560
             },
             {
                 "Author": "DhogGPT",
@@ -8240,7 +8266,7 @@
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1778429005
+                "LastUpdate": 1779393507
             },
             {
                 "Author": "DhogGPT",
@@ -10314,7 +10340,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1779211090
+                "LastUpdate": 1779386056
             },
             {
                 "Author": "OOFGames",
@@ -11469,7 +11495,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1779377231
+                "LastUpdate": 1779379093
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -13940,7 +13966,7 @@
                 "Description": "Adds a safe review window for retrieving attached materia from inventory and armory gear. Open it from /mr or an item's context menu, filter gearset and non-gearset items, then begin or cancel the retrieval queue when ready.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/supasentaidalmud/MateriaRetreive",
-                "LastUpdate": 1779224886
+                "LastUpdate": 1779388449
             }
         ]
     },
@@ -13966,7 +13992,51 @@
                 "Description": "Adds a safe review window for retrieving attached materia from inventory and armory gear. Open it from /mr or an item's context menu, filter gearset and non-gearset items, then begin or cancel the retrieval queue when ready.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/supasentaidalmud/MateriaRetreive",
-                "LastUpdate": 1779224886
+                "LastUpdate": 1779388449
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "susy-bakaa",
+        "repo_url": "https://raw.githubusercontent.com/susy-bakaa/susy-bakaa.github.io/master/ffxiv/dalamud/repo.json",
+        "repo_source_url": "https://github.com/susy-bakaa/susy-bakaa.github.io",
+        "repo_name": "susy-bakaa.github.io",
+        "plugins": [
+            {
+                "Author": "Lichie, susy_baka",
+                "Name": "LMeter",
+                "InternalName": "LMeter",
+                "Description": "Plugin to display ACT combat log data.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/susy-bakaa/LMeter",
+                "LastUpdate": 1777562946
+            },
+            {
+                "Author": "Marulu, StreetRat, Limiana",
+                "Name": "MaskedCarnivale",
+                "InternalName": "MaskedCarnivale",
+                "Description": "Allows you to record, or stream your game without displaying Dalamud plugins. The plugin creates a second window in the background which can be recorded using software like OBS.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/susy-bakaa/MaskedCarnivale",
+                "LastUpdate": 1777564662
+            },
+            {
+                "Author": "Frogworks Interactive, susy_baka",
+                "Name": "OOF! Ox Edition",
+                "InternalName": "OofPluginOx",
+                "Description": "Play the OOF! sound on fall and/or death. The Only Plugin You Need!",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/susy-bakaa/OOF",
+                "LastUpdate": 1777566243
+            },
+            {
+                "Author": "Windmourn, 0x526f6d656f, susy_baka",
+                "Name": "SkipCutscene",
+                "InternalName": "SkipCutscene",
+                "Description": "WARNING: ONLY USE THIS PLUGIN WITH DUTY SUPPORT OR PEOPLE YOU TRUST!\n\nAdds command to toggle MSQ Roulette cutscenes. That's all. No more 20+ minute Praetorium runs.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/susy-bakaa/Dalamud.SkipCutscene",
+                "LastUpdate": 1777561563
             }
         ]
     },
@@ -14923,18 +14993,18 @@
                 "Name": "BetterFateList",
                 "InternalName": "BetterFateList",
                 "Description": "Provides a list of all FATEs in the current zone, with their type, sorted by maximum level and distance from you.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VariableVixen/BetterFateList",
-                "LastUpdate": 1767473116
+                "LastUpdate": 1779390517
             },
             {
                 "Author": "VariableVixen",
                 "Name": "TinyCommands",
                 "InternalName": "TinyCmds",
                 "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VariableVixen/TinyCommands",
-                "LastUpdate": 1767473280
+                "LastUpdate": 1779390893
             },
             {
                 "Author": "VariableVixen",
@@ -14943,25 +15013,25 @@
                 "Description": "Write custom chat commands by creating lua scripts",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VariableVixen/WoLua",
-                "LastUpdate": 1778951040
+                "LastUpdate": 1779391099
             },
             {
                 "Author": "attick, daemitus, VariableVixen",
                 "Name": "XIV Combo Very Expanded",
                 "InternalName": "XIVComboVX",
                 "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VariableVixen/XIVComboPlugin",
-                "LastUpdate": 1769005772
+                "LastUpdate": 1779394631
             },
             {
                 "Author": "VariableVixen",
                 "Name": "XivEsp",
                 "InternalName": "XivEsp",
                 "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VariableVixen/XivEsp",
-                "LastUpdate": 1767476611
+                "LastUpdate": 1779390402
             }
         ]
     },
@@ -15744,7 +15814,7 @@
                 "Description": "Tired of manually babysitting your BossMod settings mid-fight? XCAI handles your positioning, distances, and Ley Lines automatically so you can focus on not dying. Results may vary on the not dying part.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsCombatAI",
-                "LastUpdate": 1779289242
+                "LastUpdate": 1779398857
             },
             {
                 "Author": "xeltor",
