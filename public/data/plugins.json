@@ -1012,6 +1012,23 @@
         ]
     },
     {
+        "repo_developer_name": "arucuu",
+        "repo_url": "https://raw.githubusercontent.com/arucuu/ByeByeMercenary/master/repo.json",
+        "repo_source_url": "https://github.com/arucuu/ByeByeMercenary",
+        "repo_name": "ByeByeMercenary",
+        "plugins": [
+            {
+                "Author": "arucuu",
+                "Name": "Bye Bye Mercenary",
+                "InternalName": "ByeByeMercenary",
+                "Description": "Hides standard Party Finder listings whose comment matches user-defined patterns (plain text or regex). Useful for filtering out RMT/mercenary advertisements. Open the settings window with /bbm. Filtering is client-side only.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/arucuu/ByeByeMercenary",
+                "LastUpdate": 1779459214
+            }
+        ]
+    },
+    {
         "repo_developer_name": "arzolath",
         "repo_url": "https://raw.githubusercontent.com/arzolath/FFXIV_BigBody/main/pluginmaster.json",
         "repo_source_url": "https://github.com/arzolath/FFXIV_BigBody",
@@ -1311,7 +1328,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1779426121,
+                "LastUpdate": 1779453771,
                 "is_closed_source": true
             },
             {
@@ -1321,7 +1338,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1779426121,
+                "LastUpdate": 1779453771,
                 "is_closed_source": true
             },
             {
@@ -1331,7 +1348,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1779426121,
+                "LastUpdate": 1779453771,
                 "is_closed_source": true
             },
             {
@@ -1341,7 +1358,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1779426121,
+                "LastUpdate": 1779453771,
                 "is_closed_source": true
             },
             {
@@ -1568,7 +1585,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779315635
+                "LastUpdate": 1779462530
             },
             {
                 "Author": "veyn, croizat",
@@ -2693,7 +2710,7 @@
                 "Description": "Lists every armoire-eligible dungeon drop in the game and shows whether each is in your inventory, in your armoire, or still missing. Sort by level, hide completed dungeons, toggle to show owned items too. Open the armoire UI at an inn once per session to populate the in-armoire state; in-inventory and equipped state is detected automatically. Use /armoire.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779422663
+                "LastUpdate": 1779455031
             },
             {
                 "Author": "dajoey",
@@ -2702,7 +2719,7 @@
                 "Description": "Automatically uses the highest-tier HP potion in your inventory at a configurable HP threshold. In deep dungeons, also auto-uses the dungeon's regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at its own threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779422663
+                "LastUpdate": 1779455031
             },
             {
                 "Author": "dajoey",
@@ -2711,7 +2728,7 @@
                 "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779422663
+                "LastUpdate": 1779455031
             },
             {
                 "Author": "dajoey",
@@ -2720,7 +2737,7 @@
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779422663
+                "LastUpdate": 1779455031
             },
             {
                 "Author": "dajoey",
@@ -2729,7 +2746,7 @@
                 "Description": "Fully automated FFXIV sightseeing log completion. Uses vnavmesh for flight and pathing, and lifestream for easy teleportation (/li inn). Automatically skips locked weather/time windows, re-prioritizes if windows open, and returns you to the inn when complete.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779422663
+                "LastUpdate": 1779455031
             },
             {
                 "Author": "daemitus, MidoriKami, dajoey",
@@ -2738,7 +2755,7 @@
                 "Description": "Adds row probabilities to the Wondrous Tails display along with the average probability of what would happen if you shuffled. Upgraded for modern FFXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779422663
+                "LastUpdate": 1779455031
             },
             {
                 "Author": "dajoey",
@@ -2747,7 +2764,7 @@
                 "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779422663
+                "LastUpdate": 1779455031
             }
         ]
     },
@@ -2764,7 +2781,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779397369
+                "LastUpdate": 1779468047
             },
             {
                 "Author": "Critical_Impact",
@@ -4044,7 +4061,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779397369
+                "LastUpdate": 1779468047
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4417,7 +4434,7 @@
                 "Description": "Adds several styles of Quest Banners to replace the Vanilla Styles, inspired by various other games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/GayPotatoEmma/botw-quest-banner",
-                "LastUpdate": 1779383711
+                "LastUpdate": 1779446195
             }
         ]
     },
@@ -5037,7 +5054,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779315635
+                "LastUpdate": 1779462530
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -5202,7 +5219,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779315635
+                "LastUpdate": 1779462530
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -6833,7 +6850,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1779375498
+                "LastUpdate": 1779449529
             }
         ]
     },
@@ -9622,7 +9639,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1779120467,
+                "LastUpdate": 1779451065,
                 "is_closed_source": true
             },
             {
@@ -9632,7 +9649,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1779120467,
+                "LastUpdate": 1779451065,
                 "is_closed_source": true
             },
             {
@@ -9642,7 +9659,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1779120467,
+                "LastUpdate": 1779451065,
                 "is_closed_source": true
             },
             {
@@ -9987,6 +10004,23 @@
                 "Description": "Automatically shout/yell a custom macro across all worlds and major cities using Lifestream and ECommons. Supports all regions (NA/EU/JP/OCE), auto-resume, zone detection, and comprehensive error handling.",
                 "RepoUrl": "https://github.com/nilah-xiv/Shout-Bot-Repo",
                 "LastUpdate": 1777740701
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Ninethirty77",
+        "repo_url": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/repo.json",
+        "repo_source_url": "https://github.com/Ninethirty77/the-greenzone-repo",
+        "repo_name": "the-greenzone-repo",
+        "plugins": [
+            {
+                "Author": "Ninethirty77",
+                "Name": "The GreenZone",
+                "InternalName": "FCMetrics",
+                "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
+                "LastUpdate": 1779466074
             }
         ]
     },
@@ -10366,7 +10400,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1779386056
+                "LastUpdate": 1779461848
             },
             {
                 "Author": "OOFGames",
@@ -10375,7 +10409,7 @@
                 "Description": "Browse active gambling events across Eorzea or host your own session. Use /gambawhere to open the interface.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1779211087
+                "LastUpdate": 1779458972
             },
             {
                 "Author": "OOFGames",
@@ -10384,7 +10418,7 @@
                 "Description": "A plugin to manage mini game sessions, player queues, and Gil transactions. Use /minigames to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
-                "LastUpdate": 1779048083
+                "LastUpdate": 1779461846
             }
         ]
     },
@@ -11521,7 +11555,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1779444022
+                "LastUpdate": 1779466608
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -12313,7 +12347,7 @@
                 "Description": "Open-world FATE grinder. Walks between FATEs, mounts, flies, engages, and chains across zones. Uses vnavmesh for pathfinding, BossmodReborn (FateUtils + autorotation) for combat, and Lifestream for cross-zone teleport.\n\nRequired plugins: vnavmesh, BossmodReborn, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/richardlh023/FateWalker",
-                "LastUpdate": 1779373210
+                "LastUpdate": 1779466999
             }
         ]
     },
@@ -12434,7 +12468,7 @@
                 "Description": "Allagan Tools - InventoryTools 的中文汉化版本。功能包括：背包管理、物品筛选、制作列表、市场板价格追踪等。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoefQwQ/InventoryTools",
-                "LastUpdate": 1779445258
+                "LastUpdate": 1779448676
             }
         ]
     },
@@ -12834,6 +12868,23 @@
         ]
     },
     {
+        "repo_developer_name": "SamoyedQQ",
+        "repo_url": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/repo.json",
+        "repo_source_url": "https://github.com/SamoyedQQ/TCRankingViewer",
+        "repo_name": "TCRankingViewer",
+        "plugins": [
+            {
+                "Author": "Whitedog",
+                "Name": "TCRankingViewer",
+                "InternalName": "TCRankingViewer",
+                "Description": "當隊友進入隊伍或開啟招募資訊時，自動從 ranking.init.engineer 與 samoyedqq.github.io/TCtomestone 抓取對應角色的零式/絕本排名資料，並顯示於聊天框與插件視窗。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
+                "LastUpdate": 1779468281
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Sansflaire",
         "repo_url": "https://raw.githubusercontent.com/Sansflaire/AutoReactFFXIV/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Sansflaire/AutoReactFFXIV",
@@ -13025,7 +13076,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1779432816
+                "LastUpdate": 1779458999
             }
         ]
     },
@@ -13703,7 +13754,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1779444841
+                "LastUpdate": 1779459789
             }
         ]
     },
@@ -13773,6 +13824,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Sowce/optimal-mch-gameplay",
                 "LastUpdate": 1762544088
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Sowce",
+        "repo_url": "https://raw.githubusercontent.com/Sowce/whodis/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/Sowce/whodis",
+        "repo_name": "whodis",
+        "plugins": [
+            {
+                "Author": "kwassant",
+                "Name": "Marauder's Map",
+                "InternalName": "MarauderMap",
+                "Description": "Peek into party finders to know who's in there.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Sowce/whodis",
+                "LastUpdate": 1779377337
             }
         ]
     },
@@ -14301,7 +14369,7 @@
                 "Description": "Composites image decals onto character skin textures (diffuse + normal) in real time via Penumbra. No game file modification. Supports per-layer emissive, iris glow, ColorTable PBR, and Mod (.pmp) export. Under active development - feedback welcome via Issues or Discord. Type /skintattoo to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
-                "LastUpdate": 1778168476
+                "LastUpdate": 1779464158
             }
         ]
     },
@@ -14386,7 +14454,7 @@
                 "InternalName": "Habitat",
                 "Description": "The official companion plugin for Habitat Nightclub",
                 "RepoUrl": "https://github.com/thescarini/Habitat",
-                "LastUpdate": 1778862044
+                "LastUpdate": 1779468309
             }
         ]
     },
@@ -15866,7 +15934,7 @@
                 "Description": "A modular Dalamud tweak hub for small opt-in quality-of-life features.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsTweaks",
-                "LastUpdate": 1779313563
+                "LastUpdate": 1779450723
             }
         ]
     },
