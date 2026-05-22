@@ -501,6 +501,23 @@
         ]
     },
     {
+        "repo_developer_name": "AkiraEgawa",
+        "repo_url": "https://raw.githubusercontent.com/AkiraEgawa/FFXIVPlugin/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/AkiraEgawa/FFXIVPlugin",
+        "repo_name": "FFXIVPlugin",
+        "plugins": [
+            {
+                "Author": "Akira",
+                "Name": "Monk Telemetry Logger",
+                "InternalName": "MonkTelemetry",
+                "Description": "High-precision vector and combat tracking telemetry engine for Monk mirror matches.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AkiraEgawa/FFXIVPlugin",
+                "LastUpdate": 1779479859
+            }
+        ]
+    },
+    {
         "repo_developer_name": "AlessHub",
         "repo_url": "https://raw.githubusercontent.com/AlessHub/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/AlessHub/DalamudPlugins",
@@ -615,7 +632,7 @@
                 "Description": "Visual face bone sculpting with brush tools, mirroring, and direct Customize+ import/export.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/amatiramisu/mascaron",
-                "LastUpdate": 1779204783
+                "LastUpdate": 1779480131
             }
         ]
     },
@@ -1328,7 +1345,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1779453771,
+                "LastUpdate": 1779479649,
                 "is_closed_source": true
             },
             {
@@ -1338,7 +1355,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1779453771,
+                "LastUpdate": 1779479649,
                 "is_closed_source": true
             },
             {
@@ -1348,7 +1365,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1779453771,
+                "LastUpdate": 1779479649,
                 "is_closed_source": true
             },
             {
@@ -1358,7 +1375,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1779453771,
+                "LastUpdate": 1779479649,
                 "is_closed_source": true
             },
             {
@@ -1585,7 +1602,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779462530
+                "LastUpdate": 1779485649
             },
             {
                 "Author": "veyn, croizat",
@@ -2710,7 +2727,7 @@
                 "Description": "Lists every armoire-eligible dungeon drop in the game and shows whether each is in your inventory, in your armoire, or still missing. Sort by level, hide completed dungeons, toggle to show owned items too. Open the armoire UI at an inn once per session to populate the in-armoire state; in-inventory and equipped state is detected automatically. Use /armoire.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779455031
+                "LastUpdate": 1779471997
             },
             {
                 "Author": "dajoey",
@@ -2719,7 +2736,7 @@
                 "Description": "Automatically uses the highest-tier HP potion in your inventory at a configurable HP threshold. In deep dungeons, also auto-uses the dungeon's regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at its own threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779455031
+                "LastUpdate": 1779471997
             },
             {
                 "Author": "dajoey",
@@ -2728,7 +2745,7 @@
                 "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779455031
+                "LastUpdate": 1779471997
             },
             {
                 "Author": "dajoey",
@@ -2737,7 +2754,7 @@
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779455031
+                "LastUpdate": 1779471997
             },
             {
                 "Author": "dajoey",
@@ -2746,7 +2763,7 @@
                 "Description": "Fully automated FFXIV sightseeing log completion. Uses vnavmesh for flight and pathing, and lifestream for easy teleportation (/li inn). Automatically skips locked weather/time windows, re-prioritizes if windows open, and returns you to the inn when complete.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779455031
+                "LastUpdate": 1779471997
             },
             {
                 "Author": "daemitus, MidoriKami, dajoey",
@@ -2755,7 +2772,7 @@
                 "Description": "Adds row probabilities to the Wondrous Tails display along with the average probability of what would happen if you shuffled. Upgraded for modern FFXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779455031
+                "LastUpdate": 1779471997
             },
             {
                 "Author": "dajoey",
@@ -2764,7 +2781,7 @@
                 "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779455031
+                "LastUpdate": 1779471997
             }
         ]
     },
@@ -3195,7 +3212,7 @@
                 "Description": "[ALPHA] Change your appearance in-game.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1778936188
+                "LastUpdate": 1779488921
             },
             {
                 "Author": "Eauldane",
@@ -3222,7 +3239,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1778936188
+                "LastUpdate": 1779488921
             },
             {
                 "Author": "Eauldane",
@@ -3231,7 +3248,7 @@
                 "Description": "[ALPHA] PMP compatible mod loader.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1778936188
+                "LastUpdate": 1779488921
             }
         ]
     },
@@ -3248,7 +3265,7 @@
                 "Description": "A plugin that targets the player that's talking to you, it shifts your target to the last message received, if you want to monitor that chat",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/echodetla/ffxiv-look-at-me",
-                "LastUpdate": 1777614835
+                "LastUpdate": 1779485082
             }
         ]
     },
@@ -5054,7 +5071,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779462530
+                "LastUpdate": 1779485649
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -5081,7 +5098,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1779440259
+                "LastUpdate": 1779473203
             },
             {
                 "Author": "daemitus, croizat",
@@ -5219,7 +5236,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779462530
+                "LastUpdate": 1779485649
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -5246,7 +5263,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1779440259
+                "LastUpdate": 1779473203
             },
             {
                 "Author": "daemitus, croizat",
@@ -5493,7 +5510,7 @@
                 "Description": "AetherTrail records player movement into a local navigation graph, renders trail guidance to map flags or quest targets, and supports opt-in party graph sync.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ImperfectRain/AetherTrail",
-                "LastUpdate": 1779430564
+                "LastUpdate": 1779469439
             }
         ]
     },
@@ -6152,7 +6169,7 @@
                 "InternalName": "FaloopMessenger",
                 "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
                 "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1779215318
+                "LastUpdate": 1779488604
             }
         ]
     },
@@ -6203,7 +6220,7 @@
                 "Description": "/spaketh",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/juiposa/Spaketh",
-                "LastUpdate": 1779301112
+                "LastUpdate": 1779481054
             }
         ]
     },
@@ -7216,7 +7233,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1779332175
+                "LastUpdate": 1779482054
             }
         ]
     },
@@ -7853,7 +7870,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1777639584
+                "LastUpdate": 1779476398
             }
         ]
     },
@@ -8193,7 +8210,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1779419566
+                "LastUpdate": 1779479601
             }
         ]
     },
@@ -8300,7 +8317,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1779419566
+                "LastUpdate": 1779479601
             },
             {
                 "Author": "DhogGPT",
@@ -9042,7 +9059,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1779282355
+                "LastUpdate": 1779475330
             }
         ]
     },
@@ -10589,9 +10606,9 @@
                 "Name": "Heliosphere",
                 "InternalName": "heliosphere-plugin",
                 "Description": "Heliosphere is a mod manager and platform designed to work directly with\nPenumbra. It enables efficient downloads and fast installs to let you get back\nto the fun part of mods: using them.\n\nHeliosphere supports:\n- Direct install to Penumbra\n- Compressed and deduplicated (read: small) downloads\n- Automatic updates (optional)\n- Version history\n- Mod changelogs\n- Pictures in Penumbra\n- And more\n\nGive Heliosphere a try, and see if you can't say goodbye to any old mod\nplatform you were using before.",
-                "DalamudApiLevel": 15,
+                "DalamudApiLevel": 14,
                 "RepoUrl": "https://heliosphere.app/",
-                "LastUpdate": 1777496218
+                "LastUpdate": 1779481352
             },
             {
                 "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -10930,7 +10947,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1779322638
+                "LastUpdate": 1779476754
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -11564,7 +11581,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1777639584
+                "LastUpdate": 1779476398
             },
             {
                 "Author": "NightmareXIV",
@@ -11582,7 +11599,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1779440259
+                "LastUpdate": 1779473203
             },
             {
                 "Author": "daemitus, kawaii",
@@ -12059,7 +12076,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: ffbard.com",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://midibard.org",
-                "LastUpdate": 1778163839
+                "LastUpdate": 1779258716
             }
         ],
         "repo_name": "DalamudPlugins-Ori",
@@ -12243,7 +12260,7 @@
                 "Description": "Avoiding trigger finger early leave.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rennalol/CCAutoLeave",
-                "LastUpdate": 1777597143
+                "LastUpdate": 1779487309
             }
         ]
     },
@@ -12391,7 +12408,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1779410522
+                "LastUpdate": 1779484016
             },
             {
                 "Author": "Ricimon",
@@ -12468,7 +12485,7 @@
                 "Description": "Allagan Tools - InventoryTools 的中文汉化版本。功能包括：背包管理、物品筛选、制作列表、市场板价格追踪等。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoefQwQ/InventoryTools",
-                "LastUpdate": 1779448676
+                "LastUpdate": 1779480815
             }
         ]
     },
@@ -12880,7 +12897,7 @@
                 "Description": "當隊友進入隊伍或開啟招募資訊時，自動從 ranking.init.engineer 與 samoyedqq.github.io/TCtomestone 抓取對應角色的零式/絕本排名資料，並顯示於聊天框與插件視窗。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1779468281
+                "LastUpdate": 1779472910
             }
         ]
     },
@@ -13076,7 +13093,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1779458999
+                "LastUpdate": 1779488404
             }
         ]
     },
@@ -13754,7 +13771,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1779459789
+                "LastUpdate": 1779476164
             }
         ]
     },
@@ -14454,7 +14471,7 @@
                 "InternalName": "Habitat",
                 "Description": "The official companion plugin for Habitat Nightclub",
                 "RepoUrl": "https://github.com/thescarini/Habitat",
-                "LastUpdate": 1779468309
+                "LastUpdate": 1779468428
             }
         ]
     },
@@ -14806,7 +14823,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1779252883
+                "LastUpdate": 1779490799
             }
         ]
     },
@@ -15106,7 +15123,7 @@
                 "Description": "Provides a list of all FATEs in the current zone, with their type, sorted by maximum level and distance from you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VariableVixen/BetterFateList",
-                "LastUpdate": 1779390517
+                "LastUpdate": 1779474155
             },
             {
                 "Author": "VariableVixen",
@@ -16494,7 +16511,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1779322638
+                "LastUpdate": 1779476754
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -16503,7 +16520,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1779150399,
+                "LastUpdate": 1779476492,
                 "is_closed_source": true
             },
             {
