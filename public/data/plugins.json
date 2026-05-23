@@ -1029,23 +1029,6 @@
         ]
     },
     {
-        "repo_developer_name": "arucuu",
-        "repo_url": "https://raw.githubusercontent.com/arucuu/ByeByeMercenary/master/repo.json",
-        "repo_source_url": "https://github.com/arucuu/ByeByeMercenary",
-        "repo_name": "ByeByeMercenary",
-        "plugins": [
-            {
-                "Author": "arucuu",
-                "Name": "Bye Bye Mercenary",
-                "InternalName": "ByeByeMercenary",
-                "Description": "Hides standard Party Finder listings whose comment matches user-defined patterns (plain text or regex). Useful for filtering out RMT/mercenary advertisements. Open the settings window with /bbm. Filtering is client-side only.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/arucuu/ByeByeMercenary",
-                "LastUpdate": 1779459214
-            }
-        ]
-    },
-    {
         "repo_developer_name": "arzolath",
         "repo_url": "https://raw.githubusercontent.com/arzolath/FFXIV_BigBody/main/pluginmaster.json",
         "repo_source_url": "https://github.com/arzolath/FFXIV_BigBody",
@@ -3211,8 +3194,8 @@
                 "InternalName": "Armoire",
                 "Description": "[ALPHA] Change your appearance in-game.",
                 "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1779488921
+                "RepoUrl": "https://github.com/Eauldane/Armoire",
+                "LastUpdate": 1776825124
             },
             {
                 "Author": "Eauldane",
@@ -3247,8 +3230,8 @@
                 "InternalName": "Weave",
                 "Description": "[ALPHA] PMP compatible mod loader.",
                 "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1779488921
+                "RepoUrl": "https://github.com/Eauldane/Weave",
+                "LastUpdate": 1776825157
             }
         ]
     },
@@ -4931,7 +4914,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1779194490
+                "LastUpdate": 1779502505
             },
             {
                 "Author": "Haselnussbomber",
@@ -4940,7 +4923,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1779407446
+                "LastUpdate": 1779495691
             },
             {
                 "Author": "Haselnussbomber",
@@ -5807,6 +5790,23 @@
         ]
     },
     {
+        "repo_developer_name": "jango921",
+        "repo_url": "https://raw.githubusercontent.com/jango921/StreamerMode/main/repo.json",
+        "repo_source_url": "https://github.com/jango921/StreamerMode",
+        "repo_name": "StreamerMode",
+        "plugins": [
+            {
+                "Author": "jango",
+                "Name": "StreamerMode",
+                "InternalName": "StreamerMode",
+                "Description": "Locally spoofs your character name and world name to keep your identity private while streaming.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/jango921/StreamerMode",
+                "LastUpdate": 1779511455
+            }
+        ]
+    },
+    {
         "repo_developer_name": "jdw-ss",
         "repo_url": "https://raw.githubusercontent.com/jdw-ss/gaming-tools/main/docs/ff14/bulkdesynth/pluginmaster.json",
         "repo_source_url": "https://github.com/jdw-ss/gaming-tools",
@@ -6169,7 +6169,7 @@
                 "InternalName": "FaloopMessenger",
                 "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
                 "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1779488604
+                "LastUpdate": 1779501468
             }
         ]
     },
@@ -6220,7 +6220,7 @@
                 "Description": "/spaketh",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/juiposa/Spaketh",
-                "LastUpdate": 1779481054
+                "LastUpdate": 1779491630
             }
         ]
     },
@@ -7295,7 +7295,7 @@
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1779091539
+                "LastUpdate": 1779496969
             },
             {
                 "Author": "Siren, Latihas",
@@ -8040,7 +8040,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1779407216
+                "LastUpdate": 1779494570
             }
         ]
     },
@@ -8091,7 +8091,7 @@
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1778375408
+                "LastUpdate": 1779494888
             }
         ]
     },
@@ -8159,7 +8159,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1779393522
+                "LastUpdate": 1779494570
             }
         ]
     },
@@ -8210,7 +8210,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1779479601
+                "LastUpdate": 1779497766
             }
         ]
     },
@@ -8290,7 +8290,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1779393522
+                "LastUpdate": 1779494570
             },
             {
                 "Author": "DhogGPT",
@@ -8317,7 +8317,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1779479601
+                "LastUpdate": 1779497766
             },
             {
                 "Author": "DhogGPT",
@@ -8849,7 +8849,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1779174139
+                "LastUpdate": 1779498850
             }
         ]
     },
@@ -8892,7 +8892,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1779174139
+                "LastUpdate": 1779498850
             },
             {
                 "Author": "MTVirux",
@@ -9335,7 +9335,7 @@
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1779304407
+                "LastUpdate": 1779498502
             }
         ]
     },
@@ -10956,7 +10956,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: ffbard.com",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://midibard.org",
-                "LastUpdate": 1779338535
+                "LastUpdate": 1779509179
             }
         ]
     },
@@ -12756,6 +12756,23 @@
         ]
     },
     {
+        "repo_developer_name": "ruunesu",
+        "repo_url": "https://raw.githubusercontent.com/ruunesu/XIVPlugin/master/repo.json",
+        "repo_source_url": "https://github.com/ruunesu/XIVPlugin",
+        "repo_name": "XIVPlugin",
+        "plugins": [
+            {
+                "Author": "ruunesu",
+                "Name": "Bye Bye Mercenary",
+                "InternalName": "ByeByeMercenary",
+                "Description": "Hides standard Party Finder listings whose comment matches user-defined patterns (plain text or regex). Useful for filtering out RMT/mercenary advertisements. Open the settings window with /bbm. Filtering is client-side only.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ruunesu/ByeByeMercenary",
+                "LastUpdate": 1779511393
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Ryan-RH",
         "repo_url": "https://raw.githubusercontent.com/Ryan-RH/MyDalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Ryan-RH/MyDalamudPlugins",
@@ -12897,7 +12914,7 @@
                 "Description": "當隊友進入隊伍或開啟招募資訊時，自動從 ranking.init.engineer 與 samoyedqq.github.io/TCtomestone 抓取對應角色的零式/絕本排名資料，並顯示於聊天框與插件視窗。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1779472910
+                "LastUpdate": 1779512729
             }
         ]
     },
@@ -13771,7 +13788,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1779476164
+                "LastUpdate": 1779493900
             }
         ]
     },
@@ -14823,7 +14840,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1779490799
+                "LastUpdate": 1779512453
             }
         ]
     },
@@ -15874,7 +15891,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779409596
+                "LastUpdate": 1779495939
             }
         ]
     },
@@ -15891,7 +15908,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1779409637
+                "LastUpdate": 1779495990
             }
         ]
     },
@@ -15908,7 +15925,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779409596
+                "LastUpdate": 1779495939
             }
         ]
     },
@@ -15925,7 +15942,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1779409637
+                "LastUpdate": 1779495990
             }
         ]
     },
@@ -15943,6 +15960,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsCombatAI",
                 "LastUpdate": 1779398857
+            },
+            {
+                "Author": "Xeltor / XelsPlugins, originally by Blackcatz1911",
+                "Name": "Xel's Currency Spender",
+                "InternalName": "XelsCurrencySpender",
+                "Description": "AI-maintained fork of Blackcatz1911's Currency Spender. Never wonder 'What should I do with this?' again: access real-time prices from Universalis, identify missing collectibles tied to your currencies, and find useful ways to spend in-game resources.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/XelsPlugins/XelsCurrencySpender",
+                "LastUpdate": 1779497745
             },
             {
                 "Author": "xeltor",
