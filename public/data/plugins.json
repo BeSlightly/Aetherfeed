@@ -1328,7 +1328,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1779479649,
+                "LastUpdate": 1779529531,
                 "is_closed_source": true
             },
             {
@@ -1338,7 +1338,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1779479649,
+                "LastUpdate": 1779529531,
                 "is_closed_source": true
             },
             {
@@ -1348,7 +1348,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1779479649,
+                "LastUpdate": 1779529531,
                 "is_closed_source": true
             },
             {
@@ -1358,7 +1358,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1779479649,
+                "LastUpdate": 1779529531,
                 "is_closed_source": true
             },
             {
@@ -1440,7 +1440,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779425741
+                "LastUpdate": 1779529170
             }
         ]
     },
@@ -2130,7 +2130,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1779066874
+                "LastUpdate": 1779527888
             },
             {
                 "Author": "Caraxi",
@@ -2545,7 +2545,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1778936012
+                "LastUpdate": 1779526058
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -3054,6 +3054,23 @@
         ]
     },
     {
+        "repo_developer_name": "dirtyoldman082",
+        "repo_url": "https://raw.githubusercontent.com/dirtyoldman082/PartyFollowNative/master/PartyFollowNative/repo.json",
+        "repo_source_url": "https://github.com/dirtyoldman082/PartyFollowNative",
+        "repo_name": "PartyFollowNative",
+        "plugins": [
+            {
+                "Author": "Dirty Oldman",
+                "Name": "PartyFollowNative",
+                "InternalName": "PartyFollowNative",
+                "Description": "パーティチャットに 'autofollow' と発言するとそのプレイヤーに自動追従します。'autofollow off' で停止します。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "http://192.168.1.8:8000/",
+                "LastUpdate": 1778010741
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Diyagi",
         "repo_url": "https://raw.githubusercontent.com/Diyagi/DalamudPlugins/master/repo.json",
         "repo_source_url": "https://github.com/Diyagi/DalamudPlugins",
@@ -3222,7 +3239,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1779488921
+                "LastUpdate": 1779534957
             },
             {
                 "Author": "Eauldane",
@@ -3992,7 +4009,7 @@
                 "Description": "Unofficial BossMod Reborn integration build with RotationSolverReborn movement request and feedback support.\n\nThis build keeps the original BossModReborn plugin identity so it replaces the original plugin in Dalamud. It includes RSR positional movement handling, movement feedback, melee-range-aware avoidance options, diagnostics, configuration import/export helpers, and kill-time statistics.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/fenk19/DalamudPluginRepo",
-                "LastUpdate": 1779084294
+                "LastUpdate": 1779529779
             },
             {
                 "Author": "fenk19",
@@ -4001,7 +4018,7 @@
                 "Description": "Unofficial Rotation Solver Reborn integration build with BossModReborn movement and feedback support.\n\nThis build keeps the original RotationSolver plugin identity so it replaces the original plugin in Dalamud. It includes additional BMR positional movement requests, movement feedback handling, interrupt movement support, diagnostics, and configuration import/export helpers.\n\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/fenk19/DalamudPluginRepo",
-                "LastUpdate": 1779084294
+                "LastUpdate": 1779529779
             }
         ]
     },
@@ -4434,7 +4451,7 @@
                 "Description": "Adds several styles of Quest Banners to replace the Vanilla Styles, inspired by various other games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/GayPotatoEmma/botw-quest-banner",
-                "LastUpdate": 1779446195
+                "LastUpdate": 1779527709
             }
         ]
     },
@@ -5072,7 +5089,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779425741
+                "LastUpdate": 1779529170
             },
             {
                 "Author": "Team Wrath",
@@ -5237,7 +5254,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779425741
+                "LastUpdate": 1779529170
             },
             {
                 "Author": "Team Wrath",
@@ -5400,7 +5417,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1779089927
+                "LastUpdate": 1779535026
             }
         ]
     },
@@ -6169,7 +6186,7 @@
                 "InternalName": "FaloopMessenger",
                 "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
                 "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1779501468
+                "LastUpdate": 1779514395
             }
         ]
     },
@@ -6624,7 +6641,7 @@
                 "Description": "Host relay plugin for multi-card bingo.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KeiJoi/ffxivbingo4all",
-                "LastUpdate": 1779154431
+                "LastUpdate": 1779518621
             },
             {
                 "Author": "Kei Joi",
@@ -7407,7 +7424,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1779334192
+                "LastUpdate": 1779517033
             }
         ]
     },
@@ -7870,7 +7887,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1779476398
+                "LastUpdate": 1779519652
             }
         ]
     },
@@ -9404,7 +9421,7 @@
                 "Description": "Host relay plugin for multi-card bingo.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KeiJoi/ffxivbingo4all",
-                "LastUpdate": 1779154431
+                "LastUpdate": 1779518621
             },
             {
                 "Author": "Kei Joi",
@@ -10555,7 +10572,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1778936012
+                "LastUpdate": 1779526058
             }
         ]
     },
@@ -10599,7 +10616,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1778936012
+                "LastUpdate": 1779526058
             },
             {
                 "Author": "Anna",
@@ -11492,7 +11509,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1779089927
+                "LastUpdate": 1779535026
             },
             {
                 "Author": "Det, Taurenkey",
@@ -11581,7 +11598,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1779476398
+                "LastUpdate": 1779519652
             },
             {
                 "Author": "NightmareXIV",
@@ -12768,7 +12785,7 @@
                 "Description": "Hides standard Party Finder listings whose comment matches user-defined patterns (plain text or regex). Useful for filtering out RMT/mercenary advertisements. Open the settings window with /bbm. Filtering is client-side only.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ruunesu/ByeByeMercenary",
-                "LastUpdate": 1779511393
+                "LastUpdate": 1779515637
             }
         ]
     },
@@ -14840,7 +14857,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1779512453
+                "LastUpdate": 1779514323
             }
         ]
     },
@@ -15528,7 +15545,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1778936012
+                "LastUpdate": 1779526058
             }
         ]
     },
@@ -15891,7 +15908,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779495939
+                "LastUpdate": 1779527371
             }
         ]
     },
@@ -15925,7 +15942,7 @@
                 "Description": "This plugin is in alpha — expect bugs. Please report any you find, and if you'd like to contribute, join in!\n\nA helper for Doman Mahjong at the Gold Saucer. Two modes:\n\n• Hint mode (default): shows the best tile to discard and a short explanation. You still click every move.\n• Auto-play: the plugin watches the table and clicks for you with natural pacing.\n\nStarts off by default. You must accept a short notice before auto-play can be turned on, and you can switch back to hints or turn it off at any time from the plugin window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779495939
+                "LastUpdate": 1779527371
             }
         ]
     },
@@ -15960,15 +15977,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsCombatAI",
                 "LastUpdate": 1779398857
-            },
-            {
-                "Author": "Xeltor / XelsPlugins, originally by Blackcatz1911",
-                "Name": "Xel's Currency Spender",
-                "InternalName": "XelsCurrencySpender",
-                "Description": "AI-maintained fork of Blackcatz1911's Currency Spender. Never wonder 'What should I do with this?' again: access real-time prices from Universalis, identify missing collectibles tied to your currencies, and find useful ways to spend in-game resources.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/XelsPlugins/XelsCurrencySpender",
-                "LastUpdate": 1779497745
             },
             {
                 "Author": "xeltor",
@@ -16272,7 +16280,7 @@
                 "Description": "重定向所有职业的施法目标，避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/YouShux/Macro-Redirection",
-                "LastUpdate": 20260509
+                "LastUpdate": 20260523
             },
             {
                 "Author": "YouShu",
