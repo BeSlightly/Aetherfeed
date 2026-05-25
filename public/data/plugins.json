@@ -769,7 +769,7 @@
                 "Description": "一个基于本地 ACTX 风格口径的 Dalamud 战斗统计插件，直接在游戏内显示队伍 DPS、HPS、承伤、概览和战斗历史，不依赖外部网页悬浮窗。 Local ACTX-style combat meter for Dalamud. Displays party DPS, HPS, damage taken, overview summaries, and encounter history directly in game without relying on an external web overlay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/DalamudACT",
-                "LastUpdate": 1779700077
+                "LastUpdate": 1779728569
             },
             {
                 "Author": "shdwp, Avaflow, abashby, nebel",
@@ -929,7 +929,7 @@
                 "Description": "Displays emote counters as honorific title dynamically",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
-                "LastUpdate": 1779200893
+                "LastUpdate": 1779727795
             },
             {
                 "Author": "Anya Hichu",
@@ -1585,7 +1585,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779639789
+                "LastUpdate": 1779728006
             },
             {
                 "Author": "veyn, croizat",
@@ -1927,7 +1927,7 @@
                 "InternalName": "StarfallStudio",
                 "Description": "Starfall Studio - combined GPose toolkit for actor posing, animation control, camera editing, and scene building.\n- Actor list with click-to-select\n- World-space transform gizmo\n- Animation control and pause\n- Advanced appearance and wetness editing\n- Camera editor (Ktisis-style workflow)\n- Bone manipulation with bone tree\n- MCDF actor import\n- NPC/overworld actor import\n- Pose import and export",
                 "RepoUrl": "https://github.com/BluntEXE/StarfallStudio",
-                "LastUpdate": 1779712961
+                "LastUpdate": 1779736523
             }
         ]
     },
@@ -2753,7 +2753,7 @@
                 "Description": "Lists every armoire-eligible dungeon drop in the game and shows whether each is in your inventory, in your armoire, or still missing. Sort by level, hide completed dungeons, toggle to show owned items too. Open the armoire UI at an inn once per session to populate the in-armoire state; in-inventory and equipped state is detected automatically. Use /armoire.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779677610
+                "LastUpdate": 1779724615
             },
             {
                 "Author": "dajoey",
@@ -2762,7 +2762,7 @@
                 "Description": "Automatically uses the highest-tier HP potion in your inventory at a configurable HP threshold. In deep dungeons, also auto-uses the dungeon's regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at its own threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779677610
+                "LastUpdate": 1779724615
             },
             {
                 "Author": "dajoey",
@@ -2771,7 +2771,7 @@
                 "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779677610
+                "LastUpdate": 1779724615
             },
             {
                 "Author": "dajoey",
@@ -2780,7 +2780,16 @@
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779677610
+                "LastUpdate": 1779724615
+            },
+            {
+                "Author": "Blackcatz1911, dajoey",
+                "Name": "Lazy Currency Spender",
+                "InternalName": "LazyCurrencySpender",
+                "Description": "Fork of CurrencySpender by Blackcatz1911. Never wonder 'What should I do with this?' again. Access real-time prices from Universalis, identify missing collectibles tied to your currencies, and unlock new possibilities for utilizing your in-game resources effectively.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dajoey/lalalazy",
+                "LastUpdate": 1779724615
             },
             {
                 "Author": "dajoey",
@@ -2789,7 +2798,7 @@
                 "Description": "Fully automated FFXIV sightseeing log completion. Uses vnavmesh for flight and pathing, and lifestream for easy teleportation (/li inn). Automatically skips locked weather/time windows, re-prioritizes if windows open, and returns you to the inn when complete.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779677610
+                "LastUpdate": 1779724615
             },
             {
                 "Author": "daemitus, MidoriKami, dajoey",
@@ -2798,7 +2807,7 @@
                 "Description": "Adds row probabilities to the Wondrous Tails display along with the average probability of what would happen if you shuffled. Upgraded for modern FFXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779677610
+                "LastUpdate": 1779724615
             },
             {
                 "Author": "dajoey",
@@ -2807,7 +2816,7 @@
                 "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779677610
+                "LastUpdate": 1779724615
             }
         ]
     },
@@ -2824,7 +2833,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779712473
+                "LastUpdate": 1779722219
             },
             {
                 "Author": "Critical_Impact",
@@ -4121,7 +4130,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779712473
+                "LastUpdate": 1779722219
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4494,7 +4503,7 @@
                 "Description": "Adds several styles of Quest Banners to replace the Vanilla Styles, inspired by various other games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/GayPotatoEmma/botw-quest-banner",
-                "LastUpdate": 1779712104
+                "LastUpdate": 1779726504
             }
         ]
     },
@@ -5113,7 +5122,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779639789
+                "LastUpdate": 1779728006
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -5278,7 +5287,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779639789
+                "LastUpdate": 1779728006
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -5998,7 +6007,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1779672472
+                "LastUpdate": 1779717059
             },
             {
                 "Author": "jkleinne",
@@ -9169,7 +9178,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1779694347
+                "LastUpdate": 1779736625
             }
         ]
     },
@@ -10199,7 +10208,7 @@
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1779715250
+                "LastUpdate": 1779719856
             }
         ]
     },
@@ -10579,7 +10588,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1779631275
+                "LastUpdate": 1779733608
             },
             {
                 "Author": "OOFGames",
@@ -10597,7 +10606,7 @@
                 "Description": "A plugin to manage mini game sessions, player queues, and Gil transactions. Use /minigames to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
-                "LastUpdate": 1779629629
+                "LastUpdate": 1779733606
             }
         ]
     },
@@ -11225,13 +11234,14 @@
                 "Description": "A collection of of venue or casino games. Type /minig to start.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
-                "LastUpdate": 1778346672
+                "LastUpdate": 1779725216
             },
             {
                 "Author": "Pistachio Herald, based on Anna's Orange Guidance Tomestone",
                 "Name": "North Star",
                 "InternalName": "NorthStar",
                 "Description": "Shows a beacon on the position of the last <pos> or <flag> in chat. Use /northstar to configure",
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Pistachio-dev/NorthStar",
                 "LastUpdate": 1779352992
             },
@@ -11311,7 +11321,7 @@
                 "Description": "A collection of of venue or casino games. Type /minig to start.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
-                "LastUpdate": 1778346672
+                "LastUpdate": 1779725216
             }
         ]
     },
@@ -12585,6 +12595,23 @@
     },
     {
         "repo_developer_name": "RiddleTheWorld",
+        "repo_url": "https://raw.githubusercontent.com/RiddleTheWorld/PlayerScope-Archive/main/repo.json",
+        "repo_source_url": "https://github.com/RiddleTheWorld/PlayerScope-Archive",
+        "repo_name": "PlayerScope-Archive",
+        "plugins": [
+            {
+                "Author": "PlayerScope",
+                "Name": "PlayerScope",
+                "InternalName": "PlayerScope",
+                "Description": "Keeps track of players and who a retainer belongs to. Alt characters can also be tracked if they have been seen before.\n--Currently only for whitelisted players.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Bekhmael/PlayerScope",
+                "LastUpdate": 1741595956
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "RiddleTheWorld",
         "repo_url": "https://raw.githubusercontent.com/RiddleTheWorld/rpc-ffxiv-ranked-pvp/main/repo.json",
         "repo_source_url": "https://github.com/RiddleTheWorld/rpc-ffxiv-ranked-pvp",
         "repo_name": "rpc-ffxiv-ranked-pvp",
@@ -13747,7 +13774,7 @@
                 "Description": "Automates market board penny pinching",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
-                "LastUpdate": 1779650157
+                "LastUpdate": 1779736752
             },
             {
                 "Author": "SHOEGAZEssb",
@@ -13973,7 +14000,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1779493900
+                "LastUpdate": 1779727132
             }
         ]
     },
@@ -14520,6 +14547,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Tenrys/ZoomTilt",
                 "LastUpdate": 1767554949
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "TentacleBukakke",
+        "repo_url": "https://raw.githubusercontent.com/TentacleBukakke/GoldSaucerCasinoDalamud/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/TentacleBukakke/GoldSaucerCasinoDalamud",
+        "repo_name": "GoldSaucerCasinoDalamud",
+        "plugins": [
+            {
+                "Author": "Fake Taxi",
+                "Name": "Gold Saucer Casino",
+                "InternalName": "GoldSaucerCasino",
+                "Description": "Adds private blackjack tables for friends. In hosted games, the host acts as dealer and banker: players trade bets to the host, and the host manually pays winnings. Bot games are no-bet practice rounds. The plugin tracks table state and payouts but does not automate gil transfer.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/TentacleBukakke/GoldSaucerCasinoDalamud",
+                "LastUpdate": 1779736552
             }
         ]
     },
@@ -15317,7 +15361,7 @@
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1779256895
+                "LastUpdate": 1779734124
             }
         ]
     },
@@ -16094,7 +16138,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1779713026
+                "LastUpdate": 1779723603
             },
             {
                 "Author": "XeldarAlz",
@@ -16103,7 +16147,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779713005
+                "LastUpdate": 1779738093
             },
             {
                 "Author": "XeldarAlz",
@@ -16112,7 +16156,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1779713023
+                "LastUpdate": 1779717686
             }
         ]
     },
@@ -16129,7 +16173,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1779713026
+                "LastUpdate": 1779723603
             }
         ]
     },
@@ -16146,7 +16190,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1779713023
+                "LastUpdate": 1779717686
             }
         ]
     },
@@ -16163,7 +16207,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779713005
+                "LastUpdate": 1779738093
             }
         ]
     },
@@ -16180,7 +16224,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1779713023
+                "LastUpdate": 1779717686
             }
         ]
     },
@@ -16197,7 +16241,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1779713023
+                "LastUpdate": 1779717686
             }
         ]
     },
@@ -16732,7 +16776,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1779626104
+                "LastUpdate": 1779719536
             }
         ]
     },
