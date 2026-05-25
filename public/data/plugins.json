@@ -1838,6 +1838,23 @@
         ]
     },
     {
+        "repo_developer_name": "bloooowfish",
+        "repo_url": "https://raw.githubusercontent.com/bloooowfish/Where-Is-My-Head-Plugin/main/repo.json",
+        "repo_source_url": "https://github.com/bloooowfish/Where-Is-My-Head-Plugin",
+        "repo_name": "Where-Is-My-Head-Plugin",
+        "plugins": [
+            {
+                "Author": "bloooowfish",
+                "Name": "Where Is My Head",
+                "InternalName": "WhereIsMyHead",
+                "Description": "It help you save on electricity bills by blocking 3D rendering.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bloooowfish/Where-Is-My-Head-Plugin",
+                "LastUpdate": 1779690807
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Blooym",
         "repo_url": "https://raw.githubusercontent.com/Blooym/Dalamud.Travelcase/main/repo.json",
         "repo_source_url": "https://github.com/Blooym/Dalamud.Travelcase",
@@ -2164,7 +2181,7 @@
                 "Description": "An alternative to using Glamourer for saving and reapplying outfits.\n - Allows for easy switching between multiple character setups.\n - Improved temporary mod settings, applying and reverting changes to individual slots.\n - Improved advanced dye application.\n\nRequires Glamourer and Penumbra, with optional support for Honorific, Simple Heels and Customize+.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Caraxi/SimpleGlamourSwitcher",
-                "LastUpdate": 1779629102
+                "LastUpdate": 1779671377
             },
             {
                 "Author": "Caraxi",
@@ -2744,7 +2761,7 @@
                 "Description": "Lists every armoire-eligible dungeon drop in the game and shows whether each is in your inventory, in your armoire, or still missing. Sort by level, hide completed dungeons, toggle to show owned items too. Open the armoire UI at an inn once per session to populate the in-armoire state; in-inventory and equipped state is detected automatically. Use /armoire.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779471997
+                "LastUpdate": 1779677610
             },
             {
                 "Author": "dajoey",
@@ -2753,7 +2770,7 @@
                 "Description": "Automatically uses the highest-tier HP potion in your inventory at a configurable HP threshold. In deep dungeons, also auto-uses the dungeon's regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at its own threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779471997
+                "LastUpdate": 1779677610
             },
             {
                 "Author": "dajoey",
@@ -2762,7 +2779,7 @@
                 "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779471997
+                "LastUpdate": 1779677610
             },
             {
                 "Author": "dajoey",
@@ -2771,7 +2788,7 @@
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779471997
+                "LastUpdate": 1779677610
             },
             {
                 "Author": "dajoey",
@@ -2780,7 +2797,7 @@
                 "Description": "Fully automated FFXIV sightseeing log completion. Uses vnavmesh for flight and pathing, and lifestream for easy teleportation (/li inn). Automatically skips locked weather/time windows, re-prioritizes if windows open, and returns you to the inn when complete.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779471997
+                "LastUpdate": 1779677610
             },
             {
                 "Author": "daemitus, MidoriKami, dajoey",
@@ -2789,7 +2806,7 @@
                 "Description": "Adds row probabilities to the Wondrous Tails display along with the average probability of what would happen if you shuffled. Upgraded for modern FFXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779471997
+                "LastUpdate": 1779677610
             },
             {
                 "Author": "dajoey",
@@ -2798,7 +2815,7 @@
                 "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779471997
+                "LastUpdate": 1779677610
             }
         ]
     },
@@ -3692,7 +3709,7 @@
                 "Description": "Trigger arbitrary sound effects to play based on phrases spoken in chat.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/ereti/MagitekClicker",
-                "LastUpdate": 1743290565
+                "LastUpdate": 1779684031
             }
         ]
     },
@@ -4392,7 +4409,7 @@
                 "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/fuzzycore/ffxivrepo",
-                "LastUpdate": 1779594574
+                "LastUpdate": 1779680449
             },
             {
                 "Author": "FuzzyCore",
@@ -4401,7 +4418,7 @@
                 "Description": "Import EorzeaCollection glams and apply via Glamourer.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FuzzyCore/EorzeaLink",
-                "LastUpdate": 1779594026
+                "LastUpdate": 1779680438
             }
         ]
     },
@@ -5052,7 +5069,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1779594109
+                "LastUpdate": 1779671776
             }
         ]
     },
@@ -5989,7 +6006,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1779643988
+                "LastUpdate": 1779672472
             },
             {
                 "Author": "jkleinne",
@@ -6984,7 +7001,7 @@
                 "InternalName": "AQuestReborn",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1779669450
+                "LastUpdate": 1779680413
             }
         ]
     },
@@ -7466,7 +7483,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1779517033
+                "LastUpdate": 1779681573
             }
         ]
     },
@@ -8701,7 +8718,7 @@
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1779365984
+                "LastUpdate": 1779692859
             },
             {
                 "Author": "Miruku",
@@ -8710,7 +8727,7 @@
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1779365984
+                "LastUpdate": 1779692859
             }
         ]
     },
@@ -9453,7 +9470,16 @@
                 "Description": "Automates moving existing items to and from the FC Chest.\nEasily withdraw custom item lists or materials for workshop projects.\n\nNote: Temporarily disables YesAlready while depositing or withdrawing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1778698563
+                "LastUpdate": 1779690158
+            },
+            {
+                "Author": "Nexai",
+                "Name": "Mogmail",
+                "InternalName": "Mogmail",
+                "Description": "A better mail service. Bulk attachment claiming, bulk delete, and inventory pop.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nexaii/Mogmail",
+                "LastUpdate": 1779690187
             }
         ]
     },
@@ -9470,7 +9496,7 @@
                 "Description": "Track players you meet in FFXIV — who they are, when you ran into them, how their characters change over time. A focused social tracker built on the NexusKit framework.\n\nPer-player detail view with Summary, Equipment, Class/Jobs, Achievements, Free Company, Encounters, History and Notes tabs. Optional enrichment from Lodestone (gear, FC link, achievement progress) and FFXIVCollect (mounts, minions, full achievement catalog). Live throttled refresh queue keeps external data fresh without hammering either service.\n\nConfigurable chat and toast notifications when players you've seen before change — rename, server transfer, Free Company join/leave/switch, achievement growth, refresh failures. Per-event filtering and history grouping so the chat doesn't drown you.\n\nPowerful player-filter language with live preview to slice your list however you want; encounter history scoped per duty and content type; optional bridges to other Dalamud plugins (Lifestream world-travel, more to come).\n\nLocal-first: all data lives in a single SQLite file under your XIVLauncher config. Automated weekly maintenance keeps it tidy. English and German localization.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NexusFFXIV/PlayerNexusTracker",
-                "LastUpdate": 1779665833
+                "LastUpdate": 1779679249
             }
         ]
     },
@@ -9487,7 +9513,16 @@
                 "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1779608630
+                "LastUpdate": 1779681144
+            },
+            {
+                "Author": "goat, Maple",
+                "Name": "Fancy Loading Screens",
+                "InternalName": "Dalamud.LoadingImage2",
+                "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
+                "LastUpdate": 1779688213
             }
         ]
     },
@@ -9613,6 +9648,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
                 "LastUpdate": 1778259575
+            },
+            {
+                "Author": "NightmareXIV, Marulu, StreetRat",
+                "Name": "MaskedCarnivale",
+                "InternalName": "MaskedCarnivale",
+                "Description": "Allows you to record, or stream your game without displaying Dalamud plugins.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NightmareXIV/MaskedCarnivale",
+                "LastUpdate": 1779688994
             },
             {
                 "Author": "NightmareXIV",
@@ -10135,6 +10179,23 @@
     },
     {
         "repo_developer_name": "Ninethirty77",
+        "repo_url": "https://raw.githubusercontent.com/Ninethirty77/autolist-repo/main/repo.json",
+        "repo_source_url": "https://github.com/Ninethirty77/autolist-repo",
+        "repo_name": "autolist-repo",
+        "plugins": [
+            {
+                "Author": "BlueWaveXIV",
+                "Name": "AutoList",
+                "InternalName": "AutoList",
+                "Description": "AutoList turns retainer Market Board chores into supervised AutoList and AutoRefresh workflows with a small in-game tray that lights up when your character is ready to start.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Ninethirty77/autolist-repo",
+                "LastUpdate": 1779691106
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Ninethirty77",
         "repo_url": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/repo.json",
         "repo_source_url": "https://github.com/Ninethirty77/the-greenzone-repo",
         "repo_name": "the-greenzone-repo",
@@ -10146,7 +10207,7 @@
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1779667428
+                "LastUpdate": 1779672806
             }
         ]
     },
@@ -11681,7 +11742,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1779648486
+                "LastUpdate": 1779680956
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -13202,7 +13263,7 @@
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1779669450
+                "LastUpdate": 1779680413
             }
         ]
     },
@@ -15170,7 +15231,7 @@
                 "Description": "Where mods",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/UnlostWorld/PeerSync",
-                "LastUpdate": 1779670340
+                "LastUpdate": 1779685294
             }
         ]
     },
@@ -16044,7 +16105,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779668794
+                "LastUpdate": 1779691557
             },
             {
                 "Author": "XeldarAlz",
@@ -16104,7 +16165,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779668794
+                "LastUpdate": 1779691557
             }
         ]
     },
