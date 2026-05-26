@@ -91,7 +91,7 @@
                 "Description": "A fully-featured casino dealer plugin for FFXIV including Blackjack, Roulette, Baccrat, Craps, Texas Hold'em, and Ultima (an Uno clone) Commands: /casino to open the GUI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/a325245/ChatCasino",
-                "LastUpdate": 1779759989
+                "LastUpdate": 1779828216
             }
         ]
     },
@@ -769,7 +769,7 @@
                 "Description": "一个基于本地 ACTX 风格口径的 Dalamud 战斗统计插件，直接在游戏内显示队伍 DPS、HPS、承伤、概览和战斗历史，不依赖外部网页悬浮窗。 Local ACTX-style combat meter for Dalamud. Displays party DPS, HPS, damage taken, overview summaries, and encounter history directly in game without relying on an external web overlay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/DalamudACT",
-                "LastUpdate": 1779801182
+                "LastUpdate": 1779822880
             },
             {
                 "Author": "shdwp, Avaflow, abashby, nebel",
@@ -796,7 +796,7 @@
                 "Description": "自动化处理部分金碟小游戏。 Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/SaucyCN",
-                "LastUpdate": 1778162768
+                "LastUpdate": 1779827147
             },
             {
                 "Author": "Loskh",
@@ -805,7 +805,7 @@
                 "Description": "关闭屏蔽词过滤，并特殊显示聊天频道或招募板发出的屏蔽词。 Disable word-filter blocking and specially highlight filtered words from chat channels or the Party Finder.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/StarlightBreaker",
-                "LastUpdate": 1778157159
+                "LastUpdate": 1779822230
             },
             {
                 "Author": "daemitus, MidoriKami",
@@ -814,7 +814,7 @@
                 "Description": "在天书界面实时显示 1 线、2 线、3 线概率，并提供重排后的平均参考。 This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/EzWondrousTails",
-                "LastUpdate": 1778920826
+                "LastUpdate": 1779823563
             },
             {
                 "Author": "StarHeartHunt",
@@ -823,7 +823,7 @@
                 "Description": "帮助你记录每日随机任务、导出报告，并实时同步到 DungeonLogger。\n\nHelp you to record your daily roulettes, export reports, and sync with DungeonLogger in real time.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/RouletteRecorder.Dalamud",
-                "LastUpdate": 1779796120
+                "LastUpdate": 1779826021
             }
         ]
     },
@@ -1163,7 +1163,7 @@
                 "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1779426972
+                "LastUpdate": 1779826403
             }
         ]
     },
@@ -1585,7 +1585,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779728006
+                "LastUpdate": 1779817996
             },
             {
                 "Author": "veyn, croizat",
@@ -1833,7 +1833,7 @@
                 "Description": "Adds /blens commands and a settings window for scaled full-frame or region screenshots, UI hide/restore, custom save paths, keyboard shortcuts, and ReShade post-effects capture when available.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bloooowfish/BazookaLens",
-                "LastUpdate": 1779713505
+                "LastUpdate": 1779823390
             },
             {
                 "Author": "bloooowfish",
@@ -1927,7 +1927,7 @@
                 "InternalName": "StarfallStudio",
                 "Description": "Starfall Studio - combined GPose toolkit for actor posing, animation control, camera editing, and scene building.\n- Actor list with click-to-select\n- World-space transform gizmo\n- Animation control and pause\n- Advanced appearance and wetness editing\n- Camera editor (Ktisis-style workflow)\n- Bone manipulation with bone tree\n- MCDF actor import\n- NPC/overworld actor import\n- Pose import and export",
                 "RepoUrl": "https://github.com/BluntEXE/StarfallStudio",
-                "LastUpdate": 1779785179
+                "LastUpdate": 1779820716
             }
         ]
     },
@@ -1943,7 +1943,7 @@
                 "InternalName": "XIVVenueManagerSync",
                 "Description": "Automatically sync patron enter/leave events to your XIVVenueManager.",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
-                "LastUpdate": 1779211979
+                "LastUpdate": 1779818900
             }
         ]
     },
@@ -2183,6 +2183,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
                 "LastUpdate": 1779714547
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "CarpeNukem",
+        "repo_url": "https://raw.githubusercontent.com/CarpeNukem/grid_nroot_update/main/repo.json",
+        "repo_source_url": "https://github.com/CarpeNukem/grid_nroot_update",
+        "repo_name": "grid_nroot_update",
+        "plugins": [
+            {
+                "Author": "Carpe Nukem",
+                "Name": "The Grid Updater",
+                "InternalName": "GridNrootUpdate",
+                "Description": "Downloads the latest configured venue mod release, enables it in TheGrid, and assigns the collection to Chromiel.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/CarpeNukem/grid_nroot_update",
+                "LastUpdate": 1779824260
             }
         ]
     },
@@ -2588,7 +2605,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1779656510
+                "LastUpdate": 1779808364
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -2597,7 +2614,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1779742260
+                "LastUpdate": 1779808335
             },
             {
                 "Author": "CY",
@@ -2833,7 +2850,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779767037
+                "LastUpdate": 1779826761
             },
             {
                 "Author": "Critical_Impact",
@@ -4130,7 +4147,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779767037
+                "LastUpdate": 1779826761
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4992,7 +5009,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1779795983
+                "LastUpdate": 1779810494
             },
             {
                 "Author": "Haselnussbomber",
@@ -5122,7 +5139,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779728006
+                "LastUpdate": 1779817996
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -5287,7 +5304,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779728006
+                "LastUpdate": 1779817996
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -6952,7 +6969,7 @@
                 "Description": "Listens to the chat channels you choose and echoes a translation back in your target language. Japanese gets romaji and Chinese gets pinyin in parentheses. Sends translated messages on your active channel via /jp and /zh. Open settings with /ducfg, /duconfig, or /duduconfig.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/klerikdust/dududeshu",
-                "LastUpdate": 1779298409
+                "LastUpdate": 1779816624
             }
         ]
     },
@@ -7327,7 +7344,7 @@
                 "Description": "开发者工具",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/HaselDebug",
-                "LastUpdate": 1779799420
+                "LastUpdate": 1779807272
             },
             {
                 "Author": "Jukkales",
@@ -7354,7 +7371,7 @@
                 "Description": "陆行鸟竞赛自动化",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/LatihasChocobo",
-                "LastUpdate": 1779798604
+                "LastUpdate": 1779807129
             },
             {
                 "Author": "Latihas",
@@ -7372,7 +7389,7 @@
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1779798392
+                "LastUpdate": 1779806952
             },
             {
                 "Author": "Siren, Latihas",
@@ -7381,7 +7398,7 @@
                 "Description": "AI幻卡",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/TTC_Siren",
-                "LastUpdate": 1779093243
+                "LastUpdate": 1779818871
             }
         ]
     },
@@ -7475,7 +7492,7 @@
                 "Description": "A little helper that lets you level up, or gather all the materials on Island Sanctary. Requires Navmesh & Visland.\nPop open a cold one while the tedious parts of exploration is handled by your good friend cousin robby",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox/tree/master",
-                "LastUpdate": 1779799642
+                "LastUpdate": 1779806601
             },
             {
                 "Author": "Ice",
@@ -7501,7 +7518,7 @@
                 "Description": "A little helper that lets you level up, or gather all the materials on Island Sanctary. Requires Navmesh & Visland.\nPop open a cold one while the tedious parts of exploration is handled by your good friend cousin robby",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox",
-                "LastUpdate": 1779799642
+                "LastUpdate": 1779806601
             }
         ]
     },
@@ -7972,7 +7989,24 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1779754492
+                "LastUpdate": 1779818252
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Maateria",
+        "repo_url": "https://raw.githubusercontent.com/Maateria/XIVMitigationPlugin/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/Maateria/XIVMitigationPlugin",
+        "repo_name": "XIVMitigationPlugin",
+        "plugins": [
+            {
+                "Author": "Maateria",
+                "Name": "XIVMitigation Plugin",
+                "InternalName": "XIVMitigationPlugin",
+                "Description": "Reads an XIVMitigation plan file and shows an in-game overlay with upcoming spells for your role. Works with plans exported from XIVMitigation (https://xivmitigation.com). Use /xivmit to toggle the overlay, /xivmit config to open settings.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Maateria/XIVMitigationPlugin",
+                "LastUpdate": 1779815721
             }
         ]
     },
@@ -8745,7 +8779,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1779742260
+                "LastUpdate": 1779808335
             }
         ]
     },
@@ -9178,7 +9212,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1779736625
+                "LastUpdate": 1779824971
             }
         ]
     },
@@ -9369,7 +9403,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1779773054
+                "LastUpdate": 1779823781
             }
         ]
     },
@@ -9480,7 +9514,7 @@
                 "Description": "A better mail service. Bulk attachment claiming, bulk delete, and inventory pop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nexaii/Mogmail",
-                "LastUpdate": 1779690187
+                "LastUpdate": 1779818036
             }
         ]
     },
@@ -10208,7 +10242,7 @@
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1779803705
+                "LastUpdate": 1779814194
             }
         ]
     },
@@ -10726,7 +10760,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1779656510
+                "LastUpdate": 1779808364
             }
         ]
     },
@@ -10770,7 +10804,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1779656510
+                "LastUpdate": 1779808364
             },
             {
                 "Author": "Anna",
@@ -10806,7 +10840,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1779742260
+                "LastUpdate": 1779808335
             },
             {
                 "Author": "Caraxi",
@@ -11744,7 +11778,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1779804019
+                "LastUpdate": 1779828305
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11753,7 +11787,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1779754492
+                "LastUpdate": 1779818252
             },
             {
                 "Author": "NightmareXIV",
@@ -12310,7 +12344,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1779742260
+                "LastUpdate": 1779808335
             }
         ]
     },
@@ -12327,7 +12361,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1779742260
+                "LastUpdate": 1779808335
             }
         ]
     },
@@ -12580,7 +12614,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1779784284
+                "LastUpdate": 1779828190
             },
             {
                 "Author": "Ricimon",
@@ -13074,7 +13108,7 @@
                 "Description": "20250316-请支持逆光喵，谢谢喵-画得更全喵",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
-                "LastUpdate": 1779592827
+                "LastUpdate": 1779808322
             }
         ]
     },
@@ -15083,6 +15117,23 @@
         ]
     },
     {
+        "repo_developer_name": "u86cd",
+        "repo_url": "https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/u86cd/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "u86cd",
+                "Name": "SillyToolbox",
+                "InternalName": "SillyToolbox",
+                "Description": "傻肥工具箱, 包含一些給自己和親友用的小功能",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/u86cd/DalamudPlugins",
+                "LastUpdate": 1779825343
+            }
+        ]
+    },
+    {
         "repo_developer_name": "uiharuayako",
         "repo_url": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/pluginmaster.json",
         "repo_source_url": "https://github.com/uiharuayako/PantsPlugins",
@@ -15163,7 +15214,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1778931766
+                "LastUpdate": 1779824777
             }
         ]
     },
@@ -15775,7 +15826,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1779656510
+                "LastUpdate": 1779808364
             }
         ]
     },
@@ -16138,7 +16189,16 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1779755915
+                "LastUpdate": 1779819540
+            },
+            {
+                "Author": "XeldarAlz",
+                "Name": "Auto Fate Grind",
+                "InternalName": "AutoFateGrind",
+                "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
+                "LastUpdate": 1779823227
             },
             {
                 "Author": "XeldarAlz",
@@ -16147,7 +16207,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779805748
+                "LastUpdate": 1779819545
             },
             {
                 "Author": "XeldarAlz",
@@ -16156,7 +16216,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1779755193
+                "LastUpdate": 1779821176
             }
         ]
     },
@@ -16173,7 +16233,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1779755915
+                "LastUpdate": 1779819540
             }
         ]
     },
@@ -16185,12 +16245,29 @@
         "plugins": [
             {
                 "Author": "XeldarAlz",
-                "Name": "Auto Fate Grind",
+                "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1779798305
+                "LastUpdate": 1779823227
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "XeldarAlz",
+        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/repo.json",
+        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
+        "repo_name": "FFXIV-AutoFATEGrind",
+        "plugins": [
+            {
+                "Author": "XeldarAlz",
+                "Name": "Auto FATE Grind",
+                "InternalName": "AutoFateGrind",
+                "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
+                "LastUpdate": 1779823227
             }
         ]
     },
@@ -16207,7 +16284,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1779755193
+                "LastUpdate": 1779821176
             }
         ]
     },
@@ -16224,7 +16301,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779805748
+                "LastUpdate": 1779819545
             }
         ]
     },
@@ -16241,7 +16318,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1779755193
+                "LastUpdate": 1779821176
             }
         ]
     },
@@ -16258,7 +16335,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1779755193
+                "LastUpdate": 1779821176
             }
         ]
     },
@@ -16310,7 +16387,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1779742260
+                "LastUpdate": 1779808335
             }
         ]
     },
