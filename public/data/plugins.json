@@ -91,7 +91,7 @@
                 "Description": "A fully-featured casino dealer plugin for FFXIV including Blackjack, Roulette, Baccrat, Craps, Texas Hold'em, and Ultima (an Uno clone) Commands: /casino to open the GUI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/a325245/ChatCasino",
-                "LastUpdate": 1779212606
+                "LastUpdate": 1779759989
             }
         ]
     },
@@ -911,7 +911,7 @@
                 "Description": "Update honorific title based on discord activity informations",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
-                "LastUpdate": 1779200908
+                "LastUpdate": 1779748284
             },
             {
                 "Author": "Anya Hichu",
@@ -1927,7 +1927,7 @@
                 "InternalName": "StarfallStudio",
                 "Description": "Starfall Studio - combined GPose toolkit for actor posing, animation control, camera editing, and scene building.\n- Actor list with click-to-select\n- World-space transform gizmo\n- Animation control and pause\n- Advanced appearance and wetness editing\n- Camera editor (Ktisis-style workflow)\n- Bone manipulation with bone tree\n- MCDF actor import\n- NPC/overworld actor import\n- Pose import and export",
                 "RepoUrl": "https://github.com/BluntEXE/StarfallStudio",
-                "LastUpdate": 1779736523
+                "LastUpdate": 1779741069
             }
         ]
     },
@@ -2597,7 +2597,7 @@
                 "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1779712869
+                "LastUpdate": 1779742260
             },
             {
                 "Author": "CY",
@@ -3557,7 +3557,7 @@
                 "Description": "Use dresser outside of inns. Search items in other inventories or cheap at vendors. Try on your own character. Browse modded items.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/emyxiv/Dresser",
-                "LastUpdate": 1777809605
+                "LastUpdate": 1779749301
             }
         ]
     },
@@ -3710,7 +3710,7 @@
                 "Description": "Trigger arbitrary sound effects to play based on phrases spoken in chat.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/ereti/MagitekClicker",
-                "LastUpdate": 1779684031
+                "LastUpdate": 1779744035
             }
         ]
     },
@@ -4503,7 +4503,7 @@
                 "Description": "Adds several styles of Quest Banners to replace the Vanilla Styles, inspired by various other games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/GayPotatoEmma/botw-quest-banner",
-                "LastUpdate": 1779726504
+                "LastUpdate": 1779758626
             }
         ]
     },
@@ -5158,7 +5158,7 @@
                 "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready/",
-                "LastUpdate": 1777755773
+                "LastUpdate": 1779747462
             }
         ]
     },
@@ -5323,7 +5323,7 @@
                 "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready/",
-                "LastUpdate": 1777755773
+                "LastUpdate": 1779747462
             }
         ]
     },
@@ -5989,7 +5989,7 @@
                 "Description": "Personal fork of Dagobert, the automatic market board undercut plugin. Adds bait listing protection so a 1-unit decoy at 5 gil can't drag your retainer prices to the floor while real stacks sit at 1.2k. If you don't need that, install upstream Dagobert instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-dagobert",
-                "LastUpdate": 1779659652
+                "LastUpdate": 1779745147
             },
             {
                 "Author": "jkleinne",
@@ -6007,7 +6007,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1779717059
+                "LastUpdate": 1779740668
             },
             {
                 "Author": "jkleinne",
@@ -7972,7 +7972,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1779637244
+                "LastUpdate": 1779754492
             }
         ]
     },
@@ -8142,7 +8142,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1779703910
+                "LastUpdate": 1779757141
             }
         ]
     },
@@ -8745,7 +8745,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1779712869
+                "LastUpdate": 1779742260
             }
         ]
     },
@@ -8908,7 +8908,7 @@
                 "Description": "Sort and tag your Penumbra mods by clothing type, season, and occasion. Keep your glamour collection perfectly organized.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/moralfiberffxiv/PenumbraSort",
-                "LastUpdate": 1779666265
+                "LastUpdate": 1779743438
             }
         ]
     },
@@ -10806,7 +10806,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1779712869
+                "LastUpdate": 1779742260
             },
             {
                 "Author": "Caraxi",
@@ -11159,9 +11159,9 @@
                 "Name": "Cards Against Hyurmanity",
                 "InternalName": "CardsAgainstHyurmanity",
                 "Description": "Play cards against humanity over game chat. Type /cah to open the main window.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity",
-                "LastUpdate": 1777905429
+                "LastUpdate": 1779743538
             }
         ]
     },
@@ -11186,9 +11186,9 @@
                 "Name": "Cards Against Hyurmanity",
                 "InternalName": "CardsAgainstHyurmanity",
                 "Description": "Play cards against humanity over game chat. Type /cah to open the main window.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity",
-                "LastUpdate": 1777905429
+                "LastUpdate": 1779743538
             },
             {
                 "Author": "Pistachio Herald",
@@ -11234,7 +11234,7 @@
                 "Description": "A collection of of venue or casino games. Type /minig to start.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
-                "LastUpdate": 1779725216
+                "LastUpdate": 1779738902
             },
             {
                 "Author": "Pistachio Herald, based on Anna's Orange Guidance Tomestone",
@@ -11321,7 +11321,7 @@
                 "Description": "A collection of of venue or casino games. Type /minig to start.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection",
-                "LastUpdate": 1779725216
+                "LastUpdate": 1779738902
             }
         ]
     },
@@ -11744,7 +11744,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1779708661
+                "LastUpdate": 1779759866
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11753,7 +11753,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1779637244
+                "LastUpdate": 1779754492
             },
             {
                 "Author": "NightmareXIV",
@@ -11780,7 +11780,7 @@
                 "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-                "LastUpdate": 1777755773
+                "LastUpdate": 1779747462
             }
         ],
         "repo_developer_name": "Puni.sh Team"
@@ -12310,7 +12310,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1779712869
+                "LastUpdate": 1779742260
             }
         ]
     },
@@ -12327,7 +12327,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1779712869
+                "LastUpdate": 1779742260
             }
         ]
     },
@@ -13321,7 +13321,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1779666413
+                "LastUpdate": 1779759679
             }
         ]
     },
@@ -13774,7 +13774,7 @@
                 "Description": "Automates market board penny pinching",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
-                "LastUpdate": 1779736752
+                "LastUpdate": 1779740392
             },
             {
                 "Author": "SHOEGAZEssb",
@@ -16138,7 +16138,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1779723603
+                "LastUpdate": 1779755915
             },
             {
                 "Author": "XeldarAlz",
@@ -16147,7 +16147,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779738093
+                "LastUpdate": 1779755161
             },
             {
                 "Author": "XeldarAlz",
@@ -16156,7 +16156,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1779717686
+                "LastUpdate": 1779755193
             }
         ]
     },
@@ -16173,7 +16173,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1779723603
+                "LastUpdate": 1779755915
             }
         ]
     },
@@ -16190,7 +16190,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1779717686
+                "LastUpdate": 1779755193
             }
         ]
     },
@@ -16207,7 +16207,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779738093
+                "LastUpdate": 1779755161
             }
         ]
     },
@@ -16224,7 +16224,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1779717686
+                "LastUpdate": 1779755193
             }
         ]
     },
@@ -16241,7 +16241,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1779717686
+                "LastUpdate": 1779755193
             }
         ]
     },
@@ -16293,7 +16293,7 @@
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1779712869
+                "LastUpdate": 1779742260
             }
         ]
     },
