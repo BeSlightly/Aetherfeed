@@ -91,7 +91,7 @@
                 "Description": "A fully-featured casino dealer plugin for FFXIV including Blackjack, Roulette, Baccrat, Craps, Texas Hold'em, and Ultima (an Uno clone) Commands: /casino to open the GUI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/a325245/ChatCasino",
-                "LastUpdate": 1779892686
+                "LastUpdate": 1779912564
             }
         ]
     },
@@ -769,7 +769,7 @@
                 "Description": "一个基于本地 ACTX 风格口径的 Dalamud 战斗统计插件，直接在游戏内显示队伍 DPS、HPS、承伤、概览和战斗历史，不依赖外部网页悬浮窗。 Local ACTX-style combat meter for Dalamud. Displays party DPS, HPS, damage taken, overview summaries, and encounter history directly in game without relying on an external web overlay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/DalamudACT",
-                "LastUpdate": 1779822880
+                "LastUpdate": 1779912437
             },
             {
                 "Author": "shdwp, Avaflow, abashby, nebel",
@@ -1833,7 +1833,7 @@
                 "Description": "Adds /blens commands and a settings window for scaled full-frame or region screenshots, UI hide/restore, custom save paths, keyboard shortcuts, and ReShade post-effects capture when available.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bloooowfish/BazookaLens",
-                "LastUpdate": 1779858910
+                "LastUpdate": 1779900242
             },
             {
                 "Author": "bloooowfish",
@@ -2199,7 +2199,7 @@
                 "Description": "Downloads the latest configured venue mod release, enables it in TheGrid, and assigns the collection to Chromiel.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CarpeNukem/grid_nroot_update",
-                "LastUpdate": 1779836133
+                "LastUpdate": 1779913708
             }
         ]
     },
@@ -4053,7 +4053,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1778374594
+                "LastUpdate": 1779917195
             }
         ]
     },
@@ -5018,7 +5018,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1779810494
+                "LastUpdate": 1779908838
             },
             {
                 "Author": "Haselnussbomber",
@@ -6263,7 +6263,7 @@
                 "InternalName": "FaloopMessenger",
                 "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
                 "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1779597577
+                "LastUpdate": 1779901916
             }
         ]
     },
@@ -6701,7 +6701,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1778374594
+                "LastUpdate": 1779917195
             }
         ]
     },
@@ -8015,7 +8015,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1779818252
+                "LastUpdate": 1779903292
             }
         ]
     },
@@ -8032,7 +8032,7 @@
                 "Description": "Reads an XIVMitigation plan file and shows an in-game overlay with upcoming spells for your role. Works with plans exported from XIVMitigation (https://xivmitigation.com). Use /xivmit to toggle the overlay, /xivmit config to open settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Maateria/XIVMitigationPlugin",
-                "LastUpdate": 1779815721
+                "LastUpdate": 1779908198
             }
         ]
     },
@@ -8202,7 +8202,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1779836790
+                "LastUpdate": 1779918650
             }
         ]
     },
@@ -8321,7 +8321,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1779836791
+                "LastUpdate": 1779916193
             }
         ]
     },
@@ -8339,6 +8339,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
                 "LastUpdate": 1777533596
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "McVaxius",
+        "repo_url": "https://raw.githubusercontent.com/McVaxius/jdhog/main/repo.json",
+        "repo_source_url": "https://github.com/McVaxius/jdhog",
+        "repo_name": "jdhog",
+        "plugins": [
+            {
+                "Author": "DhogGPT",
+                "Name": "JabberDhog",
+                "InternalName": "jdhog",
+                "Description": "Offline-first chatbot scaffold with per-account and per-character policy.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/McVaxius/jdhog",
+                "LastUpdate": 1779914976
             }
         ]
     },
@@ -8372,7 +8389,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1779833217
+                "LastUpdate": 1779916177
             }
         ]
     },
@@ -8452,7 +8469,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1779836791
+                "LastUpdate": 1779916193
             },
             {
                 "Author": "DhogGPT",
@@ -8479,7 +8496,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1779833217
+                "LastUpdate": 1779916177
             },
             {
                 "Author": "DhogGPT",
@@ -9861,7 +9878,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1779796183,
+                "LastUpdate": 1779897129,
                 "is_closed_source": true
             },
             {
@@ -9871,7 +9888,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1779796183,
+                "LastUpdate": 1779897129,
                 "is_closed_source": true
             },
             {
@@ -9881,7 +9898,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1779796183,
+                "LastUpdate": 1779897129,
                 "is_closed_source": true
             },
             {
@@ -10648,7 +10665,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1779733608
+                "LastUpdate": 1779909946
             },
             {
                 "Author": "OOFGames",
@@ -11804,7 +11821,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1779885427
+                "LastUpdate": 1779903776
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11813,7 +11830,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1779818252
+                "LastUpdate": 1779903292
             },
             {
                 "Author": "NightmareXIV",
@@ -14029,6 +14046,23 @@
         ]
     },
     {
+        "repo_developer_name": "solace-greystone",
+        "repo_url": "https://raw.githubusercontent.com/solace-greystone/Apollo/main/repo.json",
+        "repo_source_url": "https://github.com/solace-greystone/Apollo",
+        "repo_name": "Apollo",
+        "plugins": [
+            {
+                "Author": "Solace Greystone",
+                "Name": "Apollo Accessibility",
+                "InternalName": "Apollo",
+                "Description": "Speech-to-text and text-to-speech functionality.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/solace-greystone/ApolloPluginDalamud",
+                "LastUpdate": 1779913767
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Solandus",
         "repo_url": "https://raw.githubusercontent.com/Solandus/FFXIVPlugins/main/repo.json",
         "repo_source_url": "https://github.com/Solandus/FFXIVPlugins",
@@ -14060,7 +14094,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1779892494
+                "LastUpdate": 1779906335
             }
         ]
     },
@@ -14950,23 +14984,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tischel/BLMInTheShell",
                 "LastUpdate": 1777667917
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "tn97",
-        "repo_url": "https://raw.githubusercontent.com/tn97/codex-honorific-dalamud-repo/main/repo.json",
-        "repo_source_url": "https://github.com/tn97/codex-honorific-dalamud-repo",
-        "repo_name": "codex-honorific-dalamud-repo",
-        "plugins": [
-            {
-                "Author": "tn97",
-                "Name": "CodexHonorific",
-                "InternalName": "CodexHonorific",
-                "Description": "Polls the Codex Honorific bridge on your Mac and displays the current Codex working state through Caraxi's Honorific plugin.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/tn97/codex-honorific",
-                "LastUpdate": 1779670056
             }
         ]
     },
@@ -16224,7 +16241,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1779890747
+                "LastUpdate": 1779901105
             },
             {
                 "Author": "XeldarAlz",
@@ -16276,7 +16293,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1779890747
+                "LastUpdate": 1779901105
             }
         ]
     },
@@ -16293,7 +16310,7 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1779890747
+                "LastUpdate": 1779901105
             }
         ]
     },
@@ -16700,7 +16717,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260518
+                "LastUpdate": 20260528
             }
         ]
     },
