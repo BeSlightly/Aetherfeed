@@ -12,7 +12,7 @@
                 "Description": "VFX, animation, and sound editing plugin. Icon by PAPACHIN",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
-                "LastUpdate": 1779857085
+                "LastUpdate": 1779923695
             }
         ]
     },
@@ -1585,7 +1585,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779832635
+                "LastUpdate": 1779933508
             },
             {
                 "Author": "veyn, croizat",
@@ -2194,12 +2194,12 @@
         "plugins": [
             {
                 "Author": "Carpe Nukem",
-                "Name": "The Grid Updater",
+                "Name": "The Grid Cyberdeck",
                 "InternalName": "GridNrootUpdate",
                 "Description": "Downloads the latest configured venue mod release, enables it in TheGrid, and assigns the collection to Chromiel.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CarpeNukem/grid_nroot_update",
-                "LastUpdate": 1779913708
+                "LastUpdate": 1779928054
             }
         ]
     },
@@ -2770,7 +2770,7 @@
                 "Description": "Lists every armoire-eligible dungeon drop in the game and shows whether each is in your inventory, in your armoire, or still missing. Sort by level, hide completed dungeons, toggle to show owned items too. Open the armoire UI at an inn once per session to populate the in-armoire state; in-inventory and equipped state is detected automatically. Use /armoire.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779849887
+                "LastUpdate": 1779923178
             },
             {
                 "Author": "dajoey",
@@ -2779,7 +2779,7 @@
                 "Description": "Automatically uses the highest-tier HP potion in your inventory at a configurable HP threshold. In deep dungeons, also auto-uses the dungeon's regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at its own threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779849887
+                "LastUpdate": 1779923178
             },
             {
                 "Author": "dajoey",
@@ -2788,7 +2788,7 @@
                 "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779849887
+                "LastUpdate": 1779923178
             },
             {
                 "Author": "dajoey",
@@ -2797,7 +2797,7 @@
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779849887
+                "LastUpdate": 1779923178
             },
             {
                 "Author": "Blackcatz1911, dajoey",
@@ -2806,16 +2806,7 @@
                 "Description": "Fork of CurrencySpender by Blackcatz1911. Never wonder 'What should I do with this?' again. Access real-time prices from Universalis, identify missing collectibles tied to your currencies, and unlock new possibilities for utilizing your in-game resources effectively.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779849887
-            },
-            {
-                "Author": "dajoey",
-                "Name": "Lazy FATE Automator",
-                "InternalName": "LazyFATEAutomator",
-                "Description": "Grinds open-world FATEs by prioritizing Twist of Fate experience bonuses, active progress, and proximity. Integrates with vnavmesh for flight/navigation, lifestream for zone teleports, and Gluttony Combo IPC to automatically lock optimal rotation settings. Use /lazyfate to open.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/LazyFATEAutomator",
-                "LastUpdate": 1779849889
+                "LastUpdate": 1779923178
             },
             {
                 "Author": "dajoey",
@@ -2824,7 +2815,7 @@
                 "Description": "Fully automated FFXIV sightseeing log completion. Uses vnavmesh for flight and pathing, and lifestream for easy teleportation (/li inn). Automatically skips locked weather/time windows, re-prioritizes if windows open, and returns you to the inn when complete.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779849887
+                "LastUpdate": 1779923178
             },
             {
                 "Author": "daemitus, MidoriKami, dajoey",
@@ -2833,7 +2824,7 @@
                 "Description": "Adds row probabilities to the Wondrous Tails display along with the average probability of what would happen if you shuffled. Upgraded for modern FFXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779849887
+                "LastUpdate": 1779923178
             },
             {
                 "Author": "dajoey",
@@ -2842,7 +2833,7 @@
                 "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1779849887
+                "LastUpdate": 1779923178
             }
         ]
     },
@@ -4053,7 +4044,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1779917195
+                "LastUpdate": 1779934240
             }
         ]
     },
@@ -4087,7 +4078,7 @@
                 "Description": "Unofficial BossMod Reborn integration build with RotationSolverReborn movement request and feedback support.\n\nThis build keeps the original BossModReborn plugin identity so it replaces the original plugin in Dalamud. It includes RSR positional movement handling, movement feedback, melee-range-aware avoidance options, diagnostics, configuration import/export helpers, and kill-time statistics.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/fenk19/DalamudPluginRepo",
-                "LastUpdate": 1779858776
+                "LastUpdate": 1779929749
             },
             {
                 "Author": "fenk19",
@@ -4096,7 +4087,7 @@
                 "Description": "Unofficial Rotation Solver Reborn integration build with BossModReborn movement and feedback support.\n\nThis build keeps the original RotationSolver plugin identity so it replaces the original plugin in Dalamud. It includes additional BMR positional movement requests, movement feedback handling, interrupt movement support, diagnostics, and configuration import/export helpers.\n\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/fenk19/DalamudPluginRepo",
-                "LastUpdate": 1779858776
+                "LastUpdate": 1779929749
             }
         ]
     },
@@ -5009,7 +5000,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1779627615
+                "LastUpdate": 1779928397
             },
             {
                 "Author": "Haselnussbomber",
@@ -5148,7 +5139,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779832635
+                "LastUpdate": 1779933508
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -5313,7 +5304,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779832635
+                "LastUpdate": 1779933508
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -6701,7 +6692,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1779917195
+                "LastUpdate": 1779934240
             }
         ]
     },
@@ -7344,7 +7335,24 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1779858411
+                "LastUpdate": 1779939336
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "LastOnionKnight",
+        "repo_url": "https://raw.githubusercontent.com/LastOnionKnight/OnionHunter/main/repo.json",
+        "repo_source_url": "https://github.com/LastOnionKnight/OnionHunter",
+        "repo_name": "OnionHunter",
+        "plugins": [
+            {
+                "Author": "Aisling O'Callaghan",
+                "Name": "Onion Hunter",
+                "InternalName": "OnionHunter",
+                "Description": "Logs every retainer venture return and computes your own observed drop rate for tracked items (Peregrine Helm, Onion gear, etc.). No invented percentages — just your data, with a confidence interval so small samples don't lie.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/LastOnionKnight/OnionHunter",
+                "LastUpdate": 1779929953
             }
         ]
     },
@@ -8202,7 +8210,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1779918650
+                "LastUpdate": 1779930855
             }
         ]
     },
@@ -9446,7 +9454,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1779823781
+                "LastUpdate": 1779924726
             }
         ]
     },
@@ -9557,7 +9565,7 @@
                 "Description": "A better mail service. Bulk attachment claiming, bulk delete, and inventory pop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nexaii/Mogmail",
-                "LastUpdate": 1779818036
+                "LastUpdate": 1779929725
             }
         ]
     },
@@ -9591,7 +9599,7 @@
                 "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1779847558
+                "LastUpdate": 1779932975
             },
             {
                 "Author": "goat, Maple",
@@ -11195,7 +11203,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1779844815
+                "LastUpdate": 1779930712
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -11821,7 +11829,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1779903776
+                "LastUpdate": 1779937268
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -13433,6 +13441,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
                 "LastUpdate": 1778922167
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "SekhmetAnkh",
+        "repo_url": "https://raw.githubusercontent.com/SekhmetAnkh/PositionalPilot/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/SekhmetAnkh/PositionalPilot",
+        "repo_name": "PositionalPilot",
+        "plugins": [
+            {
+                "Author": "SekhmetAnkh",
+                "Name": "PositionalPilot",
+                "InternalName": "PositionalPilot",
+                "Description": "Suggests or safely moves toward BossMod-recommended rear/flank positions using vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/SekhmetAnkh/PositionalPilot",
+                "LastUpdate": 1779936283
             }
         ]
     },
@@ -16232,7 +16257,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1779842384
+                "LastUpdate": 1779928587
             },
             {
                 "Author": "XeldarAlz",
@@ -16241,7 +16266,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1779901105
+                "LastUpdate": 1779928151
             },
             {
                 "Author": "XeldarAlz",
@@ -16250,7 +16275,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779882665
+                "LastUpdate": 1779927936
             },
             {
                 "Author": "XeldarAlz",
@@ -16259,7 +16284,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1779841718
+                "LastUpdate": 1779927964
             }
         ]
     },
@@ -16276,24 +16301,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1779842384
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "XeldarAlz",
-        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/repo.json",
-        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-        "repo_name": "FFXIV-AutoFATEGrind",
-        "plugins": [
-            {
-                "Author": "XeldarAlz",
-                "Name": "Auto FATE Grind",
-                "InternalName": "AutoFateGrind",
-                "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1779901105
+                "LastUpdate": 1779928587
             }
         ]
     },
@@ -16310,7 +16318,24 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1779901105
+                "LastUpdate": 1779928151
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "XeldarAlz",
+        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/repo.json",
+        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
+        "repo_name": "FFXIV-AutoFATEGrind",
+        "plugins": [
+            {
+                "Author": "XeldarAlz",
+                "Name": "Auto FATE Grind",
+                "InternalName": "AutoFateGrind",
+                "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
+                "LastUpdate": 1779928151
             }
         ]
     },
@@ -16327,7 +16352,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1779841718
+                "LastUpdate": 1779927964
             }
         ]
     },
@@ -16344,7 +16369,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1779882665
+                "LastUpdate": 1779927936
             }
         ]
     },
@@ -16361,7 +16386,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1779841718
+                "LastUpdate": 1779927964
             }
         ]
     },
@@ -16378,7 +16403,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1779841718
+                "LastUpdate": 1779927964
             }
         ]
     },
@@ -16913,7 +16938,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1779893121
+                "LastUpdate": 1779937993
             }
         ]
     },
@@ -16973,7 +16998,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1779844815
+                "LastUpdate": 1779930712
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -16982,7 +17007,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1779476492,
+                "LastUpdate": 1779926566,
                 "is_closed_source": true
             },
             {
