@@ -1585,7 +1585,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779933508
+                "LastUpdate": 1779985616
             },
             {
                 "Author": "veyn, croizat",
@@ -2859,7 +2859,7 @@
                 "Description": "Allagan Tool's primary purpose is to keep track of items across your characters/retainers/free company. With it's filter system you'll never lose track of items or not know where they should be sorted.\n\nWhile this is it's primary purpose, it has quite an exhaustive list of other features including:\n\t- Craft planning\n\t- Market board integration\n\t- Item highlighting in inventories when searching/sorting and picking ingredients for crafts\n\t- Item window that includes vendor and source information among other things\n\t- Duty/mob/airship/submarine windows that are fully searchable\n\t- A filtering system that lets you setup complex searches for specific items \n\t- Tooltip integration that'll let you see where the items are on hover",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
-                "LastUpdate": 1778577138
+                "LastUpdate": 1779968442
             }
         ]
     },
@@ -5139,7 +5139,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779933508
+                "LastUpdate": 1779985616
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -5304,7 +5304,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1779933508
+                "LastUpdate": 1779985616
             },
             {
                 "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
@@ -6969,7 +6969,7 @@
                 "Description": "Listens to the chat channels you choose and echoes a translation back in your target language. Japanese gets romaji and Chinese gets pinyin in parentheses. Sends translated messages on your active channel via /jp and /zh. Open settings with /ducfg, /duconfig, or /duduconfig.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/klerikdust/dududeshu",
-                "LastUpdate": 1779816624
+                "LastUpdate": 1779969843
             }
         ]
     },
@@ -8023,7 +8023,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1779903292
+                "LastUpdate": 1779977918
             }
         ]
     },
@@ -8210,7 +8210,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1779930855
+                "LastUpdate": 1779980225
             }
         ]
     },
@@ -8329,7 +8329,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1779916193
+                "LastUpdate": 1779971897
             }
         ]
     },
@@ -8397,7 +8397,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1779916177
+                "LastUpdate": 1779971855
             }
         ]
     },
@@ -8477,7 +8477,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1779916193
+                "LastUpdate": 1779971897
             },
             {
                 "Author": "DhogGPT",
@@ -8504,7 +8504,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1779916177
+                "LastUpdate": 1779971855
             },
             {
                 "Author": "DhogGPT",
@@ -8864,6 +8864,40 @@
                 "Description": "Thank you to a08381 for the original cutscene skip plugin https://github.com/a08381/Dalamud.SkipCutscene",
                 "RepoUrl": "https://github.com/MisterCatt/Working-ffxiv-pluginTemplate",
                 "LastUpdate": 1720565530
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mitaka0715-bot",
+        "repo_url": "https://raw.githubusercontent.com/mitaka0715-bot/FF14HotbarIconExporter/main/repo.json",
+        "repo_source_url": "https://github.com/mitaka0715-bot/FF14HotbarIconExporter",
+        "repo_name": "FF14HotbarIconExporter",
+        "plugins": [
+            {
+                "Author": "General Headquarters",
+                "Name": "FF14 Hotbar Icon Exporter",
+                "InternalName": "FF14HotbarIconExporter",
+                "Description": "Exports FF14 hotbar, cross hotbar, action menu, macro, mount, minion, emote, item, and job icons as PNG files for FF14 PC Shortcut Pad.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/mitaka0715-bot/FF14HotbarIconExporter",
+                "LastUpdate": 1779966694
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mitaka0715-bot",
+        "repo_url": "https://raw.githubusercontent.com/mitaka0715-bot/FF14PcShortcutPad/main/repo.json",
+        "repo_source_url": "https://github.com/mitaka0715-bot/FF14PcShortcutPad",
+        "repo_name": "FF14PcShortcutPad",
+        "plugins": [
+            {
+                "Author": "General Headquarters",
+                "Name": "FF14 PC Shortcut Pad",
+                "InternalName": "FF14PcShortcutPadDalamud",
+                "Description": "A Dalamud in-game shortcut pad with 10 saved pages, 4x4 icon buttons, editable labels, FF14 commands, other plugin commands, icon paths, and Japanese settings UI.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/mitaka0715-bot/FF14PcShortcutPad",
+                "LastUpdate": 1779970122
             }
         ]
     },
@@ -9263,7 +9297,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1779884205
+                "LastUpdate": 1779974059
             }
         ]
     },
@@ -11829,7 +11863,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1779947481
+                "LastUpdate": 1779968220
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -11838,7 +11872,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1779903292
+                "LastUpdate": 1779977918
             },
             {
                 "Author": "NightmareXIV",
@@ -12665,7 +12699,7 @@
                 "Description": "Augments existing raids with community-made custom mechanics just for fun. [IN DEVELOPMENT]",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1779849277
+                "LastUpdate": 1779966097
             },
             {
                 "Author": "Ricimon",
@@ -13593,7 +13627,7 @@
                 "Description": "Adds a Quick Symbols button beside the chat mode selector and other text inputs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/seventity7/QuickSymbols",
-                "LastUpdate": 1779559092
+                "LastUpdate": 1779981840
             }
         ]
     },
@@ -16266,7 +16300,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1779963796
+                "LastUpdate": 1779979597
             },
             {
                 "Author": "XeldarAlz",
@@ -16307,23 +16341,6 @@
     },
     {
         "repo_developer_name": "XeldarAlz",
-        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/repo.json",
-        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-        "repo_name": "FFXIV-AutoFATEGrind",
-        "plugins": [
-            {
-                "Author": "XeldarAlz",
-                "Name": "Auto FATE Grind",
-                "InternalName": "AutoFateGrind",
-                "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1779963796
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "XeldarAlz",
         "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFateGrind/master/repo.json",
         "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
         "repo_name": "FFXIV-AutoFateGrind",
@@ -16335,7 +16352,24 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1779963796
+                "LastUpdate": 1779979597
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "XeldarAlz",
+        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/repo.json",
+        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
+        "repo_name": "FFXIV-AutoFATEGrind",
+        "plugins": [
+            {
+                "Author": "XeldarAlz",
+                "Name": "Auto FATE Grind",
+                "InternalName": "AutoFateGrind",
+                "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
+                "LastUpdate": 1779979597
             }
         ]
     },
@@ -16938,7 +16972,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1779937993
+                "LastUpdate": 1779974533
             }
         ]
     },
