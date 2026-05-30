@@ -375,7 +375,7 @@
                 "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1780125784
+                "LastUpdate": 1780164321
             }
         ]
     },
@@ -556,7 +556,7 @@
                 "Description": "Customize your mount experience! Set up job-specific mount rotations and summon them with a keybind or command. Includes multi-seat mount favorites and visual mount selection with icons.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AlessHub/Mount-Select",
-                "LastUpdate": 1780065756
+                "LastUpdate": 1780149882
             }
         ]
     },
@@ -675,7 +675,7 @@
                 "Description": "Tracks GameObjects and sends them to Akurosia Kamo",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/amki/AkuTrack",
-                "LastUpdate": 1780143802
+                "LastUpdate": 1780157439
             }
         ]
     },
@@ -795,7 +795,7 @@
                 "Description": "一个基于本地 ACTX 风格口径的 Dalamud 战斗统计插件，直接在游戏内显示队伍 DPS、HPS、承伤、概览和战斗历史，不依赖外部网页悬浮窗。 Local ACTX-style combat meter for Dalamud. Displays party DPS, HPS, damage taken, overview summaries, and encounter history directly in game without relying on an external web overlay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/DalamudACT",
-                "LastUpdate": 1780078245
+                "LastUpdate": 1780157242
             },
             {
                 "Author": "shdwp, Avaflow, abashby, nebel",
@@ -1825,7 +1825,7 @@
                 "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BeSlightly/Snappy",
-                "LastUpdate": 1777669389
+                "LastUpdate": 1780144696
             }
         ]
     },
@@ -1953,7 +1953,7 @@
                 "InternalName": "StarfallStudio",
                 "Description": "Starfall Studio - combined GPose toolkit for actor posing, animation control, camera editing, and scene building.\n- Actor list with click-to-select\n- World-space transform gizmo\n- Animation control and pause\n- Advanced appearance and wetness editing\n- Camera editor (Ktisis-style workflow)\n- Bone manipulation with bone tree\n- MCDF actor import\n- NPC/overworld actor import\n- Pose import and export",
                 "RepoUrl": "https://github.com/BluntEXE/StarfallStudio",
-                "LastUpdate": 1779820716
+                "LastUpdate": 1780159633
             }
         ]
     },
@@ -1969,7 +1969,7 @@
                 "InternalName": "XIVVenueManagerSync",
                 "Description": "Automatically sync patron enter/leave events to your XIVVenueManager.",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
-                "LastUpdate": 1780136299
+                "LastUpdate": 1780152667
             }
         ]
     },
@@ -2631,7 +2631,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1780061984
+                "LastUpdate": 1780148325
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -2876,7 +2876,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779848031
+                "LastUpdate": 1780154532
             },
             {
                 "Author": "Critical_Impact",
@@ -3135,7 +3135,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1780091667
+                "LastUpdate": 1780156329
             }
         ]
     },
@@ -4008,7 +4008,7 @@
                 "Description": "Required plugins: vnavmesh, Rotation Solver Reborn.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/exatrines/AutoFrontline",
-                "LastUpdate": 1780068723
+                "LastUpdate": 1780144731
             },
             {
                 "Author": "mirage",
@@ -4207,7 +4207,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1779848031
+                "LastUpdate": 1780154532
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5238,6 +5238,15 @@
             },
             {
                 "Author": "sourpuh, HoshinoLYK（繁中服優化）",
+                "Name": "Waymark Preset",
+                "InternalName": "WaymarkPresetPlugin",
+                "Description": "支援無限數量的標記點配置管理，可輕鬆進行儲存、編輯、放置、匯入、匯出與預覽。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/HoshinoCorp/WaymarkPreset",
+                "LastUpdate": 1780145451
+            },
+            {
+                "Author": "sourpuh, HoshinoLYK（繁中服優化）",
                 "Name": "Waymark Studio",
                 "InternalName": "WaymarkStudio",
                 "Description": "一款全面取代遊戲內建 Waymark 編輯器及 Waymark Preset 插件的工具，提供完整的標記點管理功能，讓標記點的放置、儲存與載入更加快速、方便且精確。",
@@ -5252,7 +5261,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1780072939
+                "LastUpdate": 1780147297
             },
             {
                 "Author": "daemitus, croizat",
@@ -5412,6 +5421,15 @@
             },
             {
                 "Author": "sourpuh, HoshinoLYK（繁中服優化）",
+                "Name": "Waymark Preset",
+                "InternalName": "WaymarkPresetPlugin",
+                "Description": "支援無限數量的標記點配置管理，可輕鬆進行儲存、編輯、放置、匯入、匯出與預覽。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/HoshinoCorp/WaymarkPreset",
+                "LastUpdate": 1780145451
+            },
+            {
+                "Author": "sourpuh, HoshinoLYK（繁中服優化）",
                 "Name": "Waymark Studio",
                 "InternalName": "WaymarkStudio",
                 "Description": "一款全面取代遊戲內建 Waymark 編輯器及 Waymark Preset 插件的工具，提供完整的標記點管理功能，讓標記點的放置、儲存與載入更加快速、方便且精確。",
@@ -5426,7 +5444,7 @@
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1780072939
+                "LastUpdate": 1780147297
             },
             {
                 "Author": "daemitus, croizat",
@@ -5481,12 +5499,12 @@
         "plugins": [
             {
                 "Author": "AlmondCookie",
-                "Name": "AlmondHousing (杏仁房屋工具)",
+                "Name": "AlmondHousing",
                 "InternalName": "AlmondHousing",
                 "Description": "由 AlmondCookie 深度重构与独立维护的房屋装修辅助工具。支持 7 国语言无缝切换、一键导出 Teamcraft/CSV 购物清单、自动保存和加载房屋家具位置，以及导入/导出 MakePlace 程序的布局文件。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/hyirax/AlmondHousing",
-                "LastUpdate": 1779126084
+                "LastUpdate": 1780159963
             }
         ]
     },
@@ -7473,7 +7491,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1780001449
+                "LastUpdate": 1780160863
             }
         ]
     },
@@ -7673,7 +7691,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1780032324
+                "LastUpdate": 1780149790
             }
         ]
     },
@@ -8161,7 +8179,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780137681
+                "LastUpdate": 1780157782
             }
         ]
     },
@@ -8348,7 +8366,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1780115285
+                "LastUpdate": 1780145659
             }
         ]
     },
@@ -10845,7 +10863,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1780062576
+                "LastUpdate": 1780157429
             },
             {
                 "Author": "OOFGames",
@@ -10863,7 +10881,7 @@
                 "Description": "A plugin to manage mini game sessions, player queues, and Gil transactions. Use /minigames to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
-                "LastUpdate": 1780062573
+                "LastUpdate": 1780156551
             }
         ]
     },
@@ -10983,7 +11001,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1780061984
+                "LastUpdate": 1780148325
             }
         ]
     },
@@ -11027,7 +11045,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1780061984
+                "LastUpdate": 1780148325
             },
             {
                 "Author": "Anna",
@@ -11036,7 +11054,7 @@
                 "Description": "Heliosphere is a mod manager and platform designed to work directly with\nPenumbra. It enables efficient downloads and fast installs to let you get back\nto the fun part of mods: using them.\n\nHeliosphere supports:\n- Direct install to Penumbra\n- Compressed and deduplicated (read: small) downloads\n- Automatic updates (optional)\n- Version history\n- Mod changelogs\n- Pictures in Penumbra\n- And more\n\nGive Heliosphere a try, and see if you can't say goodbye to any old mod\nplatform you were using before.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://heliosphere.app/",
-                "LastUpdate": 1779600236
+                "LastUpdate": 1780162938
             },
             {
                 "Author": "Chirp, Cazzar, Bwuny and contributors",
@@ -12001,7 +12019,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1780137855
+                "LastUpdate": 1780164446
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -12010,7 +12028,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780137681
+                "LastUpdate": 1780157782
             },
             {
                 "Author": "NightmareXIV",
@@ -12028,7 +12046,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1780072939
+                "LastUpdate": 1780147297
             },
             {
                 "Author": "daemitus, kawaii",
@@ -12723,7 +12741,7 @@
                 "Description": "A clean fight log and custom trigger overlay. Watch every cast and status in real time, then right-click any line to build your own TTS and on-screen callout.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ResFox/YapYap",
-                "LastUpdate": 1780109810
+                "LastUpdate": 1780163723
             }
         ]
     },
@@ -13016,7 +13034,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1780117991
+                "LastUpdate": 1780156706
             }
         ]
     },
@@ -13033,7 +13051,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1780117991
+                "LastUpdate": 1780156706
             },
             {
                 "Author": "Rose",
@@ -14325,7 +14343,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1780009074
+                "LastUpdate": 1780165395
             }
         ]
     },
@@ -15386,7 +15404,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1780133385
+                "LastUpdate": 1780157656
             }
         ]
     },
@@ -15646,6 +15664,23 @@
         ]
     },
     {
+        "repo_developer_name": "unremarkably",
+        "repo_url": "https://raw.githubusercontent.com/unremarkably/ClearSight/master/repo.json",
+        "repo_source_url": "https://github.com/unremarkably/ClearSight",
+        "repo_name": "ClearSight",
+        "plugins": [
+            {
+                "Author": "unremarkably",
+                "Name": "Clear Sight",
+                "InternalName": "ClearSight",
+                "Description": "On-screen cooldown bars plus a Sage-focused party panel that tracks barriers, HP/MP, and statuses at a glance. Toggle with /clearsight; /clearsight party for the party panel.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/unremarkably/ClearSight",
+                "LastUpdate": 1780158400
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Valiice",
         "repo_url": "https://raw.githubusercontent.com/Valiice/DalamudPluginRepo/master/repo.json",
         "repo_source_url": "https://github.com/Valiice/DalamudPluginRepo",
@@ -15799,7 +15834,7 @@
                 "Description": "为副本记录器添加了额外功能，并在副本中自动录制\n在旅馆中使用 /record 指令来打开回放列表\n如果相关指令未解锁，请完成「回顾英雄诗篇」任务",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VeeverSW/DalamudPlugins",
-                "LastUpdate": 1780141462
+                "LastUpdate": 1780148556
             },
             {
                 "Author": "kawaii, Veever(汉化+额外功能)",
@@ -15817,7 +15852,7 @@
                 "Description": "/tpmain 打开主界面",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VeeverSW/DalamudPlugins",
-                "LastUpdate": 1780141462
+                "LastUpdate": 1780148556
             },
             {
                 "Author": "Lore, Veever(维护&更新)",
@@ -15826,7 +15861,7 @@
                 "Description": "可以给任意物品的悬浮提示添加自定义备注。支持角色独立、幻化独立、品质独立的备注策略，支持自定义颜色和标签分类管理。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VeeverSW/DalamudPlugins",
-                "LastUpdate": 1780141462
+                "LastUpdate": 1780148556
             }
         ]
     },
@@ -16135,7 +16170,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1780061984
+                "LastUpdate": 1780148325
             }
         ]
     },
@@ -16991,7 +17026,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260529
+                "LastUpdate": 20260531
             }
         ]
     },
@@ -17187,7 +17222,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1779974533
+                "LastUpdate": 1780165906
             }
         ]
     },
@@ -17256,7 +17291,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1779926566,
+                "LastUpdate": 1780144538,
                 "is_closed_source": true
             },
             {
@@ -17283,7 +17318,7 @@
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death effects (ragdoll physics), active camera (bone tracking), death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1780134025
+                "LastUpdate": 1780161924
             },
             {
                 "Author": "zysilm",
