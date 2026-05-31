@@ -319,7 +319,16 @@
         "plugins": [
             {
                 "Author": "aethel-tail",
-                "Name": "Graphics Upscaler Toggle",
+                "Name": "超宽屏过场动画",
+                "InternalName": "Dalamud.FullscreenCutscenes",
+                "Description": "移除超宽屏显示器上过场动画的\"信箱模式\"黑边。\n注意！你可能会看到不该看到的东西，例如即将登场的NPC突然出现或T-pose。\n\n感谢aers的发现。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/aethel-tail/Dalamud.FullscreenCutscenes",
+                "LastUpdate": 1780212718
+            },
+            {
+                "Author": "aethel-tail",
+                "Name": "图形升频切换",
                 "InternalName": "GraphicsUpscalerToggle",
                 "Description": "Automatically switches graphics upscaling from DLSS to FSR and back when entering the game. Works around the bug where DLSS doesn't properly engage on initial load and requires a manual toggle.",
                 "DalamudApiLevel": 15,
@@ -496,7 +505,7 @@
                 "Description": "Housing venue visitor queue and greeting assistant.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AiriTsukino/AutoGreet",
-                "LastUpdate": 1780085880
+                "LastUpdate": 1780213973
             }
         ]
     },
@@ -795,7 +804,7 @@
                 "Description": "一个基于本地 ACTX 风格口径的 Dalamud 战斗统计插件，直接在游戏内显示队伍 DPS、HPS、承伤、概览和战斗历史，不依赖外部网页悬浮窗。 Local ACTX-style combat meter for Dalamud. Displays party DPS, HPS, damage taken, overview summaries, and encounter history directly in game without relying on an external web overlay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/DalamudACT",
-                "LastUpdate": 1780182674
+                "LastUpdate": 1780227213
             },
             {
                 "Author": "shdwp, Avaflow, abashby, nebel",
@@ -2894,7 +2903,7 @@
                 "Description": "Allagan Tool's primary purpose is to keep track of items across your characters/retainers/free company. With it's filter system you'll never lose track of items or not know where they should be sorted.\n\nWhile this is it's primary purpose, it has quite an exhaustive list of other features including:\n\t- Craft planning\n\t- Market board integration\n\t- Item highlighting in inventories when searching/sorting and picking ingredients for crafts\n\t- Item window that includes vendor and source information among other things\n\t- Duty/mob/airship/submarine windows that are fully searchable\n\t- A filtering system that lets you setup complex searches for specific items \n\t- Tooltip integration that'll let you see where the items are on hover",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
-                "LastUpdate": 1780116573
+                "LastUpdate": 1780216762
             }
         ]
     },
@@ -4122,7 +4131,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1780192173
+                "LastUpdate": 1780215210
             }
         ]
     },
@@ -4204,6 +4213,23 @@
         ]
     },
     {
+        "repo_developer_name": "FF14Yoshiko",
+        "repo_url": "https://raw.githubusercontent.com/FF14Yoshiko/FF14musicplayer/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/FF14Yoshiko/FF14musicplayer",
+        "repo_name": "FF14musicplayer",
+        "plugins": [
+            {
+                "Author": "肘击",
+                "Name": "全时刻音效触发器",
+                "InternalName": "AllTimeSoundTrigger",
+                "Description": "一个本地音效触发器：监听聊天日志、战斗状态、地图切换、职业变化、HP、Buff、物品获得、击杀等本地可见事件，并按用户配置的方案、分组和规则播放本地音效。支持音效库管理、规则编辑、Buff 消失自动停止循环音效、方案一键切换、地图自动切换方案，以及 .sfxpack 音效包导入导出分享。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/FF14Yoshiko/FF14musicplayer",
+                "LastUpdate": 1780226419
+            }
+        ]
+    },
+    {
         "repo_name": "CombatReborn",
         "repo_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/FFXIV-CombatReborn/CombatRebornRepo",
@@ -4234,7 +4260,7 @@
                 "Description": "Easy zoom distance unlock and fov control. /ez opens the EasyZoomReborn configuration window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn",
-                "LastUpdate": 1777635035
+                "LastUpdate": 1780220372
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5522,7 +5548,7 @@
                 "Description": "由 AlmondCookie 深度重构与独立维护的房屋装修辅助工具。支持 7 国语言无缝切换、一键导出 Teamcraft/CSV 购物清单、自动保存和加载房屋家具位置，以及导入/导出 MakePlace 程序的布局文件。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/hyirax/AlmondHousing",
-                "LastUpdate": 1780159963
+                "LastUpdate": 1780223624
             }
         ]
     },
@@ -6181,7 +6207,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1780133209
+                "LastUpdate": 1780230461
             },
             {
                 "Author": "jkleinne",
@@ -6258,7 +6284,7 @@
                 "Description": "Liste de choses à tracker.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/JohnP-lab/HuntTrack",
-                "LastUpdate": 1774711999
+                "LastUpdate": 1780233819
             }
         ]
     },
@@ -6849,7 +6875,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1780192173
+                "LastUpdate": 1780215210
             }
         ]
     },
@@ -7888,7 +7914,7 @@
                 "Description": "Synchronise automatiquement ta progression FFXIV (quetes, niveaux de jobs) avec XIVDash.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/liliekintsugi/xivdash-connect",
-                "LastUpdate": 1780119632
+                "LastUpdate": 1780219633
             }
         ]
     },
@@ -8006,7 +8032,7 @@
                 "Description": "General Logging Plugin,DPS meter and performance analysis plugin",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LoggingWay/LoggingWayPlugin",
-                "LastUpdate": 1780211157
+                "LastUpdate": 1780232283
             }
         ]
     },
@@ -8202,6 +8228,23 @@
         ]
     },
     {
+        "repo_developer_name": "Maateria",
+        "repo_url": "https://raw.githubusercontent.com/Maateria/XIVSchAssistant/main/repo.json",
+        "repo_source_url": "https://github.com/Maateria/XIVSchAssistant",
+        "repo_name": "XIVSchAssistant",
+        "plugins": [
+            {
+                "Author": "Maateria",
+                "Name": "XIVSchAssitant",
+                "InternalName": "XIVSchAssitant",
+                "Description": "Work in progress",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Maateria/XIVSchAssistant",
+                "LastUpdate": 1780233503
+            }
+        ]
+    },
+    {
         "repo_developer_name": "MaJoRX0",
         "repo_url": "https://raw.githubusercontent.com/MaJoRX0/MyDalamudPlugins/main/plugins.json",
         "repo_source_url": "https://github.com/MaJoRX0/MyDalamudPlugins",
@@ -8367,7 +8410,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1780145659
+                "LastUpdate": 1780230923
             }
         ]
     },
@@ -8554,7 +8597,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1780109832
+                "LastUpdate": 1780230914
             }
         ]
     },
@@ -8661,7 +8704,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1780109832
+                "LastUpdate": 1780230914
             },
             {
                 "Author": "DhogGPT",
@@ -12037,7 +12080,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1780183636
+                "LastUpdate": 1780223532
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -13648,7 +13691,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1780192407
+                "LastUpdate": 1780214260
             }
         ]
     },
@@ -15669,7 +15712,7 @@
                 "Description": "Where mods",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/UnlostWorld/PeerSync",
-                "LastUpdate": 1780210189
+                "LastUpdate": 1780211819
             }
         ]
     },
@@ -16610,23 +16653,6 @@
     },
     {
         "repo_developer_name": "XeldarAlz",
-        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFateGrind/master/repo.json",
-        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-        "repo_name": "FFXIV-AutoFateGrind",
-        "plugins": [
-            {
-                "Author": "XeldarAlz",
-                "Name": "Auto FATE Grind",
-                "InternalName": "AutoFateGrind",
-                "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1780187306
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "XeldarAlz",
         "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/repo.json",
         "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
         "repo_name": "FFXIV-AutoFATEGrind",
@@ -16638,6 +16664,23 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
+                "LastUpdate": 1780187306
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "XeldarAlz",
+        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFateGrind/master/repo.json",
+        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
+        "repo_name": "FFXIV-AutoFateGrind",
+        "plugins": [
+            {
+                "Author": "XeldarAlz",
+                "Name": "Auto FATE Grind",
+                "InternalName": "AutoFateGrind",
+                "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
                 "LastUpdate": 1780187306
             }
         ]
@@ -17249,7 +17292,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1780191388
+                "LastUpdate": 1780229567
             }
         ]
     },
@@ -17345,7 +17388,7 @@
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death effects (ragdoll physics), active camera (bone tracking), death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1780178962
+                "LastUpdate": 1780222069
             },
             {
                 "Author": "zysilm",
