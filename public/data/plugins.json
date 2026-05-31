@@ -91,7 +91,7 @@
                 "Description": "A fully-featured casino dealer plugin for FFXIV including Blackjack, Roulette, Baccrat, Craps, Texas Hold'em, and Ultima (an Uno clone) Commands: /casino to open the GUI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/a325245/ChatCasino",
-                "LastUpdate": 1779912564
+                "LastUpdate": 1780197411
             }
         ]
     },
@@ -2796,7 +2796,7 @@
                 "Description": "Lists every armoire-eligible dungeon drop in the game and shows whether each is in your inventory, in your armoire, or still missing. Sort by level, hide completed dungeons, toggle to show owned items too. Open the armoire UI at an inn once per session to populate the in-armoire state; in-inventory and equipped state is detected automatically. Use /armoire.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1780184679
+                "LastUpdate": 1780193954
             },
             {
                 "Author": "dajoey",
@@ -2805,7 +2805,7 @@
                 "Description": "Automatically uses the highest-tier HP potion in your inventory at a configurable HP threshold. In deep dungeons, also auto-uses the dungeon's regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at its own threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1780184679
+                "LastUpdate": 1780193954
             },
             {
                 "Author": "dajoey",
@@ -2814,7 +2814,7 @@
                 "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1780184679
+                "LastUpdate": 1780193954
             },
             {
                 "Author": "dajoey",
@@ -2823,7 +2823,7 @@
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1780184679
+                "LastUpdate": 1780193954
             },
             {
                 "Author": "Blackcatz1911, dajoey",
@@ -2832,7 +2832,7 @@
                 "Description": "Fork of CurrencySpender by Blackcatz1911. Never wonder 'What should I do with this?' again. Access real-time prices from Universalis, identify missing collectibles tied to your currencies, and unlock new possibilities for utilizing your in-game resources effectively.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1780184679
+                "LastUpdate": 1780193954
             },
             {
                 "Author": "croizat, dajoey",
@@ -2841,7 +2841,7 @@
                 "Description": "Automates FATE grinding, including Zodiac Atma, Anima Luminous Crystals, Resistance Memories, Phantom Demiatmas, Yo-kai Watch Medals, and Bicolor Gemstones. Seamlessly integrates with vnavmesh for pathing and flight, lifestream for zone swapping, TextAdvance for dialogue skipping, and Gluttony Combo/BossMod for combat. Use /lazyfate to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/LazyFateAutomation",
-                "LastUpdate": 1780184677
+                "LastUpdate": 1780193017
             },
             {
                 "Author": "dajoey",
@@ -2850,7 +2850,7 @@
                 "Description": "Fully automated FFXIV sightseeing log completion. Uses vnavmesh for flight and pathing, and lifestream for easy teleportation (/li inn). Automatically skips locked weather/time windows, re-prioritizes if windows open, and returns you to the inn when complete.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1780184679
+                "LastUpdate": 1780193954
             },
             {
                 "Author": "daemitus, MidoriKami, dajoey",
@@ -2859,7 +2859,7 @@
                 "Description": "Adds row probabilities to the Wondrous Tails display along with the average probability of what would happen if you shuffled. Upgraded for modern FFXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1780184679
+                "LastUpdate": 1780193954
             },
             {
                 "Author": "dajoey",
@@ -2868,7 +2868,7 @@
                 "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy",
-                "LastUpdate": 1780184679
+                "LastUpdate": 1780193954
             }
         ]
     },
@@ -4021,6 +4021,15 @@
             },
             {
                 "Author": "mirage",
+                "Name": "DTR Overlay",
+                "InternalName": "DTROverlay",
+                "Description": "Create customizable DTR overlay.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/exatrines/DTROverlay",
+                "LastUpdate": 1780204774
+            },
+            {
+                "Author": "mirage",
                 "Name": "Vending Machine",
                 "InternalName": "VendingMachine",
                 "Description": "Sell configured items for gil or buy offered items at configured prices during player trades.",
@@ -4113,7 +4122,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1780170098
+                "LastUpdate": 1780192173
             }
         ]
     },
@@ -5173,7 +5182,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1779671776
+                "LastUpdate": 1780191044
             }
         ]
     },
@@ -6840,7 +6849,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1780170098
+                "LastUpdate": 1780192173
             }
         ]
     },
@@ -7995,9 +8004,9 @@
                 "Name": "LoggingWayPlugin",
                 "InternalName": "LoggingWayPlugin",
                 "Description": "General Logging Plugin,DPS meter and performance analysis plugin",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LoggingWay/LoggingWayPlugin",
-                "LastUpdate": 1780003153
+                "LastUpdate": 1780211157
             }
         ]
     },
@@ -8477,7 +8486,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1780117656
+                "LastUpdate": 1780196423
             }
         ]
     },
@@ -8625,7 +8634,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1780117656
+                "LastUpdate": 1780196423
             },
             {
                 "Author": "DhogGPT",
@@ -8679,7 +8688,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1780052671
+                "LastUpdate": 1780197110
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -8714,7 +8723,7 @@
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1780052671
+                "LastUpdate": 1780197110
             }
         ]
     },
@@ -9287,7 +9296,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports. THIS REPLACES GLAMOURER, so make sure to uninstall either Glamourer or GlamorousTerror before installing the other.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/GlamorousTerror",
-                "LastUpdate": 1779778844
+                "LastUpdate": 1780199860
             },
             {
                 "Author": "Usagi",
@@ -9781,7 +9790,7 @@
                 "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1780106004
+                "LastUpdate": 1780193238
             },
             {
                 "Author": "goat, Maple",
@@ -9790,7 +9799,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1780027073
+                "LastUpdate": 1780200583
             }
         ]
     },
@@ -10068,7 +10077,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1779897129,
+                "LastUpdate": 1780203581,
                 "is_closed_source": true
             },
             {
@@ -10078,7 +10087,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1779897129,
+                "LastUpdate": 1780203581,
                 "is_closed_source": true
             },
             {
@@ -10088,7 +10097,7 @@
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1779897129,
+                "LastUpdate": 1780203581,
                 "is_closed_source": true
             },
             {
@@ -10458,7 +10467,7 @@
                 "Description": "AutoList turns retainer Market Board chores into supervised AutoList and AutoRefresh workflows with a small in-game tray that lights up when your character is ready to start.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ninethirty77/autolist-repo",
-                "LastUpdate": 1780141769
+                "LastUpdate": 1780192441
             }
         ]
     },
@@ -11402,7 +11411,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1780010967
+                "LastUpdate": 1780190361
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -12046,7 +12055,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780127628
+                "LastUpdate": 1780192967
             },
             {
                 "Author": "Team Wrath",
@@ -13043,7 +13052,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1780156706
+                "LastUpdate": 1780198005
             }
         ]
     },
@@ -13060,7 +13069,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1780156706
+                "LastUpdate": 1780198005
             },
             {
                 "Author": "Rose",
@@ -13639,7 +13648,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1780116342
+                "LastUpdate": 1780192407
             }
         ]
     },
@@ -13938,7 +13947,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780127628
+                "LastUpdate": 1780192967
             }
         ]
     },
@@ -15270,12 +15279,21 @@
         "plugins": [
             {
                 "Author": "Tomok2404",
+                "Name": "Penumbra Preview Manager",
+                "InternalName": "PenumbraPreviewManager",
+                "Description": "A helper tool to easily attach local, XIVModArchive, or direct URL preview/cover images to your Penumbra mods. Also supports local tags to easily filter mods that have preview/cover images inside Penumbra.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Tomok2404/PenumbraPreviewManager",
+                "LastUpdate": 1780199094
+            },
+            {
+                "Author": "Tomok2404",
                 "Name": "ToD Helper",
                 "InternalName": "ToDHelperPlugin",
                 "Description": "A Plugin to help host Truth or Dare games in FFXIV",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tomok2404/TomokPlugins",
-                "LastUpdate": 1778376901
+                "LastUpdate": 1780192821
             }
         ]
     },
@@ -15413,7 +15431,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1780157656
+                "LastUpdate": 1780204505
             }
         ]
     },
@@ -15651,7 +15669,7 @@
                 "Description": "Where mods",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/UnlostWorld/PeerSync",
-                "LastUpdate": 1780119541
+                "LastUpdate": 1780210189
             }
         ]
     },
@@ -17231,7 +17249,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1780165906
+                "LastUpdate": 1780191388
             }
         ]
     },
@@ -17291,7 +17309,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1780010967
+                "LastUpdate": 1780190361
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
