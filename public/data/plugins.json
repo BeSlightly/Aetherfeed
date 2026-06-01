@@ -4225,7 +4225,7 @@
                 "Description": "一个本地音效触发器：监听聊天日志、战斗状态、地图切换、职业变化、HP、Buff、物品获得、击杀等本地可见事件，并按用户配置的方案、分组和规则播放本地音效。支持音效库管理、规则编辑、Buff 消失自动停止循环音效、方案一键切换、地图自动切换方案，以及 .sfxpack 音效包导入导出分享。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FF14Yoshiko/FF14musicplayer",
-                "LastUpdate": 1780226419
+                "LastUpdate": 1780307986
             }
         ]
     },
@@ -7535,7 +7535,7 @@
                 "Description": "Logs every retainer venture return and computes your own observed drop rate for tracked items (Peregrine Helm, Onion gear, etc.). No invented percentages — just your data, with a confidence interval so small samples don't lie.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/OnionHunter",
-                "LastUpdate": 1780269945
+                "LastUpdate": 1780323812
             }
         ]
     },
@@ -8032,7 +8032,7 @@
                 "Description": "General Logging Plugin,DPS meter and performance analysis plugin",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LoggingWay/LoggingWayPlugin",
-                "LastUpdate": 1780232283
+                "LastUpdate": 1780317966
             }
         ]
     },
@@ -8206,7 +8206,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780300527
+                "LastUpdate": 1780323886
             }
         ]
     },
@@ -9114,7 +9114,7 @@
                 "Description": "GatherBuddy JP is a Japanese-first gathering navigation plugin for miners and botanists. It provides item search, route planning, teleport-assisted travel, auto-gather lists, and vnavmesh-assisted movement.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mitaka0715-bot/GatherBuddyJP",
-                "LastUpdate": 1780300943
+                "LastUpdate": 1780304362
             }
         ]
     },
@@ -9531,7 +9531,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1779974059
+                "LastUpdate": 1780319256
             }
         ]
     },
@@ -10561,7 +10561,7 @@
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1780286269
+                "LastUpdate": 1780322845
             }
         ]
     },
@@ -10942,6 +10942,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OkuKatsu/SliceIsRight",
                 "LastUpdate": 1778935544
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "OmegaJackie",
+        "repo_url": "https://raw.githubusercontent.com/OmegaJackie/CineSync/main/repo.json",
+        "repo_source_url": "https://github.com/OmegaJackie/CineSync",
+        "repo_name": "CineSync",
+        "plugins": [
+            {
+                "Author": "OmegaJackie",
+                "Name": "CineSync",
+                "InternalName": "CineSync",
+                "Description": "Host a small server; paired friends connect and automatically see the in-world screens (TVs) you create, all playing the same media. Move/resize/rotate gizmo, LibVLC video, auto-reconnect. Pairs with a self-hosted Owncast stream.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/OmegaJackie/CineSync",
+                "LastUpdate": 1780303384
             }
         ]
     },
@@ -12114,7 +12131,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1780246721
+                "LastUpdate": 1780307620
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -12123,7 +12140,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780300527
+                "LastUpdate": 1780323886
             },
             {
                 "Author": "NightmareXIV",
@@ -17050,7 +17067,7 @@
                 "InternalName": "YhumiFishing",
                 "Description": "I wanna see what fish you catch...",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1780137385
+                "LastUpdate": 1780317247
             },
             {
                 "Author": "Yhumi",
