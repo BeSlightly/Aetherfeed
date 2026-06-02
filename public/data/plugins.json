@@ -813,7 +813,7 @@
                 "Description": "一个基于本地 ACTX 风格口径的 Dalamud 战斗统计插件，直接在游戏内显示队伍 DPS、HPS、承伤、概览和战斗历史，不依赖外部网页悬浮窗。 Local ACTX-style combat meter for Dalamud. Displays party DPS, HPS, damage taken, overview summaries, and encounter history directly in game without relying on an external web overlay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/DalamudACT",
-                "LastUpdate": 1780404069
+                "LastUpdate": 1780429625
             },
             {
                 "Author": "shdwp, Avaflow, abashby, nebel",
@@ -3429,7 +3429,7 @@
                 "Description": "Extends macro capabilities with conditionals, extra functions, and a few other nice things.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Eauldane/BigMac",
-                "LastUpdate": 1780403910
+                "LastUpdate": 1780415514
             },
             {
                 "Author": "Eauldane",
@@ -3447,7 +3447,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1780403919
+                "LastUpdate": 1780420332
             },
             {
                 "Author": "Eauldane",
@@ -3955,7 +3955,7 @@
                 "Description": "Chinese Plugin to export Adventurer Plates to strings, compatible with HaselTweaks Portrait Editor. (Requires registration on their discord server)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/CharaCradThief",
-                "LastUpdate": 1778354808,
+                "LastUpdate": 1780416380,
                 "is_closed_source": true
             },
             {
@@ -3965,7 +3965,7 @@
                 "Description": "AE3分离的hackbox",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/neko",
-                "LastUpdate": 1778687419,
+                "LastUpdate": 1780416380,
                 "is_closed_source": true
             },
             {
@@ -3975,7 +3975,7 @@
                 "Description": "一个简单的绿色插件。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/blob/main/Plugins/latest.zip",
-                "LastUpdate": 1778426837,
+                "LastUpdate": 1780416380,
                 "is_closed_source": true
             },
             {
@@ -3985,7 +3985,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障 魔改版本 正常勿用",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://gh.atmoomen.top/https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779001620
+                "LastUpdate": 1780416395
             }
         ]
     },
@@ -4329,7 +4329,7 @@
                 "Description": "一个本地音效触发器：监听聊天日志、战斗状态、地图切换、职业变化、HP、Buff、物品获得、击杀等本地可见事件，并按用户配置的方案、分组和规则播放本地音效。支持音效库管理、规则编辑、Buff 消失自动停止循环音效、方案一键切换、地图自动切换方案，以及 .sfxpack 音效包导入导出分享。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FF14Yoshiko/FF14musicplayer",
-                "LastUpdate": 1780307986
+                "LastUpdate": 1780430881
             }
         ]
     },
@@ -4391,7 +4391,7 @@
                 "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1780336326
+                "LastUpdate": 1780418584
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -4409,7 +4409,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1780337497
+                "LastUpdate": 1780420731
             },
             {
                 "Author": "Churin",
@@ -5234,7 +5234,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1780407383
+                "LastUpdate": 1780410263
             },
             {
                 "Author": "Haselnussbomber",
@@ -6191,7 +6191,7 @@
                 "Description": "Queue and run bulk desynthesis jobs without clicking each item by hand. Target by item ID, bag, item-level / equipment-slot filters, or armoury chest category. Every job is dry-run first: the plugin builds a preview list of slots it intends to desynth, you click Confirm, then it walks the list one item at a time on the framework tick.\n\nUsage:\n  /bds         - open the main window\n  /bds bag <n> - preview bag N (1-4)\n  /bds item <itemId> - preview every copy of an item in inventory\n  /bds stop    - cancel a running queue",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jdw-ss/gaming-tools",
-                "LastUpdate": 1780354300
+                "LastUpdate": 1780430702
             }
         ]
     },
@@ -6302,7 +6302,7 @@
                 "Description": "Personal fork of MidoriKami's EzWondrousTails, ported to Dalamud API 15 after the upstream repository was archived. Injects row probabilities and shuffle averages into the Wondrous Tails journal, and adds a standalone plugin window so the same information is reachable when the journal isn't open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-EzWondrousTails",
-                "LastUpdate": 1780030142
+                "LastUpdate": 1780426712
             },
             {
                 "Author": "jkleinne",
@@ -6311,7 +6311,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1780356607
+                "LastUpdate": 1780429328
             },
             {
                 "Author": "jkleinne",
@@ -6388,7 +6388,7 @@
                 "Description": "Liste de choses à tracker.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JohnP-lab/HuntTrack",
-                "LastUpdate": 1780247290
+                "LastUpdate": 1780426228
             }
         ]
     },
@@ -6541,7 +6541,7 @@
                 "InternalName": "FaloopMessenger",
                 "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
                 "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1780024257
+                "LastUpdate": 1780431642
             }
         ]
     },
@@ -6849,7 +6849,7 @@
                 "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kawaii/Hyperborea",
-                "LastUpdate": 1778418320
+                "LastUpdate": 1780420250
             }
         ]
     },
@@ -7701,7 +7701,7 @@
                 "Description": "仅会检查在线安装的插件",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/LatihasDupDll",
-                "LastUpdate": 1780406867
+                "LastUpdate": 1780416079
             },
             {
                 "Author": "Latihas",
@@ -7831,7 +7831,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1780349275
+                "LastUpdate": 1780411923
             }
         ]
     },
@@ -8002,7 +8002,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
-                "LastUpdate": 1780364354
+                "LastUpdate": 1780412016
             }
         ]
     },
@@ -8022,12 +8022,54 @@
             },
             {
                 "Author": "liliekintsugi",
-                "Name": "XIVDash Connect",
-                "InternalName": "XIVDashPlugin",
-                "Description": "Synchronise automatiquement ta progression FFXIV (quetes, niveaux de jobs) avec XIVDash.",
+                "Name": "XIVPath Connect",
+                "InternalName": "XIVPathPlugin",
+                "Description": "Synchronise automatiquement ta progression FFXIV vers XIVPath : niveaux de jobs, quetes MSQ, donjons/defis/raids accomplis. Synchro auto au changement de zone.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/liliekintsugi/xivdash-connect",
-                "LastUpdate": 1780219633
+                "RepoUrl": "https://github.com/liliekintsugi/xivpath-connect",
+                "LastUpdate": 1780421844
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "liliekintsugi",
+        "repo_url": "https://raw.githubusercontent.com/liliekintsugi/xivpath-autopilot/main/repo.json",
+        "repo_source_url": "https://github.com/liliekintsugi/xivpath-autopilot",
+        "repo_name": "xivpath-autopilot",
+        "plugins": [
+            {
+                "Author": "liliekintsugi",
+                "Name": "XIVPath Autopilot",
+                "InternalName": "XIVPathAutopilot",
+                "Description": "Manual destination autopilot scaffold for XIVPath. Uses vnavmesh IPC hooks when available.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/liliekintsugi/xivpath-autopilot",
+                "LastUpdate": 1780426287
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "liliekintsugi",
+        "repo_url": "https://raw.githubusercontent.com/liliekintsugi/xivpath-connect/main/repo.json",
+        "repo_source_url": "https://github.com/liliekintsugi/xivpath-connect",
+        "repo_name": "xivpath-connect",
+        "plugins": [
+            {
+                "Author": "goat, Maple, liliekintsugi",
+                "Name": "Ultrawide Cutscenes",
+                "InternalName": "UltrawideCutscenes",
+                "Description": "This plugin removes the letterboxing bars when watching cutscenes on ultrawide monitors.\nBeware! You may see things that you are not supposed to be seeing, such as upcoming NPCs popping in or T-posing.\n\nThanks to aers for finding this.",
+                "DalamudApiLevel": 15,
+                "LastUpdate": 1780420883
+            },
+            {
+                "Author": "liliekintsugi",
+                "Name": "XIVPath Connect",
+                "InternalName": "XIVPathPlugin",
+                "Description": "Synchronise automatiquement ta progression FFXIV vers XIVPath : niveaux de jobs, quetes MSQ, donjons/defis/raids accomplis. Synchro auto au changement de zone.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/liliekintsugi/xivpath-connect",
+                "LastUpdate": 1780421844
             }
         ]
     },
@@ -8310,7 +8352,7 @@
                 "Description": "逐幀分析戰鬥情況，並找出下一幀最適合使用的技能。\n\n這意味著幾乎所有戰鬥中可用的資訊都在一幀中，包括隊伍中所有玩家的狀態、任何敵對目標的狀態、技能冷卻時間、角色的MP/HP、角色的位置、敵對目標的施法狀態、連擊、戰鬥時長、玩家等級等。\n\n然後，它會在快捷欄上高亮顯示最佳行動，或説明你點擊它。\n\n它是為“日常戰鬥”設計的，不適用於零式或者絕境戰。請謹慎使用\"",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1780337497
+                "LastUpdate": 1780420731
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -8319,7 +8361,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780407853
+                "LastUpdate": 1780430074
             }
         ]
     },
@@ -9451,7 +9493,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1779498850
+                "LastUpdate": 1780421278
             }
         ]
     },
@@ -9494,7 +9536,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1779498850
+                "LastUpdate": 1780421278
             },
             {
                 "Author": "MTVirux",
@@ -9812,9 +9854,9 @@
                 "Name": "AutoOBSRecorder",
                 "InternalName": "AutoOBSRecorder",
                 "Description": "",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/tree/main/plugins/AutoOBSRecorder",
-                "LastUpdate": 1777369226,
+                "LastUpdate": 1780418392,
                 "is_closed_source": true
             },
             {
@@ -9876,7 +9918,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1779924726
+                "LastUpdate": 1780416660
             }
         ]
     },
@@ -9888,12 +9930,12 @@
         "plugins": [
             {
                 "Author": "Valenth Siveria",
-                "Name": "Avoid a burnout by using Burnout",
+                "Name": "Burnout",
                 "InternalName": "Burnout",
                 "Description": "/burnout - opens the burnout calendar",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeoGriever/Burnout",
-                "LastUpdate": 1772495586
+                "LastUpdate": 1780417242
             }
         ]
     },
@@ -10496,7 +10538,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1777548605,
+                "LastUpdate": 1780417732,
                 "is_closed_source": true
             },
             {
@@ -10506,7 +10548,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1777548605,
+                "LastUpdate": 1780417732,
                 "is_closed_source": true
             },
             {
@@ -10516,7 +10558,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1777548605,
+                "LastUpdate": 1780417732,
                 "is_closed_source": true
             },
             {
@@ -10526,7 +10568,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1777548605,
+                "LastUpdate": 1780417732,
                 "is_closed_source": true
             },
             {
@@ -12154,7 +12196,7 @@
                 "Description": "Chronofoil is a plugin that allows you to capture in-game packets for analysis later.\nIt also allows you to upload a censored version of these captures to a central repository for\npreservation and analysis. Privacy controls are at the center of Chronofoil, which is why it\nrequires two levels of user opt-in, has minimum delays on releasing any submitted user info,\nand allows users to delete their submitted data at any time.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ProjectChronofoil/Chronofoil.Plugin",
-                "LastUpdate": 1778180074
+                "LastUpdate": 1780420854
             }
         ]
     },
@@ -12294,7 +12336,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780407853
+                "LastUpdate": 1780430074
             },
             {
                 "Author": "NightmareXIV",
@@ -12303,7 +12345,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780405834
+                "LastUpdate": 1780426724
             },
             {
                 "Author": "Team Wrath",
@@ -12443,7 +12485,7 @@
                 "Description": "Answers for you on hello, gg and Good Night messages! Highly customizable!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaidenvBlack/RaidenvPlugins/blob/main/Lazy.zip",
-                "LastUpdate": 1780325701,
+                "LastUpdate": 1780430143,
                 "is_closed_source": true
             },
             {
@@ -13007,7 +13049,7 @@
                 "Description": "A clean fight log and custom trigger overlay. Watch every cast and status in real time, then right-click any line to build your own TTS and on-screen callout.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ResFox/YapYap",
-                "LastUpdate": 1780368064
+                "LastUpdate": 1780424431
             }
         ]
     },
@@ -13700,7 +13742,7 @@
                 "Description": "當隊友進入隊伍或開啟招募資訊時，自動從 ranking.init.engineer 與 samoyedqq.github.io/TCtomestone 抓取對應角色的零式/絕本排名資料，並顯示於聊天框與插件視窗。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1779600381
+                "LastUpdate": 1780420507
             }
         ]
     },
@@ -13973,7 +14015,7 @@
                 "Description": "Suggests or safely moves toward BossMod-recommended rear/flank positions using vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SekhmetAnkh/PositionalPilot",
-                "LastUpdate": 1780372325
+                "LastUpdate": 1780431052
             }
         ]
     },
@@ -14221,7 +14263,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780405834
+                "LastUpdate": 1780426724
             }
         ]
     },
@@ -14418,7 +14460,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1780387318
+                "LastUpdate": 1780417843
             },
             {
                 "Author": "XSZYYS",
@@ -14427,7 +14469,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1780387318,
+                "LastUpdate": 1780417843,
                 "is_closed_source": true
             }
         ]
@@ -15301,7 +15343,7 @@
                 "Description": "Play Minesweeper, Hangman, and Sudoku from a single Arcade hub.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ThePurplePigeon/arcade",
-                "LastUpdate": 1777649540
+                "LastUpdate": 1780412105
             }
         ]
     },
@@ -15807,7 +15849,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1780379116
+                "LastUpdate": 1780413885
             }
         ]
     },
@@ -16776,7 +16818,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1780360427
+                "LastUpdate": 1780422124
             },
             {
                 "Author": "XeldarAlz",
@@ -16828,7 +16870,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1780360427
+                "LastUpdate": 1780422124
             }
         ]
     },
@@ -16845,7 +16887,7 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1780360427
+                "LastUpdate": 1780422124
             }
         ]
     },
