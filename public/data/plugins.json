@@ -123,9 +123,9 @@
                 "Name": "XIV Raid Planner",
                 "InternalName": "XIVRaidPlannerPlugin",
                 "Description": "Displays loot priority rankings during savage raids and auto-logs loot drops to your FFXIV Raid Planner static. Requires an API key from the web app.\n\nCommands:\n/xrp - Toggle priority overlay\n/xrp bis - Toggle BiS gear viewer\n/xrp sync - Sync equipped gear to web app\n/xrp config - Open configuration",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/aaronbcarlisle/XIVRaidPlannerPlugin",
-                "LastUpdate": 1780026101
+                "LastUpdate": 1780476203
             }
         ]
     },
@@ -194,7 +194,7 @@
                 "Description": "A small collection of tweaks pertaining to housing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Abyeon/Housingway",
-                "LastUpdate": 1780370986
+                "LastUpdate": 1780471704
             }
         ]
     },
@@ -3461,6 +3461,23 @@
         ]
     },
     {
+        "repo_developer_name": "ebhemmanuel",
+        "repo_url": "https://raw.githubusercontent.com/ebhemmanuel/yippie/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/ebhemmanuel/yippie",
+        "repo_name": "yippie",
+        "plugins": [
+            {
+                "Author": "elchupi",
+                "Name": "Double Trouble SFX",
+                "InternalName": "DoubleTroubleSfx",
+                "Description": "Plays a custom sound effect whenever you gain Kefka's \"Double-Trouble Trap\" debuff. The trigger status name, volume, and sound file are all configurable. Use /doubletrouble to open settings, or /doubletrouble test to preview the sound.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ebhemmanuel/yippie",
+                "LastUpdate": 1780471384
+            }
+        ]
+    },
+    {
         "repo_developer_name": "echodetla",
         "repo_url": "https://raw.githubusercontent.com/echodetla/ffxiv-look-at-me/main/repo.json",
         "repo_source_url": "https://github.com/echodetla/ffxiv-look-at-me",
@@ -3975,7 +3992,7 @@
                 "Description": "一个简单的绿色插件。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/blob/main/Plugins/latest.zip",
-                "LastUpdate": 1780416380,
+                "LastUpdate": 1780456663,
                 "is_closed_source": true
             },
             {
@@ -3985,7 +4002,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障 魔改版本 正常勿用",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://gh.atmoomen.top/https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1780416395
+                "LastUpdate": 1780456669
             }
         ]
     },
@@ -4235,7 +4252,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1780445158
+                "LastUpdate": 1780459494
             }
         ]
     },
@@ -6311,7 +6328,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1780450579
+                "LastUpdate": 1780471311
             },
             {
                 "Author": "jkleinne",
@@ -6979,7 +6996,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1780445158
+                "LastUpdate": 1780459494
             }
         ]
     },
@@ -10003,7 +10020,7 @@
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1780390561
+                "LastUpdate": 1780474881
             }
         ]
     },
@@ -10072,7 +10089,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1780373838
+                "LastUpdate": 1780460815
             }
         ]
     },
@@ -11154,7 +11171,7 @@
                 "Description": "Host a small server; paired friends connect and automatically see the in-world screens (TVs) you create, all playing the same media. Move/resize/rotate gizmo, LibVLC video, auto-reconnect. Pairs with a self-hosted Owncast stream.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OmegaJackie/CineSync",
-                "LastUpdate": 1780303384
+                "LastUpdate": 1780474723
             }
         ]
     },
@@ -12345,7 +12362,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780451684
+                "LastUpdate": 1780469785
             },
             {
                 "Author": "Team Wrath",
@@ -12815,7 +12832,7 @@
                 "Description": "Bard Toolbox is an all-in-one FFXIV Dalamud plugin for bards and bands, providing all the essential functions that people would need every day.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
-                "LastUpdate": 1780451183,
+                "LastUpdate": 1780454754,
                 "is_closed_source": true
             }
         ]
@@ -13342,7 +13359,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1780447998
+                "LastUpdate": 1780457975
             }
         ]
     },
@@ -13359,7 +13376,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1780447998
+                "LastUpdate": 1780457975
             },
             {
                 "Author": "Rose",
@@ -13964,7 +13981,7 @@
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1780454316
+                "LastUpdate": 1780468341
             }
         ]
     },
@@ -14263,7 +14280,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780451684
+                "LastUpdate": 1780469785
             }
         ]
     },
@@ -14460,7 +14477,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1780417843
+                "LastUpdate": 1780470490
             },
             {
                 "Author": "XSZYYS",
@@ -14469,7 +14486,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1780417843,
+                "LastUpdate": 1780470490,
                 "is_closed_source": true
             }
         ]
@@ -14729,7 +14746,7 @@
                 "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
-                "LastUpdate": 1779649567
+                "LastUpdate": 1780459248
             }
         ]
     },
@@ -15343,7 +15360,7 @@
                 "Description": "Play Minesweeper, Hangman, and Sudoku from a single Arcade hub.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ThePurplePigeon/arcade",
-                "LastUpdate": 1767554949
+                "LastUpdate": 1780412105
             }
         ]
     },
@@ -16251,7 +16268,7 @@
                 "Description": "Suppresses the large on-screen countdown overlay produced by the /countdown command. The countdown still runs and fires normally — only the visual is hidden.\n\nCommands:\n/countdownhide — toggle the feature on/off\n/countdownhide config — open settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/CountdownHide",
-                "LastUpdate": 1777676120
+                "LastUpdate": 1780472398
             }
         ]
     },
@@ -16268,7 +16285,7 @@
                 "Description": "Suppresses the large on-screen countdown overlay produced by the /countdown command. The countdown still runs and fires normally — only the visual is hidden.\n\nCommands:\n/cdhide — toggle the feature on/off\n/cdhide config — open settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/CountdownHide",
-                "LastUpdate": 1777676120
+                "LastUpdate": 1780472398
             },
             {
                 "Author": "VimaFFXIV",
@@ -16277,7 +16294,7 @@
                 "Description": "MacroVault lets you send your FFXIV macros to a Discord channel via webhook.\n\nCommands:\n/mvexport — export the currently selected macro\n/mvbackup — export all non-empty macros (both tabs)\n/mv — open the settings window",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/MacroVault",
-                "LastUpdate": 1777676199
+                "LastUpdate": 1780472194
             },
             {
                 "Author": "VimaFFXIV",
@@ -16286,7 +16303,7 @@
                 "Description": "SharkChat intercepts your chat before it's sent and swaps words or phrases for whatever you want.\n\nSet up rules like Thanks → Thankies, and they'll apply automatically every time you chat — across any channel.\n\nFeatures:\n• Whole-word matching (so \"tank\" won't mangle \"thanks\")\n• Case-insensitive by default\n• Per-rule enable/disable\n• Live preview so you can test rules before using them\n\nCommands:\n/shark — toggle on/off\n/shark config — open settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/SharkChat",
-                "LastUpdate": 1778655038
+                "LastUpdate": 1780472492
             }
         ]
     },
@@ -16303,7 +16320,7 @@
                 "Description": "MacroVault lets you send your FFXIV macros to a Discord channel via webhook.\n\nCommands:\n/mvexport — export the currently selected macro\n/mvbackup — export all non-empty macros (both tabs)\n/mv — open the settings window",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/MacroVault",
-                "LastUpdate": 1777676199
+                "LastUpdate": 1780472194
             }
         ]
     },
@@ -16320,7 +16337,7 @@
                 "Description": "SharkChat intercepts your chat before it's sent and swaps words or phrases for whatever you want.\n\nSet up rules like Thanks → Thankies, and they'll apply automatically every time you chat — across any channel.\n\nFeatures:\n• Whole-word matching (so \"tank\" won't mangle \"thanks\")\n• Case-insensitive by default\n• Per-rule enable/disable\n• Live preview so you can test rules before using them\n\nCommands:\n/shark — toggle on/off\n/shark config — open settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/SharkChat",
-                "LastUpdate": 1778655038
+                "LastUpdate": 1780472492
             }
         ]
     },
@@ -16809,7 +16826,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1780447806
+                "LastUpdate": 1780467722
             },
             {
                 "Author": "XeldarAlz",
@@ -16836,7 +16853,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1780447106
+                "LastUpdate": 1780467190
             }
         ]
     },
@@ -16853,7 +16870,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1780447806
+                "LastUpdate": 1780467722
             }
         ]
     },
@@ -16904,7 +16921,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1780447106
+                "LastUpdate": 1780467190
             }
         ]
     },
@@ -16938,7 +16955,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1780447106
+                "LastUpdate": 1780467190
             }
         ]
     },
@@ -16955,7 +16972,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1780447106
+                "LastUpdate": 1780467190
             }
         ]
     },
