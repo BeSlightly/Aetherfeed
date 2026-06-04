@@ -1293,7 +1293,7 @@
                 "Description": "Notifies you when hunt trains are starting soon\nSupports NA/EU/OCE",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://projects.gamba.pro/Asuna/HuntAlerts",
-                "LastUpdate": 1780508288
+                "LastUpdate": 1780527100
             },
             {
                 "Author": "Asuna",
@@ -1919,9 +1919,9 @@
                 "Name": "AutoMarket Pro",
                 "InternalName": "AutomarketPro",
                 "Description": "Automates inventory scanning, marketboard listing, and vendor selling using Universalis data and retainer control.",
-                "DalamudApiLevel": 13,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bimilbimil/AutomarketPro",
-                "LastUpdate": 1766252412
+                "LastUpdate": 1780539682
             }
         ]
     },
@@ -2193,7 +2193,7 @@
                 "Description": "This plugin allows you to create custom triggers to in-game messages.\nOptions include responding through in-game chat, in-game sound effects, and even Text-to-Speech.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Brolijah/SimpleTriggers",
-                "LastUpdate": 1780018894
+                "LastUpdate": 1780538808
             }
         ]
     },
@@ -2606,7 +2606,7 @@
                 "Description": "Handled with care. Always careful of the impacts our choices make, and how they affect the future ahead of us.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sundouleia/client",
-                "LastUpdate": 1777667605
+                "LastUpdate": 1780540314
             }
         ]
     },
@@ -3473,7 +3473,7 @@
                 "Description": "Plays a custom sound effect whenever you gain Kefka's \"Double-Trouble Trap\" debuff. The trigger status name, volume, and sound file are all configurable. Use /doubletrouble to open settings, or /doubletrouble test to preview the sound.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ebhemmanuel/yippie",
-                "LastUpdate": 1780471384
+                "LastUpdate": 1780525000
             }
         ]
     },
@@ -5251,7 +5251,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1780410263
+                "LastUpdate": 1780543021
             },
             {
                 "Author": "Haselnussbomber",
@@ -5329,7 +5329,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1780191044
+                "LastUpdate": 1780543853
             }
         ]
     },
@@ -5650,7 +5650,7 @@
                 "Description": "Notifies you when hunt trains are starting soon",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/huntsffxiv",
-                "LastUpdate": 1780369926
+                "LastUpdate": 1780527284
             }
         ],
         "repo_name": "repo",
@@ -6208,7 +6208,7 @@
                 "Description": "Queue and run bulk desynthesis jobs without clicking each item by hand. Target by item ID, bag, item-level / equipment-slot filters, or armoury chest category. Every job is dry-run first: the plugin builds a preview list of slots it intends to desynth, you click Confirm, then it walks the list one item at a time on the framework tick.\n\nUsage:\n  /bds         - open the main window\n  /bds bag <n> - preview bag N (1-4)\n  /bds item <itemId> - preview every copy of an item in inventory\n  /bds stop    - cancel a running queue",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jdw-ss/gaming-tools",
-                "LastUpdate": 1780516601
+                "LastUpdate": 1780526645
             }
         ]
     },
@@ -7865,7 +7865,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1780518224
+                "LastUpdate": 1780527582
             }
         ]
     },
@@ -8395,7 +8395,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780521466
+                "LastUpdate": 1780529576
             }
         ]
     },
@@ -9579,7 +9579,7 @@
                 "Description": "DM @mtvirux on discord for assistance or bug reports. THIS REPLACES GLAMOURER, so make sure to uninstall either Glamourer or GlamorousTerror before installing the other.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/GlamorousTerror",
-                "LastUpdate": 1780514786
+                "LastUpdate": 1780534979
             },
             {
                 "Author": "Usagi",
@@ -9906,6 +9906,23 @@
         ]
     },
     {
+        "repo_developer_name": "Naru6780",
+        "repo_url": "https://raw.githubusercontent.com/Naru6780/LeaderTargetSync/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Naru6780/LeaderTargetSync",
+        "repo_name": "LeaderTargetSync",
+        "plugins": [
+            {
+                "Author": "Codex",
+                "Name": "Leader Target Sync",
+                "InternalName": "LeaderTargetSync",
+                "Description": "When enabled, repeatedly sets your target to the current target of the party leader.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Naru6780/LeaderTargetSync",
+                "LastUpdate": 1780527667
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Neferith",
         "repo_url": "https://raw.githubusercontent.com/Neferith/sts_dalamud_plugin/master/repo.json",
         "repo_source_url": "https://github.com/Neferith/sts_dalamud_plugin",
@@ -10123,7 +10140,7 @@
                 "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1780454081
+                "LastUpdate": 1780540250
             },
             {
                 "Author": "goat, Maple",
@@ -11735,7 +11752,7 @@
                 "Description": "Automates inventory scanning, marketboard listing, and vendor selling using Universalis data and retainer control.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/bimilbimil/AutomarketPro",
-                "LastUpdate": 1766252412
+                "LastUpdate": 1780539682
             }
         ]
     },
@@ -12396,7 +12413,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780521466
+                "LastUpdate": 1780529576
             },
             {
                 "Author": "NightmareXIV",
@@ -12405,7 +12422,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780522107
+                "LastUpdate": 1780538178
             },
             {
                 "Author": "Team Wrath",
@@ -12858,7 +12875,7 @@
                 "Description": "Free your mouse and fingers from repetitive trading",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ray-CR/BackstabTheTrade",
-                "LastUpdate": 1780120669
+                "LastUpdate": 1780542713
             }
         ]
     },
@@ -13109,7 +13126,7 @@
                 "Description": "A clean fight log and custom trigger overlay. Watch every cast and status in real time, then right-click any line to build your own TTS and on-screen callout.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ResFox/YapYap",
-                "LastUpdate": 1780440591
+                "LastUpdate": 1780533868
             }
         ]
     },
@@ -14069,13 +14086,22 @@
         "repo_name": "PositionalPilot",
         "plugins": [
             {
+                "Author": "papou",
+                "Name": "Drop List Automator",
+                "InternalName": "DropListAutomator",
+                "Description": "Listens to GatherBuddy Reborn/Vulcan execution plans, detects missing drop-only materials with local GBR-style drop-location data, waits for GBR gathering to finish, then pauses Vulcan while hunting, targets only the hunted monster, requests RSR manual mode, and resumes Vulcan automatically.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/SekhmetAnkh/PositionalPilot",
+                "LastUpdate": 1780538429
+            },
+            {
                 "Author": "SekhmetAnkh",
                 "Name": "PositionalPilot",
                 "InternalName": "PositionalPilot",
                 "Description": "Suggests or safely moves toward BossMod-recommended rear/flank positions using vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SekhmetAnkh/PositionalPilot",
-                "LastUpdate": 1780490175
+                "LastUpdate": 1780538429
             }
         ]
     },
@@ -14143,7 +14169,7 @@
                 "Description": "Use this to know the current time in different timezones in a customizable way.\nYou can change the text scale, colors, position and even setup Alarms!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/seventity7/clock",
-                "LastUpdate": 1780515997
+                "LastUpdate": 1780525521
             }
         ]
     },
@@ -14323,7 +14349,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780522107
+                "LastUpdate": 1780538178
             }
         ]
     },
@@ -16746,7 +16772,7 @@
                 "Description": "Allows you to generate macros and simulate all sorts of crafts without having to open another app. Open your crafting log to get started!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/WorkingRobot/Craftimizer",
-                "LastUpdate": 1780509450
+                "LastUpdate": 1780541893
             },
             {
                 "Author": "Asriel",
@@ -16869,7 +16895,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1780508924
+                "LastUpdate": 1780534216
             },
             {
                 "Author": "XeldarAlz",
@@ -16878,7 +16904,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1780510348
+                "LastUpdate": 1780533928
             },
             {
                 "Author": "XeldarAlz",
@@ -16887,7 +16913,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1780447037
+                "LastUpdate": 1780533457
             },
             {
                 "Author": "XeldarAlz",
@@ -16896,7 +16922,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1780517334
+                "LastUpdate": 1780533507
             }
         ]
     },
@@ -16913,7 +16939,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1780508924
+                "LastUpdate": 1780534216
             }
         ]
     },
@@ -16930,7 +16956,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1780510348
+                "LastUpdate": 1780533928
             }
         ]
     },
@@ -16947,7 +16973,7 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1780510348
+                "LastUpdate": 1780533928
             }
         ]
     },
@@ -16964,7 +16990,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1780517334
+                "LastUpdate": 1780533507
             }
         ]
     },
@@ -16981,7 +17007,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1780447037
+                "LastUpdate": 1780533457
             }
         ]
     },
@@ -16998,7 +17024,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1780517334
+                "LastUpdate": 1780533507
             }
         ]
     },
@@ -17015,7 +17041,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1780517334
+                "LastUpdate": 1780533507
             }
         ]
     },
@@ -17644,7 +17670,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1780240072,
+                "LastUpdate": 1780531940,
                 "is_closed_source": true
             },
             {
