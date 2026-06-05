@@ -813,7 +813,7 @@
                 "Description": "一个基于本地 ACTX 风格口径的 Dalamud 战斗统计插件，直接在游戏内显示队伍 DPS、HPS、承伤、概览和战斗历史，不依赖外部网页悬浮窗。 Local ACTX-style combat meter for Dalamud. Displays party DPS, HPS, damage taken, overview summaries, and encounter history directly in game without relying on an external web overlay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/DalamudACT",
-                "LastUpdate": 1780645950
+                "LastUpdate": 1780675997
             },
             {
                 "Author": "shdwp, Avaflow, abashby, nebel",
@@ -867,7 +867,7 @@
                 "Description": "帮助你记录每日随机任务、导出报告，并实时同步到 DungeonLogger。\n\nHelp you to record your daily roulettes, export reports, and sync with DungeonLogger in real time.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/RouletteRecorder.Dalamud",
-                "LastUpdate": 1780646245
+                "LastUpdate": 1780679901
             }
         ]
     },
@@ -1311,7 +1311,7 @@
                 "Description": "A fun collection of bar games, Cards Against Humanity, Liar's Dice and UNO",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://projects.gamba.pro/Asuna/simpleminigames",
-                "LastUpdate": 1779986384
+                "LastUpdate": 1780670613
             }
         ]
     },
@@ -2202,7 +2202,7 @@
                 "Description": "This plugin allows you to create custom triggers to in-game messages.\nOptions include responding through in-game chat, in-game sound effects, and even Text-to-Speech.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Brolijah/SimpleTriggers",
-                "LastUpdate": 1780538808
+                "LastUpdate": 1780663255
             }
         ]
     },
@@ -3016,7 +3016,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1780612170
+                "LastUpdate": 1780678511
             },
             {
                 "Author": "Critical_Impact",
@@ -4450,7 +4450,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1780612170
+                "LastUpdate": 1780678511
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5194,6 +5194,22 @@
                 "Description": "Hides quest icons above NPCs' heads.",
                 "RepoUrl": "https://github.com/GrimmortalDread/NoQuestIcons",
                 "LastUpdate": 1757793601
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "guanyintu",
+        "repo_url": "https://raw.githubusercontent.com/guanyintu/Ices-Cosmic-Exploration-CN/Main-Branch/pluginmaster.json",
+        "repo_source_url": "https://github.com/guanyintu/Ices-Cosmic-Exploration-CN",
+        "repo_name": "Ices-Cosmic-Exploration-CN",
+        "plugins": [
+            {
+                "Author": "Ice, guanyintu(国服维护&中文适配), Codex(协助维护)",
+                "Name": "Ice's Cosmic Exploration (ICE) CN",
+                "InternalName": "ICE",
+                "Description": "国服维护版宇宙探索插件，支持采集、制作、钓鱼与任务自动化。",
+                "RepoUrl": "https://github.com/guanyintu/Ices-Cosmic-Exploration-CN",
+                "LastUpdate": 1780665057
             }
         ]
     },
@@ -6690,7 +6706,7 @@
                 "InternalName": "FaloopMessenger",
                 "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
                 "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1780442308
+                "LastUpdate": 1780679662
             }
         ]
     },
@@ -6924,7 +6940,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1780581201,
+                "LastUpdate": 1780671158,
                 "is_closed_source": true
             },
             {
@@ -7388,7 +7404,7 @@
                 "Description": "Welcome to kinklink, the kinky plugin with aimed to help you connect and play with other kinksters around the world!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1780589204
+                "LastUpdate": 1780672108
             }
         ]
     },
@@ -7439,7 +7455,7 @@
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
-                "LastUpdate": 1778755851
+                "LastUpdate": 1780664785
             }
         ]
     },
@@ -7634,7 +7650,7 @@
                 "Description": "根据 SimpleHeels 的实时高度自动联动切换 Glamourer 的设计或 Penumbra 的mod子选项。Automatically switches Glamourer designs or Penumbra mod settings based on SimpleHeels height detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kyodaikokata/HeelsDesignLinker",
-                "LastUpdate": 1780561980
+                "LastUpdate": 1780660006
             }
         ]
     },
@@ -7771,7 +7787,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1780634995
+                "LastUpdate": 1780673207
             }
         ]
     },
@@ -7997,7 +8013,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1780637315
+                "LastUpdate": 1780670915
             }
         ]
     },
@@ -8193,7 +8209,7 @@
                 "Description": "Synchronise automatiquement ta progression FFXIV vers XIVPath : niveaux de jobs, quetes MSQ, donjons/defis/raids accomplis. Synchro auto au changement de zone.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/liliekintsugi/xivpath-connect",
-                "LastUpdate": 1780602220
+                "LastUpdate": 1780673890
             }
         ]
     },
@@ -8235,7 +8251,7 @@
                 "Description": "Synchronise automatiquement ta progression FFXIV vers XIVPath : niveaux de jobs, quetes MSQ, donjons/defis/raids accomplis. Synchro auto au changement de zone.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/liliekintsugi/xivpath-connect",
-                "LastUpdate": 1780602220
+                "LastUpdate": 1780673890
             }
         ]
     },
@@ -8527,7 +8543,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780647687
+                "LastUpdate": 1780678065
             }
         ]
     },
@@ -9342,7 +9358,7 @@
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1780395844
+                "LastUpdate": 1780663440
             },
             {
                 "Author": "Miruku",
@@ -9351,7 +9367,7 @@
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1780395844
+                "LastUpdate": 1780663440
             }
         ]
     },
@@ -10773,7 +10789,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1780575088,
+                "LastUpdate": 1780666325,
                 "is_closed_source": true
             },
             {
@@ -10783,7 +10799,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1780575088,
+                "LastUpdate": 1780666325,
                 "is_closed_source": true
             },
             {
@@ -10793,7 +10809,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1780575088,
+                "LastUpdate": 1780666325,
                 "is_closed_source": true
             },
             {
@@ -10803,7 +10819,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1780575088,
+                "LastUpdate": 1780666325,
                 "is_closed_source": true
             },
             {
@@ -11953,7 +11969,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1780591845
+                "LastUpdate": 1780672255
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -12579,7 +12595,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1780637038
+                "LastUpdate": 1780670555
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -12588,7 +12604,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780647687
+                "LastUpdate": 1780678065
             },
             {
                 "Author": "NightmareXIV",
@@ -13301,7 +13317,7 @@
                 "Description": "A clean fight log and custom trigger overlay. Watch every cast and status in real time, then right-click any line to build your own TTS and on-screen callout.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ResFox/YapYap",
-                "LastUpdate": 1780584530
+                "LastUpdate": 1780673630
             }
         ]
     },
@@ -14270,13 +14286,22 @@
                 "LastUpdate": 1780646859
             },
             {
+                "Author": "SekhmetPlugins",
+                "Name": "OpenerPilot",
+                "InternalName": "OpenerPilot",
+                "Description": "Local level 100 opener runner for standard combat jobs, using WrathCombo-referenced opener data while keeping RotationSolverReborn off during execution and handing back afterward.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/SekhmetAnkh/OpenerPilot",
+                "LastUpdate": 1780670779
+            },
+            {
                 "Author": "SekhmetAnkh",
                 "Name": "PositionalPilot",
                 "InternalName": "PositionalPilot",
                 "Description": "Suggests or safely moves toward selected combat-source rear/flank positionals using BossMod safety and vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SekhmetAnkh/PositionalPilot",
-                "LastUpdate": 1780650195
+                "LastUpdate": 1780666373
             }
         ]
     },
@@ -14344,7 +14369,7 @@
                 "Description": "Use this to know the current time in different timezones in a customizable way.\nYou can change the text scale, colors, position and even setup Alarms!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/seventity7/clock",
-                "LastUpdate": 1780525521
+                "LastUpdate": 1780675721
             }
         ]
     },
@@ -15109,7 +15134,7 @@
                 "Description": "A custom Dalamud HUD layout with HP orb, MP ring, mirrored hotbars, status rows, class gauge, limit break bubbles, optional custom minimap, and standalone action camera.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SSCthulhu/FFXIVHudReimagined",
-                "LastUpdate": 1780631887
+                "LastUpdate": 1780678986
             }
         ]
     },
@@ -15672,7 +15697,7 @@
                 "InternalName": "Habitat",
                 "Description": "The official companion plugin for Habitat Nightclub",
                 "RepoUrl": "https://github.com/thescarini/Habitat",
-                "LastUpdate": 1780070429
+                "LastUpdate": 1780677991
             }
         ]
     },
@@ -16127,7 +16152,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1780413885
+                "LastUpdate": 1780671571
             }
         ]
     },
@@ -17491,7 +17516,7 @@
                 "InternalName": "YhumiFishing",
                 "Description": "I wanna see what fish you catch...",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1780614946
+                "LastUpdate": 1780673008
             },
             {
                 "Author": "Yhumi",
@@ -17853,7 +17878,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1780591845
+                "LastUpdate": 1780672255
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
