@@ -514,7 +514,7 @@
                 "Description": "Housing venue visitor queue and greeting assistant.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AiriTsukino/AutoGreet",
-                "LastUpdate": 1780723569
+                "LastUpdate": 1780737579
             },
             {
                 "Author": "Airi Tsukino",
@@ -523,7 +523,7 @@
                 "Description": "Tracks venue bar sales, tips, buyouts, configurable gamba drink sessions, payouts, jackpots, and nightly reports. Designed for multiple venues with venue-neutral branding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AiriTsukino/BarManager",
-                "LastUpdate": 1780712186
+                "LastUpdate": 1780737626
             },
             {
                 "Author": "Airi Tsukino",
@@ -532,7 +532,7 @@
                 "Description": "Manages ticket-based venue raffles, live jackpot calculations, winner history, branded winner screenshots, venue profiles, and optional in-game announcements.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AiriTsukino/RaffleManager",
-                "LastUpdate": 1780722330
+                "LastUpdate": 1780737671
             }
         ]
     },
@@ -549,7 +549,7 @@
                 "Description": "Housing venue visitor queue and greeting assistant.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AiriTsukino/AutoGreet",
-                "LastUpdate": 1780723569
+                "LastUpdate": 1780737579
             }
         ]
     },
@@ -566,7 +566,7 @@
                 "Description": "Tracks venue bar sales, tips, buyouts, configurable gamba drink sessions, payouts, jackpots, and nightly reports. Designed for multiple venues with venue-neutral branding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AiriTsukino/BarManager",
-                "LastUpdate": 1780712186
+                "LastUpdate": 1780737626
             }
         ]
     },
@@ -583,7 +583,7 @@
                 "Description": "Generic raffle manager for FFXIV venues with ticket pricing, base jackpots, split payouts, venue profiles, custom branding, target-based adds, winner animation, and chat announcements.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AiriTsukino/RaffleManager",
-                "LastUpdate": 1780722330
+                "LastUpdate": 1780737671
             }
         ]
     },
@@ -1471,21 +1471,12 @@
             },
             {
                 "Author": "AtmoOmen",
-                "Name": "Currency Tracker",
-                "InternalName": "CurrencyTracker",
-                "Description": "记录你每一笔货币收支的数额、时间、地点与来源\nTrack every change of your currecies with its Amount, Time, Location and Source",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/AtmoOmen/CurrencyTracker",
-                "LastUpdate": 1778148073
-            },
-            {
-                "Author": "AtmoOmen",
                 "Name": "Daily Routines (API 12)",
                 "InternalName": "DailyRoutines",
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1780594882,
+                "LastUpdate": 1780731986,
                 "is_closed_source": true
             },
             {
@@ -1495,7 +1486,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1780594882,
+                "LastUpdate": 1780731986,
                 "is_closed_source": true
             },
             {
@@ -1505,7 +1496,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1780594882,
+                "LastUpdate": 1780731986,
                 "is_closed_source": true
             },
             {
@@ -1515,7 +1506,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1780594882,
+                "LastUpdate": 1780731986,
                 "is_closed_source": true
             },
             {
@@ -1552,7 +1543,7 @@
                 "Description": "开发者专用",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/HaselDebug",
-                "LastUpdate": 1777518568
+                "LastUpdate": 1780730834
             },
             {
                 "Author": "Raphael",
@@ -3273,7 +3264,7 @@
                 "Description": "Temporary API 10 version until patch 7.1",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1780287501
+                "LastUpdate": 1780738273
             }
         ],
         "repo_developer_name": "Det"
@@ -3946,7 +3937,7 @@
                 "Description": "Automagically walks you around the world to find S and A ranks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Enthusiastus/hunt-walker",
-                "LastUpdate": 1777723377
+                "LastUpdate": 1780695904
             }
         ]
     },
@@ -5514,131 +5505,6 @@
         ]
     },
     {
-        "repo_developer_name": "HKazuki0818",
-        "repo_url": "https://raw.githubusercontent.com/HKazuki0818/DalamudPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/HKazuki0818/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "Herculezz",
-                "Name": "AutoDuty",
-                "InternalName": "AutoDuty",
-                "Description": "一个为你自动运行副本的插件\n支持亲信战友、剧情辅助器、冒险者分队、多变迷宫和普通迷宫模式\n需要 BossMod、vnavmesh 和一个循环插件（如 WrathCombo、BossMod AutoRotation 或 RotationSolverReborn）",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Ookura-Risona/AutoDuty",
-                "LastUpdate": 1778568968
-            },
-            {
-                "Author": "Det",
-                "Name": "AutoHook",
-                "InternalName": "AutoHook",
-                "Description": "It hooks the fish for you, can you believe it?",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1780287501
-            },
-            {
-                "Author": "veyn",
-                "Name": "Boss Mod",
-                "InternalName": "BossMod",
-                "Description": "A bunch of utilities to simplify bosses.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1780717542
-            },
-            {
-                "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
-                "Name": "Eureka Helper",
-                "InternalName": "EurekaHelper",
-                "Description": "A tool to assist you on your Eureka adventures, now updated for Dawntrail! Type /eurekahelper to get started.\n\nFeatures include:\n- In-Game Tracker GUI\n- Instance Tracker\n- Elementals Tracker\n- Relic Helper\n- Alarms\n- Money NM weather timings\n- More to come",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/KangasZ/EurekaHelper",
-                "LastUpdate": 1777741604
-            },
-            {
-                "Author": "img02, HoshinoLYK（繁中服優化）",
-                "Name": "Hunt Helper",
-                "InternalName": "HuntHelper",
-                "Description": "提供狩獵地圖與重生點顯示、A級狩獵列車記錄器（支援匯出／匯入分享）、TTS語音通知、聊天頻道通知，以及S級狩獵怪重生計數器。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HoshinoCorp/HuntHelper",
-                "LastUpdate": 1780565361
-            },
-            {
-                "Author": "electr0sheep, HoshinoLYK（繁中服優化）",
-                "Name": "Item Vendor Location",
-                "InternalName": "ItemVendorLocation",
-                "Description": "為物品新增右鍵選單選項，可顯示該物品可向哪些商人購買。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HoshinoCorp/ItemVendorLocation",
-                "LastUpdate": 1780642356
-            },
-            {
-                "Author": "Kouzukii, HoshinoLYK（繁中服優化）",
-                "Name": "Price Insight",
-                "InternalName": "PriceInsight",
-                "Description": "當滑鼠移到物品上時，會在下方顯示該物品普通品質（NQ）／高品質（HQ）的市場板價格，以及最近成交價格。\n價格資料取自 Universalis.app，並會快取 90 分鐘。\n若要重新整理價格，可在滑鼠停留於物品上時按下 Alt 鍵。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HoshinoCorp/PriceInsight",
-                "LastUpdate": 1780641839
-            },
-            {
-                "Author": "UnknownX, HoshinoLYK（繁中服優化）",
-                "Name": "QoL Bar",
-                "InternalName": "QoLBar",
-                "Description": "這是一個插件，旨在提供一個簡單、可自訂且隨時可用的介面，用於執行聊天指令\n或其他插件功能，以減少為了達成類似效果而使用巨集與熱鍵列空間的需求。\n\n插件一開始應會以小方框的形式出現在遊戲視窗底部中央。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HoshinoCorp/QoLBar",
-                "LastUpdate": 1780702325
-            },
-            {
-                "Author": "veyn, AtmoOmen",
-                "Name": "vnavmesh",
-                "InternalName": "vnavmesh",
-                "Description": "不仅会自动寻路, 还能自动避障",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779639952
-            },
-            {
-                "Author": "sourpuh, HoshinoLYK（繁中服優化）",
-                "Name": "Waymark Preset",
-                "InternalName": "WaymarkPresetPlugin",
-                "Description": "支援無限數量的標記點配置管理，可輕鬆進行儲存、編輯、放置、匯入、匯出與預覽。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HoshinoCorp/WaymarkPreset",
-                "LastUpdate": 1780145451
-            },
-            {
-                "Author": "sourpuh, HoshinoLYK（繁中服優化）",
-                "Name": "Waymark Studio",
-                "InternalName": "WaymarkStudio",
-                "Description": "一款全面取代遊戲內建 Waymark 編輯器及 Waymark Preset 插件的工具，提供完整的標記點管理功能，讓標記點的放置、儲存與載入更加快速、方便且精確。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HoshinoLYK/WaymarkStudio",
-                "LastUpdate": 1780138031
-            },
-            {
-                "Author": "Team Wrath",
-                "Name": "Wrath Combo",
-                "InternalName": "WrathCombo",
-                "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1780656809
-            },
-            {
-                "Author": "daemitus, croizat",
-                "Name": "YesAlready",
-                "InternalName": "YesAlready",
-                "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/PunishXIV/YesAlready/",
-                "LastUpdate": 1779781285
-            }
-        ]
-    },
-    {
         "repo_developer_name": "hocng015",
         "repo_url": "https://raw.githubusercontent.com/hocng015/Expedition-xiv/claude/recipe-automation-plugin-f6HyG/repo.json",
         "repo_source_url": "https://github.com/hocng015/Expedition-xiv",
@@ -5729,131 +5595,6 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/HoshinoCorp/Visibility",
                 "LastUpdate": 1772338726
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "HoshinoLYK",
-        "repo_url": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/HoshinoLYK/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "Herculezz",
-                "Name": "AutoDuty",
-                "InternalName": "AutoDuty",
-                "Description": "一个为你自动运行副本的插件\n支持亲信战友、剧情辅助器、冒险者分队、多变迷宫和普通迷宫模式\n需要 BossMod、vnavmesh 和一个循环插件（如 WrathCombo、BossMod AutoRotation 或 RotationSolverReborn）",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Ookura-Risona/AutoDuty",
-                "LastUpdate": 1778568968
-            },
-            {
-                "Author": "Det",
-                "Name": "AutoHook",
-                "InternalName": "AutoHook",
-                "Description": "It hooks the fish for you, can you believe it?",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1780287501
-            },
-            {
-                "Author": "veyn",
-                "Name": "Boss Mod",
-                "InternalName": "BossMod",
-                "Description": "A bunch of utilities to simplify bosses.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1780717542
-            },
-            {
-                "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
-                "Name": "Eureka Helper",
-                "InternalName": "EurekaHelper",
-                "Description": "A tool to assist you on your Eureka adventures, now updated for Dawntrail! Type /eurekahelper to get started.\n\nFeatures include:\n- In-Game Tracker GUI\n- Instance Tracker\n- Elementals Tracker\n- Relic Helper\n- Alarms\n- Money NM weather timings\n- More to come",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/KangasZ/EurekaHelper",
-                "LastUpdate": 1777741604
-            },
-            {
-                "Author": "img02, HoshinoLYK（繁中服優化）",
-                "Name": "Hunt Helper",
-                "InternalName": "HuntHelper",
-                "Description": "提供狩獵地圖與重生點顯示、A級狩獵列車記錄器（支援匯出／匯入分享）、TTS語音通知、聊天頻道通知，以及S級狩獵怪重生計數器。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HoshinoCorp/HuntHelper",
-                "LastUpdate": 1780565361
-            },
-            {
-                "Author": "electr0sheep, HoshinoLYK（繁中服優化）",
-                "Name": "Item Vendor Location",
-                "InternalName": "ItemVendorLocation",
-                "Description": "為物品新增右鍵選單選項，可顯示該物品可向哪些商人購買。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HoshinoCorp/ItemVendorLocation",
-                "LastUpdate": 1780642356
-            },
-            {
-                "Author": "Kouzukii, HoshinoLYK（繁中服優化）",
-                "Name": "Price Insight",
-                "InternalName": "PriceInsight",
-                "Description": "當滑鼠移到物品上時，會在下方顯示該物品普通品質（NQ）／高品質（HQ）的市場板價格，以及最近成交價格。\n價格資料取自 Universalis.app，並會快取 90 分鐘。\n若要重新整理價格，可在滑鼠停留於物品上時按下 Alt 鍵。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HoshinoCorp/PriceInsight",
-                "LastUpdate": 1780641839
-            },
-            {
-                "Author": "UnknownX, HoshinoLYK（繁中服優化）",
-                "Name": "QoL Bar",
-                "InternalName": "QoLBar",
-                "Description": "這是一個插件，旨在提供一個簡單、可自訂且隨時可用的介面，用於執行聊天指令\n或其他插件功能，以減少為了達成類似效果而使用巨集與熱鍵列空間的需求。\n\n插件一開始應會以小方框的形式出現在遊戲視窗底部中央。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HoshinoCorp/QoLBar",
-                "LastUpdate": 1780702325
-            },
-            {
-                "Author": "veyn, AtmoOmen",
-                "Name": "vnavmesh",
-                "InternalName": "vnavmesh",
-                "Description": "不仅会自动寻路, 还能自动避障",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779639952
-            },
-            {
-                "Author": "sourpuh, HoshinoLYK（繁中服優化）",
-                "Name": "Waymark Preset",
-                "InternalName": "WaymarkPresetPlugin",
-                "Description": "支援無限數量的標記點配置管理，可輕鬆進行儲存、編輯、放置、匯入、匯出與預覽。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HoshinoCorp/WaymarkPreset",
-                "LastUpdate": 1780145451
-            },
-            {
-                "Author": "sourpuh, HoshinoLYK（繁中服優化）",
-                "Name": "Waymark Studio",
-                "InternalName": "WaymarkStudio",
-                "Description": "一款全面取代遊戲內建 Waymark 編輯器及 Waymark Preset 插件的工具，提供完整的標記點管理功能，讓標記點的放置、儲存與載入更加快速、方便且精確。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/HoshinoLYK/WaymarkStudio",
-                "LastUpdate": 1780138031
-            },
-            {
-                "Author": "Team Wrath",
-                "Name": "Wrath Combo",
-                "InternalName": "WrathCombo",
-                "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1780656809
-            },
-            {
-                "Author": "daemitus, croizat",
-                "Name": "YesAlready",
-                "InternalName": "YesAlready",
-                "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/PunishXIV/YesAlready/",
-                "LastUpdate": 1779781285
             }
         ]
     },
@@ -6554,7 +6295,7 @@
                 "Description": "Personal fork of MidoriKami's EzWondrousTails, ported to Dalamud API 15 after the upstream repository was archived. Injects row probabilities and shuffle averages into the Wondrous Tails journal, and adds a standalone plugin window so the same information is reachable when the journal isn't open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-EzWondrousTails",
-                "LastUpdate": 1780426712
+                "LastUpdate": 1780733907
             },
             {
                 "Author": "jkleinne",
@@ -7027,7 +6768,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1780671158,
+                "LastUpdate": 1780737349,
                 "is_closed_source": true
             },
             {
@@ -7733,11 +7474,11 @@
             {
                 "Author": "KKT",
                 "Name": "Heels Design Linker",
-                "InternalName": "HeelsToggle",
-                "Description": "根据 SimpleHeels 的实时高度自动联动切换 Glamourer 的设计或 Penumbra 的mod子选项。Automatically switches Glamourer designs or Penumbra mod settings based on SimpleHeels height detection.",
+                "InternalName": "HeelsDesignLinker",
+                "Description": "根据 SimpleHeels 的实时高度自动联动 Glamourer 设计或 Penumbra mod 选项，并可选用 Moodles 状态/预设与 Honorific 称号。Automatically switches Glamourer designs or Penumbra mod settings based on SimpleHeels height detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kyodaikokata/HeelsDesignLinker",
-                "LastUpdate": 1780660006
+                "LastUpdate": 1780745575
             }
         ]
     },
@@ -7874,7 +7615,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1780696494
+                "LastUpdate": 1780744552
             }
         ]
     },
@@ -7934,7 +7675,7 @@
                 "Description": "开发者工具",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/HaselDebug",
-                "LastUpdate": 1779807272
+                "LastUpdate": 1780743119
             },
             {
                 "Author": "Jukkales",
@@ -7961,7 +7702,7 @@
                 "Description": "陆行鸟竞赛自动化",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/LatihasChocobo",
-                "LastUpdate": 1780406767
+                "LastUpdate": 1780743202
             },
             {
                 "Author": "Latihas",
@@ -7970,7 +7711,7 @@
                 "Description": "仅会检查在线安装的插件",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/LatihasDupDll",
-                "LastUpdate": 1780416079
+                "LastUpdate": 1780743131
             },
             {
                 "Author": "Latihas",
@@ -7979,7 +7720,7 @@
                 "Description": "自用收集工具",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/LatihasExport",
-                "LastUpdate": 1779114305
+                "LastUpdate": 1780743108
             },
             {
                 "Author": "Latihas",
@@ -7988,7 +7729,7 @@
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1780503601
+                "LastUpdate": 1780743084
             },
             {
                 "Author": "Siren, Latihas",
@@ -7997,7 +7738,7 @@
                 "Description": "AI幻卡",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/TTC_Siren",
-                "LastUpdate": 1780247915
+                "LastUpdate": 1780743087
             }
         ]
     },
@@ -8558,7 +8299,7 @@
                 "Description": "它能幫你自動釣魚, 你信嗎?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1780287501
+                "LastUpdate": 1780738273
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -8630,7 +8371,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780698470
+                "LastUpdate": 1780744591
             }
         ]
     },
@@ -10861,6 +10602,15 @@
             },
             {
                 "Author": "Small_Miao",
+                "Name": "MechanicSim",
+                "InternalName": "MechanicSim",
+                "Description": "Nope.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
+                "LastUpdate": 1780732695
+            },
+            {
+                "Author": "Small_Miao",
                 "Name": "Nya Damage Prediction",
                 "InternalName": "NyaDamagePrediction",
                 "Description": "use /ndp to watch config",
@@ -12611,7 +12361,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1780287501
+                "LastUpdate": 1780738273
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -12682,7 +12432,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1780682304
+                "LastUpdate": 1780741938
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -12691,7 +12441,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780698470
+                "LastUpdate": 1780744591
             },
             {
                 "Author": "NightmareXIV",
@@ -12709,7 +12459,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1780656809
+                "LastUpdate": 1780745592
             },
             {
                 "Author": "daemitus, kawaii",
@@ -14379,7 +14129,7 @@
                 "Description": "Local level 100 opener runner for standard combat jobs, using WrathCombo-referenced opener data while keeping RotationSolverReborn off during execution and handing back afterward.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SekhmetAnkh/OpenerPilot",
-                "LastUpdate": 1780720046
+                "LastUpdate": 1780737837
             },
             {
                 "Author": "SekhmetAnkh",
@@ -14388,7 +14138,7 @@
                 "Description": "Suggests or safely moves toward selected combat-source rear/flank positionals using BossMod safety and vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SekhmetAnkh/PositionalPilot",
-                "LastUpdate": 1780721563
+                "LastUpdate": 1780735662
             }
         ]
     },
@@ -15085,6 +14835,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_fidgetspinner",
                 "LastUpdate": 1777707275
+            },
+            {
+                "Author": "sourpuh",
+                "Name": "Gaolbreak UI (Alpha)",
+                "InternalName": "Gaolbreak",
+                "Description": "Game windows can layer with plugin windows, reshade won't affect the UI, and 3D overlay plugins draw under the game's UI.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/sourpuh/ffxiv_gaolbreak",
+                "LastUpdate": 1780703651
             },
             {
                 "Author": "sourpuh",
@@ -16325,7 +16084,7 @@
                 "Description": "Where mods",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/UnlostWorld/PeerSync",
-                "LastUpdate": 1780724791
+                "LastUpdate": 1780736053
             }
         ]
     },
@@ -17752,7 +17511,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260604
+                "LastUpdate": 20260606
             }
         ]
     },
