@@ -882,7 +882,7 @@
                 "Description": "一个基于本地 ACTX 风格口径的 Dalamud 战斗统计插件，直接在游戏内显示队伍 DPS、HPS、承伤、概览和战斗历史，不依赖外部网页悬浮窗。 Local ACTX-style combat meter for Dalamud. Displays party DPS, HPS, damage taken, overview summaries, and encounter history directly in game without relying on an external web overlay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/DalamudACT",
-                "LastUpdate": 1780675997
+                "LastUpdate": 1780848917
             },
             {
                 "Author": "shdwp, Avaflow, abashby, nebel",
@@ -1733,7 +1733,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1780717542
+                "LastUpdate": 1780856125
             },
             {
                 "Author": "veyn, croizat",
@@ -2813,7 +2813,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra. (API12 版本，適用於台服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1780566118
+                "LastUpdate": 1780846424
             },
             {
                 "Author": "Ottermandias, Adam, Wintermute",
@@ -3023,7 +3023,7 @@
                 "Description": "Automates FATE grinding, including Zodiac Atma, Anima Luminous Crystals, Resistance Memories, Phantom Demiatmas, Yo-kai Watch Medals, and Bicolor Gemstones. Seamlessly integrates with vnavmesh for pathing and flight, lifestream for zone swapping, TextAdvance for dialogue skipping, and Gluttony Combo/BossMod for combat. Use /lazyfate to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/LazyFateAutomation/latest",
-                "LastUpdate": 1780806994
+                "LastUpdate": 1780856806
             },
             {
                 "Author": "dajoey",
@@ -3050,7 +3050,7 @@
                 "Description": "Auto-rotation for FFXIV PvP only. Automatically activates in PvP zones. Designed to run alongside Wrath Combo (handles PvE). Includes default PvP rotations for all jobs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/PvPSolver",
-                "LastUpdate": 1780589421
+                "LastUpdate": 1780846414
             }
         ]
     },
@@ -3203,7 +3203,7 @@
                 "Description": "Crowd-sourced plugin to view what players are inside of a party in PF. Intended for CN use, but works on global.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1780548203,
+                "LastUpdate": 1780845434,
                 "is_closed_source": true
             },
             {
@@ -5866,7 +5866,7 @@
                 "InternalName": "TomestonePhone",
                 "Description": "TomestonePhone adds a styled in-game phone UI with contacts, SMS, calls, group chat, and friend tools.",
                 "RepoUrl": "https://github.com/ImOv3rburdened/TomstonePhone",
-                "LastUpdate": 1778593870
+                "LastUpdate": 1780857464
             }
         ]
     },
@@ -6346,7 +6346,7 @@
                 "Description": "Personal fork of MidoriKami's EzWondrousTails, ported to Dalamud API 15 after the upstream repository was archived. Injects row probabilities and shuffle averages into the Wondrous Tails journal, and adds a standalone plugin window so the same information is reachable when the journal isn't open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-EzWondrousTails",
-                "LastUpdate": 1780819909
+                "LastUpdate": 1780852228
             },
             {
                 "Author": "jkleinne",
@@ -6819,7 +6819,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1780737349,
+                "LastUpdate": 1780838850,
                 "is_closed_source": true
             },
             {
@@ -7445,7 +7445,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1780717542
+                "LastUpdate": 1780856125
             },
             {
                 "Author": "sourpuh",
@@ -7463,7 +7463,7 @@
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1780767579
+                "LastUpdate": 1780858156
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7481,7 +7481,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1780771688
+                "LastUpdate": 1780853955
             }
         ]
     },
@@ -8476,7 +8476,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780826210
+                "LastUpdate": 1780849068
             }
         ]
     },
@@ -8816,7 +8816,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1780248904
+                "LastUpdate": 1780848383
             }
         ]
     },
@@ -8884,7 +8884,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1780752082
+                "LastUpdate": 1780859687
             }
         ]
     },
@@ -8964,7 +8964,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1780248904
+                "LastUpdate": 1780848383
             },
             {
                 "Author": "DhogGPT",
@@ -8991,7 +8991,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1780752082
+                "LastUpdate": 1780859687
             },
             {
                 "Author": "DhogGPT",
@@ -9835,7 +9835,7 @@
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mulongsheng/simple-Tool-dist",
-                "LastUpdate": 1780829782
+                "LastUpdate": 1780839681
             }
         ]
     },
@@ -10731,7 +10731,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1780764091,
+                "LastUpdate": 1780849104,
                 "is_closed_source": true
             },
             {
@@ -10741,7 +10741,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1780764091,
+                "LastUpdate": 1780849104,
                 "is_closed_source": true
             },
             {
@@ -10751,7 +10751,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1780764091,
+                "LastUpdate": 1780849104,
                 "is_closed_source": true
             },
             {
@@ -10761,7 +10761,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1780764091,
+                "LastUpdate": 1780849104,
                 "is_closed_source": true
             },
             {
@@ -11519,7 +11519,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1780566118
+                "LastUpdate": 1780846424
             }
         ]
     },
@@ -11563,7 +11563,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1780566118
+                "LastUpdate": 1780846424
             },
             {
                 "Author": "Anna",
@@ -12537,7 +12537,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1780767579
+                "LastUpdate": 1780858156
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -12546,7 +12546,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780826210
+                "LastUpdate": 1780849068
             },
             {
                 "Author": "NightmareXIV",
@@ -12555,7 +12555,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780836535
+                "LastUpdate": 1780857551
             },
             {
                 "Author": "Team Wrath",
@@ -12564,7 +12564,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1780771688
+                "LastUpdate": 1780853955
             },
             {
                 "Author": "daemitus, kawaii",
@@ -13264,6 +13264,32 @@
         ]
     },
     {
+        "repo_developer_name": "ResFox",
+        "repo_url": "https://raw.githubusercontent.com/ResFox/YapYapDraw/main/repo.json",
+        "repo_source_url": "https://github.com/ResFox/YapYapDraw",
+        "repo_name": "YapYapDraw",
+        "plugins": [
+            {
+                "Author": "Res",
+                "Name": "YapYap",
+                "InternalName": "YapYap",
+                "Description": "A clean fight log and custom trigger overlay. Watch every cast and status in real time, then right-click any line to build your own TTS and on-screen callout.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ResFox/YapYap",
+                "LastUpdate": 1780673630
+            },
+            {
+                "Author": "Res",
+                "Name": "YapYap Draw",
+                "InternalName": "YapYapDraw",
+                "Description": "Draws boss mechanics on the arena floor.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ResFox/YapYapDraw",
+                "LastUpdate": 1780859530
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ReSharkTwT",
         "repo_url": "https://raw.githubusercontent.com/ReSharkTwT/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/ReSharkTwT/DalamudPlugins",
@@ -13329,7 +13355,7 @@
                 "Description": "A compact GPose casting tool. Search visible actors, import overworld players into GPose for Brio/Ktisis, build a picked group, and hide everyone else locally for cleaner screenshots.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/reyalexffxiv/GposeCast",
-                "LastUpdate": 1780836218
+                "LastUpdate": 1780841023
             }
         ]
     },
@@ -13380,7 +13406,7 @@
                 "Description": "Open-world FATE grinder. Walks between FATEs, mounts, flies, engages, and chains across zones. Uses vnavmesh for pathfinding, BossmodReborn (FateUtils + autorotation) for combat, and Lifestream for cross-zone teleport.\n\nRequired plugins: vnavmesh, BossmodReborn, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/richardlh023/FateWalker",
-                "LastUpdate": 1780836755
+                "LastUpdate": 1780850023
             }
         ]
     },
@@ -14508,7 +14534,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780836535
+                "LastUpdate": 1780857551
             }
         ]
     },
@@ -14705,7 +14731,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1780721615
+                "LastUpdate": 1780840882
             },
             {
                 "Author": "XSZYYS",
@@ -14714,7 +14740,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1780721615,
+                "LastUpdate": 1780840882,
                 "is_closed_source": true
             }
         ]
@@ -14818,7 +14844,7 @@
                 "Description": "Shows party list HP bars in red when HP is critical.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/smrq/CriticalHPIndicator",
-                "LastUpdate": 1780825046
+                "LastUpdate": 1780857828
             }
         ]
     },
@@ -16743,7 +16769,7 @@
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1780566118
+                "LastUpdate": 1780846424
             }
         ]
     },
@@ -17295,7 +17321,7 @@
                 "Description": "Tired of manually babysitting your BossMod settings mid-fight? XCAI handles your positioning, distances, and Ley Lines automatically so you can focus on not dying. Results may vary on the not dying part.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsCombatAI",
-                "LastUpdate": 1779398857
+                "LastUpdate": 1780858700
             },
             {
                 "Author": "Xeltor / XelsPlugins, originally by Blackcatz1911",
@@ -17642,7 +17668,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260607
+                "LastUpdate": 20260608
             }
         ]
     },
@@ -17838,7 +17864,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1780829133
+                "LastUpdate": 1780837757
             }
         ]
     },
@@ -17934,7 +17960,7 @@
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death effects (ragdoll physics), active camera (bone tracking), death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1780836489
+                "LastUpdate": 1780839729
             },
             {
                 "Author": "zysilm",
@@ -17943,7 +17969,7 @@
                 "Description": "Applies ragdoll physics to characters when they die in-game. Features per-bone physics configuration, hair physics simulation, terrain collision, and optional NPC death ragdoll support. Non-humanoid NPCs are handled gracefully with automatic bone-set detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zysilm/RagdollSystem",
-                "LastUpdate": 1780091144
+                "LastUpdate": 1780839470
             }
         ]
     }
