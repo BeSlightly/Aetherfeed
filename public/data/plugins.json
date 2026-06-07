@@ -176,7 +176,7 @@
                 "Description": "Build anything, anywhere. Jump puzzles, castles, whatever you can think of.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Abyeon/Buildingway",
-                "LastUpdate": 1780706127
+                "LastUpdate": 1780812701
             },
             {
                 "Author": "Abyeon",
@@ -211,7 +211,7 @@
                 "Description": "Build anything, anywhere. WoW housing is no longer something to be jealous of.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Abyeon/Buildingway",
-                "LastUpdate": 1780706127
+                "LastUpdate": 1780812701
             },
             {
                 "Author": "Abyeon",
@@ -3005,7 +3005,7 @@
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/GluttonyCombo/latest",
-                "LastUpdate": 1780788737
+                "LastUpdate": 1780811788
             },
             {
                 "Author": "Blackcatz1911, dajoey",
@@ -3023,7 +3023,7 @@
                 "Description": "Automates FATE grinding, including Zodiac Atma, Anima Luminous Crystals, Resistance Memories, Phantom Demiatmas, Yo-kai Watch Medals, and Bicolor Gemstones. Seamlessly integrates with vnavmesh for pathing and flight, lifestream for zone swapping, TextAdvance for dialogue skipping, and Gluttony Combo/BossMod for combat. Use /lazyfate to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/LazyFateAutomation/latest",
-                "LastUpdate": 1780780640
+                "LastUpdate": 1780806994
             },
             {
                 "Author": "dajoey",
@@ -3143,7 +3143,7 @@
                 "Description": "Namazu Flippers connects to the Saddlebag Exchange API to find daily cross-server arbitrage opportunities. Get a route-optimized shopping list, travel between servers, buy low, sell high on your home world. One scan, one route, done in under 20 minutes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/DarrellTang/namazu-flippers",
-                "LastUpdate": 1778865572
+                "LastUpdate": 1780808069
             }
         ]
     },
@@ -3386,7 +3386,7 @@
                 "Description": "An all-in-one venue host toolkit: Venue Counter, Raffle Helper, Auction Helper, and Giveaway Helper. Open with /venuehelper (aliases /vhelp, /vh). Exports to TXT, CSV, PDF, or XLSX.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/VenueHelper",
-                "LastUpdate": 1780650602
+                "LastUpdate": 1780805379
             }
         ]
     },
@@ -4913,6 +4913,32 @@
         ]
     },
     {
+        "repo_developer_name": "gezimao",
+        "repo_url": "https://raw.githubusercontent.com/gezimao/Plugins/main/custom-repo/repo.json",
+        "repo_source_url": "https://github.com/gezimao/Plugins",
+        "repo_name": "Plugins",
+        "plugins": [
+            {
+                "Author": "goat, Maple, gezimao",
+                "Name": "Fancy Loading Screens",
+                "InternalName": "Dalamud.LoadingImage",
+                "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/MapleHinata/Dalamud.LoadingImage",
+                "LastUpdate": 1778783649
+            },
+            {
+                "Author": "Drakansoul, gezimao",
+                "Name": "DisPlace Plugin",
+                "InternalName": "DisPlacePlugin",
+                "Description": "Automatically save & load interior and exterior house layouts. Copy other housing layouts. Import/export layouts from the MakePlace program.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Drakansoul/DisPlaced",
+                "LastUpdate": 1777763647
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/pluginmaster.json",
         "repo_source_url": "https://github.com/GiR-Zippo/Hypnotoad-Plugin/",
         "repo_developer_name": "GiR-Zippo",
@@ -5993,7 +6019,7 @@
                 "Description": "Crafting profit tracker for FFXIV. Compares craft costs against market board prices in item tooltips, scans for the most profitable recipes to craft, and builds shopping lists with max-price guidance. Made by Aygea — twitch.tv/crazyaygea",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/itsaygea/Aygeas-Market-Insight",
-                "LastUpdate": 1780652952
+                "LastUpdate": 1780808833
             }
         ]
     },
@@ -6980,7 +7006,7 @@
                 "Description": "Configure a list of items to maintain on sale at (lowest market price - 1 gil)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/KazuyaMito/AutoRetainerSellList",
-                "LastUpdate": 1767075248
+                "LastUpdate": 1780813836
             }
         ]
     },
@@ -7920,7 +7946,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1780756927
+                "LastUpdate": 1780802745
             }
         ]
     },
@@ -10221,7 +10247,7 @@
                 "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1780625120
+                "LastUpdate": 1780798343
             },
             {
                 "Author": "goat, Maple",
@@ -10230,7 +10256,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1780632306
+                "LastUpdate": 1780805722
             }
         ]
     },
@@ -11826,7 +11852,7 @@
                 "Description": "Configure a list of items to maintain on sale at (lowest market price - 1 gil)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/penguin4glte/AutoRetainerSellList",
-                "LastUpdate": 1767075248
+                "LastUpdate": 1780813836
             }
         ]
     },
@@ -12529,7 +12555,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780787964
+                "LastUpdate": 1780814069
             },
             {
                 "Author": "Team Wrath",
@@ -13287,6 +13313,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
                 "LastUpdate": 1779781691
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "reyalexffxiv",
+        "repo_url": "https://raw.githubusercontent.com/reyalexffxiv/GposeCast/master/repo.json",
+        "repo_source_url": "https://github.com/reyalexffxiv/GposeCast",
+        "repo_name": "GposeCast",
+        "plugins": [
+            {
+                "Author": "Rey Alex",
+                "Name": "Gpose Cast",
+                "InternalName": "GposeCast",
+                "Description": "A compact GPose casting tool. Search visible actors, import overworld players into GPose for Brio/Ktisis, build a picked group, and hide everyone else locally for cleaner screenshots.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/reyalexffxiv/GposeCast",
+                "LastUpdate": 1780807027
             }
         ]
     },
@@ -14465,7 +14508,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780787964
+                "LastUpdate": 1780814069
             }
         ]
     },
@@ -14773,9 +14816,9 @@
                 "Name": "Critical HP Indicator",
                 "InternalName": "CriticalHPIndicator",
                 "Description": "Shows party list HP bars in red when HP is critical.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/smrq/CriticalHPIndicator",
-                "LastUpdate": 1768812831
+                "LastUpdate": 1780809702
             }
         ]
     },
@@ -14922,7 +14965,7 @@
                 "Description": "Game windows can layer with plugin windows, reshade won't affect the UI, and 3D overlay plugins draw under the game's UI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_gaolbreak",
-                "LastUpdate": 1780703651
+                "LastUpdate": 1780804170
             },
             {
                 "Author": "sourpuh",
@@ -15059,7 +15102,7 @@
                 "Description": "A custom Dalamud HUD layout with HP orb, MP ring, mirrored hotbars, status rows, class gauge, limit break bubbles, optional custom minimap, and standalone action camera.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SSCthulhu/FFXIVHudReimagined",
-                "LastUpdate": 1780775440
+                "LastUpdate": 1780797284
             }
         ]
     },
@@ -16682,7 +16725,7 @@
                 "Description": "Instant Character Switching Made Simple\n\nCreate and save character profiles, then switch between them instantly. Applies Penumbra Collections, Glamourer Designs, Customize+ Profiles, Honorifics, Moodles, and Idles.Key Features: One-click character switching, multiple designs per character, advanced macro support, roleplay profiles, a character gallery, and immersive dialogue options. Perfect for roleplayers, gposers, and anyone who loves seamless character customization without manually switching between multiple plugins.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/wasdcxz/DalamudPlugins",
-                "LastUpdate": 1780772273
+                "LastUpdate": 1780809112
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -17063,7 +17106,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1780706442
+                "LastUpdate": 1780792993
             },
             {
                 "Author": "XeldarAlz",
@@ -17081,7 +17124,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1780708171
+                "LastUpdate": 1780795049
             },
             {
                 "Author": "XeldarAlz",
@@ -17116,7 +17159,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1780706442
+                "LastUpdate": 1780792993
             }
         ]
     },
@@ -17184,7 +17227,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1780708171
+                "LastUpdate": 1780795049
             }
         ]
     },
@@ -17795,7 +17838,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1780494152
+                "LastUpdate": 1780809996
             }
         ]
     },
@@ -17864,7 +17907,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1780782099,
+                "LastUpdate": 1780795225,
                 "is_closed_source": true
             },
             {
@@ -17891,7 +17934,7 @@
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death effects (ragdoll physics), active camera (bone tracking), death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1780786613
+                "LastUpdate": 1780797809
             },
             {
                 "Author": "zysilm",
