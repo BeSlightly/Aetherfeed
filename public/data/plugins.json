@@ -970,7 +970,7 @@
                 "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.\n\nThis plugin is in beta and is unstable. You won't crash during your training sessions, but you will crash after it.\n\nIf you are doing any serious content: **RESTART YOUR GAME AFTER USING PLUGIN**. You **WILL CRASH** in the middle of pull.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anomek/AnoMech",
-                "LastUpdate": 1780698243
+                "LastUpdate": 1780790721
             },
             {
                 "Author": "Anomek",
@@ -2996,7 +2996,7 @@
                 "Description": "Fork of Dagobert — matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/DagobertPriceMatcher/latest",
-                "LastUpdate": 1779412830
+                "LastUpdate": 1780783982
             },
             {
                 "Author": "dajoey",
@@ -3005,7 +3005,7 @@
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/GluttonyCombo/latest",
-                "LastUpdate": 1780614674
+                "LastUpdate": 1780788737
             },
             {
                 "Author": "Blackcatz1911, dajoey",
@@ -3023,16 +3023,7 @@
                 "Description": "Automates FATE grinding, including Zodiac Atma, Anima Luminous Crystals, Resistance Memories, Phantom Demiatmas, Yo-kai Watch Medals, and Bicolor Gemstones. Seamlessly integrates with vnavmesh for pathing and flight, lifestream for zone swapping, TextAdvance for dialogue skipping, and Gluttony Combo/BossMod for combat. Use /lazyfate to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/LazyFateAutomation/latest",
-                "LastUpdate": 1780273719
-            },
-            {
-                "Author": "dajoey",
-                "Name": "Lazy Sightseeing",
-                "InternalName": "LazySightseeing",
-                "Description": "Fully automated FFXIV sightseeing log completion. Uses vnavmesh for flight and pathing, and lifestream for easy teleportation (/li inn). Automatically skips locked weather/time windows, re-prioritizes if windows open, and returns you to the inn when complete.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/LazySightseeing",
-                "LastUpdate": 1779471994
+                "LastUpdate": 1780780640
             },
             {
                 "Author": "dajoey",
@@ -4157,7 +4148,7 @@
                 "Description": "Browse open FC craft projects and claim tasks directly from inside the game. Trading queries, item search, and craft-from-inventory with live Marketboard prices.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/EstherMartz/qiqirn-companion",
-                "LastUpdate": 1780689271
+                "LastUpdate": 1780785944
             }
         ]
     },
@@ -4528,7 +4519,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1780252861
+                "LastUpdate": 1780783767
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5500,7 +5491,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1780543853
+                "LastUpdate": 1780570849
             }
         ]
     },
@@ -5612,6 +5603,23 @@
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/HoshinoCorp/Visibility",
                 "LastUpdate": 1772338726
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "hOst1k-Top",
+        "repo_url": "https://raw.githubusercontent.com/hOst1k-Top/XIVRusUpdater/master/repo.json",
+        "repo_source_url": "https://github.com/hOst1k-Top/XIVRusUpdater",
+        "repo_name": "XIVRusUpdater",
+        "plugins": [
+            {
+                "Author": "hOst1k",
+                "Name": "XIV Rus Auto Update",
+                "InternalName": "XIVRusUpdater",
+                "Description": "Maintains the latest compatible version of XIVRus by checking for updates, downloading releases, and installing them through Penumbra. Includes update channels, patch compatibility warnings, and manual update controls.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/hOst1k-Top/XIVRusUpdater",
+                "LastUpdate": 1780788069
             }
         ]
     },
@@ -7396,6 +7404,15 @@
                 "LastUpdate": 1780442578
             },
             {
+                "Author": "croizat",
+                "Name": "CBT",
+                "InternalName": "Automaton",
+                "Description": "Yet another tweaks collection plugin.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Jaksuhn/Automaton",
+                "LastUpdate": 1780769538
+            },
+            {
                 "Author": "veyn, xan_0",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
@@ -7403,6 +7420,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
                 "LastUpdate": 1780717542
+            },
+            {
+                "Author": "sourpuh",
+                "Name": "Nameplate Debuffs",
+                "InternalName": "NamePlateDebuffs",
+                "Description": "Yet another tweaks collection plugin.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/sourpuh/NamePlateDebuffs",
+                "LastUpdate": 1780426679
             },
             {
                 "Author": "Liza Carvelli & various contributors",
@@ -7429,7 +7455,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1780769811
+                "LastUpdate": 1780771688
             }
         ]
     },
@@ -7532,23 +7558,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kylohq/craft-analyzer",
                 "LastUpdate": 1778420860
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "kyodaikokata",
-        "repo_url": "https://raw.githubusercontent.com/kyodaikokata/HeelsDesignLinker/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/kyodaikokata/HeelsDesignLinker",
-        "repo_name": "HeelsDesignLinker",
-        "plugins": [
-            {
-                "Author": "KKT",
-                "Name": "Heels Design Linker (deprecated manifest)",
-                "InternalName": "HeelsDesignLinker",
-                "Description": "根据 SimpleHeels 的实时高度自动联动 Glamourer 设计或 Penumbra mod 选项，并可选用 Moodles 状态/预设与 Honorific 称号。Automatically switches Glamourer designs or Penumbra mod settings based on SimpleHeels height detection.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/kyodaikokata/HeelsDesignLinker",
-                "LastUpdate": 1780769634
             }
         ]
     },
@@ -7685,7 +7694,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1780764221
+                "LastUpdate": 1780781302
             }
         ]
     },
@@ -8441,7 +8450,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780748147
+                "LastUpdate": 1780791616
             }
         ]
     },
@@ -8645,7 +8654,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1780681421
+                "LastUpdate": 1780774372
             }
         ]
     },
@@ -9299,7 +9308,7 @@
                 "Description": "A plugin to track your Cosmocredit earnings per hour and total session earnings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Minescence/CosmocreditTracker",
-                "LastUpdate": 1780688102
+                "LastUpdate": 1780779105
             }
         ]
     },
@@ -10676,8 +10685,8 @@
                 "InternalName": "MechanicSim",
                 "Description": "Nope.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1780764117
+                "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/MechanicSim",
+                "LastUpdate": 1780732669
             },
             {
                 "Author": "Small_Miao",
@@ -10915,7 +10924,7 @@
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1780322845
+                "LastUpdate": 1780783526
             }
         ]
     },
@@ -12511,7 +12520,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1780748147
+                "LastUpdate": 1780791616
             },
             {
                 "Author": "NightmareXIV",
@@ -12520,7 +12529,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780717216
+                "LastUpdate": 1780787964
             },
             {
                 "Author": "Team Wrath",
@@ -12529,7 +12538,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1780769811
+                "LastUpdate": 1780771688
             },
             {
                 "Author": "daemitus, kawaii",
@@ -14276,7 +14285,7 @@
                 "Description": "Use this to know the current time in different timezones in a customizable way.\nYou can change the text scale, colors, position and even setup Alarms!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/seventity7/clock",
-                "LastUpdate": 1780675721
+                "LastUpdate": 1780777175
             }
         ]
     },
@@ -14456,7 +14465,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1780717216
+                "LastUpdate": 1780787964
             }
         ]
     },
@@ -15050,7 +15059,7 @@
                 "Description": "A custom Dalamud HUD layout with HP orb, MP ring, mirrored hotbars, status rows, class gauge, limit break bubbles, optional custom minimap, and standalone action camera.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SSCthulhu/FFXIVHudReimagined",
-                "LastUpdate": 1780678986
+                "LastUpdate": 1780775440
             }
         ]
     },
@@ -15831,12 +15840,21 @@
         "plugins": [
             {
                 "Author": "Tomok2404",
+                "Name": "FF Feud",
+                "InternalName": "FFFeudPlugin",
+                "Description": "Allows hosting custom Family Feud games with point tracking and chat output.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Tomok2404/TomokPlugins",
+                "LastUpdate": 1780783010
+            },
+            {
+                "Author": "Tomok2404",
                 "Name": "Penumbra Preview Manager",
                 "InternalName": "PenumbraPreviewManager",
                 "Description": "A helper tool to easily attach local, XIVModArchive, or direct URL preview/cover images to your Penumbra mods. Also supports local tags to easily filter mods that have preview/cover images inside Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tomok2404/PenumbraPreviewManager",
-                "LastUpdate": 1780710682
+                "LastUpdate": 1780782982
             },
             {
                 "Author": "Tomok2404",
@@ -15845,7 +15863,7 @@
                 "Description": "A Plugin to help host Truth or Dare games in FFXIV",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tomok2404/TomokPlugins",
-                "LastUpdate": 1780710696
+                "LastUpdate": 1780783010
             }
         ]
     },
@@ -16664,7 +16682,7 @@
                 "Description": "Instant Character Switching Made Simple\n\nCreate and save character profiles, then switch between them instantly. Applies Penumbra Collections, Glamourer Designs, Customize+ Profiles, Honorifics, Moodles, and Idles.Key Features: One-click character switching, multiple designs per character, advanced macro support, roleplay profiles, a character gallery, and immersive dialogue options. Perfect for roleplayers, gposers, and anyone who loves seamless character customization without manually switching between multiple plugins.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/wasdcxz/DalamudPlugins",
-                "LastUpdate": 1780769513
+                "LastUpdate": 1780772273
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -16673,7 +16691,7 @@
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1780252861
+                "LastUpdate": 1780783767
             },
             {
                 "Author": "Ottermandias",
@@ -17054,7 +17072,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1780705752
+                "LastUpdate": 1780792196
             },
             {
                 "Author": "XeldarAlz",
@@ -17072,7 +17090,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1780705702
+                "LastUpdate": 1780792128
             },
             {
                 "Author": "XeldarAlz",
@@ -17081,7 +17099,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1780705751
+                "LastUpdate": 1780792198
             }
         ]
     },
@@ -17115,7 +17133,7 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1780705752
+                "LastUpdate": 1780792196
             }
         ]
     },
@@ -17132,7 +17150,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1780705752
+                "LastUpdate": 1780792196
             }
         ]
     },
@@ -17149,7 +17167,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1780705751
+                "LastUpdate": 1780792198
             }
         ]
     },
@@ -17183,7 +17201,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1780705702
+                "LastUpdate": 1780792128
             }
         ]
     },
@@ -17200,7 +17218,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1780705751
+                "LastUpdate": 1780792198
             }
         ]
     },
@@ -17217,7 +17235,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1780705751
+                "LastUpdate": 1780792198
             }
         ]
     },
@@ -17581,7 +17599,7 @@
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/YouShux/OmniToolbox",
-                "LastUpdate": 20260606
+                "LastUpdate": 20260607
             }
         ]
     },
@@ -17846,7 +17864,7 @@
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1780751627,
+                "LastUpdate": 1780782099,
                 "is_closed_source": true
             },
             {
@@ -17873,7 +17891,7 @@
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death effects (ragdoll physics), active camera (bone tracking), death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1780768497
+                "LastUpdate": 1780786613
             },
             {
                 "Author": "zysilm",
