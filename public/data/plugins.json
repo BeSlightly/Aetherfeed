@@ -1493,7 +1493,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1780731986,
+                "LastUpdate": 1781016243,
                 "is_closed_source": true
             },
             {
@@ -1503,7 +1503,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1780731986,
+                "LastUpdate": 1781016243,
                 "is_closed_source": true
             },
             {
@@ -1513,7 +1513,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1780731986,
+                "LastUpdate": 1781016243,
                 "is_closed_source": true
             },
             {
@@ -1523,7 +1523,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1780731986,
+                "LastUpdate": 1781016243,
                 "is_closed_source": true
             },
             {
@@ -1605,7 +1605,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1779639952
+                "LastUpdate": 1781016180
             }
         ]
     },
@@ -1785,7 +1785,7 @@
                 "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1779040181
+                "LastUpdate": 1781016751
             },
             {
                 "Author": "veyn, croizat",
@@ -2134,7 +2134,7 @@
                 "InternalName": "XIVVenueManagerSync",
                 "Description": "Automatically sync patron enter/leave events to your XIVVenueManager.",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
-                "LastUpdate": 1780655383
+                "LastUpdate": 1781016847
             }
         ]
     },
@@ -3419,7 +3419,7 @@
                 "Description": "An all-in-one venue host toolkit: Venue Counter, Raffle Helper, Auction Helper, and Giveaway Helper. Open with /venuehelper (aliases /vhelp, /vh). Exports to TXT, CSV, PDF, or XLSX.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/VenueHelper",
-                "LastUpdate": 1780805379
+                "LastUpdate": 1781003710
             }
         ]
     },
@@ -4414,7 +4414,7 @@
                 "Description": "A plugin that voices every NPC dialogue, battle interaction, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1780975174
+                "LastUpdate": 1781010436
             }
         ]
     },
@@ -4670,7 +4670,16 @@
                 "Description": "监听聊天中的 /random 掷骰消息，记录每位玩家的 ROLL 点并按规则（最高分/最低分/中间值）高亮赢家。支持自然 ROLL 和限定范围 ROLL 两种模式，范围锁定保证公平。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ffxivaichat/DalamudPlugins",
-                "LastUpdate": 1780919241
+                "LastUpdate": 1781010435
+            },
+            {
+                "Author": "向坂环",
+                "Name": "TeachMeBro",
+                "InternalName": "TeachMeBro",
+                "Description": "监听聊天消息中的触发关键词，全屏显示径向渐变彩色闪烁蒙层。支持多规则触发、自定义颜色、地图过滤、透明范围调节。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ffxivaichat/TeachMeBro",
+                "LastUpdate": 1781010400
             }
         ]
     },
@@ -6243,7 +6252,7 @@
                 "Description": "This plugin is an expansion of the native macro system in FFXIV. Unlimited slots, unlimited length, more commands, more modifiers. It also has a lua engine along with many modules for automating much of the game.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1779781691
+                "LastUpdate": 1780995003
             }
         ]
     },
@@ -7062,7 +7071,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1780975174
+                "LastUpdate": 1781010436
             }
         ]
     },
@@ -7985,7 +7994,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1780977586
+                "LastUpdate": 1781016222
             }
         ]
     },
@@ -8923,7 +8932,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1780859687
+                "LastUpdate": 1781000902
             }
         ]
     },
@@ -9030,7 +9039,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1780859687
+                "LastUpdate": 1781000902
             },
             {
                 "Author": "DhogGPT",
@@ -9909,23 +9918,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mustbetommy/Mannerisms",
                 "LastUpdate": 1778519044
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Myre-S",
-        "repo_url": "https://raw.githubusercontent.com/Myre-S/Dancing-Madness/main/repo.json",
-        "repo_source_url": "https://github.com/Myre-S/Dancing-Madness",
-        "repo_name": "Dancing-Madness",
-        "plugins": [
-            {
-                "Author": "Myre-S",
-                "Name": "Dancing Madness",
-                "InternalName": "DancingMadness",
-                "Description": "Adds support for the Dancing Mad (Ultimate) encounter, including an automarker for the Forsaken tower/AoE sequence (configurable tower order, priority, and per-role markers). A fork of Lemegeton by Paissa Heavy Industries.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Myre-S/Dancing-Madness",
-                "LastUpdate": 1780923570
             }
         ]
     },
@@ -12711,6 +12703,23 @@
         ]
     },
     {
+        "repo_developer_name": "pyreymo",
+        "repo_url": "https://raw.githubusercontent.com/pyreymo/event-horizon/master/repo.json",
+        "repo_source_url": "https://github.com/pyreymo/event-horizon",
+        "repo_name": "event-horizon",
+        "plugins": [
+            {
+                "Author": "pyreymo",
+                "Name": "Event Horizon",
+                "InternalName": "EventHorizon",
+                "Description": "Cull distant or irrelevant world objects around your character. Use /eventhorizon or /eh to open settings.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/pyreymo/event-horizon",
+                "LastUpdate": 1781005201
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/RaidenvBlack/RaidenvPlugins/raw/main/repo.json",
         "repo_source_url": "https://github.com/RaidenvBlack/RaidenvPlugins",
         "plugins": [
@@ -13394,7 +13403,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1779781691
+                "LastUpdate": 1780995003
             }
         ]
     },
@@ -14956,6 +14965,23 @@
         ]
     },
     {
+        "repo_developer_name": "SneakiestBear",
+        "repo_url": "https://raw.githubusercontent.com/SneakiestBear/Dancing-Madness/main/repo.json",
+        "repo_source_url": "https://github.com/SneakiestBear/Dancing-Madness",
+        "repo_name": "Dancing-Madness",
+        "plugins": [
+            {
+                "Author": "Sneakiestbear",
+                "Name": "Dancing Madness",
+                "InternalName": "DancingMadness",
+                "Description": "Adds support for the Dancing Mad (Ultimate) encounter, including an automarker for the Forsaken tower/AoE sequence (configurable tower order, priority, and per-role markers). A fork of Lemegeton by Paissa Heavy Industries.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/SneakiestBear/Dancing-Madness",
+                "LastUpdate": 1781010945
+            }
+        ]
+    },
+    {
         "repo_developer_name": "sodaohoh",
         "repo_url": "https://raw.githubusercontent.com/sodaohoh/ff14-duolingo/master/repo.json",
         "repo_source_url": "https://github.com/sodaohoh/ff14-duolingo",
@@ -14968,7 +14994,7 @@
                 "Description": "Displays bilingual action names on cast bars. Select any two languages (English, Japanese, German, French, Traditional Chinese) to show on target cast bars - perfect for learning skill names in another language.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/sodaohoh/ff14-duolingo",
-                "LastUpdate": 1780408220
+                "LastUpdate": 1781008207
             }
         ]
     },
@@ -15038,7 +15064,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1780919609
+                "LastUpdate": 1781013417
             }
         ]
     },
@@ -16885,7 +16911,7 @@
                 "Description": "",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ffxivaichat/DalamudPlugins",
-                "LastUpdate": 1780919241
+                "LastUpdate": 1781010435
             }
         ]
     },
@@ -17247,7 +17273,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1780965520
+                "LastUpdate": 1780997150
             },
             {
                 "Author": "XeldarAlz",
@@ -17283,7 +17309,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1780964765
+                "LastUpdate": 1781014494
             }
         ]
     },
@@ -17300,7 +17326,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1780965520
+                "LastUpdate": 1780997150
             }
         ]
     },
@@ -17351,7 +17377,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1780964765
+                "LastUpdate": 1781014494
             }
         ]
     },
@@ -17402,7 +17428,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1780964765
+                "LastUpdate": 1781014494
             }
         ]
     },
@@ -17419,7 +17445,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1780964765
+                "LastUpdate": 1781014494
             }
         ]
     },
