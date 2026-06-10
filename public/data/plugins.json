@@ -523,7 +523,7 @@
                 "Description": "Assists a single venue dealer with Blackjack phases, dice-based cards, bank tracking, narration, overlays, logs, and exports. Players do not need the plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AiriTsukino/GambaAssistant",
-                "LastUpdate": 1781058613
+                "LastUpdate": 1781068823
             },
             {
                 "Author": "Airi Tsukino",
@@ -577,13 +577,13 @@
         "repo_name": "GambaAssistant",
         "plugins": [
             {
-                "Author": "GambaAssistant",
+                "Author": "Airi Tsukino",
                 "Name": "GambaAssistant",
                 "InternalName": "GambaAssistant",
                 "Description": "Assists a single venue dealer with Blackjack phases, dice-based cards, bank tracking, narration, overlays, logs, and exports. Players do not need the plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AiriTsukino/GambaAssistant",
-                "LastUpdate": 1781058613
+                "LastUpdate": 1781068823
             }
         ]
     },
@@ -899,7 +899,7 @@
                 "Description": "一个基于本地 ACTX 风格口径的 Dalamud 战斗统计插件，直接在游戏内显示队伍 DPS、HPS、承伤、概览和战斗历史，不依赖外部网页悬浮窗。 Local ACTX-style combat meter for Dalamud. Displays party DPS, HPS, damage taken, overview summaries, and encounter history directly in game without relying on an external web overlay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anmili2022/DalamudACT",
-                "LastUpdate": 1780940848
+                "LastUpdate": 1781084792
             },
             {
                 "Author": "shdwp, Avaflow, abashby, nebel",
@@ -5764,7 +5764,7 @@
                 "Description": "แปลภาษา FFXIV เป็นไทยแบบ real-time ผ่าน Gemini AI - Real-time FFXIV translation with advanced character database and Netflix-quality localization. Features elegant UI with auto-show/hide, full customization (size, colors), and seamless gameplay integration.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/iarcanar/MBB_Dalamud",
-                "LastUpdate": 1780572566
+                "LastUpdate": 1781071824
             }
         ]
     },
@@ -6406,7 +6406,7 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1780974747
+                "LastUpdate": 1781083346
             },
             {
                 "Author": "jkleinne",
@@ -6718,6 +6718,23 @@
         ]
     },
     {
+        "repo_developer_name": "Just-Chaldea",
+        "repo_url": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Just-Chaldea/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "Just-Chaldea",
+                "Name": "MahjongAdvisor",
+                "InternalName": "MahjongAdvisor",
+                "Description": "Reads the Doman Mahjong board and recommends each move: discard, calls, riichi, and defense.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Just-Chaldea/Mahjong-Advisor",
+                "LastUpdate": 1781079465
+            }
+        ]
+    },
+    {
         "repo_developer_name": "k0etsu",
         "repo_url": "https://raw.githubusercontent.com/k0etsu/DalamudPlugins/master/pluginmaster.json",
         "repo_source_url": "https://github.com/k0etsu/DalamudPlugins",
@@ -6870,7 +6887,7 @@
                 "Description": "A toy.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins",
-                "LastUpdate": 1780905474
+                "LastUpdate": 1781069576
             },
             {
                 "Author": "XiYu",
@@ -6879,7 +6896,7 @@
                 "Description": "A plugin that allows you to draw ring and line on player or target.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins",
-                "LastUpdate": 1780905474
+                "LastUpdate": 1781069576
             },
             {
                 "Author": "Karlin",
@@ -6888,7 +6905,7 @@
                 "Description": "A plugin that allows you to select the enemy with the lowest currentHp in your range.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins",
-                "LastUpdate": 1780905474
+                "LastUpdate": 1781069576
             }
         ]
     },
@@ -7529,7 +7546,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1780853955
+                "LastUpdate": 1781083517
             }
         ]
     },
@@ -7785,7 +7802,7 @@
                 "Description": "A small collection of whimsical tools and experiments for FFXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/lapinwhimsical/CarrotPatch",
-                "LastUpdate": 1781062118
+                "LastUpdate": 1781062963
             }
         ]
     },
@@ -10338,7 +10355,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1780805722
+                "LastUpdate": 1781064134
             }
         ]
     },
@@ -11032,7 +11049,7 @@
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1781022882
+                "LastUpdate": 1781077328
             }
         ]
     },
@@ -12637,7 +12654,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1781046822
+                "LastUpdate": 1781064540
             },
             {
                 "Author": "Team Wrath",
@@ -12646,7 +12663,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1780853955
+                "LastUpdate": 1781083517
             },
             {
                 "Author": "daemitus, kawaii",
@@ -14117,6 +14134,23 @@
     },
     {
         "repo_developer_name": "Sansflaire",
+        "repo_url": "https://raw.githubusercontent.com/Sansflaire/DamageMeter/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Sansflaire/DamageMeter",
+        "repo_name": "DamageMeter",
+        "plugins": [
+            {
+                "Author": "Sansflaire",
+                "Name": "Damage Meter",
+                "InternalName": "DamageMeter",
+                "Description": "Tracks damage dealt, healing done, DPS, HPS, overhealing, damage taken, and more in real time for you and your party. Stores up to 20 recent combat sessions with manual save slots. Fully configurable display, bar colors, and window styles.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Sansflaire/DamageMeter",
+                "LastUpdate": 1781075818
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Sansflaire",
         "repo_url": "https://raw.githubusercontent.com/Sansflaire/FFXIV-TV/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Sansflaire/FFXIV-TV",
         "repo_name": "FFXIV-TV",
@@ -14633,7 +14667,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1781046822
+                "LastUpdate": 1781064540
             }
         ]
     },
@@ -16160,7 +16194,7 @@
                 "Description": "Tracks dice rolls, captures names, and highlights winners.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tuconei/SimpleRollTracker",
-                "LastUpdate": 1779255699
+                "LastUpdate": 1781068039
             }
         ]
     },
@@ -16229,7 +16263,7 @@
                 "Description": "My own playground for plugin dev",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1781041984
+                "LastUpdate": 1781078716
             }
         ]
     },
@@ -17513,7 +17547,7 @@
                 "Description": "Tired of manually babysitting your BossMod settings mid-fight? XCAI handles your positioning, distances, and Ley Lines automatically so you can focus on not dying. Results may vary on the not dying part.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsCombatAI",
-                "LastUpdate": 1781050071
+                "LastUpdate": 1781083334
             },
             {
                 "Author": "Xeltor / XelsPlugins, originally by Blackcatz1911",
@@ -17755,7 +17789,7 @@
                 "Description": "I wanna see what fish you catch...",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Yhumi/YhumiFishing",
-                "LastUpdate": 1781058189
+                "LastUpdate": 1781082396
             },
             {
                 "Author": "Yhumi",
