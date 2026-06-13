@@ -1013,7 +1013,7 @@
                 "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.\n\nThis plugin is in beta and is unstable. You won't crash during your training sessions, but you will crash after it.\n\nIf you are doing any serious content: **RESTART YOUR GAME AFTER USING PLUGIN**. You **WILL CRASH** in the middle of pull.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anomek/AnoMech",
-                "LastUpdate": 1781247824
+                "LastUpdate": 1781335231
             },
             {
                 "Author": "Anomek",
@@ -2471,6 +2471,23 @@
         ]
     },
     {
+        "repo_developer_name": "CarpeNukem",
+        "repo_url": "https://raw.githubusercontent.com/CarpeNukem/xivamp/main/repo.json",
+        "repo_source_url": "https://github.com/CarpeNukem/xivamp",
+        "repo_name": "xivamp",
+        "plugins": [
+            {
+                "Author": "aecid",
+                "Name": "xivAMP",
+                "InternalName": "xivAMP",
+                "Description": "Plan and perform Penumbra music-option playlists with Winamp-style controls - skinnable .wsz UI, playlist, window-shade modes and spectrum analyzer. Use /xivamp to open the player.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/CarpeNukem/xivamp",
+                "LastUpdate": 1781354897
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/CatboyEngineering/Plugins/raw/main/repo.json",
         "repo_source_url": "https://github.com/CatboyEngineering/Plugins",
         "repo_name": "Plugins",
@@ -3207,6 +3224,23 @@
         ]
     },
     {
+        "repo_developer_name": "DashaDaymoon",
+        "repo_url": "https://raw.githubusercontent.com/DashaDaymoon/DashaTweaksRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/DashaDaymoon/DashaTweaksRepo",
+        "repo_name": "DashaTweaksRepo",
+        "plugins": [
+            {
+                "Author": "Dasha",
+                "Name": "DashaTweaks",
+                "InternalName": "DashaTweaks",
+                "Description": "A growing collection of FFXIV quality-of-life tweaks, each in its own settings tab:\n\n- Hotbar Helper: when you open Actions & Traits, scans your hotbars against your current job and shows any actions or role actions you haven't slotted anywhere.\n- Submarines: FC submarine status at a glance, EXP-optimal route planning with one-click apply, optional unlock-progression routing, and auto-repair.\n- Leves: automated craft (tradecraft) leve hand-ins - pick a leve, stand at the counter, and it accepts and turns in until your allowance floor or items run out.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/DashaDaymoon/DashaTweaksRepo",
+                "LastUpdate": 1781350381
+            }
+        ]
+    },
+    {
         "repo_developer_name": "dechamps-chen",
         "repo_url": "https://raw.githubusercontent.com/dechamps-chen/DotPosition/master/pluginmaster.json",
         "repo_source_url": "https://github.com/dechamps-chen/DotPosition",
@@ -3445,7 +3479,7 @@
                 "Description": "An all-in-one venue host toolkit: Venue Counter, Raffle Helper, Auction Helper, and Giveaway Helper. Open with /venuehelper (aliases /vhelp, /vh). Exports to TXT, CSV, PDF, or XLSX.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/VenueHelper",
-                "LastUpdate": 1781165528
+                "LastUpdate": 1781340016
             }
         ]
     },
@@ -5918,7 +5952,7 @@
                 "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1781261279
+                "LastUpdate": 1781354477
             }
         ]
     },
@@ -5952,7 +5986,7 @@
                 "Description": "FF14生产辅助插件，提供三大核心功能：(1) BOM递归展开——输入目标装备/食物/收藏品，自动递归分解全部中间材料，生成完整材料清单；(2) 采集推送——一键将待采集材料列表推送至GatherBuddyReborn，快速定位采集点；(3) 一键制作——调用Artisan插件自动制作，支持巧手橙票/紫票收藏品工票计算。使用 /craftflow 打开主窗口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ijnokmsc/CraftFlow",
-                "LastUpdate": 1781331120
+                "LastUpdate": 1781339273
             }
         ]
     },
@@ -6045,7 +6079,7 @@
                 "Description": "Dalashade generates a separate ReShade preset from your base preset, then nudges known shader values using territory, weather, time, combat, cutscenes, and optional screenshot analysis. Use /dalashade to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ImperfectRain/Dalashade",
-                "LastUpdate": 1781332247
+                "LastUpdate": 1781334219
             }
         ]
     },
@@ -6534,7 +6568,7 @@
                 "Description": "Market and retainer-sales intelligence for FFXIV. Reads your own retainer listings and completed sales from the game client and pairs them with board-wide market context (listings, sales history, velocity) from the Universalis API.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-ledger",
-                "LastUpdate": 1781307212
+                "LastUpdate": 1781343759
             },
             {
                 "Author": "jkleinne",
@@ -7033,7 +7067,7 @@
                 "Description": "A toy.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins",
-                "LastUpdate": 1781183466
+                "LastUpdate": 1781353443
             },
             {
                 "Author": "XiYu",
@@ -7042,7 +7076,7 @@
                 "Description": "A plugin that allows you to draw ring and line on player or target.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins",
-                "LastUpdate": 1781183466
+                "LastUpdate": 1781353443
             },
             {
                 "Author": "Karlin",
@@ -7051,7 +7085,7 @@
                 "Description": "A plugin that allows you to select the enemy with the lowest currentHp in your range.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins",
-                "LastUpdate": 1781183466
+                "LastUpdate": 1781353443
             }
         ]
     },
@@ -7692,7 +7726,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1781301276
+                "LastUpdate": 1781342609
             }
         ]
     },
@@ -7965,7 +7999,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1780348818
+                "LastUpdate": 1781348979
             }
         ]
     },
@@ -8242,7 +8276,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1781275880
+                "LastUpdate": 1781350465
             }
         ]
     },
@@ -10499,7 +10533,7 @@
                 "Description": "将爆发药特效替换为嗷嗷有劲的 RGB 效果。\nReplace tincture VFX with AoAoEnergy RGB effect.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nero0421/Nero-dalamud",
-                "LastUpdate": 1780648165
+                "LastUpdate": 1781344654
             },
             {
                 "Author": "Nagi'to Atreides, API15 fix by Nero0421",
@@ -10508,7 +10542,7 @@
                 "Description": "让斜杠命令不区分大小写。输入命令时会先检查已注册命令表；大小写不一致时只修正命令头，后面的参数保持原样。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nero0421/Nero-dalamud",
-                "LastUpdate": 1780648165
+                "LastUpdate": 1781344654
             },
             {
                 "Author": "Nero0421, Jukkales",
@@ -10517,7 +10551,7 @@
                 "Description": "HoardFarm API15 维护版，用于深层迷宫宝藏路线辅助。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nero0421/Nero-dalamud",
-                "LastUpdate": 1780648165
+                "LastUpdate": 1781344654
             }
         ]
     },
@@ -12841,7 +12875,7 @@
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1781261279
+                "LastUpdate": 1781354477
             },
             {
                 "Author": "Det, Taurenkey",
@@ -12939,7 +12973,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1781316593
+                "LastUpdate": 1781348473
             },
             {
                 "Author": "Team Wrath",
@@ -12948,7 +12982,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1781301276
+                "LastUpdate": 1781342609
             },
             {
                 "Author": "daemitus, kawaii",
@@ -14943,7 +14977,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1781316593
+                "LastUpdate": 1781348473
             }
         ]
     },
@@ -15114,7 +15148,7 @@
                 "Description": "Automates market board penny pinching",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
-                "LastUpdate": 1781211819
+                "LastUpdate": 1781344600
             },
             {
                 "Author": "SHOEGAZEssb",
@@ -15140,7 +15174,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1781256044
+                "LastUpdate": 1781349368
             },
             {
                 "Author": "XSZYYS",
@@ -15149,7 +15183,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1781256044,
+                "LastUpdate": 1781349368,
                 "is_closed_source": true
             }
         ]
@@ -15451,7 +15485,7 @@
                 "Description": "Game windows can layer with plugin windows, reshade won't affect the UI, and 3D overlay plugins draw under the game's UI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_gaolbreak",
-                "LastUpdate": 1781330922
+                "LastUpdate": 1781334609
             },
             {
                 "Author": "sourpuh",
@@ -15845,6 +15879,23 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/switchy-nia/inflection",
                 "LastUpdate": 1755527548
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "swixum",
+        "repo_url": "https://raw.githubusercontent.com/swixum/FrenMits/main/repo.json",
+        "repo_source_url": "https://github.com/swixum/FrenMits",
+        "repo_name": "FrenMits",
+        "plugins": [
+            {
+                "Author": "swix",
+                "Name": "Fren Mits",
+                "InternalName": "FrenMits",
+                "Description": "It's mits with frens.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/swixum/FrenMits",
+                "LastUpdate": 1781342269
             }
         ]
     },
@@ -17685,7 +17736,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1781312670
+                "LastUpdate": 1781354628
             },
             {
                 "Author": "XeldarAlz",
@@ -17694,7 +17745,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1781311711
+                "LastUpdate": 1781354250
             },
             {
                 "Author": "XeldarAlz",
@@ -17703,7 +17754,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781313422
+                "LastUpdate": 1781354899
             },
             {
                 "Author": "XeldarAlz",
@@ -17721,7 +17772,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1781312546
+                "LastUpdate": 1781354583
             }
         ]
     },
@@ -17738,7 +17789,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1781312670
+                "LastUpdate": 1781354628
             }
         ]
     },
@@ -17755,7 +17806,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1781311711
+                "LastUpdate": 1781354250
             }
         ]
     },
@@ -17772,7 +17823,7 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1781311711
+                "LastUpdate": 1781354250
             }
         ]
     },
@@ -17789,7 +17840,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1781312546
+                "LastUpdate": 1781354583
             }
         ]
     },
@@ -17806,7 +17857,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781313422
+                "LastUpdate": 1781354899
             }
         ]
     },
@@ -17840,7 +17891,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1781312546
+                "LastUpdate": 1781354583
             }
         ]
     },
@@ -17857,7 +17908,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1781312546
+                "LastUpdate": 1781354583
             }
         ]
     },
