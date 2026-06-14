@@ -2181,6 +2181,23 @@
         ]
     },
     {
+        "repo_developer_name": "BoujeeBecky",
+        "repo_url": "https://raw.githubusercontent.com/BoujeeBecky/FloatyText/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/BoujeeBecky/FloatyText",
+        "repo_name": "FloatyText",
+        "plugins": [
+            {
+                "Author": "Boujee Becky",
+                "Name": "FloatyText",
+                "InternalName": "FloatyText",
+                "Description": "Replaces FFXIV's default floating combat text with expressive, fully configurable WoW-style animations. Supports per-category colors, crit pop effects, glow outlines, screen shake, particle effects, arc styles, and game fonts — for every damage type, heal, DoT, miss, buff, and debuff separately.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/BoujeeBecky/FloatyText",
+                "LastUpdate": 1781411681
+            }
+        ]
+    },
+    {
         "repo_url": "https://puni.sh/api/repository/boxu",
         "repo_source_url": "https://github.com/BoxuChan",
         "repo_developer_name": "BoxuChan",
@@ -3402,7 +3419,7 @@
                 "Description": "A collection of small quality-of-life tweaks designed to make your time in Eorzea more comfortable, one small luxury at a time. Use /llux to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/LittleLuxuries",
-                "LastUpdate": 1781373167
+                "LastUpdate": 1781409570
             },
             {
                 "Author": "Oreo",
@@ -3428,7 +3445,7 @@
                 "Description": "A collection of small quality-of-life tweaks designed to make your time in Eorzea more comfortable, one small luxury at a time. Use /llux to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/LittleLuxuries",
-                "LastUpdate": 1781373167
+                "LastUpdate": 1781409570
             }
         ]
     },
@@ -3462,7 +3479,7 @@
                 "Description": "An all-in-one venue host toolkit: Venue Counter, Raffle Helper, Auction Helper, and Giveaway Helper. Open with /venuehelper (aliases /vhelp, /vh). Exports to TXT, CSV, PDF, or XLSX.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/VenueHelper",
-                "LastUpdate": 1781397630
+                "LastUpdate": 1781412966
             }
         ]
     },
@@ -5628,7 +5645,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-                "LastUpdate": 1781159693
+                "LastUpdate": 1781420398
             }
         ]
     },
@@ -5969,7 +5986,7 @@
                 "Description": "FF14生产辅助插件，提供三大核心功能：(1) BOM递归展开——输入目标装备/食物/收藏品，自动递归分解全部中间材料，生成完整材料清单；(2) 采集推送——一键将待采集材料列表推送至GatherBuddyReborn，快速定位采集点；(3) 一键制作——调用Artisan插件自动制作，支持巧手橙票/紫票收藏品工票计算。使用 /craftflow 打开主窗口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ijnokmsc/CraftFlow",
-                "LastUpdate": 1781399312
+                "LastUpdate": 1781401748
             }
         ]
     },
@@ -6062,7 +6079,7 @@
                 "Description": "Dalashade generates a separate ReShade preset from your base preset, then nudges known shader values using territory, weather, time, combat, cutscenes, and optional screenshot analysis. Use /dalashade to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ImperfectRain/Dalashade",
-                "LastUpdate": 1781376996
+                "LastUpdate": 1781421353
             }
         ]
     },
@@ -7121,7 +7138,7 @@
                 "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kawaii/Hyperborea",
-                "LastUpdate": 1780420250
+                "LastUpdate": 1781407443
             }
         ]
     },
@@ -7708,7 +7725,7 @@
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1781390105
+                "LastUpdate": 1781405120
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7726,7 +7743,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1781370296
+                "LastUpdate": 1781422596
             }
         ]
     },
@@ -8840,7 +8857,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/m449m449/RotationSolverRebornTesting",
-                "LastUpdate": 1781370598
+                "LastUpdate": 1781421487
             }
         ]
     },
@@ -9044,7 +9061,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1781315316
+                "LastUpdate": 1781410587
             }
         ]
     },
@@ -9180,7 +9197,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1781365496
+                "LastUpdate": 1781410593
             }
         ]
     },
@@ -9328,7 +9345,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1781365496
+                "LastUpdate": 1781410593
             },
             {
                 "Author": "DhogGPT",
@@ -10391,13 +10408,22 @@
         "repo_name": "SiBai-s-DalamudPluhins",
         "plugins": [
             {
+                "Author": "Taurenkey (Puni.sh), Nasens",
+                "Name": "Artisan (汉化)",
+                "InternalName": "Artisan",
+                "Description": "Artisan 中文汉化版（AI 翻译）。The all-in-one crafting plugin.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nasens/Artisan",
+                "LastUpdate": 1781419505
+            },
+            {
                 "Author": "Ice, Nasens",
                 "Name": "Ice's Cosmic Exploration (汉化)",
                 "InternalName": "ICE",
                 "Description": "Ice's Cosmic Exploration 中文汉化版（AI 翻译）。A little helper to go gather your heart out.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nasens/Ices-Cosmic-Exploration",
-                "LastUpdate": 1781357269
+                "LastUpdate": 1781410239
             }
         ]
     },
@@ -10628,7 +10654,7 @@
                 "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1781230337
+                "LastUpdate": 1781403347
             },
             {
                 "Author": "goat, Maple",
@@ -10637,7 +10663,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1781237879
+                "LastUpdate": 1781411021
             }
         ]
     },
@@ -11402,7 +11428,7 @@
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1781388916
+                "LastUpdate": 1781413489
             }
         ]
     },
@@ -12972,7 +12998,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1781390105
+                "LastUpdate": 1781405120
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -12999,7 +13025,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1781370296
+                "LastUpdate": 1781422596
             },
             {
                 "Author": "daemitus, kawaii",
@@ -15502,7 +15528,7 @@
                 "Description": "Game windows can layer with plugin windows, reshade won't affect the UI, and 3D overlay plugins draw under the game's UI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_gaolbreak",
-                "LastUpdate": 1781334609
+                "LastUpdate": 1781415481
             },
             {
                 "Author": "sourpuh",
@@ -15628,18 +15654,35 @@
     },
     {
         "repo_developer_name": "SSCthulhu",
+        "repo_url": "https://raw.githubusercontent.com/SSCthulhu/AetherUI/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/SSCthulhu/AetherUI",
+        "repo_name": "AetherUI",
+        "plugins": [
+            {
+                "Author": "Tischel, Aether UI Fork Maintainers",
+                "Name": "Aether UI",
+                "InternalName": "AetherUI",
+                "Description": "A standalone customizable HUD with nameplate parity, action camera controls, and backend/profile stability improvements.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/SSCthulhu/AetherUI",
+                "LastUpdate": 1781405856
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "SSCthulhu",
         "repo_url": "https://raw.githubusercontent.com/SSCthulhu/FFXIVHudReimagined/main/pluginmaster.json",
         "repo_source_url": "https://github.com/SSCthulhu/FFXIVHudReimagined",
         "repo_name": "FFXIVHudReimagined",
         "plugins": [
             {
-                "Author": "SSCthulhu",
-                "Name": "FFXIV Hud Reimagined",
-                "InternalName": "FFXIVHudReimagined",
-                "Description": "A custom Dalamud HUD layout with HP orb, MP ring, mirrored hotbars, status rows, class gauge, limit break bubbles, optional custom minimap, and standalone action camera.",
+                "Author": "Tischel, Aether UI Fork Maintainers",
+                "Name": "Aether UI",
+                "InternalName": "AetherUI",
+                "Description": "A standalone customizable HUD with nameplate parity, action camera controls, and backend/profile stability improvements.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/SSCthulhu/FFXIVHudReimagined",
-                "LastUpdate": 1780977086
+                "RepoUrl": "https://github.com/SSCthulhu/AetherUI",
+                "LastUpdate": 1781405856
             }
         ]
     },
@@ -15912,7 +15955,7 @@
                 "Description": "It's mits with frens.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/swixum/FrenMits",
-                "LastUpdate": 1781397624
+                "LastUpdate": 1781420176
             }
         ]
     },
@@ -17004,7 +17047,7 @@
                 "Description": "Experimental custom-repo build. Achievement tracker for FFXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/vauxra/veelas-achievement-ledger",
-                "LastUpdate": 1781389944
+                "LastUpdate": 1781403622
             }
         ]
     },
