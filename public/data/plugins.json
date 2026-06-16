@@ -3160,7 +3160,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1781568562
+                "LastUpdate": 1781606304
             },
             {
                 "Author": "Critical_Impact",
@@ -3376,6 +3376,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/denghaoxuan991876906/MCPforDalamud",
                 "LastUpdate": 1778820678
+            },
+            {
+                "Author": "嗨呀",
+                "Name": "RemoteRelay",
+                "InternalName": "RemoteRelay",
+                "Description": "房间管理 / 玩家职能 / 指令分发 / IPC 提供方。替代 XSZToolbox 房间服务的精简可分发插件。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/denghaoxuan991876906/RemoteRelay",
+                "LastUpdate": 1781624937
             }
         ]
     },
@@ -4646,7 +4655,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1781568562
+                "LastUpdate": 1781606304
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5576,7 +5585,7 @@
                 "InternalName": "VaelarisUnlockList",
                 "Description": "Shows unlockable content, marks completed quest-backed entries when possible, keeps manual state for unsupported entries, and opens map flags for known locations. Command: /vunlock",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1781598063
+                "LastUpdate": 1781625226
             }
         ]
     },
@@ -6594,7 +6603,7 @@
                 "Description": "Personal fork of Dagobert, the automatic market board undercut plugin. Adds bait listing protection so a 1-unit decoy at 5 gil can't drag your retainer prices to the floor while real stacks sit at 1.2k. If you don't need that, install upstream Dagobert instead.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jkleinne/ascended-dagobert",
-                "LastUpdate": 1781359722
+                "LastUpdate": 1781612420
             },
             {
                 "Author": "jkleinne",
@@ -6962,7 +6971,7 @@
                 "Description": "Reads the Doman Mahjong board and recommends each move: discard, calls, riichi, and defense.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Just-Chaldea/Mahjong-Advisor",
-                "LastUpdate": 1781535200
+                "LastUpdate": 1781614864
             },
             {
                 "Author": "Just-Chaldea",
@@ -7199,7 +7208,7 @@
                 "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kawaii/Hyperborea",
-                "LastUpdate": 1781407443
+                "LastUpdate": 1781616891
             }
         ]
     },
@@ -7424,6 +7433,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kharand/Chatmote",
                 "LastUpdate": 1781454400
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Kirei1i",
+        "repo_url": "https://raw.githubusercontent.com/Kirei1i/Plugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Kirei1i/Plugins",
+        "repo_name": "Plugins",
+        "plugins": [
+            {
+                "Author": "shdwp, Avaflow, abashby, nebel / Kirei1i (汉化)",
+                "Name": "Party Icons（CN）",
+                "InternalName": "PartyIcons",
+                "Description": "根据当前内容调整玩家名牌显示。可以显示团队位置（通过监听聊天自动分配）、职业图标或带职业图标的名字。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/nebel/xivPartyIcons",
+                "LastUpdate": 1777505522
             }
         ]
     },
@@ -7894,6 +7920,23 @@
         ]
     },
     {
+        "repo_developer_name": "kyaEH",
+        "repo_url": "https://raw.githubusercontent.com/kyaEH/MusicHonorific/master/repo.json",
+        "repo_source_url": "https://github.com/kyaEH/MusicHonorific",
+        "repo_name": "MusicHonorific",
+        "plugins": [
+            {
+                "Author": "Kyaeh / Pastalix / Lianh Procyon",
+                "Name": "Music Honorific",
+                "InternalName": "MusicHonorific",
+                "Description": "Syncs the song playing on Deezer, Spotify or your browser to your in-game Honorific title. Requires the Honorific plugin.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/KyaEH/MusicHonorific",
+                "LastUpdate": 1781623016
+            }
+        ]
+    },
+    {
         "repo_developer_name": "kylohq",
         "repo_url": "https://raw.githubusercontent.com/kylohq/craft-analyzer/main/pluginmaster.json",
         "repo_source_url": "https://github.com/kylohq/craft-analyzer",
@@ -8043,7 +8086,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1781560166
+                "LastUpdate": 1781620495
             }
         ]
     },
@@ -8354,7 +8397,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1781571092
+                "LastUpdate": 1781619729
             }
         ]
     },
@@ -8901,7 +8944,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1781560538
+                "LastUpdate": 1781623864
             }
         ]
     },
@@ -9793,7 +9836,7 @@
                 "Description": "Animates Customize+ bone scales from your current profile values toward a configurable target. Use /bodyflux to open the control window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/miragiumxiv/BodyFlux",
-                "LastUpdate": 1781562735
+                "LastUpdate": 1781624370
             }
         ]
     },
@@ -9878,6 +9921,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mitaka0715-bot/GatherBuddyJP",
                 "LastUpdate": 1780304362
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Miu-B",
+        "repo_url": "https://raw.githubusercontent.com/Miu-B/PFBeaconPlugin/main/repo.json",
+        "repo_source_url": "https://github.com/Miu-B/PFBeaconPlugin",
+        "repo_name": "PFBeaconPlugin",
+        "plugins": [
+            {
+                "Author": "Miu-B",
+                "Name": "PFBeacon",
+                "InternalName": "PFBeacon",
+                "Description": "Observes Party Finder listings, filters for qualifying MINE raid listings, and sends sanitized observations to the official PFBeacon service. Does not send PF descriptions, player names, recruiter names, worlds, or Discord routing data.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Miu-B/PFBeaconPlugin",
+                "LastUpdate": 1781608558
             }
         ]
     },
@@ -10345,7 +10405,7 @@
                 "Description": "Scales down Chaos in DMU for visibility.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
-                "LastUpdate": 1781578272
+                "LastUpdate": 1781607032
             }
         ]
     },
@@ -11066,7 +11126,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1778590370,
+                "LastUpdate": 1781623895,
                 "is_closed_source": true
             },
             {
@@ -11076,7 +11136,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1778590370,
+                "LastUpdate": 1781623895,
                 "is_closed_source": true
             },
             {
@@ -11086,7 +11146,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1778590370,
+                "LastUpdate": 1781623895,
                 "is_closed_source": true
             },
             {
@@ -11096,7 +11156,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1778590370,
+                "LastUpdate": 1781623895,
                 "is_closed_source": true
             },
             {
@@ -11954,7 +12014,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1781512528
+                "LastUpdate": 1781622014
             },
             {
                 "Author": "OOFGames",
@@ -11963,7 +12023,7 @@
                 "Description": "Browse active gambling events across Eorzea or host your own session. Use /gambawhere to open the interface.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1781512524
+                "LastUpdate": 1781622010
             },
             {
                 "Author": "OOFGames",
@@ -13102,7 +13162,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1781560538
+                "LastUpdate": 1781623864
             },
             {
                 "Author": "NightmareXIV",
@@ -13223,7 +13283,7 @@
                 "Description": "Cull distant or irrelevant world objects around your character. Use /eventhorizon or /eh to open settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/pyreymo/event-horizon",
-                "LastUpdate": 1781498183
+                "LastUpdate": 1781620223
             }
         ]
     },
@@ -13868,7 +13928,7 @@
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ResFox/YapYapDraw",
-                "LastUpdate": 1781369888
+                "LastUpdate": 1781618524
             }
         ]
     },
@@ -14868,7 +14928,7 @@
                 "Description": "Play nearly any public facing video/image/music URL in game and with friends!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/XivMediaPlayer",
-                "LastUpdate": 1781571679
+                "LastUpdate": 1781618558
             }
         ]
     },
@@ -14886,24 +14946,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SekhmetAnkh/GBRMonsterHunter",
                 "LastUpdate": 1781589947
-            },
-            {
-                "Author": "SekhmetPlugins",
-                "Name": "OpenerPilot",
-                "InternalName": "OpenerPilot",
-                "Description": "Local level 100 opener runner for standard combat jobs, using WrathCombo-referenced opener data while keeping RotationSolverReborn off during execution and handing back afterward.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/SekhmetAnkh/OpenerPilot",
-                "LastUpdate": 1781368398
-            },
-            {
-                "Author": "SekhmetAnkh",
-                "Name": "PositionalPilot",
-                "InternalName": "PositionalPilot",
-                "Description": "Suggests or safely moves toward selected combat-source rear/flank positionals using BossMod safety and vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/SekhmetAnkh/PositionalPilot",
-                "LastUpdate": 1781286288
             }
         ]
     },
@@ -15643,7 +15685,7 @@
                 "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
-                "LastUpdate": 1780459248
+                "LastUpdate": 1781620129
             }
         ]
     },
@@ -17859,7 +17901,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1781601940
+                "LastUpdate": 1781618218
             },
             {
                 "Author": "XeldarAlz",
@@ -17868,7 +17910,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1781596725
+                "LastUpdate": 1781617607
             },
             {
                 "Author": "XeldarAlz",
@@ -17877,7 +17919,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781597522
+                "LastUpdate": 1781618547
             },
             {
                 "Author": "XeldarAlz",
@@ -17895,7 +17937,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1781597176
+                "LastUpdate": 1781618123
             }
         ]
     },
@@ -17912,7 +17954,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1781601940
+                "LastUpdate": 1781618218
             }
         ]
     },
@@ -17929,7 +17971,7 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1781596725
+                "LastUpdate": 1781617607
             }
         ]
     },
@@ -17946,7 +17988,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1781596725
+                "LastUpdate": 1781617607
             }
         ]
     },
@@ -17980,7 +18022,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1781597176
+                "LastUpdate": 1781618123
             }
         ]
     },
@@ -17997,7 +18039,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781597522
+                "LastUpdate": 1781618547
             }
         ]
     },
@@ -18031,7 +18073,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1781597176
+                "LastUpdate": 1781618123
             }
         ]
     },
@@ -18048,7 +18090,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1781597176
+                "LastUpdate": 1781618123
             }
         ]
     },
@@ -18065,7 +18107,7 @@
                 "Description": "Tired of manually babysitting your BossMod settings mid-fight? XCAI handles your positioning, distances, and Ley Lines automatically so you can focus on not dying. Results may vary on the not dying part.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsCombatAI",
-                "LastUpdate": 1781431233
+                "LastUpdate": 1781609979
             },
             {
                 "Author": "Xeltor / XelsPlugins, originally by Blackcatz1911",
@@ -18643,7 +18685,7 @@
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1781188774
+                "LastUpdate": 1781610858
             }
         ]
     },
