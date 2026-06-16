@@ -1013,7 +1013,7 @@
                 "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.\n\nThis plugin is in beta and is unstable. You won't crash during your training sessions, but you will crash after it.\n\nIf you are doing any serious content: **RESTART YOUR GAME AFTER USING PLUGIN**. You **WILL CRASH** in the middle of pull.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anomek/AnoMech",
-                "LastUpdate": 1781502280
+                "LastUpdate": 1781569581
             },
             {
                 "Author": "Anomek",
@@ -2500,7 +2500,7 @@
                 "Description": "Plan and perform Penumbra music-option playlists with Winamp-style controls - skinnable .wsz UI, playlist, window-shade modes and spectrum analyzer. Use /xivamp to open the player.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CarpeNukem/xivamp",
-                "LastUpdate": 1781543192
+                "LastUpdate": 1781566035
             }
         ]
     },
@@ -2666,7 +2666,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1781521003
+                "LastUpdate": 1781562916
             }
         ]
     },
@@ -3160,7 +3160,7 @@
                 "Description": "A bunch of utilities to simplify bosses.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1781428922
+                "LastUpdate": 1781568562
             },
             {
                 "Author": "Critical_Impact",
@@ -3253,7 +3253,7 @@
                 "Description": "A growing collection of FFXIV quality-of-life tweaks, each in its own settings tab:\n\n- Hotbar Helper: when you open Actions & Traits, scans your hotbars against your current job and shows any actions or role actions you haven't slotted anywhere.\n- Submarines: FC submarine status at a glance, EXP-optimal route planning with one-click apply, optional unlock-progression routing, and auto-repair.\n- Leves: automated craft (tradecraft) leve hand-ins - pick a leve, stand at the counter, and it accepts and turns in until your allowance floor or items run out.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/DashaDaymoon/DashaTweaksRepo",
-                "LastUpdate": 1781549245
+                "LastUpdate": 1781559110
             }
         ]
     },
@@ -3463,6 +3463,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
                 "LastUpdate": 1780695653
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "dexcss",
+        "repo_url": "https://raw.githubusercontent.com/dexcss/FCTracker/main/repo.json",
+        "repo_source_url": "https://github.com/dexcss/FCTracker",
+        "repo_name": "FCTracker",
+        "plugins": [
+            {
+                "Author": "Akari",
+                "Name": "FC Tracker",
+                "InternalName": "FCTracker",
+                "Description": "Records, per character, the Free Company you belong to: name, tag, level, current master, member counts, FC credits, house ownership (district/ward/plot/world), and workshop airships & submersibles with build shorthand. Sortable table with click-to-expand details, a First Registered date, editable founder/house-winner notes, optional shared storage across all clients, and import from AutoRetainer and Submarine Tracker. Open with /fctracker (alias /fct).",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dexcss/FCTracker",
+                "LastUpdate": 1781577604
             }
         ]
     },
@@ -4603,7 +4620,7 @@
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1781428922
+                "LastUpdate": 1781568562
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -5533,7 +5550,7 @@
                 "InternalName": "VaelarisUnlockList",
                 "Description": "Shows unlockable content, marks completed quest-backed entries when possible, keeps manual state for unsupported entries, and opens map flags for known locations. Command: /vunlock",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1778930006
+                "LastUpdate": 1781567576
             }
         ]
     },
@@ -5978,7 +5995,7 @@
                 "Description": "FF14生产辅助插件，提供三大核心功能：(1) BOM递归展开——输入目标装备/食物/收藏品，自动递归分解全部中间材料，生成完整材料清单；(2) 采集推送——一键将待采集材料列表推送至GatherBuddyReborn，快速定位采集点；(3) 一键制作——调用Artisan插件自动制作，支持巧手橙票/紫票收藏品工票计算。使用 /craftflow 打开主窗口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ijnokmsc/CraftFlow",
-                "LastUpdate": 1781517693
+                "LastUpdate": 1781580223
             },
             {
                 "Author": "zhaoy",
@@ -6517,7 +6534,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1781521003
+                "LastUpdate": 1781562916
             }
         ]
     },
@@ -7726,7 +7743,7 @@
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1781534410
+                "LastUpdate": 1781578152
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7761,7 +7778,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1781521003
+                "LastUpdate": 1781562916
             }
         ]
     },
@@ -7983,7 +8000,7 @@
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1781457046
+                "LastUpdate": 1781560166
             }
         ]
     },
@@ -8294,7 +8311,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1781531471
+                "LastUpdate": 1781571092
             }
         ]
     },
@@ -8841,7 +8858,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1781394567
+                "LastUpdate": 1781560538
             }
         ]
     },
@@ -9721,6 +9738,23 @@
         ]
     },
     {
+        "repo_developer_name": "miragiumxiv",
+        "repo_url": "https://raw.githubusercontent.com/miragiumxiv/BodyFlux/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/miragiumxiv/BodyFlux",
+        "repo_name": "BodyFlux",
+        "plugins": [
+            {
+                "Author": "Miragium",
+                "Name": "Body Flux",
+                "InternalName": "BodyFlux",
+                "Description": "Animates Customize+ bone scales from your current profile values toward a configurable target. Use /bodyflux to open the control window.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/miragiumxiv/BodyFlux",
+                "LastUpdate": 1781562735
+            }
+        ]
+    },
+    {
         "repo_developer_name": "MisterCatt",
         "repo_url": "https://raw.githubusercontent.com/MisterCatt/MSQRouletteSkip/master/repo.json",
         "repo_source_url": "https://github.com/MisterCatt/MSQRouletteSkip",
@@ -10252,6 +10286,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mustbetommy/Mannerisms",
                 "LastUpdate": 1778519044
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Nainaiowo",
+        "repo_url": "https://raw.githubusercontent.com/Nainaiowo/chibi-chaos/main/repo.json",
+        "repo_source_url": "https://github.com/Nainaiowo/chibi-chaos",
+        "repo_name": "chibi-chaos",
+        "plugins": [
+            {
+                "Author": "Nainaiowo",
+                "Name": "Chibi Chaos",
+                "InternalName": "ChibiChaos",
+                "Description": "Scales down Chaos in DMU for visibility.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
+                "LastUpdate": 1781578272
             }
         ]
     },
@@ -12060,7 +12111,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1781521003
+                "LastUpdate": 1781562916
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -12999,7 +13050,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1781534410
+                "LastUpdate": 1781578152
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -13008,7 +13059,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1781394567
+                "LastUpdate": 1781560538
             },
             {
                 "Author": "NightmareXIV",
@@ -13017,7 +13068,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1781540945
+                "LastUpdate": 1781575978
             },
             {
                 "Author": "Team Wrath",
@@ -13755,7 +13806,7 @@
                 "Description": "A clean fight log and custom trigger overlay. Watch every cast and status in real time, then right-click any line to build your own TTS and on-screen callout.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ResFox/YapYap",
-                "LastUpdate": 1781382377
+                "LastUpdate": 1781572487
             }
         ]
     },
@@ -14772,7 +14823,7 @@
                 "Description": "Play nearly any public facing video/image/music URL in game and with friends!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/XivMediaPlayer",
-                "LastUpdate": 1781317253
+                "LastUpdate": 1781571679
             }
         ]
     },
@@ -15021,7 +15072,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1781540945
+                "LastUpdate": 1781575978
             }
         ]
     },
@@ -15666,7 +15717,7 @@
                 "Description": "A standalone customizable HUD with nameplate parity, action camera controls, and backend/profile stability improvements.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SSCthulhu/AetherUI",
-                "LastUpdate": 1781466212
+                "LastUpdate": 1781559882
             }
         ]
     },
@@ -15683,7 +15734,7 @@
                 "Description": "A standalone customizable HUD with nameplate parity, action camera controls, and backend/profile stability improvements.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SSCthulhu/AetherUI",
-                "LastUpdate": 1781466212
+                "LastUpdate": 1781559882
             }
         ]
     },
@@ -17763,7 +17814,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1781551487
+                "LastUpdate": 1781572293
             },
             {
                 "Author": "XeldarAlz",
@@ -17772,7 +17823,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1781551259
+                "LastUpdate": 1781571276
             },
             {
                 "Author": "XeldarAlz",
@@ -17781,7 +17832,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781511581
+                "LastUpdate": 1781573004
             },
             {
                 "Author": "XeldarAlz",
@@ -17790,7 +17841,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1781483528
+                "LastUpdate": 1781570314
             },
             {
                 "Author": "XeldarAlz",
@@ -17799,7 +17850,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1781551438
+                "LastUpdate": 1781572179
             }
         ]
     },
@@ -17816,7 +17867,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1781551487
+                "LastUpdate": 1781572293
             }
         ]
     },
@@ -17833,7 +17884,7 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1781551259
+                "LastUpdate": 1781571276
             }
         ]
     },
@@ -17850,7 +17901,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1781551259
+                "LastUpdate": 1781571276
             }
         ]
     },
@@ -17867,7 +17918,7 @@
                 "Description": "Reads your Doman Mahjong hand and either suggests the best discard or plays the match for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1781483528
+                "LastUpdate": 1781570314
             }
         ]
     },
@@ -17884,7 +17935,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1781551438
+                "LastUpdate": 1781572179
             }
         ]
     },
@@ -17901,7 +17952,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781511581
+                "LastUpdate": 1781573004
             }
         ]
     },
@@ -17918,7 +17969,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1781483528
+                "LastUpdate": 1781570314
             }
         ]
     },
@@ -17935,7 +17986,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1781551438
+                "LastUpdate": 1781572179
             }
         ]
     },
@@ -17952,7 +18003,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1781551438
+                "LastUpdate": 1781572179
             }
         ]
     },
@@ -18257,7 +18308,7 @@
                 "Description": "Reads a MakePlace furnishing list, finds the cheapest market listings across all worlds via Universalis, then automates world-hopping and purchasing via Lifestream.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Yodhrin13/HousingMarketShopper",
-                "LastUpdate": 1781232281
+                "LastUpdate": 1781574989
             }
         ]
     },
@@ -18368,7 +18419,7 @@
                 "Description": "A lightweight dictionary for Japanese raid terminology, Party Finder shorthand, and job abbreviations. Useful for players raiding on Japanese Data Centers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yudistiraen/FFXIV-JP-Dictionary",
-                "LastUpdate": 1781517632
+                "LastUpdate": 1781579673
             }
         ]
     },
@@ -18462,7 +18513,7 @@
                 "Description": "Native DPS Meters for Final Fantasy XIV, still in beta and may be subject to change.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Zeffuro/NativeMeters",
-                "LastUpdate": 1777513910
+                "LastUpdate": 1781563979
             }
         ]
     },
