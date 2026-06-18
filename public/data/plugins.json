@@ -919,25 +919,25 @@
         "repo_name": "SekhmetPlugins",
         "plugins": [
             {
-                "Author": "SekhmetAnkh",
+                "Author": "Ankhito",
                 "Name": "GBR Monster Hunter",
                 "InternalName": "GBRMonsterHunter",
                 "Description": "Listens to GatherBuddy Reborn/Vulcan execution plans, detects missing drop-only materials using Vulcan/GatherBuddy mob-drop locations with local fallbacks, waits for GBR gathering to finish, equips a selected combat job, routes to the hunted monster, supports selectable RotationSolverReborn or WrathCombo combat drivers, and resumes Vulcan automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SekhmetAnkh/GBRMonsterHunter",
-                "LastUpdate": 1781589947
+                "LastUpdate": 1781788608
             },
             {
-                "Author": "SekhmetPlugins",
+                "Author": "Ankhito",
                 "Name": "OpenerPilot",
                 "InternalName": "OpenerPilot",
                 "Description": "Local level 100 opener runner for standard combat jobs, using OpenerPilot opener data while keeping RotationSolverReborn off during execution and handing back afterward.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SekhmetAnkh/OpenerPilot",
-                "LastUpdate": 1781368398
+                "LastUpdate": 1781368477
             },
             {
-                "Author": "SekhmetAnkh",
+                "Author": "Ankhito",
                 "Name": "PositionalPilot",
                 "InternalName": "PositionalPilot",
                 "Description": "Suggests or safely moves toward selected combat-source rear/flank positionals using BossMod safety and vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
@@ -1907,7 +1907,7 @@
                 "Description": "Automates retainer item listing and repricing by cycling through retainers, reading market prices from Universalis, and updating listings safely. Use /repricer or /rr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/baanderson40/Retainer-Repricer",
-                "LastUpdate": 1781707505
+                "LastUpdate": 1781790987
             }
         ]
     },
@@ -2786,7 +2786,7 @@
                 "Description": "Handled with care. Always careful of the impacts our choices make, and how they affect the future ahead of us.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sundouleia/client",
-                "LastUpdate": 1780540314
+                "LastUpdate": 1781798685
             }
         ]
     },
@@ -3541,7 +3541,7 @@
                 "Description": "Records, per character, the Free Company you belong to: name, tag, level, current master, member counts, FC credits, house ownership (district/ward/plot/world), and workshop airships & submersibles with build shorthand. Sortable table with click-to-expand details, a First Registered date, editable founder/house-winner notes, optional shared storage across all clients, and import from AutoRetainer and Submarine Tracker. Open with /fctracker (alias /fct).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/FCTracker",
-                "LastUpdate": 1781758238
+                "LastUpdate": 1781783773
             }
         ]
     },
@@ -3677,7 +3677,7 @@
                 "Description": "改版SkyEye",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Dragonw233/DalamudPlugins",
-                "LastUpdate": 1781600205
+                "LastUpdate": 1781787219
             },
             {
                 "Author": "Uiharu,NiGuangOwO,Tabris",
@@ -3686,7 +3686,7 @@
                 "Description": "基于初春佬的 XTP 项目更新修复版。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Dragonw233/XTeleport",
-                "LastUpdate": 1781588192
+                "LastUpdate": 1781787222
             }
         ]
     },
@@ -4100,7 +4100,7 @@
                 "Description": "Play the Cosmic Predator's Magitek Claw Sweep animation on demand, once or on a loop, while you're riding it. Purely cosmetic and local-only; nothing is sent to the server. Works on both the Cosmic Predator and the standard Magitek Predator. Commands: /clawsweep and /clawsweeploop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Enceladeum/HClawsweep",
-                "LastUpdate": 1781704481
+                "LastUpdate": 1781791177
             },
             {
                 "Author": "The Enceladeum",
@@ -4109,7 +4109,7 @@
                 "Description": "Lists the game's complete named sets and applies a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-                "LastUpdate": 1781704498
+                "LastUpdate": 1781791172
             }
         ]
     },
@@ -4126,7 +4126,7 @@
                 "Description": "Play the Cosmic Predator's Magitek Claw Sweep animation on demand, once or on a loop, while you're riding it. Purely cosmetic and local-only; nothing is sent to the server. Works on both the Cosmic Predator and the standard Magitek Predator. Commands: /clawsweep and /clawsweeploop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Enceladeum/HClawsweep",
-                "LastUpdate": 1781704481
+                "LastUpdate": 1781791177
             }
         ]
     },
@@ -4143,7 +4143,7 @@
                 "Description": "Lists the game's complete named sets and applies a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-                "LastUpdate": 1781704498
+                "LastUpdate": 1781791172
             }
         ]
     },
@@ -5708,7 +5708,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1781387789
+                "LastUpdate": 1781796941
             },
             {
                 "Author": "Haselnussbomber",
@@ -7042,7 +7042,7 @@
                 "Description": "Reads the Doman Mahjong board and recommends each move: discard, calls, riichi, and defense.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Just-Chaldea/Mahjong-Advisor",
-                "LastUpdate": 1781729094
+                "LastUpdate": 1781783482
             },
             {
                 "Author": "Just-Chaldea",
@@ -7208,7 +7208,7 @@
                 "Description": "A toy.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins",
-                "LastUpdate": 1781682381
+                "LastUpdate": 1781794174
             },
             {
                 "Author": "XiYu",
@@ -7217,7 +7217,7 @@
                 "Description": "A plugin that allows you to draw ring and line on player or target.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins",
-                "LastUpdate": 1781682381
+                "LastUpdate": 1781794174
             },
             {
                 "Author": "Karlin",
@@ -7226,7 +7226,7 @@
                 "Description": "A plugin that allows you to select the enemy with the lowest currentHp in your range.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins",
-                "LastUpdate": 1781682381
+                "LastUpdate": 1781794174
             }
         ]
     },
@@ -7503,7 +7503,7 @@
                 "Description": "Be a puppet like you always wished for",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kharand/Chatmote",
-                "LastUpdate": 1781641067
+                "LastUpdate": 1781804674
             }
         ]
     },
@@ -7883,7 +7883,7 @@
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1781781954
+                "LastUpdate": 1781795191
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -8087,7 +8087,7 @@
                 "Description": "Reads chat messages, detects /random rolls, shows all rolls plus highest and lowest roll in a small ImGui window. Commands: /rolltracker, /rt.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/la1998/RollTracker",
-                "LastUpdate": 1780340859
+                "LastUpdate": 1781792765
             }
         ]
     },
@@ -8468,7 +8468,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1781619729
+                "LastUpdate": 1781789383
             }
         ]
     },
@@ -9095,6 +9095,23 @@
         ]
     },
     {
+        "repo_developer_name": "mapleterra",
+        "repo_url": "https://raw.githubusercontent.com/mapleterra/Gumpon-Machine/main/repo.json",
+        "repo_source_url": "https://github.com/mapleterra/Gumpon-Machine",
+        "repo_name": "Gumpon-Machine",
+        "plugins": [
+            {
+                "Author": "mapleterra",
+                "Name": "Gachapon Machine",
+                "InternalName": "GachaPlugin",
+                "Description": "A gachapon gambling minigame. Type /gachapon to open the machine, then roll /random 20 three times — the sum of your rolls (3-60) decides your prize tier, from Common all the way up to the JACKPOT.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/mapleterra/Gumpon-Machine",
+                "LastUpdate": 1781804211
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Mara-Dawn/MyDalamudPlugins/raw/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Mara-Dawn/MyDalamudPlugins",
         "repo_name": "MyDalamudPlugins",
@@ -9287,7 +9304,7 @@
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1781456915
+                "LastUpdate": 1781795897
             }
         ]
     },
@@ -9372,7 +9389,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1781731418
+                "LastUpdate": 1781795931
             }
         ]
     },
@@ -9520,7 +9537,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1781731418
+                "LastUpdate": 1781795931
             },
             {
                 "Author": "DhogGPT",
@@ -9907,7 +9924,7 @@
                 "Description": "Animates Customize+ bone scales from your current profile values toward a configurable target. Use /bodyflux to open the control window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/miragiumxiv/BodyFlux",
-                "LastUpdate": 1781734773
+                "LastUpdate": 1781802287
             }
         ]
     },
@@ -10008,7 +10025,7 @@
                 "Description": "Observes Party Finder listings, filters for qualifying MINE raid listings, and sends sanitized observations to the official PFBeacon service. Does not send PF descriptions, player names, recruiter names, worlds, or Discord routing data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Miu-B/PFBeaconPlugin",
-                "LastUpdate": 1781728973
+                "LastUpdate": 1781785738
             }
         ]
     },
@@ -10658,7 +10675,7 @@
                 "Description": "Ice's Cosmic Exploration 中文汉化版（AI 翻译）。A little helper to go gather your heart out.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nasens/Ices-Cosmic-Exploration",
-                "LastUpdate": 1781410239
+                "LastUpdate": 1781795364
             }
         ]
     },
@@ -11371,7 +11388,7 @@
                 "Description": "Nope.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/MechanicSim",
-                "LastUpdate": 1781526538
+                "LastUpdate": 1781796307
             },
             {
                 "Author": "Small_Miao",
@@ -12123,12 +12140,12 @@
         "plugins": [
             {
                 "Author": "OOFGames",
-                "Name": "Chocobo Racing Gamba",
+                "Name": "Chocobo Racing",
                 "InternalName": "ChocoboRacingGamba",
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1781622014
+                "LastUpdate": 1781804908
             },
             {
                 "Author": "OOFGames",
@@ -12137,7 +12154,7 @@
                 "Description": "Browse active gambling events across Eorzea or host your own session. Use /gambawhere to open the interface.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1781622010
+                "LastUpdate": 1781798923
             },
             {
                 "Author": "OOFGames",
@@ -13267,7 +13284,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1781781954
+                "LastUpdate": 1781795191
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -13285,7 +13302,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1781725155
+                "LastUpdate": 1781799154
             },
             {
                 "Author": "Team Wrath",
@@ -15053,25 +15070,25 @@
         "repo_name": "SekhmetPlugins",
         "plugins": [
             {
-                "Author": "SekhmetAnkh",
+                "Author": "Ankhito",
                 "Name": "GBR Monster Hunter",
                 "InternalName": "GBRMonsterHunter",
                 "Description": "Listens to GatherBuddy Reborn/Vulcan execution plans, detects missing drop-only materials using Vulcan/GatherBuddy mob-drop locations with local fallbacks, waits for GBR gathering to finish, equips a selected combat job, routes to the hunted monster, supports selectable RotationSolverReborn or WrathCombo combat drivers, and resumes Vulcan automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SekhmetAnkh/GBRMonsterHunter",
-                "LastUpdate": 1781589947
+                "LastUpdate": 1781788608
             },
             {
-                "Author": "SekhmetPlugins",
+                "Author": "Ankhito",
                 "Name": "OpenerPilot",
                 "InternalName": "OpenerPilot",
                 "Description": "Local level 100 opener runner for standard combat jobs, using OpenerPilot opener data while keeping RotationSolverReborn off during execution and handing back afterward.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SekhmetAnkh/OpenerPilot",
-                "LastUpdate": 1781368398
+                "LastUpdate": 1781368477
             },
             {
-                "Author": "SekhmetAnkh",
+                "Author": "Ankhito",
                 "Name": "PositionalPilot",
                 "InternalName": "PositionalPilot",
                 "Description": "Suggests or safely moves toward selected combat-source rear/flank positionals using BossMod safety and vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
@@ -15291,7 +15308,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1781725155
+                "LastUpdate": 1781799154
             }
         ]
     },
@@ -15488,7 +15505,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1781349368
+                "LastUpdate": 1781801100
             },
             {
                 "Author": "XSZYYS",
@@ -15497,7 +15514,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1781349368,
+                "LastUpdate": 1781801100,
                 "is_closed_source": true
             }
         ]
@@ -16739,7 +16756,7 @@
                 "Description": "Adds radial and axial stick input remapping with dead zone, max zone, anti-dead zone, and a compact live configuration UI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/tokataka/dalamud-controller-deadzone-plugin",
-                "LastUpdate": 1781772882
+                "LastUpdate": 1781790541
             }
         ]
     },
@@ -17040,7 +17057,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1781728839
+                "LastUpdate": 1781798542
             }
         ]
     },
@@ -18102,7 +18119,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781769432
+                "LastUpdate": 1781789043
             },
             {
                 "Author": "XeldarAlz",
@@ -18120,7 +18137,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1781768946
+                "LastUpdate": 1781788633
             }
         ]
     },
@@ -18205,7 +18222,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1781768946
+                "LastUpdate": 1781788633
             }
         ]
     },
@@ -18222,7 +18239,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781769432
+                "LastUpdate": 1781789043
             }
         ]
     },
@@ -18256,7 +18273,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1781768946
+                "LastUpdate": 1781788633
             }
         ]
     },
@@ -18273,7 +18290,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1781768946
+                "LastUpdate": 1781788633
             }
         ]
     },
