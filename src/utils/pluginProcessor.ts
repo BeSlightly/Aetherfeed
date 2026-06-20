@@ -6,6 +6,7 @@ export interface ProcessedPlugin extends Plugin {
     plugin_last_updated_max_ts: number;
     is_closed_source?: boolean;
     isPunish?: boolean;
+    isAetherTek?: boolean;
     discordUrl?: string;
     _apiLevel?: number;
     _maxApiLevel?: number;
@@ -33,6 +34,11 @@ const isPunishRepo = (url: string) => {
         url.startsWith("https://puni.sh/api/repository/") ||
         url.startsWith("https://love.puni.sh/")
     );
+};
+
+const isAetherTekRepo = (url: string) => {
+    if (!url) return false;
+    return url === "https://aethertek.io" || url.startsWith("https://aethertek.io/");
 };
 
 export const normalizeForSearch = (text: string): string => {
@@ -209,6 +215,7 @@ function createFinalPluginObject(occurrence: IntermediatePluginOccurrence): Proc
 
     // 1. Check for Punish
     finalPlugin.isPunish = isPunishRepo(repoUrl);
+    finalPlugin.isAetherTek = isAetherTekRepo(repoUrl);
 
     // 2. Assign Discord URL
     if (finalPlugin.isPunish) {
@@ -222,7 +229,11 @@ function createFinalPluginObject(occurrence: IntermediatePluginOccurrence): Proc
         internalName: normalizeForSearch(finalPlugin.InternalName),
         description: normalizeForSearch(finalPlugin.Description),
         author: normalizeForSearch(finalPlugin.Author),
-        repo: normalizeForSearch(finalPlugin._repo.repo_name + (finalPlugin.isPunish ? " punish puni.sh" : ""))
+        repo: normalizeForSearch(
+            finalPlugin._repo.repo_name +
+            (finalPlugin.isPunish ? " punish puni.sh" : "") +
+            (finalPlugin.isAetherTek ? " aethertek aethertek.io" : "")
+        )
     };
 
     return finalPlugin;
