@@ -384,7 +384,7 @@
                 "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /al opens the phone.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-                "LastUpdate": 1781900395
+                "LastUpdate": 1781957863
             }
         ]
     },
@@ -956,12 +956,21 @@
         "plugins": [
             {
                 "Author": "altan",
+                "Name": "P4 Helper",
+                "InternalName": "P4Helper",
+                "Description": "A toggleable helper to track real/fake debuffs for the monkes.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/altaint/P4Helper",
+                "LastUpdate": 1781942899
+            },
+            {
+                "Author": "altan",
                 "Name": "Threshold Checker",
                 "InternalName": "ThresholdChecker",
                 "Description": "Simple tool to check boss health when sandbagging.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/altaint/MyDalamudPlugins",
-                "LastUpdate": 1781942199
+                "LastUpdate": 1781943575
             }
         ]
     },
@@ -3938,7 +3947,7 @@
                 "Description": "Provides TTS or custom sound file callouts for Nael deus Darnus quotes in UCOB. Also supports custom chat triggers with personalized TTS responses or sound files for any content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Dregan234/AetherVoice",
-                "LastUpdate": 1777527187
+                "LastUpdate": 1781962107
             }
         ]
     },
@@ -5277,15 +5286,6 @@
         "repo_name": "ffxivrepo",
         "plugins": [
             {
-                "Author": "fuzzycore",
-                "Name": "BTS (PVP Changes)",
-                "InternalName": "BetterTargetingSystem",
-                "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/fuzzycore/ffxivrepo",
-                "LastUpdate": 1779680449
-            },
-            {
                 "Author": "FuzzyCore",
                 "Name": "EorzeaLink",
                 "InternalName": "EorzeaLink",
@@ -5293,6 +5293,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FuzzyCore/EorzeaLink",
                 "LastUpdate": 1779694670
+            },
+            {
+                "Author": "fuzzycore",
+                "Name": "GODLIKE",
+                "InternalName": "Godlike",
+                "Description": "Pops escalating arena-announcer callouts (KILL, DOUBLE KILL, MONSTER KILL ... all the way to absurd 30+ tiers) with baked-in voice lines as your PvP kill streak climbs. Kills are read straight from the game's own death messages, so you get credit for the killing blow exactly like the scoreboard.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/fuzzycore/ffxivrepo",
+                "LastUpdate": 1781943953
             }
         ]
     },
@@ -6316,32 +6325,6 @@
     },
     {
         "repo_developer_name": "ijnokmsc",
-        "repo_url": "https://raw.githubusercontent.com/ijnokmsc/CraftFlow/main/repo.json",
-        "repo_source_url": "https://github.com/ijnokmsc/CraftFlow",
-        "repo_name": "CraftFlow",
-        "plugins": [
-            {
-                "Author": "zhaoy",
-                "Name": "CraftFlow",
-                "InternalName": "CraftFlow",
-                "Description": "FF14生产辅助插件：BOM递归展开/采集推送至GatherBuddyReborn/一键Artisan制作/工票计算。支持装备、食物、药品、收藏品。使用 /craftflow 打开。",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/ijnokmsc/CraftFlow",
-                "LastUpdate": 1781942232
-            },
-            {
-                "Author": "zhaoy",
-                "Name": "SilverDasher",
-                "InternalName": "SilverDasher",
-                "Description": "FF14跨服猎怪+FATE播报插件，照搬ACT版SilverDasher核心功能。支持MQTT跨服消息订阅、TTS语音播报、游戏原生Toast通知。使用 /sd 打开设置窗口。",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/ijnokmsc/SilverDasher",
-                "LastUpdate": 1781704641
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "ijnokmsc",
         "repo_url": "https://raw.githubusercontent.com/ijnokmsc/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/ijnokmsc/DalamudPlugins",
         "repo_name": "DalamudPlugins",
@@ -6353,7 +6336,7 @@
                 "Description": "FF14生产辅助插件，提供核心功能：(1) BOM递归展开——输入目标装备/食物/收藏品，自动递归分解全部中间材料，生成完整材料清单；(2) 采集推送——一键将待采集材料列表推送至GatherBuddyReborn，快速定位采集点；(3) 一键制作——调用Artisan插件自动制作，独立进度窗口实时显示。使用 /cf 或 /craftflow 打开主窗口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ijnokmsc/CraftFlow",
-                "LastUpdate": 1781942232
+                "LastUpdate": 1781943765
             },
             {
                 "Author": "FateWhisper Team (based on SilverDasher)",
@@ -6446,7 +6429,7 @@
                 "Description": "Dalashade generates a separate ReShade preset from your base preset, then nudges known shader values using territory, weather, time, combat, cutscenes, and optional screenshot analysis. Use /dalashade to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ImperfectRain/Dalashade",
-                "LastUpdate": 1781903587
+                "LastUpdate": 1781945432
             }
         ]
     },
@@ -6738,7 +6721,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1781203045
+                "LastUpdate": 1781947530
             },
             {
                 "Author": "croizat",
@@ -7174,7 +7157,7 @@
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/SkyrimCompass",
-                "LastUpdate": 1781912170
+                "LastUpdate": 1781950988
             }
         ]
     },
@@ -8086,7 +8069,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-                "LastUpdate": 1781203045
+                "LastUpdate": 1781947530
             },
             {
                 "Author": "veyn, xan_0",
@@ -8131,7 +8114,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1781937473
+                "LastUpdate": 1781958573
             }
         ]
     },
@@ -9156,7 +9139,7 @@
                 "Description": "NOT THE OFFICIAL REPO, SWITCH BACK TO IT ASAP IF YOU DONT KNOW WHY YOURE HERE",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/lumxiv/Dalamud-VFXEditor",
-                "LastUpdate": 1781300174
+                "LastUpdate": 1781954862
             }
         ]
     },
@@ -9190,7 +9173,7 @@
                 "Description": "它能幫你自動釣魚, 你信嗎?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1781942558
+                "LastUpdate": 1781949576
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -10145,7 +10128,7 @@
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1781597426
+                "LastUpdate": 1781959214
             },
             {
                 "Author": "Miruku",
@@ -10154,7 +10137,7 @@
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1781597426
+                "LastUpdate": 1781959214
             }
         ]
     },
@@ -10636,7 +10619,7 @@
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1781923035
+                "LastUpdate": 1781956320
             },
             {
                 "Author": "Nainaiowo",
@@ -10645,7 +10628,7 @@
                 "Description": "Scales down Chaos in DMU for visibility.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
-                "LastUpdate": 1781907898
+                "LastUpdate": 1781955666
             },
             {
                 "Author": "Nainaiowo",
@@ -12270,6 +12253,22 @@
         ]
     },
     {
+        "repo_developer_name": "OLDBAI213",
+        "repo_url": "https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json",
+        "repo_source_url": "https://github.com/OLDBAI213/OLDBAI",
+        "repo_name": "OLDBAI",
+        "plugins": [
+            {
+                "Author": "Ice, QiongHHHZZZ(汉化&适配), Codex(协助维护)",
+                "Name": "宇宙探索助手",
+                "InternalName": "ICE",
+                "Description": "宇宙探索相关制作、采集、任务路线和模式辅助。",
+                "RepoUrl": "https://github.com/OLDBAI213/OLDBAI",
+                "LastUpdate": 1781965646
+            }
+        ]
+    },
+    {
         "repo_developer_name": "OmegaJackie",
         "repo_url": "https://raw.githubusercontent.com/OmegaJackie/CineSync/main/repo.json",
         "repo_source_url": "https://github.com/OmegaJackie/CineSync",
@@ -13186,7 +13185,7 @@
                 "Description": "A multifaceted scene editor and posing tool for GPose. Pyon version includes several additional features which you can view on the repo page.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/KtisisPyon.zip",
-                "LastUpdate": 1777582355,
+                "LastUpdate": 1781955534,
                 "is_closed_source": true
             },
             {
@@ -13206,7 +13205,7 @@
                 "Description": "Configure presets for custom camera properties & features a freecam mode. Based on Cammy but with a simplified UI & various bug fixes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/priprii/FFXIVPlugins/blob/main/bin/PyonCam.zip",
-                "LastUpdate": 1777751302,
+                "LastUpdate": 1781955534,
                 "is_closed_source": true
             },
             {
@@ -13384,7 +13383,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1781942558
+                "LastUpdate": 1781949576
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -13482,7 +13481,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1781937473
+                "LastUpdate": 1781958573
             },
             {
                 "Author": "daemitus, kawaii",
@@ -13619,7 +13618,7 @@
                 "Description": "ExtraChat 添加端到端加密、跨数据中心、不限成员数量的额外聊天频道到游戏中。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/ChatExtra",
-                "LastUpdate": 1781942788
+                "LastUpdate": 1781955180
             },
             {
                 "Author": "NightmareXIV, QianChangUwU",
@@ -15265,7 +15264,7 @@
                 "Description": "Play nearly any public facing video/image/music URL in game and with friends!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/XivMediaPlayer",
-                "LastUpdate": 1781934122
+                "LastUpdate": 1781965236
             }
         ]
     },
@@ -16158,6 +16157,22 @@
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/SubPlay/GatherBuddyRebornFixesRelease",
                 "LastUpdate": 1742462281
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "sucying",
+        "repo_url": "https://raw.githubusercontent.com/sucying/LastFmHonorific/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/sucying/LastFmHonorific",
+        "repo_name": "LastFmHonorific",
+        "plugins": [
+            {
+                "Author": "Sucy",
+                "Name": "LastFmHonorific",
+                "InternalName": "LastFmHonorific",
+                "Description": "Update honorific title based on your currently playing Last.fm track (works with anything that scrobbles, e.g. YouTube Music, Spotify, foobar2000). Adapted from SpotifyHonorific by Valiice (AGPL-3.0).",
+                "RepoUrl": "https://github.com/sucying/LastFmHonorific",
+                "LastUpdate": 1781965921
             }
         ]
     },
@@ -17673,7 +17688,7 @@
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1781917642
+                "LastUpdate": 1781950629
             }
         ]
     },
@@ -18102,7 +18117,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1781940466
+                "LastUpdate": 1781959453
             },
             {
                 "Author": "XeldarAlz",
@@ -18111,7 +18126,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1781874929
+                "LastUpdate": 1781959060
             },
             {
                 "Author": "XeldarAlz",
@@ -18120,7 +18135,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781940760
+                "LastUpdate": 1781959742
             },
             {
                 "Author": "XeldarAlz",
@@ -18138,7 +18153,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1781940411
+                "LastUpdate": 1781959391
             }
         ]
     },
@@ -18155,7 +18170,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1781940466
+                "LastUpdate": 1781959453
             }
         ]
     },
@@ -18172,7 +18187,7 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1781874929
+                "LastUpdate": 1781959060
             }
         ]
     },
@@ -18206,7 +18221,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1781940411
+                "LastUpdate": 1781959391
             }
         ]
     },
@@ -18223,7 +18238,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781940760
+                "LastUpdate": 1781959742
             }
         ]
     },
@@ -18240,7 +18255,7 @@
                 "Description": "Tired of manually babysitting your BossMod settings mid-fight? XCAI handles your positioning, distances, and Ley Lines automatically so you can focus on not dying. Results may vary on the not dying part.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsCombatAI",
-                "LastUpdate": 1781891382
+                "LastUpdate": 1781961628
             },
             {
                 "Author": "Xeltor / XelsPlugins, originally by Blackcatz1911",
@@ -18767,7 +18782,7 @@
                 "Description": "RPFramework provides roleplay helpers including a custom item inventory (/rpinv or /rpinventory), a synced BGM player (/rpbgm), inventory trading and shared bags over a relay server, and more modules coming soon.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ZeroTheScyther/RPFramework",
-                "LastUpdate": 1781295039
+                "LastUpdate": 1781963604
             }
         ]
     },
