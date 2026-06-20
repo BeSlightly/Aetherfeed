@@ -372,6 +372,23 @@
         ]
     },
     {
+        "repo_url": "https://puni.sh/api/repository/aetherlove",
+        "repo_source_url": "https://github.com/FFXIV-Aetherlove",
+        "repo_developer_name": "aetherlove",
+        "repo_name": "aetherlove",
+        "plugins": [
+            {
+                "Author": "Astraea, nihal_shadescale",
+                "Name": "AetherLove",
+                "InternalName": "AetherLovePlugin",
+                "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /al opens the phone.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
+                "LastUpdate": 1781900395
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/aetherremote/AetherRemote/raw/main/repo.json",
         "repo_source_url": "https://github.com/aetherremote/AetherRemote",
         "repo_name": "AetherRemote",
@@ -394,6 +411,7 @@
         "repo_name": "AetherTek",
         "repo_developer_name": "AetherTek",
         "is_allowed_mega_repo": true,
+        "repo_discord_url": "https://discord.gg/g2NmYxPQCa",
         "plugins": [
             {
                 "Author": "DhogGPT",
@@ -402,7 +420,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1781749504
+                "LastUpdate": 1781927604
             },
             {
                 "Author": "DhogGPT",
@@ -519,7 +537,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, reading local map flags, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1781903950
+                "LastUpdate": 1781927588
             },
             {
                 "Author": "DhogGPT",
@@ -943,7 +961,7 @@
                 "Description": "Simple tool to check boss health when sandbagging.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/altaint/MyDalamudPlugins",
-                "LastUpdate": 1778358570
+                "LastUpdate": 1781942199
             }
         ]
     },
@@ -1123,7 +1141,7 @@
                 "Description": "Standalone monster-drop hunting and routing using local LuminaSupplemental data, manual hunt lists, vnavmesh navigation, mount support, and configurable combat handoff.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ankhito/Huntsman",
-                "LastUpdate": 1781862271
+                "LastUpdate": 1781941230
             },
             {
                 "Author": "Ankhito",
@@ -1726,7 +1744,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1781889640,
+                "LastUpdate": 1781940669,
                 "is_closed_source": true
             },
             {
@@ -1736,7 +1754,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1781889640,
+                "LastUpdate": 1781940669,
                 "is_closed_source": true
             },
             {
@@ -1746,7 +1764,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1781889640,
+                "LastUpdate": 1781940669,
                 "is_closed_source": true
             },
             {
@@ -1756,7 +1774,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1781889640,
+                "LastUpdate": 1781940669,
                 "is_closed_source": true
             },
             {
@@ -2878,6 +2896,23 @@
         ]
     },
     {
+        "repo_url": "https://puni.sh/api/repository/chika",
+        "repo_source_url": "https://github.com/Deckerz",
+        "repo_developer_name": "chika",
+        "repo_name": "chika",
+        "plugins": [
+            {
+                "Author": "chika",
+                "Name": "XIV Remote Chat",
+                "InternalName": "XIVRemoteChat",
+                "Description": "Allows you to control any instance of FF connected to chat or send commands.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Deckerz/xiv-remote-chat",
+                "LastUpdate": 1781862294
+            }
+        ]
+    },
+    {
         "repo_developer_name": "chirpxiv",
         "repo_url": "https://raw.githubusercontent.com/chirpxiv/GoodOmen/main/repo.json",
         "repo_source_url": "https://github.com/chirpxiv/GoodOmen",
@@ -3723,7 +3758,7 @@
                 "Description": "An all-in-one venue host toolkit: Venue Counter, Raffle Helper, Auction Helper, and Giveaway Helper. Open with /venuehelper (aliases /vhelp, /vh). Exports to TXT, CSV, PDF, or XLSX.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/VenueHelper",
-                "LastUpdate": 1781687110
+                "LastUpdate": 1781932880
             }
         ]
     },
@@ -6292,7 +6327,7 @@
                 "Description": "FF14生产辅助插件：BOM递归展开/采集推送至GatherBuddyReborn/一键Artisan制作/工票计算。支持装备、食物、药品、收藏品。使用 /craftflow 打开。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ijnokmsc/CraftFlow",
-                "LastUpdate": 1781828612
+                "LastUpdate": 1781942232
             },
             {
                 "Author": "zhaoy",
@@ -6302,6 +6337,49 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ijnokmsc/SilverDasher",
                 "LastUpdate": 1781704641
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ijnokmsc",
+        "repo_url": "https://raw.githubusercontent.com/ijnokmsc/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/ijnokmsc/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "CraftFlow Team",
+                "Name": "CraftFlow",
+                "InternalName": "CraftFlow",
+                "Description": "FF14生产辅助插件，提供核心功能：(1) BOM递归展开——输入目标装备/食物/收藏品，自动递归分解全部中间材料，生成完整材料清单；(2) 采集推送——一键将待采集材料列表推送至GatherBuddyReborn，快速定位采集点；(3) 一键制作——调用Artisan插件自动制作，独立进度窗口实时显示。使用 /cf 或 /craftflow 打开主窗口。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ijnokmsc/CraftFlow",
+                "LastUpdate": 1781942232
+            },
+            {
+                "Author": "FateWhisper Team (based on SilverDasher)",
+                "Name": "FateWhisper",
+                "InternalName": "FateWhisper",
+                "Description": "FF14 跨服猎怪与 FATE 播报插件。消息来源：SilverDasher（ACT 版）MQTT 网络。支持 MQTT 跨服消息订阅、TTS 语音播报、游戏原生 Toast 通知。使用 /fw 或 /fatewhisper 打开。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ijnokmsc/FateWhisper",
+                "LastUpdate": 1781942242
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ijnokmsc",
+        "repo_url": "https://raw.githubusercontent.com/ijnokmsc/FateWhisper/main/repo.json",
+        "repo_source_url": "https://github.com/ijnokmsc/FateWhisper",
+        "repo_name": "FateWhisper",
+        "plugins": [
+            {
+                "Author": "FateWhisper Team (based on SilverDasher)",
+                "Name": "FateWhisper",
+                "InternalName": "FateWhisper",
+                "Description": "FF14 跨服猎怪与FATE播报插件。消息来源：SilverDasher（ACT版）MQTT网络。支持MQTT跨服消息订阅、TTS语音播报、游戏原生Toast通知。使用 /fw 打开。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/FateWhisper/FateWhisper",
+                "LastUpdate": 1781938979
             }
         ]
     },
@@ -7232,6 +7310,23 @@
         ]
     },
     {
+        "repo_url": "https://puni.sh/api/repository/kage",
+        "repo_source_url": "https://github.com/Kagekazu",
+        "repo_developer_name": "kage",
+        "repo_name": "kage",
+        "plugins": [
+            {
+                "Author": "Kage",
+                "Name": "QuickTransfer",
+                "InternalName": "QuickTransfer",
+                "Description": "Automate inventory transfers with Shift/Ctrl/Alt + Right-Click. Trade window, vendor quick sell, FC chest.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
+                "LastUpdate": 1781259448
+            }
+        ]
+    },
+    {
         "repo_developer_name": "kako5555",
         "repo_url": "https://raw.githubusercontent.com/kako5555/5555-plugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/kako5555/5555-plugins",
@@ -8018,7 +8113,7 @@
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1781916807
+                "LastUpdate": 1781935806
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -8036,7 +8131,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1781819434
+                "LastUpdate": 1781937473
             }
         ]
     },
@@ -8863,6 +8958,23 @@
         ]
     },
     {
+        "repo_developer_name": "Liminal-Plugins",
+        "repo_url": "https://raw.githubusercontent.com/Liminal-Plugins/CPOSER-Releases/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Liminal-Plugins/CPOSER-Releases",
+        "repo_name": "CPOSER-Releases",
+        "plugins": [
+            {
+                "Author": "Liminal",
+                "Name": "CPOSER",
+                "InternalName": "CPOSER",
+                "Description": "CPOSER automatically switches to the idle pose linked to your active Glamourer design.\n\nCommand: /cposer",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Liminal-Plugins/CPOSER-Releases",
+                "LastUpdate": 1781925899
+            }
+        ]
+    },
+    {
         "repo_developer_name": "LintoWilr",
         "repo_url": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/repo.json",
         "repo_source_url": "https://github.com/LintoWilr/My-Plugins",
@@ -9078,7 +9190,7 @@
                 "Description": "它能幫你自動釣魚, 你信嗎?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1781849530
+                "LastUpdate": 1781942558
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -9422,7 +9534,7 @@
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1781749504
+                "LastUpdate": 1781927604
             }
         ]
     },
@@ -9473,7 +9585,7 @@
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1781903959
+                "LastUpdate": 1781927606
             }
         ]
     },
@@ -9626,7 +9738,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1781903950
+                "LastUpdate": 1781927588
             }
         ]
     },
@@ -9733,7 +9845,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1781903950
+                "LastUpdate": 1781927588
             },
             {
                 "Author": "DhogGPT",
@@ -10524,7 +10636,7 @@
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1781917949
+                "LastUpdate": 1781923035
             },
             {
                 "Author": "Nainaiowo",
@@ -10534,6 +10646,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
                 "LastUpdate": 1781907898
+            },
+            {
+                "Author": "Nainaiowo",
+                "Name": "Debugger Logger",
+                "InternalName": "DebuggerLogger",
+                "Description": "Stores structured log-message, action-effect, and party snapshot data locally for combat debugging.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nainaiowo/debugger-logger",
+                "LastUpdate": 1781927715
             },
             {
                 "Author": "Nainaiowo",
@@ -10783,7 +10904,7 @@
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1781906310
+                "LastUpdate": 1781933523
             }
         ]
     },
@@ -10934,6 +11055,32 @@
         ]
     },
     {
+        "repo_url": "https://puni.sh/api/repository/nexai",
+        "repo_source_url": "https://github.com/Nexaii",
+        "repo_developer_name": "Nexaii",
+        "repo_name": "nexai",
+        "plugins": [
+            {
+                "Author": "Nexai",
+                "Name": "FCCH",
+                "InternalName": "FCCH",
+                "Description": "Free Company Chest Helper. Automate deposits, withdrawals, organization, crystals, workshop project pulls, and custom item lists.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nexaii/FCCH",
+                "LastUpdate": 1780637187
+            },
+            {
+                "Author": "Nexai",
+                "Name": "Mogmail",
+                "InternalName": "Mogmail",
+                "Description": "A better mail service. Bulk attachment claiming, bulk delete, and inventory pop.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nexaii/Mogmail",
+                "LastUpdate": 1780637253
+            }
+        ]
+    },
+    {
         "repo_developer_name": "NexusFFXIV",
         "repo_url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/pluginmaster.json",
         "repo_source_url": "https://github.com/NexusFFXIV/DalamudRepo",
@@ -10963,7 +11110,7 @@
                 "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1781837154
+                "LastUpdate": 1781921147
             },
             {
                 "Author": "goat, Maple",
@@ -10972,7 +11119,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1781844363
+                "LastUpdate": 1781928001
             }
         ]
     },
@@ -11755,7 +11902,7 @@
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1781918579
+                "LastUpdate": 1781926510
             }
         ]
     },
@@ -12136,6 +12283,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OmegaJackie/CineSync",
                 "LastUpdate": 1780474723
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/oof-games",
+        "repo_source_url": "https://github.com/OOFGamesss",
+        "repo_developer_name": "OOF Games",
+        "repo_name": "oof-games",
+        "plugins": [
+            {
+                "Author": "OOF Games",
+                "Name": "Chocobo Racing",
+                "InternalName": "ChocoboRacingGamba",
+                "Description": "Host live Chocobo Racing events at your venue with zero manual bookkeeping. Bets are captured from party and alliance chat automatically, player banks track every balance, and payouts are calculated at the click of a button. Run 2-10 chocobos with custom track lengths, odds, and branded chat messages. Full race history and profit/loss reporting included.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/OOFGamesss/ChocoboRacing",
+                "LastUpdate": 1781802489
             }
         ]
     },
@@ -13220,7 +13384,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1781849530
+                "LastUpdate": 1781942558
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -13291,7 +13455,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1781916807
+                "LastUpdate": 1781935806
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -13309,7 +13473,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1781886048
+                "LastUpdate": 1781925870
             },
             {
                 "Author": "Team Wrath",
@@ -13318,7 +13482,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1781819434
+                "LastUpdate": 1781937473
             },
             {
                 "Author": "daemitus, kawaii",
@@ -13455,7 +13619,7 @@
                 "Description": "ExtraChat 添加端到端加密、跨数据中心、不限成员数量的额外聊天频道到游戏中。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/ChatExtra",
-                "LastUpdate": 1781919772
+                "LastUpdate": 1781942788
             },
             {
                 "Author": "NightmareXIV, QianChangUwU",
@@ -13763,7 +13927,7 @@
                 "Description": "Adds a window with an async-searchable list of all mobs and their known locations, using community data. Use /bbuddy to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rail2025/BeastieBuddy",
-                "LastUpdate": 1778633154
+                "LastUpdate": 1781924521
             }
         ]
     },
@@ -14083,7 +14247,7 @@
                 "Description": "A clean fight log and custom trigger overlay. Watch every cast and status in real time, then right-click any line to build your own TTS and on-screen callout.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ResFox/YapYap",
-                "LastUpdate": 1781647873
+                "LastUpdate": 1781920811
             }
         ]
     },
@@ -15101,7 +15265,7 @@
                 "Description": "Play nearly any public facing video/image/music URL in game and with friends!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/XivMediaPlayer",
-                "LastUpdate": 1781838411
+                "LastUpdate": 1781934122
             }
         ]
     },
@@ -15247,7 +15411,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1781886048
+                "LastUpdate": 1781925870
             }
         ]
     },
@@ -15444,7 +15608,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1781894693
+                "LastUpdate": 1781939151
             },
             {
                 "Author": "XSZYYS",
@@ -15453,7 +15617,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1781894693,
+                "LastUpdate": 1781939151,
                 "is_closed_source": true
             }
         ]
@@ -16131,7 +16295,7 @@
                 "Description": "Plugin to help turning mit sheets into callouts, with fight timelines and auto syncing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/swixum/FrenMits",
-                "LastUpdate": 1781850588
+                "LastUpdate": 1781933542
             }
         ]
     },
@@ -16906,144 +17070,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/aetherlove",
-        "repo_source_url": "https://github.com/FFXIV-Aetherlove",
-        "repo_developer_name": "Unknown Developer",
-        "repo_name": "aetherlove",
-        "plugins": [
-            {
-                "Author": "Astraea, nihal_shadescale",
-                "Name": "AetherLove",
-                "InternalName": "AetherLovePlugin",
-                "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /al opens the phone.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-                "LastUpdate": 1781900395
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/chika",
-        "repo_source_url": "https://github.com/Deckerz",
-        "repo_developer_name": "Unknown Developer",
-        "repo_name": "chika",
-        "plugins": [
-            {
-                "Author": "chika",
-                "Name": "XIV Remote Chat",
-                "InternalName": "XIVRemoteChat",
-                "Description": "Allows you to control any instance of FF connected to chat or send commands.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Deckerz/xiv-remote-chat",
-                "LastUpdate": 1781862294
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/kage",
-        "repo_source_url": "https://github.com/Kagekazu",
-        "repo_developer_name": "Unknown Developer",
-        "repo_name": "kage",
-        "plugins": [
-            {
-                "Author": "Kage",
-                "Name": "QuickTransfer",
-                "InternalName": "QuickTransfer",
-                "Description": "Automate inventory transfers with Shift/Ctrl/Alt + Right-Click. Trade window, vendor quick sell, FC chest.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
-                "LastUpdate": 1781259448
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/nexai",
-        "repo_source_url": "https://github.com/Nexaii",
-        "repo_developer_name": "Unknown Developer",
-        "repo_name": "nexai",
-        "plugins": [
-            {
-                "Author": "Nexai",
-                "Name": "FCCH",
-                "InternalName": "FCCH",
-                "Description": "Free Company Chest Helper. Automate deposits, withdrawals, organization, crystals, workshop project pulls, and custom item lists.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1780637187
-            },
-            {
-                "Author": "Nexai",
-                "Name": "Mogmail",
-                "InternalName": "Mogmail",
-                "Description": "A better mail service. Bulk attachment claiming, bulk delete, and inventory pop.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Nexaii/Mogmail",
-                "LastUpdate": 1780637253
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/oof-games",
-        "repo_source_url": "https://github.com/OOFGamesss",
-        "repo_developer_name": "Unknown Developer",
-        "repo_name": "oof-games",
-        "plugins": [
-            {
-                "Author": "OOF Games",
-                "Name": "Chocobo Racing",
-                "InternalName": "ChocoboRacingGamba",
-                "Description": "Host live Chocobo Racing events at your venue with zero manual bookkeeping. Bets are captured from party and alliance chat automatically, player banks track every balance, and payouts are calculated at the click of a button. Run 2-10 chocobos with custom track lengths, odds, and branded chat messages. Full race history and profit/loss reporting included.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/OOFGamesss/ChocoboRacing",
-                "LastUpdate": 1781802489
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/vali",
-        "repo_source_url": "https://github.com/NeoGriever?tab=repositories",
-        "repo_developer_name": "Unknown Developer",
-        "repo_name": "vali",
-        "plugins": [
-            {
-                "Author": "Valenth Siveria",
-                "Name": "Active Venue Finder",
-                "InternalName": "ActiveVenueFinder",
-                "Description": "Discover active FFXIV venues with data powered by the FFXIV Venues API. Browse currently open and upcoming venues in a sortable table featuring color-coded data centers, opening times, and a visual timeline. Filter by region, search by name, and adjust the lookahead window to find venues opening soon.\n\nSave favorites, blacklist venues, and add your own custom venues with custom schedules and tags. Lifestream integration lets you teleport directly to any venue, while a compact popout window gives you a quick overview at a glance.\n\nUse /avf to open.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/NeoGriever/ActiveVenueFinder",
-                "LastUpdate": 1777718182
-            },
-            {
-                "Author": "Valenth Siveria",
-                "Name": "BlackJack Buttler",
-                "InternalName": "BlackJackButtler",
-                "Description": "/bjb - opens the blackjack buttler tool",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1781906310
-            },
-            {
-                "Author": "Valenth Siveria",
-                "Name": "Burnout",
-                "InternalName": "Burnout",
-                "Description": "Don't get a burnout by using burnout",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/NeoGriever/Burnout",
-                "LastUpdate": 1780417242
-            },
-            {
-                "Author": "Valenth Siveria",
-                "Name": "I Am Ready",
-                "InternalName": "IAmReady",
-                "Description": "# I Am Ready\n\n**I Am Ready** is a Dalamud plugin for Final Fantasy XIV that automatically accepts or declines Party and Alliance Ready Checks based on a customizable counter. \n\nWhether you are stepping away for a moment or just tired of clicking, this plugin handles ready checks for you while mimicking human reaction times.\n\n## ✨ Features\n\n* **Auto-Answer Ready Checks:** Automatically clicks \"Yes\" or \"No\" when a ready check appears.\n* **Configurable \"Yes\" Counter:** Set a specific number of times you want to automatically answer \"Yes\". Once that limit is reached, the plugin will automatically start answering \"No\" to prevent pulling when you are actually away.\n* **Natural Delay:** Enable a randomized delay (0.7 to 2.5 seconds) before the plugin answers, making it look like a natural human reaction.\n* **Smart Chat Triggers (Regex):** Add custom text phrases to the plugin. If someone says one of these phrases in Party or Alliance chat (e.g., \"reset\", \"pulling\"), your counter will automatically reset back to zero.\n* **Bilingual Support:** The user interface is available in both English and German.\n\n## 🚀 Usage\n\n1. Type `/iar` in the in-game chat to open the configuration window.\n2. Click the **Inactive/Active** button at the top to turn the auto-responder on or off.\n3. Adjust the **Yes Count** slider. For example, if set to `5`, the plugin will answer \"Yes\" to the next 5 ready checks, and \"No\" to any checks after that.\n4. Click the **Start** button at any time to manually reset your current counter back to zero.\n\n### Chat Triggers (Regex Patterns)\nAt the bottom of the window, you can expand the **Regex Patterns** section. Here you can add simple words or complex regex patterns. \nIf the plugin reads a matching message in your Party or Cross-World Party chat, it will instantly reset your counter to zero, assuming a new pull or instance is starting!\n\n/iar - opens the I Am Ready tool",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/NeoGriever/IAmReady",
-                "LastUpdate": 1778900332
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/pluginmaster.json",
         "repo_source_url": "https://github.com/UnknownX7/DalamudPluginRepo",
         "repo_name": "DalamudPluginRepo",
@@ -17147,6 +17173,50 @@
         ]
     },
     {
+        "repo_url": "https://puni.sh/api/repository/vali",
+        "repo_source_url": "https://github.com/NeoGriever?tab=repositories",
+        "repo_developer_name": "vali",
+        "repo_name": "vali",
+        "plugins": [
+            {
+                "Author": "Valenth Siveria",
+                "Name": "Active Venue Finder",
+                "InternalName": "ActiveVenueFinder",
+                "Description": "Discover active FFXIV venues with data powered by the FFXIV Venues API. Browse currently open and upcoming venues in a sortable table featuring color-coded data centers, opening times, and a visual timeline. Filter by region, search by name, and adjust the lookahead window to find venues opening soon.\n\nSave favorites, blacklist venues, and add your own custom venues with custom schedules and tags. Lifestream integration lets you teleport directly to any venue, while a compact popout window gives you a quick overview at a glance.\n\nUse /avf to open.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NeoGriever/ActiveVenueFinder",
+                "LastUpdate": 1777718182
+            },
+            {
+                "Author": "Valenth Siveria",
+                "Name": "BlackJack Buttler",
+                "InternalName": "BlackJackButtler",
+                "Description": "/bjb - opens the blackjack buttler tool",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
+                "LastUpdate": 1781933523
+            },
+            {
+                "Author": "Valenth Siveria",
+                "Name": "Burnout",
+                "InternalName": "Burnout",
+                "Description": "Don't get a burnout by using burnout",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NeoGriever/Burnout",
+                "LastUpdate": 1780417242
+            },
+            {
+                "Author": "Valenth Siveria",
+                "Name": "I Am Ready",
+                "InternalName": "IAmReady",
+                "Description": "# I Am Ready\n\n**I Am Ready** is a Dalamud plugin for Final Fantasy XIV that automatically accepts or declines Party and Alliance Ready Checks based on a customizable counter. \n\nWhether you are stepping away for a moment or just tired of clicking, this plugin handles ready checks for you while mimicking human reaction times.\n\n## ✨ Features\n\n* **Auto-Answer Ready Checks:** Automatically clicks \"Yes\" or \"No\" when a ready check appears.\n* **Configurable \"Yes\" Counter:** Set a specific number of times you want to automatically answer \"Yes\". Once that limit is reached, the plugin will automatically start answering \"No\" to prevent pulling when you are actually away.\n* **Natural Delay:** Enable a randomized delay (0.7 to 2.5 seconds) before the plugin answers, making it look like a natural human reaction.\n* **Smart Chat Triggers (Regex):** Add custom text phrases to the plugin. If someone says one of these phrases in Party or Alliance chat (e.g., \"reset\", \"pulling\"), your counter will automatically reset back to zero.\n* **Bilingual Support:** The user interface is available in both English and German.\n\n## 🚀 Usage\n\n1. Type `/iar` in the in-game chat to open the configuration window.\n2. Click the **Inactive/Active** button at the top to turn the auto-responder on or off.\n3. Adjust the **Yes Count** slider. For example, if set to `5`, the plugin will answer \"Yes\" to the next 5 ready checks, and \"No\" to any checks after that.\n4. Click the **Start** button at any time to manually reset your current counter back to zero.\n\n### Chat Triggers (Regex Patterns)\nAt the bottom of the window, you can expand the **Regex Patterns** section. Here you can add simple words or complex regex patterns. \nIf the plugin reads a matching message in your Party or Cross-World Party chat, it will instantly reset your counter to zero, assuming a new pull or instance is starting!\n\n/iar - opens the I Am Ready tool",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NeoGriever/IAmReady",
+                "LastUpdate": 1778900332
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Valiice",
         "repo_url": "https://raw.githubusercontent.com/Valiice/DalamudPluginRepo/master/repo.json",
         "repo_source_url": "https://github.com/Valiice/DalamudPluginRepo",
@@ -17230,7 +17300,7 @@
                 "Description": "Play a tabletop card game directly in FFXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/valkyrieBae/fae_light_cards",
-                "LastUpdate": 1781917416
+                "LastUpdate": 1781927636
             }
         ]
     },
@@ -18032,7 +18102,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1781917239
+                "LastUpdate": 1781940466
             },
             {
                 "Author": "XeldarAlz",
@@ -18050,7 +18120,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781917971
+                "LastUpdate": 1781940760
             },
             {
                 "Author": "XeldarAlz",
@@ -18068,7 +18138,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1781917071
+                "LastUpdate": 1781940411
             }
         ]
     },
@@ -18085,7 +18155,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1781917239
+                "LastUpdate": 1781940466
             }
         ]
     },
@@ -18136,7 +18206,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1781917071
+                "LastUpdate": 1781940411
             }
         ]
     },
@@ -18153,7 +18223,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781917971
+                "LastUpdate": 1781940760
             }
         ]
     },
