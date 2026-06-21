@@ -1135,13 +1135,22 @@
         "repo_name": "AnkhitoPlugins",
         "plugins": [
             {
+                "Author": "Asphodel",
+                "Name": "AutoMarket Pro",
+                "InternalName": "AutomarketPro",
+                "Description": "Fork build of AutoMarket Pro with retainer inventory scanning, sellability-aware Universalis ranking, filtered list/vendor modes, and marketboard automation while upstream changes are pending.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Ankhito/AutomarketPro",
+                "LastUpdate": 1782055916
+            },
+            {
                 "Author": "Ankhito",
                 "Name": "Currency Profit Scanner",
                 "InternalName": "CurrencyProfitScanner",
                 "Description": "Read-only MVP scanner for profitable non-gil currency vendor items. Uses Universalis market data and does not automate game interactions.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ankhito/Currency-Profit-Scanner",
-                "LastUpdate": 1781994175
+                "LastUpdate": 1782037189
             },
             {
                 "Author": "Ankhito",
@@ -2701,7 +2710,7 @@
                 "Description": "Downloads the latest configured venue mod release, enables it in TheGrid, and assigns the collection to Chromiel.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CarpeNukem/grid_nroot_update",
-                "LastUpdate": 1781903380
+                "LastUpdate": 1782051277
             }
         ]
     },
@@ -3602,7 +3611,7 @@
                 "Description": "HiAuRo 是一个全栈战斗辅助框架，提供 ACR 接口、执行轴、事实轴、智能决策层和完整的 UI 系统。ACR 作者可开发各职业的战斗逻辑，普通用户也可通过内置轴获得完整的战斗辅助体验。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/denghaoxuan991876906/HiAuRo",
-                "LastUpdate": 1782031131
+                "LastUpdate": 1782035281
             },
             {
                 "Author": "嗨呀",
@@ -4840,7 +4849,7 @@
                 "Description": "A plugin that voices every NPC dialogue, battle interaction, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1781909209
+                "LastUpdate": 1782046651
             }
         ]
     },
@@ -5925,7 +5934,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1781969232
+                "LastUpdate": 1782052769
             },
             {
                 "Author": "Haselnussbomber",
@@ -6242,7 +6251,7 @@
                 "Description": "แปลภาษา FFXIV เป็นไทยแบบ real-time ผ่าน Gemini AI - Real-time FFXIV translation with advanced character database and Netflix-quality localization. Features elegant UI with auto-show/hide, full customization (size, colors), and seamless gameplay integration.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/iarcanar/MBB_Dalamud",
-                "LastUpdate": 1781770274
+                "LastUpdate": 1782046499
             }
         ]
     },
@@ -7648,7 +7657,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1781909209
+                "LastUpdate": 1782046651
             }
         ]
     },
@@ -8122,7 +8131,7 @@
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782013039
+                "LastUpdate": 1782055557
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -8140,7 +8149,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1782034457
+                "LastUpdate": 1782046804
             }
         ]
     },
@@ -8430,7 +8439,7 @@
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1781734077
+                "LastUpdate": 1782045468
             }
         ]
     },
@@ -9216,7 +9225,7 @@
                 "Description": "它能幫你自動釣魚, 你信嗎?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782015537
+                "LastUpdate": 1782052635
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -10236,6 +10245,23 @@
         ]
     },
     {
+        "repo_developer_name": "miralsoft",
+        "repo_url": "https://raw.githubusercontent.com/miralsoft/Dalamud-Eorzea-Arsenal/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/miralsoft/Dalamud-Eorzea-Arsenal",
+        "repo_name": "Dalamud-Eorzea-Arsenal",
+        "plugins": [
+            {
+                "Author": "Michael Tosch",
+                "Name": "Eorzea Arsenal",
+                "InternalName": "EorzeaArsenalPlugin",
+                "Description": "Reads your gearsets across all jobs and pushes them to your Eorzea Arsenal account so the web app can show your gear vs BiS, and can optionally upload which equippable items you own (inventory + retainers). Connect once (browser approval or paste an API key), then use /bisexport. Bilingual DE/EN. Using Dalamud violates the FFXIV ToS; all uploads are strictly opt-in.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/miralsoft/Dalamud-Eorzea-Arsenal",
+                "LastUpdate": 1782057109
+            }
+        ]
+    },
+    {
         "repo_developer_name": "mitaka0715-bot",
         "repo_url": "https://raw.githubusercontent.com/mitaka0715-bot/FF14HotbarIconExporter/main/repo.json",
         "repo_source_url": "https://github.com/mitaka0715-bot/FF14HotbarIconExporter",
@@ -10662,7 +10688,7 @@
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782034350
+                "LastUpdate": 1782049592
             },
             {
                 "Author": "Nainaiowo",
@@ -12334,7 +12360,7 @@
                 "Description": "根据钓鱼条件自动抬杆，可配合采集资料库和宇宙探索使用。已保留插件内置中文资源。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782015537
+                "LastUpdate": 1782052635
             },
             {
                 "Author": "The Combat Reborn Team, Codex(中文整理)",
@@ -12412,7 +12438,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1781888707
+                "LastUpdate": 1782048231
             },
             {
                 "Author": "OOFGames",
@@ -12421,7 +12447,7 @@
                 "Description": "Browse active gambling events across Eorzea or host your own session. Use /gambawhere to open the interface.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1781888704
+                "LastUpdate": 1782048228
             },
             {
                 "Author": "OOFGames",
@@ -13480,7 +13506,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782015537
+                "LastUpdate": 1782052635
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -13551,7 +13577,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782013039
+                "LastUpdate": 1782055557
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -13578,7 +13604,7 @@
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1782034457
+                "LastUpdate": 1782046804
             },
             {
                 "Author": "daemitus, kawaii",
@@ -14671,7 +14697,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1782014503
+                "LastUpdate": 1782055918
             }
         ]
     },
@@ -14688,7 +14714,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1782014503
+                "LastUpdate": 1782055918
             },
             {
                 "Author": "Rose",
@@ -16281,12 +16307,12 @@
         "plugins": [
             {
                 "Author": "Sunny",
-                "Name": "VenueMapper",
+                "Name": "Venue Mapper",
                 "InternalName": "VenueMapper",
                 "Description": "A Dalamud plugin for discovering FFXIV venues with 2D/3D interactive markers, live events, and built-in owner tools. Your complete FFXIV venue guide.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SunnysTTV/VenueMapperXIV",
-                "LastUpdate": 1782034582
+                "LastUpdate": 1782057586
             }
         ]
     },
@@ -17577,7 +17603,7 @@
                 "Description": "Client-side virtual extension of the FFXIV ignore list: additionally mute and hide players, with categories, notes and auto-expiry. UI available in English and German.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VelvetFFXIV/XIVIgnore",
-                "LastUpdate": 1782015731
+                "LastUpdate": 1782056936
             }
         ]
     },
@@ -17819,7 +17845,7 @@
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1781971741
+                "LastUpdate": 1782054865
             }
         ]
     },
@@ -18257,7 +18283,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1782027570
+                "LastUpdate": 1782045654
             },
             {
                 "Author": "XeldarAlz",
@@ -18266,7 +18292,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1782028297
+                "LastUpdate": 1782046345
             },
             {
                 "Author": "XeldarAlz",
@@ -18284,7 +18310,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1782027908
+                "LastUpdate": 1782046004
             }
         ]
     },
@@ -18318,7 +18344,7 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1782027570
+                "LastUpdate": 1782045654
             }
         ]
     },
@@ -18352,7 +18378,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1782027908
+                "LastUpdate": 1782046004
             }
         ]
     },
@@ -18369,7 +18395,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1782028297
+                "LastUpdate": 1782046345
             }
         ]
     },
@@ -18913,7 +18939,7 @@
                 "Description": "RPFramework provides roleplay helpers including a custom item inventory (/rpinv or /rpinventory), a synced BGM player (/rpbgm), inventory trading and shared bags over a relay server, and more modules coming soon.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ZeroTheScyther/RPFramework",
-                "LastUpdate": 1782017871
+                "LastUpdate": 1782036820
             }
         ]
     },
