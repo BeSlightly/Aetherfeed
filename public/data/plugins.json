@@ -401,7 +401,7 @@
                 "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1781986490
+                "LastUpdate": 1781988934
             }
         ]
     },
@@ -961,7 +961,7 @@
                 "Description": "A toggleable helper to track real/fake debuffs for the monkes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/altaint/P4Helper",
-                "LastUpdate": 1781983570
+                "LastUpdate": 1782000157
             },
             {
                 "Author": "altan",
@@ -970,7 +970,7 @@
                 "Description": "Simple tool to check boss health when sandbagging.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/altaint/MyDalamudPlugins",
-                "LastUpdate": 1781943575
+                "LastUpdate": 1781999946
             }
         ]
     },
@@ -1141,7 +1141,7 @@
                 "Description": "Read-only MVP scanner for profitable non-gil currency vendor items. Uses Universalis market data and does not automate game interactions.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ankhito/Currency-Profit-Scanner",
-                "LastUpdate": 1781988067
+                "LastUpdate": 1781994175
             },
             {
                 "Author": "Ankhito",
@@ -3699,7 +3699,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1780695653
+                "LastUpdate": 1782007338
             }
         ]
     },
@@ -3733,7 +3733,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1780695653
+                "LastUpdate": 1782007338
             }
         ]
     },
@@ -5301,7 +5301,7 @@
                 "Description": "Pops escalating arena-announcer callouts (KILL, DOUBLE KILL, MONSTER KILL ... all the way to absurd 30+ tiers) with baked-in voice lines as your PvP kill streak climbs. Kills are read straight from the game's own death messages, so you get credit for the killing blow exactly like the scoreboard.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/fuzzycore/ffxivrepo",
-                "LastUpdate": 1781943953
+                "LastUpdate": 1782002269
             }
         ]
     },
@@ -6429,7 +6429,7 @@
                 "Description": "Dalashade generates a separate ReShade preset from your base preset, then nudges known shader values using territory, weather, time, combat, cutscenes, and optional screenshot analysis. Use /dalashade to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ImperfectRain/Dalashade",
-                "LastUpdate": 1781945432
+                "LastUpdate": 1782010972
             }
         ]
     },
@@ -7227,6 +7227,15 @@
         "repo_source_url": "https://github.com/Just-Chaldea/DalamudPluginRepo",
         "repo_name": "DalamudPluginRepo",
         "plugins": [
+            {
+                "Author": "Just-Chaldea",
+                "Name": "CarbunclePartner",
+                "InternalName": "CarbunclePartner",
+                "Description": "Companion to the carbuncleplushy FFXIV Fish Tracker: tracks which fish you've caught, with website-matching filters and one-click export.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Just-Chaldea/CarbunclePartner",
+                "LastUpdate": 1781994229
+            },
             {
                 "Author": "Just-Chaldea",
                 "Name": "MahjongAdvisor",
@@ -8953,7 +8962,24 @@
                 "Description": "CPOSER automatically switches to the idle pose linked to your active Glamourer design.\n\nCommand: /cposer",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Liminal-Plugins/CPOSER-Releases",
-                "LastUpdate": 1781925899
+                "LastUpdate": 1782002924
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Liminal-Plugins",
+        "repo_url": "https://raw.githubusercontent.com/Liminal-Plugins/CustomizeBridge-Releases/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Liminal-Plugins/CustomizeBridge-Releases",
+        "repo_name": "CustomizeBridge-Releases",
+        "plugins": [
+            {
+                "Author": "Liminal",
+                "Name": "Customize Bridge",
+                "InternalName": "CustomizeBridge",
+                "Description": "Links Customize+ profiles to Glamourer designs and switches profiles when a linked design becomes active.\n\nCommand: /cbridge",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Liminal-Plugins/CustomizeBridge-Releases",
+                "LastUpdate": 1782004528
             }
         ]
     },
@@ -10128,7 +10154,7 @@
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1781959214
+                "LastUpdate": 1781991119
             },
             {
                 "Author": "Miruku",
@@ -10137,7 +10163,7 @@
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1781959214
+                "LastUpdate": 1781991119
             }
         ]
     },
@@ -10619,7 +10645,7 @@
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1781988560
+                "LastUpdate": 1781992054
             },
             {
                 "Author": "Nainaiowo",
@@ -11885,7 +11911,7 @@
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1781926510
+                "LastUpdate": 1781992683
             }
         ]
     },
@@ -12090,7 +12116,7 @@
                 "Description": "Automates FATE farming: leveling, single zone, shared fates, atma, demiatma, luminous crystals, memories, and a fully customizable manual mode. Integrates with vnavmesh, Lifestream, BossMod Reborn, Wrath Combo, Rotation Solver Reborn, and AutoRetainer.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/notmugi/autofate",
-                "LastUpdate": 1781984480
+                "LastUpdate": 1782010125
             }
         ]
     },
@@ -12882,7 +12908,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1781750655
+                "LastUpdate": 1781992518
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -13526,7 +13552,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1781925870
+                "LastUpdate": 1782005169
             },
             {
                 "Author": "Team Wrath",
@@ -13667,12 +13693,12 @@
         "plugins": [
             {
                 "Author": "Anna, QianChangUwU",
-                "Name": "ExtraChat",
-                "InternalName": "ExtraChat",
+                "Name": "ExtraChat-CN",
+                "InternalName": "ExtraChat-CN",
                 "Description": "ExtraChat 添加端到端加密、跨数据中心、不限成员数量的额外聊天频道到游戏中。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/ChatExtra",
-                "LastUpdate": 1781955180
+                "LastUpdate": 1782011740
             },
             {
                 "Author": "NightmareXIV, QianChangUwU",
@@ -13844,7 +13870,7 @@
                 "Description": "Replay positions and events before death. /abb to open",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rail2025/AetherBlackbox",
-                "LastUpdate": 1780184603
+                "LastUpdate": 1782010160
             }
         ]
     },
@@ -15079,7 +15105,7 @@
                 "Description": "Places a virtual screen in 3D world space that displays images and video with proper depth testing. Supports local files, direct URLs, YouTube (via yt-dlp), and multi-player sync so all players with the plugin see the same content simultaneously.\n\nNote: yt-dlp.exe must be placed in the plugin folder for YouTube support.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sansflaire/FFXIV-TV",
-                "LastUpdate": 1781099373
+                "LastUpdate": 1781995561
             }
         ]
     },
@@ -15318,7 +15344,7 @@
                 "Description": "Play nearly any public facing video/image/music URL in game and with friends!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/XivMediaPlayer",
-                "LastUpdate": 1781965236
+                "LastUpdate": 1782007906
             }
         ]
     },
@@ -15464,7 +15490,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1781925870
+                "LastUpdate": 1782005169
             }
         ]
     },
@@ -16364,7 +16390,7 @@
                 "Description": "Plugin to help turning mit sheets into callouts, with fight timelines and auto syncing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/swixum/FrenMits",
-                "LastUpdate": 1781933542
+                "LastUpdate": 1782004870
             }
         ]
     },
@@ -17015,7 +17041,7 @@
                 "Description": "Places a virtual screen in 3D world space that displays images and video with proper depth testing. Supports local files, direct URLs, YouTube (via yt-dlp), and multi-player sync so all players with the plugin see the same content simultaneously.\n\nNote: yt-dlp.exe must be placed in the plugin folder for YouTube support (host only — sync clients receive a direct stream URL automatically).",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Sansflaire/FFXIV-TV",
-                "LastUpdate": 1781099373
+                "LastUpdate": 1781995561
             }
         ]
     },
@@ -17134,7 +17160,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1781983435
+                "LastUpdate": 1782010248
             }
         ]
     },
@@ -17456,7 +17482,7 @@
                 "Description": "Use /achex to track achievements, open native Achievement entries, and passively cache observed progress.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/vauxra/achieve-ex",
-                "LastUpdate": 1781832096
+                "LastUpdate": 1781996789
             }
         ]
     },
@@ -17501,6 +17527,23 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VeeverSW/DalamudPlugins",
                 "LastUpdate": 1781864648
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "VelvetFFXIV",
+        "repo_url": "https://raw.githubusercontent.com/VelvetFFXIV/XIVIgnore/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/VelvetFFXIV/XIVIgnore",
+        "repo_name": "XIVIgnore",
+        "plugins": [
+            {
+                "Author": "VelvetFFXIV",
+                "Name": "XIVIgnore",
+                "InternalName": "XIVIgnore",
+                "Description": "Client-side virtual extension of the FFXIV ignore list: additionally mute and hide players, with categories, notes and auto-expiry. UI available in English and German.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/VelvetFFXIV/XIVIgnore",
+                "LastUpdate": 1782011537
             }
         ]
     },
@@ -18171,7 +18214,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1781980593
+                "LastUpdate": 1782004029
             },
             {
                 "Author": "XeldarAlz",
@@ -18180,7 +18223,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1781980262
+                "LastUpdate": 1782002927
             },
             {
                 "Author": "XeldarAlz",
@@ -18189,7 +18232,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781980303
+                "LastUpdate": 1782004874
             },
             {
                 "Author": "XeldarAlz",
@@ -18198,7 +18241,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1781915373
+                "LastUpdate": 1782001889
             },
             {
                 "Author": "XeldarAlz",
@@ -18207,7 +18250,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1781980539
+                "LastUpdate": 1782003876
             }
         ]
     },
@@ -18224,7 +18267,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1781980593
+                "LastUpdate": 1782004029
             }
         ]
     },
@@ -18241,7 +18284,7 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1781980262
+                "LastUpdate": 1782002927
             }
         ]
     },
@@ -18258,7 +18301,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1781915373
+                "LastUpdate": 1782001889
             }
         ]
     },
@@ -18275,7 +18318,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1781980539
+                "LastUpdate": 1782003876
             }
         ]
     },
@@ -18292,7 +18335,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1781980303
+                "LastUpdate": 1782004874
             }
         ]
     },
@@ -18964,7 +19007,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1781750655
+                "LastUpdate": 1781992518
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
