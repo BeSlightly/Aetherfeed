@@ -1141,7 +1141,7 @@
                 "Description": "Fork build of AutoMarket Pro with retainer inventory scanning, sellability-aware Universalis ranking, filtered list/vendor modes, and marketboard automation while upstream changes are pending.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ankhito/AutomarketPro",
-                "LastUpdate": 1782055916
+                "LastUpdate": 1782087683
             },
             {
                 "Author": "Ankhito",
@@ -1381,7 +1381,7 @@
                 "Description": "Configurable text patterns or emotes to execute commands",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/Reggiex",
-                "LastUpdate": 1777755800
+                "LastUpdate": 1782092600
             }
         ]
     },
@@ -1415,7 +1415,7 @@
                 "Description": "/wymm takes what you have in your inventory and calculates the optimal combination of items to make. Item prices are fetched from Universalis, or can be manually overridden.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ArcaneAj/WachuMakeyMaking",
-                "LastUpdate": 1777097652
+                "LastUpdate": 1782101116
             }
         ]
     },
@@ -2281,6 +2281,23 @@
         ]
     },
     {
+        "repo_developer_name": "bimilbimil",
+        "repo_url": "https://raw.githubusercontent.com/bimilbimil/XIVClearSS/main/repo.json",
+        "repo_source_url": "https://github.com/bimilbimil/XIVClearSS",
+        "repo_name": "XIVClearSS",
+        "plugins": [
+            {
+                "Author": "Asphodel",
+                "Name": "XIVClearSS",
+                "InternalName": "XIVClearSS",
+                "Description": "Temporarily switches to a custom high resolution so you can take screenshots beyond what the in-game settings allow, then restores your original resolution when done.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bimilbimil/XIVClearSS",
+                "LastUpdate": 1782094175
+            }
+        ]
+    },
+    {
         "repo_developer_name": "bloooowfish",
         "repo_url": "https://raw.githubusercontent.com/bloooowfish/MyPluginMaster/main/repo.json",
         "repo_source_url": "https://github.com/bloooowfish/MyPluginMaster",
@@ -2710,7 +2727,7 @@
                 "Description": "Downloads the latest configured venue mod release, enables it in TheGrid, and assigns the collection to Chromiel.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CarpeNukem/grid_nroot_update",
-                "LastUpdate": 1782051277
+                "LastUpdate": 1782089136
             }
         ]
     },
@@ -3708,7 +3725,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782007338
+                "LastUpdate": 1782085539
             }
         ]
     },
@@ -3742,7 +3759,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782007338
+                "LastUpdate": 1782085539
             }
         ]
     },
@@ -3776,7 +3793,7 @@
                 "Description": "Passively records every housing lottery bid you place, per character, by reading the placard when you interact with it. One row per bid: character/world, region, district, ward, plot, size, FC-vs-personal, entrant count, entry date, results-available date with live countdown, and outcome (Pending/Won/Lost). Auto-captures placard data during entry and results periods; auto-detects wins via the results SelectYesno; entry number is grabbed when shown and editable otherwise. Sortable table with click-to-expand details, per-column toggles, editable notes, and optional shared storage across all clients. Open with /hlt (alias /lotto).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/HousingLottoTracker",
-                "LastUpdate": 1782075975
+                "LastUpdate": 1782095191
             }
         ]
     },
@@ -4866,7 +4883,7 @@
                 "Description": "Projects YouTube videos and livestreams (and any source) onto a surface in the world or onto a minion, with a synchronized broadcast from the host to the peers. Requires DirectX 11.\n\n⚠ IN TESTING & VALIDATION: the plugin is still in development and may freeze/crash.\n\nTo show the video ON A MINION you must install the (Penumbra) mod that provides the correct minion screen shape: https://www.xivmodarchive.com/modid/112306",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://aethertv.cloud",
-                "LastUpdate": 1782074328
+                "LastUpdate": 1782090584
             }
         ]
     },
@@ -5680,7 +5697,7 @@
                 "InternalName": "Glaives.Plugin.Tweaks",
                 "Description": "Custom QOL tweaks to help improve the experience of the game. Please use responsibly",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1778951724
+                "LastUpdate": 1782083142
             },
             {
                 "Author": "Chris",
@@ -5688,7 +5705,7 @@
                 "InternalName": "Glaives.Plugin.WondrousTailsSolver",
                 "Description": "A Dalamud plugin that adds row probabilities to the Wondrous Tails display",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1778951724
+                "LastUpdate": 1782083142
             },
             {
                 "Author": "veyn, croizat",
@@ -5891,7 +5908,7 @@
                 "Description": "Bartender tool for the Ripple Shot /random jackpot game: pricing, per-night caps with Supabase VIPs, carry-over pot, win detection, archives, and a guided payout planner.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/habitatnightclub/ripple-shot",
-                "LastUpdate": 1782079664
+                "LastUpdate": 1782084141
             }
         ]
     },
@@ -6506,7 +6523,7 @@
                 "Description": "Dalashade generates a separate ReShade preset from your base preset, then nudges known shader values using territory, weather, time, combat, cutscenes, and optional screenshot analysis. Use /dalashade to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ImperfectRain/Dalashade",
-                "LastUpdate": 1782010972
+                "LastUpdate": 1782084620
             }
         ]
     },
@@ -8182,7 +8199,7 @@
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782055557
+                "LastUpdate": 1782094965
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -8767,7 +8784,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1781874576
+                "LastUpdate": 1782090260
             }
         ]
     },
@@ -9348,7 +9365,7 @@
                 "Description": "自動金蝶小遊戲",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1781773955
+                "LastUpdate": 1782087915
             }
         ]
     },
@@ -9671,7 +9688,7 @@
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1782071594
+                "LastUpdate": 1782094879
             }
         ]
     },
@@ -10739,7 +10756,7 @@
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782079741
+                "LastUpdate": 1782102962
             },
             {
                 "Author": "Nainaiowo",
@@ -10749,15 +10766,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
                 "LastUpdate": 1781955666
-            },
-            {
-                "Author": "Nainaiowo",
-                "Name": "DMU P3 Blackhole Helper",
-                "InternalName": "DMUP3BlackholeHelper",
-                "Description": "Tracks First, Second, and Third in Line, Accretion, and Earth Resistance Down in DMU.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Nainaiowo/dmu-p3-blackhole-helper",
-                "LastUpdate": 1782071122
             }
         ]
     },
@@ -10778,12 +10786,21 @@
             },
             {
                 "Author": "Nainaiowo",
+                "Name": "DMU P3 Blackhole Helper",
+                "InternalName": "DMUP3BlackholeHelper",
+                "Description": "Tracks First, Second, and Third in Line, Accretion, and Earth Resistance Down in DMU.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nainaiowo/dmu-p3-blackhole-helper",
+                "LastUpdate": 1782071122
+            },
+            {
+                "Author": "Nainaiowo",
                 "Name": "Project Honorific",
                 "InternalName": "ProjectHonorific",
                 "Description": "Reads a local project status bridge file and sends the current project activity to an Honorific-compatible title plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/project-honorific",
-                "LastUpdate": 1782077949
+                "LastUpdate": 1782092504
             }
         ]
     },
@@ -11230,7 +11247,7 @@
                 "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1781921147
+                "LastUpdate": 1782095589
             },
             {
                 "Author": "goat, Maple",
@@ -12221,13 +12238,13 @@
         "repo_name": "autofate",
         "plugins": [
             {
-                "Author": "AutoFates",
-                "Name": "AutoFates",
-                "InternalName": "AutoFates",
+                "Author": "Autofate",
+                "Name": "Autofate",
+                "InternalName": "Autofate",
                 "Description": "Automates FATE farming: leveling, single zone, shared fates, atma, demiatma, luminous crystals, memories, and a fully customizable manual mode. Integrates with vnavmesh, Lifestream, BossMod Reborn, Wrath Combo, Rotation Solver Reborn, and AutoRetainer.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/notmugi/autofate",
-                "LastUpdate": 1782022599
+                "LastUpdate": 1782086272
             }
         ]
     },
@@ -13645,7 +13662,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782055557
+                "LastUpdate": 1782094965
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -13654,7 +13671,7 @@
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1781773955
+                "LastUpdate": 1782087915
             },
             {
                 "Author": "NightmareXIV",
@@ -14455,7 +14472,7 @@
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ResFox/YapYapDraw",
-                "LastUpdate": 1781731831
+                "LastUpdate": 1782097011
             }
         ]
     },
@@ -14765,7 +14782,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1782078700
+                "LastUpdate": 1782094454
             }
         ]
     },
@@ -14782,7 +14799,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1782078700
+                "LastUpdate": 1782094454
             },
             {
                 "Author": "Rose",
@@ -15455,7 +15472,7 @@
                 "Description": "Play nearly any public facing video/image/music URL in game and with friends!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/XivMediaPlayer",
-                "LastUpdate": 1782007906
+                "LastUpdate": 1782101729
             }
         ]
     },
@@ -16049,7 +16066,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1782070498
+                "LastUpdate": 1782096284
             }
         ]
     },
@@ -16211,8 +16228,7 @@
                 "InternalName": "EchoXIV",
                 "Description": "Automatically translates your outgoing messages (to the party language) and incoming messages (to your local language) using Google Translate. Overlay window included. No API Key required.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/ssalazar217/EchoXIV",
-                "LastUpdate": 1778197706
+                "RepoUrl": "https://github.com/ssalazar217/EchoXIV"
             }
         ]
     },
@@ -16518,7 +16534,7 @@
                 "Description": "Plugin to help turning mit sheets into callouts, with fight timelines and auto syncing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/swixum/FrenMits",
-                "LastUpdate": 1782029143
+                "LastUpdate": 1782101102
             }
         ]
     },
@@ -17288,7 +17304,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1782076914
+                "LastUpdate": 1782086036
             }
         ]
     },
@@ -18342,7 +18358,7 @@
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
-                "LastUpdate": 1782072025
+                "LastUpdate": 1782089177
             },
             {
                 "Author": "XeldarAlz",
@@ -18351,7 +18367,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1782067061
+                "LastUpdate": 1782090437
             },
             {
                 "Author": "XeldarAlz",
@@ -18360,7 +18376,7 @@
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1782066770
+                "LastUpdate": 1782089293
             },
             {
                 "Author": "XeldarAlz",
@@ -18369,7 +18385,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1782067290
+                "LastUpdate": 1782091270
             },
             {
                 "Author": "XeldarAlz",
@@ -18378,7 +18394,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1782001889
+                "LastUpdate": 1782088309
             },
             {
                 "Author": "XeldarAlz",
@@ -18387,7 +18403,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1782067039
+                "LastUpdate": 1782090246
             }
         ]
     },
@@ -18404,7 +18420,7 @@
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
-                "LastUpdate": 1782072025
+                "LastUpdate": 1782089177
             }
         ]
     },
@@ -18421,7 +18437,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1782067061
+                "LastUpdate": 1782090437
             }
         ]
     },
@@ -18438,7 +18454,7 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1782066770
+                "LastUpdate": 1782089293
             }
         ]
     },
@@ -18455,7 +18471,7 @@
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1782001889
+                "LastUpdate": 1782088309
             }
         ]
     },
@@ -18472,7 +18488,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1782067039
+                "LastUpdate": 1782090246
             }
         ]
     },
@@ -18489,7 +18505,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1782067290
+                "LastUpdate": 1782091270
             }
         ]
     },
