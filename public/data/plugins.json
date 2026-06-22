@@ -1172,6 +1172,15 @@
             },
             {
                 "Author": "Ankhito",
+                "Name": "PmpShare",
+                "InternalName": "PmpShare.Plugin",
+                "Description": "Uploads and downloads encrypted .pmp transfers through a private PmpShare Cloudflare Worker API. No plaintext files or decryption keys are sent to the server.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Ankhito/pmpshare",
+                "LastUpdate": 1782140002
+            },
+            {
+                "Author": "Ankhito",
                 "Name": "PositionalPilot",
                 "InternalName": "PositionalPilot",
                 "Description": "Suggests or safely moves toward selected combat-source rear/flank positionals using BossMod safety and vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
@@ -1327,7 +1336,7 @@
                 "Description": "Provide deterministic pose commands (cpose, standup, walk, etc.)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
-                "LastUpdate": 1777755128
+                "LastUpdate": 1782123226
             },
             {
                 "Author": "Anya Hichu",
@@ -1345,7 +1354,7 @@
                 "Description": "Provides commands to interact with penumbra mod settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/ModSettingCommands",
-                "LastUpdate": 1777757298
+                "LastUpdate": 1782130444
             },
             {
                 "Author": "Anya Hichu",
@@ -1354,7 +1363,7 @@
                 "Description": "Displays emote counters as honorific title dynamically",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
-                "LastUpdate": 1781692465
+                "LastUpdate": 1782126314
             },
             {
                 "Author": "Anya Hichu",
@@ -1363,7 +1372,7 @@
                 "Description": "Generate and run macro actions quickly using a spotlight inspired interface",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/Quack",
-                "LastUpdate": 1780600557
+                "LastUpdate": 1782122015
             },
             {
                 "Author": "Anya Hichu",
@@ -2727,7 +2736,7 @@
                 "Description": "Downloads the latest configured venue mod release, enables it in TheGrid, and assigns the collection to Chromiel.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CarpeNukem/grid_nroot_update",
-                "LastUpdate": 1782089136
+                "LastUpdate": 1782141194
             }
         ]
     },
@@ -5908,7 +5917,7 @@
                 "Description": "Bartender tool for the Ripple Shot /random jackpot game: pricing, per-night caps with Supabase VIPs, carry-over pot, win detection, archives, and a guided payout planner.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/habitatnightclub/ripple-shot",
-                "LastUpdate": 1782118020
+                "LastUpdate": 1782139993
             }
         ]
     },
@@ -6002,7 +6011,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1782076150
+                "LastUpdate": 1782133625
             },
             {
                 "Author": "Haselnussbomber",
@@ -6011,7 +6020,7 @@
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1782076177
+                "LastUpdate": 1782132636
             },
             {
                 "Author": "Haselnussbomber",
@@ -6020,7 +6029,7 @@
                 "Description": "A little helper to check which Levequests have been completed and which are missing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
-                "LastUpdate": 1779796066
+                "LastUpdate": 1782133556
             }
         ]
     },
@@ -7251,7 +7260,7 @@
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/SkyrimCompass",
-                "LastUpdate": 1782015686
+                "LastUpdate": 1782120752
             }
         ]
     },
@@ -9302,7 +9311,7 @@
                 "Description": "它能幫你自動釣魚, 你信嗎?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782109770
+                "LastUpdate": 1782134774
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -10765,7 +10774,7 @@
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782102962
+                "LastUpdate": 1782135718
             },
             {
                 "Author": "Nainaiowo",
@@ -10809,7 +10818,7 @@
                 "Description": "Reads a local project status bridge file and sends the current project activity to an Honorific-compatible title plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/project-honorific",
-                "LastUpdate": 1782092504
+                "LastUpdate": 1782139073
             }
         ]
     },
@@ -12088,6 +12097,23 @@
     },
     {
         "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/NNekoQoL/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/NNekoQoL",
+        "repo_name": "NNekoQoL",
+        "plugins": [
+            {
+                "Author": "NaughtyNeko",
+                "Name": "NNekoTemplate",
+                "InternalName": "NNekoTemplate",
+                "Description": "Organization Template for NNekoPlugins Dalamud Plugin Repositories.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NNekoPlugins/NNekoTemplate",
+                "LastUpdate": 1782134540
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NNekoPlugins",
         "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/NNekoTriggers/main/repo.json",
         "repo_source_url": "https://github.com/NNekoPlugins/NNekoTriggers",
         "repo_name": "NNekoTriggers",
@@ -12454,7 +12480,7 @@
                 "Description": "根据钓鱼条件自动抬杆，可配合采集资料库和宇宙探索使用。已保留插件内置中文资源。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782109770
+                "LastUpdate": 1782134774
             },
             {
                 "Author": "The Combat Reborn Team, Codex(中文整理)",
@@ -13600,7 +13626,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782109770
+                "LastUpdate": 1782134774
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -13853,7 +13879,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/Questionable",
-                "LastUpdate": 1781907585
+                "LastUpdate": 1782129316
             }
         ]
     },
@@ -14791,7 +14817,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1782094454
+                "LastUpdate": 1782139786
             }
         ]
     },
@@ -14808,7 +14834,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1782094454
+                "LastUpdate": 1782139786
             },
             {
                 "Author": "Rose",
@@ -15481,7 +15507,7 @@
                 "Description": "Play nearly any public facing video/image/music URL in game and with friends!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/XivMediaPlayer",
-                "LastUpdate": 1782113870
+                "LastUpdate": 1782128641
             }
         ]
     },
@@ -16084,7 +16110,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1782096284
+                "LastUpdate": 1782137843
             }
         ]
     },
@@ -17541,7 +17567,7 @@
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1781588746
+                "LastUpdate": 1782120456
             }
         ]
     },
@@ -17706,7 +17732,7 @@
                 "Description": "Client-side virtual extension of the FFXIV ignore list: additionally mute and hide players, with categories, notes and auto-expiry. UI available in English and German.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VelvetFFXIV/XIVIgnore",
-                "LastUpdate": 1782070177
+                "LastUpdate": 1782140756
             }
         ]
     },
@@ -18376,8 +18402,8 @@
                 "InternalName": "Aetherphone",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
-                "LastUpdate": 1782115286
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
+                "LastUpdate": 1782071948
             },
             {
                 "Author": "XeldarAlz",
@@ -18385,8 +18411,8 @@
                 "InternalName": "AutoDailyTribes",
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1782116050
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/tree/master/AutoDailyTribes",
+                "LastUpdate": 1781979238
             },
             {
                 "Author": "XeldarAlz",
@@ -18394,8 +18420,8 @@
                 "InternalName": "AutoFateGrind",
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1782115320
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
+                "LastUpdate": 1782024035
             },
             {
                 "Author": "XeldarAlz",
@@ -18403,8 +18429,8 @@
                 "InternalName": "AutoPvpSeriesGrind",
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1782116412
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
+                "LastUpdate": 1781980133
             },
             {
                 "Author": "XeldarAlz",
@@ -18412,8 +18438,8 @@
                 "InternalName": "Mahjong.Plugin.Dalamud",
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-DomanMahjongSolver",
-                "LastUpdate": 1782088309
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/tree/main/Mahjong.Plugin.Dalamud",
+                "LastUpdate": 1779881802
             },
             {
                 "Author": "XeldarAlz",
@@ -18421,8 +18447,8 @@
                 "InternalName": "PvpAutoLb",
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak",
-                "LastUpdate": 1782115918
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/tree/master/PvpAutoLb",
+                "LastUpdate": 1781979849
             }
         ]
     },
@@ -18439,7 +18465,7 @@
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
-                "LastUpdate": 1782115286
+                "LastUpdate": 1782136444
             }
         ]
     },
@@ -18456,7 +18482,7 @@
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1782116050
+                "LastUpdate": 1782136773
             }
         ]
     },
@@ -18473,7 +18499,7 @@
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFateGrind",
-                "LastUpdate": 1782115320
+                "LastUpdate": 1782136446
             }
         ]
     },
@@ -18507,7 +18533,7 @@
                 "Description": "Fires your job's PvP Limit Break when an enemy's HP drops below a configurable threshold (percent of max HP, or absolute value). Optionally auto-selects the lowest-HP hostile in range when no manual target is set. Defensive/support LBs (e.g. Phalanx, Primal Scream) are recognized and skipped. Commands: /pvpautolb, /pvpautolb config, /palb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-PvPAutoLB",
-                "LastUpdate": 1782115918
+                "LastUpdate": 1782136709
             }
         ]
     },
@@ -18524,7 +18550,7 @@
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind",
-                "LastUpdate": 1782116412
+                "LastUpdate": 1782137159
             }
         ]
     },
