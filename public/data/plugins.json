@@ -1141,7 +1141,7 @@
                 "Description": "Fork build of AutoMarket Pro with retainer inventory scanning, sellability-aware Universalis ranking, filtered list/vendor modes, and marketboard automation while upstream changes are pending.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ankhito/AutomarketPro",
-                "LastUpdate": 1782156107
+                "LastUpdate": 1782243074
             },
             {
                 "Author": "Ankhito",
@@ -1177,7 +1177,7 @@
                 "Description": "Uploads and downloads encrypted .pmp transfers through a private PmpShare Cloudflare Worker API. No plaintext files or decryption keys are sent to the server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ankhito/pmpshare",
-                "LastUpdate": 1782215976
+                "LastUpdate": 1782240614
             },
             {
                 "Author": "Ankhito",
@@ -1395,6 +1395,23 @@
         ]
     },
     {
+        "repo_developer_name": "anya-hichu",
+        "repo_url": "https://raw.githubusercontent.com/anya-hichu/TimelineAnimator/master/repo.json",
+        "repo_source_url": "https://github.com/anya-hichu/TimelineAnimator",
+        "repo_name": "TimelineAnimator",
+        "plugins": [
+            {
+                "Author": "DarkmodeLeyla",
+                "Name": "TimelineAnimator",
+                "InternalName": "TimelineAnimator",
+                "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/NanaKhide/TimelineAnimator",
+                "LastUpdate": 1764323739
+            }
+        ]
+    },
+    {
         "repo_developer_name": "apoclol",
         "repo_url": "https://raw.githubusercontent.com/apoclol/ffxiv-en-jp-translator/main/repo.json",
         "repo_source_url": "https://github.com/apoclol/ffxiv-en-jp-translator",
@@ -1597,7 +1614,7 @@
                 "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1782168895
+                "LastUpdate": 1782244579
             }
         ]
     },
@@ -1771,7 +1788,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782206913,
+                "LastUpdate": 1782238662,
                 "is_closed_source": true
             },
             {
@@ -1781,7 +1798,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782206913,
+                "LastUpdate": 1782238662,
                 "is_closed_source": true
             },
             {
@@ -1791,7 +1808,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782206913,
+                "LastUpdate": 1782238662,
                 "is_closed_source": true
             },
             {
@@ -1801,7 +1818,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782206913,
+                "LastUpdate": 1782238662,
                 "is_closed_source": true
             },
             {
@@ -2028,7 +2045,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1781886228
+                "LastUpdate": 1782248395
             },
             {
                 "Author": "veyn, croizat",
@@ -2937,7 +2954,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1782228831
+                "LastUpdate": 1782237382
             }
         ]
     },
@@ -3655,7 +3672,7 @@
                 "Description": "HiAuRo 是一个全栈战斗辅助框架，提供 ACR 接口、执行轴、事实轴、智能决策层和完整的 UI 系统。ACR 作者可开发各职业的战斗逻辑，普通用户也可通过内置轴获得完整的战斗辅助体验。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/denghaoxuan991876906/HiAuRo",
-                "LastUpdate": 1782228964
+                "LastUpdate": 1782247814
             },
             {
                 "Author": "嗨呀",
@@ -3673,7 +3690,7 @@
                 "Description": "房间管理 / 玩家职能 / 指令分发 / IPC 提供方。替代 XSZToolbox 房间服务的精简可分发插件。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/denghaoxuan991876906/RemoteRelay",
-                "LastUpdate": 1782228583
+                "LastUpdate": 1782247891
             }
         ]
     },
@@ -3752,7 +3769,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782172441
+                "LastUpdate": 1782247524
             }
         ]
     },
@@ -3786,7 +3803,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782172441
+                "LastUpdate": 1782247524
             }
         ]
     },
@@ -3803,7 +3820,7 @@
                 "Description": "Records, per character, the Free Company you belong to: name, tag, level, current master, member counts, FC credits, house ownership (district/ward/plot/world), and workshop airships & submersibles with build shorthand. Sortable table with click-to-expand details, a First Registered date, editable founder/house-winner notes, optional shared storage across all clients, and import from AutoRetainer and Submarine Tracker. Open with /fctracker (alias /fct).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/FCTracker",
-                "LastUpdate": 1781783773
+                "LastUpdate": 1782249981
             },
             {
                 "Author": "Akari",
@@ -3812,7 +3829,7 @@
                 "Description": "Passively records every housing lottery bid you place, per character, by reading the placard when you interact with it. One row per bid: character/world, region, district, ward, plot, size, FC-vs-personal, entry date, results-available date with live countdown, and outcome (Pending/Won/Lost). Auto-captures placard data during entry and results periods; auto-detects wins via the results SelectYesno; entry number is grabbed when shown and editable otherwise. Sortable table with click-to-expand details, per-column toggles, editable notes, and optional shared storage across all clients. Open with /hlt (alias /lotto).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/HousingLottoTracker",
-                "LastUpdate": 1782206595
+                "LastUpdate": 1782250006
             },
             {
                 "Author": "Akari",
@@ -3821,7 +3838,7 @@
                 "Description": "An all-in-one venue host toolkit: Venue Counter (multi-venue attendance + lifetime time tracking), Raffle Helper, Auction Helper (gil shorthand + buyer tracking), Giveaway Helper (anti-cheat), DR Tourny Helper (single or double elimination), Shout/Yell Helper, Bar Game Helper (custom + survival games, fixed/tiered/high-score payouts), Menu Helper (per-venue menus, macro serve sequences), plus a Settings tab with backup/restore and a master panic switch. Open with /venuehelper (aliases /vhelp, /vh). Exports to TXT, CSV, PDF, or XLSX.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/VenueHelper",
-                "LastUpdate": 1782206773
+                "LastUpdate": 1782249962
             }
         ]
     },
@@ -3838,7 +3855,7 @@
                 "Description": "Records, per character, the Free Company you belong to: name, tag, level, current master, member counts, FC credits, house ownership (district/ward/plot/world), and workshop airships & submersibles with build shorthand. Sortable table with click-to-expand details, a First Registered date, editable founder/house-winner notes, optional shared storage across all clients, and import from AutoRetainer and Submarine Tracker. Open with /fctracker (alias /fct).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/FCTracker",
-                "LastUpdate": 1781783773
+                "LastUpdate": 1782249981
             }
         ]
     },
@@ -3855,7 +3872,7 @@
                 "Description": "Passively records every housing lottery bid you place, per character, by reading the placard when you interact with it. One row per bid: character/world, region, district, ward, plot, size, FC-vs-personal, entrant count, entry date, results-available date with live countdown, and outcome (Pending/Won/Lost). Auto-captures placard data during entry and results periods; auto-detects wins via the results SelectYesno; entry number is grabbed when shown and editable otherwise. Sortable table with click-to-expand details, per-column toggles, editable notes, and optional shared storage across all clients. Open with /hlt (alias /lotto).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/HousingLottoTracker",
-                "LastUpdate": 1782206595
+                "LastUpdate": 1782250006
             }
         ]
     },
@@ -3872,7 +3889,7 @@
                 "Description": "An all-in-one venue host toolkit: Venue Counter, Raffle Helper, Auction Helper, and Giveaway Helper. Open with /venuehelper (aliases /vhelp, /vh). Exports to TXT, CSV, PDF, or XLSX.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/VenueHelper",
-                "LastUpdate": 1782206773
+                "LastUpdate": 1782249962
             }
         ]
     },
@@ -5380,7 +5397,7 @@
                 "Description": "A niche plugin designed to be user-friendly and multi-functional with rich customisation options, for power users.\n\nHighlights:\n  - Compact UI and user theme\n  - Customisable search options\n  - Rich ways for plugin interaction\n\nCheck out the 'Introduction' on Config Window for documentation.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/ComplicatedMarketBoard",
-                "LastUpdate": 1782165785
+                "LastUpdate": 1782238595
             }
         ]
     },
@@ -6480,6 +6497,23 @@
         ]
     },
     {
+        "repo_developer_name": "IgusMarine",
+        "repo_url": "https://raw.githubusercontent.com/IgusMarine/ffxiv-ptbr-localizer/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/IgusMarine/ffxiv-ptbr-localizer",
+        "repo_name": "ffxiv-ptbr-localizer",
+        "plugins": [
+            {
+                "Author": "Danila & comunidade PT-BR",
+                "Name": "FFXIV PT-BR Localizer",
+                "InternalName": "FFXIVPTBRLocalizer",
+                "Description": "Traduz a interface e os textos de Final Fantasy XIV para portugues brasileiro (PT-BR). Projeto de fa, nao-oficial e nao afiliado a Square Enix.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/IgusMarine/ffxiv-ptbr-localizer",
+                "LastUpdate": 1782247236
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ijnokmsc",
         "repo_url": "https://raw.githubusercontent.com/ijnokmsc/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/ijnokmsc/DalamudPlugins",
@@ -6585,7 +6619,7 @@
                 "Description": "Dalashade generates a separate ReShade preset from your base preset, then nudges known shader values using territory, weather, time, combat, cutscenes, and optional screenshot analysis. Use /dalashade to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ImperfectRain/Dalashade",
-                "LastUpdate": 1782114759
+                "LastUpdate": 1782245610
             }
         ]
     },
@@ -6988,7 +7022,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1782228831
+                "LastUpdate": 1782237382
             }
         ]
     },
@@ -7700,7 +7734,7 @@
                 "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kawaii/Hyperborea",
-                "LastUpdate": 1781616891
+                "LastUpdate": 1782238650
             }
         ]
     },
@@ -8252,7 +8286,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1781886228
+                "LastUpdate": 1782248395
             },
             {
                 "Author": "sourpuh",
@@ -8270,7 +8304,7 @@
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782206864
+                "LastUpdate": 1782236292
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -8305,7 +8339,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1782228831
+                "LastUpdate": 1782237382
             }
         ]
     },
@@ -10464,7 +10498,7 @@
                 "Description": "Observes Party Finder listings, filters for qualifying MINE raid listings, and sends sanitized observations to the official PFBeacon service. Does not send PF descriptions, player names, recruiter names, worlds, or Discord routing data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Miu-B/PFBeaconPlugin",
-                "LastUpdate": 1782223935
+                "LastUpdate": 1782243867
             }
         ]
     },
@@ -10827,7 +10861,7 @@
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782229188
+                "LastUpdate": 1782251569
             },
             {
                 "Author": "Nainaiowo",
@@ -10938,23 +10972,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NanaKhide/MCDExport",
                 "LastUpdate": 1766069824
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "NanaKhide",
-        "repo_url": "https://raw.githubusercontent.com/NanaKhide/TimelineAnimator/master/repo.json",
-        "repo_source_url": "https://github.com/NanaKhide/TimelineAnimator",
-        "repo_name": "TimelineAnimator",
-        "plugins": [
-            {
-                "Author": "DarkmodeLeyla",
-                "Name": "TimelineAnimator",
-                "InternalName": "TimelineAnimator",
-                "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/NanaKhide/TimelineAnimator",
-                "LastUpdate": 1766323031
             }
         ]
     },
@@ -12242,6 +12259,23 @@
         ]
     },
     {
+        "repo_developer_name": "NoHideout",
+        "repo_url": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/repo.json",
+        "repo_source_url": "https://github.com/NoHideout/TimelineAnimator",
+        "repo_name": "TimelineAnimator",
+        "plugins": [
+            {
+                "Author": "DarkmodeLeyla",
+                "Name": "TimelineAnimator",
+                "InternalName": "TimelineAnimator",
+                "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NoHideout/TimelineAnimator",
+                "LastUpdate": 1782251185
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/nomenclature-xiv/Nomenclature/raw/refs/heads/main/repo.json",
         "repo_source_url": "https://github.com/nomenclature-xiv/Nomenclature",
         "repo_developer_name": "nomenclature-xiv",
@@ -12567,7 +12601,7 @@
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1782072434
+                "LastUpdate": 1782243160
             },
             {
                 "Author": "OOFGames",
@@ -12576,7 +12610,7 @@
                 "Description": "Browse active gambling events across Eorzea or host your own session. Use /gambawhere to open the interface.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1782072431
+                "LastUpdate": 1782243157
             },
             {
                 "Author": "OOFGames",
@@ -12767,7 +12801,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1782228831
+                "LastUpdate": 1782237382
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -13575,7 +13609,7 @@
                 "Description": "Chronofoil is a plugin that allows you to capture in-game packets for analysis later.\nIt also allows you to upload a censored version of these captures to a central repository for\npreservation and analysis. Privacy controls are at the center of Chronofoil, which is why it\nrequires two levels of user opt-in, has minimum delays on releasing any submitted user info,\nand allows users to delete their submitted data at any time.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ProjectChronofoil/Chronofoil.Plugin",
-                "LastUpdate": 1782226516
+                "LastUpdate": 1782253198
             }
         ]
     },
@@ -13706,7 +13740,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782206864
+                "LastUpdate": 1782236292
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -14604,7 +14638,7 @@
                 "Description": "A compact GPose casting tool. Search visible actors, import overworld players into GPose for Brio/Ktisis, build a picked group, and hide everyone else locally for cleaner screenshots.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/reyalexffxiv/GposeCast",
-                "LastUpdate": 1782230014
+                "LastUpdate": 1782236137
             }
         ]
     },
@@ -16137,7 +16171,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/MareSynchronosClient",
-                "LastUpdate": 1782220635
+                "LastUpdate": 1782253390
             },
             {
                 "Author": "Solona",
@@ -16360,7 +16394,7 @@
                 "Description": "Brand new combos like never before - 1 button mode included! Features extra functionality not in other combo plugins like PvP, Blue Mage, Eureka, and Bozja!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/StackBLU/UltimateCombo",
-                "LastUpdate": 1780024079
+                "LastUpdate": 1782236661
             }
         ]
     },
@@ -16615,7 +16649,7 @@
                 "Description": "Plugin to help turning mit sheets into callouts, with fight timelines and auto syncing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/swixum/FrenMits",
-                "LastUpdate": 1782181397
+                "LastUpdate": 1782251981
             }
         ]
     },
@@ -17300,7 +17334,7 @@
                 "Description": "傻肥工具箱, 包含一些给自己和亲友用的小功能\n如果有什么想要的功能请直接联系我, 我会尽力加入工具箱",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/u86cd/DalamudPlugins",
-                "LastUpdate": 1782149490
+                "LastUpdate": 1782231052
             }
         ]
     },
@@ -17385,7 +17419,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1782195309
+                "LastUpdate": 1782251418
             }
         ]
     },
@@ -18439,7 +18473,7 @@
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1782148765
+                "LastUpdate": 1782244251
             },
             {
                 "Author": "XeldarAlz",
@@ -18501,7 +18535,7 @@
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1782148765
+                "LastUpdate": 1782244251
             }
         ]
     },
@@ -19130,7 +19164,7 @@
                 "Description": "RPFramework provides roleplay helpers including a custom item inventory (/rpinv or /rpinventory), a synced BGM player (/rpbgm), inventory trading and shared bags over a relay server, and more modules coming soon.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ZeroTheScyther/RPFramework",
-                "LastUpdate": 1782167025
+                "LastUpdate": 1782242919
             }
         ]
     },
