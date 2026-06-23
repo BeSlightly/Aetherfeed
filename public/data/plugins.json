@@ -501,7 +501,7 @@
                 "Description": "Footballer is a private privacy-respecting foot showcase plugin with a saved main-window krangle toggle, cached Lodestone face gating, preview-only barefoot mode.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/footballer",
-                "LastUpdate": 1777533609
+                "LastUpdate": 1782170947
             },
             {
                 "Author": "DhogGPT",
@@ -510,7 +510,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1781985573
+                "LastUpdate": 1782165804
             },
             {
                 "Author": "DhogGPT",
@@ -537,7 +537,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, reading local map flags, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1781927588
+                "LastUpdate": 1782170481
             },
             {
                 "Author": "DhogGPT",
@@ -1597,7 +1597,7 @@
                 "Description": "A plugin that automatically turns-in your collectables in your inventory and buys specified items in the scrip shop.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1782151086
+                "LastUpdate": 1782168895
             }
         ]
     },
@@ -2302,7 +2302,24 @@
                 "Description": "Temporarily switches to a custom high resolution so you can take screenshots beyond what the in-game settings allow, then restores your original resolution when done.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bimilbimil/XIVClearSS",
-                "LastUpdate": 1782094175
+                "LastUpdate": 1782171492
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "bimilbimil",
+        "repo_url": "https://raw.githubusercontent.com/bimilbimil/XIVThirdEye/main/repo.json",
+        "repo_source_url": "https://github.com/bimilbimil/XIVThirdEye",
+        "repo_name": "XIVThirdEye",
+        "plugins": [
+            {
+                "Author": "Asphodel",
+                "Name": "Third Eye",
+                "InternalName": "XIVThirdEye",
+                "Description": "Lists all players in your current instance and lets you Examine, view their Adventure Plate, copy their name for /tell, invite them to party, or send a friend request — all without clicking on them directly.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bimilbimil/XIVThirdEye",
+                "LastUpdate": 1782172749
             }
         ]
     },
@@ -2867,9 +2884,9 @@
                 "Name": "StatusLinker",
                 "InternalName": "StatusLinker",
                 "Description": "StatusLinker",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Catphinaud/StatusLinker",
-                "LastUpdate": 1766322324
+                "LastUpdate": 1782163251
             }
         ]
     },
@@ -2920,7 +2937,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1781562916
+                "LastUpdate": 1782184121
             }
         ]
     },
@@ -3499,7 +3516,7 @@
                 "Description": "Namazu Flippers connects to the Saddlebag Exchange API to find daily cross-server arbitrage opportunities. Get a route-optimized shopping list, travel between servers, buy low, sell high on your home world. One scan, one route, done in under 20 minutes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/DarrellTang/namazu-flippers",
-                "LastUpdate": 1781675663
+                "LastUpdate": 1782171494
             }
         ]
     },
@@ -3735,7 +3752,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782161380
+                "LastUpdate": 1782172441
             }
         ]
     },
@@ -3769,7 +3786,42 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782161380
+                "LastUpdate": 1782172441
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "dexcss",
+        "repo_url": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/dexcss/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Akari",
+                "Name": "FC Tracker",
+                "InternalName": "FCTracker",
+                "Description": "Records, per character, the Free Company you belong to: name, tag, level, current master, member counts, FC credits, house ownership (district/ward/plot/world), and workshop airships & submersibles with build shorthand. Sortable table with click-to-expand details, a First Registered date, editable founder/house-winner notes, optional shared storage across all clients, and import from AutoRetainer and Submarine Tracker. Open with /fctracker (alias /fct).",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dexcss/FCTracker",
+                "LastUpdate": 1781783773
+            },
+            {
+                "Author": "Akari",
+                "Name": "Housing Lotto Tracker",
+                "InternalName": "HousingLottoTracker",
+                "Description": "Passively records every housing lottery bid you place, per character, by reading the placard when you interact with it. One row per bid: character/world, region, district, ward, plot, size, FC-vs-personal, entry date, results-available date with live countdown, and outcome (Pending/Won/Lost). Auto-captures placard data during entry and results periods; auto-detects wins via the results SelectYesno; entry number is grabbed when shown and editable otherwise. Sortable table with click-to-expand details, per-column toggles, editable notes, and optional shared storage across all clients. Open with /hlt (alias /lotto).",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dexcss/HousingLottoTracker",
+                "LastUpdate": 1782177847
+            },
+            {
+                "Author": "Akari",
+                "Name": "Venue Helper",
+                "InternalName": "VenueHelper",
+                "Description": "An all-in-one venue host toolkit: Venue Counter (multi-venue attendance + lifetime time tracking), Raffle Helper, Auction Helper (gil shorthand + buyer tracking), Giveaway Helper (anti-cheat), DR Tourny Helper (single or double elimination), Shout/Yell Helper, Bar Game Helper (custom + survival games, fixed/tiered/high-score payouts), Menu Helper (per-venue menus, macro serve sequences), plus a Settings tab with backup/restore and a master panic switch. Open with /venuehelper (aliases /vhelp, /vh). Exports to TXT, CSV, PDF, or XLSX.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dexcss/VenueHelper",
+                "LastUpdate": 1782024979
             }
         ]
     },
@@ -3803,7 +3855,7 @@
                 "Description": "Passively records every housing lottery bid you place, per character, by reading the placard when you interact with it. One row per bid: character/world, region, district, ward, plot, size, FC-vs-personal, entrant count, entry date, results-available date with live countdown, and outcome (Pending/Won/Lost). Auto-captures placard data during entry and results periods; auto-detects wins via the results SelectYesno; entry number is grabbed when shown and editable otherwise. Sortable table with click-to-expand details, per-column toggles, editable notes, and optional shared storage across all clients. Open with /hlt (alias /lotto).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/HousingLottoTracker",
-                "LastUpdate": 1782095191
+                "LastUpdate": 1782177847
             }
         ]
     },
@@ -4805,7 +4857,7 @@
                 "Description": "Required plugins: vnavmesh, Rotation Solver Reborn.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/exatrines/AutoFrontline",
-                "LastUpdate": 1781896192
+                "LastUpdate": 1782182106
             },
             {
                 "Author": "mirage",
@@ -4893,7 +4945,7 @@
                 "Description": "Projects YouTube videos and livestreams (and any source) onto a surface in the world or onto a minion, with a synchronized broadcast from the host to the peers. Requires DirectX 11.\n\n⚠ IN TESTING & VALIDATION: the plugin is still in development and may freeze/crash.\n\nTo show the video ON A MINION you must install the (Penumbra) mod that provides the correct minion screen shape: https://www.xivmodarchive.com/modid/112306",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://aethertv.cloud",
-                "LastUpdate": 1782090584
+                "LastUpdate": 1782178512
             }
         ]
     },
@@ -4910,7 +4962,7 @@
                 "Description": "A plugin that voices every NPC dialogue, battle interaction, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1782143530
+                "LastUpdate": 1782172141
             }
         ]
     },
@@ -5328,7 +5380,7 @@
                 "Description": "A niche plugin designed to be user-friendly and multi-functional with rich customisation options, for power users.\n\nHighlights:\n  - Compact UI and user theme\n  - Customisable search options\n  - Rich ways for plugin interaction\n\nCheck out the 'Introduction' on Config Window for documentation.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/ComplicatedMarketBoard",
-                "LastUpdate": 1782012252
+                "LastUpdate": 1782165785
             }
         ]
     },
@@ -5995,7 +6047,7 @@
                 "Description": "Shows unlockable content, marks completed quest-backed entries when possible, keeps manual state for unsupported entries, and opens map flags for known locations. Command: /vunlock",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/hartturmch/ffxiv-unlocklist",
-                "LastUpdate": 1782152069
+                "LastUpdate": 1782163923
             }
         ]
     },
@@ -6936,7 +6988,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 11,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1781562916
+                "LastUpdate": 1782184121
             }
         ]
     },
@@ -7735,7 +7787,7 @@
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1782143530
+                "LastUpdate": 1782172141
             }
         ]
     },
@@ -8253,7 +8305,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1781562916
+                "LastUpdate": 1782184121
             }
         ]
     },
@@ -8321,7 +8373,7 @@
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1781434457
+                "LastUpdate": 1782181634
             }
         ]
     },
@@ -8803,7 +8855,7 @@
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1782090260
+                "LastUpdate": 1782179710
             }
         ]
     },
@@ -9312,7 +9364,7 @@
                 "Description": "它能幫你自動釣魚, 你信嗎?",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782146544
+                "LastUpdate": 1782164855
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -9775,7 +9827,7 @@
                 "Description": "Footballer is a private privacy-respecting foot showcase plugin with a saved main-window krangle toggle, cached Lodestone face gating, preview-only barefoot mode, and hidden debug research surfaces.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/footballer",
-                "LastUpdate": 1777533609
+                "LastUpdate": 1782170947
             }
         ]
     },
@@ -9792,7 +9844,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1781985573
+                "LastUpdate": 1782165804
             }
         ]
     },
@@ -9860,7 +9912,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1781927588
+                "LastUpdate": 1782170481
             }
         ]
     },
@@ -9940,7 +9992,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1781985573
+                "LastUpdate": 1782165804
             },
             {
                 "Author": "DhogGPT",
@@ -9967,7 +10019,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1781927588
+                "LastUpdate": 1782170481
             },
             {
                 "Author": "DhogGPT",
@@ -10775,7 +10827,7 @@
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782148701
+                "LastUpdate": 1782183832
             },
             {
                 "Author": "Nainaiowo",
@@ -11257,7 +11309,7 @@
                 "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1782095589
+                "LastUpdate": 1782179970
             },
             {
                 "Author": "goat, Maple",
@@ -11373,7 +11425,7 @@
                 "Description": "Provides useful tools for hunt trains such as: highlighting conductor messages and muting all other chat, auto-opening flags from conductors and auto-teleporting to announced destination.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NightmareXIV/HuntTrainAssistant",
-                "LastUpdate": 1777754607
+                "LastUpdate": 1782178280
             },
             {
                 "Author": "NightmareXIV",
@@ -12049,7 +12101,7 @@
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1781992683
+                "LastUpdate": 1782167843
             }
         ]
     },
@@ -12224,54 +12276,19 @@
         ]
     },
     {
-        "repo_url": "https://github.com/NostraThomas99/NostraPlugins/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/NostraThomas99/NostraPlugins",
-        "repo_name": "NostraPlugins",
-        "repo_developer_name": "NostraThomas99",
-        "plugins": [
-            {
-                "Author": "NostraThomas",
-                "Name": "BuyHard",
-                "InternalName": "BuyHelper",
-                "Description": "Helps you buy items in bulk",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NostraThomas99/BuyHelper",
-                "LastUpdate": 1751680278
-            },
-            {
-                "Author": "NostraThomas",
-                "Name": "Scrounger",
-                "InternalName": "Scrounger",
-                "Description": "Automatic gathering of crafting materials using vnavmesh (and other plugins)",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/NostraThomas99/Scrounger",
-                "LastUpdate": 1744079640
-            },
-            {
-                "Author": "NostraThomas",
-                "Name": "Supermarket Sweep",
-                "InternalName": "SupermarketSweep",
-                "Description": "Makes shopping on the Marketboard easier by using Lifestream and vnavmesh to move you between servers automatically while helping you find the best prices.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/NostraThomas99/SupermarketSweep",
-                "LastUpdate": 1778716340
-            }
-        ]
-    },
-    {
         "repo_developer_name": "notmugi",
         "repo_url": "https://raw.githubusercontent.com/notmugi/autofate/main/repo.json",
         "repo_source_url": "https://github.com/notmugi/autofate",
         "repo_name": "autofate",
         "plugins": [
             {
-                "Author": "Autofate",
+                "Author": "Mugi Pie",
                 "Name": "Autofate",
                 "InternalName": "Autofate",
                 "Description": "Automates FATE farming: leveling, single zone, shared fates, atma, demiatma, luminous crystals, memories, and a fully customizable manual mode. Integrates with vnavmesh, Lifestream, BossMod Reborn, Wrath Combo, Rotation Solver Reborn, and AutoRetainer.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/notmugi/autofate",
-                "LastUpdate": 1782086272
+                "LastUpdate": 1782174090
             }
         ]
     },
@@ -12472,7 +12489,7 @@
                 "Description": "根据钓鱼条件自动抬杆，可配合采集资料库和宇宙探索使用。已保留插件内置中文资源。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782146544
+                "LastUpdate": 1782164855
             },
             {
                 "Author": "The Combat Reborn Team, Codex(中文整理)",
@@ -12750,7 +12767,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1781562916
+                "LastUpdate": 1782184121
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -13063,7 +13080,7 @@
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1781992518
+                "LastUpdate": 1782167058
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -13618,7 +13635,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782146544
+                "LastUpdate": 1782164855
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -13707,7 +13724,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1782018171
+                "LastUpdate": 1782184413
             },
             {
                 "Author": "Team Wrath",
@@ -14269,6 +14286,41 @@
         "repo_developer_name": "reckhou"
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/Recursive-Entity-Matrix/NostraPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Recursive-Entity-Matrix/NostraPlugins",
+        "repo_name": "NostraPlugins",
+        "repo_developer_name": "Recursive-Entity-Matrix",
+        "plugins": [
+            {
+                "Author": "NostraThomas",
+                "Name": "BuyHard",
+                "InternalName": "BuyHelper",
+                "Description": "Helps you buy items in bulk",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NostraThomas99/BuyHelper",
+                "LastUpdate": 1751680278
+            },
+            {
+                "Author": "NostraThomas",
+                "Name": "Scrounger",
+                "InternalName": "Scrounger",
+                "Description": "Automatic gathering of crafting materials using vnavmesh (and other plugins)",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/NostraThomas99/Scrounger",
+                "LastUpdate": 1744079640
+            },
+            {
+                "Author": "NostraThomas",
+                "Name": "Supermarket Sweep",
+                "InternalName": "SupermarketSweep",
+                "Description": "Makes shopping on the Marketboard easier by using Lifestream and vnavmesh to move you between servers automatically while helping you find the best prices.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NostraThomas99/SupermarketSweep",
+                "LastUpdate": 1778716340
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/redeven/DalamudPluginRepo/raw/master/repository.json",
         "repo_source_url": "https://github.com/redeven/DalamudPluginRepo",
         "repo_name": "DalamudPluginRepo",
@@ -14452,23 +14504,6 @@
     },
     {
         "repo_developer_name": "ResFox",
-        "repo_url": "https://raw.githubusercontent.com/ResFox/mitmaxxing-xiv/main/repo.json",
-        "repo_source_url": "https://github.com/ResFox/mitmaxxing-xiv",
-        "repo_name": "mitmaxxing-xiv",
-        "plugins": [
-            {
-                "Author": "Res",
-                "Name": "Mitmaxxing",
-                "InternalName": "MitStack",
-                "Description": "A clean mitigation and death recap overlay to see your mitigations in real time during fights.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/ResFox/mitmaxxing-xiv",
-                "LastUpdate": 1780103951
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "ResFox",
         "repo_url": "https://raw.githubusercontent.com/ResFox/YapYap/main/repo.json",
         "repo_source_url": "https://github.com/ResFox/YapYap",
         "repo_name": "YapYap",
@@ -14481,7 +14516,7 @@
                 "Description": "A clean fight log and custom trigger overlay. Watch every cast and status in real time, then right-click any line to build your own TTS and on-screen callout.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ResFox/YapYap",
-                "LastUpdate": 1781920811
+                "LastUpdate": 1782183946
             }
         ]
     },
@@ -15499,7 +15534,7 @@
                 "Description": "Play nearly any public facing video/image/music URL in game and with friends!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/XivMediaPlayer",
-                "LastUpdate": 1782128641
+                "LastUpdate": 1782176963
             }
         ]
     },
@@ -15645,7 +15680,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1782018171
+                "LastUpdate": 1782184413
             }
         ]
     },
@@ -16097,12 +16132,21 @@
         "plugins": [
             {
                 "Author": "Solona",
+                "Name": "PlayerSync (Soli's Version)",
+                "InternalName": "MareSempiterne",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/solona-m/MareSynchronosClient",
+                "LastUpdate": 1782177616
+            },
+            {
+                "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1782161338
+                "LastUpdate": 1782164037
             }
         ]
     },
@@ -16571,7 +16615,7 @@
                 "Description": "Plugin to help turning mit sheets into callouts, with fight timelines and auto syncing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/swixum/FrenMits",
-                "LastUpdate": 1782101102
+                "LastUpdate": 1782181397
             }
         ]
     },
@@ -17341,7 +17385,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1782086036
+                "LastUpdate": 1782179109
             }
         ]
     },
@@ -17724,7 +17768,7 @@
                 "Description": "Client-side virtual extension of the FFXIV ignore list: additionally mute and hide players, with categories, notes and auto-expiry. UI available in English and German.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VelvetFFXIV/XIVIgnore",
-                "LastUpdate": 1782153244
+                "LastUpdate": 1782170032
             }
         ]
     },
@@ -17966,7 +18010,7 @@
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1782160274
+                "LastUpdate": 1782176765
             }
         ]
     },
@@ -18559,7 +18603,7 @@
                 "Description": "Tired of manually babysitting your BossMod settings mid-fight? XCAI handles your positioning, distances, and Ley Lines automatically so you can focus on not dying. Results may vary on the not dying part.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XelsPlugins/XelsCombatAI",
-                "LastUpdate": 1782160589
+                "LastUpdate": 1782163723
             },
             {
                 "Author": "Xeltor / XelsPlugins, originally by Blackcatz1911",
@@ -19086,7 +19130,7 @@
                 "Description": "RPFramework provides roleplay helpers including a custom item inventory (/rpinv or /rpinventory), a synced BGM player (/rpbgm), inventory trading and shared bags over a relay server, and more modules coming soon.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ZeroTheScyther/RPFramework",
-                "LastUpdate": 1782036820
+                "LastUpdate": 1782167025
             }
         ]
     },
@@ -19214,7 +19258,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1781992518
+                "LastUpdate": 1782167058
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
