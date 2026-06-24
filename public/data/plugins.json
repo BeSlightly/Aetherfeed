@@ -510,7 +510,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1782165804
+                "LastUpdate": 1782265978
             },
             {
                 "Author": "DhogGPT",
@@ -1177,7 +1177,8 @@
                 "Description": "Uploads and downloads encrypted .pmp transfers through a private PmpShare Cloudflare Worker API. No plaintext files or decryption keys are sent to the server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ankhito/pmpshare",
-                "LastUpdate": 1782240614
+                "LastUpdate": 1782240614,
+                "is_closed_source": true
             },
             {
                 "Author": "Ankhito",
@@ -1700,7 +1701,7 @@
                 "Description": "Notifies you when hunt trains are starting soon\nSupports NA/EU/OCE",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://projects.gamba.pro/Asuna/HuntAlerts",
-                "LastUpdate": 1781625473
+                "LastUpdate": 1782264377
             },
             {
                 "Author": "Asuna",
@@ -2141,7 +2142,7 @@
                 "Description": "Automates retainer item listing and repricing by cycling through retainers, reading market prices from Universalis, and updating listings safely. Use /repricer or /rr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/baanderson40/Retainer-Repricer",
-                "LastUpdate": 1781805957
+                "LastUpdate": 1782256961
             }
         ]
     },
@@ -3760,7 +3761,7 @@
                 "Description": "A collection of small quality-of-life tweaks designed to make your time in Eorzea more comfortable, one small luxury at a time. Use /llux to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/LittleLuxuries",
-                "LastUpdate": 1781905584
+                "LastUpdate": 1782269134
             },
             {
                 "Author": "Oreo",
@@ -3769,7 +3770,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782247524
+                "LastUpdate": 1782258783
             }
         ]
     },
@@ -3786,7 +3787,7 @@
                 "Description": "A collection of small quality-of-life tweaks designed to make your time in Eorzea more comfortable, one small luxury at a time. Use /llux to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/LittleLuxuries",
-                "LastUpdate": 1781905584
+                "LastUpdate": 1782269134
             }
         ]
     },
@@ -3803,7 +3804,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782247524
+                "LastUpdate": 1782258783
             }
         ]
     },
@@ -3820,7 +3821,7 @@
                 "Description": "Records, per character, the Free Company you belong to: name, tag, level, current master, member counts, FC credits, house ownership (district/ward/plot/world), and workshop airships & submersibles with build shorthand. Sortable table with click-to-expand details, a First Registered date, editable founder/house-winner notes, optional shared storage across all clients, and import from AutoRetainer and Submarine Tracker. Open with /fctracker (alias /fct).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/FCTracker",
-                "LastUpdate": 1782249981
+                "LastUpdate": 1782265611
             },
             {
                 "Author": "Akari",
@@ -3829,7 +3830,7 @@
                 "Description": "Passively records every housing lottery bid you place, per character, by reading the placard when you interact with it. One row per bid: character/world, region, district, ward, plot, size, FC-vs-personal, entry date, results-available date with live countdown, and outcome (Pending/Won/Lost). Auto-captures placard data during entry and results periods; auto-detects wins via the results SelectYesno; entry number is grabbed when shown and editable otherwise. Sortable table with click-to-expand details, per-column toggles, editable notes, and optional shared storage across all clients. Open with /hlt (alias /lotto).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/HousingLottoTracker",
-                "LastUpdate": 1782250006
+                "LastUpdate": 1782265540
             },
             {
                 "Author": "Akari",
@@ -3838,7 +3839,7 @@
                 "Description": "An all-in-one venue host toolkit: Venue Counter (multi-venue attendance + lifetime time tracking), Raffle Helper, Auction Helper (gil shorthand + buyer tracking), Giveaway Helper (anti-cheat), DR Tourny Helper (single or double elimination), Shout/Yell Helper, Bar Game Helper (custom + survival games, fixed/tiered/high-score payouts), Menu Helper (per-venue menus, macro serve sequences), plus a Settings tab with backup/restore and a master panic switch. Open with /venuehelper (aliases /vhelp, /vh). Exports to TXT, CSV, PDF, or XLSX.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/VenueHelper",
-                "LastUpdate": 1782249962
+                "LastUpdate": 1782265786
             }
         ]
     },
@@ -3855,7 +3856,7 @@
                 "Description": "Records, per character, the Free Company you belong to: name, tag, level, current master, member counts, FC credits, house ownership (district/ward/plot/world), and workshop airships & submersibles with build shorthand. Sortable table with click-to-expand details, a First Registered date, editable founder/house-winner notes, optional shared storage across all clients, and import from AutoRetainer and Submarine Tracker. Open with /fctracker (alias /fct).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/FCTracker",
-                "LastUpdate": 1782249981
+                "LastUpdate": 1782265611
             }
         ]
     },
@@ -3872,7 +3873,7 @@
                 "Description": "Passively records every housing lottery bid you place, per character, by reading the placard when you interact with it. One row per bid: character/world, region, district, ward, plot, size, FC-vs-personal, entrant count, entry date, results-available date with live countdown, and outcome (Pending/Won/Lost). Auto-captures placard data during entry and results periods; auto-detects wins via the results SelectYesno; entry number is grabbed when shown and editable otherwise. Sortable table with click-to-expand details, per-column toggles, editable notes, and optional shared storage across all clients. Open with /hlt (alias /lotto).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/HousingLottoTracker",
-                "LastUpdate": 1782250006
+                "LastUpdate": 1782265540
             }
         ]
     },
@@ -3889,7 +3890,7 @@
                 "Description": "An all-in-one venue host toolkit: Venue Counter, Raffle Helper, Auction Helper, and Giveaway Helper. Open with /venuehelper (aliases /vhelp, /vh). Exports to TXT, CSV, PDF, or XLSX.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/VenueHelper",
-                "LastUpdate": 1782249962
+                "LastUpdate": 1782265786
             }
         ]
     },
@@ -4114,7 +4115,7 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1782228890
+                "LastUpdate": 1782269667
             },
             {
                 "Author": "Eauldane",
@@ -6362,7 +6363,7 @@
                 "Description": "Notifies you when hunt trains are starting soon",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/huntsffxiv",
-                "LastUpdate": 1781625677
+                "LastUpdate": 1782264448
             }
         ],
         "repo_name": "repo",
@@ -6503,13 +6504,13 @@
         "repo_name": "ffxiv-ptbr-localizer",
         "plugins": [
             {
-                "Author": "Danila & comunidade PT-BR",
+                "Author": "Eorzea PT-BR",
                 "Name": "FFXIV PT-BR Localizer",
                 "InternalName": "FFXIVPTBRLocalizer",
                 "Description": "Traduz a interface e os textos de Final Fantasy XIV para portugues brasileiro (PT-BR). Projeto de fa, nao-oficial e nao afiliado a Square Enix.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/IgusMarine/ffxiv-ptbr-localizer",
-                "LastUpdate": 1782247236
+                "LastUpdate": 1782271768
             }
         ]
     },
@@ -6920,7 +6921,7 @@
                 "Description": "This plugin is an expansion of the native macro system in FFXIV. Unlimited slots, unlimited length, more commands, more modifiers. It also has a lua engine along with many modules for automating much of the game.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1780995003
+                "LastUpdate": 1782253847
             }
         ]
     },
@@ -7443,7 +7444,7 @@
                 "Description": "Saves housing layouts to JSON files from anywhere you can stand: your own house or any home you visit.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Just-Chaldea/VisitorsPass",
-                "LastUpdate": 1782229730,
+                "LastUpdate": 1782257364,
                 "is_closed_source": true
             }
         ]
@@ -9793,7 +9794,7 @@
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1782094879
+                "LastUpdate": 1782265998
             }
         ]
     },
@@ -9878,7 +9879,7 @@
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1782165804
+                "LastUpdate": 1782265978
             }
         ]
     },
@@ -10026,7 +10027,7 @@
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1782165804
+                "LastUpdate": 1782265978
             },
             {
                 "Author": "DhogGPT",
@@ -10283,9 +10284,9 @@
                 "Name": "MZRadialMenu",
                 "InternalName": "MZRadialMenu",
                 "Description": "A radial menu implemented with ImComponents",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mids-collective/MZRadialMenu",
-                "LastUpdate": 1766335817
+                "LastUpdate": 1782266522
             }
         ]
     },
@@ -10300,9 +10301,9 @@
                 "Name": "MZRadialMenu",
                 "InternalName": "MZRadialMenu",
                 "Description": "A radial menu implemented with ImComponents",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mids-collective/MZRadialMenu",
-                "LastUpdate": 1766335817
+                "LastUpdate": 1782266522
             }
         ]
     },
@@ -10861,7 +10862,7 @@
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782251569
+                "LastUpdate": 1782276579
             },
             {
                 "Author": "Nainaiowo",
@@ -10896,7 +10897,7 @@
                 "Description": "Reads a local project status bridge file and sends the current project activity to an Honorific-compatible title plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/project-honorific",
-                "LastUpdate": 1782144425
+                "LastUpdate": 1782272930
             }
         ]
     },
@@ -11326,7 +11327,7 @@
                 "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1782179970
+                "LastUpdate": 1782266386
             },
             {
                 "Author": "goat, Maple",
@@ -11335,7 +11336,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1782016910
+                "LastUpdate": 1782273213
             }
         ]
     },
@@ -13758,7 +13759,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1782222733
+                "LastUpdate": 1782274715
             },
             {
                 "Author": "Team Wrath",
@@ -14568,7 +14569,7 @@
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ResFox/YapYapDraw",
-                "LastUpdate": 1782097011
+                "LastUpdate": 1782267634
             }
         ]
     },
@@ -14621,7 +14622,7 @@
                 "Description": "Now for more than crafting!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1780995003
+                "LastUpdate": 1782253847
             }
         ]
     },
@@ -14878,7 +14879,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1782224823
+                "LastUpdate": 1782269338
             }
         ]
     },
@@ -14895,7 +14896,7 @@
                 "Description": "Tracks every player you encounter, with full history of name changes, world transfers, and appearance changes. Links alt characters on the same account via Account ID. Pulls jobs, minions, and mounts from the Lodestone. Stored locally in SQLite, with optional server sync for shared data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1782224823
+                "LastUpdate": 1782269338
             },
             {
                 "Author": "Rose",
@@ -15568,7 +15569,7 @@
                 "Description": "Play nearly any public facing video/image/music URL in game and with friends!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/XivMediaPlayer",
-                "LastUpdate": 1782176963
+                "LastUpdate": 1782255661
             }
         ]
     },
@@ -15714,7 +15715,7 @@
                 "Description": "小画家.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1782222733
+                "LastUpdate": 1782274715
             }
         ]
     },
@@ -15920,7 +15921,7 @@
                 "Description": "独立的卫月插件，负责 FF14 聊天上行与机器人下行，支持 WebSocket 下行与 pull 回退。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1781939151
+                "LastUpdate": 1782264685
             },
             {
                 "Author": "XSZYYS",
@@ -15929,7 +15930,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1781939151,
+                "LastUpdate": 1782264685,
                 "is_closed_source": true
             }
         ]
@@ -18044,7 +18045,7 @@
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1782218726
+                "LastUpdate": 1782260272
             }
         ]
     },
