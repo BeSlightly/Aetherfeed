@@ -1,4 +1,5 @@
 import type { Plugin, Repo } from '../hooks/usePlugins';
+import { normalizeTimestampToMillis } from './formatDate';
 
 export interface ProcessedPlugin extends Plugin {
     _repo: Repo;
@@ -121,7 +122,7 @@ export const processPlugins = (
                     const apiLevel = occ.pluginData._apiLevel || 0;
                     if (apiLevel) allApiLevelsInGroup.add(apiLevel);
 
-                    const currentTs = occ.pluginData.LastUpdate || 0;
+                    const currentTs = normalizeTimestampToMillis(occ.pluginData.LastUpdate || 0);
                     if (currentTs > maxLastUpdate) maxLastUpdate = currentTs;
 
                     if (hasPriorityOccurrence && !priorityRepoUrls.has(occ.repoData.repo_url)) {
@@ -133,7 +134,7 @@ export const processPlugins = (
                     if (apiLevel > bestApi) {
                         bestOccurrence = occ;
                     } else if (apiLevel === bestApi) {
-                        if (currentTs > (bestOccurrence.pluginData.LastUpdate || 0)) {
+                        if (currentTs > normalizeTimestampToMillis(bestOccurrence.pluginData.LastUpdate || 0)) {
                             bestOccurrence = occ;
                         }
                     }
@@ -205,7 +206,7 @@ function createFinalPluginObject(occurrence: IntermediatePluginOccurrence): Proc
 
     finalPlugin.plugin_api_levels_array.sort((a: number, b: number) => b - a);
     finalPlugin._maxApiLevel = occurrence._maxApiLevel || finalPlugin.plugin_api_levels_array[0] || 0;
-    finalPlugin.plugin_last_updated_max_ts = finalPlugin.LastUpdate || 0;
+    finalPlugin.plugin_last_updated_max_ts = occurrence._maxLastUpdateTimestampInGroup || normalizeTimestampToMillis(finalPlugin.LastUpdate || 0);
 
     const repoUrl = finalPlugin._repo.repo_url || "";
 

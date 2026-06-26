@@ -1,20 +1,25 @@
-export const formatDate = (timestampInput: number | string): string => {
-    if (!timestampInput) return "N/A";
+export const normalizeTimestampToMillis = (timestampInput: number | string): number => {
+    if (!timestampInput) return 0;
 
-    let timestampMillis = 0;
     const num = Number(timestampInput);
 
-    if (isNaN(num) || num === 0) return "N/A";
+    if (isNaN(num) || num === 0) return 0;
 
     const sNum = String(Math.floor(Math.abs(num)));
 
     // Heuristic: if it's likely already milliseconds (e.g., 13+ digits, or a very large number for seconds)
     if (sNum.length >= 12 || num > 40000000000) {
-        timestampMillis = num;
-    } else {
-        // Heuristic: if it's likely seconds (e.g., 10 digits like typical Unix epoch in seconds)
-        timestampMillis = num * 1000;
+        return num;
     }
+
+    // Heuristic: if it's likely seconds (e.g., 10 digits like typical Unix epoch in seconds)
+    return num * 1000;
+};
+
+export const formatDate = (timestampInput: number | string): string => {
+    const timestampMillis = normalizeTimestampToMillis(timestampInput);
+
+    if (!timestampMillis) return "N/A";
 
     const nowMillis = new Date().getTime();
     let seconds = Math.floor((nowMillis - timestampMillis) / 1000);
