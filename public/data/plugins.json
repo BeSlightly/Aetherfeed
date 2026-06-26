@@ -898,6 +898,32 @@
     },
     {
         "repo_developer_name": "AliaXIV",
+        "repo_url": "https://raw.githubusercontent.com/AliaXIV/PluginsRepo/main/repo.json",
+        "repo_source_url": "https://github.com/AliaXIV/PluginsRepo",
+        "repo_name": "PluginsRepo",
+        "plugins": [
+            {
+                "Author": "AliaXIV",
+                "Name": "Kefka Helper",
+                "InternalName": "KefkaHelper",
+                "Description": "TBA",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AliaXIV/KefkaHelper",
+                "LastUpdate": 1782482757
+            },
+            {
+                "Author": "AliaXIV",
+                "Name": "XIVGearExporter",
+                "InternalName": "XIVGearExporter",
+                "Description": "Use /xivgearexport to export current equipped gear to JSON in XIVGear format",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AliaXIV/XIVGearPlugin",
+                "LastUpdate": 1778080454
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "AliaXIV",
         "repo_url": "https://raw.githubusercontent.com/AliaXIV/XIVGearPlugin/master/repo.json",
         "repo_source_url": "https://github.com/AliaXIV/XIVGearPlugin",
         "repo_name": "XIVGearPlugin",
@@ -1162,15 +1188,6 @@
             },
             {
                 "Author": "Ankhito",
-                "Name": "OpenerPilot",
-                "InternalName": "OpenerPilot",
-                "Description": "Local level 100 opener runner for standard combat jobs, using OpenerPilot opener data while keeping RotationSolverReborn off during execution and handing back afterward.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/SekhmetAnkh/OpenerPilot",
-                "LastUpdate": 1781368477
-            },
-            {
-                "Author": "Ankhito",
                 "Name": "PmpShare",
                 "InternalName": "PmpShare.Plugin",
                 "Description": "Uploads and downloads encrypted .pmp transfers through a private PmpShare Cloudflare Worker API. No plaintext files or decryption keys are sent to the server.",
@@ -1178,15 +1195,6 @@
                 "RepoUrl": "https://github.com/Ankhito/pmpshare",
                 "LastUpdate": 1782325992,
                 "is_closed_source": true
-            },
-            {
-                "Author": "Ankhito",
-                "Name": "PositionalPilot",
-                "InternalName": "PositionalPilot",
-                "Description": "Suggests or safely moves toward selected combat-source rear/flank positionals using BossMod safety and vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/SekhmetAnkh/PositionalPilot",
-                "LastUpdate": 1781286288
             }
         ]
     },
@@ -1786,7 +1794,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782413292,
+                "LastUpdate": 1782498986,
                 "is_closed_source": true
             },
             {
@@ -1796,7 +1804,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782413292,
+                "LastUpdate": 1782498986,
                 "is_closed_source": true
             },
             {
@@ -1806,7 +1814,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782413292,
+                "LastUpdate": 1782498986,
                 "is_closed_source": true
             },
             {
@@ -1816,7 +1824,7 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782413292,
+                "LastUpdate": 1782498986,
                 "is_closed_source": true
             },
             {
@@ -1844,7 +1852,7 @@
                 "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/GatherBuddyReborn",
-                "LastUpdate": 1780647546
+                "LastUpdate": 1782498945
             },
             {
                 "Author": "Haselnussbomber",
@@ -1898,7 +1906,7 @@
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1781889133
+                "LastUpdate": 1782497351
             }
         ]
     },
@@ -2786,7 +2794,7 @@
                 "Description": "Plan and perform Penumbra music-option playlists with Winamp-style controls - skinnable .wsz UI, playlist, window-shade modes and spectrum analyzer. Use /xivamp to open the player.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CarpeNukem/xivamp",
-                "LastUpdate": 1781566035
+                "LastUpdate": 1782494871
             }
         ]
     },
@@ -3625,7 +3633,7 @@
                 "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-                "LastUpdate": 1781363055
+                "LastUpdate": 1782480039
             },
             {
                 "Author": "decorwdyun",
@@ -3634,7 +3642,7 @@
                 "Description": "Crowd-sourced plugin to view what players are inside of a party in PF. Intended for CN use, but works on global.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/decorwdyun/PFRadar",
-                "LastUpdate": 1780845434,
+                "LastUpdate": 1782487708,
                 "is_closed_source": true
             },
             {
@@ -4872,7 +4880,7 @@
                 "Description": "Required plugins: vnavmesh, Rotation Solver Reborn.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/exatrines/AutoFrontline",
-                "LastUpdate": 1782182106
+                "LastUpdate": 1782494499
             },
             {
                 "Author": "mirage",
@@ -6078,7 +6086,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1782219969
+                "LastUpdate": 1782479143
             },
             {
                 "Author": "Haselnussbomber",
@@ -8335,7 +8343,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1782318966
+                "LastUpdate": 1782490139
             }
         ]
     },
@@ -10854,7 +10862,7 @@
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782476360
+                "LastUpdate": 1782490227
             },
             {
                 "Author": "Nainaiowo",
@@ -12576,7 +12584,7 @@
                 "LastUpdate": 1781802489
             },
             {
-                "Author": "OOF Games",
+                "Author": "OOF Games, Asuna",
                 "Name": "Gamba Where",
                 "InternalName": "GambaWhere",
                 "Description": "Browse live gambling events across Eorzea, filter by game or data centre, and teleport straight there with Lifestream. Host your own session with game-specific rules, presets, and host profiles with automatic location updates, Discord webhooks, minimap host icons, and Party Finder shortcuts. Find or advertise for venues and hosts on the Recruitment board, and set custom alerts to be notified when a new event matches your preferences.",
@@ -12753,7 +12761,7 @@
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1778799612
+                "LastUpdate": 1782465538
             },
             {
                 "Author": "Risa and Contributors",
@@ -12798,7 +12806,7 @@
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1782318966
+                "LastUpdate": 1782490139
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -13663,7 +13671,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782385845
+                "LastUpdate": 1782498832
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -17384,12 +17392,12 @@
         "plugins": [
             {
                 "Author": "u86cd(粉色母肥)",
-                "Name": "Silly Toolbox",
+                "Name": "SillyToolbox",
                 "InternalName": "SillyToolbox",
                 "Description": "傻肥工具箱, 包含一些给自己和亲友用的小功能\n如果有什么想要的功能请直接联系我, 我会尽力加入工具箱",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/u86cd/DalamudPlugins",
-                "LastUpdate": 1782231052
+                "LastUpdate": 1782477139
             }
         ]
     },
@@ -17474,7 +17482,23 @@
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1782327069
+                "LastUpdate": 1782428379
+            }
+        ]
+    },
+    {
+        "repo_url": "https://raimere.com/plugin/repo.json",
+        "repo_source_url": "https://raimere.com",
+        "repo_developer_name": "Unknown Developer",
+        "repo_name": "repo",
+        "plugins": [
+            {
+                "Author": "Rian M☆",
+                "Name": "Raimere",
+                "InternalName": "Raimere",
+                "Description": "Browse the Raimere catalog in-game, apply a look's glamour with one click via Glamourer, and open links to the component mods. Links only, no mod files are hosted or installed by this plugin.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://raimere.com"
             }
         ]
     },
@@ -18528,7 +18552,7 @@
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1782417917
+                "LastUpdate": 1782495692
             },
             {
                 "Author": "XeldarAlz",
@@ -18590,7 +18614,7 @@
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1782417917
+                "LastUpdate": 1782495692
             }
         ]
     },
