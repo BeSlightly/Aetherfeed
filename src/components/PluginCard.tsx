@@ -118,13 +118,13 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, showIcon, 
                 <div className="flex justify-between items-start mb-3">
                     <div className="flex items-start gap-3 min-w-0">
                         {showIcon && (
-                            <span className="flex items-center justify-center w-10 h-10 rounded-[9px] shrink-0 bg-[rgba(120,145,185,0.12)] border border-[rgba(150,170,205,0.06)]">
+                            <span className="flex items-center justify-center w-10 h-10 rounded-[9px] shrink-0 overflow-hidden bg-[rgba(120,145,185,0.12)] border border-[rgba(150,170,205,0.06)]">
                                 {plugin.IconUrl ? (
                                     <img
                                         src={plugin.IconUrl}
                                         alt=""
                                         aria-hidden="true"
-                                        className="w-full h-full object-contain p-1.5 rounded-[9px]"
+                                        className="w-full h-full object-cover"
                                         loading="lazy"
                                         decoding="async"
                                         fetchPriority="low"
