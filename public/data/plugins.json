@@ -384,7 +384,7 @@
                 "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /al opens the phone.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-                "LastUpdate": 1782472524
+                "LastUpdate": 1782549005
             }
         ]
     },
@@ -473,7 +473,7 @@
                 "Description": "Another hand touches the crystal.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/dheacon",
-                "LastUpdate": 1777533607
+                "LastUpdate": 1782556231
             },
             {
                 "Author": "DhogGPT",
@@ -8428,7 +8428,7 @@
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1782542159
+                "LastUpdate": 1782557704
             }
         ]
     },
@@ -9831,7 +9831,7 @@
                 "Description": "Another hand touches the crystal.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/dheacon",
-                "LastUpdate": 1777533607
+                "LastUpdate": 1782556231
             }
         ]
     },
@@ -10019,7 +10019,7 @@
                 "Description": "Another hand touches the crystal.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/dheacon",
-                "LastUpdate": 1777533607
+                "LastUpdate": 1782556231
             },
             {
                 "Author": "DhogGPT",
@@ -10037,7 +10037,7 @@
                 "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/DPS",
-                "LastUpdate": 1781662496
+                "LastUpdate": 1782414242
             },
             {
                 "Author": "DhogGPT",
@@ -10073,7 +10073,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1782345640
+                "LastUpdate": 1782518058
             },
             {
                 "Author": "DhogGPT",
@@ -10433,7 +10433,7 @@
                 "Description": "Animates Customize+ bone scales from your current profile values toward a configurable target. Use /bodyflux to open the control window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/miragiumxiv/BodyFlux",
-                "LastUpdate": 1782332474
+                "LastUpdate": 1782560438
             }
         ]
     },
@@ -10879,7 +10879,7 @@
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782511088
+                "LastUpdate": 1782558549
             },
             {
                 "Author": "Nainaiowo",
@@ -10889,6 +10889,15 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
                 "LastUpdate": 1781955666
+            },
+            {
+                "Author": "Nainaiowo",
+                "Name": "Nai Debug Console",
+                "InternalName": "NaiDebugConsole",
+                "Description": "Local debug console for combat logs, addon snapshots, and Strategy Board inspection.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nainaiowo/nai-debug-console",
+                "LastUpdate": 1782565476
             }
         ]
     },
@@ -11827,7 +11836,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1781195276,
+                "LastUpdate": 1782545307,
                 "is_closed_source": true
             },
             {
@@ -11837,7 +11846,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1781195276,
+                "LastUpdate": 1782545307,
                 "is_closed_source": true
             },
             {
@@ -11847,7 +11856,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1781195276,
+                "LastUpdate": 1782545307,
                 "is_closed_source": true
             },
             {
@@ -11857,7 +11866,7 @@
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1781195276,
+                "LastUpdate": 1782545307,
                 "is_closed_source": true
             },
             {
@@ -13759,7 +13768,7 @@
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782539413
+                "LastUpdate": 1782564845
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -14657,7 +14666,7 @@
                 "Description": "A compact GPose casting tool. Search visible actors, import overworld players into GPose for Brio/Ktisis, build a picked group, and hide everyone else locally for cleaner screenshots.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/reyalexffxiv/GposeCast",
-                "LastUpdate": 1782520338
+                "LastUpdate": 1782557814
             }
         ]
     },
@@ -15965,7 +15974,7 @@
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1782264685,
+                "LastUpdate": 1782563969,
                 "is_closed_source": true
             }
         ]
@@ -17208,7 +17217,7 @@
                 "InternalName": "RedMoonCappuccino",
                 "Description": "Connects to your FC's WebSocket server to display the lowest market tax rate and location, as well as upcoming and past FC events with event images.",
                 "RepoUrl": "https://github.com/Tihlyn/RedMoon-Cappuccino",
-                "LastUpdate": 1781536130
+                "LastUpdate": 1782550702
             }
         ]
     },
@@ -19227,7 +19236,7 @@
                 "Description": "Native DPS Meters for Final Fantasy XIV, still in beta and may be subject to change.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Zeffuro/NativeMeters",
-                "LastUpdate": 1781563979
+                "LastUpdate": 1782557423
             }
         ]
     },
@@ -19389,7 +19398,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1782504914
+                "LastUpdate": 1782565457
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
