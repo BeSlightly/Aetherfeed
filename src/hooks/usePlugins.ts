@@ -6,6 +6,7 @@ export interface Plugin {
     Description: string;
     Author: string;
     InternalName: string;
+    AssemblyVersion?: string;
     RepoUrl?: string;
     LastUpdate: number;
     DalamudApiLevel?: number | string;

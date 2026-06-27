@@ -89,6 +89,10 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, showIcon, 
     const [copied, setCopied] = useState(false);
     const descriptionText = plugin.Description || '';
     const hasLongDescription = descriptionText.length > 160;
+    const version = plugin.AssemblyVersion?.trim();
+    const versionLabel = version
+        ? (version.toLowerCase().startsWith('v') ? version : `v${version}`)
+        : undefined;
 
     const tier = plugin.punishTier;
 
@@ -143,6 +147,14 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, showIcon, 
                         <div className="min-w-0">
                             <h2 className="text-lg font-bold text-slate-900 dark:text-slate-100 leading-tight group-hover:text-aether-600 dark:group-hover:text-aether-400 transition-colors">
                                 {plugin.Name}
+                                {versionLabel && (
+                                    <span
+                                        className="ml-1.5 align-middle text-[10px] font-medium text-slate-400 dark:text-slate-500 whitespace-nowrap opacity-80"
+                                        title="Plugin version"
+                                    >
+                                        {versionLabel}
+                                    </span>
+                                )}
                             </h2>
                             <div className="flex items-center gap-1 mt-1 text-xs text-slate-500 dark:text-slate-400">
                                 <span>by</span>
