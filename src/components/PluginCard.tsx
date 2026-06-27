@@ -9,6 +9,7 @@ import { TIER_META, type PunishTier } from '../utils/punishTiers';
 interface PluginCardProps {
     plugin: ProcessedPlugin;
     maxApiLevel?: number;
+    showIcon: boolean;
     isDescriptionExpanded: boolean;
     onToggleDescription: () => void;
 }
@@ -80,7 +81,7 @@ const getApiBadgeColor = (level: number, maxLevel?: number) => {
     return 'bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-400 border-slate-200 dark:border-slate-700';
 };
 
-const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, isDescriptionExpanded, onToggleDescription }) => {
+const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, showIcon, isDescriptionExpanded, onToggleDescription }) => {
     const installUrl = plugin._repo.repo_url;
     const sourceUrl = plugin.RepoUrl || plugin._repo.repo_source_url;
     const isClosedSource = plugin.is_closed_source;
@@ -116,27 +117,29 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, isDescript
                 {/* Header: Title & Meta */}
                 <div className="flex justify-between items-start mb-3">
                     <div className="flex items-start gap-3 min-w-0">
-                        <span className="flex items-center justify-center w-10 h-10 rounded-[9px] shrink-0 bg-[rgba(120,145,185,0.12)] border border-[rgba(150,170,205,0.06)]">
-                            {plugin.IconUrl ? (
-                                <img
-                                    src={plugin.IconUrl}
-                                    alt=""
-                                    aria-hidden="true"
-                                    className="w-full h-full object-contain p-1.5 rounded-[9px]"
-                                    loading="lazy"
-                                    decoding="async"
-                                    fetchPriority="low"
-                                    referrerPolicy="no-referrer"
-                                    onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; if (e.currentTarget.nextElementSibling) (e.currentTarget.nextElementSibling as HTMLElement).style.display = ''; }}
-                                />
-                            ) : null}
-                            <span
-                                className="text-sm font-bold text-[rgba(190,207,235,0.55)] select-none"
-                                style={plugin.IconUrl ? { display: 'none' } : undefined}
-                            >
-                                {(plugin.Name || plugin.InternalName || '?')[0].toUpperCase()}
+                        {showIcon && (
+                            <span className="flex items-center justify-center w-10 h-10 rounded-[9px] shrink-0 bg-[rgba(120,145,185,0.12)] border border-[rgba(150,170,205,0.06)]">
+                                {plugin.IconUrl ? (
+                                    <img
+                                        src={plugin.IconUrl}
+                                        alt=""
+                                        aria-hidden="true"
+                                        className="w-full h-full object-contain p-1.5 rounded-[9px]"
+                                        loading="lazy"
+                                        decoding="async"
+                                        fetchPriority="low"
+                                        referrerPolicy="no-referrer"
+                                        onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; if (e.currentTarget.nextElementSibling) (e.currentTarget.nextElementSibling as HTMLElement).style.display = ''; }}
+                                    />
+                                ) : null}
+                                <span
+                                    className="text-sm font-bold text-[rgba(190,207,235,0.55)] select-none"
+                                    style={plugin.IconUrl ? { display: 'none' } : undefined}
+                                >
+                                    {(plugin.Name || plugin.InternalName || '?')[0].toUpperCase()}
+                                </span>
                             </span>
-                        </span>
+                        )}
                         <div className="min-w-0">
                             <h2 className="text-lg font-bold text-slate-900 dark:text-slate-100 leading-tight group-hover:text-aether-600 dark:group-hover:text-aether-400 transition-colors">
                                 {plugin.Name}

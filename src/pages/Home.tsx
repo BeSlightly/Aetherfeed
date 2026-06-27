@@ -93,6 +93,11 @@ const Home: React.FC = () => {
                 label: 'Hide non-english plugins',
                 value: 'latin_only',
                 tooltip: 'Hides plugins containing non-English characters in their name or description'
+            },
+            {
+                label: 'Hide plugin icons',
+                value: 'hide_icons',
+                tooltip: 'Prevents remote plugin icons from loading'
             }
         ];
         return options;
@@ -187,6 +192,7 @@ const Home: React.FC = () => {
 
     const displayPlugins = filteredPlugins.slice(0, visibleCount);
     const hasMore = visibleCount < filteredPlugins.length;
+    const showPluginIcons = !selectedFilters.includes('hide_icons');
 
     useEffect(() => {
         const observer = new IntersectionObserver(
@@ -301,6 +307,7 @@ const Home: React.FC = () => {
                                             key={`${plugin._repo.repo_url}-${plugin.InternalName}`}
                                             plugin={plugin}
                                             maxApiLevel={currentApiLevel || allApiLevels[0]}
+                                            showIcon={showPluginIcons}
                                             isDescriptionExpanded={isRowExpanded}
                                             onToggleDescription={() => toggleRowExpanded(rowIndex)}
                                         />

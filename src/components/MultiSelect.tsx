@@ -62,7 +62,7 @@ const MultiSelect = <T extends string | number>({ options, selected, onChange, l
                         animate={{ opacity: 1, y: 0 }}
                         exit={{ opacity: 0, y: -10 }}
                         transition={{ duration: 0.15 }}
-                        className="absolute z-50 mt-2 w-64 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl shadow-xl overflow-hidden left-0 md:left-auto md:right-0"
+                        className="absolute z-50 mt-2 w-72 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl shadow-xl overflow-hidden left-0 md:left-auto md:right-0"
                     >
                         <div className="max-h-60 overflow-y-auto py-1 scrollbar-thin scrollbar-thumb-slate-200 dark:scrollbar-thumb-slate-700">
                             {options.map((option) => {
@@ -79,9 +79,9 @@ const MultiSelect = <T extends string | number>({ options, selected, onChange, l
                                             }`}>
                                             {isSelected && <Check className="w-3 h-3 text-white" />}
                                         </div>
-                                        <span className="grow">{option.label}</span>
+                                        <span className="grow whitespace-nowrap">{option.label}</span>
                                         {option.tooltip && (
-                                            <div className="ml-2 text-slate-400 hover:text-slate-600 dark:hover:text-slate-300" title={option.tooltip}>
+                                            <div className="ml-2 shrink-0 text-slate-400 hover:text-slate-600 dark:hover:text-slate-300" title={option.tooltip}>
                                                 <div className="w-4 h-4 rounded-full border border-current flex items-center justify-center text-[10px] font-bold">?</div>
                                             </div>
                                         )}
