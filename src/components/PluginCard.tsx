@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Code, Lock, Copy, Check, ExternalLink } from 'lucide-react';
+import clsx from 'clsx';
 import { formatDate } from '../utils/formatDate';
 import type { ProcessedPlugin } from '../utils/pluginProcessor';
+import { TIER_META, type PunishTier } from '../utils/punishTiers';
 
 interface PluginCardProps {
     plugin: ProcessedPlugin;
@@ -10,6 +12,61 @@ interface PluginCardProps {
     isDescriptionExpanded: boolean;
     onToggleDescription: () => void;
 }
+
+const TierIndicator: React.FC<{
+    tier: PunishTier;
+    punishHosted: boolean;
+}> = ({ tier, punishHosted }) => {
+    const meta = TIER_META[tier];
+    const href = punishHosted ? 'https://puni.sh/' : undefined;
+    const title = `puni.sh ${meta.label}${punishHosted ? '' : ' (GitHub-hosted)'}`;
+
+    const hoverTextColor =
+        tier === 'core' ? 'hover:text-amber-600 dark:hover:text-amber-400' :
+        tier === 'partner' ? 'hover:text-violet-600 dark:hover:text-violet-400' :
+        'hover:text-teal-600 dark:hover:text-teal-400';
+
+    const hoverBgColor =
+        tier === 'core' ? 'hover:bg-amber-50 dark:hover:bg-amber-500/10' :
+        tier === 'partner' ? 'hover:bg-violet-50 dark:hover:bg-violet-500/10' :
+        'hover:bg-teal-50 dark:hover:bg-teal-500/10';
+
+    const badge = (
+        <span
+            className={clsx(
+                'inline-flex items-center gap-1.5 h-8 px-2 rounded-lg',
+                'transition-colors text-slate-400',
+                hoverTextColor,
+                hoverBgColor
+            )}
+        >
+            {punishHosted ? (
+                <img
+                    src={`${import.meta.env.BASE_URL}punish-logo.webp`}
+                    alt=""
+                    aria-hidden="true"
+                    className="h-4.5 w-4.5 object-contain opacity-60 group-hover:opacity-100"
+                />
+            ) : (
+                <span className="text-[11px] font-black uppercase leading-none">
+                    {meta.label[0]}
+                </span>
+            )}
+            <span className="text-[10px] font-bold uppercase tracking-wide leading-none">
+                {meta.label}
+            </span>
+        </span>
+    );
+
+    if (href) {
+        return (
+            <a href={href} target="_blank" rel="noopener noreferrer" title={title}>
+                {badge}
+            </a>
+        );
+    }
+    return <span title={title}>{badge}</span>;
+};
 
 const getApiBadgeColor = (level: number, maxLevel?: number) => {
     if (!maxLevel) return 'bg-slate-100 dark:bg-slate-800 text-slate-500 border-slate-200 dark:border-slate-700';
@@ -31,6 +88,8 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, isDescript
     const [copied, setCopied] = useState(false);
     const descriptionText = plugin.Description || '';
     const hasLongDescription = descriptionText.length > 160;
+
+    const tier = plugin.punishTier;
 
     const handleCopy = async (e: React.MouseEvent) => {
         e.preventDefault();
@@ -56,13 +115,33 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, isDescript
             <div className="p-5 flex flex-col grow">
                 {/* Header: Title & Meta */}
                 <div className="flex justify-between items-start mb-3">
-                    <div>
-                        <h2 className="text-lg font-bold text-slate-900 dark:text-slate-100 leading-tight group-hover:text-aether-600 dark:group-hover:text-aether-400 transition-colors">
-                            {plugin.Name}
-                        </h2>
-                        <div className="flex items-center gap-1 mt-1 text-xs text-slate-500 dark:text-slate-400">
-                            <span>by</span>
-                            <span className="font-medium text-slate-700 dark:text-slate-300">{plugin.Author || 'Unknown'}</span>
+                    <div className="flex items-start gap-3 min-w-0">
+                        <span className="flex items-center justify-center w-10 h-10 rounded-[9px] shrink-0 bg-[rgba(120,145,185,0.12)] border border-[rgba(150,170,205,0.06)]">
+                            {plugin.IconUrl ? (
+                                <img
+                                    src={plugin.IconUrl}
+                                    alt=""
+                                    aria-hidden="true"
+                                    className="w-full h-full object-contain p-1.5 rounded-[9px]"
+                                    loading="lazy"
+                                    onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; if (e.currentTarget.nextElementSibling) (e.currentTarget.nextElementSibling as HTMLElement).style.display = ''; }}
+                                />
+                            ) : null}
+                            <span
+                                className="text-sm font-bold text-[rgba(190,207,235,0.55)] select-none"
+                                style={plugin.IconUrl ? { display: 'none' } : undefined}
+                            >
+                                {(plugin.Name || plugin.InternalName || '?')[0].toUpperCase()}
+                            </span>
+                        </span>
+                        <div className="min-w-0">
+                            <h2 className="text-lg font-bold text-slate-900 dark:text-slate-100 leading-tight group-hover:text-aether-600 dark:group-hover:text-aether-400 transition-colors">
+                                {plugin.Name}
+                            </h2>
+                            <div className="flex items-center gap-1 mt-1 text-xs text-slate-500 dark:text-slate-400">
+                                <span>by</span>
+                                <span className="font-medium text-slate-700 dark:text-slate-300">{plugin.Author || 'Unknown'}</span>
+                            </div>
                         </div>
                     </div>
 
@@ -156,7 +235,7 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, isDescript
                         )}
                     </div>
 
-                    {(plugin.discordUrl || plugin.isPunish || plugin.isAetherTek) && (
+                    {(plugin.discordUrl || tier || plugin.isAetherTek) && (
                         <div className="flex items-center gap-2">
                             {plugin.discordUrl && (
                                 <a
@@ -186,20 +265,8 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, isDescript
                                     />
                                 </a>
                             )}
-                            {plugin.isPunish && (
-                                <a
-                                    href="https://puni.sh/"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="flex items-center"
-                                    title="Visit Puni.sh"
-                                >
-                                    <img
-                                        src={`${import.meta.env.BASE_URL}punish-logo.webp`}
-                                        alt="Puni.sh"
-                                        className="h-6 w-auto opacity-70 hover:opacity-100 transition-opacity"
-                                    />
-                                </a>
+                            {tier && (
+                                <TierIndicator tier={tier} punishHosted={!!plugin.isPunish} />
                             )}
                         </div>
                     )}

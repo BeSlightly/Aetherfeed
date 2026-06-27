@@ -1,5 +1,6 @@
 import type { Plugin, Repo } from '../hooks/usePlugins';
 import { normalizeTimestampToMillis } from './formatDate';
+import { getPunishTier, type PunishTier } from './punishTiers';
 
 export interface ProcessedPlugin extends Plugin {
     _repo: Repo;
@@ -8,6 +9,7 @@ export interface ProcessedPlugin extends Plugin {
     is_closed_source?: boolean;
     isPunish?: boolean;
     isAetherTek?: boolean;
+    punishTier?: PunishTier;
     discordUrl?: string;
     _apiLevel?: number;
     _maxApiLevel?: number;
@@ -218,12 +220,18 @@ function createFinalPluginObject(occurrence: IntermediatePluginOccurrence): Proc
     finalPlugin.isPunish = isPunishRepo(repoUrl);
     finalPlugin.isAetherTek = isAetherTekRepo(repoUrl);
 
+    finalPlugin.punishTier = getPunishTier(repoUrl);
+
     // 2. Assign Discord URL
     if (finalPlugin.isPunish) {
         finalPlugin.discordUrl = "https://discord.gg/Zzrcc8kmvy";
     } else {
         finalPlugin.discordUrl = occurrence._globalDiscordUrl;
     }
+
+    const tierSearchTerm = finalPlugin.punishTier
+        ? ` punish puni.sh ${finalPlugin.punishTier}`
+        : (finalPlugin.isPunish ? " punish puni.sh" : "");
 
     finalPlugin._searchMeta = {
         name: normalizeForSearch(finalPlugin.Name || finalPlugin.InternalName),
@@ -232,7 +240,7 @@ function createFinalPluginObject(occurrence: IntermediatePluginOccurrence): Proc
         author: normalizeForSearch(finalPlugin.Author),
         repo: normalizeForSearch(
             finalPlugin._repo.repo_name +
-            (finalPlugin.isPunish ? " punish puni.sh" : "") +
+            tierSearchTerm +
             (finalPlugin.isAetherTek ? " aethertek aethertek.io" : "")
         )
     };

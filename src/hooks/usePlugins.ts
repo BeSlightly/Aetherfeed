@@ -9,6 +9,7 @@ export interface Plugin {
     RepoUrl?: string;
     LastUpdate: number;
     DalamudApiLevel?: number | string;
+    IconUrl?: string;
     is_closed_source?: boolean;
     _apiLevel?: number;
 }
