@@ -536,7 +536,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, reading local map flags, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1782345640
+                "LastUpdate": 1782518058
             },
             {
                 "Author": "DhogGPT",
@@ -2051,7 +2051,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1782407904
+                "LastUpdate": 1782521236
             },
             {
                 "Author": "veyn, croizat",
@@ -3428,7 +3428,7 @@
                 "Description": "Lists all jobs who need points for Castle in the Sky (Pteranodon mount achievement) and their current point tally in a clean display window. Use /lazysky to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/LazySkywardTracker",
-                "LastUpdate": 1781231754
+                "LastUpdate": 1782505447
             },
             {
                 "Author": "daemitus, MidoriKami, dajoey",
@@ -3678,7 +3678,7 @@
                 "Description": "HiAuRo 是一个全栈战斗辅助框架，提供 ACR 接口、执行轴、事实轴、智能决策层和完整的 UI 系统。ACR 作者可开发各职业的战斗逻辑，普通用户也可通过内置轴获得完整的战斗辅助体验。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/denghaoxuan991876906/HiAuRo",
-                "LastUpdate": 1782459997
+                "LastUpdate": 1782509272
             },
             {
                 "Author": "嗨呀",
@@ -3775,7 +3775,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782448290
+                "LastUpdate": 1782519160
             }
         ]
     },
@@ -3809,7 +3809,7 @@
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782258783
+                "LastUpdate": 1782519160
             }
         ]
     },
@@ -7610,6 +7610,23 @@
         ]
     },
     {
+        "repo_developer_name": "kanyeishere",
+        "repo_url": "https://raw.githubusercontent.com/kanyeishere/PocketStation/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/kanyeishere/PocketStation",
+        "repo_name": "PocketStation",
+        "plugins": [
+            {
+                "Author": "Wotou",
+                "Name": "Pocket Station",
+                "InternalName": "PocketStation",
+                "Description": "Pocket Station 是一个在 FFXIV 中运行的 Web 服务器，让你可以通过同一网络下的手机、平板或笔记本电脑连接。实时监控游戏聊天并支持自定义过滤器，实时串流游戏画面到移动设备，以及远程执行游戏指令。使用 Tailscale 或路由器端口转发，也可在外网安全访问。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kanyeishere/PocketStation",
+                "LastUpdate": 1782507516
+            }
+        ]
+    },
+    {
         "repo_developer_name": "KaraRemy",
         "repo_url": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/KaraRemy/TomokPlugins",
@@ -8281,7 +8298,7 @@
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-                "LastUpdate": 1782107085
+                "LastUpdate": 1782474960
             },
             {
                 "Author": "veyn, xan_0",
@@ -8290,7 +8307,7 @@
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1782407904
+                "LastUpdate": 1782521236
             },
             {
                 "Author": "sourpuh",
@@ -8308,7 +8325,7 @@
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782415331
+                "LastUpdate": 1782460686
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -8317,7 +8334,7 @@
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1782380767
+                "LastUpdate": 1782475016
             },
             {
                 "Author": "Team Wrath",
@@ -9950,7 +9967,7 @@
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1782345640
+                "LastUpdate": 1782518058
             }
         ]
     },
@@ -10862,7 +10879,7 @@
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782490227
+                "LastUpdate": 1782511088
             },
             {
                 "Author": "Nainaiowo",
@@ -13671,7 +13688,7 @@
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782498832
+                "LastUpdate": 1782510758
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -13760,7 +13777,7 @@
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1782456587
+                "LastUpdate": 1782514350
             },
             {
                 "Author": "Team Wrath",
@@ -14640,7 +14657,7 @@
                 "Description": "A compact GPose casting tool. Search visible actors, import overworld players into GPose for Brio/Ktisis, build a picked group, and hide everyone else locally for cleaner screenshots.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/reyalexffxiv/GposeCast",
-                "LastUpdate": 1782236137
+                "LastUpdate": 1782520338
             }
         ]
     },
@@ -17498,7 +17515,8 @@
                 "InternalName": "Raimere",
                 "Description": "Browse the Raimere catalog in-game, apply a look's glamour with one click via Glamourer, and open links to the component mods. Links only, no mod files are hosted or installed by this plugin.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://raimere.com"
+                "RepoUrl": "https://raimere.com",
+                "is_closed_source": true
             }
         ]
     },
@@ -19371,7 +19389,7 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1782167058
+                "LastUpdate": 1782504914
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
