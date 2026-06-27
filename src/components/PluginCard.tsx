@@ -124,6 +124,9 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, isDescript
                                     aria-hidden="true"
                                     className="w-full h-full object-contain p-1.5 rounded-[9px]"
                                     loading="lazy"
+                                    decoding="async"
+                                    fetchPriority="low"
+                                    referrerPolicy="no-referrer"
                                     onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; if (e.currentTarget.nextElementSibling) (e.currentTarget.nextElementSibling as HTMLElement).style.display = ''; }}
                                 />
                             ) : null}
