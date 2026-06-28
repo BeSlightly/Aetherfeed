@@ -3413,12 +3413,12 @@
                 "Author": "Meghann",
                 "Name": "Recipe Helper",
                 "InternalName": "DalamudRecipeHelper",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.1.1.0",
                 "Description": "Build a combined plan from multiple FFXIV recipes, compare NQ and HQ requirements with live inventory and saved retainer snapshots, track timed gathering materials, and hand crafting or travel actions to Artisan, Teamcraft, and GatherBuddy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/Recipe-Helper/main/RecipeHelperIcon1.png",
                 "RepoUrl": "https://github.com/CherryFairy78/Recipe-Helper",
-                "LastUpdate": 1782616643
+                "LastUpdate": 1782640401
             }
         ]
     },
@@ -5239,6 +5239,17 @@
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
                 "LastUpdate": 1782143737
+            },
+            {
+                "Author": "erdelf",
+                "Name": "FC Tracker",
+                "InternalName": "FCTracker",
+                "AssemblyVersion": "0.0.0.18",
+                "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/135",
+                "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
+                "LastUpdate": 1782638216
             }
         ]
     },
@@ -8315,7 +8326,7 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "Skyrim Compass",
                 "InternalName": "SkyrimCompass",
-                "AssemblyVersion": "1.4.0.0",
+                "AssemblyVersion": "1.4.5.0",
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/SkyrimCompass",
@@ -12263,12 +12274,12 @@
                 "Author": "Nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.151",
+                "AssemblyVersion": "0.1.0.166",
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/better-deaths/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782618656
+                "LastUpdate": 1782632297
             },
             {
                 "Author": "Nainaiowo",
@@ -14843,7 +14854,7 @@
                 "Author": "Zune",
                 "Name": "Master Of Puppets",
                 "InternalName": "MasterOfPuppets",
-                "AssemblyVersion": "1.15.0.215",
+                "AssemblyVersion": "1.15.0.218",
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
@@ -15547,12 +15558,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.303.0.2",
+                "AssemblyVersion": "15.303.0.3",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782577802
+                "LastUpdate": 1782635092
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -15580,12 +15591,12 @@
                 "Author": "Team Wrath",
                 "Name": "Wrath Combo",
                 "InternalName": "WrathCombo",
-                "AssemblyVersion": "1.0.4.9",
+                "AssemblyVersion": "1.0.4.11",
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1782596457
+                "LastUpdate": 1782643261
             },
             {
                 "Author": "daemitus, kawaii",
