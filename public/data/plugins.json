@@ -463,12 +463,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.5.6.1",
+                "AssemblyVersion": "0.5.7.0",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1782612177
+                "LastUpdate": 1782661856
             },
             {
                 "Author": "DhogGPT",
@@ -1034,12 +1034,12 @@
                 "Author": "AlexFlipnote",
                 "Name": "The Holiest Fluffiness",
                 "InternalName": "HoliestFluffiness",
-                "AssemblyVersion": "0.5.2",
+                "AssemblyVersion": "0.5.3",
                 "Description": "A tweak plugin born for the free company 'The Holiest Fluffiness', now open for all to enjoy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AlexFlipnote/XIV_HolyPlugin/master/HoliestFluffiness/Images/icon.png",
                 "RepoUrl": "https://github.com/AlexFlipnote/XIV_HolyPlugin",
-                "LastUpdate": 1782609052
+                "LastUpdate": 1782657815
             }
         ]
     },
@@ -2651,12 +2651,12 @@
                 "Author": "Asphodel",
                 "Name": "Glam Levels",
                 "InternalName": "GlamLevels",
-                "AssemblyVersion": "1.0.0.1",
+                "AssemblyVersion": "1.0.0.12",
                 "Description": "Snapshots your Penumbra mod priorities when a Glamourer design is applied, letting you restore them instantly when priorities drift.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/bimilbimil/GlamLevels/main/glamlevels.png",
                 "RepoUrl": "https://github.com/bimilbimil/GlamLevels",
-                "LastUpdate": 1782604311
+                "LastUpdate": 1782663655
             }
         ]
     },
@@ -3413,12 +3413,12 @@
                 "Author": "Meghann",
                 "Name": "Recipe Helper",
                 "InternalName": "DalamudRecipeHelper",
-                "AssemblyVersion": "1.1.1.0",
+                "AssemblyVersion": "1.1.2.0",
                 "Description": "Build a combined plan from multiple FFXIV recipes, compare NQ and HQ requirements with live inventory and saved retainer snapshots, track timed gathering materials, and hand crafting or travel actions to Artisan, Teamcraft, and GatherBuddy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/Recipe-Helper/main/RecipeHelperIcon1.png",
                 "RepoUrl": "https://github.com/CherryFairy78/Recipe-Helper",
-                "LastUpdate": 1782640401
+                "LastUpdate": 1782657284
             }
         ]
     },
@@ -7013,11 +7013,11 @@
                 "Author": "Aethernet contributors",
                 "Name": "Aethernet",
                 "InternalName": "Aethernet",
-                "AssemblyVersion": "0.1.15.0",
+                "AssemblyVersion": "0.1.16.0",
                 "Description": "Synchronize Penumbra mods, Glamourer state, Customize+, Honorific, SimpleHeels, Moodles and Pet Names between paired players. A clean-room replacement for Mare Synchronos.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/HeiMiyano/Aethernet",
-                "LastUpdate": 1782427949
+                "LastUpdate": 1782664894
             }
         ]
     },
@@ -9427,12 +9427,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.303.0.2",
+                "AssemblyVersion": "15.303.0.3",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782577802
+                "LastUpdate": 1782664829
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9449,12 +9449,12 @@
                 "Author": "Team Wrath",
                 "Name": "Wrath Combo",
                 "InternalName": "WrathCombo",
-                "AssemblyVersion": "1.0.4.9",
+                "AssemblyVersion": "1.0.4.11",
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1782596457
+                "LastUpdate": 1782662757
             }
         ]
     },
@@ -10408,13 +10408,14 @@
         "plugins": [
             {
                 "Author": "Buddy",
-                "Name": "SimpleRollTracker",
+                "Name": "Why can't I hold all these dice?",
                 "InternalName": "SimpleRollTracker",
-                "AssemblyVersion": "1.2.1.0",
+                "AssemblyVersion": "1.2.3.0",
                 "Description": "A simple /random roll tracker.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/lint-trap-development/SimpleRollTracker/master/images/icon.png",
                 "RepoUrl": "https://github.com/lint-trap-development/SimpleRollTracker",
-                "LastUpdate": 1782610846
+                "LastUpdate": 1782660500
             }
         ]
     },
@@ -11017,12 +11018,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.5.6.1",
+                "AssemblyVersion": "0.5.7.0",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1782612177
+                "LastUpdate": 1782661856
             }
         ]
     },
@@ -11305,7 +11306,7 @@
                 "Author": "DhogGPT",
                 "Name": "Dheacon",
                 "InternalName": "dheacon",
-                "AssemblyVersion": "2.0.0.0",
+                "AssemblyVersion": "2.1.0.1",
                 "Description": "Another hand touches the crystal.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dheacon/main/dheacon/images/icon.png",
@@ -11360,7 +11361,7 @@
                 "Author": "DhogGPT, XA",
                 "Name": "Krangler",
                 "InternalName": "Krangler",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "1.0.0.1",
                 "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png",
@@ -11371,7 +11372,7 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "0.4.2.5",
+                "AssemblyVersion": "0.4.2.6",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
@@ -13951,12 +13952,12 @@
                 "Author": "Mugi Pie",
                 "Name": "Autofate",
                 "InternalName": "Autofate",
-                "AssemblyVersion": "3.0.0.2",
+                "AssemblyVersion": "3.0.0.3",
                 "Description": "Automates FATE farming: leveling, single zone, shared fates, atma, demiatma, luminous crystals, memories, and a fully customizable manual mode. Integrates with vnavmesh, Lifestream, BossMod Reborn, Wrath Combo, Rotation Solver Reborn, and AutoRetainer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/notmugi/autofate/main/Autofate/images/icon.png",
                 "RepoUrl": "https://github.com/notmugi/autofate",
-                "LastUpdate": 1782613681
+                "LastUpdate": 1782659645
             }
         ]
     },
@@ -15471,12 +15472,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.57",
+                "AssemblyVersion": "6.0.0.58",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782618968
+                "LastUpdate": 1782650062
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -15563,7 +15564,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782635092
+                "LastUpdate": 1782664829
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -15596,7 +15597,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1782643261
+                "LastUpdate": 1782662757
             },
             {
                 "Author": "daemitus, kawaii",
@@ -16462,12 +16463,12 @@
                 "Author": "Res",
                 "Name": "YapYap",
                 "InternalName": "YapYap",
-                "AssemblyVersion": "1.0.0.27",
+                "AssemblyVersion": "1.0.0.29",
                 "Description": "A clean fight log and custom trigger overlay. Watch every cast and status in real time, then right-click any line to build your own TTS and on-screen callout.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ResFox/YapYap/main/YapYap/Images/icon.png",
                 "RepoUrl": "https://github.com/ResFox/YapYap",
-                "LastUpdate": 1782321046
+                "LastUpdate": 1782661188
             }
         ]
     },
