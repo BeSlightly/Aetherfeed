@@ -622,7 +622,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1781051135
+                "LastUpdate": 1782761817
             },
             {
                 "Author": "DhogGPT",
@@ -1034,12 +1034,12 @@
                 "Author": "AlexFlipnote",
                 "Name": "The Holiest Fluffiness",
                 "InternalName": "HoliestFluffiness",
-                "AssemblyVersion": "0.5.3",
+                "AssemblyVersion": "0.6.1",
                 "Description": "A tweak plugin born for the free company 'The Holiest Fluffiness', now open for all to enjoy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AlexFlipnote/XIV_HolyPlugin/master/HoliestFluffiness/Images/icon.png",
                 "RepoUrl": "https://github.com/AlexFlipnote/XIV_HolyPlugin",
-                "LastUpdate": 1782657815
+                "LastUpdate": 1782768711
             }
         ]
     },
@@ -2995,10 +2995,10 @@
                 "Author": "wah",
                 "Name": "Wrath Auto Toggle",
                 "InternalName": "WrathIcon",
-                "AssemblyVersion": "0.0.3.0",
+                "AssemblyVersion": "0.0.4.0",
                 "Description": "Wrath Auto Toggle",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1778844086
+                "LastUpdate": 1782766007
             }
         ]
     },
@@ -3450,11 +3450,11 @@
                 "Author": "Chirp",
                 "Name": "GoodOmen",
                 "InternalName": "GoodOmen",
-                "AssemblyVersion": "0.2.6",
+                "AssemblyVersion": "0.2.7",
                 "Description": "Accessibility plugin for modifying AoE colors.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/chirpxiv/GoodOmen",
-                "LastUpdate": 1777326915
+                "LastUpdate": 1782758489
             }
         ]
     },
@@ -4322,12 +4322,12 @@
                 "Author": "Oreo",
                 "Name": "Silkstring",
                 "InternalName": "Silkstring",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/devoreofox/Silkstring/main/Silkstring/images/icon.png",
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782536255
+                "LastUpdate": 1782761775
             }
         ]
     },
@@ -4360,12 +4360,12 @@
                 "Author": "Oreo",
                 "Name": "Silkstring",
                 "InternalName": "Silkstring",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/devoreofox/Silkstring/main/Silkstring/images/icon.png",
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782536255
+                "LastUpdate": 1782761775
             }
         ]
     },
@@ -5594,6 +5594,16 @@
         "repo_name": "DalamudPlugins",
         "repo_developer_name": "extrant",
         "plugins": [
+            {
+                "Author": "Siren",
+                "Name": "CleanWindow",
+                "InternalName": "CleanWindow",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "创建一个独立的系统级预览窗口，将纯净的游戏画面（可选含/不含 UI）输出给 OBS 捕获。支持隐身模式，窗口可从任务栏和 Alt+Tab 中隐藏，同时仍被 OBS 识别。支持多语言。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/extrant/I-Ching/refs/heads/main/CleanWindow.png",
+                "RepoUrl": "https://github.com/SirenPVP/CleanWindow"
+            },
             {
                 "Author": "Siren",
                 "Name": "Coyote-FFXiv",
@@ -8913,12 +8923,12 @@
                 "Author": "keifufu",
                 "Name": "XivVoices",
                 "InternalName": "XivVoices",
-                "AssemblyVersion": "1.5.2.12",
+                "AssemblyVersion": "1.5.2.13",
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/keifufu/XivVoices/main/XivVoices/assets/logo.png",
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1782704254
+                "LastUpdate": 1782768921
             }
         ]
     },
@@ -11298,12 +11308,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "0.2.0.10",
+                "AssemblyVersion": "0.2.0.11",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1781051135
+                "LastUpdate": 1782761817
             }
         ]
     },
@@ -12313,7 +12323,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/better-deaths/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782736736
+                "LastUpdate": 1782769376
             },
             {
                 "Author": "Nainaiowo",
@@ -12340,11 +12350,11 @@
                 "Author": "Nainaiowo",
                 "Name": "Nai Debug Console",
                 "InternalName": "NaiDebugConsole",
-                "AssemblyVersion": "0.1.0.9",
+                "AssemblyVersion": "0.1.0.10",
                 "Description": "Local debug console for combat logs, addon snapshots, and Strategy Board inspection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/nai-debug-console",
-                "LastUpdate": 1782734758
+                "LastUpdate": 1782769376
             }
         ]
     },
@@ -12863,7 +12873,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1782619700
+                "LastUpdate": 1782706511
             }
         ]
     },
@@ -13758,12 +13768,12 @@
                 "Author": "Ninethirty77",
                 "Name": "The Studium",
                 "InternalName": "FCMetrics",
-                "AssemblyVersion": "0.1.144.0",
+                "AssemblyVersion": "0.1.145.0",
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/icon.jpg",
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1782747719
+                "LastUpdate": 1782774730
             }
         ]
     },
@@ -14333,25 +14343,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/images/minigamesemporium.png",
                 "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
                 "LastUpdate": 1781817303
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "open-xiv",
-        "repo_url": "https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins.json",
-        "repo_source_url": "https://github.com/open-xiv/dalamud-plugins",
-        "repo_name": "dalamud-plugins",
-        "plugins": [
-            {
-                "Author": "Haku",
-                "Name": "SuMemo Uploader",
-                "InternalName": "MemoUploader",
-                "AssemblyVersion": "7.5.3.5",
-                "Description": "由酥卷提供技术支持",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://assets.sumemo.dev/sumemo.png",
-                "RepoUrl": "https://github.com/open-xiv/dalamud-plugins",
-                "LastUpdate": 1781493042
             }
         ]
     },
@@ -15505,12 +15496,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.60",
+                "AssemblyVersion": "6.0.0.61",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782728807
+                "LastUpdate": 1782768583
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -15592,12 +15583,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.303.0.5",
+                "AssemblyVersion": "15.303.0.10",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782743202
+                "LastUpdate": 1782773116
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -15630,7 +15621,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1782734427
+                "LastUpdate": 1782753899
             },
             {
                 "Author": "daemitus, kawaii",
@@ -15775,11 +15766,11 @@
                 "Author": "Anna, QianChangUwU",
                 "Name": "ExtraChat-CN",
                 "InternalName": "ExtraChat-CN",
-                "AssemblyVersion": "1.3.11.28",
+                "AssemblyVersion": "1.3.11.27",
                 "Description": "ExtraChat 添加端到端加密、跨数据中心、不限成员数量的额外聊天频道到游戏中。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/ChatExtra",
-                "LastUpdate": 1782753325
+                "LastUpdate": 1782763483
             },
             {
                 "Author": "NightmareXIV, QianChangUwU",
@@ -18306,11 +18297,11 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2606.127.0.0",
+                "AssemblyVersion": "2606.128.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1782729580
+                "LastUpdate": 1782766312
             }
         ]
     },
@@ -20452,12 +20443,12 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel",
-                "AssemblyVersion": "1.1.20260629.855",
+                "AssemblyVersion": "1.1.20260630.883",
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://gist.githubusercontent.com/Voudi/77c661ec1597925c2856d649a0cfc2d8/raw/icon.png",
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1782750173
+                "LastUpdate": 1782774060
             }
         ]
     },
@@ -20933,7 +20924,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1782751007
+                "LastUpdate": 1782763679
             },
             {
                 "Author": "XeldarAlz",
@@ -21007,7 +20998,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1782677918
+                "LastUpdate": 1782763679
             }
         ]
     },
