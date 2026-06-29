@@ -463,12 +463,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.5.7.0",
+                "AssemblyVersion": "0.5.7.1",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1782661856
+                "LastUpdate": 1782726711
             },
             {
                 "Author": "DhogGPT",
@@ -2050,7 +2050,7 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782580389,
+                "LastUpdate": 1782722618,
                 "is_closed_source": true
             },
             {
@@ -2062,7 +2062,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782580389,
+                "LastUpdate": 1782722618,
                 "is_closed_source": true
             },
             {
@@ -2074,19 +2074,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782580389,
+                "LastUpdate": 1782722618,
                 "is_closed_source": true
             },
             {
                 "Author": "AtmoOmen",
                 "Name": "Daily Routines",
                 "InternalName": "DailyRoutines",
-                "AssemblyVersion": "2.1.1.1",
+                "AssemblyVersion": "2.1.1.2",
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782580389,
+                "LastUpdate": 1782722618,
                 "is_closed_source": true
             },
             {
@@ -4201,11 +4201,11 @@
                 "Author": "嗨呀www",
                 "Name": "HiAuRo",
                 "InternalName": "HiAuRo",
-                "AssemblyVersion": "0.2.30.0",
+                "AssemblyVersion": "0.2.31.0",
                 "Description": "HiAuRo 是一个全栈战斗辅助框架，提供 ACR 接口、执行轴、事实轴、智能决策层和完整的 UI 系统。ACR 作者可开发各职业的战斗逻辑，普通用户也可通过内置轴获得完整的战斗辅助体验。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/denghaoxuan991876906/HiAuRo",
-                "LastUpdate": 1782684078
+                "LastUpdate": 1782725288
             },
             {
                 "Author": "嗨呀",
@@ -4704,12 +4704,12 @@
                 "Author": "Eauldane",
                 "Name": "Snowcloak Sync",
                 "InternalName": "Snowcloak",
-                "AssemblyVersion": "3.0.4.0",
+                "AssemblyVersion": "3.0.5.0",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Eauldane/SnowcloakClient/refs/heads/main/Snowcloak/images/logo.png",
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1782451203
+                "LastUpdate": 1782730302
             },
             {
                 "Author": "Eauldane",
@@ -6348,6 +6348,17 @@
                 "IconUrl": "https://gezimao.github.io/Plugins/plugins/DisPlacePlugin/icon.png",
                 "RepoUrl": "https://github.com/Drakansoul/DisPlaced",
                 "LastUpdate": 1777763647
+            },
+            {
+                "Author": "gezimao",
+                "Name": "小抄",
+                "InternalName": "NotePlugin",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "一个简易卫月小抄插件。使用 /note 打开编辑器，可新增多条小抄并在屏幕悬浮窗中显示，支持缩放、自动换行、透明度、宽度调整和按地图自动打开。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://gezimao.github.io/Plugins/plugins/NotePlugin/icon.png",
+                "RepoUrl": "https://github.com/gezimao/notePlugin",
+                "LastUpdate": 1782719194
             }
         ]
     },
@@ -7846,6 +7857,17 @@
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
                 "LastUpdate": 1782474960
+            },
+            {
+                "Author": "croizat",
+                "Name": "Glamour Log",
+                "InternalName": "GlamourLog",
+                "AssemblyVersion": "15.32",
+                "Description": "A log for all your glamours and other glam-related tweaks",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/136",
+                "RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
+                "LastUpdate": 1778100498
             },
             {
                 "Author": "croizat",
@@ -9421,7 +9443,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1782601679
+                "LastUpdate": 1782681970
             },
             {
                 "Author": "sourpuh",
@@ -9443,7 +9465,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782664829
+                "LastUpdate": 1782725137
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9460,12 +9482,12 @@
                 "Author": "Team Wrath",
                 "Name": "Wrath Combo",
                 "InternalName": "WrathCombo",
-                "AssemblyVersion": "1.0.4.11",
+                "AssemblyVersion": "1.0.4.13",
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1782662757
+                "LastUpdate": 1782715012
             }
         ]
     },
@@ -11029,12 +11051,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.5.7.0",
+                "AssemblyVersion": "0.5.7.1",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1782661856
+                "LastUpdate": 1782726711
             }
         ]
     },
@@ -11507,7 +11529,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon.png",
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1782109145
+                "LastUpdate": 1782710474
             },
             {
                 "Author": "Meisterlala",
@@ -11518,7 +11540,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon18.png",
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1782109145
+                "LastUpdate": 1782710474
             }
         ]
     },
@@ -12286,12 +12308,12 @@
                 "Author": "Nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.171",
+                "AssemblyVersion": "0.1.0.173",
                 "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/better-deaths/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782698228
+                "LastUpdate": 1782724438
             },
             {
                 "Author": "Nainaiowo",
@@ -12318,11 +12340,11 @@
                 "Author": "Nainaiowo",
                 "Name": "Nai Debug Console",
                 "InternalName": "NaiDebugConsole",
-                "AssemblyVersion": "0.1.0.7",
+                "AssemblyVersion": "0.1.0.8",
                 "Description": "Local debug console for combat logs, addon snapshots, and Strategy Board inspection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/nai-debug-console",
-                "LastUpdate": 1782569356
+                "LastUpdate": 1782718438
             }
         ]
     },
@@ -15483,12 +15505,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.58",
+                "AssemblyVersion": "6.0.0.60",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782650062
+                "LastUpdate": 1782728807
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -15570,12 +15592,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.303.0.3",
+                "AssemblyVersion": "15.303.0.4",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782664829
+                "LastUpdate": 1782725137
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -15597,18 +15619,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1782620380
+                "LastUpdate": 1782722461
             },
             {
                 "Author": "Team Wrath",
                 "Name": "Wrath Combo",
                 "InternalName": "WrathCombo",
-                "AssemblyVersion": "1.0.4.11",
+                "AssemblyVersion": "1.0.4.13",
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1782662757
+                "LastUpdate": 1782715012
             },
             {
                 "Author": "daemitus, kawaii",
@@ -18273,22 +18295,22 @@
                 "Author": "Solona",
                 "Name": "PlayerSync (Soli's Version)",
                 "InternalName": "MareSempiterne",
-                "AssemblyVersion": "1.15.2.11",
+                "AssemblyVersion": "1.15.2.12",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/solona-m/MareSynchronosClient",
-                "LastUpdate": 1782679829
+                "LastUpdate": 1782716666
             },
             {
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2606.123.0.0",
+                "AssemblyVersion": "2606.127.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1782669194
+                "LastUpdate": 1782729580
             }
         ]
     },
@@ -19981,7 +20003,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Valiice/SpotifyHonorific/master/images/icon.png",
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1782471955
+                "LastUpdate": 1782725451
             }
         ]
     },
