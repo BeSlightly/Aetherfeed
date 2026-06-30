@@ -16,11 +16,9 @@ interface PluginCardProps {
 
 const TierIndicator: React.FC<{
     tier: PunishTier;
-    punishHosted: boolean;
-}> = ({ tier, punishHosted }) => {
+}> = ({ tier }) => {
     const meta = TIER_META[tier];
-    const href = punishHosted ? 'https://puni.sh/' : undefined;
-    const title = `puni.sh ${meta.label}${punishHosted ? '' : ' (GitHub-hosted)'}`;
+    const title = `puni.sh ${meta.label}`;
 
     const hoverTextColor =
         tier === 'core' ? 'hover:text-amber-600 dark:hover:text-amber-400' :
@@ -41,32 +39,23 @@ const TierIndicator: React.FC<{
                 hoverBgColor
             )}
         >
-            {punishHosted ? (
-                <img
-                    src={`${import.meta.env.BASE_URL}punish-logo.webp`}
-                    alt=""
-                    aria-hidden="true"
-                    className="h-4.5 w-4.5 object-contain opacity-60 group-hover:opacity-100"
-                />
-            ) : (
-                <span className="text-[11px] font-black uppercase leading-none">
-                    {meta.label[0]}
-                </span>
-            )}
+            <img
+                src={`${import.meta.env.BASE_URL}punish-logo.webp`}
+                alt=""
+                aria-hidden="true"
+                className="h-4.5 w-4.5 object-contain opacity-60 group-hover:opacity-100"
+            />
             <span className="text-[10px] font-bold uppercase tracking-wide leading-none">
                 {meta.label}
             </span>
         </span>
     );
 
-    if (href) {
-        return (
-            <a href={href} target="_blank" rel="noopener noreferrer" title={title}>
-                {badge}
-            </a>
-        );
-    }
-    return <span title={title}>{badge}</span>;
+    return (
+        <a href="https://puni.sh/" target="_blank" rel="noopener noreferrer" title={title}>
+            {badge}
+        </a>
+    );
 };
 
 const getApiBadgeColor = (level: number, maxLevel?: number) => {
@@ -284,7 +273,7 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, showIcon, 
                                 </a>
                             )}
                             {tier && (
-                                <TierIndicator tier={tier} punishHosted={!!plugin.isPunish} />
+                                <TierIndicator tier={tier} />
                             )}
                         </div>
                     )}
