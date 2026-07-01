@@ -1562,7 +1562,7 @@
                 "Description": "Update honorific title based on discord activity informations",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
-                "LastUpdate": 1782750291
+                "LastUpdate": 1782798833
             },
             {
                 "Author": "Anya Hichu",
@@ -1582,7 +1582,7 @@
                 "Description": "Displays emote counters as honorific title dynamically",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
-                "LastUpdate": 1782731145
+                "LastUpdate": 1782798825
             },
             {
                 "Author": "Anya Hichu",
@@ -4055,11 +4055,11 @@
                 "Author": "DarrellTang",
                 "Name": "Namazu Flippers",
                 "InternalName": "NamazuFlippers",
-                "AssemblyVersion": "1.0.48.0",
+                "AssemblyVersion": "1.0.52.0",
                 "Description": "Namazu Flippers connects to the Saddlebag Exchange API to find daily cross-server arbitrage opportunities. Get a route-optimized shopping list, travel between servers, buy low, sell high on your home world. One scan, one route, done in under 20 minutes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/DarrellTang/namazu-flippers",
-                "LastUpdate": 1782358778
+                "LastUpdate": 1782868670
             }
         ]
     },
@@ -5836,12 +5836,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.16",
+                "AssemblyVersion": "7.5.1.17",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1782688965
+                "LastUpdate": 1782866808
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6744,19 +6744,19 @@
     },
     {
         "repo_developer_name": "greenteakitkats",
-        "repo_url": "https://raw.githubusercontent.com/greenteakitkats/HousingHistory/main/repo.json",
-        "repo_source_url": "https://github.com/greenteakitkats/HousingHistory",
-        "repo_name": "HousingHistory",
+        "repo_url": "https://raw.githubusercontent.com/greenteakitkats/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/greenteakitkats/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
         "plugins": [
             {
-                "Author": "Ryan",
+                "Author": "greenteakitkats",
                 "Name": "Housing History",
                 "InternalName": "HousingHistory",
-                "AssemblyVersion": "0.9.2.0",
-                "Description": "A read-only log of furnishings placed, removed, moved, rotated, and dyed in your house — with coordinates, dye names, item icons, and a 'since last visit' diff. Click any coordinate to copy it (handy for undoing a move). Complementary to Burning Down the House. Open with /houselog.",
+                "AssemblyVersion": "0.11.0.0",
+                "Description": "A running log of everything you do while decorating: placing, removing, moving, rotating, and dyeing furniture, all with coordinates. Forgot what you just changed, or moved something and want it back? Click the old coordinates to copy them, or turn on Apply mode to snap the selected item right back into place. It'll also show you what changed since you were last home. Built to sit alongside Burning Down the House. Type /houselog to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/greenteakitkats/HousingHistory",
-                "LastUpdate": 1782789657
+                "LastUpdate": 1782884305
             }
         ]
     },
@@ -7900,7 +7900,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.32",
+                "AssemblyVersion": "15.34",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -8518,7 +8518,7 @@
                 "Description": "Import cast logs and display them in a timeline view.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/k0etsu/CastTimeline",
-                "LastUpdate": 1777496753
+                "LastUpdate": 1782845126
             },
             {
                 "Author": "k0etsu",
@@ -11409,12 +11409,12 @@
                 "Author": "DhogGPT",
                 "Name": "Dhog Potato System",
                 "InternalName": "DPS",
-                "AssemblyVersion": "0.1.0.6",
+                "AssemblyVersion": "0.1.0.7",
                 "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/DPS",
-                "LastUpdate": 1782414242
+                "LastUpdate": 1782881269
             },
             {
                 "Author": "DhogGPT",
@@ -11453,23 +11453,23 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "0.4.2.6",
+                "AssemblyVersion": "0.4.2.7",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1782612186
+                "LastUpdate": 1782849230
             },
             {
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "0.2.0.10",
+                "AssemblyVersion": "0.2.0.12",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1781051135
+                "LastUpdate": 1782849242
             },
             {
                 "Author": "DhogGPT",
@@ -11486,12 +11486,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.4.5",
+                "AssemblyVersion": "0.2.4.7",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1782344098
+                "LastUpdate": 1782849279
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -11577,7 +11577,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon.png",
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1782710474
+                "LastUpdate": 1782882839
             },
             {
                 "Author": "Meisterlala",
@@ -11588,7 +11588,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon18.png",
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1782710474
+                "LastUpdate": 1782882839
             }
         ]
     },
@@ -12361,7 +12361,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/better-deaths/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782809563
+                "LastUpdate": 1782868757
             },
             {
                 "Author": "Nainaiowo",
@@ -12388,11 +12388,11 @@
                 "Author": "Nainaiowo",
                 "Name": "Nai Debug Console",
                 "InternalName": "NaiDebugConsole",
-                "AssemblyVersion": "0.1.0.12",
+                "AssemblyVersion": "0.1.0.13",
                 "Description": "Local debug console for combat logs, addon snapshots, and Strategy Board inspection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/nai-debug-console",
-                "LastUpdate": 1782862392
+                "LastUpdate": 1782873322
             }
         ]
     },
@@ -12901,7 +12901,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1782785030
+                "LastUpdate": 1782871723
             },
             {
                 "Author": "goat, Maple",
@@ -12911,7 +12911,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1782706511
+                "LastUpdate": 1782879098
             }
         ]
     },
@@ -13825,12 +13825,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.0.1",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo/main/ExCombo/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo",
-                "LastUpdate": 1782864042
+                "LastUpdate": 1782873151
             }
         ]
     },
@@ -17354,12 +17354,12 @@
                 "Author": "Whitedog",
                 "Name": "TCRankingViewer",
                 "InternalName": "TCRankingViewer",
-                "AssemblyVersion": "1.0.5.2",
+                "AssemblyVersion": "1.0.5.3",
                 "Description": "當隊友進入隊伍或開啟招募資訊時，自動從 ranking.init.engineer 與 samoyedqq.github.io/TCtomestone 抓取對應角色的零式/絕本排名資料，並顯示於聊天框與插件視窗。",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/assets/icon.png",
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1782828095
+                "LastUpdate": 1782869715
             }
         ]
     },
@@ -18349,17 +18349,17 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/solona-m/MareSynchronosClient",
-                "LastUpdate": 1782716666
+                "LastUpdate": 1782858109
             },
             {
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2606.128.0.0",
+                "AssemblyVersion": "2607.124.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1782766312
+                "LastUpdate": 1782877835
             }
         ]
     },
@@ -21909,18 +21909,18 @@
                 "Author": "akira0245, Ori, Kalle, Zune",
                 "Name": "MidiBard 2 (BETA)",
                 "InternalName": "ZuneBard",
-                "AssemblyVersion": "1.15.0.141",
+                "AssemblyVersion": "1.15.0.142",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1782674076,
+                "LastUpdate": 1782866267,
                 "is_closed_source": true
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
                 "Name": "MidiBard 2 (ALPHA)",
                 "InternalName": "ZuneBardAlpha",
-                "AssemblyVersion": "1.15.0.141",
+                "AssemblyVersion": "1.15.0.142",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://midibard.org",
