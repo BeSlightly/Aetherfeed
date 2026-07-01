@@ -781,6 +781,24 @@
         ]
     },
     {
+        "repo_developer_name": "AinaSnow",
+        "repo_url": "https://raw.githubusercontent.com/AinaSnow/XIVChatNext/main/repo.json",
+        "repo_source_url": "https://github.com/AinaSnow/XIVChatNext",
+        "repo_name": "XIVChatNext",
+        "plugins": [
+            {
+                "Author": "AinaSnow",
+                "Name": "XIVChatNext Server",
+                "InternalName": "XIVChatNext",
+                "AssemblyVersion": "1.7.14",
+                "Description": "XIVCHAT Improved Model",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AinaSnow/XIVChatNext/",
+                "LastUpdate": 1782913864
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Aireil/MyDalamudPlugins/raw/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Aireil/MyDalamudPlugins",
         "repo_name": "MyDalamudPlugins",
@@ -1034,12 +1052,12 @@
                 "Author": "AlexFlipnote",
                 "Name": "The Holiest Fluffiness",
                 "InternalName": "HoliestFluffiness",
-                "AssemblyVersion": "0.6.2",
+                "AssemblyVersion": "0.7.0",
                 "Description": "A tweak plugin born for the free company 'The Holiest Fluffiness', now open for all to enjoy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AlexFlipnote/XIV_HolyPlugin/master/HoliestFluffiness/Images/icon.png",
                 "RepoUrl": "https://github.com/AlexFlipnote/XIV_HolyPlugin",
-                "LastUpdate": 1782852287
+                "LastUpdate": 1782908366
             }
         ]
     },
@@ -3423,12 +3441,12 @@
                 "Author": "Meghann",
                 "Name": "Recipe Helper",
                 "InternalName": "DalamudRecipeHelper",
-                "AssemblyVersion": "1.1.8.0",
+                "AssemblyVersion": "1.1.11.0",
                 "Description": "Build a combined plan from multiple FFXIV recipes, compare NQ and HQ requirements with live inventory and saved retainer snapshots, track timed gathering materials, and hand crafting or travel actions to Artisan, Teamcraft, and GatherBuddy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/Recipe-Helper/main/RecipeHelperIcon1.png",
                 "RepoUrl": "https://github.com/CherryFairy78/Recipe-Helper",
-                "LastUpdate": 1782808107
+                "LastUpdate": 1782914244
             }
         ]
     },
@@ -3442,11 +3460,11 @@
                 "Author": "chika",
                 "Name": "XIV Remote Chat",
                 "InternalName": "XIVRemoteChat",
-                "AssemblyVersion": "0.0.0.13",
+                "AssemblyVersion": "0.0.0.14",
                 "Description": "Allows you to control any instance of FF connected to chat or send commands.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Deckerz/xiv-remote-chat",
-                "LastUpdate": 1781862294
+                "LastUpdate": 1782909400
             }
         ]
     },
@@ -3609,11 +3627,11 @@
                 "Author": "CuratorJin",
                 "Name": "DutyRecorder",
                 "InternalName": "DutyRecorder",
-                "AssemblyVersion": "0.0.0.1",
+                "AssemblyVersion": "0.0.0.2",
                 "Description": "A plugin that helps you to record your duty.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/curatorjin/DalamudPluginsRepository",
-                "LastUpdate": 1777963954
+                "LastUpdate": 1782919102
             }
         ]
     },
@@ -4332,12 +4350,12 @@
                 "Author": "Oreo",
                 "Name": "Silkstring",
                 "InternalName": "Silkstring",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.4.1.0",
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/devoreofox/Silkstring/main/Silkstring/images/icon.png",
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782861599
+                "LastUpdate": 1782918004
             }
         ]
     },
@@ -4370,12 +4388,12 @@
                 "Author": "Oreo",
                 "Name": "Silkstring",
                 "InternalName": "Silkstring",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.4.1.0",
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/devoreofox/Silkstring/main/Silkstring/images/icon.png",
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782861599
+                "LastUpdate": 1782918004
             }
         ]
     },
@@ -6743,24 +6761,6 @@
         ]
     },
     {
-        "repo_developer_name": "greenteakitkats",
-        "repo_url": "https://raw.githubusercontent.com/greenteakitkats/DalamudPlugins/main/repo.json",
-        "repo_source_url": "https://github.com/greenteakitkats/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "greenteakitkats",
-                "Name": "Housing History",
-                "InternalName": "HousingHistory",
-                "AssemblyVersion": "0.12.2.0",
-                "Description": "A running log of everything you do while decorating: placing, removing, moving, rotating, and dyeing furniture, all with coordinates. Forgot what you just changed, or moved something and want it back? Click the old coordinates to copy them, or turn on Apply mode to snap the selected item right back into place. It'll also show you what changed since you were last home. Built to sit alongside Burning Down the House. Type /houselog to open it.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/greenteakitkats/HousingHistory",
-                "LastUpdate": 1782902558
-            }
-        ]
-    },
-    {
         "repo_developer_name": "grimgrum",
         "repo_url": "https://raw.githubusercontent.com/grimgrum/action-cam-for-FFXIV/main/pluginmaster.json",
         "repo_source_url": "https://github.com/grimgrum/action-cam-for-FFXIV",
@@ -8350,11 +8350,11 @@
                 "Author": "Iam Batman",
                 "Name": "Faloop Messenger",
                 "InternalName": "FaloopMessenger",
-                "AssemblyVersion": "0.4.11.0",
+                "AssemblyVersion": "0.4.13.0",
                 "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
                 "IconUrl": "https://raw.githubusercontent.com/jshade2710/faloop-messenger/main/FaloopMessenger/Images/Icon.png",
                 "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1781111330
+                "LastUpdate": 1782918306
             }
         ]
     },
@@ -8630,11 +8630,11 @@
                 "Author": "KangasZ",
                 "Name": "Radar Plugin",
                 "InternalName": "RadarPlugin",
-                "AssemblyVersion": "2.1.8.3",
+                "AssemblyVersion": "2.1.9.0",
                 "Description": "Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
-                "LastUpdate": 1777741241
+                "LastUpdate": 1782922479
             },
             {
                 "Author": "KangasZ",
@@ -9458,7 +9458,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/6",
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1782110772
+                "LastUpdate": 1782896187
             },
             {
                 "Author": "erdelf, Herculezz",
@@ -9513,18 +9513,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782854064
+                "LastUpdate": 1782920910
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.8",
+                "AssemblyVersion": "7.5.1.9",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1782798859
+                "LastUpdate": 1782901967
             },
             {
                 "Author": "Team Wrath",
@@ -10163,7 +10163,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1782833990
+                "LastUpdate": 1782921116
             }
         ]
     },
@@ -12361,7 +12361,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/better-deaths/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782868757
+                "LastUpdate": 1782907159
             },
             {
                 "Author": "Nainaiowo",
@@ -13806,12 +13806,12 @@
                 "Author": "Ninethirty77",
                 "Name": "The Studium",
                 "InternalName": "FCMetrics",
-                "AssemblyVersion": "0.1.164.0",
+                "AssemblyVersion": "0.1.171.0",
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/icon.jpg",
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1782894568
+                "LastUpdate": 1782918680
             }
         ]
     },
@@ -13825,12 +13825,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.1.0.1",
+                "AssemblyVersion": "1.2.3.0",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo/main/ExCombo/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo",
-                "LastUpdate": 1782873151
+                "LastUpdate": 1782923106
             }
         ]
     },
@@ -15645,7 +15645,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782854064
+                "LastUpdate": 1782920910
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -15662,12 +15662,12 @@
                 "Author": "NightmareXIV",
                 "Name": "Splatoon",
                 "InternalName": "Splatoon",
-                "AssemblyVersion": "3.9.2.11",
+                "AssemblyVersion": "3.9.2.12",
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1782793392
+                "LastUpdate": 1782922632
             },
             {
                 "Author": "Team Wrath",
@@ -16912,7 +16912,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RoseOfficial/Memoria/main/icon.png",
                 "RepoUrl": "https://github.com/RoseOfficial/Memoria",
-                "LastUpdate": 1782862764
+                "LastUpdate": 1782919555
             }
         ]
     },
@@ -17354,12 +17354,12 @@
                 "Author": "Whitedog",
                 "Name": "TCRankingViewer",
                 "InternalName": "TCRankingViewer",
-                "AssemblyVersion": "1.0.5.3",
+                "AssemblyVersion": "1.0.5.4",
                 "Description": "當隊友進入隊伍或開啟招募資訊時，自動從 ranking.init.engineer 與 samoyedqq.github.io/TCtomestone 抓取對應角色的零式/絕本排名資料，並顯示於聊天框與插件視窗。",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/assets/icon.png",
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1782869715
+                "LastUpdate": 1782925144
             }
         ]
     },
