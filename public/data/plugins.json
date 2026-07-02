@@ -2096,7 +2096,7 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782722618,
+                "LastUpdate": 1782988765,
                 "is_closed_source": true
             },
             {
@@ -2108,7 +2108,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782722618,
+                "LastUpdate": 1782988765,
                 "is_closed_source": true
             },
             {
@@ -2120,19 +2120,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782722618,
+                "LastUpdate": 1782988765,
                 "is_closed_source": true
             },
             {
                 "Author": "AtmoOmen",
                 "Name": "Daily Routines",
                 "InternalName": "DailyRoutines",
-                "AssemblyVersion": "2.1.1.2",
+                "AssemblyVersion": "2.1.2.0",
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782722618,
+                "LastUpdate": 1782988765,
                 "is_closed_source": true
             },
             {
@@ -2230,7 +2230,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1782497351
+                "LastUpdate": 1782797645
             }
         ]
     },
@@ -2534,6 +2534,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/BalthierArt/lodestone/main/icon.png",
                 "RepoUrl": "https://github.com/BalthierArt/lodestone",
                 "LastUpdate": 1782744131
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "beer-psi",
+        "repo_url": "https://raw.githubusercontent.com/beer-psi/FFLogsUploaderPlugin/master/repo.json",
+        "repo_source_url": "https://github.com/beer-psi/FFLogsUploaderPlugin",
+        "repo_name": "FFLogsUploaderPlugin",
+        "plugins": [
+            {
+                "Author": "beerpsi",
+                "Name": "FF Logs Uploader",
+                "InternalName": "FFLogsUploaderPlugin",
+                "AssemblyVersion": "0.0.0.6",
+                "Description": "An alternative to the Archon App for uploading logs to the FF Logs service. Basic features are covered: uploading a log, splitting a log file, live logging.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/beer-psi/FFLogsUploaderPlugin",
+                "LastUpdate": 1782735466
             }
         ]
     },
@@ -4368,12 +4386,12 @@
                 "Author": "Oreo",
                 "Name": "Silkstring",
                 "InternalName": "Silkstring",
-                "AssemblyVersion": "1.4.1.0",
+                "AssemblyVersion": "1.5.0.0",
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/devoreofox/Silkstring/main/Silkstring/images/icon.png",
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782918004
+                "LastUpdate": 1782972993
             }
         ]
     },
@@ -4406,12 +4424,12 @@
                 "Author": "Oreo",
                 "Name": "Silkstring",
                 "InternalName": "Silkstring",
-                "AssemblyVersion": "1.4.1.0",
+                "AssemblyVersion": "1.5.0.0",
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/devoreofox/Silkstring/main/Silkstring/images/icon.png",
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782918004
+                "LastUpdate": 1782972993
             }
         ]
     },
@@ -6819,6 +6837,24 @@
         ]
     },
     {
+        "repo_developer_name": "greenteakitkats",
+        "repo_url": "https://raw.githubusercontent.com/greenteakitkats/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/greenteakitkats/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "greenteakitkats",
+                "Name": "Housing History",
+                "InternalName": "HousingHistory",
+                "AssemblyVersion": "0.13.0.0",
+                "Description": "A running log of everything you do while decorating: placing, removing, moving, rotating, and dyeing furniture, all with coordinates. Forgot what you just changed, or moved something and want it back? Click the old coordinates to copy them, or turn on Apply mode to snap the selected item right back into place. It'll also show you what changed since you were last home. Built to sit alongside Burning Down the House. Type /houselog to open it.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/greenteakitkats/HousingHistory",
+                "LastUpdate": 1782971348
+            }
+        ]
+    },
+    {
         "repo_developer_name": "grimgrum",
         "repo_url": "https://raw.githubusercontent.com/grimgrum/action-cam-for-FFXIV/main/pluginmaster.json",
         "repo_source_url": "https://github.com/grimgrum/action-cam-for-FFXIV",
@@ -6919,12 +6955,12 @@
                 "Author": "Habitat",
                 "Name": "Ripple Shot",
                 "InternalName": "RippleShot",
-                "AssemblyVersion": "0.4.9.0",
+                "AssemblyVersion": "0.5.1.0",
                 "Description": "Bartender tool for the Ripple Shot /random jackpot game: pricing, per-night caps with Supabase VIPs, carry-over pot, win detection, archives, and a guided payout planner.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/habitatnightclub/ripple-shot/main/ripple-shot-icon.png",
                 "RepoUrl": "https://github.com/habitatnightclub/ripple-shot",
-                "LastUpdate": 1782155302
+                "LastUpdate": 1782985681
             }
         ]
     },
@@ -8444,7 +8480,7 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "Skyrim Compass",
                 "InternalName": "SkyrimCompass",
-                "AssemblyVersion": "1.4.5.3",
+                "AssemblyVersion": "1.5.0.1",
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/SkyrimCompass",
@@ -9577,7 +9613,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.9",
+                "AssemblyVersion": "7.5.1.10",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
@@ -9593,7 +9629,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1782753899
+                "LastUpdate": 1782974841
             }
         ]
     },
@@ -9681,12 +9717,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "2607.125.0.0",
+                "AssemblyVersion": "2607.130.0.0",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1782959798
+                "LastUpdate": 1782989990
             }
         ]
     },
@@ -12420,6 +12456,17 @@
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
                 "LastUpdate": 1782966497
+            },
+            {
+                "Author": "nainaiowo",
+                "Name": "Chibi Chaos",
+                "InternalName": "ChibiChaos",
+                "AssemblyVersion": "0.1.17.7",
+                "Description": "Scales down Chaos in DMU for visibility.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/161",
+                "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
+                "LastUpdate": 1782971186
             }
         ]
     },
@@ -12444,12 +12491,12 @@
                 "Author": "Nainaiowo",
                 "Name": "Chibi Chaos",
                 "InternalName": "ChibiChaos",
-                "AssemblyVersion": "0.1.17.6",
+                "AssemblyVersion": "0.1.17.7",
                 "Description": "Scales down Chaos in DMU for visibility.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/chibi-chaos/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
-                "LastUpdate": 1782969599
+                "LastUpdate": 1782971186
             },
             {
                 "Author": "Nainaiowo",
@@ -13883,12 +13930,12 @@
                 "Author": "Ninethirty77",
                 "Name": "The Studium",
                 "InternalName": "FCMetrics",
-                "AssemblyVersion": "0.1.172.0",
+                "AssemblyVersion": "0.1.188.0",
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/icon.jpg",
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1782962544
+                "LastUpdate": 1782991495
             }
         ]
     },
@@ -14430,7 +14477,7 @@
                 "Author": "OOF Games, Asuna",
                 "Name": "Gamba Where",
                 "InternalName": "GambaWhere",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "Browse live gambling events across Eorzea, filter by game or data centre, and teleport straight there with Lifestream. Host your own session with game-specific rules, presets, and host profiles with automatic location updates, Discord webhooks, minimap host icons, and Party Finder shortcuts. Find or advertise for venues and hosts on the Recruitment board, and set custom alerts to be notified when a new event matches your preferences.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/158",
@@ -15762,7 +15809,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1782922632
+                "LastUpdate": 1782975108
             },
             {
                 "Author": "Team Wrath",
@@ -15773,7 +15820,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1782753899
+                "LastUpdate": 1782974841
             },
             {
                 "Author": "daemitus, kawaii",
@@ -17041,6 +17088,62 @@
         ]
     },
     {
+        "repo_developer_name": "Rowsai",
+        "repo_url": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/main/repo.json",
+        "repo_source_url": "https://github.com/Rowsai/HappyTrigger",
+        "repo_name": "HappyTrigger",
+        "plugins": [
+            {
+                "Author": "Rowsai",
+                "Name": "HappyTrigger",
+                "InternalName": "HappyTrigger",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "Display images or text when chat log keywords appear.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
+                "LastUpdate": 1782978295
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Rowsai",
+        "repo_url": "https://raw.githubusercontent.com/Rowsai/Rowsai-Plugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Rowsai/Rowsai-Plugins",
+        "repo_name": "Rowsai-Plugins",
+        "plugins": [
+            {
+                "Author": "Rowsai",
+                "Name": "devLibra",
+                "InternalName": "devLibra",
+                "AssemblyVersion": "0.0.0.3",
+                "Description": "Dalamud plugin development helper. Shows party member statuses and enemy casting information.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Rowsai/devLibra",
+                "LastUpdate": 1782929119
+            },
+            {
+                "Author": "Rowsai",
+                "Name": "HappyTrigger",
+                "InternalName": "HappyTrigger",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
+                "LastUpdate": 1782978295
+            },
+            {
+                "Author": "Rowsai",
+                "Name": "magicLook",
+                "InternalName": "magicLook",
+                "AssemblyVersion": "0.0.0.5",
+                "Description": "絶妖星乱舞の詠唱アクションを監視し、指定アクション時にプレイヤー頭上へテキストを表示します。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Rowsai/magicLook",
+                "LastUpdate": 1782964284
+            }
+        ]
+    },
+    {
         "repo_developer_name": "rphubco",
         "repo_url": "https://raw.githubusercontent.com/rphubco/glance/master/pluginmaster.json",
         "repo_source_url": "https://github.com/rphubco/glance",
@@ -17219,12 +17322,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "The Atelier",
                 "InternalName": "TheAtelier",
-                "AssemblyVersion": "0.5.0.38",
+                "AssemblyVersion": "0.6.2.1",
                 "Description": "A creator-focused glamour platform for discovering, publishing, saving, and applying FFXIV looks through Aetherweave, with creator profiles, wardrobe management, dependency safety, and Glamourer integration.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/TheAtelier/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/TheAtelier",
-                "LastUpdate": 1782970113
+                "LastUpdate": 1782984448
             }
         ]
     },
@@ -18521,7 +18624,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/152",
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_gaolbreak",
-                "LastUpdate": 1782947504
+                "LastUpdate": 1782975762
             },
             {
                 "Author": "sourpuh",
