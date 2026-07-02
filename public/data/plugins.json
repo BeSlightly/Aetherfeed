@@ -1136,11 +1136,11 @@
                 "Author": "Almeris",
                 "Name": "Armoire",
                 "InternalName": "Armoire",
-                "AssemblyVersion": "0.1.0.4",
+                "AssemblyVersion": "0.1.1.1",
                 "Description": "Gestionnaire de tenues et résolution de conflits pour Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AlmerisBE/Armoire",
-                "LastUpdate": 1782953859
+                "LastUpdate": 1783032759
             }
         ]
     },
@@ -3907,12 +3907,12 @@
                 "Author": "dajoey",
                 "Name": "Armoire Auto-Fill",
                 "InternalName": "ArmoireAutoFill",
-                "AssemblyVersion": "0.4.1.0",
+                "AssemblyVersion": "0.4.3.0",
                 "Description": "Lists every armoire-eligible dungeon drop in the game and shows whether each is in your inventory, in your armoire, or still missing. Sort by level, hide completed dungeons, toggle to show owned items too. Open the armoire UI at an inn once per session to populate the in-armoire state; in-inventory and equipped state is detected automatically. Use /armoire.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/armoire-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/ArmoireAutoFill/latest",
-                "LastUpdate": 1781811311
+                "LastUpdate": 1783034347
             },
             {
                 "Author": "dajoey",
@@ -3940,12 +3940,12 @@
                 "Author": "dajoey",
                 "Name": "Gluttony Combo",
                 "InternalName": "GluttonyCombo",
-                "AssemblyVersion": "1.0.4.73",
+                "AssemblyVersion": "1.0.4.74",
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/gluttonycombo-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/GluttonyCombo/latest",
-                "LastUpdate": 1782956706
+                "LastUpdate": 1783032189
             },
             {
                 "Author": "Blackcatz1911, dajoey",
@@ -5307,23 +5307,23 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.316",
+                "AssemblyVersion": "0.0.0.321",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1782143737
+                "LastUpdate": 1783014502
             },
             {
                 "Author": "erdelf",
                 "Name": "FC Tracker",
                 "InternalName": "FCTracker",
-                "AssemblyVersion": "0.0.0.19",
+                "AssemblyVersion": "0.0.0.20",
                 "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1782666466
+                "LastUpdate": 1783018415
             }
         ]
     },
@@ -8695,6 +8695,25 @@
         ]
     },
     {
+        "repo_developer_name": "kako5555",
+        "repo_url": "https://raw.githubusercontent.com/kako5555/FlatMarks/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/kako5555/FlatMarks",
+        "repo_name": "FlatMarks",
+        "plugins": [
+            {
+                "Author": "Kako5555",
+                "Name": "FlatMarks",
+                "InternalName": "FlatMarks",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Renders the 8 field waymarks (A/B/C/D and 1/2/3/4) as flat, 2D markers lying on the floor instead of the 3D holographic pillars — like a raid-plan diagram, in-game. Markers follow uneven terrain and stairs. Optionally hides the native pillars (per waymark), and offers per-marker color, size, and opacity controls plus colorblind-friendly color schemes (protanopia, deuteranopia, tritanopia) you can save, import, and export.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/kako5555/FlatMarks/main/FlatMarks/images/icon.png",
+                "RepoUrl": "https://github.com/kako5555/FlatMarks",
+                "LastUpdate": 1783033928
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugin_repository.json",
         "repo_source_url": "https://github.com/KangasZ/DalamudPluginRepository",
         "repo_name": "DalamudPluginRepository",
@@ -9717,12 +9736,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "2607.130.0.0",
+                "AssemblyVersion": "2607.132.0.0",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1782989990
+                "LastUpdate": 1783032493
             }
         ]
     },
@@ -11966,12 +11985,12 @@
                 "Author": "Sanaka",
                 "Name": "Eorzea Arsenal",
                 "InternalName": "EorzeaArsenalPlugin",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Reads your gearsets across all jobs and pushes them to your Eorzea Arsenal account so the web app can show your gear vs BiS, and can optionally upload which equippable items you own (inventory + retainers). Connect once (browser approval or paste an API key), then use /bisexport. Bilingual DE/EN. Using Dalamud violates the FFXIV ToS; all uploads are strictly opt-in.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://xivarsenal.app/assets/img/logo-512.png",
                 "RepoUrl": "https://github.com/miralsoft/Dalamud-Eorzea-Arsenal",
-                "LastUpdate": 1782067382
+                "LastUpdate": 1783023891
             }
         ]
     },
@@ -12450,12 +12469,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.193",
+                "AssemblyVersion": "0.1.0.199",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782966497
+                "LastUpdate": 1783034048
             },
             {
                 "Author": "nainaiowo",
@@ -12485,7 +12504,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/better-deaths/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1782966497
+                "LastUpdate": 1783034048
             },
             {
                 "Author": "Nainaiowo",
@@ -13949,12 +13968,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.6.2.0",
+                "AssemblyVersion": "1.6.3.0",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo/main/ExCombo/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo",
-                "LastUpdate": 1783013036
+                "LastUpdate": 1783018739
             }
         ]
     },
@@ -15787,7 +15806,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1782962471
+                "LastUpdate": 1783027525
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -18423,6 +18442,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/Snakerez/DontKillMyKupo/main/icon.png",
                 "RepoUrl": "https://github.com/Snakerez/DontKillMyKupo",
                 "LastUpdate": 1777769783
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "snazzysosnazzy",
+        "repo_url": "https://raw.githubusercontent.com/snazzysosnazzy/SnazzyP4/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/snazzysosnazzy/SnazzyP4",
+        "repo_name": "SnazzyP4",
+        "plugins": [
+            {
+                "Author": "snazz",
+                "Name": "Snazzy P4",
+                "InternalName": "SnazzyP4",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "A robust custom macro system for the Kefka UMAD/DMU Phase 4 mechanics. Press the buttons for what you see in the fight and it lays out clean, colour-coded callouts. Open with /snazzyp4.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/snazzysosnazzy/SnazzyP4/main/SnazzyP4/images/icon.png",
+                "RepoUrl": "https://github.com/snazzysosnazzy/SnazzyP4",
+                "LastUpdate": 1783035450
             }
         ]
     },
@@ -21127,7 +21165,7 @@
                 "Author": "xan_0",
                 "Name": "Cope, Seethe, Meld",
                 "InternalName": "CopeSeetheMeld",
-                "AssemblyVersion": "0.0.3.0",
+                "AssemblyVersion": "0.0.3.1",
                 "Description": "Auto melds your gear",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xanunderscore/CopeSeetheMeld",
@@ -21163,12 +21201,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.6.0.0",
+                "AssemblyVersion": "0.7.0.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1782845323
+                "LastUpdate": 1783026884
             },
             {
                 "Author": "XeldarAlz",
@@ -21237,12 +21275,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.6.0.0",
+                "AssemblyVersion": "0.7.0.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1782845323
+                "LastUpdate": 1783026884
             }
         ]
     },
