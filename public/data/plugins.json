@@ -606,12 +606,12 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "0.4.2.7",
+                "AssemblyVersion": "0.4.2.8",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, reading local map flags, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1782849230
+                "LastUpdate": 1783108045
             },
             {
                 "Author": "DhogGPT",
@@ -639,12 +639,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.4.9",
+                "AssemblyVersion": "0.2.4.10",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1782968865
+                "LastUpdate": 1783108049
             },
             {
                 "Author": "XA",
@@ -1052,12 +1052,12 @@
                 "Author": "AlexFlipnote",
                 "Name": "The Holiest Fluffiness",
                 "InternalName": "HoliestFluffiness",
-                "AssemblyVersion": "0.7.2",
+                "AssemblyVersion": "0.7.3",
                 "Description": "A tweak plugin born for the free company 'The Holiest Fluffiness', now open for all to enjoy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AlexFlipnote/XIV_HolyPlugin/master/HoliestFluffiness/Images/icon.png",
                 "RepoUrl": "https://github.com/AlexFlipnote/XIV_HolyPlugin",
-                "LastUpdate": 1782942114
+                "LastUpdate": 1783118062
             }
         ]
     },
@@ -1136,11 +1136,11 @@
                 "Author": "Almeris",
                 "Name": "Armoire",
                 "InternalName": "Armoire",
-                "AssemblyVersion": "0.1.1.1",
+                "AssemblyVersion": "0.1.1.3",
                 "Description": "Gestionnaire de tenues et résolution de conflits pour Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AlmerisBE/Armoire",
-                "LastUpdate": 1783032759
+                "LastUpdate": 1783107398
             }
         ]
     },
@@ -2538,6 +2538,24 @@
         ]
     },
     {
+        "repo_developer_name": "bdgarcia",
+        "repo_url": "https://raw.githubusercontent.com/bdgarcia/CWLSGoTo/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/bdgarcia/CWLSGoTo",
+        "repo_name": "CWLSGoTo",
+        "plugins": [
+            {
+                "Author": "bdg",
+                "Name": "CWLS Go To",
+                "InternalName": "CWLSGoTo",
+                "AssemblyVersion": "0.0.0.6",
+                "Description": "Watches Cross-world Linkshell (CWLS1/CWLS2) chat for messages containing a map link and appends a clickable [Go To] link. Clicking it teleports you to the nearest aetheryte via the Teleporter plugin, hopping to the correct world/data center first via the Lifestream plugin if the message points to a different server.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
+                "LastUpdate": 1783121196
+            }
+        ]
+    },
+    {
         "repo_developer_name": "beer-psi",
         "repo_url": "https://raw.githubusercontent.com/beer-psi/FFLogsUploaderPlugin/master/repo.json",
         "repo_source_url": "https://github.com/beer-psi/FFLogsUploaderPlugin",
@@ -2734,11 +2752,12 @@
                 "Author": "Asphodel",
                 "Name": "Glam Shuffle",
                 "InternalName": "GlamShuffle",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.6",
                 "Description": "Automatically applies a random Glamourer design from your collection every X configurable minutes. Includes a rotation manager to exclude specific designs.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/bimilbimil/GlamShuffle/main/glamshuffle.png",
                 "RepoUrl": "https://github.com/bimilbimil/GlamShuffle",
-                "LastUpdate": 1783100379
+                "LastUpdate": 1783119540
             }
         ]
     },
@@ -3604,6 +3623,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/CordeliaMist/Loci/main/Assets/icon_square.png",
                 "RepoUrl": "https://github.com/CordeliaMist/Loci",
                 "LastUpdate": 1778551575
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Crazy-1337",
+        "repo_url": "https://raw.githubusercontent.com/Crazy-1337/GoonerslifePenuBridge-Repo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Crazy-1337/GoonerslifePenuBridge-Repo",
+        "repo_name": "GoonerslifePenuBridge-Repo",
+        "plugins": [
+            {
+                "Author": "Skylar Kaisa",
+                "Name": "Goonerslife Penu Bridge",
+                "InternalName": "QuickModPanel",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Goonerslife Penu Bridge is a dedicated overlay for controlling the GoonersLife+ Penumbra mod. Toggle options and mod states instantly from a clean, dark control panel without opening Penumbra.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Crazy-1337/GoonerslifePenuBridge-Repo",
+                "LastUpdate": 1783107163
             }
         ]
     },
@@ -5349,7 +5386,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783090434
+                "LastUpdate": 1783108195
             },
             {
                 "Author": "erdelf",
@@ -8020,12 +8057,12 @@
                 "Author": "croizat",
                 "Name": "CBT 🐎",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.192.0.0",
+                "AssemblyVersion": "69.193.0.0",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1783064657
+                "LastUpdate": 1783119792
             },
             {
                 "Author": "croizat",
@@ -8481,11 +8518,11 @@
                 "Author": "Iam Batman",
                 "Name": "Faloop Messenger",
                 "InternalName": "FaloopMessenger",
-                "AssemblyVersion": "0.4.13.0",
+                "AssemblyVersion": "0.4.15.0",
                 "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
                 "IconUrl": "https://raw.githubusercontent.com/jshade2710/faloop-messenger/main/FaloopMessenger/Images/Icon.png",
                 "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1782918306
+                "LastUpdate": 1783107378
             }
         ]
     },
@@ -11466,12 +11503,12 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "0.4.2.7",
+                "AssemblyVersion": "0.4.2.8",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1782849230
+                "LastUpdate": 1783108045
             }
         ]
     },
@@ -11664,12 +11701,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.4.9",
+                "AssemblyVersion": "0.2.4.10",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1782968865
+                "LastUpdate": 1783108049
             }
         ]
     },
@@ -11821,7 +11858,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://static.meowrs.com/Plugins/Ktisis/icon.png",
                 "RepoUrl": "https://github.com/MeowZWR/Ktisis",
-                "LastUpdate": 1782353098
+                "LastUpdate": 1783120177
             }
         ]
     },
@@ -11925,23 +11962,23 @@
                 "Author": "Miruku",
                 "Name": "PromeRotation API12",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.2.3.1",
+                "AssemblyVersion": "1.2.3.2",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1783064260
+                "LastUpdate": 1783103522
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.5.4.2",
+                "AssemblyVersion": "1.5.4.3",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1783064260
+                "LastUpdate": 1783103522
             }
         ]
     },
@@ -11992,12 +12029,12 @@
                 "Author": "Miragium",
                 "Name": "Body Flux",
                 "InternalName": "BodyFlux",
-                "AssemblyVersion": "0.5.7.0",
+                "AssemblyVersion": "0.5.8.0",
                 "Description": "Animates Customize+ bone scales from your current profile values toward a configurable target. Use /bodyflux to open the control window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miragiumxiv/BodyFlux/master/BodyFlux/images/icon.png",
                 "RepoUrl": "https://github.com/miragiumxiv/BodyFlux",
-                "LastUpdate": 1782927657
+                "LastUpdate": 1783103286
             }
         ]
     },
@@ -12495,12 +12532,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.201",
+                "AssemblyVersion": "0.1.0.202",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783100209
+                "LastUpdate": 1783103694
             },
             {
                 "Author": "nainaiowo",
@@ -12541,7 +12578,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/better-deaths/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783100209
+                "LastUpdate": 1783103694
             },
             {
                 "Author": "Nainaiowo",
@@ -12587,11 +12624,11 @@
                 "Author": "Nainaiowo",
                 "Name": "Nai Debug Console",
                 "InternalName": "NaiDebugConsole",
-                "AssemblyVersion": "0.1.0.14",
+                "AssemblyVersion": "0.1.0.15",
                 "Description": "Local debug console for combat logs, addon snapshots, and Strategy Board inspection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/nai-debug-console",
-                "LastUpdate": 1783086785
+                "LastUpdate": 1783111632
             },
             {
                 "Author": "Nainaiowo",
@@ -14533,7 +14570,7 @@
                 "Author": "OOF Games, Asuna",
                 "Name": "Gamba Where",
                 "InternalName": "GambaWhere",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.1.1",
                 "Description": "Browse live gambling events across Eorzea, filter by game or data centre, and teleport straight there with Lifestream. Host your own session with game-specific rules, presets, and host profiles with automatic location updates, Discord webhooks, minimap host icons, and Party Finder shortcuts. Find or advertise for venues and hosts on the Recruitment board, and set custom alerts to be notified when a new event matches your preferences.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/158",
@@ -15775,7 +15812,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1782768583
+                "LastUpdate": 1783102405
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -15862,7 +15899,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783097817
+                "LastUpdate": 1783112401
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -15879,7 +15916,7 @@
                 "Author": "NightmareXIV",
                 "Name": "Splatoon",
                 "InternalName": "Splatoon",
-                "AssemblyVersion": "3.9.2.12",
+                "AssemblyVersion": "3.9.2.16",
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
@@ -18511,12 +18548,12 @@
                 "Author": "snazz",
                 "Name": "Snazzy P4",
                 "InternalName": "SnazzyP4",
-                "AssemblyVersion": "1.0.0.5",
+                "AssemblyVersion": "1.0.0.10",
                 "Description": "A robust custom macro system for the Kefka UMAD/DMU Phase 4 mechanics. Press the buttons for what you see in the fight and it lays out clean, colour-coded callouts. Open with /snazzyp4.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/snazzysosnazzy/SnazzyP4/main/SnazzyP4/images/icon.png",
                 "RepoUrl": "https://github.com/snazzysosnazzy/SnazzyP4",
-                "LastUpdate": 1783060699
+                "LastUpdate": 1783121574
             }
         ]
     },
@@ -18635,11 +18672,11 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2607.126.0.0",
+                "AssemblyVersion": "2607.128.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1783090968
+                "LastUpdate": 1783107192
             }
         ]
     },
@@ -20332,7 +20369,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Valiice/SpotifyHonorific/master/images/icon.png",
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1782796737
+                "LastUpdate": 1783119608
             }
         ]
     },
