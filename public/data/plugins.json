@@ -485,12 +485,12 @@
                 "Author": "DhogGPT",
                 "Name": "Botology",
                 "InternalName": "botology",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.0.1",
                 "Description": "Let's face it, you are a Botologist now, you need proper analysis of all of your tools so they work and play nice together.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/botology/main/botology/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/botology",
-                "LastUpdate": 1781835037
+                "LastUpdate": 1783081089
             },
             {
                 "Author": "DhogGPT",
@@ -523,7 +523,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/Coppelia/main/Coppelia/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/Coppelia",
-                "LastUpdate": 1783041317
+                "LastUpdate": 1783085866
             },
             {
                 "Author": "DhogGPT",
@@ -2392,7 +2392,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1782834513
+                "LastUpdate": 1783094818
             },
             {
                 "Author": "veyn, croizat",
@@ -2715,12 +2715,30 @@
                 "Author": "Asphodel",
                 "Name": "Glam Levels",
                 "InternalName": "GlamLevels",
-                "AssemblyVersion": "1.0.0.23",
+                "AssemblyVersion": "1.0.0.24",
                 "Description": "Snapshots your Penumbra mod priorities when a Glamourer design is applied, letting you restore them instantly when priorities drift.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/bimilbimil/GlamLevels/main/glamlevels.png",
                 "RepoUrl": "https://github.com/bimilbimil/GlamLevels",
-                "LastUpdate": 1783045704
+                "LastUpdate": 1783086849
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "bimilbimil",
+        "repo_url": "https://raw.githubusercontent.com/bimilbimil/GlamShuffle/main/repo.json",
+        "repo_source_url": "https://github.com/bimilbimil/GlamShuffle",
+        "repo_name": "GlamShuffle",
+        "plugins": [
+            {
+                "Author": "Asphodel",
+                "Name": "Glam Shuffle",
+                "InternalName": "GlamShuffle",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Automatically applies a random Glamourer design from your collection every X configurable minutes. Includes a rotation manager to exclude specific designs.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bimilbimil/GlamShuffle",
+                "LastUpdate": 1783100379
             }
         ]
     },
@@ -3054,15 +3072,6 @@
                 "Description": "Advanced inventory management with safety filters and auto-discard",
                 "DalamudApiLevel": 15,
                 "LastUpdate": 1780756377
-            },
-            {
-                "Author": "wah",
-                "Name": "Wrath Auto Toggle",
-                "InternalName": "WrathIcon",
-                "AssemblyVersion": "0.0.4.0",
-                "Description": "Wrath Auto Toggle",
-                "DalamudApiLevel": 15,
-                "LastUpdate": 1782766007
             }
         ]
     },
@@ -5340,7 +5349,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783014502
+                "LastUpdate": 1783090434
             },
             {
                 "Author": "erdelf",
@@ -5660,12 +5669,12 @@
                 "Author": "mirage",
                 "Name": "Auto Frontline",
                 "InternalName": "AutoFrontline",
-                "AssemblyVersion": "1.4.1.0",
+                "AssemblyVersion": "1.5.0.0",
                 "Description": "Required plugins: vnavmesh, Rotation Solver Reborn.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
                 "RepoUrl": "https://github.com/exatrines/AutoFrontline",
-                "LastUpdate": 1782839106
+                "LastUpdate": 1783083430
             },
             {
                 "Author": "mirage",
@@ -6983,12 +6992,12 @@
                 "Author": "Habitat",
                 "Name": "Ripple Shot",
                 "InternalName": "RippleShot",
-                "AssemblyVersion": "0.5.1.0",
+                "AssemblyVersion": "0.5.2.0",
                 "Description": "Bartender tool for the Ripple Shot /random jackpot game: pricing, per-night caps with Supabase VIPs, carry-over pot, win detection, archives, and a guided payout planner.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/habitatnightclub/ripple-shot/main/ripple-shot-icon.png",
                 "RepoUrl": "https://github.com/habitatnightclub/ripple-shot",
-                "LastUpdate": 1782985681
+                "LastUpdate": 1783098887
             }
         ]
     },
@@ -9599,7 +9608,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783014502
+                "LastUpdate": 1783090434
             },
             {
                 "Author": "croizat",
@@ -9621,7 +9630,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1782834513
+                "LastUpdate": 1783094818
             },
             {
                 "Author": "sourpuh",
@@ -9638,12 +9647,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.303.0.15",
+                "AssemblyVersion": "15.303.0.17",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783057139
+                "LastUpdate": 1783097817
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10293,7 +10302,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1782921116
+                "LastUpdate": 1783089215
             }
         ]
     },
@@ -12486,12 +12495,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.199",
+                "AssemblyVersion": "0.1.0.201",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783034048
+                "LastUpdate": 1783100209
             },
             {
                 "Author": "nainaiowo",
@@ -12532,7 +12541,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/better-deaths/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783034048
+                "LastUpdate": 1783100209
             },
             {
                 "Author": "Nainaiowo",
@@ -12554,16 +12563,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/honorific-cycle",
                 "LastUpdate": 1782580425
-            },
-            {
-                "Author": "Nainaiowo",
-                "Name": "Nai Debug Console",
-                "InternalName": "NaiDebugConsole",
-                "AssemblyVersion": "0.1.0.13",
-                "Description": "Local debug console for combat logs, addon snapshots, and Strategy Board inspection.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Nainaiowo/nai-debug-console",
-                "LastUpdate": 1782873322
             }
         ]
     },
@@ -12583,6 +12582,16 @@
                 "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/dmu-p3-blackhole-helper/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-p3-blackhole-helper",
                 "LastUpdate": 1782578644
+            },
+            {
+                "Author": "Nainaiowo",
+                "Name": "Nai Debug Console",
+                "InternalName": "NaiDebugConsole",
+                "AssemblyVersion": "0.1.0.14",
+                "Description": "Local debug console for combat logs, addon snapshots, and Strategy Board inspection.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nainaiowo/nai-debug-console",
+                "LastUpdate": 1783086785
             },
             {
                 "Author": "Nainaiowo",
@@ -13977,12 +13986,12 @@
                 "Author": "Ninethirty77",
                 "Name": "The Studium",
                 "InternalName": "FCMetrics",
-                "AssemblyVersion": "0.1.201.0",
+                "AssemblyVersion": "0.1.207.0",
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/icon.jpg",
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1783077620
+                "LastUpdate": 1783087319
             }
         ]
     },
@@ -14345,12 +14354,12 @@
                 "Author": "ofnature",
                 "Name": "SealBreaker",
                 "InternalName": "SealBreaker",
-                "AssemblyVersion": "1.0.0.86",
+                "AssemblyVersion": "1.0.0.91",
                 "Description": "Automates dungeon farming, GC expert delivery, and grand company item purchasing. Supports AutoDuty and ADS.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/SealBreaker/main/SealBreaker/icon.png",
                 "RepoUrl": "https://github.com/ofnature/SealBreaker",
-                "LastUpdate": 1780759137
+                "LastUpdate": 1783098936
             }
         ]
     },
@@ -15476,6 +15485,25 @@
         ]
     },
     {
+        "repo_developer_name": "pnsdh",
+        "repo_url": "https://raw.githubusercontent.com/pnsdh/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/pnsdh/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "Passport Checker Reborn (Custom)",
+                "InternalName": "PassportCheckerReborn",
+                "AssemblyVersion": "7.5.1.0",
+                "Description": "파티 찾기 목록 옆에 멤버 정보 오버레이를 표시하는 플러그인입니다. 한국 서버에 맞게 수정한 버전으로, 한국 월드/FFLogs 매핑, 한국어 UI, PlayerTrack 기반 비공개 플레이어 이름 복원을 지원합니다.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
+                "RepoUrl": "https://github.com/pnsdh/PassportCheckerReborn",
+                "LastUpdate": 1783083152
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/pot0to/DalamudPluginConfigs/raw/master/plogon.json",
         "repo_source_url": "https://github.com/pot0to/DalamudPluginConfigs",
         "repo_name": "DalamudPluginConfigs",
@@ -15829,12 +15857,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.303.0.15",
+                "AssemblyVersion": "15.303.0.17",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783057139
+                "LastUpdate": 1783097817
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -15856,7 +15884,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1783061228
+                "LastUpdate": 1783095734
             },
             {
                 "Author": "Team Wrath",
@@ -18607,11 +18635,11 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2607.125.0.0",
+                "AssemblyVersion": "2607.126.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1782945911
+                "LastUpdate": 1783090968
             }
         ]
     },
@@ -20753,12 +20781,12 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel",
-                "AssemblyVersion": "1.1.20260701.900",
+                "AssemblyVersion": "1.1.20260703.904",
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://gist.githubusercontent.com/Voudi/77c661ec1597925c2856d649a0cfc2d8/raw/icon.png",
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1782933734
+                "LastUpdate": 1783087081
             }
         ]
     },
@@ -21229,12 +21257,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.7.0.0",
+                "AssemblyVersion": "0.7.1.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783026884
+                "LastUpdate": 1783099480
             },
             {
                 "Author": "XeldarAlz",
@@ -21303,12 +21331,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.7.0.0",
+                "AssemblyVersion": "0.7.1.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783026884
+                "LastUpdate": 1783099480
             }
         ]
     },
