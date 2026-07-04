@@ -650,12 +650,12 @@
                 "Author": "XA",
                 "Name": "XA Database",
                 "InternalName": "XADatabase",
-                "AssemblyVersion": "0.0.0.38",
+                "AssemblyVersion": "0.0.0.39",
                 "Description": "Parser of all databases.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Database",
-                "LastUpdate": 1782581255
+                "LastUpdate": 1783183495
             },
             {
                 "Author": "XA",
@@ -2096,7 +2096,7 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782988765,
+                "LastUpdate": 1783188169,
                 "is_closed_source": true
             },
             {
@@ -2108,7 +2108,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782988765,
+                "LastUpdate": 1783188169,
                 "is_closed_source": true
             },
             {
@@ -2120,7 +2120,7 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782988765,
+                "LastUpdate": 1783188169,
                 "is_closed_source": true
             },
             {
@@ -2132,7 +2132,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1782988765,
+                "LastUpdate": 1783188169,
                 "is_closed_source": true
             },
             {
@@ -2225,12 +2225,12 @@
                 "Author": "veyn, AtmoOmen",
                 "Name": "vnavmesh",
                 "InternalName": "vnavmesh",
-                "AssemblyVersion": "0.7.1.0",
+                "AssemblyVersion": "0.7.2.0",
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1782797645
+                "LastUpdate": 1783187958
             }
         ]
     },
@@ -2547,11 +2547,21 @@
                 "Author": "bdg",
                 "Name": "CWLS Go To",
                 "InternalName": "CWLSGoTo",
-                "AssemblyVersion": "0.0.0.6",
+                "AssemblyVersion": "0.0.0.7",
                 "Description": "Watches Cross-world Linkshell (CWLS1/CWLS2) chat for messages containing a map link and appends a clickable [Go To] link. Clicking it teleports you to the nearest aetheryte via the Teleporter plugin, hopping to the correct world/data center first via the Lifestream plugin if the message points to a different server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783121196
+                "LastUpdate": 1783188585
+            },
+            {
+                "Author": "bdg",
+                "Name": "Desynth All Command",
+                "InternalName": "DesynthAllCommand",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "Adds a /desynthall command that opens the game's desynthesis (materia extraction) window and enables PandorasBox's \"Desynth All\" feature so its button is ready to use. Requires the PandorasBox plugin to be installed.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
+                "LastUpdate": 1783188585
             }
         ]
     },
@@ -4720,10 +4730,21 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
+                "Author": "XeldarAlz,Tabris",
+                "Name": "Auto Daily Tribes CN",
+                "InternalName": "AutoDailyTribes",
+                "AssemblyVersion": "1.1.0.0",
+                "Description": "自动帮你完成每日盟族任务：勾选蛮族，插件搞定剩下的事。国服汉化版。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Dragonw233/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
+                "RepoUrl": "https://github.com/Dragonw233/FFXIV-AutoDailyTribes",
+                "LastUpdate": 1783172194
+            },
+            {
                 "Author": "iVeigar",
                 "Name": "兵武塔助手",
                 "InternalName": "BAHelper",
-                "AssemblyVersion": "7.50.0.0",
+                "AssemblyVersion": "7.50.3.0",
                 "Description": "提供了一些攻略兵武塔时解放大脑和双手的功能：\n - 门图\n - 监控附近玩家状态\n - 一键检查队员补正数值\n - 自动上双盾\n - 扫雷助手、找一查箱子\n - 画出怪物仇恨范围",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/iVeigar/MyDalamudPlugins/master/plugins/BAHelper/images/icon.png",
@@ -4748,7 +4769,7 @@
                 "Description": "改版SkyEye",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Dragonw233/DalamudPlugins",
-                "LastUpdate": 1783166249
+                "LastUpdate": 1783187451
             },
             {
                 "Author": "Uiharu,NiGuangOwO,Tabris",
@@ -4863,12 +4884,12 @@
                 "Author": "Eauldane",
                 "Name": "Snowcloak Sync",
                 "InternalName": "Snowcloak",
-                "AssemblyVersion": "3.0.5.0",
+                "AssemblyVersion": "3.0.6.0",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Eauldane/SnowcloakClient/refs/heads/main/Snowcloak/images/logo.png",
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1782730302
+                "LastUpdate": 1783186667
             },
             {
                 "Author": "Eauldane",
@@ -5397,7 +5418,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783160953
+                "LastUpdate": 1783182294
             },
             {
                 "Author": "erdelf",
@@ -6521,6 +6542,25 @@
         ]
     },
     {
+        "repo_developer_name": "gerulla",
+        "repo_url": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/repo.json",
+        "repo_source_url": "https://github.com/gerulla/fullparty-plugin",
+        "repo_name": "fullparty-plugin",
+        "plugins": [
+            {
+                "Author": "gerulla",
+                "Name": "FullParty",
+                "InternalName": "FullParty",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "Dalamud Plugin Companion for FullParty.gg",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
+                "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
+                "LastUpdate": 1783182116
+            }
+        ]
+    },
+    {
         "repo_developer_name": "gezimao",
         "repo_url": "https://raw.githubusercontent.com/gezimao/Plugins/main/custom-repo/repo.json",
         "repo_source_url": "https://github.com/gezimao/Plugins",
@@ -7149,7 +7189,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1783128323
+                "LastUpdate": 1783167748
             },
             {
                 "Author": "Haselnussbomber",
@@ -10350,7 +10390,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1783132169
+                "LastUpdate": 1783180619
             }
         ]
     },
@@ -10610,6 +10650,24 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/liliekintsugi/xivpath-connect",
                 "LastUpdate": 1780673890
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Lillypad-14",
+        "repo_url": "https://raw.githubusercontent.com/Lillypad-14/Lillyvid/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Lillypad-14/Lillyvid",
+        "repo_name": "Lillyvid",
+        "plugins": [
+            {
+                "Author": "clemm",
+                "Name": "Video Sync Prototype",
+                "InternalName": "VideoSyncPrototype",
+                "AssemblyVersion": "0.0.0.2",
+                "Description": "Create and join Watch2Gether rooms from inside FFXIV, then watch them on a styled in-world TV. Use /videosync to open the window.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Lillypad-14/Lillyvid",
+                "LastUpdate": 1783165800
             }
         ]
     },
@@ -12069,12 +12127,12 @@
                 "Author": "Miragium",
                 "Name": "Body Flux",
                 "InternalName": "BodyFlux",
-                "AssemblyVersion": "0.5.8.0",
+                "AssemblyVersion": "0.5.8.1",
                 "Description": "Animates Customize+ bone scales from your current profile values toward a configurable target. Use /bodyflux to open the control window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miragiumxiv/BodyFlux/master/BodyFlux/images/icon.png",
                 "RepoUrl": "https://github.com/miragiumxiv/BodyFlux",
-                "LastUpdate": 1783103286
+                "LastUpdate": 1783175036
             }
         ]
     },
@@ -12359,7 +12417,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
-                "LastUpdate": 1781280619
+                "LastUpdate": 1783178116
             }
         ]
     },
@@ -12572,12 +12630,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.206",
+                "AssemblyVersion": "0.1.0.208",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783138819
+                "LastUpdate": 1783179429
             },
             {
                 "Author": "nainaiowo",
@@ -12592,14 +12650,14 @@
             },
             {
                 "Author": "nainaiowo",
-                "Name": "DMU P4 Debuff Helper",
+                "Name": "DMU Helper",
                 "InternalName": "DMUP4DebuffHelper",
-                "AssemblyVersion": "0.1.0.3",
+                "AssemblyVersion": "0.1.0.5",
                 "Description": "Shows compact DMU P4 debuff timers with real/fake callouts.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/162",
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-p4-debuff-helper",
-                "LastUpdate": 1783076358
+                "LastUpdate": 1783181164
             }
         ]
     },
@@ -12609,28 +12667,6 @@
         "repo_source_url": "https://github.com/Nainaiowo/IMakeSillyThings",
         "repo_name": "IMakeSillyThings",
         "plugins": [
-            {
-                "Author": "Nainaiowo",
-                "Name": "Better Deaths",
-                "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.193",
-                "Description": "Records party deaths with pull grouping, likely cause, active statuses, and recent action timelines.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/better-deaths/main/assets/icon.png",
-                "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783138819
-            },
-            {
-                "Author": "Nainaiowo",
-                "Name": "Chibi Chaos",
-                "InternalName": "ChibiChaos",
-                "AssemblyVersion": "0.1.17.7",
-                "Description": "Scales down Chaos in DMU for visibility.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/chibi-chaos/main/assets/icon.png",
-                "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
-                "LastUpdate": 1782971186
-            },
             {
                 "Author": "Nainaiowo",
                 "Name": "Honorific Cycle",
@@ -12651,24 +12687,13 @@
         "plugins": [
             {
                 "Author": "Nainaiowo",
-                "Name": "DMU P3 Blackhole Helper",
-                "InternalName": "DMUP3BlackholeHelper",
-                "AssemblyVersion": "0.1.0.26",
-                "Description": "Tracks First, Second, and Third in Line, Accretion, and Earth Resistance Down in DMU.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Nainaiowo/dmu-p3-blackhole-helper/main/assets/icon.png",
-                "RepoUrl": "https://github.com/Nainaiowo/dmu-p3-blackhole-helper",
-                "LastUpdate": 1782578644
-            },
-            {
-                "Author": "Nainaiowo",
                 "Name": "Nai Debug Console",
                 "InternalName": "NaiDebugConsole",
-                "AssemblyVersion": "0.1.0.15",
+                "AssemblyVersion": "0.1.0.17",
                 "Description": "Local debug console for combat logs, addon snapshots, and Strategy Board inspection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/nai-debug-console",
-                "LastUpdate": 1783111632
+                "LastUpdate": 1783186317
             },
             {
                 "Author": "Nainaiowo",
@@ -13486,7 +13511,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1782993833,
+                "LastUpdate": 1783169875,
                 "is_closed_source": true
             },
             {
@@ -13498,19 +13523,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1782993833,
+                "LastUpdate": 1783169875,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.18",
+                "AssemblyVersion": "7.5.1.19",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1782993833,
+                "LastUpdate": 1783169875,
                 "is_closed_source": true
             },
             {
@@ -15972,7 +15997,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1783162518
+                "LastUpdate": 1783186493
             },
             {
                 "Author": "daemitus, kawaii",
@@ -17239,6 +17264,7 @@
                 "AssemblyVersion": "0.0.0.3",
                 "Description": "Dalamud plugin development helper. Shows party member statuses and enemy casting information.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Rowsai/devLibra/refs/heads/main/image/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/devLibra",
                 "LastUpdate": 1782929119
             },
@@ -17249,6 +17275,7 @@
                 "AssemblyVersion": "0.0.0.1",
                 "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Rowsai/magicLook/refs/heads/master/images/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
                 "LastUpdate": 1782978295
             },
@@ -18713,11 +18740,11 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2607.128.0.0",
+                "AssemblyVersion": "2607.129.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1783107192
+                "LastUpdate": 1783187927
             }
         ]
     },
@@ -21313,12 +21340,12 @@
                 "Author": "XA",
                 "Name": "XA Database",
                 "InternalName": "XADatabase",
-                "AssemblyVersion": "0.0.0.38",
+                "AssemblyVersion": "0.0.0.39",
                 "Description": "Parser of all databases.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Database",
-                "LastUpdate": 1782581255
+                "LastUpdate": 1783183495
             },
             {
                 "Author": "XA",
@@ -21408,12 +21435,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.8.1.0",
+                "AssemblyVersion": "0.8.3.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783156022
+                "LastUpdate": 1783187909
             },
             {
                 "Author": "XeldarAlz",
@@ -21482,12 +21509,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.8.1.0",
+                "AssemblyVersion": "0.8.3.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783156022
+                "LastUpdate": 1783187909
             }
         ]
     },
@@ -21923,6 +21950,44 @@
         "repo_source_url": "https://github.com/Yhumi/Plogons",
         "repo_name": "Plogons",
         "repo_developer_name": "Yhumi"
+    },
+    {
+        "repo_developer_name": "yimo0908",
+        "repo_url": "https://raw.githubusercontent.com/yimo0908/DalamudPlugin/main/repo.json",
+        "repo_source_url": "https://github.com/yimo0908/DalamudPlugin",
+        "repo_name": "DalamudPlugin",
+        "plugins": [
+            {
+                "Author": "uy/sun, yimo",
+                "Name": "Blind Box",
+                "InternalName": "BlindBoxPlugin",
+                "AssemblyVersion": "1.9.3.2",
+                "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
+                "LastUpdate": 1783175632
+            },
+            {
+                "Author": "KirisameVanilla, Yimo",
+                "Name": "SpecialWeaponProgressOverview",
+                "InternalName": "SpecialWeaponProgressOverview",
+                "AssemblyVersion": "0.0.1.5",
+                "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools,暂不支持幻化柜数据）",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
+                "LastUpdate": 1783175632
+            },
+            {
+                "Author": "yimo",
+                "Name": "TreasureForecast",
+                "InternalName": "TreasureForecast",
+                "AssemblyVersion": "1.0.1.1",
+                "Description": "基于 FFXIV 网络数据包实时预测宝物库（G10 运河/G12 梦羽/G15 育体）转盘召唤结果、开门结果。支持巡梦金库老虎机结果预测。\n命令：/tforecast 打开主窗口",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
+                "LastUpdate": 1783175632
+            }
+        ]
     },
     {
         "repo_developer_name": "Yodhrin13",
