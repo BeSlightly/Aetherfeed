@@ -6551,12 +6551,12 @@
                 "Author": "gerulla",
                 "Name": "FullParty",
                 "InternalName": "FullParty",
-                "AssemblyVersion": "0.0.8.0",
+                "AssemblyVersion": "0.0.12.0",
                 "Description": "Dalamud Plugin Companion for FullParty.gg",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
-                "LastUpdate": 1783217247
+                "LastUpdate": 1783261220
             }
         ]
     },
@@ -7200,7 +7200,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1783219729
+                "LastUpdate": 1783253948
             },
             {
                 "Author": "Haselnussbomber",
@@ -8791,11 +8791,11 @@
                 "Author": "Kage",
                 "Name": "RelicTracker",
                 "InternalName": "RelicTracker",
-                "AssemblyVersion": "1.0.0.2",
+                "AssemblyVersion": "1.0.0.3",
                 "Description": "Track relic weapon, tool, and armor progress across every job, with live material counts and optional FFXIV Collect sync.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
-                "LastUpdate": 1783208421
+                "LastUpdate": 1783257900
             }
         ]
     },
@@ -8930,6 +8930,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/kanyeishere/PocketStation/master/icon.png",
                 "RepoUrl": "https://github.com/kanyeishere/PocketStation",
                 "LastUpdate": 1782570043
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kanyeishere",
+        "repo_url": "https://raw.githubusercontent.com/kanyeishere/PocketStationTC/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/kanyeishere/PocketStationTC",
+        "repo_name": "PocketStationTC",
+        "plugins": [
+            {
+                "Author": "Wotou",
+                "Name": "Pocket Station",
+                "InternalName": "PocketStation",
+                "AssemblyVersion": "1.0.3.7",
+                "Description": "Pocket Station 是一个在 FFXIV 中运行的 Web 服务器，让你可以通过同一网络下的手机、平板或笔记本电脑连接。实时监控游戏聊天并支持自定义过滤器，实时串流游戏画面到移动设备，以及远程执行游戏指令。使用 Tailscale 或路由器端口转发，也可在外网安全访问。",
+                "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/kanyeishere/PocketStationTC/master/icon.png",
+                "RepoUrl": "https://github.com/kanyeishere/PocketStationTC",
+                "LastUpdate": 1783256956
             }
         ]
     },
@@ -9745,12 +9764,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.304.0.0",
+                "AssemblyVersion": "15.305.0.0",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783237951
+                "LastUpdate": 1783250532
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9772,7 +9791,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1783186493
+                "LastUpdate": 1783251682
             }
         ]
     },
@@ -9860,12 +9879,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "2607.141.0.0",
+                "AssemblyVersion": "2607.147.0.0",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1783073974
+                "LastUpdate": 1783245251
             }
         ]
     },
@@ -10087,12 +10106,12 @@
                 "Author": "LastOnionKnight",
                 "Name": "Tonberry Tactics",
                 "InternalName": "GearGoblin",
-                "AssemblyVersion": "1.5.5.0",
+                "AssemblyVersion": "1.5.6.0",
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LastOnionKnight/GearGoblin/main/images/icon.png",
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1782353786
+                "LastUpdate": 1783258599
             }
         ]
     },
@@ -12137,12 +12156,12 @@
                 "Author": "Miragium",
                 "Name": "Body Flux",
                 "InternalName": "BodyFlux",
-                "AssemblyVersion": "0.5.8.1",
+                "AssemblyVersion": "0.5.8.2",
                 "Description": "Animates Customize+ bone scales from your current profile values toward a configurable target. Use /bodyflux to open the control window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miragiumxiv/BodyFlux/master/BodyFlux/images/icon.png",
                 "RepoUrl": "https://github.com/miragiumxiv/BodyFlux",
-                "LastUpdate": 1783175036
+                "LastUpdate": 1783261537
             }
         ]
     },
@@ -12645,7 +12664,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783220090
+                "LastUpdate": 1783262626
             },
             {
                 "Author": "nainaiowo",
@@ -14287,12 +14306,12 @@
                 "Author": "DarkmodeLeyla",
                 "Name": "TimelineAnimator",
                 "InternalName": "TimelineAnimator",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.1.0",
                 "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/Icon.png",
                 "RepoUrl": "https://github.com/NoHideout/TimelineAnimator",
-                "LastUpdate": 1783192738
+                "LastUpdate": 1783245294
             }
         ]
     },
@@ -14466,12 +14485,12 @@
                 "Author": "ofnature",
                 "Name": "SealBreaker",
                 "InternalName": "SealBreaker",
-                "AssemblyVersion": "1.0.0.92",
+                "AssemblyVersion": "1.0.0.94",
                 "Description": "Automates dungeon farming, GC expert delivery, and grand company item purchasing. Supports AutoDuty and ADS.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/SealBreaker/main/SealBreaker/icon.png",
                 "RepoUrl": "https://github.com/ofnature/SealBreaker",
-                "LastUpdate": 1783222000
+                "LastUpdate": 1783258986
             }
         ]
     },
@@ -14639,7 +14658,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/157",
                 "RepoUrl": "https://github.com/OOFGamesss/ChocoboRacing",
-                "LastUpdate": 1781802489
+                "LastUpdate": 1783253788
             },
             {
                 "Author": "OOF Games, Asuna",
@@ -14650,7 +14669,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/158",
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1783070421
+                "LastUpdate": 1783261932
+            },
+            {
+                "Author": "OOF Games",
+                "Name": "Mini Games Emporium",
+                "InternalName": "MiniGamesEmporium",
+                "AssemblyVersion": "0.0.11.1",
+                "Description": "The all-in-one hosting tool for FFXIV gambling venues, with three live games: BAR 777, Deathroll Tournament, and Higher/Lower. Handles player queues, trade verification, boosted pots, automated chat, and a full transaction ledger.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/163",
+                "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
+                "LastUpdate": 1783249687
             }
         ]
     },
@@ -15974,7 +16004,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783237951
+                "LastUpdate": 1783250532
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16007,7 +16037,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1783186493
+                "LastUpdate": 1783251682
             },
             {
                 "Author": "daemitus, kawaii",
@@ -17253,11 +17283,12 @@
                 "Author": "Rowsai",
                 "Name": "HappyTrigger",
                 "InternalName": "HappyTrigger",
-                "AssemblyVersion": "0.0.0.3",
+                "AssemblyVersion": "0.0.0.4",
                 "Description": "Display images or text when chat log keywords appear.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/refs/heads/main/image/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
-                "LastUpdate": 1783199557
+                "LastUpdate": 1783245711
             }
         ]
     },
@@ -17281,12 +17312,11 @@
                 "Author": "Rowsai",
                 "Name": "HappyTrigger",
                 "InternalName": "HappyTrigger",
-                "AssemblyVersion": "0.0.0.3",
+                "AssemblyVersion": "0.0.0.4",
                 "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/refs/heads/main/image/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
-                "LastUpdate": 1783199557
+                "LastUpdate": 1783245711
             },
             {
                 "Author": "Rowsai",
@@ -17295,7 +17325,6 @@
                 "AssemblyVersion": "0.0.0.6",
                 "Description": "絶妖星乱舞の詠唱アクションを監視し、指定アクション時にプレイヤー頭上へテキストを表示します。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Rowsai/magicLook/refs/heads/master/images/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/magicLook",
                 "LastUpdate": 1783165519
             }
@@ -18625,12 +18654,12 @@
                 "Author": "snazz",
                 "Name": "Snazzy P4",
                 "InternalName": "SnazzyP4",
-                "AssemblyVersion": "1.0.0.11",
+                "AssemblyVersion": "1.0.0.13",
                 "Description": "A robust custom macro system for the Kefka UMAD/DMU Phase 4 mechanics. Press the buttons for what you see in the fight and it lays out clean, colour-coded callouts. Open with /snazzyp4.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/snazzysosnazzy/SnazzyP4/main/SnazzyP4/images/icon.png",
                 "RepoUrl": "https://github.com/snazzysosnazzy/SnazzyP4",
-                "LastUpdate": 1783123926
+                "LastUpdate": 1783244195
             }
         ]
     },
@@ -18749,11 +18778,11 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2607.129.0.0",
+                "AssemblyVersion": "2607.130.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1783187927
+                "LastUpdate": 1783263092
             }
         ]
     },
@@ -18891,11 +18920,11 @@
                 "Author": "spark",
                 "Name": "FFXIVAura",
                 "InternalName": "FFXIVAura",
-                "AssemblyVersion": "0.1.0.17",
+                "AssemblyVersion": "0.1.0.18",
                 "Description": "Dalamud-native FFXIVAura style cooldown overlay for FFXIV KR.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/spar7453/FFXIVAura",
-                "LastUpdate": 1783233421
+                "LastUpdate": 1783250476
             },
             {
                 "Author": "electr0sheep, Nuko",
