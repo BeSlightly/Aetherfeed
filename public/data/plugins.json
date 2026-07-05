@@ -2547,11 +2547,11 @@
                 "Author": "bdg",
                 "Name": "CWLS Go To",
                 "InternalName": "CWLSGoTo",
-                "AssemblyVersion": "0.0.0.7",
+                "AssemblyVersion": "0.0.0.8",
                 "Description": "Watches Cross-world Linkshell (CWLS1/CWLS2) chat for messages containing a map link and appends a clickable [Go To] link. Clicking it teleports you to the nearest aetheryte via the Teleporter plugin, hopping to the correct world/data center first via the Lifestream plugin if the message points to a different server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783193931
+                "LastUpdate": 1783220981
             },
             {
                 "Author": "bdg",
@@ -2561,7 +2561,7 @@
                 "Description": "Adds a /desynthall command that opens the game's desynthesis (materia extraction) window and enables PandorasBox's \"Desynth All\" feature so its button is ready to use. Requires the PandorasBox plugin to be installed.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783193931
+                "LastUpdate": 1783220981
             }
         ]
     },
@@ -3515,12 +3515,12 @@
                 "Author": "Meghann",
                 "Name": "Recipe Helper",
                 "InternalName": "DalamudRecipeHelper",
-                "AssemblyVersion": "1.1.17.0",
+                "AssemblyVersion": "1.1.20.0",
                 "Description": "Build a combined plan from multiple FFXIV recipes, compare NQ and HQ requirements with live inventory and saved retainer snapshots, track timed gathering materials, and hand crafting or travel actions to Artisan, Teamcraft, and GatherBuddy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/Recipe-Helper/main/RecipeHelperIcon1.png",
                 "RepoUrl": "https://github.com/CherryFairy78/Recipe-Helper",
-                "LastUpdate": 1783134761
+                "LastUpdate": 1783261800
             }
         ]
     },
@@ -4165,11 +4165,11 @@
                 "Author": "DarrellTang",
                 "Name": "Namazu Flippers",
                 "InternalName": "NamazuFlippers",
-                "AssemblyVersion": "1.0.52.0",
+                "AssemblyVersion": "1.0.63.0",
                 "Description": "Namazu Flippers connects to the Saddlebag Exchange API to find daily cross-server arbitrage opportunities. Get a route-optimized shopping list, travel between servers, buy low, sell high on your home world. One scan, one route, done in under 20 minutes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/DarrellTang/namazu-flippers",
-                "LastUpdate": 1782868670
+                "LastUpdate": 1783224738
             }
         ]
     },
@@ -6551,12 +6551,12 @@
                 "Author": "gerulla",
                 "Name": "FullParty",
                 "InternalName": "FullParty",
-                "AssemblyVersion": "0.0.7.0",
+                "AssemblyVersion": "0.0.8.0",
                 "Description": "Dalamud Plugin Companion for FullParty.gg",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
-                "LastUpdate": 1783205053
+                "LastUpdate": 1783217247
             }
         ]
     },
@@ -7189,7 +7189,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1783167748
+                "LastUpdate": 1783212817
             },
             {
                 "Author": "Haselnussbomber",
@@ -7200,7 +7200,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1783128437
+                "LastUpdate": 1783219729
             },
             {
                 "Author": "Haselnussbomber",
@@ -9745,12 +9745,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.303.0.17",
+                "AssemblyVersion": "15.303.0.18",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783202392
+                "LastUpdate": 1783231921
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10400,7 +10400,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1783180619
+                "LastUpdate": 1783222636
             }
         ]
     },
@@ -10671,13 +10671,13 @@
         "plugins": [
             {
                 "Author": "Lillypad",
-                "Name": "Video Sync Prototype",
+                "Name": "Lillypad Toolkit",
                 "InternalName": "VideoSyncPrototype",
-                "AssemblyVersion": "2.0.0.0",
+                "AssemblyVersion": "3.0.1.0",
                 "Description": "Create and join Watch2Gether rooms from inside FFXIV, then watch them on a styled in-world TV. Use /videosync to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Lillypad-14/Lillyvid",
-                "LastUpdate": 1783173900
+                "LastUpdate": 1783226705
             }
         ]
     },
@@ -12070,23 +12070,23 @@
                 "Author": "Miruku",
                 "Name": "PromeRotation API12",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.2.3.2",
+                "AssemblyVersion": "1.2.3.3",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1783103522
+                "LastUpdate": 1783233107
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.5.4.3",
+                "AssemblyVersion": "1.5.4.5",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1783103522
+                "LastUpdate": 1783233107
             }
         ]
     },
@@ -12640,12 +12640,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.208",
+                "AssemblyVersion": "0.1.0.209",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783208970
+                "LastUpdate": 1783220090
             },
             {
                 "Author": "nainaiowo",
@@ -12955,12 +12955,12 @@
                 "Author": "Valenth Siveria",
                 "Name": "BlackJack Buttler",
                 "InternalName": "BlackJackButtler",
-                "AssemblyVersion": "1.8.4.6",
+                "AssemblyVersion": "1.8.4.7",
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeoGriever/BlackJackButtler/main/plugins/BlackJackButtler/icon.png",
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1782314674
+                "LastUpdate": 1783219277
             }
         ]
     },
@@ -14466,12 +14466,12 @@
                 "Author": "ofnature",
                 "Name": "SealBreaker",
                 "InternalName": "SealBreaker",
-                "AssemblyVersion": "1.0.0.91",
+                "AssemblyVersion": "1.0.0.92",
                 "Description": "Automates dungeon farming, GC expert delivery, and grand company item purchasing. Supports AutoDuty and ADS.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/SealBreaker/main/SealBreaker/icon.png",
                 "RepoUrl": "https://github.com/ofnature/SealBreaker",
-                "LastUpdate": 1783098936
+                "LastUpdate": 1783222000
             }
         ]
     },
@@ -15887,7 +15887,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1783102405
+                "LastUpdate": 1783222208
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -15969,12 +15969,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.303.0.18",
+                "AssemblyVersion": "15.304.0.0",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783202392
+                "LastUpdate": 1783231921
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -18891,11 +18891,11 @@
                 "Author": "spark",
                 "Name": "FFXIVAura",
                 "InternalName": "FFXIVAura",
-                "AssemblyVersion": "0.1.0.6",
+                "AssemblyVersion": "0.1.0.17",
                 "Description": "Dalamud-native FFXIVAura style cooldown overlay for FFXIV KR.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/spar7453/FFXIVAura",
-                "LastUpdate": 1783163552
+                "LastUpdate": 1783233421
             },
             {
                 "Author": "electr0sheep, Nuko",
@@ -20401,12 +20401,12 @@
                 "Author": "Valenth Siveria",
                 "Name": "BlackJack Buttler",
                 "InternalName": "BlackJackButtler",
-                "AssemblyVersion": "1.8.4.6",
+                "AssemblyVersion": "1.8.4.7",
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/118",
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1782314674
+                "LastUpdate": 1783219306
             },
             {
                 "Author": "Valenth Siveria",
@@ -22236,12 +22236,12 @@
                 "Author": "Zeffuro",
                 "Name": "NativeMeters",
                 "InternalName": "NativeMeters",
-                "AssemblyVersion": "1.0.3.1",
+                "AssemblyVersion": "1.0.3.2",
                 "Description": "Native DPS Meters for Final Fantasy XIV, still in beta and may be subject to change.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Zeffuro/NativeMeters/master/Media/icon.png",
                 "RepoUrl": "https://github.com/Zeffuro/NativeMeters",
-                "LastUpdate": 1783138708
+                "LastUpdate": 1783229583
             }
         ]
     },
