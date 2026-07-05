@@ -639,12 +639,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.4.11",
+                "AssemblyVersion": "0.2.4.12",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1783137414
+                "LastUpdate": 1783190887
             },
             {
                 "Author": "XA",
@@ -827,12 +827,12 @@
                 "Author": "Airi Tsukino",
                 "Name": "AutoGreet",
                 "InternalName": "AutoGreet",
-                "AssemblyVersion": "1.0.26.0",
+                "AssemblyVersion": "1.0.35.0",
                 "Description": "Housing venue visitor queue and greeting assistant.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AutoGreet/main/AutoGreet/Resources/AGLogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/AutoGreet",
-                "LastUpdate": 1783147353
+                "LastUpdate": 1783210637
             },
             {
                 "Author": "Airi Tsukino",
@@ -890,7 +890,7 @@
                 "Author": "Airi Tsukino",
                 "Name": "AutoGreet",
                 "InternalName": "AutoGreet",
-                "AssemblyVersion": "1.0.26.0",
+                "AssemblyVersion": "1.0.35.0",
                 "Description": "Housing venue visitor queue and greeting assistant.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AutoGreet/main/AutoGreet/Resources/AGLogo.png",
@@ -2551,17 +2551,17 @@
                 "Description": "Watches Cross-world Linkshell (CWLS1/CWLS2) chat for messages containing a map link and appends a clickable [Go To] link. Clicking it teleports you to the nearest aetheryte via the Teleporter plugin, hopping to the correct world/data center first via the Lifestream plugin if the message points to a different server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783188585
+                "LastUpdate": 1783193931
             },
             {
                 "Author": "bdg",
                 "Name": "Desynth All Command",
                 "InternalName": "DesynthAllCommand",
-                "AssemblyVersion": "0.0.0.1",
+                "AssemblyVersion": "0.0.0.4",
                 "Description": "Adds a /desynthall command that opens the game's desynthesis (materia extraction) window and enables PandorasBox's \"Desynth All\" feature so its button is ready to use. Requires the PandorasBox plugin to be installed.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783188585
+                "LastUpdate": 1783193931
             }
         ]
     },
@@ -5424,12 +5424,12 @@
                 "Author": "erdelf",
                 "Name": "FC Tracker",
                 "InternalName": "FCTracker",
-                "AssemblyVersion": "0.0.0.21",
+                "AssemblyVersion": "0.0.0.22",
                 "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1783159514
+                "LastUpdate": 1783207051
             }
         ]
     },
@@ -6551,12 +6551,12 @@
                 "Author": "gerulla",
                 "Name": "FullParty",
                 "InternalName": "FullParty",
-                "AssemblyVersion": "0.0.0.1",
+                "AssemblyVersion": "0.0.7.0",
                 "Description": "Dalamud Plugin Companion for FullParty.gg",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
-                "LastUpdate": 1783182116
+                "LastUpdate": 1783205053
             }
         ]
     },
@@ -8786,6 +8786,16 @@
                 "IconUrl": "https://puni.sh/api/plugins/icon/144",
                 "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
                 "LastUpdate": 1781259448
+            },
+            {
+                "Author": "Kage",
+                "Name": "RelicTracker",
+                "InternalName": "RelicTracker",
+                "AssemblyVersion": "1.0.0.2",
+                "Description": "Track relic weapon, tool, and armor progress across every job, with live material counts and optional FFXIV Collect sync.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
+                "LastUpdate": 1783208421
             }
         ]
     },
@@ -9691,12 +9701,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.322",
+                "AssemblyVersion": "0.0.0.323",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783108195
+                "LastUpdate": 1783182294
             },
             {
                 "Author": "croizat",
@@ -9740,7 +9750,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783112401
+                "LastUpdate": 1783202392
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9762,7 +9772,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1782974841
+                "LastUpdate": 1783186493
             }
         ]
     },
@@ -10660,14 +10670,14 @@
         "repo_name": "Lillyvid",
         "plugins": [
             {
-                "Author": "clemm",
+                "Author": "Lillypad",
                 "Name": "Video Sync Prototype",
                 "InternalName": "VideoSyncPrototype",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "2.0.0.0",
                 "Description": "Create and join Watch2Gether rooms from inside FFXIV, then watch them on a styled in-world TV. Use /videosync to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Lillypad-14/Lillyvid",
-                "LastUpdate": 1783165800
+                "LastUpdate": 1783173900
             }
         ]
     },
@@ -11430,12 +11440,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.1.0.1",
+                "AssemblyVersion": "0.1.0.2",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1782612242
+                "LastUpdate": 1783190898
             }
         ]
     },
@@ -11799,12 +11809,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.4.11",
+                "AssemblyVersion": "0.2.4.12",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1783137414
+                "LastUpdate": 1783190887
             }
         ]
     },
@@ -12635,7 +12645,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783179429
+                "LastUpdate": 1783208970
             },
             {
                 "Author": "nainaiowo",
@@ -14277,12 +14287,12 @@
                 "Author": "DarkmodeLeyla",
                 "Name": "TimelineAnimator",
                 "InternalName": "TimelineAnimator",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/Icon.png",
                 "RepoUrl": "https://github.com/NoHideout/TimelineAnimator",
-                "LastUpdate": 1782251185
+                "LastUpdate": 1783192738
             }
         ]
     },
@@ -15153,12 +15163,12 @@
                 "Author": "kcuY",
                 "Name": "Soundy",
                 "InternalName": "Soundy",
-                "AssemblyVersion": "2.3.0.0",
+                "AssemblyVersion": "2.4.0.0",
                 "Description": "Youtube Music Import for Penumbra.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/lnjanos/yueImport/refs/heads/master/7onk2b.png",
                 "RepoUrl": "https://github.com/lnjanos",
-                "LastUpdate": 1733780713
+                "LastUpdate": 1783196886
             }
         ]
     },
@@ -15959,12 +15969,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.303.0.17",
+                "AssemblyVersion": "15.303.0.18",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783112401
+                "LastUpdate": 1783202392
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -17243,11 +17253,11 @@
                 "Author": "Rowsai",
                 "Name": "HappyTrigger",
                 "InternalName": "HappyTrigger",
-                "AssemblyVersion": "0.0.0.1",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "Display images or text when chat log keywords appear.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
-                "LastUpdate": 1782978295
+                "LastUpdate": 1783199557
             }
         ]
     },
@@ -17264,7 +17274,6 @@
                 "AssemblyVersion": "0.0.0.3",
                 "Description": "Dalamud plugin development helper. Shows party member statuses and enemy casting information.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Rowsai/devLibra/refs/heads/main/image/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/devLibra",
                 "LastUpdate": 1782929119
             },
@@ -17272,12 +17281,12 @@
                 "Author": "Rowsai",
                 "Name": "HappyTrigger",
                 "InternalName": "HappyTrigger",
-                "AssemblyVersion": "0.0.0.1",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Rowsai/magicLook/refs/heads/master/images/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/refs/heads/main/image/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
-                "LastUpdate": 1782978295
+                "LastUpdate": 1783199557
             },
             {
                 "Author": "Rowsai",
@@ -17286,7 +17295,7 @@
                 "AssemblyVersion": "0.0.0.6",
                 "Description": "絶妖星乱舞の詠唱アクションを監視し、指定アクション時にプレイヤー頭上へテキストを表示します。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Rowsai/magicLook/master/images/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/Rowsai/magicLook/refs/heads/master/images/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/magicLook",
                 "LastUpdate": 1783165519
             }
@@ -20959,12 +20968,12 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel",
-                "AssemblyVersion": "1.1.20260703.904",
+                "AssemblyVersion": "1.1.20260704.918",
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://gist.githubusercontent.com/Voudi/77c661ec1597925c2856d649a0cfc2d8/raw/icon.png",
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1783087081
+                "LastUpdate": 1783194187
             }
         ]
     },
@@ -21435,12 +21444,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.8.3.0",
+                "AssemblyVersion": "0.8.4.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783187909
+                "LastUpdate": 1783200581
             },
             {
                 "Author": "XeldarAlz",
@@ -21509,12 +21518,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.8.3.0",
+                "AssemblyVersion": "0.8.4.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783187909
+                "LastUpdate": 1783200581
             }
         ]
     },
