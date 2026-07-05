@@ -2551,17 +2551,17 @@
                 "Description": "Watches Cross-world Linkshell (CWLS1/CWLS2) chat for messages containing a map link and appends a clickable [Go To] link. Clicking it teleports you to the nearest aetheryte via the Teleporter plugin, hopping to the correct world/data center first via the Lifestream plugin if the message points to a different server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783220981
+                "LastUpdate": 1783271025
             },
             {
                 "Author": "bdg",
                 "Name": "Desynth All Command",
                 "InternalName": "DesynthAllCommand",
-                "AssemblyVersion": "0.0.0.4",
+                "AssemblyVersion": "0.0.0.5",
                 "Description": "Adds a /desynthall command that opens the game's desynthesis (materia extraction) window and enables PandorasBox's \"Desynth All\" feature so its button is ready to use. Requires the PandorasBox plugin to be installed.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783220981
+                "LastUpdate": 1783271025
             }
         ]
     },
@@ -3996,12 +3996,12 @@
                 "Author": "dajoey",
                 "Name": "Gluttony Combo",
                 "InternalName": "GluttonyCombo",
-                "AssemblyVersion": "1.0.4.75",
+                "AssemblyVersion": "1.0.4.76",
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/gluttonycombo-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/GluttonyCombo/latest",
-                "LastUpdate": 1783037451
+                "LastUpdate": 1783279134
             },
             {
                 "Author": "Blackcatz1911, dajoey",
@@ -5418,7 +5418,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783182294
+                "LastUpdate": 1783285400
             },
             {
                 "Author": "erdelf",
@@ -6551,12 +6551,12 @@
                 "Author": "gerulla",
                 "Name": "FullParty",
                 "InternalName": "FullParty",
-                "AssemblyVersion": "0.0.12.0",
+                "AssemblyVersion": "0.0.21.0",
                 "Description": "Dalamud Plugin Companion for FullParty.gg",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
-                "LastUpdate": 1783261220
+                "LastUpdate": 1783281787
             }
         ]
     },
@@ -8795,7 +8795,7 @@
                 "Description": "Track relic weapon, tool, and armor progress across every job, with live material counts and optional FFXIV Collect sync.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
-                "LastUpdate": 1783257900
+                "LastUpdate": 1783280505
             }
         ]
     },
@@ -9725,7 +9725,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783182294
+                "LastUpdate": 1783285400
             },
             {
                 "Author": "croizat",
@@ -9764,12 +9764,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.305.0.0",
+                "AssemblyVersion": "15.305.0.1",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783250532
+                "LastUpdate": 1783280963
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10106,12 +10106,12 @@
                 "Author": "LastOnionKnight",
                 "Name": "Tonberry Tactics",
                 "InternalName": "GearGoblin",
-                "AssemblyVersion": "1.5.6.0",
+                "AssemblyVersion": "1.5.7.0",
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LastOnionKnight/GearGoblin/main/images/icon.png",
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1783258599
+                "LastUpdate": 1783274618
             }
         ]
     },
@@ -10692,11 +10692,11 @@
                 "Author": "Lillypad",
                 "Name": "Lillypad Toolkit",
                 "InternalName": "VideoSyncPrototype",
-                "AssemblyVersion": "4.0.0.0",
+                "AssemblyVersion": "5.0.0.0",
                 "Description": "Create and join Watch2Gether rooms from inside FFXIV, then watch them on a styled in-world TV. Use /videosync to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Lillypad-14/Lillyvid",
-                "LastUpdate": 1783234289
+                "LastUpdate": 1783260362
             }
         ]
     },
@@ -12175,12 +12175,12 @@
                 "Author": "Sanaka",
                 "Name": "Eorzea Arsenal",
                 "InternalName": "EorzeaArsenalPlugin",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Reads your gearsets across all jobs and pushes them to your Eorzea Arsenal account so the web app can show your gear vs BiS, and can optionally upload which equippable items you own (inventory + retainers). Connect once (browser approval or paste an API key), then use /bisexport. Bilingual DE/EN. Using Dalamud violates the FFXIV ToS; all uploads are strictly opt-in.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://xivarsenal.app/assets/img/logo-512.png",
                 "RepoUrl": "https://github.com/miralsoft/Dalamud-Eorzea-Arsenal",
-                "LastUpdate": 1783023891
+                "LastUpdate": 1783271176
             }
         ]
     },
@@ -12465,7 +12465,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1783005328
+                "LastUpdate": 1783283912
             }
         ]
     },
@@ -12484,7 +12484,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/Kaleidoscope/main/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1781857338
+                "LastUpdate": 1783284272
             }
         ]
     },
@@ -12650,6 +12650,25 @@
         ]
     },
     {
+        "repo_developer_name": "mycron2k",
+        "repo_url": "https://raw.githubusercontent.com/mycron2k/ffxiv-yomi-dist/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/mycron2k/ffxiv-yomi-dist",
+        "repo_name": "ffxiv-yomi-dist",
+        "plugins": [
+            {
+                "Author": "Solo Hoshikage",
+                "Name": "FFXIVYomi",
+                "InternalName": "FFXIVYomi",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Captures Japanese text from NPC dialogue, cutscenes, quest journals, item tooltips, and menus; tokenizes it with NMeCab; shows furigana + JLPT-coloured readings and JMdict definitions; one-click mines to Anki via AnkiConnect (with screenshot + sentence context); optional AI sentence translation.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/mycron2k/ffxiv-yomi-dist/main/images/icon.png",
+                "RepoUrl": "https://github.com/mycron2k/ffxiv-yomi-dist",
+                "LastUpdate": 1783279590
+            }
+        ]
+    },
+    {
         "repo_developer_name": "nainai",
         "repo_url": "https://puni.sh/api/repository/nainai",
         "repo_source_url": "https://puni.sh/directory/nainai",
@@ -12659,12 +12678,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.209",
+                "AssemblyVersion": "0.1.0.220",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783262626
+                "LastUpdate": 1783283965
             },
             {
                 "Author": "nainaiowo",
@@ -14136,12 +14155,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.6.3.0",
+                "AssemblyVersion": "1.7.0.0",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo/main/ExCombo/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo",
-                "LastUpdate": 1783018739
+                "LastUpdate": 1783279014
             }
         ]
     },
@@ -14485,12 +14504,12 @@
                 "Author": "ofnature",
                 "Name": "SealBreaker",
                 "InternalName": "SealBreaker",
-                "AssemblyVersion": "1.0.0.94",
+                "AssemblyVersion": "1.0.0.97",
                 "Description": "Automates dungeon farming, GC expert delivery, and grand company item purchasing. Supports AutoDuty and ADS.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/SealBreaker/main/SealBreaker/icon.png",
                 "RepoUrl": "https://github.com/ofnature/SealBreaker",
-                "LastUpdate": 1783258986
+                "LastUpdate": 1783278773
             }
         ]
     },
@@ -15999,12 +16018,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.305.0.0",
+                "AssemblyVersion": "15.305.0.1",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783250532
+                "LastUpdate": 1783280963
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16202,11 +16221,11 @@
                 "Author": "liza, qstxiv, & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.301.0.2801",
+                "AssemblyVersion": "15.305.0.0002",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/Questionable",
-                "LastUpdate": 1782129316
+                "LastUpdate": 1783276476
             }
         ]
     },
@@ -17283,12 +17302,12 @@
                 "Author": "Rowsai",
                 "Name": "HappyTrigger",
                 "InternalName": "HappyTrigger",
-                "AssemblyVersion": "0.0.0.4",
+                "AssemblyVersion": "0.0.0.5",
                 "Description": "Display images or text when chat log keywords appear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/refs/heads/main/image/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
-                "LastUpdate": 1783245711
+                "LastUpdate": 1783274016
             }
         ]
     },
@@ -17312,11 +17331,11 @@
                 "Author": "Rowsai",
                 "Name": "HappyTrigger",
                 "InternalName": "HappyTrigger",
-                "AssemblyVersion": "0.0.0.4",
+                "AssemblyVersion": "0.0.0.5",
                 "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
-                "LastUpdate": 1783245711
+                "LastUpdate": 1783274016
             },
             {
                 "Author": "Rowsai",
@@ -18778,11 +18797,11 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2607.130.0.0",
+                "AssemblyVersion": "2607.131.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1783263092
+                "LastUpdate": 1783264720
             }
         ]
     },
@@ -19204,12 +19223,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.708",
+                "AssemblyVersion": "7.5.1.1901",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1782787095
+                "LastUpdate": 1783264533
             },
             {
                 "Author": "Kouzukii",
@@ -20727,11 +20746,11 @@
                 "Author": "VelvetFFXIV",
                 "Name": "XIVIgnore",
                 "InternalName": "XIVIgnore",
-                "AssemblyVersion": "0.0.0.243",
+                "AssemblyVersion": "0.0.0.254",
                 "Description": "Client-side virtual extension of the FFXIV ignore list: additionally mute and hide players, with categories, notes and auto-expiry. UI available in English and German.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VelvetFFXIV/XIVIgnore",
-                "LastUpdate": 1782170032
+                "LastUpdate": 1783273145
             }
         ]
     },
@@ -21473,12 +21492,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.8.4.0",
+                "AssemblyVersion": "0.8.6.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783200581
+                "LastUpdate": 1783283749
             },
             {
                 "Author": "XeldarAlz",
@@ -21547,12 +21566,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.8.4.0",
+                "AssemblyVersion": "0.8.6.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783200581
+                "LastUpdate": 1783283749
             }
         ]
     },
@@ -21899,7 +21918,7 @@
         "repo_url": "https://github.com/Yhumi/Plogons/raw/master/plugins.json",
         "plugins": [
             {
-                "Author": "Yhumi",
+                "Author": "Mint",
                 "Name": "FC Chest Checker",
                 "InternalName": "FCChestChecker",
                 "AssemblyVersion": "1.0.1.0",
@@ -21910,7 +21929,7 @@
                 "LastUpdate": 1746573891
             },
             {
-                "Author": "Yhumi",
+                "Author": "Mint",
                 "Name": "Gag Plugin",
                 "InternalName": "GagPlugin",
                 "AssemblyVersion": "0.0.6.0",
@@ -21921,7 +21940,7 @@
                 "LastUpdate": 1766958533
             },
             {
-                "Author": "Yhumi",
+                "Author": "Mint",
                 "Name": "Icon Display",
                 "InternalName": "ItemDisplay",
                 "AssemblyVersion": "1.4.2.0",
@@ -21942,7 +21961,7 @@
                 "LastUpdate": 1783007378
             },
             {
-                "Author": "Yhumi",
+                "Author": "Mint",
                 "Name": "UcobClears",
                 "InternalName": "UcobClears",
                 "AssemblyVersion": "1.2.3.0",
@@ -21953,7 +21972,7 @@
                 "LastUpdate": 1766049827
             },
             {
-                "Author": "Yhumi (w/ Vivian)",
+                "Author": "Mint (w/ Vivian)",
                 "Name": "UCoB Neurolink Scoring",
                 "InternalName": "UcobNeuroScoring",
                 "AssemblyVersion": "0.8.0.1",
@@ -21964,7 +21983,7 @@
                 "LastUpdate": 1770342115
             },
             {
-                "Author": "Yhumi",
+                "Author": "Mint",
                 "Name": "Yhumi Fishing",
                 "InternalName": "YhumiFishing",
                 "AssemblyVersion": "0.0.3.4",
@@ -21974,15 +21993,15 @@
                 "LastUpdate": 1781098824
             },
             {
-                "Author": "Yhumi",
-                "Name": "Yhumi Tweaks",
+                "Author": "Mint",
+                "Name": "Minty Tweaks",
                 "InternalName": "YhumiTweaks",
-                "AssemblyVersion": "0.0.0.1",
+                "AssemblyVersion": "0.3.0.1",
                 "Description": "A collection of Tweaks and QoL I really wanted..",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "IconUrl": "https://safe.miyei.me/HJvz6hjP.png",
                 "RepoUrl": "https://github.com/Yhumi/YhumiTweaks",
-                "LastUpdate": 1772294035
+                "LastUpdate": 1783278835
             }
         ],
         "repo_source_url": "https://github.com/Yhumi/Plogons",
@@ -22124,7 +22143,7 @@
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.0.9.12",
+                "AssemblyVersion": "1.0.9.13",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
@@ -22482,12 +22501,12 @@
                 "Author": "zysilm",
                 "Name": "Combat Simulator",
                 "InternalName": "CombatSimulator",
-                "AssemblyVersion": "2.5.0.0",
+                "AssemblyVersion": "2.6.0.2",
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death effects (ragdoll physics), active camera (bone tracking), death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zysilm/FFXIV-CombatSimulator/main/images/logo.png",
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1782752143
+                "LastUpdate": 1783276193
             },
             {
                 "Author": "zysilm",
