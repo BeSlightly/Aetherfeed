@@ -827,12 +827,12 @@
                 "Author": "Airi Tsukino",
                 "Name": "AutoGreet",
                 "InternalName": "AutoGreet",
-                "AssemblyVersion": "1.0.40.0",
+                "AssemblyVersion": "1.0.47.0",
                 "Description": "Housing venue visitor queue and greeting assistant.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AutoGreet/main/AutoGreet/Resources/AGLogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/AutoGreet",
-                "LastUpdate": 1783307452
+                "LastUpdate": 1783383827
             },
             {
                 "Author": "Airi Tsukino",
@@ -890,7 +890,7 @@
                 "Author": "Airi Tsukino",
                 "Name": "AutoGreet",
                 "InternalName": "AutoGreet",
-                "AssemblyVersion": "1.0.40.0",
+                "AssemblyVersion": "1.0.47.0",
                 "Description": "Housing venue visitor queue and greeting assistant.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AutoGreet/main/AutoGreet/Resources/AGLogo.png",
@@ -1629,7 +1629,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anya-hichu/Quack/0.1.5.0/images/icon.png",
                 "RepoUrl": "https://github.com/anya-hichu/Quack",
-                "LastUpdate": 1782459984
+                "LastUpdate": 1783331711
             },
             {
                 "Author": "Anya Hichu",
@@ -3515,12 +3515,30 @@
                 "Author": "Meghann",
                 "Name": "Recipe Helper",
                 "InternalName": "DalamudRecipeHelper",
-                "AssemblyVersion": "1.1.25.0",
+                "AssemblyVersion": "1.1.27.0",
                 "Description": "Build a combined plan from multiple FFXIV recipes, compare NQ and HQ requirements with live inventory and saved retainer snapshots, track timed gathering materials, and hand crafting or travel actions to Artisan, Teamcraft, and GatherBuddy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/Recipe-Helper/main/RecipeHelperIcon1.png",
                 "RepoUrl": "https://github.com/CherryFairy78/Recipe-Helper",
-                "LastUpdate": 1783328465
+                "LastUpdate": 1783388687
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "CherryFairy78",
+        "repo_url": "https://raw.githubusercontent.com/CherryFairy78/UniversalMarketBoard/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/CherryFairy78/UniversalMarketBoard",
+        "repo_name": "UniversalMarketBoard",
+        "plugins": [
+            {
+                "Author": "Meghann",
+                "Name": "Universal Market Board",
+                "InternalName": "UniversalisMarketBoard",
+                "AssemblyVersion": "0.1.7.0",
+                "Description": "Browse HQ and NQ market board listings, search any item, switch between world or data centre scopes, and sort prices from highest to lowest. Slash command: /umb",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/CherryFairy78/UniversalMarketBoard",
+                "LastUpdate": 1783388292
             }
         ]
     },
@@ -3534,7 +3552,7 @@
                 "Author": "chika",
                 "Name": "XIV Remote Chat",
                 "InternalName": "XIVRemoteChat",
-                "AssemblyVersion": "0.0.0.14",
+                "AssemblyVersion": "0.0.0.15",
                 "Description": "Allows you to control any instance of FF connected to chat or send commands.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Deckerz/xiv-remote-chat",
@@ -5237,7 +5255,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HClawsweep/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HClawsweep",
-                "LastUpdate": 1781791177
+                "LastUpdate": 1783378295
+            },
+            {
+                "Author": "The Enceladeum",
+                "Name": "HMoniker",
+                "InternalName": "HMoniker",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Changes your display name. Local only: visible only to yourself outside of HMS (HMapSync) sessions.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMoniker/main/images/icon.png",
+                "RepoUrl": "https://github.com/Enceladeum/HMoniker",
+                "LastUpdate": 1783378298
             },
             {
                 "Author": "The Enceladeum",
@@ -5248,7 +5277,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-                "LastUpdate": 1781791172
+                "LastUpdate": 1783378292
             }
         ]
     },
@@ -5268,6 +5297,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HClawsweep/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HClawsweep",
                 "LastUpdate": 1781791177
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Enceladeum",
+        "repo_url": "https://raw.githubusercontent.com/Enceladeum/HMoniker/main/repo.json",
+        "repo_source_url": "https://github.com/Enceladeum/HMoniker",
+        "repo_name": "HMoniker",
+        "plugins": [
+            {
+                "Author": "The Enceladeum",
+                "Name": "HMoniker",
+                "InternalName": "HMoniker",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Changes your display name. Local only: visible only to yourself outside of HMS (HMapSync) sessions.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMoniker/main/images/icon.png",
+                "RepoUrl": "https://github.com/Enceladeum/HMoniker",
+                "LastUpdate": 1783375996
             }
         ]
     },
@@ -5424,12 +5472,12 @@
                 "Author": "erdelf",
                 "Name": "FC Tracker",
                 "InternalName": "FCTracker",
-                "AssemblyVersion": "0.0.0.22",
+                "AssemblyVersion": "0.0.0.23",
                 "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1783372388
+                "LastUpdate": 1783374169
             }
         ]
     },
@@ -6969,13 +7017,13 @@
         "plugins": [
             {
                 "Author": "greenteakitkats",
-                "Name": "Housing History",
+                "Name": "Homekeeper",
                 "InternalName": "HousingHistory",
-                "AssemblyVersion": "0.13.1.0",
+                "AssemblyVersion": "0.13.2.0",
                 "Description": "A running log of everything you do while decorating: placing, removing, moving, rotating, and dyeing furniture, all with coordinates. Forgot what you just changed, or moved something and want it back? Click the old coordinates to copy them, or turn on Apply mode to snap the selected item right back into place. It'll also show you what changed since you were last home. Built to sit alongside Burning Down the House. Type /houselog to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/greenteakitkats/HousingHistory",
-                "LastUpdate": 1783369032
+                "LastUpdate": 1783391997
             }
         ]
     },
@@ -9785,7 +9833,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1783294743
+                "LastUpdate": 1783354863
             },
             {
                 "Author": "sourpuh",
@@ -9807,7 +9855,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783280963
+                "LastUpdate": 1783394298
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9917,12 +9965,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "2607.152.0.0",
+                "AssemblyVersion": "2607.156.0.0",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1783298594
+                "LastUpdate": 1783388238
             }
         ]
     },
@@ -10457,7 +10505,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1783360964
+                "LastUpdate": 1783375820
             }
         ]
     },
@@ -10730,11 +10778,11 @@
                 "Author": "Lillypad",
                 "Name": "Lillypad Toolkit",
                 "InternalName": "VideoSyncPrototype",
-                "AssemblyVersion": "5.0.0.0",
+                "AssemblyVersion": "6.0.0.0",
                 "Description": "Create and join Watch2Gether rooms from inside FFXIV, then watch them on a styled in-world TV. Use /videosync to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Lillypad-14/Lillyvid",
-                "LastUpdate": 1783260362
+                "LastUpdate": 1783363283
             }
         ]
     },
@@ -13287,7 +13335,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1783216138
+                "LastUpdate": 1783389119
             },
             {
                 "Author": "goat, Maple",
@@ -13297,7 +13345,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1783135621
+                "LastUpdate": 1783395717
             }
         ]
     },
@@ -14211,12 +14259,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.8.0.1",
+                "AssemblyVersion": "1.8.6.0",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo-dist",
-                "LastUpdate": 1783368696
+                "LastUpdate": 1783380232
             }
         ]
     },
@@ -14381,12 +14429,12 @@
                 "Author": "DarkmodeLeyla",
                 "Name": "TimelineAnimator",
                 "InternalName": "TimelineAnimator",
-                "AssemblyVersion": "1.1.1.0",
+                "AssemblyVersion": "1.1.2.0",
                 "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/Icon.png",
                 "RepoUrl": "https://github.com/NoHideout/TimelineAnimator",
-                "LastUpdate": 1783245294
+                "LastUpdate": 1783374271
             }
         ]
     },
@@ -15296,6 +15344,24 @@
         ]
     },
     {
+        "repo_developer_name": "penzfan23",
+        "repo_url": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/repo.json",
+        "repo_source_url": "https://github.com/penzfan23/VenueBoard",
+        "repo_name": "VenueBoard",
+        "plugins": [
+            {
+                "Author": "Black Lantern",
+                "Name": "VenueBoard",
+                "InternalName": "VenueBoard",
+                "AssemblyVersion": "0.1.2.0",
+                "Description": "A venue macro board for Final Fantasy XIV hosts.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/penzfan23/VenueBoard",
+                "LastUpdate": 1783390947
+            }
+        ]
+    },
+    {
         "repo_developer_name": "perappu",
         "repo_url": "https://raw.githubusercontent.com/perappu/WhoSaidWhatNow/master/repo.json",
         "repo_source_url": "https://github.com/perappu/WhoSaidWhatNow",
@@ -15783,7 +15849,7 @@
                 "Author": "Pyon",
                 "Name": "PyonPix",
                 "InternalName": "PyonPix",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.0.1",
                 "Description": "Spawn screens in the world to display media content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/priprii/PyonPix",
@@ -16073,12 +16139,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.305.0.1",
+                "AssemblyVersion": "15.306.0.0",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783308783
+                "LastUpdate": 1783394298
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -18578,13 +18644,32 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.3.1",
+                "AssemblyVersion": "1.7.3.2",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1782620231,
+                "LastUpdate": 1783394149,
                 "is_closed_source": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Shuro",
+        "repo_url": "https://raw.githubusercontent.com/Shuro/GobchatEx-plugin/main/repo.json",
+        "repo_source_url": "https://github.com/Shuro/GobchatEx-plugin",
+        "repo_name": "GobchatEx-plugin",
+        "plugins": [
+            {
+                "Author": "Shuro",
+                "Name": "GobchatEx Roleplay Suite",
+                "InternalName": "GobchatExPlugin",
+                "AssemblyVersion": "0.8.0",
+                "Description": "Roleplay Highlighting in the native chat. Mentions notification with sound effects and more.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Shuro/GobchatEx-plugin/main/GobchatEx/images/icon.png",
+                "RepoUrl": "https://github.com/Shuro/GobchatEx-plugin",
+                "LastUpdate": 1783385878
             }
         ]
     },
@@ -18746,12 +18831,12 @@
                 "Author": "snazz",
                 "Name": "Snazzy P4",
                 "InternalName": "SnazzyP4",
-                "AssemblyVersion": "1.0.3.2",
+                "AssemblyVersion": "1.0.4.1",
                 "Description": "A robust custom macro system for the Kefka UMAD/DMU Phase 4 mechanics. Press the buttons for what you see in the fight and it lays out clean, colour-coded callouts. Open with /snazzyp4.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/snazzysosnazzy/SnazzyP4/main/SnazzyP4/images/icon.png",
                 "RepoUrl": "https://github.com/snazzysosnazzy/SnazzyP4",
-                "LastUpdate": 1783302401
+                "LastUpdate": 1783383356
             }
         ]
     },
@@ -18859,12 +18944,12 @@
                 "Author": "Solona",
                 "Name": "PlayerSync (Soli's Version)",
                 "InternalName": "MareSempiterne",
-                "AssemblyVersion": "1.15.2.12",
+                "AssemblyVersion": "1.15.3.5",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/solona-m/MareSynchronosClient",
-                "LastUpdate": 1783288398
+                "LastUpdate": 1783396281
             },
             {
                 "Author": "Solona",
@@ -21758,7 +21843,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XelsPlugins/XelsCombatAI/main/XelsCombatAI/images/icon.png",
                 "RepoUrl": "https://github.com/XelsPlugins/XelsCombatAI",
-                "LastUpdate": 1783345709
+                "LastUpdate": 1783385176
             },
             {
                 "Author": "Xeltor / XelsPlugins, originally by Blackcatz1911",
