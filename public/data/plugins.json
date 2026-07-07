@@ -1062,6 +1062,24 @@
         ]
     },
     {
+        "repo_developer_name": "AlexValliere",
+        "repo_url": "https://raw.githubusercontent.com/AlexValliere/submarineEtaPlanner/main/repo.json",
+        "repo_source_url": "https://github.com/AlexValliere/submarineEtaPlanner",
+        "repo_name": "submarineEtaPlanner",
+        "plugins": [
+            {
+                "Author": "Alex",
+                "Name": "Submarine ETA Planner",
+                "InternalName": "SubmarineEtaPlanner",
+                "AssemblyVersion": "0.2.7.0",
+                "Description": "Read-only ETA planner for tracked FC submarines using SubmarineTracker-compatible voyage, build, EXP, and unlock calculations.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AlexValliere/submarineEtaPlanner",
+                "LastUpdate": 1783462206
+            }
+        ]
+    },
+    {
         "repo_developer_name": "AliaXIV",
         "repo_url": "https://raw.githubusercontent.com/AliaXIV/PluginsRepo/main/repo.json",
         "repo_source_url": "https://github.com/AliaXIV/PluginsRepo",
@@ -3534,11 +3552,11 @@
                 "Author": "Meghann",
                 "Name": "Universal Market Board",
                 "InternalName": "UniversalisMarketBoard",
-                "AssemblyVersion": "0.1.7.0",
+                "AssemblyVersion": "0.1.8.0",
                 "Description": "Browse HQ and NQ market board listings, search any item, switch between world or data centre scopes, and sort prices from highest to lowest. Slash command: /umb",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CherryFairy78/UniversalMarketBoard",
-                "LastUpdate": 1783388292
+                "LastUpdate": 1783458126
             }
         ]
     },
@@ -4959,6 +4977,24 @@
         ]
     },
     {
+        "repo_developer_name": "EchoVaultDev",
+        "repo_url": "https://raw.githubusercontent.com/EchoVaultDev/EchoVault-plugin/main/repo.json",
+        "repo_source_url": "https://github.com/EchoVaultDev/EchoVault-plugin",
+        "repo_name": "EchoVault-plugin",
+        "plugins": [
+            {
+                "Author": "EchoVaultDev",
+                "Name": "Echo",
+                "InternalName": "Echo",
+                "AssemblyVersion": "0.4.0.0",
+                "Description": "Records players you encounter and syncs them to the EchoVault community index. Browse at echovault.gg.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://echovault.gg",
+                "LastUpdate": 1783451217
+            }
+        ]
+    },
+    {
         "repo_developer_name": "edeeeen",
         "repo_url": "https://raw.githubusercontent.com/edeeeen/WikiSearch/master/repo.json",
         "repo_source_url": "https://github.com/edeeeen/WikiSearch",
@@ -5687,7 +5723,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1783411823
+                "LastUpdate": 1783444052
             }
         ]
     },
@@ -6065,12 +6101,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.21",
+                "AssemblyVersion": "7.5.1.22",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1783362092
+                "LastUpdate": 1783454085
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6131,7 +6167,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.10",
+                "AssemblyVersion": "7.5.1.11",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
@@ -7139,12 +7175,12 @@
                 "Author": "Habitat",
                 "Name": "Ripple Shot",
                 "InternalName": "RippleShot",
-                "AssemblyVersion": "0.5.2.0",
+                "AssemblyVersion": "0.5.5.0",
                 "Description": "Bartender tool for the Ripple Shot /random jackpot game: pricing, per-night caps with Supabase VIPs, carry-over pot, win detection, archives, and a guided payout planner.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/habitatnightclub/ripple-shot/main/ripple-shot-icon.png",
                 "RepoUrl": "https://github.com/habitatnightclub/ripple-shot",
-                "LastUpdate": 1783098887
+                "LastUpdate": 1783451972
             }
         ]
     },
@@ -7911,12 +7947,12 @@
                 "Author": "Irie",
                 "Name": "Peanuts",
                 "InternalName": "PeanutsPlugin",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "Scrape together the existing pieces of jewelry and eagerly note down the quantity and current owner in Tataru's small notebook.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Irietiert/PeanutsPlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/Irietiert/PeanutsPlugin",
-                "LastUpdate": 1783370439
+                "LastUpdate": 1783441784
             }
         ]
     },
@@ -8197,7 +8233,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.34",
+                "AssemblyVersion": "15.35",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -8683,7 +8719,7 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "Skyrim Compass",
                 "InternalName": "SkyrimCompass",
-                "AssemblyVersion": "1.5.0.1",
+                "AssemblyVersion": "1.5.0.5",
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/SkyrimCompass",
@@ -10789,11 +10825,11 @@
                 "Author": "Lillypad",
                 "Name": "Lillypad Toolkit",
                 "InternalName": "VideoSyncPrototype",
-                "AssemblyVersion": "7.0.0.0",
+                "AssemblyVersion": "7.0.1.0",
                 "Description": "Create and join Watch2Gether rooms from inside FFXIV, then watch them on a styled in-world TV. Use /videosync to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Lillypad-14/Lillyvid",
-                "LastUpdate": 1783399340
+                "LastUpdate": 1783458925
             }
         ]
     },
@@ -12209,18 +12245,18 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1783297349
+                "LastUpdate": 1783457520
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.5.4.7",
+                "AssemblyVersion": "1.5.4.9",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1783297349
+                "LastUpdate": 1783457520
             }
         ]
     },
@@ -12793,12 +12829,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.230",
+                "AssemblyVersion": "0.1.0.235",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783439562
+                "LastUpdate": 1783456375
             },
             {
                 "Author": "nainaiowo",
@@ -14270,12 +14306,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.8.6.0",
+                "AssemblyVersion": "1.10.0.0",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo-dist",
-                "LastUpdate": 1783380232
+                "LastUpdate": 1783458958
             }
         ]
     },
@@ -14295,6 +14331,23 @@
                 "IconUrl": "https://raw.githubusercontent.com/NNekoPlugins/AqrNarrator/main/AqrNarrator/Data/NNeko.png",
                 "RepoUrl": "https://github.com/NNekoPlugins/AqrNarrator",
                 "LastUpdate": 1779130451
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/DispellerPlugin/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/DispellerPlugin",
+        "repo_name": "DispellerPlugin",
+        "plugins": [
+            {
+                "Author": "pupwife",
+                "Name": "Dispeller",
+                "InternalName": "Dispeller",
+                "AssemblyVersion": "1.3",
+                "Description": "A cute plugin to help you manage your Glamour Dresser by identifying items that share the same visual models.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NNekoPlugins/Dispeller"
             }
         ]
     },
@@ -14440,12 +14493,12 @@
                 "Author": "DarkmodeLeyla",
                 "Name": "TimelineAnimator",
                 "InternalName": "TimelineAnimator",
-                "AssemblyVersion": "1.1.3.0",
+                "AssemblyVersion": "1.1.4.0",
                 "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/Icon.png",
                 "RepoUrl": "https://github.com/NoHideout/TimelineAnimator",
-                "LastUpdate": 1783434668
+                "LastUpdate": 1783462668
             }
         ]
     },
@@ -14792,7 +14845,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/157",
                 "RepoUrl": "https://github.com/OOFGamesss/ChocoboRacing",
-                "LastUpdate": 1783253788
+                "LastUpdate": 1783458637
             },
             {
                 "Author": "OOF Games, Asuna",
@@ -16044,12 +16097,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.64",
+                "AssemblyVersion": "6.0.0.66",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1783430895
+                "LastUpdate": 1783458618
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -16158,7 +16211,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1783410666
+                "LastUpdate": 1783450019
             },
             {
                 "Author": "Team Wrath",
@@ -16305,49 +16358,21 @@
         ]
     },
     {
-        "repo_developer_name": "QianChangUwU",
-        "repo_url": "https://raw.githubusercontent.com/QianChangUwU/DalamudPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/QianChangUwU/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "Anna, QianChangUwU",
-                "Name": "ExtraChat-CN",
-                "InternalName": "ExtraChat-CN",
-                "AssemblyVersion": "1.3.11.27",
-                "Description": "ExtraChat 添加端到端加密、跨数据中心、不限成员数量的额外聊天频道到游戏中。",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/QianChangUwU/ChatExtra",
-                "LastUpdate": 1782763483
-            },
-            {
-                "Author": "NightmareXIV, QianChangUwU",
-                "Name": "JustBackup",
-                "InternalName": "JustBackup",
-                "AssemblyVersion": "1.1.1.502",
-                "Description": "在游戏/插件启动时自动备份你的游戏和插件配置，支持自动清理旧备份、7-zip压缩、角色配置识别等。",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/QianChangUwU/JustBackup",
-                "LastUpdate": 1781909100
-            },
-            {
-                "Author": "liza, qstxiv, & various contributors",
-                "Name": "Questionable",
-                "InternalName": "Questionable",
-                "AssemblyVersion": "15.305.0.0002",
-                "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/QianChangUwU/Questionable",
-                "LastUpdate": 1783276476
-            }
-        ]
-    },
-    {
         "repo_developer_name": "qliczz",
         "repo_url": "https://raw.githubusercontent.com/qliczz/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/qliczz/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
+            {
+                "Author": "斯温",
+                "Name": "Is that a crit？",
+                "InternalName": "BaoleMaLe",
+                "AssemblyVersion": "0.4.1.0",
+                "Description": "统计伤害技能的直暴运气(FFLogs风格配色)，并升级为轻量战斗数据记录器：本队全员 DPS / aDPS / 近似 rDPS、技能时间轴、多目标统计、团辅BUFF追踪与风趣战斗点评，技能表带图标。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/qliczz/BaoleMaLe",
+                "LastUpdate": 1783452368
+            },
             {
                 "Author": "斯温",
                 "Name": "W.T.H.F.",
@@ -17673,6 +17698,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/tyrian-targeting/main/images/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/tyrian-targeting",
                 "LastUpdate": 1779298117
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "rubyblaire",
+        "repo_url": "https://raw.githubusercontent.com/rubyblaire/RubyRadio/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/rubyblaire/RubyRadio",
+        "repo_name": "RubyRadio",
+        "plugins": [
+            {
+                "Author": "Ruby Blaire",
+                "Name": "Ruby Radio",
+                "InternalName": "RubyRadioPublicListener",
+                "AssemblyVersion": "1.0.0.7",
+                "Description": "A listener-only plugin.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RubyRadio/main/images/icon.png",
+                "RepoUrl": "https://github.com/rubyblaire/RubyRadio",
+                "LastUpdate": 1783461042
             }
         ]
     },
@@ -19030,12 +19074,12 @@
                 "Author": "sourpuh",
                 "Name": "Gaolbreak UI",
                 "InternalName": "Gaolbreak",
-                "AssemblyVersion": "0.0.0.26",
+                "AssemblyVersion": "0.0.0.27",
                 "Description": "Game windows can layer with plugin windows, reshade won't affect the UI, and 3D overlay plugins draw under the game's UI.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/152",
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_gaolbreak",
-                "LastUpdate": 1783396888
+                "LastUpdate": 1783458615
             },
             {
                 "Author": "sourpuh",
