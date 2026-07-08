@@ -2010,7 +2010,7 @@
                 "Author": "Asuna",
                 "Name": "HuntAlerts",
                 "InternalName": "HuntAlerts",
-                "AssemblyVersion": "1.4.0.14",
+                "AssemblyVersion": "1.4.1.0",
                 "Description": "Notifies you when hunt trains are starting soon\nSupports NA/EU/OCE",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/143",
@@ -3533,12 +3533,12 @@
                 "Author": "Meghann",
                 "Name": "Recipe Helper",
                 "InternalName": "DalamudRecipeHelper",
-                "AssemblyVersion": "1.1.28.0",
+                "AssemblyVersion": "1.1.31.0",
                 "Description": "Build a combined plan from multiple FFXIV recipes, compare NQ and HQ requirements with live inventory and saved retainer snapshots, track timed gathering materials, and hand crafting or travel actions to Artisan, Teamcraft, and GatherBuddy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/Recipe-Helper/main/RecipeHelperIcon1.png",
                 "RepoUrl": "https://github.com/CherryFairy78/Recipe-Helper",
-                "LastUpdate": 1783466814
+                "LastUpdate": 1783517446
             }
         ]
     },
@@ -3552,12 +3552,12 @@
                 "Author": "Meghann",
                 "Name": "Universal Market Board",
                 "InternalName": "UniversalisMarketBoard",
-                "AssemblyVersion": "0.1.9.0",
+                "AssemblyVersion": "0.1.10.0",
                 "Description": "Browse HQ and NQ market board listings, search any item, switch between world or data centre scopes, and sort prices from highest to lowest. Slash command: /umb",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/UniversalMarketBoard/main/assets/icon.png",
                 "RepoUrl": "https://github.com/CherryFairy78/UniversalMarketBoard",
-                "LastUpdate": 1783503448
+                "LastUpdate": 1783511624
             }
         ]
     },
@@ -4220,11 +4220,11 @@
                 "Author": "Dasha",
                 "Name": "DashaTweaks",
                 "InternalName": "DashaTweaks",
-                "AssemblyVersion": "0.3.3.1",
+                "AssemblyVersion": "0.3.4.0",
                 "Description": "A growing collection of FFXIV quality-of-life tweaks, each in its own settings tab:\n\n- Hotbar Helper: when you open Actions & Traits, scans your hotbars against your current job and shows any actions or role actions you haven't slotted anywhere.\n- Submarines: FC submarine status at a glance, EXP-optimal route planning with one-click apply, optional unlock-progression routing, and auto-repair.\n- Leves: automated craft (tradecraft) leve hand-ins - pick a leve, stand at the counter, and it accepts and turns in until your allowance floor or items run out.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/DashaDaymoon/DashaTweaksRepo",
-                "LastUpdate": 1782387577
+                "LastUpdate": 1783522710
             }
         ]
     },
@@ -4987,9 +4987,10 @@
                 "Author": "EchoVaultDev",
                 "Name": "Echo",
                 "InternalName": "Echo",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.4.1.0",
                 "Description": "Records players you encounter and syncs them to the EchoVault community index. Browse at echovault.gg.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://echovault.gg/brand/plugin-icon.png",
                 "RepoUrl": "https://echovault.gg",
                 "LastUpdate": 1783451217
             }
@@ -7285,7 +7286,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1783359492
+                "LastUpdate": 1783518793
             },
             {
                 "Author": "Haselnussbomber",
@@ -7590,7 +7591,7 @@
                 "Author": "Asuna",
                 "Name": "HuntAlerts",
                 "InternalName": "HuntAlerts",
-                "AssemblyVersion": "1.4.0.14",
+                "AssemblyVersion": "1.4.1.0",
                 "Description": "Notifies you when hunt trains are starting soon",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/FFXIV_Hunts_logo.png",
@@ -13711,7 +13712,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1783429292,
+                "LastUpdate": 1783515477,
                 "is_closed_source": true
             },
             {
@@ -13723,19 +13724,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1783429292,
+                "LastUpdate": 1783515477,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.21",
+                "AssemblyVersion": "7.5.1.23",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1783429292,
+                "LastUpdate": 1783515477,
                 "is_closed_source": true
             },
             {
@@ -14494,12 +14495,12 @@
                 "Author": "DarkmodeLeyla",
                 "Name": "TimelineAnimator",
                 "InternalName": "TimelineAnimator",
-                "AssemblyVersion": "1.1.4.0",
+                "AssemblyVersion": "1.1.6.0",
                 "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/Icon.png",
                 "RepoUrl": "https://github.com/NoHideout/TimelineAnimator",
-                "LastUpdate": 1783462668
+                "LastUpdate": 1783513890
             }
         ]
     },
@@ -16455,21 +16456,21 @@
                 "Author": "斯温",
                 "Name": "Is that a crit？",
                 "InternalName": "BaoleMaLe",
-                "AssemblyVersion": "0.4.1.2",
+                "AssemblyVersion": "0.4.3.2",
                 "Description": "统计伤害技能的直暴运气(FFLogs风格配色)，并升级为轻量战斗数据记录器：本队全员 DPS / aDPS / 近似 rDPS、技能时间轴、多目标统计、团辅BUFF追踪与风趣战斗点评，技能表带图标。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/qliczz/BaoleMaLe",
-                "LastUpdate": 1783503913
+                "LastUpdate": 1783527376
             },
             {
                 "Author": "斯温",
                 "Name": "W.T.H.F.",
                 "InternalName": "NEVERMOVE",
-                "AssemblyVersion": "1.0.3.0",
+                "AssemblyVersion": "1.0.5.1",
                 "Description": "找找好友究竟在哪",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/qliczz/NEVERMOVE",
-                "LastUpdate": 1783435325
+                "LastUpdate": 1783527380
             },
             {
                 "Author": "斯温",
@@ -16481,6 +16482,16 @@
                 "IconUrl": "https://github.com/qliczz/RaceKnight/raw/main/repo/icon.png",
                 "RepoUrl": "https://github.com/qliczz/RaceKnight",
                 "LastUpdate": 1783349439
+            },
+            {
+                "Author": "斯温",
+                "Name": "旋转教练",
+                "InternalName": "RotationCoach",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "实时分析你实际按下的技能序列，指出发呆、卡手、GCD 节奏问题，帮助你打磨手法。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/qliczz/RotationCoach",
+                "LastUpdate": 1783525951
             }
         ]
     },
@@ -17213,12 +17224,12 @@
                 "Author": "Res",
                 "Name": "YapYap",
                 "InternalName": "YapYap",
-                "AssemblyVersion": "1.0.0.30",
+                "AssemblyVersion": "1.0.0.31",
                 "Description": "A clean fight log and custom trigger overlay. Watch every cast and status in real time, then right-click any line to build your own TTS and on-screen callout.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ResFox/YapYap/main/YapYap/Images/icon.png",
                 "RepoUrl": "https://github.com/ResFox/YapYap",
-                "LastUpdate": 1783135356
+                "LastUpdate": 1783521331
             }
         ]
     },
@@ -17593,12 +17604,12 @@
                 "Author": "Rowsai",
                 "Name": "HappyTrigger",
                 "InternalName": "HappyTrigger",
-                "AssemblyVersion": "0.0.1.1",
+                "AssemblyVersion": "0.0.1.2",
                 "Description": "Display images or text when chat log keywords appear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/refs/heads/main/image/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
-                "LastUpdate": 1783431691
+                "LastUpdate": 1783528114
             }
         ]
     },
@@ -17622,11 +17633,11 @@
                 "Author": "Rowsai",
                 "Name": "HappyTrigger",
                 "InternalName": "HappyTrigger",
-                "AssemblyVersion": "0.0.1.1",
+                "AssemblyVersion": "0.0.1.2",
                 "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
-                "LastUpdate": 1783431691
+                "LastUpdate": 1783528114
             },
             {
                 "Author": "Rowsai",
@@ -18087,12 +18098,12 @@
                 "Author": "Whitedog",
                 "Name": "TCRankingViewer",
                 "InternalName": "TCRankingViewer",
-                "AssemblyVersion": "1.0.5.4",
+                "AssemblyVersion": "1.0.6.1",
                 "Description": "當隊友進入隊伍或開啟招募資訊時，自動從 ranking.init.engineer 與 samoyedqq.github.io/TCtomestone 抓取對應角色的零式/絕本排名資料，並顯示於聊天框與插件視窗。",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/assets/icon.png",
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1782925144
+                "LastUpdate": 1783518180
             }
         ]
     },
@@ -19257,11 +19268,11 @@
                 "Author": "spark",
                 "Name": "FFXIVAura",
                 "InternalName": "FFXIVAura",
-                "AssemblyVersion": "0.1.0.22",
+                "AssemblyVersion": "0.1.0.24",
                 "Description": "Dalamud-native FFXIVAura style cooldown overlay for FFXIV KR.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/spar7453/FFXIVAura",
-                "LastUpdate": 1783507501
+                "LastUpdate": 1783520791
             },
             {
                 "Author": "electr0sheep, Nuko",
@@ -19541,12 +19552,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.1902",
+                "AssemblyVersion": "7.5.1.1903",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1783316637
+                "LastUpdate": 1783525901
             },
             {
                 "Author": "Kouzukii",
@@ -20605,12 +20616,12 @@
                 "Author": "The PlayerSync Team",
                 "Name": "PlayerSync",
                 "InternalName": "MareSempiterne",
-                "AssemblyVersion": "1.15.3.2",
+                "AssemblyVersion": "1.15.3.4",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1782839613
+                "LastUpdate": 1783520292
             }
         ]
     },
@@ -22819,12 +22830,12 @@
                 "Author": "zysilm",
                 "Name": "Combat Simulator",
                 "InternalName": "CombatSimulator",
-                "AssemblyVersion": "2.6.0.2",
+                "AssemblyVersion": "2.7.0.0",
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death effects (ragdoll physics), active camera (bone tracking), death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zysilm/FFXIV-CombatSimulator/main/images/logo.png",
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1783276193
+                "LastUpdate": 1783526476
             },
             {
                 "Author": "zysilm",
