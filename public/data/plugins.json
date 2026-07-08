@@ -424,12 +424,12 @@
                 "Author": "Astraea, nihal_shadescale",
                 "Name": "AetherLove",
                 "InternalName": "AetherLovePlugin",
-                "AssemblyVersion": "1.5.0.0",
+                "AssemblyVersion": "1.5.1.0",
                 "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /al opens the phone.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/154",
                 "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-                "LastUpdate": 1783495649
+                "LastUpdate": 1783537707
             }
         ]
     },
@@ -2410,7 +2410,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1783354863
+                "LastUpdate": 1783530792
             },
             {
                 "Author": "veyn, croizat",
@@ -3533,12 +3533,12 @@
                 "Author": "Meghann",
                 "Name": "Recipe Helper",
                 "InternalName": "DalamudRecipeHelper",
-                "AssemblyVersion": "1.1.31.0",
+                "AssemblyVersion": "1.1.32.0",
                 "Description": "Build a combined plan from multiple FFXIV recipes, compare NQ and HQ requirements with live inventory and saved retainer snapshots, track timed gathering materials, and hand crafting or travel actions to Artisan, Teamcraft, and GatherBuddy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/Recipe-Helper/main/RecipeHelperIcon1.png",
                 "RepoUrl": "https://github.com/CherryFairy78/Recipe-Helper",
-                "LastUpdate": 1783517446
+                "LastUpdate": 1783548736
             }
         ]
     },
@@ -4557,11 +4557,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.14.0.0",
+                "AssemblyVersion": "1.14.1.2",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1783505111
+                "LastUpdate": 1783550466
             },
             {
                 "Author": "Akari",
@@ -4622,11 +4622,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.14.0.0",
+                "AssemblyVersion": "1.14.1.2",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1783505111
+                "LastUpdate": 1783550466
             }
         ]
     },
@@ -4974,25 +4974,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/echodetla/ffxiv-look-at-me",
                 "LastUpdate": 1781845654
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "EchoVaultDev",
-        "repo_url": "https://raw.githubusercontent.com/EchoVaultDev/EchoVault-plugin/main/repo.json",
-        "repo_source_url": "https://github.com/EchoVaultDev/EchoVault-plugin",
-        "repo_name": "EchoVault-plugin",
-        "plugins": [
-            {
-                "Author": "EchoVaultDev",
-                "Name": "Echo",
-                "InternalName": "Echo",
-                "AssemblyVersion": "0.4.1.0",
-                "Description": "Records players you encounter and syncs them to the EchoVault community index. Browse at echovault.gg.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://echovault.gg/brand/plugin-icon.png",
-                "RepoUrl": "https://echovault.gg",
-                "LastUpdate": 1783451217
             }
         ]
     },
@@ -6103,12 +6084,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.23",
+                "AssemblyVersion": "7.5.1.24",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1783468302
+                "LastUpdate": 1783545402
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6169,12 +6150,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.11",
+                "AssemblyVersion": "7.5.1.12",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1783430677
+                "LastUpdate": 1783545424
             },
             {
                 "Author": "Churin",
@@ -6648,12 +6629,12 @@
                 "Author": "gerulla",
                 "Name": "FullParty",
                 "InternalName": "FullParty",
-                "AssemblyVersion": "0.0.21.0",
+                "AssemblyVersion": "0.0.24.0",
                 "Description": "Dalamud Plugin Companion for FullParty.gg",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
-                "LastUpdate": 1783281787
+                "LastUpdate": 1783548762
             }
         ]
     },
@@ -8235,7 +8216,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.35",
+                "AssemblyVersion": "15.37",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -9130,12 +9111,12 @@
                 "Author": "Tomok",
                 "Name": "Pose Manager",
                 "InternalName": "PoseManager",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.0.1",
                 "Description": "A manager solution for organizing pose presets inside FFXIV, with an interactive 3D skeleton mannequin and full-screen preview viewer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/PoseManager/icon.png",
                 "RepoUrl": "https://github.com/KaraRemy/PoseManager",
-                "LastUpdate": 1782684334
+                "LastUpdate": 1783542407
             },
             {
                 "Author": "Tomok",
@@ -10736,12 +10717,12 @@
                 "Author": "Lightless Team",
                 "Name": "Lightless Sync",
                 "InternalName": "LightlessSync",
-                "AssemblyVersion": "3.1.3.0",
+                "AssemblyVersion": "3.1.4.0",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessSync/raw/branch/main/LightlessSync/icon.png",
                 "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
-                "LastUpdate": 1780863438
+                "LastUpdate": 1783531738
             }
         ]
     },
@@ -10827,11 +10808,11 @@
                 "Author": "Lillypad",
                 "Name": "Lillypad Toolkit",
                 "InternalName": "VideoSyncPrototype",
-                "AssemblyVersion": "7.0.5.0",
+                "AssemblyVersion": "7.0.8.0",
                 "Description": "Create and join Watch2Gether rooms from inside FFXIV, then watch them on a styled in-world TV. Use /videosync to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Lillypad-14/Lillyvid",
-                "LastUpdate": 1783483854
+                "LastUpdate": 1783544995
             }
         ]
     },
@@ -12086,25 +12067,6 @@
         ]
     },
     {
-        "repo_developer_name": "meowpurrpur",
-        "repo_url": "https://raw.githubusercontent.com/meowpurrpur/IconsInWorld/main/repo.json",
-        "repo_source_url": "https://github.com/meowpurrpur/IconsInWorld",
-        "repo_name": "IconsInWorld",
-        "plugins": [
-            {
-                "Author": "meowpurrpur",
-                "Name": "Icons In World",
-                "InternalName": "IconsInWorld",
-                "AssemblyVersion": "1.0.0.2",
-                "Description": "A simple plugin that displays icons directly in the game world instead of on the map. Made for fun, it's my first time making any mods for any game. I created it because I’m not great at reading maps and find it easier to navigate when icons appear where they actually are.",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/meowpurrpur/IconsInWorld/main/Data/Icon.png",
-                "RepoUrl": "https://github.com/meowpurrpur/IconsInWorld",
-                "LastUpdate": 1747504753
-            }
-        ]
-    },
-    {
         "repo_url": "https://github.com/MeowZWR/Brio/raw/main/repo.json",
         "repo_source_url": "https://github.com/MeowZWR/Brio",
         "repo_name": "Brio",
@@ -12404,12 +12366,12 @@
                 "Author": "Miu-B",
                 "Name": "PFBeacon",
                 "InternalName": "PFBeacon",
-                "AssemblyVersion": "0.2.1.1",
+                "AssemblyVersion": "0.2.1.2",
                 "Description": "Observes Party Finder listings, filters for qualifying MINE raid listings, and sends sanitized observations to the official PFBeacon service. Does not send PF descriptions, player names, recruiter names, worlds, or Discord routing data.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Miu-B/PFBeaconPlugin/main/src/PFBeacon/PFBeacon.png",
                 "RepoUrl": "https://github.com/Miu-B/PFBeaconPlugin",
-                "LastUpdate": 1782319819
+                "LastUpdate": 1783544280
             }
         ]
     },
@@ -12618,7 +12580,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1783496832
+                "LastUpdate": 1783541950
             }
         ]
     },
@@ -13482,7 +13444,7 @@
                 "Description": "",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NightmareXIV/Battlevest",
-                "LastUpdate": 1783416740
+                "LastUpdate": 1783534772
             },
             {
                 "Author": "NightmareXIV",
@@ -14308,12 +14270,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.10.0.0",
+                "AssemblyVersion": "1.11.0.0",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo-dist",
-                "LastUpdate": 1783458958
+                "LastUpdate": 1783544084
             }
         ]
     },
@@ -14346,7 +14308,7 @@
                 "Author": "pupwife",
                 "Name": "Dispeller",
                 "InternalName": "Dispeller",
-                "AssemblyVersion": "1.3",
+                "AssemblyVersion": "1.4",
                 "Description": "A cute plugin to help you manage your Glamour Dresser by identifying items that share the same visual models.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NNekoPlugins/Dispeller"
@@ -14847,7 +14809,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/157",
                 "RepoUrl": "https://github.com/OOFGamesss/ChocoboRacing",
-                "LastUpdate": 1783458637
+                "LastUpdate": 1783539450
             },
             {
                 "Author": "OOF Games, Asuna",
@@ -16104,7 +16066,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1783498155
+                "LastUpdate": 1783543747
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -16273,34 +16235,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/puppyGirlHehe/Shadowgaze",
                 "LastUpdate": 1779132477
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "pupwife",
-        "repo_url": "https://raw.githubusercontent.com/pupwife/DalamudPluginRepo/main/repo.json",
-        "repo_source_url": "https://github.com/pupwife/DalamudPluginRepo",
-        "repo_name": "DalamudPluginRepo",
-        "plugins": [
-            {
-                "Author": "pupwife",
-                "Name": "Dispeller",
-                "InternalName": "Dispeller",
-                "AssemblyVersion": "1.1",
-                "Description": "A cute plugin to help you manage your Glamour Dresser by identifying items that share the same visual models.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/pupwife/DalamudPluginRepo",
-                "LastUpdate": 1762374329
-            },
-            {
-                "Author": "pupwife",
-                "Name": "Limit Notifier",
-                "InternalName": "LimitNotifier",
-                "AssemblyVersion": "1.0.0.0",
-                "Description": "Displays toast notifications when the Limit Break bar reaches 1, 2, or 3 full bars.",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/pupwife/DalamudPluginRepo",
-                "LastUpdate": 1762374329
             }
         ]
     },
@@ -17169,7 +17103,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RenNagasaki/Echokraut/master/Echokraut.png",
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
-                "LastUpdate": 1783369078
+                "LastUpdate": 1783533805
             },
             {
                 "Author": "RenNagasaki",
@@ -18098,12 +18032,12 @@
                 "Author": "Whitedog",
                 "Name": "TCRankingViewer",
                 "InternalName": "TCRankingViewer",
-                "AssemblyVersion": "1.0.6.1",
+                "AssemblyVersion": "1.0.6.2",
                 "Description": "當隊友進入隊伍或開啟招募資訊時，自動從 ranking.init.engineer 與 samoyedqq.github.io/TCtomestone 抓取對應角色的零式/絕本排名資料，並顯示於聊天框與插件視窗。",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/assets/icon.png",
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1783518180
+                "LastUpdate": 1783534613
             }
         ]
     },
@@ -19178,7 +19112,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/152",
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_gaolbreak",
-                "LastUpdate": 1783484658
+                "LastUpdate": 1783543928
             },
             {
                 "Author": "sourpuh",
@@ -20293,11 +20227,11 @@
                 "Author": "Tihlyn",
                 "Name": "RedMoonCappuccino",
                 "InternalName": "RedMoonCappuccino",
-                "AssemblyVersion": "4.5.3.0",
+                "AssemblyVersion": "4.5.4.0",
                 "Description": "Connects to your FC's WebSocket server to display the lowest market tax rate and location, as well as upcoming and past FC events with event images.",
                 "IconUrl": "https://raw.githubusercontent.com/Tihlyn/RedMoon-Cappuccino/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Tihlyn/RedMoon-Cappuccino",
-                "LastUpdate": 1783502871
+                "LastUpdate": 1783547171
             }
         ]
     },
@@ -20589,23 +20523,6 @@
         ]
     },
     {
-        "repo_developer_name": "Uniffay",
-        "repo_url": "https://raw.githubusercontent.com/Uniffay/NoLalaForMe/main/repo.json",
-        "repo_source_url": "https://github.com/Uniffay/NoLalaForMe",
-        "repo_name": "NoLalaForMe",
-        "plugins": [
-            {
-                "Author": "Quent",
-                "Name": "NoLalaForMe",
-                "InternalName": "NoLalaForMe",
-                "AssemblyVersion": "2.0.3.11",
-                "Description": "Transforms all Lalafell characters and NPCs around you into your chosen race.\n/polala on = enable\n/polala off = disable",
-                "RepoUrl": "https://github.com/Uniffay/NoLalaForMe",
-                "LastUpdate": 1779320745
-            }
-        ]
-    },
-    {
         "repo_url": "https://playersync.io/download/plugin/repo.json",
         "repo_source_url": "https://github.com/universalconquistador/MareSynchronosClient",
         "repo_developer_name": "universalconquistador",
@@ -20891,12 +20808,12 @@
                 "Author": "Vali",
                 "Name": "SpotifyHonorific",
                 "InternalName": "SpotifyHonorific",
-                "AssemblyVersion": "1.14.0.0",
+                "AssemblyVersion": "1.15.0.0",
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Valiice/SpotifyHonorific/master/images/icon.png",
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1783145042
+                "LastUpdate": 1783549961
             }
         ]
     },
@@ -21821,12 +21738,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.8.7.0",
+                "AssemblyVersion": "0.9.0.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783363806
+                "LastUpdate": 1783545078
             },
             {
                 "Author": "XeldarAlz",
@@ -21895,12 +21812,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.8.7.0",
+                "AssemblyVersion": "0.9.0.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783363806
+                "LastUpdate": 1783545078
             }
         ]
     },
