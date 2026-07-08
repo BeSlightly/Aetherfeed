@@ -424,12 +424,12 @@
                 "Author": "Astraea, nihal_shadescale",
                 "Name": "AetherLove",
                 "InternalName": "AetherLovePlugin",
-                "AssemblyVersion": "1.4.3.0",
+                "AssemblyVersion": "1.5.0.0",
                 "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /al opens the phone.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/154",
                 "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-                "LastUpdate": 1783154715
+                "LastUpdate": 1783495649
             }
         ]
     },
@@ -3552,11 +3552,12 @@
                 "Author": "Meghann",
                 "Name": "Universal Market Board",
                 "InternalName": "UniversalisMarketBoard",
-                "AssemblyVersion": "0.1.8.0",
+                "AssemblyVersion": "0.1.9.0",
                 "Description": "Browse HQ and NQ market board listings, search any item, switch between world or data centre scopes, and sort prices from highest to lowest. Slash command: /umb",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/UniversalMarketBoard/main/assets/icon.png",
                 "RepoUrl": "https://github.com/CherryFairy78/UniversalMarketBoard",
-                "LastUpdate": 1783458126
+                "LastUpdate": 1783503448
             }
         ]
     },
@@ -4556,11 +4557,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.11.0.1",
+                "AssemblyVersion": "1.14.0.0",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1783075595
+                "LastUpdate": 1783505111
             },
             {
                 "Author": "Akari",
@@ -4621,11 +4622,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.11.0.1",
+                "AssemblyVersion": "1.14.0.0",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1783075595
+                "LastUpdate": 1783505111
             }
         ]
     },
@@ -5699,12 +5700,12 @@
                 "Author": "Minmoose, Asgard and Contributors",
                 "Name": "Brio",
                 "InternalName": "Brio",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.8.0.2",
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during G-Pose.\n\n- Advanced actor posing \n\t- While animating\n\t- Adjust actor positions without them resetting\n\t- Overlay and graphical posing modes\n- Creation of up to 239 G-Pose actors\n- Creation of custom lights\n- Supports integration with Penumbra, Glamourer & Customize+\n- Offline import and export of MCDF files onto G-Pose actors\n- Play XAT .xcp camera files\n- Play/Blend animations of G-Pose actors\n- Control Time/Weather in both the Overworld and G-Pose\n- Change the active festivals and apply up to 4 at once\n- Add/Remove Status Effects of G-Pose actors",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1783481858
+                "LastUpdate": 1783489993
             }
         ]
     },
@@ -5718,12 +5719,12 @@
                 "Author": "Minmoose, Asgard and Contributors",
                 "Name": "Brio",
                 "InternalName": "Brio",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.8.0.2",
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1783481858
+                "LastUpdate": 1783489993
             }
         ]
     },
@@ -9897,7 +9898,7 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.0",
+                "AssemblyVersion": "15.306.0.1",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
@@ -12592,12 +12593,12 @@
                 "Author": "MTVirux",
                 "Name": "Crystal Terror",
                 "InternalName": "CrystalTerror",
-                "AssemblyVersion": "1.7.0.4",
+                "AssemblyVersion": "1.7.0.6",
                 "Description": "A plugin to track crystal across your FFXIV account.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
-                "LastUpdate": 1783178116
+                "LastUpdate": 1783496821
             }
         ]
     },
@@ -12611,12 +12612,12 @@
                 "Author": "MTVirux",
                 "Name": "Damage Terror",
                 "InternalName": "DamageTerror",
-                "AssemblyVersion": "1.2.1.14",
+                "AssemblyVersion": "1.2.1.16",
                 "Description": "DM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1783283912
+                "LastUpdate": 1783496832
             }
         ]
     },
@@ -12630,12 +12631,12 @@
                 "Author": "MTVirux",
                 "Name": "Kaleidoscope",
                 "InternalName": "Kaleidoscope",
-                "AssemblyVersion": "1.1.1.8",
+                "AssemblyVersion": "1.1.1.10",
                 "Description": "Kaleidoscope is a Dalamud plugin for Final Fantasy XIV that provides an overlay for tracking game information across multiple characters.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/Kaleidoscope/main/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1783289557
+                "LastUpdate": 1783496841
             }
         ]
     },
@@ -15034,12 +15035,12 @@
                 "Author": "Minmoose, Asgard and Contributors",
                 "Name": "Brio",
                 "InternalName": "Brio",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.8.0.2",
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1783481858
+                "LastUpdate": 1783489993
             },
             {
                 "Author": "Risa and Contributors",
@@ -16097,12 +16098,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.66",
+                "AssemblyVersion": "6.0.0.67",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1783458618
+                "LastUpdate": 1783498155
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -16454,11 +16455,11 @@
                 "Author": "斯温",
                 "Name": "Is that a crit？",
                 "InternalName": "BaoleMaLe",
-                "AssemblyVersion": "0.4.1.0",
+                "AssemblyVersion": "0.4.1.2",
                 "Description": "统计伤害技能的直暴运气(FFLogs风格配色)，并升级为轻量战斗数据记录器：本队全员 DPS / aDPS / 近似 rDPS、技能时间轴、多目标统计、团辅BUFF追踪与风趣战斗点评，技能表带图标。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/qliczz/BaoleMaLe",
-                "LastUpdate": 1783452368
+                "LastUpdate": 1783503913
             },
             {
                 "Author": "斯温",
@@ -19256,17 +19257,17 @@
                 "Author": "spark",
                 "Name": "FFXIVAura",
                 "InternalName": "FFXIVAura",
-                "AssemblyVersion": "0.1.0.19",
+                "AssemblyVersion": "0.1.0.22",
                 "Description": "Dalamud-native FFXIVAura style cooldown overlay for FFXIV KR.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/spar7453/FFXIVAura",
-                "LastUpdate": 1783339235
+                "LastUpdate": 1783507501
             },
             {
                 "Author": "electr0sheep, Nuko",
                 "Name": "ItemVendorLocationKR",
                 "InternalName": "ItemVendorLocationKR",
-                "AssemblyVersion": "2.14.0.2",
+                "AssemblyVersion": "2.14.0.3",
                 "Description": "아이템 컨텍스트 메뉴에 상점 판매 위치 확인 기능을 추가합니다.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/spar7453/ItemVendorLocationKR"
@@ -20281,11 +20282,11 @@
                 "Author": "Tihlyn",
                 "Name": "RedMoonCappuccino",
                 "InternalName": "RedMoonCappuccino",
-                "AssemblyVersion": "4.4.0.0",
+                "AssemblyVersion": "4.5.3.0",
                 "Description": "Connects to your FC's WebSocket server to display the lowest market tax rate and location, as well as upcoming and past FC events with event images.",
                 "IconUrl": "https://raw.githubusercontent.com/Tihlyn/RedMoon-Cappuccino/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Tihlyn/RedMoon-Cappuccino",
-                "LastUpdate": 1782550702
+                "LastUpdate": 1783502871
             }
         ]
     },
