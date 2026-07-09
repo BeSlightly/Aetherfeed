@@ -1551,12 +1551,12 @@
                 "Author": "Anomek",
                 "Name": "AnoMech",
                 "InternalName": "AnoMech",
-                "AssemblyVersion": "0.3.8.0",
+                "AssemblyVersion": "0.3.9.0",
                 "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.\n\nThis plugin is in beta and is unstable. You won't crash during your training sessions, but you will crash after it.\n\nIf you are doing any serious content: **RESTART YOUR GAME AFTER USING PLUGIN**. You **WILL CRASH** in the middle of pull.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
                 "RepoUrl": "https://github.com/anomek/AnoMech",
-                "LastUpdate": 1782929389
+                "LastUpdate": 1783560606
             },
             {
                 "Author": "Anomek",
@@ -1647,7 +1647,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anya-hichu/Quack/0.1.5.0/images/icon.png",
                 "RepoUrl": "https://github.com/anya-hichu/Quack",
-                "LastUpdate": 1783331711
+                "LastUpdate": 1783540152
             },
             {
                 "Author": "Anya Hichu",
@@ -3552,12 +3552,12 @@
                 "Author": "Meghann",
                 "Name": "Universal Market Board",
                 "InternalName": "UniversalisMarketBoard",
-                "AssemblyVersion": "0.1.10.0",
+                "AssemblyVersion": "0.1.12.0",
                 "Description": "Browse HQ and NQ market board listings, search any item, switch between world or data centre scopes, and sort prices from highest to lowest. Slash command: /umb",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/UniversalMarketBoard/main/assets/icon.png",
                 "RepoUrl": "https://github.com/CherryFairy78/UniversalMarketBoard",
-                "LastUpdate": 1783511624
+                "LastUpdate": 1783556444
             }
         ]
     },
@@ -4253,6 +4253,25 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/datamachine/ffxiv-todo",
                 "LastUpdate": 1781587888
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "DeadlyDeathAngel",
+        "repo_url": "https://raw.githubusercontent.com/DeadlyDeathAngel/Luminus-Bridge/main/repo.json",
+        "repo_source_url": "https://github.com/DeadlyDeathAngel/Luminus-Bridge",
+        "repo_name": "Luminus-Bridge",
+        "plugins": [
+            {
+                "Author": "DeadlyDeathAngel",
+                "Name": "Luminus Bridge",
+                "InternalName": "LuminusBridge",
+                "AssemblyVersion": "0.2.12.0",
+                "Description": "Exposes GPose, camera, world time/weather, territory, actors, appearance, equipment, skeleton posing, pose IPC, and game data over localhost HTTP. Auto-starts when signed in.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/DeadlyDeathAngel/Luminus-Bridge/main/images/icon.png",
+                "RepoUrl": "https://github.com/DeadlyDeathAngel/Luminus-Bridge",
+                "LastUpdate": 1783571504
             }
         ]
     },
@@ -5261,10 +5280,40 @@
     },
     {
         "repo_developer_name": "Enceladeum",
+        "repo_url": "https://raw.githubusercontent.com/Enceladeum/Begone/main/repo.json",
+        "repo_source_url": "https://github.com/Enceladeum/Begone",
+        "repo_name": "Begone",
+        "plugins": [
+            {
+                "Author": "The Enceladeum",
+                "Name": "Begone!",
+                "InternalName": "Begone",
+                "AssemblyVersion": "0.2.1.0",
+                "Description": "Hide NPCs with a single click",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Enceladeum/Begone/main/images/icon.png",
+                "RepoUrl": "https://github.com/Enceladeum/Begone",
+                "LastUpdate": 1783561518
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Enceladeum",
         "repo_url": "https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/Enceladeum/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
+            {
+                "Author": "The Enceladeum",
+                "Name": "Begone!",
+                "InternalName": "Begone",
+                "AssemblyVersion": "0.2.1.0",
+                "Description": "Hide NPCs with a single click",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Enceladeum/Begone/main/images/icon.png",
+                "RepoUrl": "https://github.com/Enceladeum/Begone",
+                "LastUpdate": 1783561657
+            },
             {
                 "Author": "The Enceladeum",
                 "Name": "Cosmic Claw",
@@ -5274,7 +5323,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HClawsweep/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HClawsweep",
-                "LastUpdate": 1783378295
+                "LastUpdate": 1783560030
             },
             {
                 "Author": "The Enceladeum",
@@ -5285,7 +5334,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMoniker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMoniker",
-                "LastUpdate": 1783378298
+                "LastUpdate": 1783560032
             },
             {
                 "Author": "The Enceladeum",
@@ -5296,7 +5345,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-                "LastUpdate": 1783378292
+                "LastUpdate": 1783560028
             }
         ]
     },
@@ -5682,12 +5731,12 @@
                 "Author": "Minmoose, Asgard and Contributors",
                 "Name": "Brio",
                 "InternalName": "Brio",
-                "AssemblyVersion": "0.8.0.2",
+                "AssemblyVersion": "0.8.0.5",
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during G-Pose.\n\n- Advanced actor posing \n\t- While animating\n\t- Adjust actor positions without them resetting\n\t- Overlay and graphical posing modes\n- Creation of up to 239 G-Pose actors\n- Creation of custom lights\n- Supports integration with Penumbra, Glamourer & Customize+\n- Offline import and export of MCDF files onto G-Pose actors\n- Play XAT .xcp camera files\n- Play/Blend animations of G-Pose actors\n- Control Time/Weather in both the Overworld and G-Pose\n- Change the active festivals and apply up to 4 at once\n- Add/Remove Status Effects of G-Pose actors",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1783489993
+                "LastUpdate": 1783572605
             }
         ]
     },
@@ -5701,12 +5750,12 @@
                 "Author": "Minmoose, Asgard and Contributors",
                 "Name": "Brio",
                 "InternalName": "Brio",
-                "AssemblyVersion": "0.8.0.2",
+                "AssemblyVersion": "0.8.0.5",
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1783489993
+                "LastUpdate": 1783572605
             }
         ]
     },
@@ -6084,12 +6133,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.24",
+                "AssemblyVersion": "7.5.1.25",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1783545402
+                "LastUpdate": 1783558208
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6629,12 +6678,12 @@
                 "Author": "gerulla",
                 "Name": "FullParty",
                 "InternalName": "FullParty",
-                "AssemblyVersion": "0.0.24.0",
+                "AssemblyVersion": "0.0.25.0",
                 "Description": "Dalamud Plugin Companion for FullParty.gg",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
-                "LastUpdate": 1783548762
+                "LastUpdate": 1783552841
             }
         ]
     },
@@ -9100,12 +9149,12 @@
                 "Author": "Tomok",
                 "Name": "Penumbra Preview Manager",
                 "InternalName": "PenumbraPreviewManager",
-                "AssemblyVersion": "1.2.1.0",
+                "AssemblyVersion": "1.2.1.1",
                 "Description": "A helper tool to easily attach local, XIVModArchive, or direct URL preview/cover images to your Penumbra mods. Also supports local tags to easily filter mods that have preview/cover images inside Penumbra.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/PenumbraPreviewManager/icon.png",
                 "RepoUrl": "https://github.com/KaraRemy/PenumbraPreviewManager",
-                "LastUpdate": 1782683168
+                "LastUpdate": 1783560422
             },
             {
                 "Author": "Tomok",
@@ -9863,7 +9912,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1783354863
+                "LastUpdate": 1783530792
             },
             {
                 "Author": "sourpuh",
@@ -9891,12 +9940,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.11",
+                "AssemblyVersion": "7.5.1.12",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1783430677
+                "LastUpdate": 1783545424
             },
             {
                 "Author": "Team Wrath",
@@ -10717,12 +10766,12 @@
                 "Author": "Lightless Team",
                 "Name": "Lightless Sync",
                 "InternalName": "LightlessSync",
-                "AssemblyVersion": "3.1.4.0",
+                "AssemblyVersion": "3.1.4.1",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessSync/raw/branch/main/LightlessSync/icon.png",
                 "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
-                "LastUpdate": 1783531738
+                "LastUpdate": 1783561350
             }
         ]
     },
@@ -10808,11 +10857,11 @@
                 "Author": "Lillypad",
                 "Name": "Lillypad Toolkit",
                 "InternalName": "VideoSyncPrototype",
-                "AssemblyVersion": "7.0.8.0",
+                "AssemblyVersion": "7.0.10.0",
                 "Description": "Create and join Watch2Gether rooms from inside FFXIV, then watch them on a styled in-world TV. Use /videosync to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Lillypad-14/Lillyvid",
-                "LastUpdate": 1783544995
+                "LastUpdate": 1783562406
             }
         ]
     },
@@ -12063,6 +12112,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/meowickz/emotes/master/assets/icon.png",
                 "RepoUrl": "https://github.com/meowickz/emotes",
                 "LastUpdate": 1780395272
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "meowpurrpur",
+        "repo_url": "https://raw.githubusercontent.com/meowpurrpur/IconsInWorld/main/repo.json",
+        "repo_source_url": "https://github.com/meowpurrpur/IconsInWorld",
+        "repo_name": "IconsInWorld",
+        "plugins": [
+            {
+                "Author": "meowpurrpur",
+                "Name": "Icons In World",
+                "InternalName": "IconsInWorld",
+                "AssemblyVersion": "1.0.0.2",
+                "Description": "A simple plugin that displays icons directly in the game world instead of on the map. Made for fun, it's my first time making any mods for any game. I created it because I’m not great at reading maps and find it easier to navigate when icons appear where they actually are.",
+                "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/meowpurrpur/IconsInWorld/main/Data/Icon.png",
+                "RepoUrl": "https://github.com/meowpurrpur/IconsInWorld",
+                "LastUpdate": 1747504753
             }
         ]
     },
@@ -14270,12 +14338,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.11.0.0",
+                "AssemblyVersion": "1.14.0.0",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo-dist",
-                "LastUpdate": 1783544084
+                "LastUpdate": 1783569306
             }
         ]
     },
@@ -14715,6 +14783,111 @@
     },
     {
         "repo_developer_name": "OLDBAI213",
+        "repo_url": "https://raw.githubusercontent.com/OLDBAI213/ff14-dalamud-plugin-zh/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/OLDBAI213/ff14-dalamud-plugin-zh",
+        "repo_name": "ff14-dalamud-plugin-zh",
+        "plugins": [
+            {
+                "Author": "Taurenkey (Puni.sh)",
+                "Name": "Artisan",
+                "InternalName": "Artisan",
+                "AssemblyVersion": "4.0.5.16",
+                "Description": "一体化制作插件，用于配方队列、求解器、批量制作和重复制作等制作流程辅助。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+                "RepoUrl": "https://github.com/PunishXIV/Artisan",
+                "LastUpdate": 1783074148
+            },
+            {
+                "Author": "Det",
+                "Name": "AutoHook",
+                "InternalName": "AutoHook",
+                "AssemblyVersion": "6.0.0.67",
+                "Description": "钓鱼辅助插件，可按规则自动提钩并管理钓鱼相关配置。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
+                "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+                "LastUpdate": 1783543747
+            },
+            {
+                "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
+                "Name": "Bossmod Reborn",
+                "InternalName": "BossModReborn",
+                "AssemblyVersion": "7.5.1.23",
+                "Description": "后期软件兼容版",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
+                "LastUpdate": 1783558208
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "GatherBuddy Reborn（采集助手）",
+                "InternalName": "GatherBuddyReborn",
+                "AssemblyVersion": "7.5.0.3",
+                "Description": "按物品名查找采集点、鱼类和位置，追踪限时采集/天气条件，并可按指定列表自动采集。自动采集需要 vnavmesh。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
+                "LastUpdate": 1781586755
+            },
+            {
+                "Author": "Ice",
+                "Name": "Ice's Cosmic Exploration（宇宙探索助手）",
+                "InternalName": "ICE",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "用于宇宙探索内容的采集与任务辅助工具。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/70",
+                "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
+                "LastUpdate": 1783431793
+            },
+            {
+                "Author": "grittyfrog",
+                "Name": "Macro Mate（宏管理）",
+                "InternalName": "MacroMate",
+                "AssemblyVersion": "1.0.27.4",
+                "Description": "Macro Mate 可以保存并运行不限数量的宏，也可以把宏绑定到普通宏栏位。\n\n例如，你可以：\n\n- 进入副本时自动切换正确的副本宏\n- 保存更长的宏，并自动拆分到多个宏栏位\n- 为宏使用游戏中几乎任意图标",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/grittyfrog/MacroMate",
+                "LastUpdate": 1781424636
+            },
+            {
+                "Author": "Aida Enna",
+                "Name": "Teamcraft 列表工具",
+                "InternalName": "TeamcraftListMaker",
+                "AssemblyVersion": "1.0.1.2",
+                "Description": "不用再切出去，也不用手写物品名；直接加入列表并导出即可。\n\n此插件并非 Teamcraft 官方制作，Teamcraft 团队不对其负责。如需报告问题或请求新功能，请点击地球图标并在 issues 页提交。\n\n（Logo 已获 Teamcraft 所有者授权使用）",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Aida-Enna/TeamcraftListMaker",
+                "LastUpdate": 1781761217
+            },
+            {
+                "Author": "HappySprite",
+                "Name": "无人岛工坊优化器",
+                "InternalName": "WorkshopOptimizerPlugin",
+                "AssemblyVersion": "0.3.2.0",
+                "Description": "进入无人岛后使用 /wso 打开，用于优化无人岛工坊排程。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/belzaru17/WorkshopOptimizerPlugin/main/Images/icon.png",
+                "RepoUrl": "https://github.com/belzaru17/WorkshopOptimizerPlugin",
+                "LastUpdate": 1777672852
+            },
+            {
+                "Author": "Team Wrath",
+                "Name": "Wrath Combo",
+                "InternalName": "WrathCombo",
+                "AssemblyVersion": "1.0.4.13",
+                "Description": "把连击、互斥技能和部分循环逻辑整合到更少的按键中，减少重复按键操作。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png",
+                "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
+                "LastUpdate": 1783407467
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "OLDBAI213",
         "repo_url": "https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json",
         "repo_source_url": "https://github.com/OLDBAI213/OLDBAI",
         "repo_name": "OLDBAI",
@@ -14998,12 +15171,12 @@
                 "Author": "Minmoose, Asgard and Contributors",
                 "Name": "Brio",
                 "InternalName": "Brio",
-                "AssemblyVersion": "0.8.0.2",
+                "AssemblyVersion": "0.8.0.5",
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1783489993
+                "LastUpdate": 1783572605
             },
             {
                 "Author": "Risa and Contributors",
@@ -15080,7 +15253,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1783462502
+                "LastUpdate": 1783556611
             },
             {
                 "Author": "Caraxi",
@@ -16072,7 +16245,7 @@
                 "Author": "kawaii, NightmareXIV",
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.1.7",
+                "AssemblyVersion": "4.6.1.8",
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
@@ -16235,6 +16408,34 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/puppyGirlHehe/Shadowgaze",
                 "LastUpdate": 1779132477
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "pupwife",
+        "repo_url": "https://raw.githubusercontent.com/pupwife/DalamudPluginRepo/main/repo.json",
+        "repo_source_url": "https://github.com/pupwife/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "pupwife",
+                "Name": "Dispeller",
+                "InternalName": "Dispeller",
+                "AssemblyVersion": "1.1",
+                "Description": "A cute plugin to help you manage your Glamour Dresser by identifying items that share the same visual models.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/pupwife/Dispeller",
+                "LastUpdate": 1762374329
+            },
+            {
+                "Author": "pupwife",
+                "Name": "Limit Notifier",
+                "InternalName": "LimitNotifier",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Displays toast notifications when the Limit Break bar reaches 1, 2, or 3 full bars.",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/pupwife/DalamudPluginRepo",
+                "LastUpdate": 1762374329
             }
         ]
     },
@@ -20519,6 +20720,23 @@
                 "IconUrl": "https://raw.githubusercontent.com/UnbirthdayHatter/SocialMorpho/main/Resources/quest_icon.png",
                 "RepoUrl": "https://github.com/UnbirthdayHatter/SocialMorpho",
                 "LastUpdate": 1771125851
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Uniffay",
+        "repo_url": "https://raw.githubusercontent.com/Uniffay/NoLalaForMe/main/repo.json",
+        "repo_source_url": "https://github.com/Uniffay/NoLalaForMe",
+        "repo_name": "NoLalaForMe",
+        "plugins": [
+            {
+                "Author": "Quent",
+                "Name": "NoLalaForMe",
+                "InternalName": "NoLalaForMe",
+                "AssemblyVersion": "2.0.3.11",
+                "Description": "Transforms all Lalafell characters and NPCs around you into your chosen race.\n/polala on = enable\n/polala off = disable",
+                "RepoUrl": "https://github.com/Uniffay/NoLalaForMe",
+                "LastUpdate": 1779320745
             }
         ]
     },
