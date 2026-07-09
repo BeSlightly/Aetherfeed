@@ -2915,6 +2915,25 @@
     },
     {
         "repo_developer_name": "BluntEXE",
+        "repo_url": "https://raw.githubusercontent.com/BluntEXE/PenumbraSort/master/repo.json",
+        "repo_source_url": "https://github.com/BluntEXE/PenumbraSort",
+        "repo_name": "PenumbraSort",
+        "plugins": [
+            {
+                "Author": "Ehno",
+                "Name": "PenumbraSort",
+                "InternalName": "PenumbraSort",
+                "AssemblyVersion": "0.1.0",
+                "Description": "Best for a loose, unsorted mod list - takes it from chaos to a reasonable folder structure in one pass. If you've already built your own folder scheme, this probably isn't for you: auto-categorization is based on equipment/customization data and won't reproduce a hand-tuned taxonomy, and animation/skeleton/UI/tool mods can't be auto-sorted at all (Penumbra doesn't expose that data). Always review before applying. Note: Penumbra's API doesn't support deleting folders, so folders left empty after a sort must be removed manually in Penumbra's own mod list.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/BluntEXE/PenumbraSort/master/images/icon.png",
+                "RepoUrl": "https://github.com/BluntEXE/PenumbraSort",
+                "LastUpdate": 1783591383
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "BluntEXE",
         "repo_url": "https://raw.githubusercontent.com/BluntEXE/StarfallStudio/main/repo.json",
         "repo_source_url": "https://github.com/BluntEXE/StarfallStudio",
         "repo_name": "StarfallStudio",
@@ -3533,12 +3552,12 @@
                 "Author": "Meghann",
                 "Name": "Recipe Helper",
                 "InternalName": "DalamudRecipeHelper",
-                "AssemblyVersion": "1.1.32.0",
+                "AssemblyVersion": "1.1.33.0",
                 "Description": "Build a combined plan from multiple FFXIV recipes, compare NQ and HQ requirements with live inventory and saved retainer snapshots, track timed gathering materials, and hand crafting or travel actions to Artisan, Teamcraft, and GatherBuddy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/Recipe-Helper/main/RecipeHelperIcon1.png",
                 "RepoUrl": "https://github.com/CherryFairy78/Recipe-Helper",
-                "LastUpdate": 1783548736
+                "LastUpdate": 1783595386
             }
         ]
     },
@@ -5876,12 +5895,12 @@
                 "Author": "mirage",
                 "Name": "Enhanced Quick Panel",
                 "InternalName": "EnhancedQuickPanel",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.2.0",
                 "Description": "A customizable quick panel overlay for actions, items, macros, and text commands, with multiple pages and style presets.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/EnhancedQuickPanel.png",
                 "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-                "LastUpdate": 1783427138
+                "LastUpdate": 1783590828
             },
             {
                 "Author": "mirage",
@@ -7098,11 +7117,11 @@
                 "Author": "greenteakitkats",
                 "Name": "A Room Reborn",
                 "InternalName": "ARoomReborn",
-                "AssemblyVersion": "0.13.3.0",
+                "AssemblyVersion": "0.14.0.0",
                 "Description": "A running log of everything you do while decorating your house, indoors and out in the yard: placing, removing, moving, rotating, and dyeing furniture, all with coordinates. Forgot what you just changed, or moved something and want it back? Click the old coordinates to copy them, hit Undo on any move, or turn on Apply mode to snap the selected item right back into place. It'll also show you what changed since you were last home. Built to sit alongside Burning Down the House. Type /houselog to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/greenteakitkats/ARoomReborn",
-                "LastUpdate": 1783418530
+                "LastUpdate": 1783596158
             }
         ]
     },
@@ -8836,7 +8855,7 @@
                 "Author": "Just-Chaldea",
                 "Name": "CarbunclePartner",
                 "InternalName": "CarbunclePartner",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.0.1",
                 "Description": "Companion to the carbuncleplushy FFXIV Fish Tracker: tracks which fish you've caught, with website-matching filters and one-click export.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/icon.png",
@@ -13414,7 +13433,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1783389119
+                "LastUpdate": 1783473783
             },
             {
                 "Author": "goat, Maple",
@@ -13424,7 +13443,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1783395717
+                "LastUpdate": 1783595532
             }
         ]
     },
@@ -14802,12 +14821,12 @@
                 "Author": "Det",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.67",
+                "AssemblyVersion": "6.0.0.68",
                 "Description": "钓鱼辅助插件，可按规则自动提钩并管理钓鱼相关配置。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1783543747
+                "LastUpdate": 1783581402
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
@@ -14854,7 +14873,7 @@
             },
             {
                 "Author": "Aida Enna",
-                "Name": "Teamcraft 列表工具",
+                "Name": "Teamcraft 清单工具",
                 "InternalName": "TeamcraftListMaker",
                 "AssemblyVersion": "1.0.1.2",
                 "Description": "不用再切出去，也不用手写物品名；直接加入列表并导出即可。\n\n此插件并非 Teamcraft 官方制作，Teamcraft 团队不对其负责。如需报告问题或请求新功能，请点击地球图标并在 issues 页提交。\n\n（Logo 已获 Teamcraft 所有者授权使用）",
@@ -16234,18 +16253,18 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.67",
+                "AssemblyVersion": "6.0.0.68",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1783543747
+                "LastUpdate": 1783581402
             },
             {
                 "Author": "kawaii, NightmareXIV",
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.1.8",
+                "AssemblyVersion": "4.6.1.10",
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
@@ -16326,7 +16345,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783483034
+                "LastUpdate": 1783585367
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16348,7 +16367,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1783450019
+                "LastUpdate": 1783585030
             },
             {
                 "Author": "Team Wrath",
@@ -18233,12 +18252,12 @@
                 "Author": "Whitedog",
                 "Name": "TCRankingViewer",
                 "InternalName": "TCRankingViewer",
-                "AssemblyVersion": "1.0.6.2",
+                "AssemblyVersion": "1.0.6.3",
                 "Description": "當隊友進入隊伍或開啟招募資訊時，自動從 ranking.init.engineer 與 samoyedqq.github.io/TCtomestone 抓取對應角色的零式/絕本排名資料，並顯示於聊天框與插件視窗。",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/assets/icon.png",
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1783534613
+                "LastUpdate": 1783587749
             }
         ]
     },
@@ -20428,11 +20447,11 @@
                 "Author": "Tihlyn",
                 "Name": "RedMoonCappuccino",
                 "InternalName": "RedMoonCappuccino",
-                "AssemblyVersion": "4.5.4.0",
+                "AssemblyVersion": "4.5.4.1",
                 "Description": "Connects to your FC's WebSocket server to display the lowest market tax rate and location, as well as upcoming and past FC events with event images.",
                 "IconUrl": "https://raw.githubusercontent.com/Tihlyn/RedMoon-Cappuccino/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Tihlyn/RedMoon-Cappuccino",
-                "LastUpdate": 1783547171
+                "LastUpdate": 1783579991
             }
         ]
     },
