@@ -2791,6 +2791,24 @@
     },
     {
         "repo_developer_name": "bimilbimil",
+        "repo_url": "https://raw.githubusercontent.com/bimilbimil/SetPose/main/repo.json",
+        "repo_source_url": "https://github.com/bimilbimil/SetPose",
+        "repo_name": "SetPose",
+        "plugins": [
+            {
+                "Author": "Asphodel",
+                "Name": "SetPose",
+                "InternalName": "SetPose",
+                "AssemblyVersion": "1.0.0.1",
+                "Description": "Jump directly to any idle pose with /spose <number> instead of cycling through them one by one.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bimilbimil/SetPose",
+                "LastUpdate": 1783609066
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "bimilbimil",
         "repo_url": "https://raw.githubusercontent.com/bimilbimil/XIVClearSS/main/repo.json",
         "repo_source_url": "https://github.com/bimilbimil/XIVClearSS",
         "repo_name": "XIVClearSS",
@@ -3309,12 +3327,12 @@
                 "Author": "Carpe Nukem",
                 "Name": "The Grid Cyberdeck",
                 "InternalName": "GridNrootUpdate",
-                "AssemblyVersion": "0.7.1.0",
+                "AssemblyVersion": "0.7.2.0",
                 "Description": "Downloads the latest configured venue mod release, enables it in TheGrid, and assigns the collection to Chromiel.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CarpeNukem/grid_nroot_update/main/grid.png",
                 "RepoUrl": "https://github.com/CarpeNukem/grid_nroot_update",
-                "LastUpdate": 1782552745
+                "LastUpdate": 1783613732
             }
         ]
     },
@@ -4517,12 +4535,12 @@
                 "Author": "Oreo",
                 "Name": "Silkstring",
                 "InternalName": "Silkstring",
-                "AssemblyVersion": "1.5.0.0",
+                "AssemblyVersion": "1.6.1.0",
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/devoreofox/Silkstring/main/Silkstring/images/icon.png",
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782972993
+                "LastUpdate": 1783614992
             }
         ]
     },
@@ -4555,12 +4573,12 @@
                 "Author": "Oreo",
                 "Name": "Silkstring",
                 "InternalName": "Silkstring",
-                "AssemblyVersion": "1.5.0.0",
+                "AssemblyVersion": "1.6.1.0",
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/devoreofox/Silkstring/main/Silkstring/images/icon.png",
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1782972993
+                "LastUpdate": 1783614992
             }
         ]
     },
@@ -5553,7 +5571,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783293625
+                "LastUpdate": 1783605215
             },
             {
                 "Author": "erdelf",
@@ -6157,7 +6175,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1783558208
+                "LastUpdate": 1783612130
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6223,7 +6241,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1783545424
+                "LastUpdate": 1783610243
             },
             {
                 "Author": "Churin",
@@ -7117,11 +7135,11 @@
                 "Author": "greenteakitkats",
                 "Name": "A Room Reborn",
                 "InternalName": "ARoomReborn",
-                "AssemblyVersion": "0.14.0.0",
+                "AssemblyVersion": "0.14.1.0",
                 "Description": "A running log of everything you do while decorating your house, indoors and out in the yard: placing, removing, moving, rotating, and dyeing furniture, all with coordinates. Forgot what you just changed, or moved something and want it back? Click the old coordinates to copy them, hit Undo on any move, or turn on Apply mode to snap the selected item right back into place. It'll also show you what changed since you were last home. Built to sit alongside Burning Down the House. Type /houselog to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/greenteakitkats/ARoomReborn",
-                "LastUpdate": 1783596158
+                "LastUpdate": 1783600246
             }
         ]
     },
@@ -7171,11 +7189,11 @@
                 "Author": "Ice, guanyintu(国服维护&中文适配), Codex(协助维护)",
                 "Name": "Ice's Cosmic Exploration (ICE) CN",
                 "InternalName": "ICE",
-                "AssemblyVersion": "0.0.78.7000",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "国服维护版宇宙探索插件，支持采集、制作、钓鱼与任务自动化。",
                 "IconUrl": "https://raw.githubusercontent.com/QiongHHHZZZ/DalamudPlugins/main/icons/ice.png",
                 "RepoUrl": "https://github.com/guanyintu/Ices-Cosmic-Exploration-CN",
-                "LastUpdate": 1780831508
+                "LastUpdate": 1783609400
             }
         ]
     },
@@ -7331,11 +7349,11 @@
                 "Author": "Haselnussbomber",
                 "Name": "HaselDebug",
                 "InternalName": "HaselDebug",
-                "AssemblyVersion": "1.61.1.0",
+                "AssemblyVersion": "1.62.1.0",
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1783518793
+                "LastUpdate": 1783614841
             },
             {
                 "Author": "Haselnussbomber",
@@ -8284,7 +8302,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.37",
+                "AssemblyVersion": "15.38",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -8984,6 +9002,25 @@
         ]
     },
     {
+        "repo_developer_name": "Kagekazu",
+        "repo_url": "https://raw.githubusercontent.com/Kagekazu/QuickTransfer/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Kagekazu/QuickTransfer",
+        "repo_name": "QuickTransfer",
+        "plugins": [
+            {
+                "Author": "flick, Kagekazu",
+                "Name": "QuickTransfer",
+                "InternalName": "QuickTransfer",
+                "AssemblyVersion": "1.1.0.0",
+                "Description": "Automate inventory transfers with Shift/Ctrl/Alt + Right-Click. Trade window, vendor quick sell, FC chest.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Kagekazu/QuickTransfer/main/images/icon.png",
+                "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
+                "LastUpdate": 1783358638
+            }
+        ]
+    },
+    {
         "repo_developer_name": "kako5555",
         "repo_url": "https://raw.githubusercontent.com/kako5555/5555-plugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/kako5555/5555-plugins",
@@ -8999,6 +9036,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/kako5555/5555-plugins/main/plugins/RetainerPriceDrop/icon.png",
                 "RepoUrl": "https://github.com/kako5555/5555-plugins",
                 "LastUpdate": 1777933256
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kako5555",
+        "repo_url": "https://raw.githubusercontent.com/kako5555/Dalamud.FullscreenCutscenes/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/kako5555/Dalamud.FullscreenCutscenes",
+        "repo_name": "Dalamud.FullscreenCutscenes",
+        "plugins": [
+            {
+                "Author": "goat, Maple, Kako5555",
+                "Name": "Ultrawide Cutscenes Reborn",
+                "InternalName": "UltrawideCutscenesReborn",
+                "AssemblyVersion": "1.1.0.0",
+                "Description": "Community-maintained (reborn) build of Ultrawide Cutscenes. Removes the letterboxing bars during cutscenes so they fill your whole (ultrawide) screen instead of being cropped to 16:9. Beware: with the bars gone you may see things outside the intended frame, such as NPCs popping in or T-posing. Originally by Maple; now maintained and kept up to date by Kako5555.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/kako5555/Dalamud.FullscreenCutscenes/main/Dalamud.FullscreenCutscenes/images/icon.png",
+                "RepoUrl": "https://github.com/kako5555/Dalamud.FullscreenCutscenes",
+                "LastUpdate": 1783617858
             }
         ]
     },
@@ -9909,7 +9965,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783293625
+                "LastUpdate": 1783605215
             },
             {
                 "Author": "croizat",
@@ -9953,18 +10009,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783483034
+                "LastUpdate": 1783585367
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.12",
+                "AssemblyVersion": "7.5.1.13",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1783545424
+                "LastUpdate": 1783610243
             },
             {
                 "Author": "Team Wrath",
@@ -10603,7 +10659,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1783431793
+                "LastUpdate": 1783602367
             }
         ]
     },
@@ -12902,12 +12958,12 @@
                 "Author": "nainaiowo",
                 "Name": "DMU Helper",
                 "InternalName": "DMUP4DebuffHelper",
-                "AssemblyVersion": "0.1.0.5",
+                "AssemblyVersion": "0.1.0.6",
                 "Description": "Shows compact DMU P4 debuff timers with real/fake callouts.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/162",
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-p4-debuff-helper",
-                "LastUpdate": 1783181164
+                "LastUpdate": 1783608712
             }
         ]
     },
@@ -13761,7 +13817,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1783515477,
+                "LastUpdate": 1783601856,
                 "is_closed_source": true
             },
             {
@@ -13773,19 +13829,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1783515477,
+                "LastUpdate": 1783601856,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.23",
+                "AssemblyVersion": "7.5.1.25",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1783515477,
+                "LastUpdate": 1783601856,
                 "is_closed_source": true
             },
             {
@@ -14395,7 +14451,7 @@
                 "Author": "pupwife",
                 "Name": "Dispeller",
                 "InternalName": "Dispeller",
-                "AssemblyVersion": "1.4",
+                "AssemblyVersion": "1.5",
                 "Description": "A cute plugin to help you manage your Glamour Dresser by identifying items that share the same visual models.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NNekoPlugins/Dispeller"
@@ -14544,12 +14600,12 @@
                 "Author": "DarkmodeLeyla",
                 "Name": "TimelineAnimator",
                 "InternalName": "TimelineAnimator",
-                "AssemblyVersion": "1.1.6.0",
+                "AssemblyVersion": "1.1.7.0",
                 "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/Icon.png",
                 "RepoUrl": "https://github.com/NoHideout/TimelineAnimator",
-                "LastUpdate": 1783513890
+                "LastUpdate": 1783597706
             }
         ]
     },
@@ -14837,7 +14893,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1783558208
+                "LastUpdate": 1783612130
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -14859,7 +14915,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1783431793
+                "LastUpdate": 1783602367
             },
             {
                 "Author": "grittyfrog",
@@ -15007,7 +15063,7 @@
                 "Author": "OOF Games, Asuna",
                 "Name": "Gamba Where",
                 "InternalName": "GambaWhere",
-                "AssemblyVersion": "1.0.2.0",
+                "AssemblyVersion": "1.0.2.1",
                 "Description": "Browse live gambling events across Eorzea, filter by game or data centre, and teleport straight there with Lifestream. Host your own session with game-specific rules, presets, and host profiles with automatic location updates, Discord webhooks, minimap host icons, and Party Finder shortcuts. Find or advertise for venues and hosts on the Recruitment board, and set custom alerts to be notified when a new event matches your preferences.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/158",
@@ -15596,6 +15652,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/perappu/WhoSaidWhatNow/master/WhoSaidWhatNow/images/icon.png",
                 "RepoUrl": "https://github.com/perappu/WhoSaidWhatNow",
                 "LastUpdate": 1770449838
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Peterseer",
+        "repo_url": "https://raw.githubusercontent.com/Peterseer/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Peterseer/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Peterseer",
+                "Name": "AI Companion",
+                "InternalName": "AICompanion",
+                "AssemblyVersion": "0.1.0.3",
+                "Description": "连接 OpenAI 兼容 API，根据聊天与情感动作自动思考并回复（公开/喊话/私聊/部队/通讯贝等），支持交易、组队等社交自动化。命令: /aic",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Peterseer/DalamudPlugins/main/AICompanion/icon.png",
+                "RepoUrl": "https://github.com/Peterseer/DalamudSamplePlugin"
             }
         ]
     },
@@ -17758,12 +17832,12 @@
                 "Author": "Rowsai",
                 "Name": "HappyTrigger",
                 "InternalName": "HappyTrigger",
-                "AssemblyVersion": "0.0.1.2",
+                "AssemblyVersion": "0.0.1.3",
                 "Description": "Display images or text when chat log keywords appear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/refs/heads/main/image/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
-                "LastUpdate": 1783528114
+                "LastUpdate": 1783614423
             }
         ]
     },
@@ -17787,11 +17861,11 @@
                 "Author": "Rowsai",
                 "Name": "HappyTrigger",
                 "InternalName": "HappyTrigger",
-                "AssemblyVersion": "0.0.1.2",
+                "AssemblyVersion": "0.0.1.3",
                 "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
-                "LastUpdate": 1783528114
+                "LastUpdate": 1783614423
             },
             {
                 "Author": "Rowsai",
@@ -18597,6 +18671,25 @@
         ]
     },
     {
+        "repo_developer_name": "selken-ixx",
+        "repo_url": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/selken-ixx/SelkenDalamud",
+        "repo_name": "SelkenDalamud",
+        "plugins": [
+            {
+                "Author": "Selken",
+                "Name": "Armoire Butler",
+                "InternalName": "ArmoireButlerPlugin",
+                "AssemblyVersion": "0.1.2.0",
+                "Description": "Analyzes local wardrobe, armoire, glamour dresser, retainer cache, dyes, duplicates, glamour sets, and store outfit ownership. Command: /yggj",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/assets/ArmoireButler/icon.png",
+                "RepoUrl": "https://github.com/selken-ixx/SelkenDalamud",
+                "LastUpdate": 1783618396
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/serifine/XIV-Chat-Tools/raw/refs/heads/main/repo.json",
         "repo_source_url": "https://github.com/serifine/XIV-Chat-Tools",
         "repo_developer_name": "serifine",
@@ -19332,7 +19425,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/152",
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_gaolbreak",
-                "LastUpdate": 1783543928
+                "LastUpdate": 1783614555
             },
             {
                 "Author": "sourpuh",
@@ -20447,11 +20540,11 @@
                 "Author": "Tihlyn",
                 "Name": "RedMoonCappuccino",
                 "InternalName": "RedMoonCappuccino",
-                "AssemblyVersion": "4.5.4.1",
+                "AssemblyVersion": "4.5.5.0",
                 "Description": "Connects to your FC's WebSocket server to display the lowest market tax rate and location, as well as upcoming and past FC events with event images.",
                 "IconUrl": "https://raw.githubusercontent.com/Tihlyn/RedMoon-Cappuccino/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Tihlyn/RedMoon-Cappuccino",
-                "LastUpdate": 1783579991
+                "LastUpdate": 1783601787
             }
         ]
     },
@@ -21045,12 +21138,12 @@
                 "Author": "Vali",
                 "Name": "SpotifyHonorific",
                 "InternalName": "SpotifyHonorific",
-                "AssemblyVersion": "1.15.0.0",
+                "AssemblyVersion": "1.16.0.0",
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Valiice/SpotifyHonorific/master/images/icon.png",
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1783549961
+                "LastUpdate": 1783618882
             }
         ]
     },
@@ -22563,6 +22656,36 @@
                 "IconUrl": "https://raw.githubusercontent.com/Yodhrin13/PartyFinderRefresh/main/images/icon.png",
                 "RepoUrl": "https://github.com/Yodhrin13/PartyFinderRefresher",
                 "LastUpdate": 1776224249
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "youdianfengbao",
+        "repo_url": "https://raw.githubusercontent.com/youdianfengbao/DalamudPlugins/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/youdianfengbao/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "youdianfengbao (基于 PunishXIV/AutoRetainer)",
+                "Name": "AutoRetainer (国服汉化)",
+                "InternalName": "AutoRetainer",
+                "AssemblyVersion": "4.6.1.5",
+                "Description": "自动收取雇员探险成果并重新派遣，支持多角色轮换、潜水艇/飞空艇管理、物品清理等。国服中文汉化版。\n汉化来源：Ookura-Risona/AutoRetainer",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+                "RepoUrl": "https://github.com/youdianfengbao/AutoRetainer",
+                "LastUpdate": 1783613652
+            },
+            {
+                "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
+                "Name": "Questionable (国服汉化)",
+                "InternalName": "Questionable",
+                "AssemblyVersion": "15.306.0.1",
+                "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
+                "RepoUrl": "https://github.com/youdianfengbao/Questionable",
+                "LastUpdate": 1783614552
             }
         ]
     },
