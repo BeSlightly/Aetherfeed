@@ -2569,17 +2569,17 @@
                 "Description": "Watches Cross-world Linkshell (CWLS1/CWLS2) chat for messages containing a map link and appends a clickable [Go To] link. Clicking it teleports you to the nearest aetheryte via the Teleporter plugin, hopping to the correct world/data center first via the Lifestream plugin if the message points to a different server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783271025
+                "LastUpdate": 1783619177
             },
             {
                 "Author": "bdg",
                 "Name": "Desynth All Command",
                 "InternalName": "DesynthAllCommand",
-                "AssemblyVersion": "0.0.0.5",
+                "AssemblyVersion": "0.0.0.6",
                 "Description": "Adds a /desynthall command that opens the game's desynthesis (materia extraction) window and enables PandorasBox's \"Desynth All\" feature so its button is ready to use. Requires the PandorasBox plugin to be installed.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783271025
+                "LastUpdate": 1783619177
             }
         ]
     },
@@ -5582,7 +5582,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1783465004
+                "LastUpdate": 1783635053
             }
         ]
     },
@@ -6170,7 +6170,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.25",
+                "AssemblyVersion": "7.5.1.26",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -6214,12 +6214,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Passport Checker Reborn",
                 "InternalName": "PassportCheckerReborn",
-                "AssemblyVersion": "7.5.1.1",
+                "AssemblyVersion": "7.5.1.2",
                 "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1782887845
+                "LastUpdate": 1783635995
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6236,7 +6236,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.12",
+                "AssemblyVersion": "7.5.1.13",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
@@ -9030,12 +9030,12 @@
                 "Author": "kako5555",
                 "Name": "Retainer Price Drop",
                 "InternalName": "RetainerPriceDrop",
-                "AssemblyVersion": "1.1.7.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "Adds a 'Lower Prices' button to each retainer that automatically adjusts all their market listings by a set amount.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kako5555/5555-plugins/main/plugins/RetainerPriceDrop/icon.png",
                 "RepoUrl": "https://github.com/kako5555/5555-plugins",
-                "LastUpdate": 1777933256
+                "LastUpdate": 1783624612
             }
         ]
     },
@@ -9224,12 +9224,12 @@
                 "Author": "Tomok",
                 "Name": "Penumbra Preview Manager",
                 "InternalName": "PenumbraPreviewManager",
-                "AssemblyVersion": "1.2.1.1",
+                "AssemblyVersion": "1.2.1.3",
                 "Description": "A helper tool to easily attach local, XIVModArchive, or direct URL preview/cover images to your Penumbra mods. Also supports local tags to easily filter mods that have preview/cover images inside Penumbra.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/PenumbraPreviewManager/icon.png",
                 "RepoUrl": "https://github.com/KaraRemy/PenumbraPreviewManager",
-                "LastUpdate": 1783560422
+                "LastUpdate": 1783631639
             },
             {
                 "Author": "Tomok",
@@ -10932,11 +10932,11 @@
                 "Author": "Lillypad",
                 "Name": "Lillypad Toolkit",
                 "InternalName": "VideoSyncPrototype",
-                "AssemblyVersion": "7.0.10.0",
+                "AssemblyVersion": "7.0.11.0",
                 "Description": "Create and join Watch2Gether rooms from inside FFXIV, then watch them on a styled in-world TV. Use /videosync to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Lillypad-14/Lillyvid",
-                "LastUpdate": 1783562406
+                "LastUpdate": 1783626067
             }
         ]
     },
@@ -12936,12 +12936,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.235",
+                "AssemblyVersion": "0.1.0.238",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783456375
+                "LastUpdate": 1783636634
             },
             {
                 "Author": "nainaiowo",
@@ -14287,12 +14287,12 @@
                 "Author": "091",
                 "Name": "SpeedRadiusPlugin",
                 "InternalName": "SpeedRadiusPlugin",
-                "AssemblyVersion": "1.4.3.310",
+                "AssemblyVersion": "1.4.3.311",
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nihil-string/simple-Tool-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nihil-string/simple-Tool-dist",
-                "LastUpdate": 1783239054
+                "LastUpdate": 1783626146
             }
         ]
     },
@@ -14413,12 +14413,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.14.0.0",
+                "AssemblyVersion": "1.15.1.0",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo-dist",
-                "LastUpdate": 1783569306
+                "LastUpdate": 1783624835
             }
         ]
     },
@@ -15383,12 +15383,12 @@
                 "Author": "Paissa Heavy Industries",
                 "Name": "Lemegeton",
                 "InternalName": "Lemegeton",
-                "AssemblyVersion": "1.0.8.0",
+                "AssemblyVersion": "1.0.8.1",
                 "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
                 "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
-                "LastUpdate": 1777539696
+                "LastUpdate": 1783637478
             },
             {
                 "Author": "Paissa Heavy Industries",
@@ -16441,7 +16441,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1783585030
+                "LastUpdate": 1783638027
             },
             {
                 "Author": "Team Wrath",
@@ -18680,12 +18680,12 @@
                 "Author": "Selken",
                 "Name": "Armoire Butler",
                 "InternalName": "ArmoireButlerPlugin",
-                "AssemblyVersion": "0.1.2.0",
+                "AssemblyVersion": "0.1.5.0",
                 "Description": "Analyzes local wardrobe, armoire, glamour dresser, retainer cache, dyes, duplicates, glamour sets, and store outfit ownership. Command: /yggj",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/assets/ArmoireButler/icon.png",
                 "RepoUrl": "https://github.com/selken-ixx/SelkenDalamud",
-                "LastUpdate": 1783618396
+                "LastUpdate": 1783620508
             }
         ]
     },
@@ -19420,12 +19420,12 @@
                 "Author": "sourpuh",
                 "Name": "Gaolbreak UI",
                 "InternalName": "Gaolbreak",
-                "AssemblyVersion": "0.0.0.28",
+                "AssemblyVersion": "0.0.0.29",
                 "Description": "Game windows can layer with plugin windows, reshade won't affect the UI, and 3D overlay plugins draw under the game's UI.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/152",
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_gaolbreak",
-                "LastUpdate": 1783614555
+                "LastUpdate": 1783628178
             },
             {
                 "Author": "sourpuh",
@@ -21138,7 +21138,7 @@
                 "Author": "Vali",
                 "Name": "SpotifyHonorific",
                 "InternalName": "SpotifyHonorific",
-                "AssemblyVersion": "1.16.0.0",
+                "AssemblyVersion": "1.17.0.0",
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Valiice/SpotifyHonorific/master/images/icon.png",
@@ -22677,6 +22677,17 @@
                 "LastUpdate": 1783613652
             },
             {
+                "Author": "youdianfengbao (基于 electr0sheep/ItemVendorLocation)",
+                "Name": "Item Vendor Location (国服汉化)",
+                "InternalName": "ItemVendorLocationCN",
+                "AssemblyVersion": "2.14.0.1",
+                "Description": "在物品上添加右键菜单选项，显示哪些商人在哪里出售该物品。国服中文汉化版。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/electr0sheep/ItemVendorLocation/main/Images/icon.png",
+                "RepoUrl": "https://github.com/youdianfengbao/ItemVendorLocation",
+                "LastUpdate": 1783625959
+            },
+            {
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
@@ -22686,6 +22697,16 @@
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
                 "LastUpdate": 1783614552
+            },
+            {
+                "Author": "youdianfengbao (基于 awgil/ffxiv_satisfy)",
+                "Name": "vsatisfy (国服汉化)",
+                "InternalName": "vsatisfy",
+                "AssemblyVersion": "0.0.0.37",
+                "Description": "通过自动化流程减少老主顾交付的烦恼。国服中文汉化版。\n所需插件：vnavmesh, Artisan, Questionable",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/youdianfengbao/ffxiv_satisfy",
+                "LastUpdate": 1783623871
             }
         ]
     },
@@ -23107,12 +23128,12 @@
                 "Author": "zysilm",
                 "Name": "Combat Simulator",
                 "InternalName": "CombatSimulator",
-                "AssemblyVersion": "2.7.0.0",
+                "AssemblyVersion": "2.7.0.1",
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death effects (ragdoll physics), active camera (bone tracking), death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zysilm/FFXIV-CombatSimulator/main/images/logo.png",
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1783526476
+                "LastUpdate": 1783637313
             },
             {
                 "Author": "zysilm",
