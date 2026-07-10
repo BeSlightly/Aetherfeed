@@ -3570,12 +3570,12 @@
                 "Author": "Meghann",
                 "Name": "Recipe Helper",
                 "InternalName": "DalamudRecipeHelper",
-                "AssemblyVersion": "1.1.34.0",
+                "AssemblyVersion": "1.1.35.0",
                 "Description": "Build a combined plan from multiple FFXIV recipes, compare NQ and HQ requirements with live inventory and saved retainer snapshots, track timed gathering materials, and hand crafting or travel actions to Artisan, Teamcraft, and GatherBuddy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/Recipe-Helper/main/RecipeHelperIcon1.png",
                 "RepoUrl": "https://github.com/CherryFairy78/Recipe-Helper",
-                "LastUpdate": 1783646342
+                "LastUpdate": 1783685522
             }
         ]
     },
@@ -4613,11 +4613,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.14.1.2",
+                "AssemblyVersion": "1.14.1.5",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1783550466
+                "LastUpdate": 1783668484
             },
             {
                 "Author": "Akari",
@@ -4678,11 +4678,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.14.1.2",
+                "AssemblyVersion": "1.14.1.5",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1783550466
+                "LastUpdate": 1783668484
             }
         ]
     },
@@ -4977,12 +4977,12 @@
                 "Author": "Eauldane",
                 "Name": "Snowcloak Sync",
                 "InternalName": "Snowcloak",
-                "AssemblyVersion": "3.0.6.0",
+                "AssemblyVersion": "3.0.7.0",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Eauldane/SnowcloakClient/refs/heads/main/Snowcloak/images/logo.png",
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1783186667
+                "LastUpdate": 1783672223
             },
             {
                 "Author": "Eauldane",
@@ -7244,12 +7244,12 @@
                 "Author": "Habitat",
                 "Name": "Ripple Shot",
                 "InternalName": "RippleShot",
-                "AssemblyVersion": "0.5.5.0",
+                "AssemblyVersion": "0.5.7.0",
                 "Description": "Bartender tool for the Ripple Shot /random jackpot game: pricing, per-night caps with Supabase VIPs, carry-over pot, win detection, archives, and a guided payout planner.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/habitatnightclub/ripple-shot/main/ripple-shot-icon.png",
                 "RepoUrl": "https://github.com/habitatnightclub/ripple-shot",
-                "LastUpdate": 1783451972
+                "LastUpdate": 1783682363
             }
         ]
     },
@@ -8302,7 +8302,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.38",
+                "AssemblyVersion": "15.39",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -10004,12 +10004,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.1",
+                "AssemblyVersion": "15.306.0.2",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783585367
+                "LastUpdate": 1783679154
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10932,11 +10932,11 @@
                 "Author": "Lillypad",
                 "Name": "Lillypad Toolkit",
                 "InternalName": "VideoSyncPrototype",
-                "AssemblyVersion": "7.0.14.0",
+                "AssemblyVersion": "7.0.16.0",
                 "Description": "Create and join Watch2Gether rooms from inside FFXIV, then watch them on a styled in-world TV. Use /videosync to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Lillypad-14/Lillyvid",
-                "LastUpdate": 1783654172
+                "LastUpdate": 1783664883
             }
         ]
     },
@@ -12401,6 +12401,24 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Minescence/CosmocreditTracker",
                 "LastUpdate": 1780779105
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "miqote69",
+        "repo_url": "https://raw.githubusercontent.com/miqote69/MinionScalerRepo/main/repo.json",
+        "repo_source_url": "https://github.com/miqote69/MinionScalerRepo",
+        "repo_name": "MinionScalerRepo",
+        "plugins": [
+            {
+                "Author": "miqote69",
+                "Name": "Minion Scaler",
+                "InternalName": "MinionScaler",
+                "AssemblyVersion": "0.0.0.20",
+                "Description": "Adjusts the local display scale of selected minions. Use /minionscalerconfig to configure.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/miqote69/MinionScalerRepo",
+                "LastUpdate": 1783675181
             }
         ]
     },
@@ -15076,7 +15094,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/157",
                 "RepoUrl": "https://github.com/OOFGamesss/ChocoboRacing",
-                "LastUpdate": 1783539450
+                "LastUpdate": 1783682207
             },
             {
                 "Author": "OOF Games, Asuna",
@@ -15402,12 +15420,12 @@
                 "Author": "Paissa Heavy Industries",
                 "Name": "Lemegeton",
                 "InternalName": "Lemegeton",
-                "AssemblyVersion": "1.0.8.1",
+                "AssemblyVersion": "1.0.8.2",
                 "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
                 "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
-                "LastUpdate": 1783637478
+                "LastUpdate": 1783664840
             },
             {
                 "Author": "Paissa Heavy Industries",
@@ -15530,12 +15548,12 @@
                 "Author": "Ramen",
                 "Name": "Meddle",
                 "InternalName": "Meddle.Plugin",
-                "AssemblyVersion": "0.1.53.0",
+                "AssemblyVersion": "0.1.55.0",
                 "Description": "Did I mention I'm a model? Export models to glTF format.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/PassiveModding/Meddle/raw/main/icon.png",
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1782534344
+                "LastUpdate": 1783677507
             }
         ]
     },
@@ -16433,12 +16451,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.1",
+                "AssemblyVersion": "15.306.0.2",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783585367
+                "LastUpdate": 1783679154
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -18709,12 +18727,12 @@
                 "Author": "Selken",
                 "Name": "Armoire Butler",
                 "InternalName": "ArmoireButlerPlugin",
-                "AssemblyVersion": "0.1.5.0",
+                "AssemblyVersion": "0.1.6.0",
                 "Description": "Analyzes local wardrobe, armoire, glamour dresser, retainer cache, dyes, duplicates, glamour sets, and store outfit ownership. Command: /yggj",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/assets/ArmoireButler/icon.png",
                 "RepoUrl": "https://github.com/selken-ixx/SelkenDalamud",
-                "LastUpdate": 1783620508
+                "LastUpdate": 1783664528
             }
         ]
     },
@@ -19406,7 +19424,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1783264720
+                "LastUpdate": 1783681586
             }
         ]
     },
@@ -19544,11 +19562,11 @@
                 "Author": "spark",
                 "Name": "FFXIVAura",
                 "InternalName": "FFXIVAura",
-                "AssemblyVersion": "0.1.0.24",
+                "AssemblyVersion": "0.1.0.26",
                 "Description": "Dalamud-native FFXIVAura style cooldown overlay for FFXIV KR.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/spar7453/FFXIVAura",
-                "LastUpdate": 1783520791
+                "LastUpdate": 1783685067
             },
             {
                 "Author": "electr0sheep, Nuko",
@@ -21167,12 +21185,12 @@
                 "Author": "Vali",
                 "Name": "SpotifyHonorific",
                 "InternalName": "SpotifyHonorific",
-                "AssemblyVersion": "1.17.0.0",
+                "AssemblyVersion": "1.17.1.0",
                 "Description": "Update honorific title based on your currently playing Spotify track.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Valiice/SpotifyHonorific/master/images/icon.png",
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1783618882
+                "LastUpdate": 1783670492
             }
         ]
     },
@@ -22272,47 +22290,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
                 "LastUpdate": 1781980133
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "XelsPlugins",
-        "repo_url": "https://raw.githubusercontent.com/XelsPlugins/XelsDalamudRepo/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/XelsPlugins/XelsDalamudRepo",
-        "repo_name": "XelsDalamudRepo",
-        "plugins": [
-            {
-                "Author": "xeltor",
-                "Name": "Xel's Combat AI",
-                "InternalName": "XelsCombatAI",
-                "AssemblyVersion": "2.19.11.0",
-                "Description": "Tired of manually babysitting your BossMod settings mid-fight? XCAI handles your positioning, distances, and Ley Lines automatically so you can focus on not dying. Results may vary on the not dying part.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/XelsPlugins/XelsCombatAI/main/XelsCombatAI/images/icon.png",
-                "RepoUrl": "https://github.com/XelsPlugins/XelsCombatAI",
-                "LastUpdate": 1783385176
-            },
-            {
-                "Author": "Xeltor / XelsPlugins, originally by Blackcatz1911",
-                "Name": "Xel's Currency Spender",
-                "InternalName": "XelsCurrencySpender",
-                "AssemblyVersion": "1.4.0.0",
-                "Description": "AI-maintained fork of Blackcatz1911's Currency Spender. Never wonder 'What should I do with this?' again: access real-time prices from Universalis, identify missing collectibles tied to your currencies, and find useful ways to spend in-game resources.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/XelsPlugins/XelsCurrencySpender/main/XelsCurrencySpender/images/logo.png",
-                "RepoUrl": "https://github.com/XelsPlugins/XelsCurrencySpender",
-                "LastUpdate": 1779497745
-            },
-            {
-                "Author": "xeltor",
-                "Name": "XelsTweaks",
-                "InternalName": "XelsTweaks",
-                "AssemblyVersion": "0.9.0.0",
-                "Description": "A modular Dalamud tweak hub for small opt-in quality-of-life features.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/XelsPlugins/XelsTweaks/main/XelsTweaks/images/logo.png",
-                "RepoUrl": "https://github.com/XelsPlugins/XelsTweaks",
-                "LastUpdate": 1780250630
             }
         ]
     },
