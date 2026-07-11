@@ -849,12 +849,12 @@
                 "Author": "Airi Tsukino",
                 "Name": "GambaAssistant",
                 "InternalName": "GambaAssistant",
-                "AssemblyVersion": "0.1.5.1",
+                "AssemblyVersion": "0.1.6.1",
                 "Description": "Assists a single venue dealer with Blackjack phases, dice-based cards, bank tracking, narration, overlays, logs, and exports. Players do not need the plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/GambaAssistant/main/GambaAssistant/Resources/GALogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/GambaAssistant",
-                "LastUpdate": 1783746959
+                "LastUpdate": 1783753341
             },
             {
                 "Author": "Airi Tsukino",
@@ -928,12 +928,12 @@
                 "Author": "Airi Tsukino",
                 "Name": "GambaAssistant",
                 "InternalName": "GambaAssistant",
-                "AssemblyVersion": "0.1.5.1",
+                "AssemblyVersion": "0.1.6.1",
                 "Description": "Assists a single venue dealer with Blackjack phases, dice-based cards, bank tracking, narration, overlays, logs, and exports. Players do not need the plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/GambaAssistant/main/GambaAssistant/Resources/GALogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/GambaAssistant",
-                "LastUpdate": 1783746019
+                "LastUpdate": 1783752373
             }
         ]
     },
@@ -1551,12 +1551,12 @@
                 "Author": "Anomek",
                 "Name": "AnoMech",
                 "InternalName": "AnoMech",
-                "AssemblyVersion": "0.3.10.0",
+                "AssemblyVersion": "0.3.11.0",
                 "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.\n\nThis plugin is in beta and is unstable. You won't crash during your training sessions, but you will crash after it.\n\nIf you are doing any serious content: **RESTART YOUR GAME AFTER USING PLUGIN**. You **WILL CRASH** in the middle of pull.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
                 "RepoUrl": "https://github.com/anomek/AnoMech",
-                "LastUpdate": 1783726087
+                "LastUpdate": 1783755545
             },
             {
                 "Author": "Anomek",
@@ -2569,7 +2569,7 @@
                 "Description": "Watches Cross-world Linkshell (CWLS1/CWLS2) chat for messages containing a map link and appends a clickable [Go To] link. Clicking it teleports you to the nearest aetheryte via the Teleporter plugin, hopping to the correct world/data center first via the Lifestream plugin if the message points to a different server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783619177
+                "LastUpdate": 1783755836
             },
             {
                 "Author": "bdg",
@@ -2579,7 +2579,17 @@
                 "Description": "Adds a /desynthall command that opens the game's desynthesis (materia extraction) window and enables PandorasBox's \"Desynth All\" feature so its button is ready to use. Requires the PandorasBox plugin to be installed.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783619177
+                "LastUpdate": 1783755836
+            },
+            {
+                "Author": "bdg",
+                "Name": "Logout On Tell",
+                "InternalName": "LogoutOnTell",
+                "AssemblyVersion": "0.0.0.3",
+                "Description": "When enabled, automatically logs your character out (with confirmation dialog handled) as soon as you receive a tell (private message) from anyone. Toggle it with /logoutontell (or /logoutontell on|off|status). Always starts disabled: the switch resets every time you log in, so you arm it deliberately each session.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
+                "LastUpdate": 1783755836
             }
         ]
     },
@@ -2842,6 +2852,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/bimilbimil/XIVThirdEye/main/thirdeye.png",
                 "RepoUrl": "https://github.com/bimilbimil/XIVThirdEye",
                 "LastUpdate": 1782957363
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Blackstar90210",
+        "repo_url": "https://raw.githubusercontent.com/Blackstar90210/Allagan-Translator--Local-AI---Online-/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Blackstar90210/Allagan-Translator--Local-AI---Online-",
+        "repo_name": "Allagan-Translator--Local-AI---Online-",
+        "plugins": [
+            {
+                "Author": "Blackstar90210",
+                "Name": "Allagan Translator (Local AI & Online)",
+                "InternalName": "AllaganTranslator",
+                "AssemblyVersion": "1.0.0.1",
+                "Description": "Offline translation plugin directly inside FFXIV.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Blackstar90210/Allagan-Translator--Local-AI---Online-/main/icon.png",
+                "RepoUrl": "https://github.com/Blackstar90210/Allagan-Translator--Local-AI---Online-",
+                "LastUpdate": 1783773007
             }
         ]
     },
@@ -9544,12 +9573,12 @@
                 "Author": "keifufu",
                 "Name": "XivVoices",
                 "InternalName": "XivVoices",
-                "AssemblyVersion": "1.5.2.13",
+                "AssemblyVersion": "1.5.2.14",
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/keifufu/XivVoices/main/XivVoices/assets/logo.png",
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1782768921
+                "LastUpdate": 1783768539
             }
         ]
     },
@@ -9637,6 +9666,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
                 "RepoUrl": "https://github.com/kelvin124124/OopsAllLalafellsSRE",
                 "LastUpdate": 1777811294
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kennabi83",
+        "repo_url": "https://raw.githubusercontent.com/kennabi83/VietTranslator/main/repo.json",
+        "repo_source_url": "https://github.com/kennabi83/VietTranslator",
+        "repo_name": "VietTranslator",
+        "plugins": [
+            {
+                "Author": "Yu",
+                "Name": "Viet Translator",
+                "InternalName": "VietTranslator",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Phu de tieng Viet cho thoai FFXIV: overlay ImGui render chu co dau chuan (font BeVietnam Pro), giu nguyen ten rieng tieng Anh. Ban v1 phu tron A Realm Reborn - cot truyen chinh (2.0) + hau-ARR (2.1-2.55), nhiem vu Nghe & Job, mo khoa tinh nang (nha o, chocobo, retainer...) va Duty (dungeon/trial/raid). Hoat dong cho thoai thuong, cutscene, caption va menu lua chon.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/kennabi83/VietTranslator/main/Resources/icon.png",
+                "RepoUrl": "https://viettranslator.onrender.com/",
+                "LastUpdate": 1783773643
             }
         ]
     },
@@ -12501,11 +12549,11 @@
                 "Author": "miqote69",
                 "Name": "Actor Morpher",
                 "InternalName": "ActorMorpher",
-                "AssemblyVersion": "0.0.0.9",
+                "AssemblyVersion": "0.0.0.13",
                 "Description": "Locally changes visible actors into selected NPC, demihuman, or monster forms. Use /actormorpher to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/miqote69/ActorMorpher",
-                "LastUpdate": 1783738900
+                "LastUpdate": 1783774049
             }
         ]
     },
@@ -16581,7 +16629,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783679154
+                "LastUpdate": 1783772841
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16614,7 +16662,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1783407467
+                "LastUpdate": 1783761069
             },
             {
                 "Author": "daemitus, kawaii",
@@ -16740,12 +16788,12 @@
                 "Author": "pyreymo",
                 "Name": "Event Horizon",
                 "InternalName": "EventHorizon",
-                "AssemblyVersion": "0.2.3.0",
+                "AssemblyVersion": "0.3.1.0",
                 "Description": "Cull distant or irrelevant world objects around your character. Use /eventhorizon or /eh to open settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/pyreymo/event-horizon/master/images/icon.png",
                 "RepoUrl": "https://github.com/pyreymo/event-horizon",
-                "LastUpdate": 1783476519
+                "LastUpdate": 1783765857
             }
         ]
     },
@@ -18507,11 +18555,11 @@
                 "Author": "WhiteDog",
                 "Name": "PartyBell",
                 "InternalName": "PartyBell",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.2.0",
                 "Description": "當隊伍有任何變動（隊員加入、退出、滿員、隊伍訊息、密語、副本排到）時，透過 Discord Webhook 發送通知並可 @ 提及；招募即將到期（60 分鐘）前自動重新發布；排到副本後可延遲自動按下出發。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/SamoyedQQ/PartyBell",
-                "LastUpdate": 1783656357
+                "LastUpdate": 1783766718
             },
             {
                 "Author": "Whitedog",
@@ -18522,7 +18570,7 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/assets/icon.png",
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1783656413
+                "LastUpdate": 1783766727
             }
         ]
     },
@@ -21134,7 +21182,7 @@
                 "Name": "Peer Sync",
                 "InternalName": "PeerSync",
                 "AssemblyVersion": "1.1.3.174",
-                "Description": "Where mods",
+                "Description": "Peer-to-Peer Mod sharing",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/UnlostWorld/PeerSync/refs/heads/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/UnlostWorld/PeerSync",
@@ -21767,12 +21815,12 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel",
-                "AssemblyVersion": "1.1.20260711.929",
+                "AssemblyVersion": "1.1.20260711.938",
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://gist.githubusercontent.com/Voudi/77c661ec1597925c2856d649a0cfc2d8/raw/icon.png",
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1783729473
+                "LastUpdate": 1783773339
             }
         ]
     },
@@ -22243,12 +22291,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.1.0",
+                "AssemblyVersion": "0.9.2.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783713351
+                "LastUpdate": 1783756913
             },
             {
                 "Author": "XeldarAlz",
@@ -22317,12 +22365,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.1.0",
+                "AssemblyVersion": "0.9.2.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783713351
+                "LastUpdate": 1783756913
             }
         ]
     },
@@ -22809,6 +22857,16 @@
                 "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
                 "RepoUrl": "https://github.com/youdianfengbao/AutoRetainer",
                 "LastUpdate": 1783613652
+            },
+            {
+                "Author": "youdianfengbao (基于 NeNeppie/AvantGarde)",
+                "Name": "Avant-Garde (国服汉化)",
+                "InternalName": "AvantGardeCN",
+                "AssemblyVersion": "1.0.6.0",
+                "Description": "时尚品鉴辅助插件，根据提示词显示可用的装备推荐。国服中文汉化版。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/youdianfengbao/AvantGarde",
+                "LastUpdate": 1783767359
             },
             {
                 "Author": "youdianfengbao (基于 electr0sheep/ItemVendorLocation)",
