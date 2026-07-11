@@ -2010,7 +2010,7 @@
                 "Author": "Asuna",
                 "Name": "HuntAlerts",
                 "InternalName": "HuntAlerts",
-                "AssemblyVersion": "1.4.1.0",
+                "AssemblyVersion": "1.4.1.1",
                 "Description": "Notifies you when hunt trains are starting soon\nSupports NA/EU/OCE",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/143",
@@ -2021,7 +2021,7 @@
                 "Author": "Asuna",
                 "Name": "PartyFinderEx",
                 "InternalName": "PartyFinderEx",
-                "AssemblyVersion": "0.0.0.10",
+                "AssemblyVersion": "0.0.0.11",
                 "Description": "View FFXIV party listings with advanced filtering, sorting, and search capabilities. Set up custom alerts for specific duties or conditions. Use /pfex to open.\n\nThis uses the https://xivpf.com website as it's datasource and will also contribute pf listings back to the site.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/150",
@@ -2864,13 +2864,13 @@
             {
                 "Author": "Blackstar90210",
                 "Name": "Allagan Translator (Local AI & Online)",
-                "InternalName": "AllaganTranslator",
-                "AssemblyVersion": "1.0.0.1",
+                "InternalName": "DalamudTranslator",
+                "AssemblyVersion": "1.0.0.8",
                 "Description": "Offline translation plugin directly inside FFXIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Blackstar90210/Allagan-Translator--Local-AI---Online-/main/icon.png",
                 "RepoUrl": "https://github.com/Blackstar90210/Allagan-Translator--Local-AI---Online-",
-                "LastUpdate": 1783773007
+                "LastUpdate": 1783790523
             }
         ]
     },
@@ -4099,12 +4099,12 @@
                 "Author": "dajoey",
                 "Name": "Gluttony Combo",
                 "InternalName": "GluttonyCombo",
-                "AssemblyVersion": "1.0.4.76",
+                "AssemblyVersion": "1.0.4.77",
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/gluttonycombo-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/GluttonyCombo/latest",
-                "LastUpdate": 1783279134
+                "LastUpdate": 1783794412
             },
             {
                 "Author": "Blackcatz1911, dajoey",
@@ -7736,7 +7736,7 @@
                 "Author": "Asuna",
                 "Name": "HuntAlerts",
                 "InternalName": "HuntAlerts",
-                "AssemblyVersion": "1.4.1.0",
+                "AssemblyVersion": "1.4.1.1",
                 "Description": "Notifies you when hunt trains are starting soon",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/FFXIV_Hunts_logo.png",
@@ -7954,6 +7954,25 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FateWhisper/FateWhisper",
                 "LastUpdate": 1781938979
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "IkHmTeJ",
+        "repo_url": "https://raw.githubusercontent.com/IkHmTeJ/Wondrous-Tails-Solver/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/IkHmTeJ/Wondrous-Tails-Solver",
+        "repo_name": "Wondrous-Tails-Solver",
+        "plugins": [
+            {
+                "Author": "IkHmTeJ",
+                "Name": "Wondrous Tails Solver",
+                "InternalName": "WondrousTailsCalculator",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Solves Wondrous Tails.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/IkHmTeJ/Wondrous-Tails-Solver/refs/heads/main/icon.png",
+                "RepoUrl": "https://github.com/IkHmTeJ/Wondrous-Tails-Solver",
+                "LastUpdate": 1783786013
             }
         ]
     },
@@ -8415,6 +8434,24 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jango921/StreamerMode",
                 "LastUpdate": 1779647825
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Jayrotto",
+        "repo_url": "https://raw.githubusercontent.com/Jayrotto/Perverts-Paradise/main/repo.json",
+        "repo_source_url": "https://github.com/Jayrotto/Perverts-Paradise",
+        "repo_name": "Perverts-Paradise",
+        "plugins": [
+            {
+                "Author": "Jayrotto",
+                "Name": "Perverts Paradise",
+                "InternalName": "EmperorsNewClothes",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Scans nearby player characters and applies \"The Emperor's New Robe\" and \"The Emperor's New Breeches\" to female characters using Glamourer's IPC.requires Penumbra and Glamourer.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Jayrotto/Perverts-Paradise",
+                "LastUpdate": 1783794100
             }
         ]
     },
@@ -9098,12 +9135,12 @@
                 "Author": "Kage",
                 "Name": "QuickTransfer",
                 "InternalName": "QuickTransfer",
-                "AssemblyVersion": "1.1.0.5",
+                "AssemblyVersion": "1.1.0.6",
                 "Description": "Automate inventory transfers with Shift/Ctrl/Alt + Right-Click. Trade window, vendor quick sell, FC chest.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/144",
                 "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
-                "LastUpdate": 1783724906
+                "LastUpdate": 1783783941
             },
             {
                 "Author": "Kage",
@@ -9340,12 +9377,12 @@
                 "Author": "Tomok",
                 "Name": "Penumbra Preview Manager",
                 "InternalName": "PenumbraPreviewManager",
-                "AssemblyVersion": "1.2.1.3",
+                "AssemblyVersion": "1.2.1.4",
                 "Description": "A helper tool to easily attach local, XIVModArchive, or direct URL preview/cover images to your Penumbra mods. Also supports local tags to easily filter mods that have preview/cover images inside Penumbra.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/PenumbraPreviewManager/icon.png",
                 "RepoUrl": "https://github.com/KaraRemy/PenumbraPreviewManager",
-                "LastUpdate": 1783631639
+                "LastUpdate": 1783789386
             },
             {
                 "Author": "Tomok",
@@ -9371,12 +9408,12 @@
                 "Author": "Tomok",
                 "Name": "ToDHelper",
                 "InternalName": "ToDHelperPlugin",
-                "AssemblyVersion": "0.0.0.7",
+                "AssemblyVersion": "0.0.0.9",
                 "Description": "Helps you manage and host Truth or Dare games.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/ToDHelperPlugin/icon.png",
                 "RepoUrl": "https://github.com/KaraRemy/ToDHelperPlugin",
-                "LastUpdate": 1782584314
+                "LastUpdate": 1783792705
             }
         ]
     },
@@ -9390,12 +9427,12 @@
                 "Author": "Karlin",
                 "Name": "KodakkuAssist",
                 "InternalName": "KodakkuAssist",
-                "AssemblyVersion": "0.5.1.53",
+                "AssemblyVersion": "0.5.1.54",
                 "Description": "Chinese Splatoon equivalent with in-game vfx. Requires Discord verification.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/plugins/KodakkuAssist/icon.png",
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1783341073,
+                "LastUpdate": 1783778493,
                 "is_closed_source": true
             },
             {
@@ -9682,7 +9719,7 @@
                 "AssemblyVersion": "1.0.0.0",
                 "Description": "Phu de tieng Viet cho thoai FFXIV: overlay ImGui render chu co dau chuan (font BeVietnam Pro), giu nguyen ten rieng tieng Anh. Ban v1 phu tron A Realm Reborn - cot truyen chinh (2.0) + hau-ARR (2.1-2.55), nhiem vu Nghe & Job, mo khoa tinh nang (nha o, chocobo, retainer...) va Duty (dungeon/trial/raid). Hoat dong cho thoai thuong, cutscene, caption va menu lua chon.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/kennabi83/VietTranslator/main/Resources/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/kennabi83/VietTranslator/main/Resources/icon.png?v=2",
                 "RepoUrl": "https://viettranslator.onrender.com/",
                 "LastUpdate": 1783773643
             }
@@ -10185,7 +10222,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1782502142
+                "LastUpdate": 1783785572
             }
         ]
     },
@@ -10794,7 +10831,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1783602367
+                "LastUpdate": 1783776933
             }
         ]
     },
@@ -12549,11 +12586,12 @@
                 "Author": "miqote69",
                 "Name": "Actor Morpher",
                 "InternalName": "ActorMorpher",
-                "AssemblyVersion": "0.0.0.13",
+                "AssemblyVersion": "0.0.0.15",
                 "Description": "Locally changes visible actors into selected NPC, demihuman, or monster forms. Use /actormorpher to open the window.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/miqote69/ActorMorpher/main/images/icon.png",
                 "RepoUrl": "https://github.com/miqote69/ActorMorpher",
-                "LastUpdate": 1783774049
+                "LastUpdate": 1783791111
             }
         ]
     },
@@ -12567,12 +12605,12 @@
                 "Author": "miqote69",
                 "Name": "Minion Scaler",
                 "InternalName": "MinionScaler",
-                "AssemblyVersion": "0.0.0.25",
+                "AssemblyVersion": "0.0.0.26",
                 "Description": "Adjusts the local display scale of selected minions. Use /minionscalerconfig to configure.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/MinionScalerRepo/main/Assets/icon-v2.png",
                 "RepoUrl": "https://github.com/miqote69/MinionScalerRepo",
-                "LastUpdate": 1783693354
+                "LastUpdate": 1783791831
             }
         ]
     },
@@ -14459,12 +14497,12 @@
                 "Author": "091",
                 "Name": "SpeedRadiusPlugin",
                 "InternalName": "SpeedRadiusPlugin",
-                "AssemblyVersion": "1.4.3.312",
+                "AssemblyVersion": "1.4.3.313",
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nihil-string/simple-Tool-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nihil-string/simple-Tool-dist",
-                "LastUpdate": 1783662425
+                "LastUpdate": 1783778293
             }
         ]
     },
@@ -15461,7 +15499,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1783572605
+                "LastUpdate": 1783750980
             },
             {
                 "Author": "Risa and Contributors",
@@ -15472,7 +15510,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1782936818
+                "LastUpdate": 1783721221
             },
             {
                 "Author": "NightmareXIV, AsunaTsuki",
@@ -15516,7 +15554,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1782687980
+                "LastUpdate": 1783785572
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -15538,7 +15576,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1783556611
+                "LastUpdate": 1783615797
             },
             {
                 "Author": "Caraxi",
@@ -16262,12 +16300,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Passport Checker Reborn (Custom)",
                 "InternalName": "PassportCheckerReborn",
-                "AssemblyVersion": "7.5.1.0",
+                "AssemblyVersion": "7.5.1.2",
                 "Description": "파티 찾기 목록 옆에 멤버 정보 오버레이를 표시하는 플러그인입니다. 한국 서버에 맞게 수정한 버전으로, 한국 월드/FFLogs 매핑, 한국어 UI, PlayerTrack 기반 비공개 플레이어 이름 복원을 지원합니다.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/pnsdh/PassportCheckerReborn",
-                "LastUpdate": 1783083152
+                "LastUpdate": 1783780420
             }
         ]
     },
@@ -16553,7 +16591,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1783057147
+                "LastUpdate": 1783792843
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -16624,12 +16662,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.2",
+                "AssemblyVersion": "15.306.0.4",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783772841
+                "LastUpdate": 1783790126
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -20003,12 +20041,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.1904",
+                "AssemblyVersion": "7.5.1.1905",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1783691575
+                "LastUpdate": 1783785946
             },
             {
                 "Author": "Kouzukii",
@@ -20054,12 +20092,12 @@
                 "Author": "SunnysOfficial",
                 "Name": "Venue Mapper",
                 "InternalName": "VenueMapper",
-                "AssemblyVersion": "0.5.6",
+                "AssemblyVersion": "0.5.7.1",
                 "Description": "A Dalamud plugin for discovering FFXIV venues with 2D/3D interactive markers, live events, and built-in owner tools. Your complete FFXIV venue guide.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SunnysTTV/VenueMapperXIV/main/images/icon.png",
                 "RepoUrl": "https://github.com/SunnysTTV/VenueMapperXIV",
-                "LastUpdate": 1782829464
+                "LastUpdate": 1783794045
             }
         ]
     },
@@ -21815,12 +21853,12 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel",
-                "AssemblyVersion": "1.1.20260711.938",
+                "AssemblyVersion": "1.1.20260711.947",
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://gist.githubusercontent.com/Voudi/77c661ec1597925c2856d649a0cfc2d8/raw/icon.png",
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1783773339
+                "LastUpdate": 1783796865
             }
         ]
     },
@@ -22296,7 +22334,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783756913
+                "LastUpdate": 1783793501
             },
             {
                 "Author": "XeldarAlz",
@@ -22313,12 +22351,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "1.3.1.0",
+                "AssemblyVersion": "1.3.2.0",
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1782406219
+                "LastUpdate": 1783778931
             },
             {
                 "Author": "XeldarAlz",
@@ -22403,12 +22441,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "1.3.1.0",
+                "AssemblyVersion": "1.3.2.0",
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1782406219
+                "LastUpdate": 1783778931
             }
         ]
     },
@@ -22883,12 +22921,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.2",
+                "AssemblyVersion": "15.306.0.3",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1783714920
+                "LastUpdate": 1783788417
             },
             {
                 "Author": "youdianfengbao (基于 awgil/ffxiv_satisfy)",
