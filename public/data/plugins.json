@@ -639,12 +639,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.6.2",
+                "AssemblyVersion": "0.2.6.3",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1783814367
+                "LastUpdate": 1783872266
             },
             {
                 "Author": "XA",
@@ -1052,12 +1052,12 @@
                 "Author": "AlexFlipnote",
                 "Name": "The Holiest Fluffiness",
                 "InternalName": "HoliestFluffiness",
-                "AssemblyVersion": "0.7.4",
+                "AssemblyVersion": "0.7.7",
                 "Description": "A tweak plugin born for the free company 'The Holiest Fluffiness', now open for all to enjoy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AlexFlipnote/XIV_HolyPlugin/master/HoliestFluffiness/Images/icon.png",
                 "RepoUrl": "https://github.com/AlexFlipnote/XIV_HolyPlugin",
-                "LastUpdate": 1783728175
+                "LastUpdate": 1783878463
             }
         ]
     },
@@ -1135,12 +1135,12 @@
                 "Author": "WonderlandDev",
                 "Name": "Wind-Up Key",
                 "InternalName": "WindUpKey",
-                "AssemblyVersion": "0.1.4.0",
+                "AssemblyVersion": "0.1.4.2",
                 "Description": "A (hopefully) simple plugin. Dolls need winding, and winders can wind up dolls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/key.png",
                 "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
-                "LastUpdate": 1783861132
+                "LastUpdate": 1783879702
             }
         ]
     },
@@ -2757,7 +2757,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/BeSlightly/Snappy/refs/heads/master/snappy.png",
                 "RepoUrl": "https://github.com/BeSlightly/Snappy",
-                "LastUpdate": 1783686392
+                "LastUpdate": 1783870725
             }
         ]
     },
@@ -2922,12 +2922,12 @@
                 "Author": "Blackstar90210",
                 "Name": "Allagan Translator (Local AI & Online)",
                 "InternalName": "AllaganTranslator",
-                "AssemblyVersion": "1.0.0.10",
+                "AssemblyVersion": "1.0.0.8",
                 "Description": "Offline translation plugin directly inside FFXIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Blackstar90210/Allagan_Translator_Test/main/icon.png",
                 "RepoUrl": "https://github.com/Blackstar90210/Allagan_Translator_Test",
-                "LastUpdate": 1783862881
+                "LastUpdate": 1783885567
             }
         ]
     },
@@ -3071,6 +3071,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/BluntEXE/XIVVenueManagerSync/master/images/icon.png",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
                 "LastUpdate": 1782152759
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "bonkbank45",
+        "repo_url": "https://raw.githubusercontent.com/bonkbank45/BonkChat/main/repo.json",
+        "repo_source_url": "https://github.com/bonkbank45/BonkChat",
+        "repo_name": "BonkChat",
+        "plugins": [
+            {
+                "Author": "bonkBANK, Infi, Anna",
+                "Name": "Chat 2 (BonkChat)",
+                "InternalName": "BonkChat",
+                "AssemblyVersion": "1.43.0.0",
+                "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bonkbank45/BonkChat",
+                "LastUpdate": 1783854125
             }
         ]
     },
@@ -3367,11 +3385,11 @@
                 "Author": "CaraMacchiato",
                 "Name": "NoBodyPull",
                 "InternalName": "NoBodyPull",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.1.0",
                 "Description": "Prevents accidentally walking into boss aggro range before a pull. Automatically disables once combat starts.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CaraMacchiato/NoBodyPull",
-                "LastUpdate": 1778970285
+                "LastUpdate": 1783808582
             }
         ]
     },
@@ -4500,11 +4518,11 @@
                 "Author": "嗨呀www",
                 "Name": "HiAuRo",
                 "InternalName": "HiAuRo",
-                "AssemblyVersion": "0.2.34.0",
+                "AssemblyVersion": "0.2.35.0",
                 "Description": "HiAuRo 是一个全栈战斗辅助框架，提供 ACR 接口、执行轴、事实轴、智能决策层和完整的 UI 系统。ACR 作者可开发各职业的战斗逻辑，普通用户也可通过内置轴获得完整的战斗辅助体验。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/denghaoxuan991876906/HiAuRo",
-                "LastUpdate": 1783717481
+                "LastUpdate": 1783873679
             },
             {
                 "Author": "嗨呀",
@@ -6812,12 +6830,12 @@
                 "Author": "gerulla",
                 "Name": "FullParty",
                 "InternalName": "FullParty",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.2.0",
                 "Description": "Dalamud Plugin Companion for FullParty.gg",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
-                "LastUpdate": 1783812800
+                "LastUpdate": 1783870449
             }
         ]
     },
@@ -7517,7 +7535,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1783614841
+                "LastUpdate": 1783885509
             },
             {
                 "Author": "Haselnussbomber",
@@ -8544,11 +8562,11 @@
                 "Author": "Jayrotto",
                 "Name": "Perverts Paradise",
                 "InternalName": "EmperorsNewClothes",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Scans nearby player characters and applies \"The Emperor's New Robe\" and \"The Emperor's New Breeches\" to female characters using Glamourer's IPC.requires Penumbra and Glamourer.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jayrotto/Perverts-Paradise",
-                "LastUpdate": 1783794100
+                "LastUpdate": 1783872040
             }
         ]
     },
@@ -9243,11 +9261,11 @@
                 "Author": "Kage",
                 "Name": "RelicTracker",
                 "InternalName": "RelicTracker",
-                "AssemblyVersion": "1.0.0.6",
+                "AssemblyVersion": "1.0.0.7",
                 "Description": "Track relic weapon, tool, and armor progress across every job, with live material counts and optional FFXIV Collect sync.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
-                "LastUpdate": 1783369505
+                "LastUpdate": 1783883040
             }
         ]
     },
@@ -11478,70 +11496,86 @@
                 "Author": "Ottermandias, Lother",
                 "Name": "Accountant",
                 "InternalName": "Accountant",
-                "AssemblyVersion": "7.15.0.74",
+                "AssemblyVersion": "7.15.0.71",
                 "Description": "記錄多名角色的雇員、飛艇、潛水艇、以太之輪與作物計時器，\n以及其他各種雜項任務進度。",
                 "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Accountant.png",
                 "RepoUrl": "https://github.com/Lother/Accountant"
             },
             {
                 "Author": "кайт машина (Puni.sh), Lother",
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "7.15.0.86",
+                "AssemblyVersion": "7.15.0.87",
                 "Description": "躺在床上就能收取並指派雇員的遠航任務。",
                 "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/AutoRetainer.png",
                 "RepoUrl": "https://github.com/Lother/AutoRetainer"
             },
             {
                 "Author": "The Combat Reborn Team, Lother",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.15.0.46",
+                "AssemblyVersion": "7.15.0.47",
                 "Description": "繁體中文分支（TC-7.15）。提供 Boss 戰雷達、自動循環、冷卻計劃與 AI 功能，幫助您輕鬆應對各種 Boss 機制。",
                 "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/BossModReborn.png",
                 "RepoUrl": "https://github.com/Lother/BossmodReborn"
             },
             {
                 "Author": "Snowy, KangasZ, Lother",
                 "Name": "Eureka Helper",
                 "InternalName": "EurekaHelper",
-                "AssemblyVersion": "7.15.0.57",
+                "AssemblyVersion": "7.15.0.59",
                 "Description": "協助你進行優雷卡冒險的工具，已更新至《漂泊眾島》版本！輸入 /eurekahelper 開始使用。\n\n功能包含：\n- 遊戲內追蹤器 GUI\n- 副本追蹤器\n- 聖靈追蹤器\n- 魂武助手\n- 鬧鐘\n- 賺錢 NM 天氣時間提醒\n- 更多功能陸續推出",
                 "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/EurekaHelper.png",
                 "RepoUrl": "https://github.com/Lother/EurekaHelper"
+            },
+            {
+                "Author": "Latihas, Lother",
+                "Name": "LatihasChocobo",
+                "InternalName": "LatihasChocobo",
+                "AssemblyVersion": "7.15.0.4",
+                "Description": "自動陸行鳥競賽",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Lother/LatihasChocobo"
             },
             {
                 "Author": "apetih, Lother",
                 "Name": "Logogram Helper",
                 "InternalName": "LogogramHelper",
-                "AssemblyVersion": "7.15.0.7",
+                "AssemblyVersion": "7.15.0.3",
                 "Description": "進入聖言操縱者後，顯示優雷卡聖言技能所有可能組合的數量。",
                 "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/LogogramHelper.png",
                 "RepoUrl": "https://github.com/Lother/LogogramHelper"
             },
             {
                 "Author": "Taurenkey, Kagekazu, Lother",
                 "Name": "Saucy",
                 "InternalName": "Saucy",
-                "AssemblyVersion": "7.15.0.289",
+                "AssemblyVersion": "7.15.0.291",
                 "Description": "自動化部分金碟遊樂園小遊戲。",
                 "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Saucy.png",
                 "RepoUrl": "https://github.com/Lother/Saucy"
             },
             {
                 "Author": "daemitus, croizat, Lother",
                 "Name": "Something Need Doing",
                 "InternalName": "SomethingNeedDoing",
-                "AssemblyVersion": "7.15.0.17",
+                "AssemblyVersion": "7.15.0.19",
                 "Description": "現在不只能用於生產，功能更多！",
                 "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/SomethingNeedDoing.png",
                 "RepoUrl": "https://github.com/Lother/SomethingNeedDoing"
             },
             {
                 "Author": "MgAl2O4, Lother",
                 "Name": "TriadBuddy",
                 "InternalName": "TriadBuddy",
-                "AssemblyVersion": "7.15.0.8",
+                "AssemblyVersion": "7.15.0.10",
                 "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/FFTriadBuddyDalamud"
@@ -11550,9 +11584,10 @@
                 "Author": "Team Wrath, Lother",
                 "Name": "Wrath Combo",
                 "InternalName": "WrathCombo",
-                "AssemblyVersion": "7.15.0.4",
+                "AssemblyVersion": "7.15.0.5",
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/WrathCombo.png",
                 "RepoUrl": "https://github.com/Lother/WrathCombo"
             }
         ]
@@ -12424,12 +12459,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.6.0",
+                "AssemblyVersion": "0.2.6.3",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1783464633
+                "LastUpdate": 1783872266
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -12463,12 +12498,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.6.2",
+                "AssemblyVersion": "0.2.6.3",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1783814367
+                "LastUpdate": 1783872266
             }
         ]
     },
@@ -12558,12 +12593,12 @@
                 "Author": "Meowick",
                 "Name": "Emote Plugin",
                 "InternalName": "EmotePlugin",
-                "AssemblyVersion": "1.2.0.0",
+                "AssemblyVersion": "1.3.0.0",
                 "Description": "An emote management plugin with Penumbra mod association. Add/remove/rename/duplicate emotes, auto-toggle Penumbra mods, search and organize your emote collection. Use /emotes to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/meowickz/emotes/master/assets/icon.png",
                 "RepoUrl": "https://github.com/meowickz/emotes",
-                "LastUpdate": 1783748049
+                "LastUpdate": 1783883507
             }
         ]
     },
@@ -12791,12 +12826,12 @@
                 "Author": "miqote69",
                 "Name": "Actor Morpher",
                 "InternalName": "ActorMorpher",
-                "AssemblyVersion": "0.0.0.31",
+                "AssemblyVersion": "0.0.0.32",
                 "Description": "Locally changes visible actors into selected NPC, demihuman, or monster forms. Use /actormorpher to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/ActorMorpher/main/images/icon-v17.png",
                 "RepoUrl": "https://github.com/miqote69/ActorMorpher",
-                "LastUpdate": 1783862215
+                "LastUpdate": 1783863760
             }
         ]
     },
@@ -13368,6 +13403,16 @@
                 "IconUrl": "https://puni.sh/api/plugins/icon/161",
                 "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
                 "LastUpdate": 1782971186
+            },
+            {
+                "Author": "nainaiowo",
+                "Name": "DMU Mits",
+                "InternalName": "DMUMits",
+                "AssemblyVersion": "0.1.0.7",
+                "Description": "Shows upcoming dmu mitigation based on fight timeline",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nainaiowo/dmu-mits",
+                "LastUpdate": 1783883926
             },
             {
                 "Author": "nainaiowo",
@@ -14828,12 +14873,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.15.1.0",
+                "AssemblyVersion": "1.23.0.1",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo-dist",
-                "LastUpdate": 1783624835
+                "LastUpdate": 1783867351
             }
         ]
     },
@@ -15543,7 +15588,7 @@
                 "Author": "OOF Games",
                 "Name": "Chocobo Racing",
                 "InternalName": "ChocoboRacingGamba",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.3.0",
                 "Description": "Host live Chocobo Racing events at your venue with zero manual bookkeeping. Bets are captured from party and alliance chat automatically, player banks track every balance, and payouts are calculated at the click of a button. Run 2-10 chocobos with custom track lengths, odds, and branded chat messages. Full race history and profit/loss reporting included.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/157",
@@ -15874,12 +15919,12 @@
                 "Author": "Paissa Heavy Industries",
                 "Name": "Lemegeton",
                 "InternalName": "Lemegeton",
-                "AssemblyVersion": "1.0.8.3",
+                "AssemblyVersion": "1.0.8.4",
                 "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
                 "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
-                "LastUpdate": 1783697675
+                "LastUpdate": 1783883804
             },
             {
                 "Author": "Paissa Heavy Industries",
@@ -16543,12 +16588,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Passport Checker Reborn (Custom)",
                 "InternalName": "PassportCheckerReborn",
-                "AssemblyVersion": "7.5.1.2",
+                "AssemblyVersion": "7.5.1.3",
                 "Description": "파티 찾기 목록 옆에 멤버 정보 오버레이를 표시하는 플러그인입니다. 한국 서버에 맞게 수정한 버전으로, 한국 월드/FFLogs 매핑, 한국어 UI, PlayerTrack 기반 비공개 플레이어 이름 복원을 지원합니다.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/pnsdh/PassportCheckerReborn",
-                "LastUpdate": 1783780420
+                "LastUpdate": 1783870297
             }
         ]
     },
@@ -19615,6 +19660,25 @@
     },
     {
         "repo_developer_name": "Shuro",
+        "repo_url": "https://raw.githubusercontent.com/Shuro/dalamud-plugins/main/repo.json",
+        "repo_source_url": "https://github.com/Shuro/dalamud-plugins",
+        "repo_name": "dalamud-plugins",
+        "plugins": [
+            {
+                "Author": "Shuro",
+                "Name": "GobchatEx Roleplay Suite",
+                "InternalName": "GobchatExPlugin",
+                "AssemblyVersion": "0.9.1",
+                "Description": "Roleplay Highlighting in the native chat. Mentions notification with sound effects and more.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Shuro/dalamud-plugins/main/GobchatEx/images/icon.png",
+                "RepoUrl": "https://github.com/Shuro/dalamud-plugins",
+                "LastUpdate": 1783862978
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Shuro",
         "repo_url": "https://raw.githubusercontent.com/Shuro/GobchatEx-plugin/main/repo.json",
         "repo_source_url": "https://github.com/Shuro/GobchatEx-plugin",
         "repo_name": "GobchatEx-plugin",
@@ -19626,7 +19690,7 @@
                 "AssemblyVersion": "0.9.1",
                 "Description": "Roleplay Highlighting in the native chat. Mentions notification with sound effects and more.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Shuro/GobchatEx-plugin/main/GobchatEx/images/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/Shuro/dalamud-plugins/main/GobchatEx/images/icon.png",
                 "RepoUrl": "https://github.com/Shuro/GobchatEx-plugin",
                 "LastUpdate": 1783862978
             }
@@ -22614,12 +22678,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.4.0",
+                "AssemblyVersion": "0.9.5.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783815967
+                "LastUpdate": 1783878090
             },
             {
                 "Author": "XeldarAlz",
@@ -22636,12 +22700,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "1.3.2.0",
+                "AssemblyVersion": "1.3.2.1",
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1783778931
+                "LastUpdate": 1783881909
             },
             {
                 "Author": "XeldarAlz",
@@ -22688,12 +22752,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.4.0",
+                "AssemblyVersion": "0.9.5.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783815967
+                "LastUpdate": 1783878090
             }
         ]
     },
@@ -22726,12 +22790,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "1.3.2.0",
+                "AssemblyVersion": "1.3.2.1",
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1783778931
+                "LastUpdate": 1783881909
             }
         ]
     },
@@ -23529,6 +23593,25 @@
         ]
     },
     {
+        "repo_developer_name": "zheWn",
+        "repo_url": "https://raw.githubusercontent.com/zheWn/RSRcnPU/localization-feature/pluginmaster.json",
+        "repo_source_url": "https://github.com/zheWn/RSRcnPU",
+        "repo_name": "RSRcnPU",
+        "plugins": [
+            {
+                "Author": "zheWn",
+                "Name": "Rotation Solver Localized",
+                "InternalName": "RotationSolverLocalized",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "RotationSolverReborn 简体中文翻译版本。基于原版添加本地化支持，支持中英文切换。\n\n[Localized by zheWn]",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/zheWn/RSRcnPU/main/Images/Logo.png",
+                "RepoUrl": "https://github.com/zheWn/RSRcnPU",
+                "LastUpdate": 1783881825
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ZhyraPlugins",
         "repo_url": "https://raw.githubusercontent.com/ZhyraPlugins/repo/main/plugins.json",
         "repo_source_url": "https://github.com/ZhyraPlugins/repo",
@@ -23623,11 +23706,11 @@
                 "Author": "Zune",
                 "Name": "Master Of Puppets",
                 "InternalName": "MasterOfPuppets",
-                "AssemblyVersion": "1.15.0.221",
+                "AssemblyVersion": "1.15.0.222",
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1782947187
+                "LastUpdate": 1783876148
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
