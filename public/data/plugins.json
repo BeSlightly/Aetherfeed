@@ -639,12 +639,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.6.1",
+                "AssemblyVersion": "0.2.6.2",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1783736702
+                "LastUpdate": 1783814367
             },
             {
                 "Author": "XA",
@@ -1071,11 +1071,11 @@
                 "Author": "Alex",
                 "Name": "Submarine ETA Planner",
                 "InternalName": "SubmarineEtaPlanner",
-                "AssemblyVersion": "0.2.7.0",
+                "AssemblyVersion": "0.2.8.0",
                 "Description": "Read-only ETA planner for tracked FC submarines using SubmarineTracker-compatible voyage, build, EXP, and unlock calculations.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AlexValliere/submarineEtaPlanner",
-                "LastUpdate": 1783462206
+                "LastUpdate": 1783801709
             }
         ]
     },
@@ -1122,6 +1122,24 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AliaXIV/XIVGearPlugin",
                 "LastUpdate": 1778080454
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "alicewonderland-dev",
+        "repo_url": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/repo.json",
+        "repo_source_url": "https://github.com/alicewonderland-dev/WindUpKey",
+        "repo_name": "WindUpKey",
+        "plugins": [
+            {
+                "Author": "WonderlandDev",
+                "Name": "Wind-Up Key",
+                "InternalName": "WindUpKey",
+                "AssemblyVersion": "0.1.2.0",
+                "Description": "A (hopefully) simple plugin. Dolls need winding, and winders can wind up dolls.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
+                "LastUpdate": 1783817622
             }
         ]
     },
@@ -2410,7 +2428,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1783743049
+                "LastUpdate": 1783799485
             },
             {
                 "Author": "veyn, croizat",
@@ -3618,12 +3636,12 @@
                 "Author": "Meghann",
                 "Name": "Universal Market Board",
                 "InternalName": "UniversalisMarketBoard",
-                "AssemblyVersion": "0.1.12.0",
+                "AssemblyVersion": "0.1.14.0",
                 "Description": "Browse HQ and NQ market board listings, search any item, switch between world or data centre scopes, and sort prices from highest to lowest. Slash command: /umb",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/UniversalMarketBoard/main/assets/icon.png",
                 "RepoUrl": "https://github.com/CherryFairy78/UniversalMarketBoard",
-                "LastUpdate": 1783556444
+                "LastUpdate": 1783806388
             }
         ]
     },
@@ -6744,12 +6762,12 @@
                 "Author": "gerulla",
                 "Name": "FullParty",
                 "InternalName": "FullParty",
-                "AssemblyVersion": "0.0.25.0",
+                "AssemblyVersion": "0.1.0.0",
                 "Description": "Dalamud Plugin Companion for FullParty.gg",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
-                "LastUpdate": 1783552841
+                "LastUpdate": 1783812800
             }
         ]
     },
@@ -7915,6 +7933,17 @@
         "repo_source_url": "https://github.com/ijnokmsc/DalamudPlugins",
         "repo_name": "DalamudPlugins",
         "plugins": [
+            {
+                "Author": "AutoTrash Team",
+                "Name": "AutoTrash",
+                "InternalName": "auto_trash_can",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "FF14 Dalamud 插件，根据配置的物品列表自动丢弃背包（Inventory1~4）中的杂物。支持精确 ItemId 与模糊名称匹配、HQ 保护、数量阈值策略、列表 JSON/CSV 导入导出与丢弃日志。使用 /atrash 打开主窗口。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ijnokmsc/DalamudPlugins/main/icons/trashcan.png",
+                "RepoUrl": "https://github.com/ijnokmsc/TrashCan",
+                "LastUpdate": 1783803475
+            },
             {
                 "Author": "CraftFlow Team",
                 "Name": "CraftFlow",
@@ -9317,12 +9346,12 @@
                 "Author": "Wotou",
                 "Name": "Pocket Station",
                 "InternalName": "PocketStation",
-                "AssemblyVersion": "0.0.0.3",
+                "AssemblyVersion": "1.0.4.6",
                 "Description": "Pocket Station 是一个在 FFXIV 中运行的 Web 服务器，让你可以通过同一网络下的手机、平板或笔记本电脑连接。实时监控游戏聊天并支持自定义过滤器，实时串流游戏画面到移动设备，以及远程执行游戏指令。使用 Tailscale 或路由器端口转发，也可在外网安全访问。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kanyeishere/PocketStation/master/icon.png",
                 "RepoUrl": "https://github.com/kanyeishere/PocketStation",
-                "LastUpdate": 1782570043
+                "LastUpdate": 1783799405
             }
         ]
     },
@@ -9336,12 +9365,12 @@
                 "Author": "Wotou",
                 "Name": "Pocket Station",
                 "InternalName": "PocketStation",
-                "AssemblyVersion": "1.0.4.5",
+                "AssemblyVersion": "1.0.4.6",
                 "Description": "Pocket Station 是一个在 FFXIV 中运行的 Web 服务器，让你可以通过同一网络下的手机、平板或笔记本电脑连接。实时监控游戏聊天并支持自定义过滤器，实时串流游戏画面到移动设备，以及远程执行游戏指令。使用 Tailscale 或路由器端口转发，也可在外网安全访问。",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/kanyeishere/PocketStationTC/master/icon.png",
                 "RepoUrl": "https://github.com/kanyeishere/PocketStationTC",
-                "LastUpdate": 1783306879
+                "LastUpdate": 1783799264
             }
         ]
     },
@@ -9408,12 +9437,12 @@
                 "Author": "Tomok",
                 "Name": "ToDHelper",
                 "InternalName": "ToDHelperPlugin",
-                "AssemblyVersion": "0.0.0.9",
+                "AssemblyVersion": "0.0.0.11",
                 "Description": "Helps you manage and host Truth or Dare games.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/ToDHelperPlugin/icon.png",
                 "RepoUrl": "https://github.com/KaraRemy/ToDHelperPlugin",
-                "LastUpdate": 1783792705
+                "LastUpdate": 1783803429
             }
         ]
     },
@@ -10159,7 +10188,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1783743049
+                "LastUpdate": 1783799485
             },
             {
                 "Author": "sourpuh",
@@ -10176,12 +10205,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.2",
+                "AssemblyVersion": "15.306.0.5",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783679154
+                "LastUpdate": 1783818598
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10203,7 +10232,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1783407467
+                "LastUpdate": 1783761069
             }
         ]
     },
@@ -12258,12 +12287,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.6.1",
+                "AssemblyVersion": "0.2.6.2",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1783736702
+                "LastUpdate": 1783814367
             }
         ]
     },
@@ -12586,12 +12615,12 @@
                 "Author": "miqote69",
                 "Name": "Actor Morpher",
                 "InternalName": "ActorMorpher",
-                "AssemblyVersion": "0.0.0.15",
+                "AssemblyVersion": "0.0.0.18",
                 "Description": "Locally changes visible actors into selected NPC, demihuman, or monster forms. Use /actormorpher to open the window.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/miqote69/ActorMorpher/main/images/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/miqote69/ActorMorpher/main/images/icon-v17.png",
                 "RepoUrl": "https://github.com/miqote69/ActorMorpher",
-                "LastUpdate": 1783791111
+                "LastUpdate": 1783811005
             }
         ]
     },
@@ -12605,12 +12634,12 @@
                 "Author": "miqote69",
                 "Name": "Minion Scaler",
                 "InternalName": "MinionScaler",
-                "AssemblyVersion": "0.0.0.26",
+                "AssemblyVersion": "0.0.0.27",
                 "Description": "Adjusts the local display scale of selected minions. Use /minionscalerconfig to configure.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/MinionScalerRepo/main/Assets/icon-v2.png",
                 "RepoUrl": "https://github.com/miqote69/MinionScalerRepo",
-                "LastUpdate": 1783791831
+                "LastUpdate": 1783808509
             }
         ]
     },
@@ -13615,12 +13644,12 @@
                 "Author": "Nexai",
                 "Name": "FCCH",
                 "InternalName": "FCCH",
-                "AssemblyVersion": "2.4.1.0",
+                "AssemblyVersion": "2.4.2.0",
                 "Description": "Automates moving existing items to and from the FC Chest.\nEasily withdraw custom item lists or materials for workshop projects.\n\nNote: Temporarily disables YesAlready while depositing or withdrawing.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nexaii/dalamud-plugins/main/assets/fcch.png",
                 "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1783463824
+                "LastUpdate": 1783813757
             },
             {
                 "Author": "Nexai",
@@ -13645,12 +13674,12 @@
                 "Author": "Nexai",
                 "Name": "FCCH",
                 "InternalName": "FCCH",
-                "AssemblyVersion": "2.4.1.0",
+                "AssemblyVersion": "2.4.2.0",
                 "Description": "Free Company Chest Helper. Automate deposits, withdrawals, organization, crystals, workshop project pulls, and custom item lists.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/149",
                 "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1783463824
+                "LastUpdate": 1783813757
             },
             {
                 "Author": "Nexai",
@@ -14873,6 +14902,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/nomnivore/ProggersPlease/main/images/icon.png",
                 "RepoUrl": "https://github.com/nomnivore/ProggersPlease",
                 "LastUpdate": 1755322294
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "noranda",
+        "repo_url": "https://raw.githubusercontent.com/noranda/xiv-shinies-plugin/main/repo.json",
+        "repo_source_url": "https://github.com/noranda/xiv-shinies-plugin",
+        "repo_name": "xiv-shinies-plugin",
+        "plugins": [
+            {
+                "Author": "Noranda",
+                "Name": "XIV Shinies Sync",
+                "InternalName": "XIVShinies.SyncPlugin",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Automatically records your collection progress on XIV Shinies (https://xiv-shinies.com). New unlocks — quests, achievements, mounts, minions, and more — appear on the site within seconds, and everything else syncs automatically in the background. Fully opt-in: nothing uploads until you finish the short setup, and you choose exactly which collections to send. Use /shinies to get started.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/noranda/xiv-shinies-plugin/main/src/XIVShinies.SyncPlugin/images/icon.png",
+                "RepoUrl": "https://github.com/noranda/xiv-shinies-plugin",
+                "LastUpdate": 1783809587
             }
         ]
     },
@@ -16662,12 +16710,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.4",
+                "AssemblyVersion": "15.306.0.5",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783790126
+                "LastUpdate": 1783818598
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -18967,12 +19015,12 @@
                 "Author": "Selken",
                 "Name": "Armoire Butler",
                 "InternalName": "ArmoireButlerPlugin",
-                "AssemblyVersion": "0.1.8.0",
+                "AssemblyVersion": "0.1.9.0",
                 "Description": "Analyzes local wardrobe, armoire, glamour dresser, retainer cache, dyes, duplicates, glamour sets, and store outfit ownership. Command: /yggj",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/assets/ArmoireButler/icon.png",
                 "RepoUrl": "https://github.com/selken-ixx/SelkenDalamud",
-                "LastUpdate": 1783700993
+                "LastUpdate": 1783798994
             }
         ]
     },
@@ -19380,12 +19428,12 @@
                 "Author": "Shuro",
                 "Name": "GobchatEx Roleplay Suite",
                 "InternalName": "GobchatExPlugin",
-                "AssemblyVersion": "0.8.0",
+                "AssemblyVersion": "0.9.0",
                 "Description": "Roleplay Highlighting in the native chat. Mentions notification with sound effects and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shuro/GobchatEx-plugin/main/GobchatEx/images/icon.png",
                 "RepoUrl": "https://github.com/Shuro/GobchatEx-plugin",
-                "LastUpdate": 1783385878
+                "LastUpdate": 1783816042
             }
         ]
     },
@@ -21031,7 +21079,7 @@
                 "Author": "u86cd(粉色母肥)",
                 "Name": "SillyToolbox",
                 "InternalName": "SillyToolbox",
-                "AssemblyVersion": "1.0.2.3",
+                "AssemblyVersion": "1.0.2.4",
                 "Description": "傻肥工具箱, 包含一些给自己和亲友用的小功能\n如果有什么想要的功能请直接联系我, 我会尽力加入工具箱",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/plugins/SillyToolbox/SillyToolbox_icon.png",
@@ -21853,12 +21901,12 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel",
-                "AssemblyVersion": "1.1.20260711.947",
+                "AssemblyVersion": "1.1.20260711.953",
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://gist.githubusercontent.com/Voudi/77c661ec1597925c2856d649a0cfc2d8/raw/icon.png",
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1783796865
+                "LastUpdate": 1783801224
             }
         ]
     },
@@ -22329,12 +22377,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.2.0",
+                "AssemblyVersion": "0.9.4.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783793501
+                "LastUpdate": 1783815967
             },
             {
                 "Author": "XeldarAlz",
@@ -22403,12 +22451,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.2.0",
+                "AssemblyVersion": "0.9.4.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783756913
+                "LastUpdate": 1783815967
             }
         ]
     },
@@ -22921,12 +22969,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.3",
+                "AssemblyVersion": "15.306.0.5",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1783788417
+                "LastUpdate": 1783813478
             },
             {
                 "Author": "youdianfengbao (基于 awgil/ffxiv_satisfy)",
