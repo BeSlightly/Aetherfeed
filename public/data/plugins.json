@@ -1135,11 +1135,12 @@
                 "Author": "WonderlandDev",
                 "Name": "Wind-Up Key",
                 "InternalName": "WindUpKey",
-                "AssemblyVersion": "0.1.2.0",
+                "AssemblyVersion": "0.1.3.2",
                 "Description": "A (hopefully) simple plugin. Dolls need winding, and winders can wind up dolls.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/key.png",
                 "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
-                "LastUpdate": 1783817622
+                "LastUpdate": 1783829402
             }
         ]
     },
@@ -2428,7 +2429,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1783799485
+                "LastUpdate": 1783827612
             },
             {
                 "Author": "veyn, croizat",
@@ -2886,9 +2887,28 @@
                 "AssemblyVersion": "1.0.0.8",
                 "Description": "Offline translation plugin directly inside FFXIV.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Blackstar90210/Allagan-Translator--Local-AI---Online-/main/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/Blackstar90210/Allagan_Translator/main/icon.png",
                 "RepoUrl": "https://github.com/Blackstar90210/Allagan-Translator--Local-AI---Online-",
-                "LastUpdate": 1783790523
+                "LastUpdate": 1783841001
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Blackstar90210",
+        "repo_url": "https://raw.githubusercontent.com/Blackstar90210/Allagan_Translator/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Blackstar90210/Allagan_Translator",
+        "repo_name": "Allagan_Translator",
+        "plugins": [
+            {
+                "Author": "Blackstar90210",
+                "Name": "Allagan Translator (Local AI & Online)",
+                "InternalName": "DalamudTranslator",
+                "AssemblyVersion": "1.0.0.8",
+                "Description": "Offline translation plugin directly inside FFXIV.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Blackstar90210/Allagan_Translator/main/icon.png",
+                "RepoUrl": "https://github.com/Blackstar90210/Allagan_Translator",
+                "LastUpdate": 1783841001
             }
         ]
     },
@@ -3617,12 +3637,12 @@
                 "Author": "Meghann",
                 "Name": "Recipe Helper",
                 "InternalName": "DalamudRecipeHelper",
-                "AssemblyVersion": "1.1.37.0",
+                "AssemblyVersion": "1.1.41.0",
                 "Description": "Build a combined plan from multiple FFXIV recipes, compare NQ and HQ requirements with live inventory and saved retainer snapshots, track timed gathering materials, and hand crafting or travel actions to Artisan, Teamcraft, and GatherBuddy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/Recipe-Helper/main/RecipeHelperIcon1.png",
                 "RepoUrl": "https://github.com/CherryFairy78/Recipe-Helper",
-                "LastUpdate": 1783734226
+                "LastUpdate": 1783840661
             }
         ]
     },
@@ -4582,12 +4602,12 @@
                 "Author": "Oreo",
                 "Name": "Silkstring",
                 "InternalName": "Silkstring",
-                "AssemblyVersion": "1.6.1.0",
+                "AssemblyVersion": "2.0.0.0",
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/devoreofox/Silkstring/main/Silkstring/images/icon.png",
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1783614992
+                "LastUpdate": 1783839143
             }
         ]
     },
@@ -4620,12 +4640,12 @@
                 "Author": "Oreo",
                 "Name": "Silkstring",
                 "InternalName": "Silkstring",
-                "AssemblyVersion": "1.6.1.0",
+                "AssemblyVersion": "2.0.0.0",
                 "Description": "Silkstring lets you create custom command aliases that expand into one or more chat commands, executed in order. Use /silkstring to open the settings window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/devoreofox/Silkstring/main/Silkstring/images/icon.png",
                 "RepoUrl": "https://github.com/devoreofox/Silkstring",
-                "LastUpdate": 1783614992
+                "LastUpdate": 1783839143
             }
         ]
     },
@@ -6222,7 +6242,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1783612130
+                "LastUpdate": 1783820625
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6564,12 +6584,12 @@
                 "Author": "FranFkntastic",
                 "Name": "MarketMafioso",
                 "InternalName": "MarketMafioso",
-                "AssemblyVersion": "1.1.2.1",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "A practical FFXIV utility plugin for Workshop Logistics and optional receiver-backed inventory history.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FranFkntastic/MarketMafioso/main/docs/pluginmaster/assets/icon.png",
                 "RepoUrl": "https://github.com/FranFkntastic/MarketMafioso",
-                "LastUpdate": 1783729415
+                "LastUpdate": 1783830462
             }
         ]
     },
@@ -7223,6 +7243,24 @@
     },
     {
         "repo_developer_name": "greenteakitkats",
+        "repo_url": "https://raw.githubusercontent.com/greenteakitkats/ARoomReborn/main/testing/repo.json",
+        "repo_source_url": "https://github.com/greenteakitkats/ARoomReborn",
+        "repo_name": "ARoomReborn",
+        "plugins": [
+            {
+                "Author": "greenteakitkats",
+                "Name": "A Room Reborn (Testing)",
+                "InternalName": "ARoomReborn",
+                "AssemblyVersion": "0.16.2.0",
+                "Description": "Experimental test build of A Room Reborn. Names Placed/Removed/Stored items correctly outdoors by cross-checking your storeroom and inventory contents directly, the same reliable method Deposited/Withdrawn already used, instead of guessing a HousingFurniture sheet row. Install this only to try it before it goes to the stable repo. Type /houselog to open it.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/greenteakitkats/ARoomReborn",
+                "LastUpdate": 1783837875
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "greenteakitkats",
         "repo_url": "https://raw.githubusercontent.com/greenteakitkats/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/greenteakitkats/DalamudPlugins",
         "repo_name": "DalamudPlugins",
@@ -7231,11 +7269,11 @@
                 "Author": "greenteakitkats",
                 "Name": "A Room Reborn",
                 "InternalName": "ARoomReborn",
-                "AssemblyVersion": "0.14.1.0",
+                "AssemblyVersion": "0.17.0.0",
                 "Description": "A running log of everything you do while decorating your house, indoors and out in the yard: placing, removing, moving, rotating, and dyeing furniture, all with coordinates. Forgot what you just changed, or moved something and want it back? Click the old coordinates to copy them, hit Undo on any move, or turn on Apply mode to snap the selected item right back into place. It'll also show you what changed since you were last home. Built to sit alongside Burning Down the House. Type /houselog to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/greenteakitkats/ARoomReborn",
-                "LastUpdate": 1783600246
+                "LastUpdate": 1783837875
             }
         ]
     },
@@ -7460,7 +7498,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1783733686
+                "LastUpdate": 1783810482
             },
             {
                 "Author": "Haselnussbomber",
@@ -8142,12 +8180,12 @@
                 "Author": "Irie",
                 "Name": "Peanuts",
                 "InternalName": "PeanutsPlugin",
-                "AssemblyVersion": "1.2.0.0",
+                "AssemblyVersion": "1.3.0.0",
                 "Description": "Scrape together the existing pieces of jewelry and eagerly note down the quantity and current owner in Tataru's small notebook.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Irietiert/PeanutsPlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/Irietiert/PeanutsPlugin",
-                "LastUpdate": 1783721154
+                "LastUpdate": 1783834622
             }
         ]
     },
@@ -10188,7 +10226,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1783799485
+                "LastUpdate": 1783827612
             },
             {
                 "Author": "sourpuh",
@@ -10210,7 +10248,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783818598
+                "LastUpdate": 1783839496
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -12615,12 +12653,12 @@
                 "Author": "miqote69",
                 "Name": "Actor Morpher",
                 "InternalName": "ActorMorpher",
-                "AssemblyVersion": "0.0.0.18",
+                "AssemblyVersion": "0.0.0.25",
                 "Description": "Locally changes visible actors into selected NPC, demihuman, or monster forms. Use /actormorpher to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/ActorMorpher/main/images/icon-v17.png",
                 "RepoUrl": "https://github.com/miqote69/ActorMorpher",
-                "LastUpdate": 1783811005
+                "LastUpdate": 1783828831
             }
         ]
     },
@@ -12634,12 +12672,12 @@
                 "Author": "miqote69",
                 "Name": "Minion Scaler",
                 "InternalName": "MinionScaler",
-                "AssemblyVersion": "0.0.0.27",
+                "AssemblyVersion": "0.0.0.30",
                 "Description": "Adjusts the local display scale of selected minions. Use /minionscalerconfig to configure.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/MinionScalerRepo/main/Assets/icon-v2.png",
                 "RepoUrl": "https://github.com/miqote69/MinionScalerRepo",
-                "LastUpdate": 1783808509
+                "LastUpdate": 1783824043
             }
         ]
     },
@@ -12943,7 +12981,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
-                "LastUpdate": 1783496821
+                "LastUpdate": 1783823600
             }
         ]
     },
@@ -13180,7 +13218,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783636634
+                "LastUpdate": 1783835033
             },
             {
                 "Author": "nainaiowo",
@@ -15048,6 +15086,25 @@
     },
     {
         "repo_developer_name": "ofnature",
+        "repo_url": "https://raw.githubusercontent.com/ofnature/Caduceus/main/repo.json",
+        "repo_source_url": "https://github.com/ofnature/Caduceus",
+        "repo_name": "Caduceus",
+        "plugins": [
+            {
+                "Author": "ofnature",
+                "Name": "Caduceus",
+                "InternalName": "Caduceus",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Lightweight manual mouseover-healing tool for WHM/SCH/SGE/AST. Compact party frames that act as a mouseover source, configurable click-to-heal bindings and keybinds, and a triage highlight for the most urgent target. Never casts on its own. Companion to Daedalus.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ofnature/Caduceus/main/images/icon.png",
+                "RepoUrl": "https://github.com/ofnature/Caduceus",
+                "LastUpdate": 1783832024
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ofnature",
         "repo_url": "https://raw.githubusercontent.com/ofnature/Charon/main/repo.json",
         "repo_source_url": "https://github.com/ofnature/Charon",
         "repo_name": "Charon",
@@ -15056,12 +15113,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.0",
+                "AssemblyVersion": "0.1.1",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1783658942
+                "LastUpdate": 1783828540
             }
         ]
     },
@@ -16628,7 +16685,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1783581402
+                "LastUpdate": 1783824603
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -16645,12 +16702,12 @@
                 "Author": "kawaii, NightmareXIV",
                 "Name": "Avarice",
                 "InternalName": "Avarice",
-                "AssemblyVersion": "2.2.0.6",
+                "AssemblyVersion": "2.2.0.9",
                 "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/11",
                 "RepoUrl": "https://github.com/PunishXIV/Avarice",
-                "LastUpdate": 1781708942
+                "LastUpdate": 1783833564
             },
             {
                 "Author": "Taurenkey, Gid, NightmareXIV",
@@ -16715,7 +16772,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783818598
+                "LastUpdate": 1783839496
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -18707,11 +18764,11 @@
                 "Author": "Sansflaire",
                 "Name": "FFXIV-TV",
                 "InternalName": "FFXIV-TV",
-                "AssemblyVersion": "0.5.215",
+                "AssemblyVersion": "0.5.223",
                 "Description": "Places a virtual screen in 3D world space that displays images and video with proper depth testing. Supports local files, direct URLs, YouTube (via yt-dlp), and multi-player sync so all players with the plugin see the same content simultaneously.\n\nNote: yt-dlp.exe must be placed in the plugin folder for YouTube support.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sansflaire/FFXIV-TV",
-                "LastUpdate": 1781995561
+                "LastUpdate": 1783825319
             }
         ]
     },
@@ -20830,12 +20887,12 @@
                 "Author": "Lucille",
                 "Name": "XIV AI Companion",
                 "InternalName": "XIVAICompanion",
-                "AssemblyVersion": "2.1.0.4",
+                "AssemblyVersion": "2.1.0.5",
                 "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/tigurand/XIVAICompanion/refs/heads/main/image/icon.png",
                 "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
-                "LastUpdate": 1782671724
+                "LastUpdate": 1783834885
             }
         ]
     },
@@ -22099,12 +22156,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.4.0",
+                "AssemblyVersion": "1.1.5.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1783751069
+                "LastUpdate": 1783838464
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
