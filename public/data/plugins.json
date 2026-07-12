@@ -1135,12 +1135,12 @@
                 "Author": "WonderlandDev",
                 "Name": "Wind-Up Key",
                 "InternalName": "WindUpKey",
-                "AssemblyVersion": "0.1.3.2",
+                "AssemblyVersion": "0.1.4.0",
                 "Description": "A (hopefully) simple plugin. Dolls need winding, and winders can wind up dolls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/key.png",
                 "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
-                "LastUpdate": 1783829402
+                "LastUpdate": 1783861132
             }
         ]
     },
@@ -1575,7 +1575,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
                 "RepoUrl": "https://github.com/anomek/AnoMech",
-                "LastUpdate": 1783755545
+                "LastUpdate": 1783811154
             },
             {
                 "Author": "Anomek",
@@ -2909,6 +2909,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/Blackstar90210/Allagan_Translator/main/icon.png",
                 "RepoUrl": "https://github.com/Blackstar90210/Allagan_Translator",
                 "LastUpdate": 1783841001
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Blackstar90210",
+        "repo_url": "https://raw.githubusercontent.com/Blackstar90210/Allagan_Translator_Test/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Blackstar90210/Allagan_Translator_Test",
+        "repo_name": "Allagan_Translator_Test",
+        "plugins": [
+            {
+                "Author": "Blackstar90210",
+                "Name": "Allagan Translator (Local AI & Online)",
+                "InternalName": "AllaganTranslator",
+                "AssemblyVersion": "1.0.0.10",
+                "Description": "Offline translation plugin directly inside FFXIV.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Blackstar90210/Allagan_Translator_Test/main/icon.png",
+                "RepoUrl": "https://github.com/Blackstar90210/Allagan_Translator_Test",
+                "LastUpdate": 1783862881
             }
         ]
     },
@@ -4471,11 +4490,11 @@
                 "Author": "嗨呀",
                 "Name": "Browsingway",
                 "InternalName": "Browsingway",
-                "AssemblyVersion": "1.7.4.0",
+                "AssemblyVersion": "1.7.5.0",
                 "Description": "GPU-accelerated browser overlays with external IPC API for plugin control. Based on BrowserHost by ackwell.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/denghaoxuan991876906/Browsingway",
-                "LastUpdate": 1783070957
+                "LastUpdate": 1783845100
             },
             {
                 "Author": "嗨呀www",
@@ -4670,11 +4689,11 @@
                 "Author": "Akari",
                 "Name": "Housing Lotto Tracker",
                 "InternalName": "HousingLottoTracker",
-                "AssemblyVersion": "1.0.2.5",
+                "AssemblyVersion": "1.0.3.0",
                 "Description": "Passively records every housing lottery bid you place, per character, by reading the placard when you interact with it. One row per bid: character/world, region, district, ward, plot, size, FC-vs-personal, entry date, results-available date with live countdown, and outcome (Pending/Won/Lost). Auto-captures placard data during entry and results periods; auto-detects wins via the results SelectYesno; entry number is grabbed when shown and editable otherwise. Sortable table with click-to-expand details, per-column toggles, editable notes, and optional shared storage across all clients. Open with /hlt (alias /lotto).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/HousingLottoTracker",
-                "LastUpdate": 1783047633
+                "LastUpdate": 1783845535
             },
             {
                 "Author": "Akari",
@@ -4727,11 +4746,11 @@
                 "Author": "Akari",
                 "Name": "Housing Lotto Tracker",
                 "InternalName": "HousingLottoTracker",
-                "AssemblyVersion": "1.0.2.5",
+                "AssemblyVersion": "1.0.3.0",
                 "Description": "Passively records every housing lottery bid you place, per character, by reading the placard when you interact with it. One row per bid: character/world, region, district, ward, plot, size, FC-vs-personal, entrant count, entry date, results-available date with live countdown, and outcome (Pending/Won/Lost). Auto-captures placard data during entry and results periods; auto-detects wins via the results SelectYesno; entry number is grabbed when shown and editable otherwise. Sortable table with click-to-expand details, per-column toggles, editable notes, and optional shared storage across all clients. Open with /hlt (alias /lotto).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/HousingLottoTracker",
-                "LastUpdate": 1782265540
+                "LastUpdate": 1783845535
             }
         ]
     },
@@ -5517,6 +5536,17 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
+                "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
+                "Name": "Brio-CN",
+                "InternalName": "Brio-CN",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/endfish/Brio-CN/zh-CN/Resources/Images/BrioIcon.png",
+                "RepoUrl": "https://github.com/endfish/Brio-CN",
+                "LastUpdate": 1783858318
+            },
+            {
                 "Author": "kawaii, 汉化: Endfish",
                 "Name": "HyperboreaCN",
                 "InternalName": "HyperboreaCN",
@@ -5536,7 +5566,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/endfish/PosePad/main/icon.png",
                 "RepoUrl": "https://github.com/endfish/PosePad",
-                "LastUpdate": 1777723377
+                "LastUpdate": 1783839383
             },
             {
                 "Author": "veyn, croizat, Endfish (CN localization)",
@@ -5638,18 +5668,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783605215
+                "LastUpdate": 1783855172
             },
             {
                 "Author": "erdelf",
                 "Name": "FC Tracker",
                 "InternalName": "FCTracker",
-                "AssemblyVersion": "0.0.0.25",
+                "AssemblyVersion": "0.0.0.26",
                 "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1783722477
+                "LastUpdate": 1783863146
             }
         ]
     },
@@ -7243,24 +7273,6 @@
     },
     {
         "repo_developer_name": "greenteakitkats",
-        "repo_url": "https://raw.githubusercontent.com/greenteakitkats/ARoomReborn/main/testing/repo.json",
-        "repo_source_url": "https://github.com/greenteakitkats/ARoomReborn",
-        "repo_name": "ARoomReborn",
-        "plugins": [
-            {
-                "Author": "greenteakitkats",
-                "Name": "A Room Reborn (Testing)",
-                "InternalName": "ARoomReborn",
-                "AssemblyVersion": "0.16.2.0",
-                "Description": "Experimental test build of A Room Reborn. Names Placed/Removed/Stored items correctly outdoors by cross-checking your storeroom and inventory contents directly, the same reliable method Deposited/Withdrawn already used, instead of guessing a HousingFurniture sheet row. Install this only to try it before it goes to the stable repo. Type /houselog to open it.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/greenteakitkats/ARoomReborn",
-                "LastUpdate": 1783837875
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "greenteakitkats",
         "repo_url": "https://raw.githubusercontent.com/greenteakitkats/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/greenteakitkats/DalamudPlugins",
         "repo_name": "DalamudPlugins",
@@ -7269,11 +7281,29 @@
                 "Author": "greenteakitkats",
                 "Name": "A Room Reborn",
                 "InternalName": "ARoomReborn",
-                "AssemblyVersion": "0.17.0.0",
+                "AssemblyVersion": "0.18.2.0",
                 "Description": "A running log of everything you do while decorating your house, indoors and out in the yard: placing, removing, moving, rotating, and dyeing furniture, all with coordinates. Forgot what you just changed, or moved something and want it back? Click the old coordinates to copy them, hit Undo on any move, or turn on Apply mode to snap the selected item right back into place. It'll also show you what changed since you were last home. Built to sit alongside Burning Down the House. Type /houselog to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/greenteakitkats/ARoomReborn",
-                "LastUpdate": 1783837875
+                "LastUpdate": 1783850980
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "greenteakitkats",
+        "repo_url": "https://raw.githubusercontent.com/greenteakitkats/DalamudPluginsTesting/main/repo.json",
+        "repo_source_url": "https://github.com/greenteakitkats/DalamudPluginsTesting",
+        "repo_name": "DalamudPluginsTesting",
+        "plugins": [
+            {
+                "Author": "greenteakitkats",
+                "Name": "A Room Reborn",
+                "InternalName": "ARoomReborn",
+                "AssemblyVersion": "0.18.2.0",
+                "Description": "A running log of everything you do while decorating your house, indoors and out in the yard: placing, removing, storing, moving, rotating, and dyeing furniture, all with coordinates. Forgot what you just changed, or moved something and want it back? Click a coordinate to move the selected item there, or hit Undo on any move to snap it back automatically. Also shows what changed while you were away, and keeps a separate history for each of your houses. Built to sit alongside Burning Down the House. Type /houselog to open it.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/greenteakitkats/ARoomReborn",
+                "LastUpdate": 1783850980
             }
         ]
     },
@@ -7493,12 +7523,12 @@
                 "Author": "Haselnussbomber",
                 "Name": "HaselTweaks",
                 "InternalName": "HaselTweaks",
-                "AssemblyVersion": "49.0.0.0",
+                "AssemblyVersion": "49.1.0.0",
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1783810482
+                "LastUpdate": 1783857582
             },
             {
                 "Author": "Haselnussbomber",
@@ -7975,12 +8005,12 @@
                 "Author": "AutoTrash Team",
                 "Name": "AutoTrash",
                 "InternalName": "auto_trash_can",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "FF14 Dalamud 插件，根据配置的物品列表自动丢弃背包（Inventory1~4）中的杂物。支持精确 ItemId 与模糊名称匹配、HQ 保护、数量阈值策略、列表 JSON/CSV 导入导出与丢弃日志。使用 /atrash 打开主窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ijnokmsc/DalamudPlugins/main/icons/trashcan.png",
                 "RepoUrl": "https://github.com/ijnokmsc/TrashCan",
-                "LastUpdate": 1783803475
+                "LastUpdate": 1783862029
             },
             {
                 "Author": "CraftFlow Team",
@@ -10199,12 +10229,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.323",
+                "AssemblyVersion": "0.0.0.325",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783605215
+                "LastUpdate": 1783855172
             },
             {
                 "Author": "croizat",
@@ -10243,12 +10273,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.5",
+                "AssemblyVersion": "15.306.0.6",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783839496
+                "LastUpdate": 1783858472
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -11439,6 +11469,95 @@
         ]
     },
     {
+        "repo_developer_name": "Lother",
+        "repo_url": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/repo.json",
+        "repo_source_url": "https://github.com/Lother/DalamudPluginsTC",
+        "repo_name": "DalamudPluginsTC",
+        "plugins": [
+            {
+                "Author": "Ottermandias, Lother",
+                "Name": "Accountant",
+                "InternalName": "Accountant",
+                "AssemblyVersion": "7.15.0.74",
+                "Description": "記錄多名角色的雇員、飛艇、潛水艇、以太之輪與作物計時器，\n以及其他各種雜項任務進度。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Lother/Accountant"
+            },
+            {
+                "Author": "кайт машина (Puni.sh), Lother",
+                "Name": "AutoRetainer",
+                "InternalName": "AutoRetainer",
+                "AssemblyVersion": "7.15.0.86",
+                "Description": "躺在床上就能收取並指派雇員的遠航任務。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Lother/AutoRetainer"
+            },
+            {
+                "Author": "The Combat Reborn Team, Lother",
+                "Name": "Bossmod Reborn",
+                "InternalName": "BossModReborn",
+                "AssemblyVersion": "7.15.0.46",
+                "Description": "繁體中文分支（TC-7.15）。提供 Boss 戰雷達、自動循環、冷卻計劃與 AI 功能，幫助您輕鬆應對各種 Boss 機制。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Lother/BossmodReborn"
+            },
+            {
+                "Author": "Snowy, KangasZ, Lother",
+                "Name": "Eureka Helper",
+                "InternalName": "EurekaHelper",
+                "AssemblyVersion": "7.15.0.57",
+                "Description": "協助你進行優雷卡冒險的工具，已更新至《漂泊眾島》版本！輸入 /eurekahelper 開始使用。\n\n功能包含：\n- 遊戲內追蹤器 GUI\n- 副本追蹤器\n- 聖靈追蹤器\n- 魂武助手\n- 鬧鐘\n- 賺錢 NM 天氣時間提醒\n- 更多功能陸續推出",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Lother/EurekaHelper"
+            },
+            {
+                "Author": "apetih, Lother",
+                "Name": "Logogram Helper",
+                "InternalName": "LogogramHelper",
+                "AssemblyVersion": "7.15.0.7",
+                "Description": "進入聖言操縱者後，顯示優雷卡聖言技能所有可能組合的數量。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Lother/LogogramHelper"
+            },
+            {
+                "Author": "Taurenkey, Kagekazu, Lother",
+                "Name": "Saucy",
+                "InternalName": "Saucy",
+                "AssemblyVersion": "7.15.0.289",
+                "Description": "自動化部分金碟遊樂園小遊戲。",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Lother/Saucy"
+            },
+            {
+                "Author": "daemitus, croizat, Lother",
+                "Name": "Something Need Doing",
+                "InternalName": "SomethingNeedDoing",
+                "AssemblyVersion": "7.15.0.17",
+                "Description": "現在不只能用於生產，功能更多！",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Lother/SomethingNeedDoing"
+            },
+            {
+                "Author": "MgAl2O4, Lother",
+                "Name": "TriadBuddy",
+                "InternalName": "TriadBuddy",
+                "AssemblyVersion": "7.15.0.8",
+                "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Lother/FFTriadBuddyDalamud"
+            },
+            {
+                "Author": "Team Wrath, Lother",
+                "Name": "Wrath Combo",
+                "InternalName": "WrathCombo",
+                "AssemblyVersion": "7.15.0.4",
+                "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+                "DalamudApiLevel": 12,
+                "RepoUrl": "https://github.com/Lother/WrathCombo"
+            }
+        ]
+    },
+    {
         "repo_developer_name": "LucifurrMorningstar",
         "repo_url": "https://raw.githubusercontent.com/LucifurrMorningstar/Dalamud/main/repo.json",
         "repo_source_url": "https://github.com/LucifurrMorningstar/Dalamud",
@@ -11905,6 +12024,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
                 "LastUpdate": 1783727924
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "McVaxius",
+        "repo_url": "https://raw.githubusercontent.com/McVaxius/botology/main/repo.json",
+        "repo_source_url": "https://github.com/McVaxius/botology",
+        "repo_name": "botology",
+        "plugins": [
+            {
+                "Author": "DhogGPT",
+                "Name": "Botology",
+                "InternalName": "botology",
+                "AssemblyVersion": "0.2.0.1",
+                "Description": "Let's face it, you are a Botologist now, you need proper analysis of all of your tools so they work and play nice together.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/McVaxius/botology/main/botology/images/icon.png",
+                "RepoUrl": "https://github.com/McVaxius/botology",
+                "LastUpdate": 1783081089
             }
         ]
     },
@@ -12653,12 +12791,12 @@
                 "Author": "miqote69",
                 "Name": "Actor Morpher",
                 "InternalName": "ActorMorpher",
-                "AssemblyVersion": "0.0.0.25",
+                "AssemblyVersion": "0.0.0.31",
                 "Description": "Locally changes visible actors into selected NPC, demihuman, or monster forms. Use /actormorpher to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/ActorMorpher/main/images/icon-v17.png",
                 "RepoUrl": "https://github.com/miqote69/ActorMorpher",
-                "LastUpdate": 1783828831
+                "LastUpdate": 1783862215
             }
         ]
     },
@@ -13213,12 +13351,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.238",
+                "AssemblyVersion": "0.1.0.240",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783835033
+                "LastUpdate": 1783859840
             },
             {
                 "Author": "nainaiowo",
@@ -13766,7 +13904,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1783732947
+                "LastUpdate": 1783819453
             },
             {
                 "Author": "goat, Maple",
@@ -13776,7 +13914,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1783738322
+                "LastUpdate": 1783826219
             }
         ]
     },
@@ -15113,12 +15251,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.1",
+                "AssemblyVersion": "0.1.2",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1783828540
+                "LastUpdate": 1783856708
             }
         ]
     },
@@ -16767,12 +16905,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.5",
+                "AssemblyVersion": "15.306.0.6",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783839496
+                "LastUpdate": 1783858472
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16931,12 +17069,12 @@
                 "Author": "pyreymo",
                 "Name": "Event Horizon",
                 "InternalName": "EventHorizon",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.3.2.7",
                 "Description": "Cull distant or irrelevant world objects around your character. Use /eventhorizon or /eh to open settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/pyreymo/event-horizon/master/images/icon.png",
                 "RepoUrl": "https://github.com/pyreymo/event-horizon",
-                "LastUpdate": 1783765857
+                "LastUpdate": 1783861813
             }
         ]
     },
@@ -18764,11 +18902,11 @@
                 "Author": "Sansflaire",
                 "Name": "FFXIV-TV",
                 "InternalName": "FFXIV-TV",
-                "AssemblyVersion": "0.5.223",
+                "AssemblyVersion": "0.5.249",
                 "Description": "Places a virtual screen in 3D world space that displays images and video with proper depth testing. Supports local files, direct URLs, YouTube (via yt-dlp), and multi-player sync so all players with the plugin see the same content simultaneously.\n\nNote: yt-dlp.exe must be placed in the plugin folder for YouTube support.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sansflaire/FFXIV-TV",
-                "LastUpdate": 1783825319
+                "LastUpdate": 1783848699
             }
         ]
     },
@@ -19485,12 +19623,12 @@
                 "Author": "Shuro",
                 "Name": "GobchatEx Roleplay Suite",
                 "InternalName": "GobchatExPlugin",
-                "AssemblyVersion": "0.9.0",
+                "AssemblyVersion": "0.9.1",
                 "Description": "Roleplay Highlighting in the native chat. Mentions notification with sound effects and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shuro/GobchatEx-plugin/main/GobchatEx/images/icon.png",
                 "RepoUrl": "https://github.com/Shuro/GobchatEx-plugin",
-                "LastUpdate": 1783816042
+                "LastUpdate": 1783862978
             }
         ]
     },
@@ -19916,6 +20054,48 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/SpheneDev/repo/main/plogonmaster.json",
+        "repo_source_url": "https://github.com/SpheneDev/SpheneClient",
+        "repo_discord_url": "https://discord.gg/GbnwsP2XsF",
+        "repo_developer_name": "SpheneDev",
+        "repo_name": "SpheneClient",
+        "plugins": [
+            {
+                "Author": "SpheneDev",
+                "Name": "ShrinkU",
+                "InternalName": "ShrinkU",
+                "AssemblyVersion": "0.0.9",
+                "Description": "Manage your Mods. Back them up. Restore them when needed.",
+                "DalamudApiLevel": 14,
+                "IconUrl": "https://raw.githubusercontent.com/SpheneDev/repo/main/images/ShrinkU.png",
+                "RepoUrl": "https://github.com/SpheneDev/ShrinkU",
+                "LastUpdate": 1780952101
+            },
+            {
+                "Author": "SpheneDev",
+                "Name": "Sphene",
+                "InternalName": "Sphene",
+                "AssemblyVersion": "1.1.16.0",
+                "Description": "Through the power of Living Memory, this plugin harmonizes your Penumbra modifications and Glamourer configurations across all connected souls, ensuring endless synchronization in your shared digital realm.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/SpheneDev/repo/main/images/Sphene.png",
+                "RepoUrl": "https://github.com/SpheneDev/SpheneClient",
+                "LastUpdate": 1781337033
+            },
+            {
+                "Author": "SpheneDev & Keq.Art",
+                "Name": "Venue Plus",
+                "InternalName": "VenuePlus",
+                "AssemblyVersion": "0.0.6.5",
+                "Description": "Easily manage your staff members, create VIP lists, and register your DJs for your event. Register your club and support your staff with this tool",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/SpheneDev/repo/main/images/venueplus.png",
+                "RepoUrl": "https://github.com/SpheneDev/VenuePlus",
+                "LastUpdate": 1780951075
+            }
+        ]
+    },
+    {
         "repo_url": "https://puni.sh/api/repository/spider",
         "repo_source_url": "https://github.com/spide-r/",
         "repo_name": "spider",
@@ -20146,12 +20326,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.1905",
+                "AssemblyVersion": "7.5.1.2601",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1783785946
+                "LastUpdate": 1783854341
             },
             {
                 "Author": "Kouzukii",
@@ -22670,6 +22850,25 @@
         ]
     },
     {
+        "repo_url": "https://raw.githubusercontent.com/xivsync/repo/main/plogonmaster.json",
+        "repo_source_url": "https://github.com/xivsync/public_client",
+        "repo_developer_name": "xivsync",
+        "repo_name": "public_client",
+        "plugins": [
+            {
+                "Author": "Lutherian",
+                "Name": "XIV Sync",
+                "InternalName": "XIVSync",
+                "AssemblyVersion": "1.41.0.0",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/images/icon.png",
+                "RepoUrl": "https://github.com/xivsync/repo",
+                "LastUpdate": 1778412207
+            }
+        ]
+    },
+    {
         "repo_developer_name": "xivwolf",
         "repo_url": "https://raw.githubusercontent.com/xivwolf/a-tour-ingame/master/pluginmaster.json",
         "repo_source_url": "https://github.com/xivwolf/a-tour-ingame",
@@ -22919,11 +23118,11 @@
                 "Author": "uy/sun, yimo",
                 "Name": "Blind Box",
                 "InternalName": "BlindBoxPlugin",
-                "AssemblyVersion": "1.9.3.2",
+                "AssemblyVersion": "1.9.4.0",
                 "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
-                "LastUpdate": 1783701038
+                "LastUpdate": 1783853738
             },
             {
                 "Author": "KirisameVanilla, Yimo",
@@ -22933,17 +23132,17 @@
                 "Description": "一个用来检测和快速查询肝武进度的小工具。\n（如肝武放置在雇员身上则需要官库的Allagan Tools,暂不支持幻化柜数据）",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
-                "LastUpdate": 1783701038
+                "LastUpdate": 1783853738
             },
             {
                 "Author": "yimo",
                 "Name": "TreasureForecast",
                 "InternalName": "TreasureForecast",
-                "AssemblyVersion": "1.0.2.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "基于 FFXIV 网络数据包实时预测宝物库（G10 运河/G12 梦羽/G15 育体）转盘召唤结果、开门结果。支持巡梦金库老虎机结果预测。\n命令：/tforecast 打开主窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
-                "LastUpdate": 1783701038
+                "LastUpdate": 1783853738
             }
         ]
     },
@@ -23026,12 +23225,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.5",
+                "AssemblyVersion": "15.306.0.6",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1783813478
+                "LastUpdate": 1783844819
             },
             {
                 "Author": "youdianfengbao (基于 awgil/ffxiv_satisfy)",
