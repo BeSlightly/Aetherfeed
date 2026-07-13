@@ -573,12 +573,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.1.10",
+                "AssemblyVersion": "1.1.1.11",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1783137802
+                "LastUpdate": 1783923264
             },
             {
                 "Author": "DhogGPT",
@@ -639,12 +639,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.6.5",
+                "AssemblyVersion": "0.2.6.6",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1783902158
+                "LastUpdate": 1783915392
             },
             {
                 "Author": "XA",
@@ -3674,12 +3674,12 @@
                 "Author": "Meghann",
                 "Name": "Recipe Helper",
                 "InternalName": "DalamudRecipeHelper",
-                "AssemblyVersion": "1.1.41.0",
+                "AssemblyVersion": "1.1.42.0",
                 "Description": "Build a combined plan from multiple FFXIV recipes, compare NQ and HQ requirements with live inventory and saved retainer snapshots, track timed gathering materials, and hand crafting or travel actions to Artisan, Teamcraft, and GatherBuddy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/Recipe-Helper/main/RecipeHelperIcon1.png",
                 "RepoUrl": "https://github.com/CherryFairy78/Recipe-Helper",
-                "LastUpdate": 1783840661
+                "LastUpdate": 1783910246
             }
         ]
     },
@@ -7308,24 +7308,6 @@
         ]
     },
     {
-        "repo_developer_name": "greenteakitkats",
-        "repo_url": "https://raw.githubusercontent.com/greenteakitkats/DalamudPluginsTesting/main/repo.json",
-        "repo_source_url": "https://github.com/greenteakitkats/DalamudPluginsTesting",
-        "repo_name": "DalamudPluginsTesting",
-        "plugins": [
-            {
-                "Author": "greenteakitkats",
-                "Name": "A Room Reborn",
-                "InternalName": "ARoomReborn",
-                "AssemblyVersion": "0.18.2.0",
-                "Description": "A running log of everything you do while decorating your house, indoors and out in the yard: placing, removing, storing, moving, rotating, and dyeing furniture, all with coordinates. Forgot what you just changed, or moved something and want it back? Click a coordinate to move the selected item there, or hit Undo on any move to snap it back automatically. Also shows what changed while you were away, and keeps a separate history for each of your houses. Built to sit alongside Burning Down the House. Type /houselog to open it.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/greenteakitkats/ARoomReborn",
-                "LastUpdate": 1783850980
-            }
-        ]
-    },
-    {
         "repo_developer_name": "grimgrum",
         "repo_url": "https://raw.githubusercontent.com/grimgrum/action-cam-for-FFXIV/main/pluginmaster.json",
         "repo_source_url": "https://github.com/grimgrum/action-cam-for-FFXIV",
@@ -8722,12 +8704,12 @@
                 "Author": "jkleinne",
                 "Name": "Ascended Rotation Solver Reborn",
                 "InternalName": "ascended-rotationsolverreborn",
-                "AssemblyVersion": "1.0.0.48",
+                "AssemblyVersion": "1.0.0.50",
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jkleinne/ascended-rotationsolverreborn/main/Images/Logo.png",
                 "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1783898986
+                "LastUpdate": 1783921044
             },
             {
                 "Author": "jkleinne",
@@ -10291,12 +10273,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.6",
+                "AssemblyVersion": "15.306.0.7",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783858472
+                "LastUpdate": 1783915598
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -12224,12 +12206,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.1.10",
+                "AssemblyVersion": "1.1.1.11",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1783137802
+                "LastUpdate": 1783923264
             }
         ]
     },
@@ -12498,12 +12480,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.6.5",
+                "AssemblyVersion": "0.2.6.6",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1783902158
+                "LastUpdate": 1783915392
             }
         ]
     },
@@ -12826,12 +12808,12 @@
                 "Author": "miqote69",
                 "Name": "Actor Morpher",
                 "InternalName": "ActorMorpher",
-                "AssemblyVersion": "0.0.0.36",
+                "AssemblyVersion": "0.0.0.40",
                 "Description": "Locally changes visible actors into selected NPC, demihuman, or monster forms. Use /actormorpher to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/ActorMorpher/main/images/icon-v17.png",
                 "RepoUrl": "https://github.com/miqote69/ActorMorpher",
-                "LastUpdate": 1783900145
+                "LastUpdate": 1783925022
             }
         ]
     },
@@ -15782,7 +15764,7 @@
                 "Author": "Minmoose, Asgard and Contributors",
                 "Name": "Brio",
                 "InternalName": "Brio",
-                "AssemblyVersion": "{version_live}",
+                "AssemblyVersion": "0.8.0.10",
                 "Description": "Control & edit actors during GPose sessions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
@@ -16229,11 +16211,11 @@
                 "Author": "Zune",
                 "Name": "Master Of Puppets",
                 "InternalName": "MasterOfPuppets",
-                "AssemblyVersion": "1.15.0.221",
+                "AssemblyVersion": "1.15.0.222",
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1782947187
+                "LastUpdate": 1783876148
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -16950,12 +16932,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.6",
+                "AssemblyVersion": "15.306.0.7",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783908232
+                "LastUpdate": 1783915598
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -18580,6 +18562,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/tyrian-targeting/main/images/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/tyrian-targeting",
                 "LastUpdate": 1779298117
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "rubyblaire",
+        "repo_url": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/rubyblaire/RE-Frame",
+        "repo_name": "RE-Frame",
+        "plugins": [
+            {
+                "Author": "Ruby Blaire",
+                "Name": "RE:Frame XIV",
+                "InternalName": "REFrameXIV",
+                "AssemblyVersion": "0.4.0.65",
+                "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
+                "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
+                "LastUpdate": 1783923310
             }
         ]
     },
@@ -22418,12 +22419,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.5.0",
+                "AssemblyVersion": "1.1.6.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1783838464
+                "LastUpdate": 1783929568
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
