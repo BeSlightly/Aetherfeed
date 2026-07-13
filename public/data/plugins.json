@@ -182,36 +182,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/abe",
-        "repo_source_url": "https://github.com/Abyeon/Buildingway",
-        "repo_developer_name": "Abyeon",
-        "repo_name": "Buildingway",
-        "plugins": [
-            {
-                "Author": "Abyeon",
-                "Name": "Buildingway",
-                "InternalName": "Buildingway",
-                "AssemblyVersion": "1.0.1.6",
-                "Description": "Build anything, anywhere. Jump puzzles, castles, whatever you can think of.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/120",
-                "RepoUrl": "https://github.com/Abyeon/Buildingway",
-                "LastUpdate": 1781761203
-            },
-            {
-                "Author": "Abyeon",
-                "Name": "Housingway",
-                "InternalName": "Housingway",
-                "AssemblyVersion": "1.0.0.4",
-                "Description": "A small collection of tweaks pertaining to housing.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/153",
-                "RepoUrl": "https://github.com/Abyeon/Housingway",
-                "LastUpdate": 1783051596
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Abyeon",
         "repo_url": "https://raw.githubusercontent.com/Abyeon/MyDalamudPlugins/main/master.json",
         "repo_source_url": "https://github.com/Abyeon/MyDalamudPlugins",
@@ -418,7 +388,7 @@
         "repo_url": "https://puni.sh/api/repository/aetherlove",
         "repo_source_url": "https://github.com/FFXIV-Aetherlove",
         "repo_developer_name": "aetherlove",
-        "repo_name": "aetherlove",
+        "repo_name": "repo",
         "plugins": [
             {
                 "Author": "Astraea, nihal_shadescale",
@@ -976,25 +946,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/akechi",
-        "repo_source_url": "https://github.com/Akechi-kun/",
-        "repo_developer_name": "Akechi-kun",
-        "repo_name": "akechi",
-        "plugins": [
-            {
-                "Author": "Akechi",
-                "Name": "Chroma",
-                "InternalName": "Chroma",
-                "AssemblyVersion": "1.2.0.2",
-                "Description": "Chroma is a simple accessibility plugin for modifying the color of Area-of-Effect indicators.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/102",
-                "RepoUrl": "https://github.com/Akechi-kun/Chroma",
-                "LastUpdate": 1777746027
-            }
-        ]
-    },
-    {
         "repo_developer_name": "AkiraEgawa",
         "repo_url": "https://raw.githubusercontent.com/AkiraEgawa/FFXIVPlugin/master/pluginmaster.json",
         "repo_source_url": "https://github.com/AkiraEgawa/FFXIVPlugin",
@@ -1141,6 +1092,17 @@
                 "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/key.png",
                 "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
                 "LastUpdate": 1783879702
+            },
+            {
+                "Author": "WonderlandDev",
+                "Name": "Wonderland Browser",
+                "InternalName": "WonderlandBrowser",
+                "AssemblyVersion": "2.0.0",
+                "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/wb config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/wonderland-browser.png",
+                "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
+                "LastUpdate": 1783945090
             }
         ]
     },
@@ -2009,58 +1971,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/asuna",
-        "repo_source_url": "https://projects.gamba.pro/Asuna",
-        "repo_developer_name": "asuna",
-        "repo_name": "asuna",
-        "plugins": [
-            {
-                "Author": "Asuna",
-                "Name": "AutoMinion",
-                "InternalName": "AutoMinion",
-                "AssemblyVersion": "1.1.0.9",
-                "Description": "Automatically dismiss your minion when entering a house and summon it back when you leave",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/142",
-                "RepoUrl": "https://projects.gamba.pro/Asuna/AutoMinion",
-                "LastUpdate": 1781878205
-            },
-            {
-                "Author": "Asuna",
-                "Name": "HuntAlerts",
-                "InternalName": "HuntAlerts",
-                "AssemblyVersion": "1.4.1.1",
-                "Description": "Notifies you when hunt trains are starting soon\nSupports NA/EU/OCE",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/143",
-                "RepoUrl": "https://projects.gamba.pro/Asuna/HuntAlerts",
-                "LastUpdate": 1782264377
-            },
-            {
-                "Author": "Asuna",
-                "Name": "PartyFinderEx",
-                "InternalName": "PartyFinderEx",
-                "AssemblyVersion": "0.0.0.11",
-                "Description": "View FFXIV party listings with advanced filtering, sorting, and search capabilities. Set up custom alerts for specific duties or conditions. Use /pfex to open.\n\nThis uses the https://xivpf.com website as it's datasource and will also contribute pf listings back to the site.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/150",
-                "RepoUrl": "https://projects.gamba.pro/Asuna/partyfinderex",
-                "LastUpdate": 1781030187
-            },
-            {
-                "Author": "Asuna",
-                "Name": "SimpleMiniGames",
-                "InternalName": "SimpleMiniGames",
-                "AssemblyVersion": "0.0.0.29",
-                "Description": "A fun collection of bar games, Cards Against Humanity, Liar's Dice and UNO",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/141",
-                "RepoUrl": "https://projects.gamba.pro/Asuna/simpleminigames",
-                "LastUpdate": 1781810091
-            }
-        ]
-    },
-    {
         "repo_developer_name": "AsunaPahlo",
         "repo_url": "https://raw.githubusercontent.com/AsunaPahlo/dalamudplugins/main/repo.json",
         "repo_source_url": "https://github.com/AsunaPahlo/dalamudplugins",
@@ -2132,8 +2042,8 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
-                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1783952484,
+                "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
+                "LastUpdate": 1783952424,
                 "is_closed_source": true
             },
             {
@@ -2144,8 +2054,8 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
-                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1783952484,
+                "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
+                "LastUpdate": 1783952424,
                 "is_closed_source": true
             },
             {
@@ -2156,8 +2066,8 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
-                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1783952484,
+                "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
+                "LastUpdate": 1783952424,
                 "is_closed_source": true
             },
             {
@@ -2168,8 +2078,8 @@
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
-                "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins/tree/main/Plugins/DailyRoutines",
-                "LastUpdate": 1783952484,
+                "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
+                "LastUpdate": 1783952424,
                 "is_closed_source": true
             },
             {
@@ -2415,79 +2325,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/veyn",
-        "repo_source_url": "https://github.com/awgil",
-        "repo_name": "veyn",
-        "repo_developer_name": "awgil",
-        "plugins": [
-            {
-                "Author": "veyn, xan_0",
-                "Name": "Boss Mod",
-                "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.18",
-                "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/30",
-                "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1783827612
-            },
-            {
-                "Author": "veyn, croizat",
-                "Name": "vfallguy",
-                "InternalName": "vfallguy",
-                "AssemblyVersion": "0.0.0.12",
-                "Description": "Bot that does fall guys event automatically.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/41",
-                "LastUpdate": 1777500971
-            },
-            {
-                "Author": "veyn",
-                "Name": "Easier Faux Hollows",
-                "InternalName": "vfaux",
-                "AssemblyVersion": "0.0.0.12",
-                "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/29",
-                "RepoUrl": "https://github.com/awgil/vfaux",
-                "LastUpdate": 1777496770
-            },
-            {
-                "Author": "veyn, croizat",
-                "Name": "V(ery) Island",
-                "InternalName": "visland",
-                "AssemblyVersion": "0.0.0.143",
-                "Description": "Automate gathering, workshop assignments, etc.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/28",
-                "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1777499385
-            },
-            {
-                "Author": "veyn, xan_0",
-                "Name": "vnavmesh",
-                "InternalName": "vnavmesh",
-                "AssemblyVersion": "1.2.3.8",
-                "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/48",
-                "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1782319736
-            },
-            {
-                "Author": "veyn, croizat",
-                "Name": "Satisfier",
-                "InternalName": "vsatisfy",
-                "AssemblyVersion": "0.0.0.37",
-                "Description": "Make custom deliveries less annoying by automating the process.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/58",
-                "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
-                "LastUpdate": 1781106368
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Ayoubsn93",
         "repo_url": "https://raw.githubusercontent.com/Ayoubsn93/ne/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Ayoubsn93/ne",
@@ -2588,7 +2425,7 @@
                 "Description": "Watches Cross-world Linkshell (CWLS1/CWLS2) chat for messages containing a map link and appends a clickable [Go To] link. Clicking it teleports you to the nearest aetheryte via the Teleporter plugin, hopping to the correct world/data center first via the Lifestream plugin if the message points to a different server.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783755836
+                "LastUpdate": 1783971313
             },
             {
                 "Author": "bdg",
@@ -2598,7 +2435,7 @@
                 "Description": "Adds a /desynthall command that opens the game's desynthesis (materia extraction) window and enables PandorasBox's \"Desynth All\" feature so its button is ready to use. Requires the PandorasBox plugin to be installed.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783755836
+                "LastUpdate": 1783971313
             },
             {
                 "Author": "bdg",
@@ -2608,7 +2445,17 @@
                 "Description": "When enabled, automatically logs your character out (with confirmation dialog handled) as soon as you receive a tell (private message) from anyone. Toggle it with /logoutontell (or /logoutontell on|off|status). Always starts disabled: the switch resets every time you log in, so you arm it deliberately each session.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783755836
+                "LastUpdate": 1783971313
+            },
+            {
+                "Author": "bdg",
+                "Name": "Mod Guard",
+                "InternalName": "ModGuard",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "Keeps your Penumbra mods private: when a mod-sync plugin (Lightless, Snowcloak, Sphene, PlayerSync, or any Mare Synchronos fork - the watch list is editable) is loaded, Mod Guard hides all your Penumbra mods by force-assigning an empty temporary collection to your character, so sync plugins have nothing to share. Once the sync plugins are gone (or on demand), it restores your previous Penumbra setup exactly as it was - your real collection and mod settings are never touched. Use /modguard to open the control window. Requires Penumbra.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
+                "LastUpdate": 1783971313
             }
         ]
     },
@@ -3129,25 +2976,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/boxu",
-        "repo_source_url": "https://github.com/BoxuChan",
-        "repo_developer_name": "BoxuChan",
-        "repo_name": "boxu",
-        "plugins": [
-            {
-                "Author": "Boxu",
-                "Name": "Skippy",
-                "InternalName": "Skippy",
-                "AssemblyVersion": "2.2.4.2",
-                "Description": "Skip all of the Cutscenes that bother you (MSQ Roulette for example) so you can actually play the game!",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/130",
-                "RepoUrl": "https://github.com/BoxuChan/Skippy",
-                "LastUpdate": 1778506161
-            }
-        ]
-    },
-    {
         "repo_developer_name": "BoxuChan",
         "repo_url": "https://raw.githubusercontent.com/BoxuChan/Hako/main/repo.json",
         "repo_source_url": "https://github.com/BoxuChan/Hako",
@@ -3213,53 +3041,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Brappp/wahbuttons",
                 "LastUpdate": 1777839805
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/wah",
-        "repo_source_url": "https://github.com/Brappp/",
-        "repo_developer_name": "Brappp",
-        "repo_name": "wah",
-        "plugins": [
-            {
-                "Author": "wah",
-                "Name": "PaissaWah",
-                "InternalName": "PaissaWah",
-                "AssemblyVersion": "1.0.0.7",
-                "Description": "PassiaDB Search",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Brappp/PaissaWah",
-                "LastUpdate": 1778548030
-            },
-            {
-                "Author": "wah",
-                "Name": "Plugin Preset Manager",
-                "InternalName": "PluginPresetManager",
-                "AssemblyVersion": "1.0.6.0",
-                "Description": "Create and manage plugin presets with support for always-on plugins. Commands: /ppreset",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Brappp/PluginPresetManager",
-                "LastUpdate": 1781295147
-            },
-            {
-                "Author": "wah",
-                "Name": "WahJumps",
-                "InternalName": "WahJumps",
-                "AssemblyVersion": "1.0.10.0",
-                "Description": "Jumping Puzzle Directory for the Strange Housing Discord",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/93",
-                "LastUpdate": 1780055593
-            },
-            {
-                "Author": "wah",
-                "Name": "wahventory",
-                "InternalName": "wahventory",
-                "AssemblyVersion": "4.6.0.0",
-                "Description": "Advanced inventory management with safety filters and auto-discard",
-                "DalamudApiLevel": 15,
-                "LastUpdate": 1780756377
             }
         ]
     },
@@ -3699,24 +3480,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/UniversalMarketBoard/main/assets/icon.png",
                 "RepoUrl": "https://github.com/CherryFairy78/UniversalMarketBoard",
                 "LastUpdate": 1783806388
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/chika",
-        "repo_source_url": "https://github.com/Deckerz",
-        "repo_developer_name": "chika",
-        "repo_name": "chika",
-        "plugins": [
-            {
-                "Author": "chika",
-                "Name": "XIV Remote Chat",
-                "InternalName": "XIVRemoteChat",
-                "AssemblyVersion": "0.0.0.15",
-                "Description": "Allows you to control any instance of FF connected to chat or send commands.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Deckerz/xiv-remote-chat",
-                "LastUpdate": 1782909400
             }
         ]
     },
@@ -5672,36 +5435,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/erdelf",
-        "repo_source_url": "https://github.com/erdelf/",
-        "repo_developer_name": "erdelf",
-        "repo_name": "erdelf",
-        "plugins": [
-            {
-                "Author": "erdelf, Herculezz",
-                "Name": "AutoDuty",
-                "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.321",
-                "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/54",
-                "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783855172
-            },
-            {
-                "Author": "erdelf",
-                "Name": "FC Tracker",
-                "InternalName": "FCTracker",
-                "AssemblyVersion": "0.0.0.26",
-                "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/135",
-                "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1783863146
-            }
-        ]
-    },
-    {
         "repo_developer_name": "ereti",
         "repo_url": "https://raw.githubusercontent.com/ereti/DalamudPlugins/main/repo.json",
         "repo_source_url": "https://github.com/ereti/DalamudPlugins",
@@ -5974,6 +5707,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/Etupa/NameplateToggle/master/icon.png",
                 "RepoUrl": "https://github.com/Etupa/NameplateToggle",
                 "LastUpdate": 1778597628
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Eventyret",
+        "repo_url": "https://raw.githubusercontent.com/Eventyret/InventoryGridVertical/main/repo.json",
+        "repo_source_url": "https://github.com/Eventyret/InventoryGridVertical",
+        "repo_name": "InventoryGridVertical",
+        "plugins": [
+            {
+                "Author": "Cookius Monsterius",
+                "Name": "Inventory Grid Vertical",
+                "InternalName": "InventoryGridVertical",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Reflows the Inventory Grid HUD element so the four bag rows stack in a column instead of sitting side by side. Choose the bag order, put the equipment button at the top or bottom, and adjust spacing and alignment. The element still moves normally in HUD Layout, and unchecking the plugin restores the vanilla layout.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Eventyret/InventoryGridVertical",
+                "LastUpdate": 1783973594
             }
         ]
     },
@@ -7225,24 +6976,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/glyceri",
-        "repo_source_url": "https://github.com/Glyceri/SilenceNoMore",
-        "repo_developer_name": "Glyceri",
-        "repo_name": "SilenceNoMore",
-        "plugins": [
-            {
-                "Author": "glyceri",
-                "Name": "Silence No More",
-                "InternalName": "SilenceNoMore",
-                "AssemblyVersion": "1.4.0.1",
-                "Description": "Shows whispers normally blocked during duties.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Glyceri/SilenceNoMore",
-                "LastUpdate": 1777713749
-            }
-        ]
-    },
-    {
         "repo_developer_name": "GorditoSupreme",
         "repo_url": "https://raw.githubusercontent.com/GorditoSupreme/MareClient/main/repo.json",
         "repo_source_url": "https://github.com/GorditoSupreme/MareClient",
@@ -7530,7 +7263,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1783857582
+                "LastUpdate": 1783943625
             },
             {
                 "Author": "Haselnussbomber",
@@ -8076,25 +7809,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/gid",
-        "repo_source_url": "https://github.com/imgidedin/gearsetreminder",
-        "repo_developer_name": "imgidedin",
-        "repo_name": "gearsetreminder",
-        "plugins": [
-            {
-                "Author": "Gid",
-                "Name": "Gearset Reminder",
-                "InternalName": "GearsetReminder",
-                "AssemblyVersion": "1.0.0.4",
-                "Description": "Configure duties to warn you if you are not equipped with the correct gearset on entry.",
-                "DalamudApiLevel": 14,
-                "IconUrl": "https://puni.sh/api/plugins/icon/117",
-                "RepoUrl": "https://puni.sh/api/repository/gid",
-                "LastUpdate": 1772289558
-            }
-        ]
-    },
-    {
         "repo_developer_name": "ImOv3rburdened",
         "repo_url": "https://raw.githubusercontent.com/ImOv3rburdened/TomstonePhone/main/repo.json",
         "repo_source_url": "https://github.com/ImOv3rburdened/TomstonePhone",
@@ -8478,47 +8192,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/croizat",
-        "repo_source_url": "https://github.com/Jaksuhn",
-        "repo_name": "croizat",
-        "repo_developer_name": "Jaksuhn",
-        "plugins": [
-            {
-                "Author": "croizat",
-                "Name": "CBT 🐎",
-                "InternalName": "Automaton",
-                "AssemblyVersion": "69.193.0.0",
-                "Description": "Yet another tweaks collection plugin.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/34",
-                "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1783119792
-            },
-            {
-                "Author": "croizat",
-                "Name": "Glamour Log",
-                "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.39",
-                "Description": "A log for all your glamours and other glam-related tweaks",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/136",
-                "RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
-                "LastUpdate": 1778100498
-            },
-            {
-                "Author": "croizat",
-                "Name": "Something Need Doing",
-                "InternalName": "SomethingNeedDoing",
-                "AssemblyVersion": "15.7",
-                "Description": "This plugin is an expansion of the native macro system in FFXIV. Unlimited slots, unlimited length, more commands, more modifiers. It also has a lua engine along with many modules for automating much of the game.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/25",
-                "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-                "LastUpdate": 1783931918
-            }
-        ]
-    },
-    {
         "repo_developer_name": "jango921",
         "repo_url": "https://raw.githubusercontent.com/jango921/StreamerMode/main/repo.json",
         "repo_source_url": "https://github.com/jango921/StreamerMode",
@@ -8699,8 +8372,8 @@
                 "AssemblyVersion": "0.5.0.0",
                 "Description": "Market and retainer-sales intelligence for FFXIV. Reads your own retainer listings and completed sales from the game client and pairs them with board-wide market context (listings, sales history, velocity) from the Universalis API.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/jkleinne/ascended-ledger",
-                "LastUpdate": 1781594364
+                "RepoUrl": "https://github.com/jkleinne/ascended-dagobert/releases/latest",
+                "LastUpdate": 1783944704
             },
             {
                 "Author": "jkleinne",
@@ -8710,8 +8383,8 @@
                 "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jkleinne/ascended-rotationsolverreborn/main/Images/Logo.png",
-                "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
-                "LastUpdate": 1783944173
+                "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn/releases/latest",
+                "LastUpdate": 1783921143
             },
             {
                 "Author": "jkleinne",
@@ -9086,36 +8759,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/jukka",
-        "repo_source_url": "https://github.com/Jukkales",
-        "repo_developer_name": "Jukkales",
-        "repo_name": "jukka",
-        "plugins": [
-            {
-                "Author": "jukka",
-                "Name": "Hoard Farm - DETECTABLE",
-                "InternalName": "HoardFarm",
-                "AssemblyVersion": "1.6.0.2",
-                "Description": "Might be detectable! Use at own risk! Plugin to help farming DeepDungeon Hoards (...for you)",
-                "DalamudApiLevel": 14,
-                "IconUrl": "https://puni.sh/api/plugins/icon/52",
-                "RepoUrl": "https://github.com/Jukkales/HoardFarm",
-                "LastUpdate": 1767828681
-            },
-            {
-                "Author": "jukka",
-                "Name": "NecroLens",
-                "InternalName": "NecroLens",
-                "AssemblyVersion": "1.0.8.12",
-                "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/53",
-                "RepoUrl": "https://github.com/Jukkales/NecroLens",
-                "LastUpdate": 1777738495
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Just-Chaldea",
         "repo_url": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Just-Chaldea/DalamudPluginRepo",
@@ -9221,35 +8864,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/kabojnk/client/refs/heads/main/MareSynchronos/images/icon.png",
                 "RepoUrl": "https://github.com/kabojnk/client",
                 "LastUpdate": 1756442331
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/kage",
-        "repo_source_url": "https://github.com/Kagekazu",
-        "repo_developer_name": "kage",
-        "repo_name": "kage",
-        "plugins": [
-            {
-                "Author": "Kage",
-                "Name": "QuickTransfer",
-                "InternalName": "QuickTransfer",
-                "AssemblyVersion": "1.1.0.6",
-                "Description": "Automate inventory transfers with Shift/Ctrl/Alt + Right-Click. Trade window, vendor quick sell, FC chest.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/144",
-                "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
-                "LastUpdate": 1783783941
-            },
-            {
-                "Author": "Kage",
-                "Name": "RelicTracker",
-                "InternalName": "RelicTracker",
-                "AssemblyVersion": "1.0.0.8",
-                "Description": "Track relic weapon, tool, and armor progress across every job, with live material counts and optional FFXIV Collect sync.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
-                "LastUpdate": 1783936301
             }
         ]
     },
@@ -9576,46 +9190,6 @@
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/WorldWide/plugins/KodakkuAssist",
                 "LastUpdate": 1762260223,
                 "is_closed_source": true
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/kawaii",
-        "repo_source_url": "https://github.com/kawaii/",
-        "repo_name": "kawaii",
-        "repo_developer_name": "kawaii",
-        "plugins": [
-            {
-                "Author": "kawaii",
-                "Name": "Chocoholic",
-                "InternalName": "Chocoholic",
-                "AssemblyVersion": "0.0.0.3",
-                "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/116",
-                "RepoUrl": "https://github.com/kawaii/Chocoholic",
-                "LastUpdate": 1778089832
-            },
-            {
-                "Author": "kawaii",
-                "Name": "Dropbox",
-                "InternalName": "Dropbox",
-                "AssemblyVersion": "1.0.2.13",
-                "Description": "Your personal vending machine.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/kawaii/Dropbox",
-                "LastUpdate": 1707828423
-            },
-            {
-                "Author": "kawaii, NightmareXIV",
-                "Name": "Hyperborea",
-                "InternalName": "Hyperborea",
-                "AssemblyVersion": "1.0.0.37",
-                "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/45",
-                "RepoUrl": "https://github.com/kawaii/Hyperborea",
-                "LastUpdate": 1782238650
             }
         ]
     },
@@ -10107,25 +9681,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/knightmore",
-        "repo_source_url": "https://github.com/Knightmore/Henchman",
-        "repo_developer_name": "Knightmore",
-        "repo_name": "Henchman",
-        "plugins": [
-            {
-                "Author": "Knightmore",
-                "Name": "Henchman",
-                "InternalName": "Henchman",
-                "AssemblyVersion": "2.0.6.6",
-                "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/85",
-                "RepoUrl": "https://github.com/Knightmore/Henchman",
-                "LastUpdate": 1781024083
-            }
-        ]
-    },
-    {
         "repo_developer_name": "KomiTsuku",
         "repo_url": "https://raw.githubusercontent.com/KomiTsuku/AQR3Test/master/repo.json",
         "repo_source_url": "https://github.com/KomiTsuku/AQR3Test",
@@ -10153,12 +9708,12 @@
                 "Author": "konvarec",
                 "Name": "HuntVoidWatcher",
                 "InternalName": "HuntVoidWatcher",
-                "AssemblyVersion": "0.5.0.59",
+                "AssemblyVersion": "0.5.0.61",
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/HuntVoidWatcher/images/icon_64.png",
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1778756774
+                "LastUpdate": 1783958107
             }
         ]
     },
@@ -10762,7 +10317,7 @@
                 "Author": "Usagi, Latihas",
                 "Name": "IINACTEx",
                 "InternalName": "IINACTEx",
-                "AssemblyVersion": "7.51.2.1",
+                "AssemblyVersion": "7.51.2.2",
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
@@ -10793,11 +10348,11 @@
                 "Author": "Latihas",
                 "Name": "LatihasExport",
                 "InternalName": "LatihasExport",
-                "AssemblyVersion": "7.51.2.0",
+                "AssemblyVersion": "7.51.2.1",
                 "Description": "自用收集工具",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/LatihasExport",
-                "LastUpdate": 1783951439
+                "LastUpdate": 1783954191
             },
             {
                 "Author": "Latihas",
@@ -10891,47 +10446,6 @@
                 "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
                 "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
                 "LastUpdate": 1777765740
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/ice",
-        "repo_source_url": "https://github.com/LeontopodiumNivale14/",
-        "repo_name": "ice",
-        "repo_developer_name": "LeontopodiumNivale14",
-        "plugins": [
-            {
-                "Author": "Ice",
-                "Name": "Chilled Leves",
-                "InternalName": "ChilledLeves",
-                "AssemblyVersion": "1.0.1.24",
-                "Description": "A leve helper that lets you select which ones you want to do, and help turn them in for you. YOU NEED NAVMESH INSTALLED AS AN FYI.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/68",
-                "RepoUrl": "https://github.com/LeontopodiumNivale14/ChilledLeves",
-                "LastUpdate": 1779889116
-            },
-            {
-                "Author": "Ice",
-                "Name": "Explorer's Icebox",
-                "InternalName": "ExplorersIcebox",
-                "AssemblyVersion": "1.1.0.3",
-                "Description": "A little helper that lets you level up, or gather all the materials on Island Sanctary. Requires Navmesh & Visland.\nPop open a cold one while the tedious parts of exploration is handled by your good friend cousin robby",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/64",
-                "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox/tree/master",
-                "LastUpdate": 1779888194
-            },
-            {
-                "Author": "Ice",
-                "Name": "Ice's Cosmic Exploration (ICE)",
-                "InternalName": "ICE",
-                "AssemblyVersion": "1.0.0.0",
-                "Description": "Plugin to automate Cosmic Exploration",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/70",
-                "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1783776933
             }
         ]
     },
@@ -12579,12 +12093,12 @@
                 "Author": "Meowick",
                 "Name": "Emote Plugin",
                 "InternalName": "EmotePlugin",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.3.1.0",
                 "Description": "An emote management plugin with Penumbra mod association. Add/remove/rename/duplicate emotes, auto-toggle Penumbra mods, search and organize your emote collection. Use /emotes to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/meowickz/emotes/master/assets/icon.png",
                 "RepoUrl": "https://github.com/meowickz/emotes",
-                "LastUpdate": 1783883507
+                "LastUpdate": 1783954280
             }
         ]
     },
@@ -12945,12 +12459,12 @@
                 "Author": "Miu-B",
                 "Name": "PFBeacon",
                 "InternalName": "PFBeacon",
-                "AssemblyVersion": "0.2.1.2",
+                "AssemblyVersion": "0.2.1.3",
                 "Description": "Observes Party Finder listings, filters for qualifying MINE raid listings, and sends sanitized observations to the official PFBeacon service. Does not send PF descriptions, player names, recruiter names, worlds, or Discord routing data.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Miu-B/PFBeaconPlugin/main/src/PFBeacon/PFBeacon.png",
                 "RepoUrl": "https://github.com/Miu-B/PFBeaconPlugin",
-                "LastUpdate": 1783544280
+                "LastUpdate": 1783955375
             }
         ]
     },
@@ -13363,57 +12877,6 @@
         ]
     },
     {
-        "repo_developer_name": "nainai",
-        "repo_url": "https://puni.sh/api/repository/nainai",
-        "repo_source_url": "https://puni.sh/directory/nainai",
-        "repo_name": "nainai",
-        "plugins": [
-            {
-                "Author": "nainaiowo",
-                "Name": "Better Deaths",
-                "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.240",
-                "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/160",
-                "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783859840
-            },
-            {
-                "Author": "nainaiowo",
-                "Name": "Chibi Chaos",
-                "InternalName": "ChibiChaos",
-                "AssemblyVersion": "0.1.17.7",
-                "Description": "Scales down Chaos in DMU for visibility.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/161",
-                "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
-                "LastUpdate": 1782971186
-            },
-            {
-                "Author": "nainaiowo",
-                "Name": "DMU Mits",
-                "InternalName": "DMUMits",
-                "AssemblyVersion": "0.1.0.8",
-                "Description": "Shows upcoming dmu mitigation based on fight timeline",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Nainaiowo/dmu-mits",
-                "LastUpdate": 1783902889
-            },
-            {
-                "Author": "nainaiowo",
-                "Name": "DMU Helper",
-                "InternalName": "DMUP4DebuffHelper",
-                "AssemblyVersion": "0.1.0.10",
-                "Description": "Shows compact DMU P4 debuff timers with real/fake callouts.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/162",
-                "RepoUrl": "https://github.com/Nainaiowo/dmu-p4-debuff-helper",
-                "LastUpdate": 1783904119
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Nainaiowo",
         "repo_url": "https://raw.githubusercontent.com/Nainaiowo/IMakeSillyThings/main/repo.json",
         "repo_source_url": "https://github.com/Nainaiowo/IMakeSillyThings",
@@ -13456,53 +12919,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/project-honorific",
                 "LastUpdate": 1782272930
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/nala",
-        "repo_source_url": "https://github.com/NalaPraline",
-        "repo_developer_name": "NalaPraline",
-        "repo_name": "nala",
-        "plugins": [
-            {
-                "Author": "Nala Praline",
-                "Name": "NalaPF",
-                "InternalName": "NalaPF",
-                "AssemblyVersion": "1.0.0.1",
-                "Description": "Captures your PF configuration and automatically recreates it after a disconnect or datacenter switch.\n\nCommands:\n/pfr",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/140",
-                "LastUpdate": 1780921508
-            },
-            {
-                "Author": "Nala Praline, Asuna",
-                "Name": "VenueScope",
-                "InternalName": "VenueScope",
-                "AssemblyVersion": "1.0.10.0",
-                "Description": "Browse FFXIV community events from Partake.gg and FFXIV Venue directly in-game. Filter by data center, time, and tags.\n\n/venuescope or /vs — Open VenueScope",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/122",
-                "LastUpdate": 1781867298
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "NalaPraline",
-        "repo_url": "https://raw.githubusercontent.com/NalaPraline/ZONE/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/NalaPraline/ZONE",
-        "repo_name": "ZONE",
-        "plugins": [
-            {
-                "Author": "NalaPraline",
-                "Name": "Zone",
-                "InternalName": "Zone",
-                "AssemblyVersion": "1.2.35.0",
-                "Description": "Zone is the all-in-one companion for ZONE events. Features a live DJ lineup, activity tracker, staff directory, Zone Vision HUD overlay, and midnight time lock.\n\nCommands:\n/zone - Open Zone\n/zonevision - Toggle HUD overlay",
-                "DalamudApiLevel": 14,
-                "IconUrl": "https://raw.githubusercontent.com/NalaPraline/ZONE/main/Zone/Data/icon.png",
-                "RepoUrl": "https://github.com/NalaPraline/ZONE",
-                "LastUpdate": 1777791520
             }
         ]
     },
@@ -13866,36 +13282,6 @@
                 "Description": "A better mail service. Bulk attachment claiming, bulk delete, and inventory pop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nexaii/dalamud-plugins/main/assets/mogmail.png",
-                "RepoUrl": "https://github.com/Nexaii/Mogmail",
-                "LastUpdate": 1783463460
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/nexai",
-        "repo_source_url": "https://github.com/Nexaii",
-        "repo_developer_name": "Nexaii",
-        "repo_name": "nexai",
-        "plugins": [
-            {
-                "Author": "Nexai",
-                "Name": "FCCH",
-                "InternalName": "FCCH",
-                "AssemblyVersion": "2.4.2.0",
-                "Description": "Free Company Chest Helper. Automate deposits, withdrawals, organization, crystals, workshop project pulls, and custom item lists.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/149",
-                "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1783813757
-            },
-            {
-                "Author": "Nexai",
-                "Name": "Mogmail",
-                "InternalName": "Mogmail",
-                "AssemblyVersion": "1.2.2.0",
-                "Description": "A better mail service. Bulk attachment claiming, bulk delete, and inventory pop.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/148",
                 "RepoUrl": "https://github.com/Nexaii/Mogmail",
                 "LastUpdate": 1783463460
             }
@@ -15565,47 +14951,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/oof-games",
-        "repo_source_url": "https://github.com/OOFGamesss",
-        "repo_developer_name": "OOF Games",
-        "repo_name": "oof-games",
-        "plugins": [
-            {
-                "Author": "OOF Games",
-                "Name": "Chocobo Racing",
-                "InternalName": "ChocoboRacingGamba",
-                "AssemblyVersion": "1.0.3.0",
-                "Description": "Host live Chocobo Racing events at your venue with zero manual bookkeeping. Bets are captured from party and alliance chat automatically, player banks track every balance, and payouts are calculated at the click of a button. Run 2-10 chocobos with custom track lengths, odds, and branded chat messages. Full race history and profit/loss reporting included.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/157",
-                "RepoUrl": "https://github.com/OOFGamesss/ChocoboRacing",
-                "LastUpdate": 1783682207
-            },
-            {
-                "Author": "OOF Games, Asuna",
-                "Name": "Gamba Where",
-                "InternalName": "GambaWhere",
-                "AssemblyVersion": "1.0.2.1",
-                "Description": "Browse live gambling events across Eorzea, filter by game or data centre, and teleport straight there with Lifestream. Host your own session with game-specific rules, presets, and host profiles with automatic location updates, Discord webhooks, minimap host icons, and Party Finder shortcuts. Find or advertise for venues and hosts on the Recruitment board, and set custom alerts to be notified when a new event matches your preferences.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/158",
-                "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1783335206
-            },
-            {
-                "Author": "OOF Games",
-                "Name": "Mini Games Emporium",
-                "InternalName": "MiniGamesEmporium",
-                "AssemblyVersion": "0.0.11.1",
-                "Description": "The all-in-one hosting tool for FFXIV gambling venues, with three live games: BAR 777, Deathroll Tournament, and Higher/Lower. Handles player queues, trade verification, boosted pots, automated chat, and a full transaction ledger.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/163",
-                "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
-                "LastUpdate": 1783936325
-            }
-        ]
-    },
-    {
         "repo_developer_name": "OOFGamesss",
         "repo_url": "https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/OOFGamesss/OOFGamesPlugins",
@@ -16830,9 +16175,147 @@
         ]
     },
     {
+        "repo_url": "https://puni.sh/api/repository/abe",
+        "repo_source_url": "https://github.com/Abyeon/Buildingway",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "Abyeon",
+        "plugins": [
+            {
+                "Author": "Abyeon",
+                "Name": "Buildingway",
+                "InternalName": "Buildingway",
+                "AssemblyVersion": "1.0.1.6",
+                "Description": "Build anything, anywhere. Jump puzzles, castles, whatever you can think of.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/120",
+                "RepoUrl": "https://github.com/Abyeon/Buildingway",
+                "LastUpdate": 1781761203
+            },
+            {
+                "Author": "Abyeon",
+                "Name": "Housingway",
+                "InternalName": "Housingway",
+                "AssemblyVersion": "1.0.0.4",
+                "Description": "A small collection of tweaks pertaining to housing.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/153",
+                "RepoUrl": "https://github.com/Abyeon/Housingway",
+                "LastUpdate": 1783051596
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/akechi",
+        "repo_source_url": "https://github.com/Akechi-kun/",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "akechi",
+        "plugins": [
+            {
+                "Author": "Akechi",
+                "Name": "Chroma",
+                "InternalName": "Chroma",
+                "AssemblyVersion": "1.2.0.2",
+                "Description": "Chroma is a simple accessibility plugin for modifying the color of Area-of-Effect indicators.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/102",
+                "RepoUrl": "https://github.com/Akechi-kun/Chroma",
+                "LastUpdate": 1777746027
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/asuna",
+        "repo_source_url": "https://projects.gamba.pro/Asuna",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "asuna",
+        "plugins": [
+            {
+                "Author": "Asuna",
+                "Name": "AutoMinion",
+                "InternalName": "AutoMinion",
+                "AssemblyVersion": "1.1.0.9",
+                "Description": "Automatically dismiss your minion when entering a house and summon it back when you leave",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/142",
+                "RepoUrl": "https://projects.gamba.pro/Asuna/AutoMinion",
+                "LastUpdate": 1781878205
+            },
+            {
+                "Author": "Asuna",
+                "Name": "HuntAlerts",
+                "InternalName": "HuntAlerts",
+                "AssemblyVersion": "1.4.1.1",
+                "Description": "Notifies you when hunt trains are starting soon\nSupports NA/EU/OCE",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/143",
+                "RepoUrl": "https://projects.gamba.pro/Asuna/HuntAlerts",
+                "LastUpdate": 1782264377
+            },
+            {
+                "Author": "Asuna",
+                "Name": "PartyFinderEx",
+                "InternalName": "PartyFinderEx",
+                "AssemblyVersion": "0.0.0.11",
+                "Description": "View FFXIV party listings with advanced filtering, sorting, and search capabilities. Set up custom alerts for specific duties or conditions. Use /pfex to open.\n\nThis uses the https://xivpf.com website as it's datasource and will also contribute pf listings back to the site.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/150",
+                "RepoUrl": "https://projects.gamba.pro/Asuna/partyfinderex",
+                "LastUpdate": 1781030187
+            },
+            {
+                "Author": "Asuna",
+                "Name": "SimpleMiniGames",
+                "InternalName": "SimpleMiniGames",
+                "AssemblyVersion": "0.0.0.29",
+                "Description": "A fun collection of bar games, Cards Against Humanity, Liar's Dice and UNO",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/141",
+                "RepoUrl": "https://projects.gamba.pro/Asuna/simpleminigames",
+                "LastUpdate": 1781810091
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/boxu",
+        "repo_source_url": "https://github.com/BoxuChan",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "boxu",
+        "plugins": [
+            {
+                "Author": "Boxu",
+                "Name": "Skippy",
+                "InternalName": "Skippy",
+                "AssemblyVersion": "2.2.4.2",
+                "Description": "Skip all of the Cutscenes that bother you (MSQ Roulette for example) so you can actually play the game!",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/130",
+                "RepoUrl": "https://github.com/BoxuChan/Skippy",
+                "LastUpdate": 1778506161
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/chika",
+        "repo_source_url": "https://github.com/Deckerz",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "chika",
+        "plugins": [
+            {
+                "Author": "chika",
+                "Name": "XIV Remote Chat",
+                "InternalName": "XIVRemoteChat",
+                "AssemblyVersion": "0.0.0.15",
+                "Description": "Allows you to control any instance of FF connected to chat or send commands.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Deckerz/xiv-remote-chat",
+                "LastUpdate": 1782909400
+            }
+        ]
+    },
+    {
         "repo_url": "https://love.puni.sh/ment.json",
         "repo_source_url": "https://puni.sh/",
-        "repo_name": "ment",
+        "repo_name": "Core",
         "plugins": [
             {
                 "Author": "Taurenkey, kawaii, NightmareXIV",
@@ -16849,12 +16332,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.69",
+                "AssemblyVersion": "6.0.0.70",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1783934705
+                "LastUpdate": 1783972984
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -16936,12 +16419,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.7",
+                "AssemblyVersion": "15.306.0.8",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783915598
+                "LastUpdate": 1783956549
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16989,6 +16472,836 @@
             }
         ],
         "repo_developer_name": "Puni.sh"
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/croizat",
+        "repo_source_url": "https://github.com/Jaksuhn",
+        "repo_name": "croizat",
+        "repo_developer_name": "Puni.sh",
+        "plugins": [
+            {
+                "Author": "croizat",
+                "Name": "CBT 🐎",
+                "InternalName": "Automaton",
+                "AssemblyVersion": "69.193.0.0",
+                "Description": "Yet another tweaks collection plugin.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/34",
+                "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
+                "LastUpdate": 1783119792
+            },
+            {
+                "Author": "croizat",
+                "Name": "Glamour Log",
+                "InternalName": "GlamourLog",
+                "AssemblyVersion": "15.39",
+                "Description": "A log for all your glamours and other glam-related tweaks",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/136",
+                "RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
+                "LastUpdate": 1778100498
+            },
+            {
+                "Author": "croizat",
+                "Name": "Something Need Doing",
+                "InternalName": "SomethingNeedDoing",
+                "AssemblyVersion": "15.7",
+                "Description": "This plugin is an expansion of the native macro system in FFXIV. Unlimited slots, unlimited length, more commands, more modifiers. It also has a lua engine along with many modules for automating much of the game.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/25",
+                "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+                "LastUpdate": 1783931918
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/erdelf",
+        "repo_source_url": "https://github.com/erdelf/",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "erdelf",
+        "plugins": [
+            {
+                "Author": "erdelf, Herculezz",
+                "Name": "AutoDuty",
+                "InternalName": "AutoDuty",
+                "AssemblyVersion": "0.0.0.321",
+                "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/54",
+                "RepoUrl": "https://github.com/erdelf/AutoDuty",
+                "LastUpdate": 1783960858
+            },
+            {
+                "Author": "erdelf",
+                "Name": "FC Tracker",
+                "InternalName": "FCTracker",
+                "AssemblyVersion": "0.0.0.26",
+                "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/135",
+                "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
+                "LastUpdate": 1783863146
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/gid",
+        "repo_source_url": "https://github.com/imgidedin/gearsetreminder",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "gid",
+        "plugins": [
+            {
+                "Author": "Gid",
+                "Name": "Gearset Reminder",
+                "InternalName": "GearsetReminder",
+                "AssemblyVersion": "1.0.0.4",
+                "Description": "Configure duties to warn you if you are not equipped with the correct gearset on entry.",
+                "DalamudApiLevel": 14,
+                "IconUrl": "https://puni.sh/api/plugins/icon/117",
+                "RepoUrl": "https://puni.sh/api/repository/gid",
+                "LastUpdate": 1772289558
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/glyceri",
+        "repo_source_url": "https://github.com/Glyceri/SilenceNoMore",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "glyceri",
+        "plugins": [
+            {
+                "Author": "glyceri",
+                "Name": "Silence No More",
+                "InternalName": "SilenceNoMore",
+                "AssemblyVersion": "1.4.0.1",
+                "Description": "Shows whispers normally blocked during duties.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Glyceri/SilenceNoMore",
+                "LastUpdate": 1777713749
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/ice",
+        "repo_source_url": "https://github.com/LeontopodiumNivale14/",
+        "repo_name": "ice",
+        "repo_developer_name": "Puni.sh",
+        "plugins": [
+            {
+                "Author": "Ice",
+                "Name": "Chilled Leves",
+                "InternalName": "ChilledLeves",
+                "AssemblyVersion": "1.0.1.24",
+                "Description": "A leve helper that lets you select which ones you want to do, and help turn them in for you. YOU NEED NAVMESH INSTALLED AS AN FYI.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/68",
+                "RepoUrl": "https://github.com/LeontopodiumNivale14/ChilledLeves",
+                "LastUpdate": 1779889116
+            },
+            {
+                "Author": "Ice",
+                "Name": "Explorer's Icebox",
+                "InternalName": "ExplorersIcebox",
+                "AssemblyVersion": "1.1.0.3",
+                "Description": "A little helper that lets you level up, or gather all the materials on Island Sanctary. Requires Navmesh & Visland.\nPop open a cold one while the tedious parts of exploration is handled by your good friend cousin robby",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/64",
+                "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox/tree/master",
+                "LastUpdate": 1779888194
+            },
+            {
+                "Author": "Ice",
+                "Name": "Ice's Cosmic Exploration (ICE)",
+                "InternalName": "ICE",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Plugin to automate Cosmic Exploration",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/70",
+                "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
+                "LastUpdate": 1783776933
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/jukka",
+        "repo_source_url": "https://github.com/Jukkales",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "jukka",
+        "plugins": [
+            {
+                "Author": "jukka",
+                "Name": "Hoard Farm - DETECTABLE",
+                "InternalName": "HoardFarm",
+                "AssemblyVersion": "1.6.0.2",
+                "Description": "Might be detectable! Use at own risk! Plugin to help farming DeepDungeon Hoards (...for you)",
+                "DalamudApiLevel": 14,
+                "IconUrl": "https://puni.sh/api/plugins/icon/52",
+                "RepoUrl": "https://github.com/Jukkales/HoardFarm",
+                "LastUpdate": 1767828681
+            },
+            {
+                "Author": "jukka",
+                "Name": "NecroLens",
+                "InternalName": "NecroLens",
+                "AssemblyVersion": "1.0.8.12",
+                "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/53",
+                "RepoUrl": "https://github.com/Jukkales/NecroLens",
+                "LastUpdate": 1777738495
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/justbees",
+        "repo_source_url": "https://github.com/zbee",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "justbees",
+        "plugins": [
+            {
+                "Author": "zbee",
+                "Name": "ARC",
+                "InternalName": "ARControl",
+                "AssemblyVersion": "8.5",
+                "Description": "Instead of manually managing retainer plans for each individual character, which can get fairly tedious fairly quickly, we optimize this a bit and only manage \"high-level\" plans.\n\nOriginally made by Liza Carvelli - thank you for your work.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/99",
+                "RepoUrl": "https://github.com/zbee/ARC",
+                "LastUpdate": 1777655942
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/kage",
+        "repo_source_url": "https://github.com/Kagekazu",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "kage",
+        "plugins": [
+            {
+                "Author": "Kage",
+                "Name": "QuickTransfer",
+                "InternalName": "QuickTransfer",
+                "AssemblyVersion": "1.1.0.6",
+                "Description": "Automate inventory transfers with Shift/Ctrl/Alt + Right-Click. Trade window, vendor quick sell, FC chest.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/144",
+                "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
+                "LastUpdate": 1783783941
+            },
+            {
+                "Author": "Kage",
+                "Name": "RelicTracker",
+                "InternalName": "RelicTracker",
+                "AssemblyVersion": "1.0.0.8",
+                "Description": "Track relic weapon, tool, and armor progress across every job, with live material counts and optional FFXIV Collect sync.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
+                "LastUpdate": 1783936301
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/kawaii",
+        "repo_source_url": "https://github.com/kawaii/",
+        "repo_name": "kawaii",
+        "repo_developer_name": "Puni.sh",
+        "plugins": [
+            {
+                "Author": "kawaii",
+                "Name": "Chocoholic",
+                "InternalName": "Chocoholic",
+                "AssemblyVersion": "0.0.0.3",
+                "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/116",
+                "RepoUrl": "https://github.com/kawaii/Chocoholic",
+                "LastUpdate": 1778089832
+            },
+            {
+                "Author": "kawaii",
+                "Name": "Dropbox",
+                "InternalName": "Dropbox",
+                "AssemblyVersion": "1.0.2.13",
+                "Description": "Your personal vending machine.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kawaii/Dropbox",
+                "LastUpdate": 1707828423
+            },
+            {
+                "Author": "kawaii, NightmareXIV",
+                "Name": "Hyperborea",
+                "InternalName": "Hyperborea",
+                "AssemblyVersion": "1.0.0.37",
+                "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/45",
+                "RepoUrl": "https://github.com/kawaii/Hyperborea",
+                "LastUpdate": 1782238650
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/knightmore",
+        "repo_source_url": "https://github.com/Knightmore/Henchman",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "Knightmore",
+        "plugins": [
+            {
+                "Author": "Knightmore",
+                "Name": "Henchman",
+                "InternalName": "Henchman",
+                "AssemblyVersion": "2.0.6.6",
+                "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/85",
+                "RepoUrl": "https://github.com/Knightmore/Henchman",
+                "LastUpdate": 1781024083
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Puni.sh",
+        "repo_url": "https://puni.sh/api/repository/nainai",
+        "repo_source_url": "https://puni.sh/directory/nainai",
+        "repo_name": "nainai",
+        "plugins": [
+            {
+                "Author": "nainaiowo",
+                "Name": "Better Deaths",
+                "InternalName": "BetterDeaths",
+                "AssemblyVersion": "0.1.0.240",
+                "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/160",
+                "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
+                "LastUpdate": 1783859840
+            },
+            {
+                "Author": "nainaiowo",
+                "Name": "Chibi Chaos",
+                "InternalName": "ChibiChaos",
+                "AssemblyVersion": "0.1.17.7",
+                "Description": "Scales down Chaos in DMU for visibility.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/161",
+                "RepoUrl": "https://github.com/Nainaiowo/chibi-chaos",
+                "LastUpdate": 1782971186
+            },
+            {
+                "Author": "nainaiowo",
+                "Name": "DMU Mits",
+                "InternalName": "DMUMits",
+                "AssemblyVersion": "0.1.0.8",
+                "Description": "Shows upcoming dmu mitigation based on fight timeline",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nainaiowo/dmu-mits",
+                "LastUpdate": 1783902889
+            },
+            {
+                "Author": "nainaiowo",
+                "Name": "DMU Helper",
+                "InternalName": "DMUP4DebuffHelper",
+                "AssemblyVersion": "0.1.0.10",
+                "Description": "Shows compact DMU P4 debuff timers with real/fake callouts.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/162",
+                "RepoUrl": "https://github.com/Nainaiowo/dmu-p4-debuff-helper",
+                "LastUpdate": 1783904119
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/nala",
+        "repo_source_url": "https://github.com/NalaPraline",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "nala",
+        "plugins": [
+            {
+                "Author": "Nala Praline",
+                "Name": "NalaPF",
+                "InternalName": "NalaPF",
+                "AssemblyVersion": "1.0.0.1",
+                "Description": "Captures your PF configuration and automatically recreates it after a disconnect or datacenter switch.\n\nCommands:\n/pfr",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/140",
+                "LastUpdate": 1780921508
+            },
+            {
+                "Author": "Nala Praline, Asuna",
+                "Name": "VenueScope",
+                "InternalName": "VenueScope",
+                "AssemblyVersion": "1.0.10.0",
+                "Description": "Browse FFXIV community events from Partake.gg and FFXIV Venue directly in-game. Filter by data center, time, and tags.\n\n/venuescope or /vs — Open VenueScope",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/122",
+                "LastUpdate": 1781867298
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/nexai",
+        "repo_source_url": "https://github.com/Nexaii",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "nexai",
+        "plugins": [
+            {
+                "Author": "Nexai",
+                "Name": "FCCH",
+                "InternalName": "FCCH",
+                "AssemblyVersion": "2.4.2.0",
+                "Description": "Free Company Chest Helper. Automate deposits, withdrawals, organization, crystals, workshop project pulls, and custom item lists.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/149",
+                "RepoUrl": "https://github.com/Nexaii/FCCH",
+                "LastUpdate": 1783813757
+            },
+            {
+                "Author": "Nexai",
+                "Name": "Mogmail",
+                "InternalName": "Mogmail",
+                "AssemblyVersion": "1.2.2.0",
+                "Description": "A better mail service. Bulk attachment claiming, bulk delete, and inventory pop.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/148",
+                "RepoUrl": "https://github.com/Nexaii/Mogmail",
+                "LastUpdate": 1783463460
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/oof-games",
+        "repo_source_url": "https://github.com/OOFGamesss",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "oof-games",
+        "plugins": [
+            {
+                "Author": "OOF Games",
+                "Name": "Chocobo Racing",
+                "InternalName": "ChocoboRacingGamba",
+                "AssemblyVersion": "1.0.3.0",
+                "Description": "Host live Chocobo Racing events at your venue with zero manual bookkeeping. Bets are captured from party and alliance chat automatically, player banks track every balance, and payouts are calculated at the click of a button. Run 2-10 chocobos with custom track lengths, odds, and branded chat messages. Full race history and profit/loss reporting included.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/157",
+                "RepoUrl": "https://github.com/OOFGamesss/ChocoboRacing",
+                "LastUpdate": 1783682207
+            },
+            {
+                "Author": "OOF Games, Asuna",
+                "Name": "Gamba Where",
+                "InternalName": "GambaWhere",
+                "AssemblyVersion": "1.0.2.1",
+                "Description": "Browse live gambling events across Eorzea, filter by game or data centre, and teleport straight there with Lifestream. Host your own session with game-specific rules, presets, and host profiles with automatic location updates, Discord webhooks, minimap host icons, and Party Finder shortcuts. Find or advertise for venues and hosts on the Recruitment board, and set custom alerts to be notified when a new event matches your preferences.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/158",
+                "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
+                "LastUpdate": 1783335206
+            },
+            {
+                "Author": "OOF Games",
+                "Name": "Mini Games Emporium",
+                "InternalName": "MiniGamesEmporium",
+                "AssemblyVersion": "0.0.11.1",
+                "Description": "The all-in-one hosting tool for FFXIV gambling venues, with three live games: BAR 777, Deathroll Tournament, and Higher/Lower. Handles player queues, trade verification, boosted pots, automated chat, and a full transaction ledger.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/163",
+                "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
+                "LastUpdate": 1783936325
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Puni.sh",
+        "repo_url": "https://puni.sh/api/repository/raya",
+        "repo_source_url": "https://puni.sh/directory/raya",
+        "repo_name": "raya",
+        "plugins": [
+            {
+                "Author": "Raya",
+                "Name": "Better Discord Rich Presence",
+                "InternalName": "BetterDiscordRichPresence",
+                "AssemblyVersion": "1.0.4.2",
+                "Description": "Discord Rich Presence that allows you to utilize everything discord has to offer, including custom images, custom buttons, widgets, and more!",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/164",
+                "RepoUrl": "https://github.com/RayaSerahill/BetterDiscordRichpresence",
+                "LastUpdate": 1783724369
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/sourpuh",
+        "repo_source_url": "https://github.com/sourpuh/",
+        "repo_name": "sourpuh",
+        "repo_developer_name": "Puni.sh",
+        "plugins": [
+            {
+                "Author": "sourpuh",
+                "Name": "Fidget Spinner",
+                "InternalName": "FidgetSpinner",
+                "AssemblyVersion": "0.0.0.4",
+                "Description": "spin in place",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/133",
+                "RepoUrl": "https://github.com/sourpuh/ffxiv_fidgetspinner",
+                "LastUpdate": 1783714117
+            },
+            {
+                "Author": "sourpuh",
+                "Name": "Gaolbreak UI",
+                "InternalName": "Gaolbreak",
+                "AssemblyVersion": "0.0.0.29",
+                "Description": "Game windows can layer with plugin windows, reshade won't affect the UI, and 3D overlay plugins draw under the game's UI.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/152",
+                "RepoUrl": "https://github.com/sourpuh/ffxiv_gaolbreak",
+                "LastUpdate": 1783628178
+            },
+            {
+                "Author": "sourpuh",
+                "Name": "Interjection",
+                "InternalName": "Interjection",
+                "AssemblyVersion": "0.0.0.5",
+                "Description": "Show which casts are interruptible in the Enemy List. Color enmity gems when enemies are targeting other tanks.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/63",
+                "RepoUrl": "https://github.com/sourpuh/ffxiv_interjection",
+                "LastUpdate": 1777663555
+            },
+            {
+                "Author": "sourpuh",
+                "Name": "Waymark Studio",
+                "InternalName": "WaymarkStudio",
+                "AssemblyVersion": "0.0.0.53",
+                "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/62",
+                "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
+                "LastUpdate": 1781651953
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/spider",
+        "repo_source_url": "https://github.com/spide-r/",
+        "repo_name": "spider",
+        "repo_developer_name": "Puni.sh",
+        "plugins": [
+            {
+                "Author": "spider",
+                "Name": "CCAnonymizer",
+                "InternalName": "CCAnonymizer",
+                "AssemblyVersion": "0.4.1.1",
+                "Description": "Hides Adventurer plates, Usernames, and Player Appearance when in Crystaline Conflict. Enjoy worry-free laddering!",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/72",
+                "RepoUrl": "https://github.com/spide-r/CCAnonymizer",
+                "LastUpdate": 1777571028
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/taurenkey",
+        "repo_source_url": "https://github.com/Taurenkey",
+        "repo_name": "taurenkey",
+        "repo_developer_name": "Puni.sh",
+        "plugins": [
+            {
+                "Author": "Taurenkey, NightmareXIV",
+                "Name": "ReActionEx",
+                "InternalName": "ReActionEx",
+                "AssemblyVersion": "1.0.1.2",
+                "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Taurenkey/ReActionEX",
+                "LastUpdate": 1777749737
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/vali",
+        "repo_source_url": "https://github.com/NeoGriever?tab=repositories",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "vali",
+        "plugins": [
+            {
+                "Author": "Valenth Siveria",
+                "Name": "Active Venue Finder",
+                "InternalName": "ActiveVenueFinder",
+                "AssemblyVersion": "2.1.0.1",
+                "Description": "Discover active FFXIV venues with data powered by the FFXIV Venues API. Browse currently open and upcoming venues in a sortable table featuring color-coded data centers, opening times, and a visual timeline. Filter by region, search by name, and adjust the lookahead window to find venues opening soon.\n\nSave favorites, blacklist venues, and add your own custom venues with custom schedules and tags. Lifestream integration lets you teleport directly to any venue, while a compact popout window gives you a quick overview at a glance.\n\nUse /avf to open.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/129",
+                "RepoUrl": "https://github.com/NeoGriever/ActiveVenueFinder",
+                "LastUpdate": 1777718182
+            },
+            {
+                "Author": "Valenth Siveria",
+                "Name": "BlackJack Buttler",
+                "InternalName": "BlackJackButtler",
+                "AssemblyVersion": "1.8.4.7",
+                "Description": "/bjb - opens the blackjack buttler tool",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/118",
+                "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
+                "LastUpdate": 1783219306
+            },
+            {
+                "Author": "Valenth Siveria",
+                "Name": "Burnout",
+                "InternalName": "Burnout",
+                "AssemblyVersion": "1.0.0.1",
+                "Description": "Don't get a burnout by using burnout",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/123",
+                "RepoUrl": "https://github.com/NeoGriever/Burnout",
+                "LastUpdate": 1780417242
+            },
+            {
+                "Author": "Valenth Siveria",
+                "Name": "I Am Ready",
+                "InternalName": "IAmReady",
+                "AssemblyVersion": "1.1.0.0",
+                "Description": "# I Am Ready\n\n**I Am Ready** is a Dalamud plugin for Final Fantasy XIV that automatically accepts or declines Party and Alliance Ready Checks based on a customizable counter. \n\nWhether you are stepping away for a moment or just tired of clicking, this plugin handles ready checks for you while mimicking human reaction times.\n\n## ✨ Features\n\n* **Auto-Answer Ready Checks:** Automatically clicks \"Yes\" or \"No\" when a ready check appears.\n* **Configurable \"Yes\" Counter:** Set a specific number of times you want to automatically answer \"Yes\". Once that limit is reached, the plugin will automatically start answering \"No\" to prevent pulling when you are actually away.\n* **Natural Delay:** Enable a randomized delay (0.7 to 2.5 seconds) before the plugin answers, making it look like a natural human reaction.\n* **Smart Chat Triggers (Regex):** Add custom text phrases to the plugin. If someone says one of these phrases in Party or Alliance chat (e.g., \"reset\", \"pulling\"), your counter will automatically reset back to zero.\n* **Bilingual Support:** The user interface is available in both English and German.\n\n## 🚀 Usage\n\n1. Type `/iar` in the in-game chat to open the configuration window.\n2. Click the **Inactive/Active** button at the top to turn the auto-responder on or off.\n3. Adjust the **Yes Count** slider. For example, if set to `5`, the plugin will answer \"Yes\" to the next 5 ready checks, and \"No\" to any checks after that.\n4. Click the **Start** button at any time to manually reset your current counter back to zero.\n\n### Chat Triggers (Regex Patterns)\nAt the bottom of the window, you can expand the **Regex Patterns** section. Here you can add simple words or complex regex patterns. \nIf the plugin reads a matching message in your Party or Cross-World Party chat, it will instantly reset your counter to zero, assuming a new pull or instance is starting!\n\n/iar - opens the I Am Ready tool",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/121",
+                "RepoUrl": "https://github.com/NeoGriever/IAmReady",
+                "LastUpdate": 1778900332
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/vera",
+        "repo_source_url": "https://github.com/VeraNala/",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "vera",
+        "plugins": [
+            {
+                "Author": "vera.lyn",
+                "Name": "Discard Helper",
+                "InternalName": "ARDiscard",
+                "AssemblyVersion": "8.5",
+                "Description": "Small plugin to help keep your inventory organized (especially when automating retainers or submersibles) by discarding items you don't want (e.g. Stuffed Alphas)",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/80",
+                "RepoUrl": "https://github.com/VeraNala/ARDiscard",
+                "LastUpdate": 1777603269
+            },
+            {
+                "Author": "vera.lyn",
+                "Name": "Deliveroo",
+                "InternalName": "Deliveroo",
+                "AssemblyVersion": "7.5.0.2",
+                "Description": "Better Grand Company Deliveries",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/79",
+                "RepoUrl": "https://github.com/VeraNala/Deliveroo",
+                "LastUpdate": 1766212354
+            },
+            {
+                "Author": "vera.lyn",
+                "Name": "Fish Notify",
+                "InternalName": "FishNotify",
+                "AssemblyVersion": "10.1",
+                "Description": "Plays a sound when a fish is caught, depending on tug-strength",
+                "DalamudApiLevel": 14,
+                "IconUrl": "https://puni.sh/api/plugins/icon/81",
+                "RepoUrl": "https://github.com/VeraNala/FishNotify",
+                "LastUpdate": 1768047181
+            },
+            {
+                "Author": "vera.lyn",
+                "Name": "Gearsetter",
+                "InternalName": "Gearsetter",
+                "AssemblyVersion": "4.3",
+                "Description": "Browse through all gear pieces available for each class/job and show possible upgrades",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/98",
+                "RepoUrl": "https://github.com/VeraNala/Gearsetter",
+                "LastUpdate": 1777759956
+            },
+            {
+                "Author": "vera.lyn",
+                "Name": "KitchenSink",
+                "InternalName": "KitchenSink",
+                "AssemblyVersion": "4.0",
+                "Description": "A plugin for things that aren't worth their own plugins; see commands for details.",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://puni.sh/api/plugins/icon/95",
+                "RepoUrl": "https://git.carvel.li/liza/KitchenSink",
+                "LastUpdate": 1755808371
+            },
+            {
+                "Author": "vera.lyn",
+                "Name": "Squadronista",
+                "InternalName": "Squadronista",
+                "AssemblyVersion": "7.5.0.0",
+                "Description": "Helps optimize squadron mission compositions",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/101",
+                "RepoUrl": "https://github.com/VeraNala/Squadronista",
+                "LastUpdate": 1770608821
+            },
+            {
+                "Author": "vera.lyn",
+                "Name": "Vera's Integrated World Improvements",
+                "InternalName": "VIWI",
+                "AssemblyVersion": "0.0.0.62",
+                "Description": "A collection of plugins-turned-modules, QoL improvements, and Automation features",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/108",
+                "RepoUrl": "https://github.com/VeraNala/VIWI",
+                "LastUpdate": 1780272987
+            },
+            {
+                "Author": "vera.lyn",
+                "Name": "Workshoppa",
+                "InternalName": "Workshoppa",
+                "AssemblyVersion": "9.2.0.0",
+                "Description": "Better Company Workshop Turn-In",
+                "DalamudApiLevel": 14,
+                "IconUrl": "https://puni.sh/api/plugins/icon/97",
+                "RepoUrl": "https://github.com/VeraNala/Workshoppa",
+                "LastUpdate": 1766205442
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/veyn",
+        "repo_source_url": "https://github.com/awgil",
+        "repo_name": "veyn",
+        "repo_developer_name": "Puni.sh",
+        "plugins": [
+            {
+                "Author": "veyn, xan_0",
+                "Name": "Boss Mod",
+                "InternalName": "BossMod",
+                "AssemblyVersion": "7.5.1.18",
+                "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/30",
+                "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+                "LastUpdate": 1783827612
+            },
+            {
+                "Author": "veyn, croizat",
+                "Name": "vfallguy",
+                "InternalName": "vfallguy",
+                "AssemblyVersion": "0.0.0.12",
+                "Description": "Bot that does fall guys event automatically.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/41",
+                "LastUpdate": 1777500971
+            },
+            {
+                "Author": "veyn",
+                "Name": "Easier Faux Hollows",
+                "InternalName": "vfaux",
+                "AssemblyVersion": "0.0.0.12",
+                "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/29",
+                "RepoUrl": "https://github.com/awgil/vfaux",
+                "LastUpdate": 1777496770
+            },
+            {
+                "Author": "veyn, croizat",
+                "Name": "V(ery) Island",
+                "InternalName": "visland",
+                "AssemblyVersion": "0.0.0.143",
+                "Description": "Automate gathering, workshop assignments, etc.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/28",
+                "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+                "LastUpdate": 1777499385
+            },
+            {
+                "Author": "veyn, xan_0",
+                "Name": "vnavmesh",
+                "InternalName": "vnavmesh",
+                "AssemblyVersion": "1.2.3.8",
+                "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/48",
+                "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
+                "LastUpdate": 1782319736
+            },
+            {
+                "Author": "veyn, croizat",
+                "Name": "Satisfier",
+                "InternalName": "vsatisfy",
+                "AssemblyVersion": "0.0.0.37",
+                "Description": "Make custom deliveries less annoying by automating the process.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/58",
+                "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
+                "LastUpdate": 1781106368
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/wah",
+        "repo_source_url": "https://github.com/Brappp/",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "wah",
+        "plugins": [
+            {
+                "Author": "wah",
+                "Name": "PaissaWah",
+                "InternalName": "PaissaWah",
+                "AssemblyVersion": "1.0.0.7",
+                "Description": "PassiaDB Search",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Brappp/PaissaWah",
+                "LastUpdate": 1778548030
+            },
+            {
+                "Author": "wah",
+                "Name": "Plugin Preset Manager",
+                "InternalName": "PluginPresetManager",
+                "AssemblyVersion": "1.0.6.0",
+                "Description": "Create and manage plugin presets with support for always-on plugins. Commands: /ppreset",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Brappp/PluginPresetManager",
+                "LastUpdate": 1781295147
+            },
+            {
+                "Author": "wah",
+                "Name": "WahJumps",
+                "InternalName": "WahJumps",
+                "AssemblyVersion": "1.0.10.0",
+                "Description": "Jumping Puzzle Directory for the Strange Housing Discord",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/93",
+                "LastUpdate": 1780055593
+            },
+            {
+                "Author": "wah",
+                "Name": "wahventory",
+                "InternalName": "wahventory",
+                "AssemblyVersion": "4.6.0.0",
+                "Description": "Advanced inventory management with safety filters and auto-discard",
+                "DalamudApiLevel": 15,
+                "LastUpdate": 1780756377
+            }
+        ]
+    },
+    {
+        "repo_url": "https://puni.sh/api/repository/xan",
+        "repo_source_url": "https://github.com/xanunderscore/CopeSeetheMeld",
+        "repo_developer_name": "Puni.sh",
+        "repo_name": "xan",
+        "plugins": [
+            {
+                "Author": "xan_0",
+                "Name": "Cope, Seethe, Meld",
+                "InternalName": "CopeSeetheMeld",
+                "AssemblyVersion": "0.0.3.1",
+                "Description": "Auto melds your gear",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/xanunderscore/CopeSeetheMeld",
+                "LastUpdate": 1766248591
+            }
+        ]
     },
     {
         "repo_url": "https://puni.sh/api/repository/aly",
@@ -17679,25 +17992,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/Ray-CR/BackstabTheTrade/main/images/icon.png",
                 "RepoUrl": "https://github.com/Ray-CR/BackstabTheTrade",
                 "LastUpdate": 1780542713
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "raya",
-        "repo_url": "https://puni.sh/api/repository/raya",
-        "repo_source_url": "https://puni.sh/directory/raya",
-        "repo_name": "raya",
-        "plugins": [
-            {
-                "Author": "Raya",
-                "Name": "Better Discord Rich Presence",
-                "InternalName": "BetterDiscordRichPresence",
-                "AssemblyVersion": "1.0.4.2",
-                "Description": "Discord Rich Presence that allows you to utilize everything discord has to offer, including custom images, custom buttons, widgets, and more!",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/164",
-                "RepoUrl": "https://github.com/RayaSerahill/BetterDiscordRichpresence",
-                "LastUpdate": 1783724369
             }
         ]
     },
@@ -18579,12 +18873,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.4.0.73",
+                "AssemblyVersion": "0.4.0.74",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1783951816
+                "LastUpdate": 1783970962
             }
         ]
     },
@@ -19999,58 +20293,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/sourpuh",
-        "repo_source_url": "https://github.com/sourpuh/",
-        "repo_name": "sourpuh",
-        "repo_developer_name": "sourpuh",
-        "plugins": [
-            {
-                "Author": "sourpuh",
-                "Name": "Fidget Spinner",
-                "InternalName": "FidgetSpinner",
-                "AssemblyVersion": "0.0.0.4",
-                "Description": "spin in place",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/133",
-                "RepoUrl": "https://github.com/sourpuh/ffxiv_fidgetspinner",
-                "LastUpdate": 1783714117
-            },
-            {
-                "Author": "sourpuh",
-                "Name": "Gaolbreak UI",
-                "InternalName": "Gaolbreak",
-                "AssemblyVersion": "0.0.0.29",
-                "Description": "Game windows can layer with plugin windows, reshade won't affect the UI, and 3D overlay plugins draw under the game's UI.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/152",
-                "RepoUrl": "https://github.com/sourpuh/ffxiv_gaolbreak",
-                "LastUpdate": 1783628178
-            },
-            {
-                "Author": "sourpuh",
-                "Name": "Interjection",
-                "InternalName": "Interjection",
-                "AssemblyVersion": "0.0.0.5",
-                "Description": "Show which casts are interruptible in the Enemy List. Color enmity gems when enemies are targeting other tanks.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/63",
-                "RepoUrl": "https://github.com/sourpuh/ffxiv_interjection",
-                "LastUpdate": 1777663555
-            },
-            {
-                "Author": "sourpuh",
-                "Name": "Waymark Studio",
-                "InternalName": "WaymarkStudio",
-                "AssemblyVersion": "0.0.0.53",
-                "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/62",
-                "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
-                "LastUpdate": 1781651953
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Sowce",
         "repo_url": "https://raw.githubusercontent.com/Sowce/optimal-mch-gameplay/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Sowce/optimal-mch-gameplay",
@@ -20161,25 +20403,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/SpheneDev/repo/main/images/venueplus.png",
                 "RepoUrl": "https://github.com/SpheneDev/VenuePlus",
                 "LastUpdate": 1780951075
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/spider",
-        "repo_source_url": "https://github.com/spide-r/",
-        "repo_name": "spider",
-        "repo_developer_name": "spide-r",
-        "plugins": [
-            {
-                "Author": "spider",
-                "Name": "CCAnonymizer",
-                "InternalName": "CCAnonymizer",
-                "AssemblyVersion": "0.4.1.1",
-                "Description": "Hides Adventurer plates, Usernames, and Player Appearance when in Crystaline Conflict. Enjoy worry-free laddering!",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/72",
-                "RepoUrl": "https://github.com/spide-r/CCAnonymizer",
-                "LastUpdate": 1777571028
             }
         ]
     },
@@ -20395,12 +20618,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.2601",
+                "AssemblyVersion": "7.5.1.2602",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1783854341
+                "LastUpdate": 1783958602
             },
             {
                 "Author": "Kouzukii",
@@ -20702,24 +20925,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/tancred423/MitDisplay/master/Data/glorpShield.png",
                 "RepoUrl": "https://github.com/tancred423/MitDisplay",
                 "LastUpdate": 1778753844
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/taurenkey",
-        "repo_source_url": "https://github.com/Taurenkey",
-        "repo_name": "taurenkey",
-        "repo_developer_name": "Taurenkey",
-        "plugins": [
-            {
-                "Author": "Taurenkey, NightmareXIV",
-                "Name": "ReActionEx",
-                "InternalName": "ReActionEx",
-                "AssemblyVersion": "1.0.1.2",
-                "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Taurenkey/ReActionEX",
-                "LastUpdate": 1777749737
             }
         ]
     },
@@ -21478,12 +21683,12 @@
                 "Author": "The PlayerSync Team",
                 "Name": "PlayerSync",
                 "InternalName": "MareSempiterne",
-                "AssemblyVersion": "1.15.3.4",
+                "AssemblyVersion": "1.15.3.5",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1783520292
+                "LastUpdate": 1783959463
             }
         ]
     },
@@ -21629,63 +21834,11 @@
                 "Author": "Ivory Lion Trading Co.",
                 "Name": "Ivory Lion Ledger Sync",
                 "InternalName": "IvoryLionLedger",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.0.5",
                 "Description": "Syncs your fish log, mounts, minions, orchestrions, emotes, Triple Triad cards, and crafter stats to your Free Company's Ivory Lion Ledger site. Sign in with your Ledger account under /ledger.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/unremarkably/ledger",
-                "LastUpdate": 1783907620
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/vali",
-        "repo_source_url": "https://github.com/NeoGriever?tab=repositories",
-        "repo_developer_name": "vali",
-        "repo_name": "vali",
-        "plugins": [
-            {
-                "Author": "Valenth Siveria",
-                "Name": "Active Venue Finder",
-                "InternalName": "ActiveVenueFinder",
-                "AssemblyVersion": "2.1.0.1",
-                "Description": "Discover active FFXIV venues with data powered by the FFXIV Venues API. Browse currently open and upcoming venues in a sortable table featuring color-coded data centers, opening times, and a visual timeline. Filter by region, search by name, and adjust the lookahead window to find venues opening soon.\n\nSave favorites, blacklist venues, and add your own custom venues with custom schedules and tags. Lifestream integration lets you teleport directly to any venue, while a compact popout window gives you a quick overview at a glance.\n\nUse /avf to open.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/129",
-                "RepoUrl": "https://github.com/NeoGriever/ActiveVenueFinder",
-                "LastUpdate": 1777718182
-            },
-            {
-                "Author": "Valenth Siveria",
-                "Name": "BlackJack Buttler",
-                "InternalName": "BlackJackButtler",
-                "AssemblyVersion": "1.8.4.7",
-                "Description": "/bjb - opens the blackjack buttler tool",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/118",
-                "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1783219306
-            },
-            {
-                "Author": "Valenth Siveria",
-                "Name": "Burnout",
-                "InternalName": "Burnout",
-                "AssemblyVersion": "1.0.0.1",
-                "Description": "Don't get a burnout by using burnout",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/123",
-                "RepoUrl": "https://github.com/NeoGriever/Burnout",
-                "LastUpdate": 1780417242
-            },
-            {
-                "Author": "Valenth Siveria",
-                "Name": "I Am Ready",
-                "InternalName": "IAmReady",
-                "AssemblyVersion": "1.1.0.0",
-                "Description": "# I Am Ready\n\n**I Am Ready** is a Dalamud plugin for Final Fantasy XIV that automatically accepts or declines Party and Alliance Ready Checks based on a customizable counter. \n\nWhether you are stepping away for a moment or just tired of clicking, this plugin handles ready checks for you while mimicking human reaction times.\n\n## ✨ Features\n\n* **Auto-Answer Ready Checks:** Automatically clicks \"Yes\" or \"No\" when a ready check appears.\n* **Configurable \"Yes\" Counter:** Set a specific number of times you want to automatically answer \"Yes\". Once that limit is reached, the plugin will automatically start answering \"No\" to prevent pulling when you are actually away.\n* **Natural Delay:** Enable a randomized delay (0.7 to 2.5 seconds) before the plugin answers, making it look like a natural human reaction.\n* **Smart Chat Triggers (Regex):** Add custom text phrases to the plugin. If someone says one of these phrases in Party or Alliance chat (e.g., \"reset\", \"pulling\"), your counter will automatically reset back to zero.\n* **Bilingual Support:** The user interface is available in both English and German.\n\n## 🚀 Usage\n\n1. Type `/iar` in the in-game chat to open the configuration window.\n2. Click the **Inactive/Active** button at the top to turn the auto-responder on or off.\n3. Adjust the **Yes Count** slider. For example, if set to `5`, the plugin will answer \"Yes\" to the next 5 ready checks, and \"No\" to any checks after that.\n4. Click the **Start** button at any time to manually reset your current counter back to zero.\n\n### Chat Triggers (Regex Patterns)\nAt the bottom of the window, you can expand the **Regex Patterns** section. Here you can add simple words or complex regex patterns. \nIf the plugin reads a matching message in your Party or Cross-World Party chat, it will instantly reset your counter to zero, assuming a new pull or instance is starting!\n\n/iar - opens the I Am Ready tool",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/121",
-                "RepoUrl": "https://github.com/NeoGriever/IAmReady",
-                "LastUpdate": 1778900332
+                "LastUpdate": 1783969946
             }
         ]
     },
@@ -21960,102 +22113,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VelvetFFXIV/XIVIgnore",
                 "LastUpdate": 1783410963
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/vera",
-        "repo_source_url": "https://github.com/VeraNala/",
-        "repo_developer_name": "VeraNala",
-        "repo_name": "vera",
-        "plugins": [
-            {
-                "Author": "vera.lyn",
-                "Name": "Discard Helper",
-                "InternalName": "ARDiscard",
-                "AssemblyVersion": "8.5",
-                "Description": "Small plugin to help keep your inventory organized (especially when automating retainers or submersibles) by discarding items you don't want (e.g. Stuffed Alphas)",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/80",
-                "RepoUrl": "https://github.com/VeraNala/ARDiscard",
-                "LastUpdate": 1777603269
-            },
-            {
-                "Author": "vera.lyn",
-                "Name": "Deliveroo",
-                "InternalName": "Deliveroo",
-                "AssemblyVersion": "7.5.0.2",
-                "Description": "Better Grand Company Deliveries",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/79",
-                "RepoUrl": "https://github.com/VeraNala/Deliveroo",
-                "LastUpdate": 1766212354
-            },
-            {
-                "Author": "vera.lyn",
-                "Name": "Fish Notify",
-                "InternalName": "FishNotify",
-                "AssemblyVersion": "10.1",
-                "Description": "Plays a sound when a fish is caught, depending on tug-strength",
-                "DalamudApiLevel": 14,
-                "IconUrl": "https://puni.sh/api/plugins/icon/81",
-                "RepoUrl": "https://github.com/VeraNala/FishNotify",
-                "LastUpdate": 1768047181
-            },
-            {
-                "Author": "vera.lyn",
-                "Name": "Gearsetter",
-                "InternalName": "Gearsetter",
-                "AssemblyVersion": "4.3",
-                "Description": "Browse through all gear pieces available for each class/job and show possible upgrades",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/98",
-                "RepoUrl": "https://github.com/VeraNala/Gearsetter",
-                "LastUpdate": 1777759956
-            },
-            {
-                "Author": "vera.lyn",
-                "Name": "KitchenSink",
-                "InternalName": "KitchenSink",
-                "AssemblyVersion": "4.0",
-                "Description": "A plugin for things that aren't worth their own plugins; see commands for details.",
-                "DalamudApiLevel": 13,
-                "IconUrl": "https://puni.sh/api/plugins/icon/95",
-                "RepoUrl": "https://git.carvel.li/liza/KitchenSink",
-                "LastUpdate": 1755808371
-            },
-            {
-                "Author": "vera.lyn",
-                "Name": "Squadronista",
-                "InternalName": "Squadronista",
-                "AssemblyVersion": "7.5.0.0",
-                "Description": "Helps optimize squadron mission compositions",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/101",
-                "RepoUrl": "https://github.com/VeraNala/Squadronista",
-                "LastUpdate": 1770608821
-            },
-            {
-                "Author": "vera.lyn",
-                "Name": "Vera's Integrated World Improvements",
-                "InternalName": "VIWI",
-                "AssemblyVersion": "0.0.0.62",
-                "Description": "A collection of plugins-turned-modules, QoL improvements, and Automation features",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/108",
-                "RepoUrl": "https://github.com/VeraNala/VIWI",
-                "LastUpdate": 1780272987
-            },
-            {
-                "Author": "vera.lyn",
-                "Name": "Workshoppa",
-                "InternalName": "Workshoppa",
-                "AssemblyVersion": "9.2.0.0",
-                "Description": "Better Company Workshop Turn-In",
-                "DalamudApiLevel": 14,
-                "IconUrl": "https://puni.sh/api/plugins/icon/97",
-                "RepoUrl": "https://github.com/VeraNala/Workshoppa",
-                "LastUpdate": 1766205442
             }
         ]
     },
@@ -22656,24 +22713,6 @@
         ]
     },
     {
-        "repo_url": "https://puni.sh/api/repository/xan",
-        "repo_source_url": "https://github.com/xanunderscore/CopeSeetheMeld",
-        "repo_developer_name": "xanunderscore",
-        "repo_name": "CopeSeetheMeld",
-        "plugins": [
-            {
-                "Author": "xan_0",
-                "Name": "Cope, Seethe, Meld",
-                "InternalName": "CopeSeetheMeld",
-                "AssemblyVersion": "0.0.3.1",
-                "Description": "Auto melds your gear",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/xanunderscore/CopeSeetheMeld",
-                "LastUpdate": 1766248591
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Xekiest",
         "repo_url": "https://raw.githubusercontent.com/Xekiest/valor-and-chaos-repo/main/repo.json",
         "repo_source_url": "https://github.com/Xekiest/valor-and-chaos-repo",
@@ -22712,23 +22751,23 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Daily Tribes",
                 "InternalName": "AutoDailyTribes",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.0.1",
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/tree/master/AutoDailyTribes",
-                "LastUpdate": 1781979238
+                "LastUpdate": 1783962074
             },
             {
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "1.3.2.1",
+                "AssemblyVersion": "1.3.2.2",
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1783881909
+                "LastUpdate": 1783962301
             },
             {
                 "Author": "XeldarAlz",
@@ -22794,12 +22833,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Daily Tribes",
                 "InternalName": "AutoDailyTribes",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.0.1",
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/tree/master/AutoDailyTribes",
-                "LastUpdate": 1781979238
+                "LastUpdate": 1783962074
             }
         ]
     },
@@ -22813,12 +22852,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "1.3.2.1",
+                "AssemblyVersion": "1.3.2.2",
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1783881909
+                "LastUpdate": 1783962301
             }
         ]
     },
@@ -23312,12 +23351,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.7",
+                "AssemblyVersion": "15.306.0.8",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1783935856
+                "LastUpdate": 1783957106
             },
             {
                 "Author": "youdianfengbao (基于 awgil/ffxiv_satisfy)",
@@ -23502,25 +23541,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
                 "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
                 "LastUpdate": 1777596591
-            }
-        ]
-    },
-    {
-        "repo_url": "https://puni.sh/api/repository/justbees",
-        "repo_source_url": "https://github.com/zbee",
-        "repo_developer_name": "zbee",
-        "repo_name": "justbees",
-        "plugins": [
-            {
-                "Author": "zbee",
-                "Name": "ARC",
-                "InternalName": "ARControl",
-                "AssemblyVersion": "8.5",
-                "Description": "Instead of manually managing retainer plans for each individual character, which can get fairly tedious fairly quickly, we optimize this a bit and only manage \"high-level\" plans.\n\nOriginally made by Liza Carvelli - thank you for your work.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/99",
-                "RepoUrl": "https://github.com/zbee/ARC",
-                "LastUpdate": 1777655942
             }
         ]
     },
