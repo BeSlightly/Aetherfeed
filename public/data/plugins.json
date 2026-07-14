@@ -1708,6 +1708,24 @@
         ]
     },
     {
+        "repo_developer_name": "ArcanineLS",
+        "repo_url": "https://raw.githubusercontent.com/ArcanineLS/DalamudPluginRepo/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/ArcanineLS/DalamudPluginRepo",
+        "repo_name": "DalamudPluginRepo",
+        "plugins": [
+            {
+                "Author": "ArcanineLS",
+                "Name": "HrothgarMakeCoin",
+                "InternalName": "HrothgarMakeCoin",
+                "AssemblyVersion": "1.14.1.0",
+                "Description": "Automatically undercuts your retainer market board listings, with optional AutoRetainer post-venture integration. A rebrand/fork of Dagobert by SHOEGAZEssb.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ArcanineLS/HrothgarMakeCoin",
+                "LastUpdate": 1784062490
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ariapurple",
         "repo_url": "https://raw.githubusercontent.com/ariapurple/FFXIVTCWrathCombo/main/repo.json",
         "repo_source_url": "https://github.com/ariapurple/FFXIVTCWrathCombo",
@@ -2604,7 +2622,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/BeSlightly/Snappy/refs/heads/master/snappy.png",
                 "RepoUrl": "https://github.com/BeSlightly/Snappy",
-                "LastUpdate": 1783895855
+                "LastUpdate": 1784049869
             }
         ]
     },
@@ -4320,6 +4338,24 @@
         ]
     },
     {
+        "repo_developer_name": "derbruedi",
+        "repo_url": "https://raw.githubusercontent.com/derbruedi/ff14-accessibility/main/repo.json",
+        "repo_source_url": "https://github.com/derbruedi/ff14-accessibility",
+        "repo_name": "ff14-accessibility",
+        "plugins": [
+            {
+                "Author": "FF14 Accessibility Project",
+                "Name": "FF14 Accessibility",
+                "InternalName": "FF14Accessibility",
+                "AssemblyVersion": "4.58.0.0",
+                "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
+                "LastUpdate": 1784060800
+            }
+        ]
+    },
+    {
         "repo_developer_name": "devckuw",
         "repo_url": "https://raw.githubusercontent.com/devckuw/DistribPluginFFXIV/main/repo.json",
         "repo_source_url": "https://github.com/devckuw/DistribPluginFFXIV",
@@ -4500,11 +4536,11 @@
                 "Author": "Akari",
                 "Name": "Venue Helper",
                 "InternalName": "VenueHelper",
-                "AssemblyVersion": "1.4.2.5",
+                "AssemblyVersion": "1.4.3.0",
                 "Description": "An all-in-one venue host toolkit: Venue Counter (multi-venue attendance + lifetime time tracking), Raffle Helper, Auction Helper (gil shorthand + buyer tracking), Giveaway Helper (anti-cheat), DR Tourny Helper (single or double elimination), Shout/Yell Helper, Bar Game Helper (custom + survival games, fixed/tiered/high-score payouts), Menu Helper (per-venue menus, macro serve sequences), plus a Settings tab with backup/restore and a master panic switch. Open with /venuehelper (aliases /vhelp, /vh). Exports to TXT, CSV, PDF, or XLSX.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/VenueHelper",
-                "LastUpdate": 1783048015
+                "LastUpdate": 1784062628
             }
         ]
     },
@@ -4573,11 +4609,11 @@
                 "Author": "Akari",
                 "Name": "Venue Helper",
                 "InternalName": "VenueHelper",
-                "AssemblyVersion": "1.4.2.5",
+                "AssemblyVersion": "1.4.3.0",
                 "Description": "An all-in-one venue host toolkit: Venue Counter, Raffle Helper, Auction Helper, and Giveaway Helper. Open with /venuehelper (aliases /vhelp, /vh). Exports to TXT, CSV, PDF, or XLSX.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/VenueHelper",
-                "LastUpdate": 1783048015
+                "LastUpdate": 1784062628
             }
         ]
     },
@@ -5330,12 +5366,12 @@
                 "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
                 "Name": "Brio-CN",
                 "InternalName": "Brio-CN",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/endfish/Brio-CN/zh-CN/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/endfish/Brio-CN",
-                "LastUpdate": 1783858318
+                "LastUpdate": 1784044906
             },
             {
                 "Author": "kawaii, 汉化: Endfish",
@@ -5631,7 +5667,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1783901544
+                "LastUpdate": 1784062656
             }
         ]
     },
@@ -6053,7 +6089,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1783820625
+                "LastUpdate": 1784048961
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7574,7 +7610,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/hu1j1233/Questionable",
-                "LastUpdate": 1784038042
+                "LastUpdate": 1784054680
             }
         ]
     },
@@ -9594,6 +9630,24 @@
         ]
     },
     {
+        "repo_developer_name": "kittenhaswares-ui",
+        "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/CrystalJobRank/main/repo.json",
+        "repo_source_url": "https://github.com/kittenhaswares-ui/CrystalJobRank",
+        "repo_name": "CrystalJobRank",
+        "plugins": [
+            {
+                "Author": "Crystal Job Rank contributors",
+                "Name": "Crystal Job Rank",
+                "InternalName": "CrystalJobRank.Plugin",
+                "AssemblyVersion": "0.3.1.0",
+                "Description": "Records Crystalline Conflict result screens and calculates a transparent Casual-and-Ranked rating for each job. Use /cjr or /cjr reset <JOB|all>.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kittenhaswares-ui/CrystalJobRank",
+                "LastUpdate": 1784049586
+            }
+        ]
+    },
+    {
         "repo_developer_name": "kk-triplesix",
         "repo_url": "https://raw.githubusercontent.com/kk-triplesix/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/kk-triplesix/DalamudPlugins",
@@ -9753,15 +9807,15 @@
         "repo_name": "Armoryeet",
         "plugins": [
             {
-                "Author": "Koro",
+                "Author": "Pekururu",
                 "Name": "Armoryeet",
                 "InternalName": "Armoryeet",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Clean up your armoury chest without touching gearset items.\n\nArmoryeet scans your gearsets, finds armoury chest gear that is not used by any of them, and moves it back to inventory only when you tell it to.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Korokatto/Armoryeet/main/src/Armoryeet/images/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/Pekururu/Armoryeet/main/src/Armoryeet/images/icon.png",
                 "RepoUrl": "https://github.com/Korokatto/Armoryeet",
-                "LastUpdate": 1779862637
+                "LastUpdate": 1784040703
             }
         ]
     },
@@ -11658,12 +11712,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.3.1.0",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784014680
+                "LastUpdate": 1784061596
             }
         ]
     },
@@ -15504,15 +15558,15 @@
         "repo_name": "Armoryeet",
         "plugins": [
             {
-                "Author": "Koro",
+                "Author": "Pekururu",
                 "Name": "Armoryeet",
                 "InternalName": "Armoryeet",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Clean up your armoury chest without touching gearset items.\n\nArmoryeet scans your gearsets, finds armoury chest gear that is not used by any of them, and moves it back to inventory only when you tell it to.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Korokatto/Armoryeet/main/src/Armoryeet/images/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/Pekururu/Armoryeet/main/src/Armoryeet/images/icon.png",
                 "RepoUrl": "https://github.com/Korokatto/Armoryeet",
-                "LastUpdate": 1784032244
+                "LastUpdate": 1784042604
             }
         ]
     },
@@ -16472,7 +16526,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784030884
+                "LastUpdate": 1784054365
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16500,12 +16554,12 @@
                 "Author": "Team Wrath",
                 "Name": "Wrath Combo",
                 "InternalName": "WrathCombo",
-                "AssemblyVersion": "1.0.4.13",
+                "AssemblyVersion": "1.0.4.14",
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1783761069
+                "LastUpdate": 1784052417
             },
             {
                 "Author": "daemitus, kawaii",
@@ -16740,11 +16794,11 @@
                 "Author": "Kage",
                 "Name": "RelicTracker",
                 "InternalName": "RelicTracker",
-                "AssemblyVersion": "1.0.0.8",
+                "AssemblyVersion": "1.0.0.9",
                 "Description": "Track relic weapon, tool, and armor progress across every job, with live material counts and optional FFXIV Collect sync.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
-                "LastUpdate": 1783936301
+                "LastUpdate": 1784062418
             }
         ]
     },
@@ -16942,7 +16996,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/158",
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1783335206
+                "LastUpdate": 1784044239
             },
             {
                 "Author": "OOF Games",
@@ -18910,12 +18964,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.4.0.94",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1784038404
+                "LastUpdate": 1784057606
             }
         ]
     },
@@ -22801,7 +22855,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783878090
+                "LastUpdate": 1784061061
             },
             {
                 "Author": "XeldarAlz",
