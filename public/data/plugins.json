@@ -413,12 +413,12 @@
                 "Author": "Mora",
                 "Name": "Aether Remote",
                 "InternalName": "AetherRemoteClient",
-                "AssemblyVersion": "2.10.2.0",
+                "AssemblyVersion": "2.10.2.1",
                 "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/aetherremote/AetherRemote/main/Images/icon.jpg",
                 "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1783890652
+                "LastUpdate": 1783985070
             }
         ]
     },
@@ -1086,12 +1086,12 @@
                 "Author": "WonderlandDev",
                 "Name": "Wind-Up Key",
                 "InternalName": "WindUpKey",
-                "AssemblyVersion": "0.1.4.2",
+                "AssemblyVersion": "0.1.5.0",
                 "Description": "A (hopefully) simple plugin. Dolls need winding, and winders can wind up dolls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/key.png",
                 "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
-                "LastUpdate": 1783879702
+                "LastUpdate": 1783977654
             },
             {
                 "Author": "WonderlandDev",
@@ -2424,8 +2424,8 @@
                 "AssemblyVersion": "0.0.0.8",
                 "Description": "Watches Cross-world Linkshell (CWLS1/CWLS2) chat for messages containing a map link and appends a clickable [Go To] link. Clicking it teleports you to the nearest aetheryte via the Teleporter plugin, hopping to the correct world/data center first via the Lifestream plugin if the message points to a different server.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783971313
+                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/SamplePlugin",
+                "LastUpdate": 1783220929
             },
             {
                 "Author": "bdg",
@@ -2434,8 +2434,8 @@
                 "AssemblyVersion": "0.0.0.6",
                 "Description": "Adds a /desynthall command that opens the game's desynthesis (materia extraction) window and enables PandorasBox's \"Desynth All\" feature so its button is ready to use. Requires the PandorasBox plugin to be installed.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783971313
+                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/DesynthAllCommand",
+                "LastUpdate": 1783619088
             },
             {
                 "Author": "bdg",
@@ -2444,18 +2444,18 @@
                 "AssemblyVersion": "0.0.0.3",
                 "Description": "When enabled, automatically logs your character out (with confirmation dialog handled) as soon as you receive a tell (private message) from anyone. Toggle it with /logoutontell (or /logoutontell on|off|status). Always starts disabled: the switch resets every time you log in, so you arm it deliberately each session.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783971313
+                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/LogoutOnTell",
+                "LastUpdate": 1783755791
             },
             {
                 "Author": "bdg",
                 "Name": "Mod Guard",
                 "InternalName": "ModGuard",
-                "AssemblyVersion": "0.0.0.1",
+                "AssemblyVersion": "0.0.0.5",
                 "Description": "Keeps your Penumbra mods private: when a mod-sync plugin (Lightless, Snowcloak, Sphene, PlayerSync, or any Mare Synchronos fork - the watch list is editable) is loaded, Mod Guard hides all your Penumbra mods by force-assigning an empty temporary collection to your character, so sync plugins have nothing to share. Once the sync plugins are gone (or on demand), it restores your previous Penumbra setup exactly as it was - your real collection and mod settings are never touched. Use /modguard to open the control window. Requires Penumbra.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1783971313
+                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/ModGuard",
+                "LastUpdate": 1783995180
             }
         ]
     },
@@ -8351,8 +8351,8 @@
                 "AssemblyVersion": "1.0.0.23",
                 "Description": "Personal fork of Dagobert, the automatic market board undercut plugin. Adds bait listing protection so a 1-unit decoy at 5 gil can't drag your retainer prices to the floor while real stacks sit at 1.2k. If you don't need that, install upstream Dagobert instead.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/jkleinne/ascended-dagobert",
-                "LastUpdate": 1783944638
+                "RepoUrl": "https://github.com/jkleinne/ascended-dagobert/releases/latest",
+                "LastUpdate": 1783944704
             },
             {
                 "Author": "jkleinne",
@@ -8372,8 +8372,8 @@
                 "AssemblyVersion": "0.5.0.0",
                 "Description": "Market and retainer-sales intelligence for FFXIV. Reads your own retainer listings and completed sales from the game client and pairs them with board-wide market context (listings, sales history, velocity) from the Universalis API.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/jkleinne/ascended-dagobert/releases/latest",
-                "LastUpdate": 1783944704
+                "RepoUrl": "https://github.com/jkleinne/ascended-ledger",
+                "LastUpdate": 1781594364
             },
             {
                 "Author": "jkleinne",
@@ -9792,7 +9792,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1783855172
+                "LastUpdate": 1783960858
             },
             {
                 "Author": "croizat",
@@ -9814,7 +9814,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1783827612
+                "LastUpdate": 1783980314
             },
             {
                 "Author": "sourpuh",
@@ -9831,12 +9831,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.7",
+                "AssemblyVersion": "15.306.0.8",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783915598
+                "LastUpdate": 1783956549
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10718,11 +10718,11 @@
                 "Author": "Lillypad",
                 "Name": "Lillypad Toolkit",
                 "InternalName": "VideoSyncPrototype",
-                "AssemblyVersion": "7.0.20.0",
+                "AssemblyVersion": "7.0.21.0",
                 "Description": "Create and join Watch2Gether rooms from inside FFXIV, then watch them on a styled in-world TV. Use /videosync to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Lillypad-14/Lillyvid",
-                "LastUpdate": 1783900435
+                "LastUpdate": 1783981846
             }
         ]
     },
@@ -11629,12 +11629,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.1.0.2",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1783190898
+                "LastUpdate": 1783985205
             }
         ]
     },
@@ -12326,12 +12326,12 @@
                 "Author": "miqote69",
                 "Name": "Actor Morpher",
                 "InternalName": "ActorMorpher",
-                "AssemblyVersion": "0.0.0.41",
+                "AssemblyVersion": "0.0.0.43",
                 "Description": "Locally changes visible actors into selected NPC, demihuman, or monster forms. Use /actormorpher to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/ActorMorpher/main/images/icon-v17.png",
                 "RepoUrl": "https://github.com/miqote69/ActorMorpher",
-                "LastUpdate": 1783930829
+                "LastUpdate": 1783984785
             }
         ]
     },
@@ -14226,12 +14226,12 @@
                 "Author": "Ninethirty77",
                 "Name": "The Studium",
                 "InternalName": "FCMetrics",
-                "AssemblyVersion": "0.1.211.0",
+                "AssemblyVersion": "0.1.214.0",
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/icon.jpg",
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1783297926
+                "LastUpdate": 1783989601
             }
         ]
     },
@@ -14668,12 +14668,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.2",
+                "AssemblyVersion": "0.1.3",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1783856708
+                "LastUpdate": 1783982767
             }
         ]
     },
@@ -16332,12 +16332,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.70",
+                "AssemblyVersion": "6.0.0.71",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1783972984
+                "LastUpdate": 1783983094
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -16494,7 +16494,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.39",
+                "AssemblyVersion": "15.40",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -16721,7 +16721,7 @@
                 "Author": "kawaii",
                 "Name": "Dropbox",
                 "InternalName": "Dropbox",
-                "AssemblyVersion": "1.0.2.13",
+                "AssemblyVersion": "1.0.2.15",
                 "Description": "Your personal vending machine.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kawaii/Dropbox",
@@ -16791,11 +16791,11 @@
                 "Author": "nainaiowo",
                 "Name": "DMU Mits",
                 "InternalName": "DMUMits",
-                "AssemblyVersion": "0.1.0.8",
+                "AssemblyVersion": "0.1.0.9",
                 "Description": "Shows upcoming dmu mitigation based on fight timeline",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-mits",
-                "LastUpdate": 1783902889
+                "LastUpdate": 1783989861
             },
             {
                 "Author": "nainaiowo",
@@ -17180,7 +17180,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1783827612
+                "LastUpdate": 1783980314
             },
             {
                 "Author": "veyn, croizat",
@@ -17207,12 +17207,12 @@
                 "Author": "veyn, croizat",
                 "Name": "V(ery) Island",
                 "InternalName": "visland",
-                "AssemblyVersion": "0.0.0.143",
+                "AssemblyVersion": "0.0.0.144",
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/28",
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1777499385
+                "LastUpdate": 1783983218
             },
             {
                 "Author": "veyn, xan_0",
@@ -18009,7 +18009,7 @@
                 "Description": "Bard Toolbox is an all-in-one FFXIV Dalamud plugin for bards and bands, providing all the essential functions that people would need every day.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
-                "LastUpdate": 1783473942,
+                "LastUpdate": 1783982887,
                 "is_closed_source": true
             }
         ]
@@ -18873,12 +18873,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.4.0.74",
+                "AssemblyVersion": "0.4.0.81",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1783970962
+                "LastUpdate": 1783982641
             }
         ]
     },
@@ -20153,12 +20153,12 @@
                 "Author": "snazz",
                 "Name": "Snazzy P4",
                 "InternalName": "SnazzyP4",
-                "AssemblyVersion": "1.0.7.1",
+                "AssemblyVersion": "1.0.12.0",
                 "Description": "A robust custom macro system for the Kefka UMAD/DMU Phase 4 mechanics. Press the buttons for what you see in the fight and it lays out clean, colour-coded callouts. Open with /snazzyp4.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/snazzysosnazzy/SnazzyP4/main/SnazzyP4/images/icon.png",
                 "RepoUrl": "https://github.com/snazzysosnazzy/SnazzyP4",
-                "LastUpdate": 1783894304
+                "LastUpdate": 1783982204
             }
         ]
     },
@@ -21834,11 +21834,11 @@
                 "Author": "Ivory Lion Trading Co.",
                 "Name": "Ivory Lion Ledger Sync",
                 "InternalName": "IvoryLionLedger",
-                "AssemblyVersion": "0.1.0.5",
+                "AssemblyVersion": "0.1.0.7",
                 "Description": "Syncs your fish log, mounts, minions, orchestrions, emotes, Triple Triad cards, and crafter stats to your Free Company's Ivory Lion Ledger site. Sign in with your Ledger account under /ledger.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/unremarkably/ledger",
-                "LastUpdate": 1783969946
+                "LastUpdate": 1783981556
             }
         ]
     },
