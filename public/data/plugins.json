@@ -433,12 +433,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.5.7.4",
+                "AssemblyVersion": "0.5.7.5",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1783727924
+                "LastUpdate": 1784011779
             },
             {
                 "Author": "DhogGPT",
@@ -609,12 +609,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.6.6",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1783915392
+                "LastUpdate": 1784011821
             },
             {
                 "Author": "XA",
@@ -4457,6 +4457,16 @@
         "plugins": [
             {
                 "Author": "Akari",
+                "Name": "Consolidator",
+                "InternalName": "Consolidator",
+                "AssemblyVersion": "1.3.1.0",
+                "Description": "Consolidates gil from your alt characters onto a single main. Logs into each character, travels to a chosen world via Lifestream, walks to your main with vnavmesh, trades over all gil above a floor you set, then returns to the FC. Requires AutoRetainer, Lifestream and vnavmesh; the receiving character needs Dropbox running to auto-accept the trades.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dexcss/Consolidator",
+                "LastUpdate": 1784014718
+            },
+            {
+                "Author": "Akari",
                 "Name": "FC Tracker",
                 "InternalName": "FCTracker",
                 "AssemblyVersion": "1.9.0.0",
@@ -6385,12 +6395,12 @@
                 "Author": "FranFkntastic",
                 "Name": "MarketMafioso",
                 "InternalName": "MarketMafioso",
-                "AssemblyVersion": "1.2.0.0",
+                "AssemblyVersion": "1.2.1.0",
                 "Description": "A practical FFXIV utility plugin for Workshop Logistics and optional receiver-backed inventory history.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FranFkntastic/MarketMafioso/main/docs/pluginmaster/assets/icon.png",
                 "RepoUrl": "https://github.com/FranFkntastic/MarketMafioso",
-                "LastUpdate": 1783830462
+                "LastUpdate": 1784018266
             }
         ]
     },
@@ -6404,12 +6414,12 @@
                 "Author": "FranFkntastic",
                 "Name": "MarketMafioso",
                 "InternalName": "MarketMafioso",
-                "AssemblyVersion": "1.1.2.1",
+                "AssemblyVersion": "1.2.1.0",
                 "Description": "A practical FFXIV utility plugin for Workshop Logistics and optional receiver-backed inventory history.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FranFkntastic/MarketMafioso/main/docs/pluginmaster/assets/icon.png",
                 "RepoUrl": "https://github.com/FranFkntastic/MarketMafioso",
-                "LastUpdate": 1782957137
+                "LastUpdate": 1784018266
             }
         ]
     },
@@ -6472,12 +6482,12 @@
                 "Author": "fuzzycore",
                 "Name": "GODLIKE",
                 "InternalName": "Godlike",
-                "AssemblyVersion": "0.0.11.0",
+                "AssemblyVersion": "0.0.16.0",
                 "Description": "Pops escalating arena-announcer callouts (KILL, DOUBLE KILL, MONSTER KILL ... all the way to absurd 30+ tiers) with baked-in voice lines as your PvP kill streak climbs. Kills are read straight from the game's own death messages, so you get credit for the killing blow exactly like the scoreboard.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/fuzzycore/Godlike/main/images/icon.png",
                 "RepoUrl": "https://github.com/fuzzycore/ffxivrepo",
-                "LastUpdate": 1782018418
+                "LastUpdate": 1784000930
             }
         ]
     },
@@ -8685,7 +8695,7 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "StatusBridge",
                 "InternalName": "StatusBridge",
-                "AssemblyVersion": "1.0.0.1",
+                "AssemblyVersion": "1.0.0.2",
                 "Description": "Mirrors your live Moodles and Loci statuses onto each other, so whichever sync plugin you use (Snowcloak, Sundouleia, or anything else) picks up a unified status regardless of which backend it natively reads.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/MeowyUtils",
@@ -8713,11 +8723,11 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "StatusBridge",
                 "InternalName": "StatusBridge",
-                "AssemblyVersion": "1.0.0.1",
+                "AssemblyVersion": "1.0.0.2",
                 "Description": "Mirrors your live Moodles and Loci statuses onto each other, so whichever sync plugin you use (Snowcloak, Sundouleia, or anything else) picks up a unified status regardless of which backend it natively reads.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/MeowyUtils",
-                "LastUpdate": 1783935105
+                "LastUpdate": 1784007609
             }
         ]
     },
@@ -11553,12 +11563,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.5.7.4",
+                "AssemblyVersion": "0.5.7.5",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1783727924
+                "LastUpdate": 1784011779
             }
         ]
     },
@@ -11629,12 +11639,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1783985205
+                "LastUpdate": 1784014680
             }
         ]
     },
@@ -11998,12 +12008,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.6.6",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1783915392
+                "LastUpdate": 1784011821
             }
         ]
     },
@@ -14226,12 +14236,12 @@
                 "Author": "Ninethirty77",
                 "Name": "The Studium",
                 "InternalName": "FCMetrics",
-                "AssemblyVersion": "0.1.214.0",
+                "AssemblyVersion": "0.1.221.0",
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/icon.jpg",
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1783989601
+                "LastUpdate": 1784017944
             }
         ]
     },
@@ -16424,7 +16434,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783956549
+                "LastUpdate": 1783997325
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16944,17 +16954,6 @@
                 "IconUrl": "https://puni.sh/api/plugins/icon/133",
                 "RepoUrl": "https://github.com/sourpuh/ffxiv_fidgetspinner",
                 "LastUpdate": 1783714117
-            },
-            {
-                "Author": "sourpuh",
-                "Name": "Gaolbreak UI",
-                "InternalName": "Gaolbreak",
-                "AssemblyVersion": "0.0.0.29",
-                "Description": "Game windows can layer with plugin windows, reshade won't affect the UI, and 3D overlay plugins draw under the game's UI.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/152",
-                "RepoUrl": "https://github.com/sourpuh/ffxiv_gaolbreak",
-                "LastUpdate": 1783628178
             },
             {
                 "Author": "sourpuh",
@@ -21426,6 +21425,25 @@
         ]
     },
     {
+        "repo_developer_name": "torenaran",
+        "repo_url": "https://raw.githubusercontent.com/torenaran/LuckySplit/main/repo.json",
+        "repo_source_url": "https://github.com/torenaran/LuckySplit",
+        "repo_name": "LuckySplit",
+        "plugins": [
+            {
+                "Author": "Tori",
+                "Name": "Lucky Split",
+                "InternalName": "LuckySplit",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Lucky Split is a host-side 50/50 drawing manager for Final Fantasy XIV venues. Create reusable venue presets, record confirmed ticket purchases, assign ticket ranges automatically, track the pot and payout, draw a winner, retain history, and export the ledger.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/torenaran/LuckySplit/main/images/icon.png",
+                "RepoUrl": "https://github.com/torenaran/LuckySplit",
+                "LastUpdate": 1784008504
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ToxicStar8",
         "repo_url": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginmaster.json",
         "repo_source_url": "https://github.com/ToxicStar8/DalamudPlugins",
@@ -22947,12 +22965,12 @@
                 "Author": "XIV Rolladeck Team",
                 "Name": "XIV Rolladeck",
                 "InternalName": "XIVRolladeck",
-                "AssemblyVersion": "1.4.2.0",
+                "AssemblyVersion": "1.5.0.0",
                 "Description": "Track live DJs and venues across Eorzea with real-time updates from XIV Rolladeck.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XIVRolladeck/XIVRolladeckPlugin/main/icon.png",
                 "RepoUrl": "https://github.com/XIVRolladeck/XIVRolladeckPlugin",
-                "LastUpdate": 1777962259
+                "LastUpdate": 1784004609
             }
         ]
     },
