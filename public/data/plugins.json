@@ -3455,12 +3455,12 @@
                 "Author": "Meghann",
                 "Name": "Recipe Helper",
                 "InternalName": "DalamudRecipeHelper",
-                "AssemblyVersion": "1.1.46.0",
+                "AssemblyVersion": "1.1.47.0",
                 "Description": "Build a combined plan from multiple FFXIV recipes, compare NQ and HQ requirements with live inventory and saved retainer snapshots, track timed gathering materials, and hand crafting or travel actions to Artisan, Teamcraft, and GatherBuddy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/Recipe-Helper/main/RecipeHelperIcon1.png",
                 "RepoUrl": "https://github.com/CherryFairy78/Recipe-Helper",
-                "LastUpdate": 1783944722
+                "LastUpdate": 1784024898
             }
         ]
     },
@@ -3474,12 +3474,12 @@
                 "Author": "Meghann",
                 "Name": "Universal Market Board",
                 "InternalName": "UniversalisMarketBoard",
-                "AssemblyVersion": "0.1.14.0",
+                "AssemblyVersion": "0.1.15.0",
                 "Description": "Browse HQ and NQ market board listings, search any item, switch between world or data centre scopes, and sort prices from highest to lowest. Slash command: /umb",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CherryFairy78/UniversalMarketBoard/main/assets/icon.png",
                 "RepoUrl": "https://github.com/CherryFairy78/UniversalMarketBoard",
-                "LastUpdate": 1783806388
+                "LastUpdate": 1784024822
             }
         ]
     },
@@ -7560,6 +7560,25 @@
         ]
     },
     {
+        "repo_developer_name": "hu1j1233",
+        "repo_url": "https://raw.githubusercontent.com/hu1j1233/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/hu1j1233/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "hu1j1233",
+                "Name": "Questionable",
+                "InternalName": "Questionable",
+                "AssemblyVersion": "2026.7.14.1",
+                "Description": "Questionable 的中文本地化版本，基于上游 Questionable v15.306.0.8，帮助你自动完成支持的任务。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/94",
+                "RepoUrl": "https://github.com/hu1j1233/Questionable",
+                "LastUpdate": 1784038042
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/huntsffxiv/repo/raw/main/repo.json",
         "repo_source_url": "https://github.com/huntsffxiv/repo",
         "plugins": [
@@ -8229,11 +8248,11 @@
                 "Author": "Jayrotto",
                 "Name": "Perverts Paradise",
                 "InternalName": "EmperorsNewClothes",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Scans nearby player characters and applies \"The Emperor's New Robe\" and \"The Emperor's New Breeches\" to female characters using Glamourer's IPC.requires Penumbra and Glamourer.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jayrotto/Perverts-Paradise",
-                "LastUpdate": 1783872040
+                "LastUpdate": 1784023602
             }
         ]
     },
@@ -14129,12 +14148,12 @@
                 "Author": "091",
                 "Name": "SpeedRadiusPlugin",
                 "InternalName": "SpeedRadiusPlugin",
-                "AssemblyVersion": "1.4.3.313",
+                "AssemblyVersion": "1.4.3.316",
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nihil-string/simple-Tool-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nihil-string/simple-Tool-dist",
-                "LastUpdate": 1783778293
+                "LastUpdate": 1784031557
             }
         ]
     },
@@ -15260,12 +15279,12 @@
                 "Author": "Paissa Heavy Industries",
                 "Name": "Lemegeton",
                 "InternalName": "Lemegeton",
-                "AssemblyVersion": "1.0.8.4",
+                "AssemblyVersion": "1.0.8.5",
                 "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
                 "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
-                "LastUpdate": 1783883804
+                "LastUpdate": 1784039755
             },
             {
                 "Author": "Paissa Heavy Industries",
@@ -15475,6 +15494,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/lnjanos/yueImport/refs/heads/master/7onk2b.png",
                 "RepoUrl": "https://github.com/lnjanos",
                 "LastUpdate": 1783196886
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Pekururu",
+        "repo_url": "https://raw.githubusercontent.com/Pekururu/Armoryeet/main/repo.json",
+        "repo_source_url": "https://github.com/Pekururu/Armoryeet",
+        "repo_name": "Armoryeet",
+        "plugins": [
+            {
+                "Author": "Koro",
+                "Name": "Armoryeet",
+                "InternalName": "Armoryeet",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Clean up your armoury chest without touching gearset items.\n\nArmoryeet scans your gearsets, finds armoury chest gear that is not used by any of them, and moves it back to inventory only when you tell it to.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Korokatto/Armoryeet/main/src/Armoryeet/images/icon.png",
+                "RepoUrl": "https://github.com/Korokatto/Armoryeet",
+                "LastUpdate": 1784032244
             }
         ]
     },
@@ -16342,12 +16380,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.71",
+                "AssemblyVersion": "6.0.0.72",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1783983094
+                "LastUpdate": 1784020245
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -16434,7 +16472,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783997325
+                "LastUpdate": 1784030884
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -17412,12 +17450,12 @@
                 "Author": "pyreymo",
                 "Name": "Event Horizon",
                 "InternalName": "EventHorizon",
-                "AssemblyVersion": "0.3.2.7",
+                "AssemblyVersion": "0.3.3.1",
                 "Description": "Cull distant or irrelevant world objects around your character. Use /eventhorizon or /eh to open settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/pyreymo/event-horizon/master/images/icon.png",
                 "RepoUrl": "https://github.com/pyreymo/event-horizon",
-                "LastUpdate": 1783861813
+                "LastUpdate": 1784023301
             }
         ]
     },
@@ -18872,12 +18910,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.4.0.81",
+                "AssemblyVersion": "0.4.0.94",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1783982641
+                "LastUpdate": 1784038404
             }
         ]
     },
@@ -19553,12 +19591,12 @@
                 "Author": "Selken",
                 "Name": "Armoire Butler",
                 "InternalName": "ArmoireButlerPlugin",
-                "AssemblyVersion": "0.1.9.0",
+                "AssemblyVersion": "0.1.10.0",
                 "Description": "Analyzes local wardrobe, armoire, glamour dresser, retainer cache, dyes, duplicates, glamour sets, and store outfit ownership. Command: /yggj",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/assets/ArmoireButler/icon.png",
                 "RepoUrl": "https://github.com/selken-ixx/SelkenDalamud",
-                "LastUpdate": 1783798994
+                "LastUpdate": 1784022589
             }
         ]
     },
@@ -20269,7 +20307,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1783681586
+                "LastUpdate": 1784031698
             }
         ]
     },
@@ -21359,11 +21397,11 @@
                 "Author": "Tihlyn",
                 "Name": "RedMoonCappuccino",
                 "InternalName": "RedMoonCappuccino",
-                "AssemblyVersion": "4.5.5.0",
+                "AssemblyVersion": "4.5.5.1",
                 "Description": "Connects to your FC's WebSocket server to display the lowest market tax rate and location, as well as upcoming and past FC events with event images.",
                 "IconUrl": "https://raw.githubusercontent.com/Tihlyn/RedMoon-Cappuccino/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Tihlyn/RedMoon-Cappuccino",
-                "LastUpdate": 1783601787
+                "LastUpdate": 1784033506
             }
         ]
     },
