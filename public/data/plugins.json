@@ -554,15 +554,15 @@
                 "LastUpdate": 1783085866
             },
             {
-                "Author": "DhogGPT, XA",
+                "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.1",
+                "AssemblyVersion": "0.3.1.3",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784065688
+                "LastUpdate": 1784106358
             },
             {
                 "Author": "DhogGPT",
@@ -1783,14 +1783,15 @@
         "repo_name": "DalamudPluginRepo",
         "plugins": [
             {
-                "Author": "ArcanineLS",
-                "Name": "HrothgarMakeCoin",
+                "Author": "Bancho",
+                "Name": "Hrothgar Make Coin",
                 "InternalName": "HrothgarMakeCoin",
-                "AssemblyVersion": "1.14.3.1",
+                "AssemblyVersion": "1.14.4.0",
                 "Description": "Automatically undercuts your retainer market board listings, with optional AutoRetainer post-venture integration. A rebrand/fork of Dagobert by SHOEGAZEssb.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://github.com/ArcanineLS/DalamudPluginRepo/raw/master/images/icon.png",
                 "RepoUrl": "https://github.com/ArcanineLS/HrothgarMakeCoin",
-                "LastUpdate": 1784079075
+                "LastUpdate": 1784088577
             }
         ]
     },
@@ -5746,7 +5747,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784062656
+                "LastUpdate": 1784102092
             }
         ]
     },
@@ -6229,12 +6230,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.13",
+                "AssemblyVersion": "7.5.1.14",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1783610243
+                "LastUpdate": 1784105455
             },
             {
                 "Author": "Churin",
@@ -7959,13 +7960,13 @@
         "repo_name": "TomstonePhone",
         "plugins": [
             {
-                "Author": "Tangy",
+                "Author": "PinkKitty",
                 "Name": "TomestonePhone",
                 "InternalName": "TomestonePhone",
-                "AssemblyVersion": "0.1.14.0",
+                "AssemblyVersion": "0.1.15.0",
                 "Description": "TomestonePhone adds a styled in-game phone UI with contacts, SMS, calls, group chat, and friend tools.",
                 "RepoUrl": "https://github.com/ImOv3rburdened/TomstonePhone",
-                "LastUpdate": 1780857464
+                "LastUpdate": 1784101938
             }
         ]
     },
@@ -9718,11 +9719,11 @@
                 "Author": "Crystal Job Rank contributors",
                 "Name": "Crystal Job Rank",
                 "InternalName": "CrystalJobRank.Plugin",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Records Crystalline Conflict result screens and calculates a transparent Casual-and-Ranked rating for each job. Use /cjr or /cjr reset <JOB|all>.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/CrystalJobRank",
-                "LastUpdate": 1784049586
+                "LastUpdate": 1784092528
             }
         ]
     },
@@ -11791,12 +11792,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.1",
+                "AssemblyVersion": "0.3.1.3",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784065688
+                "LastUpdate": 1784106358
             }
         ]
     },
@@ -12055,12 +12056,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.1.10",
+                "AssemblyVersion": "1.1.1.11",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1783137802
+                "LastUpdate": 1783923264
             },
             {
                 "Author": "DhogGPT",
@@ -12121,12 +12122,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.6.5",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1783902158
+                "LastUpdate": 1784011821
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -12212,7 +12213,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon.png",
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1783483655
+                "LastUpdate": 1784087477
             },
             {
                 "Author": "Meisterlala",
@@ -12223,7 +12224,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon18.png",
                 "RepoUrl": "https://github.com/Meisterlala/NekoFans",
-                "LastUpdate": 1783483655
+                "LastUpdate": 1784087477
             }
         ]
     },
@@ -14281,12 +14282,12 @@
                 "Author": "091",
                 "Name": "SpeedRadiusPlugin",
                 "InternalName": "SpeedRadiusPlugin",
-                "AssemblyVersion": "1.4.3.316",
+                "AssemblyVersion": "1.4.3.317",
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nihil-string/simple-Tool-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nihil-string/simple-Tool-dist",
-                "LastUpdate": 1784031557
+                "LastUpdate": 1784100512
             }
         ]
     },
@@ -15280,7 +15281,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784078705
+                "LastUpdate": 1784102092
             },
             {
                 "Author": "Risa and Contributors",
@@ -16675,7 +16676,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.41",
+                "AssemblyVersion": "15.42",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -19061,12 +19062,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.5.0.3",
+                "AssemblyVersion": "0.5.0.5",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1784065542
+                "LastUpdate": 1784089209
             }
         ]
     },
@@ -20458,7 +20459,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1784069414
+                "LastUpdate": 1784090387
             }
         ]
     },
@@ -22038,14 +22039,14 @@
         "repo_name": "ledger",
         "plugins": [
             {
-                "Author": "Ivory Lion Trading Co.",
-                "Name": "Ivory Lion Ledger Sync",
+                "Author": "The Morning Ledger",
+                "Name": "The Morning Ledger",
                 "InternalName": "IvoryLionLedger",
-                "AssemblyVersion": "0.1.0.7",
+                "AssemblyVersion": "0.1.0.8",
                 "Description": "Syncs your fish log, mounts, minions, orchestrions, emotes, Triple Triad cards, and crafter stats to your Free Company's Ivory Lion Ledger site. Sign in with your Ledger account under /ledger.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/unremarkably/ledger",
-                "LastUpdate": 1783981556
+                "LastUpdate": 1784085495
             }
         ]
     },
