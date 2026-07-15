@@ -317,6 +317,64 @@
         ]
     },
     {
+        "repo_developer_name": "AemiliusXIV",
+        "repo_url": "https://raw.githubusercontent.com/AemiliusXIV/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/AemiliusXIV/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "AemiliusXIV",
+                "Name": "ChronoLog",
+                "InternalName": "ChronoLog",
+                "AssemblyVersion": "1.0.0.1",
+                "Description": "Tracks pulls, wipes and clears in any duty. Per pull: fight name, phase, boss HP%, first death, duration.\n\nOutputs OBS chapter markers via websocket, a paste-ready YouTube description block, and a direct push to a live stream's description over the YouTube Data API.\n\nShort resets are filtered out automatically. /chrono to open, /chrono cfg for settings.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AemiliusXIV/ChronoLog",
+                "LastUpdate": 1783959709
+            },
+            {
+                "Author": "AemiliusXIV",
+                "Name": "Clarion",
+                "InternalName": "Clarion",
+                "AssemblyVersion": "0.1.0.2",
+                "Description": "Store a full Party Finder recruitment setup (duty, job slots, description, objective, loot rule, one player per job, language, and more) as a named preset and apply it in one go, instead of filling the form out by hand every time.\n\nFill a preset and review it, or fill and post the party in a single click. Optional auto-refresh keeps an active listing alive near the end of its hour, with the windows closed, and leaves your away status alone.\n\nOpen the Recruitment Criteria form (Recruit Members) to save or apply. Use /clarion.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AemiliusXIV/Clarion",
+                "LastUpdate": 1783837917
+            },
+            {
+                "Author": "AemiliusXIV",
+                "Name": "Orchestrion Aria",
+                "InternalName": "orchestrionaria",
+                "AssemblyVersion": "2.3.0.4",
+                "Description": "Play and replace FFXIV background music. Supports local MP3/WAV files from your PC alongside all in-game tracks, with fade transitions and volume sync.\n\nOriginally by perchbird & Meli: https://github.com/perchbirdd/OrchestrionPlugin",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AemiliusXIV/OrchestrionPlugin",
+                "LastUpdate": 1783960018
+            },
+            {
+                "Author": "AemiliusXIV",
+                "Name": "Party Sorter",
+                "InternalName": "PartySorter",
+                "AssemblyVersion": "1.0.0.2",
+                "Description": "Hold Ctrl (configurable) and drag a party member onto another to reorder. Saves each group's preferred order and automatically restores it when the same members meet again — perfect for statics that want a consistent layout every pull. Supports per-group auto-apply modes, locking saved orders against accidental overwrites, and per-duty separate orders. Commands: /psorter (open settings), /psorter save (save current order to chat).",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AemiliusXIV/PartySorter",
+                "LastUpdate": 1783892606
+            },
+            {
+                "Author": "AemiliusXIV",
+                "Name": "Quiet Tips",
+                "InternalName": "QuietTips",
+                "AssemblyVersion": "1.0.2.0",
+                "Description": "Stops action, item, pop-up help and crossbar hint tooltips from cluttering the screen. Toggle each type independently for in-combat and out-of-combat, set a duty override (follow combat rules, always show, or always hide while in an instance), and keep an exception so tooltips come back automatically whenever an inventory, armoury or character window is open. Original game settings are restored when the plugin is disabled. Commands: /quiettips (open settings), /quiettips toggle|on|off.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AemiliusXIV/QuietTips",
+                "LastUpdate": 1783959745
+            }
+        ]
+    },
+    {
         "repo_developer_name": "aethel-tail",
         "repo_url": "https://raw.githubusercontent.com/aethel-tail/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/aethel-tail/DalamudPlugins",
@@ -494,6 +552,17 @@
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/Coppelia/main/Coppelia/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/Coppelia",
                 "LastUpdate": 1783085866
+            },
+            {
+                "Author": "DhogGPT, XA",
+                "Name": "dad",
+                "InternalName": "dad",
+                "AssemblyVersion": "0.3.1.1",
+                "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
+                "RepoUrl": "https://github.com/McVaxius/dad",
+                "LastUpdate": 1784065688
             },
             {
                 "Author": "DhogGPT",
@@ -1717,11 +1786,11 @@
                 "Author": "ArcanineLS",
                 "Name": "HrothgarMakeCoin",
                 "InternalName": "HrothgarMakeCoin",
-                "AssemblyVersion": "1.14.1.0",
+                "AssemblyVersion": "1.14.3.1",
                 "Description": "Automatically undercuts your retainer market board listings, with optional AutoRetainer post-venture integration. A rebrand/fork of Dagobert by SHOEGAZEssb.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ArcanineLS/HrothgarMakeCoin",
-                "LastUpdate": 1784062490
+                "LastUpdate": 1784079075
             }
         ]
     },
@@ -2474,6 +2543,16 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/ModGuard",
                 "LastUpdate": 1783995180
+            },
+            {
+                "Author": "bdg",
+                "Name": "Typo Guard",
+                "InternalName": "TypoGuard",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "On Latin American keyboard layouts, / is Shift+7, so a missed Shift sends \"7artisan\" into chat instead of running /artisan. Typo Guard intercepts outgoing chat and blocks any message that starts with a 7 followed by a letter, printing what it blocked instead of sending it. If you really meant to send such a message, send it again within 5 seconds and it goes through. Toggle with /typoguard (also accepts on/off/status); the setting persists.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
+                "LastUpdate": 1784078361
             }
         ]
     },
@@ -5686,7 +5765,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1783901544
+                "LastUpdate": 1784078705
             }
         ]
     },
@@ -9919,7 +9998,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1783956549
+                "LastUpdate": 1784075648
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9936,12 +10015,12 @@
                 "Author": "Team Wrath",
                 "Name": "Wrath Combo",
                 "InternalName": "WrathCombo",
-                "AssemblyVersion": "1.0.4.13",
+                "AssemblyVersion": "1.0.4.14",
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1783761069
+                "LastUpdate": 1784052417
             }
         ]
     },
@@ -11712,12 +11791,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.3.1.1",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784061596
+                "LastUpdate": 1784065688
             }
         ]
     },
@@ -14751,12 +14830,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.3",
+                "AssemblyVersion": "0.1.4",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1783982767
+                "LastUpdate": 1784069245
             }
         ]
     },
@@ -15201,7 +15280,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1783901544
+                "LastUpdate": 1784078705
             },
             {
                 "Author": "Risa and Contributors",
@@ -15234,7 +15313,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1780846424
+                "LastUpdate": 1784076679
             },
             {
                 "Author": "Anna",
@@ -15278,7 +15357,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1783615797
+                "LastUpdate": 1784074722
             },
             {
                 "Author": "Caraxi",
@@ -16434,12 +16513,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.72",
+                "AssemblyVersion": "6.0.0.73",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1784020245
+                "LastUpdate": 1784064547
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -16526,7 +16605,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784054365
+                "LastUpdate": 1784075648
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16596,7 +16675,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.40",
+                "AssemblyVersion": "15.41",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -16876,7 +16955,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1783859840
+                "LastUpdate": 1784082429
             },
             {
                 "Author": "nainaiowo",
@@ -17554,11 +17633,11 @@
                 "Author": "liza, qstxiv, & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.305.0.0002",
+                "AssemblyVersion": "15.306.0.0801",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/Questionable",
-                "LastUpdate": 1783276476
+                "LastUpdate": 1784071920
             }
         ]
     },
@@ -18299,6 +18378,24 @@
         ]
     },
     {
+        "repo_developer_name": "renasagi",
+        "repo_url": "https://raw.githubusercontent.com/renasagi/critluck-repo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/renasagi/critluck-repo",
+        "repo_name": "critluck-repo",
+        "plugins": [
+            {
+                "Author": "renasagi",
+                "Name": "CritLuck",
+                "InternalName": "CritLuck",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Shows party hit counts, actual and expected rates, and individual and overall 1–100 percentiles. Use /critluck to open the window.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/renasagi/critluck-repo",
+                "LastUpdate": 1784066612
+            }
+        ]
+    },
+    {
         "repo_developer_name": "RenNagasaki",
         "repo_url": "https://raw.githubusercontent.com/RenNagasaki/MyDalamudPlugins/master/pluginmaster.json",
         "repo_source_url": "https://github.com/RenNagasaki/MyDalamudPlugins",
@@ -18964,12 +19061,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.5.0.3",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1784057606
+                "LastUpdate": 1784065542
             }
         ]
     },
@@ -20361,7 +20458,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1784031698
+                "LastUpdate": 1784069414
             }
         ]
     },
@@ -22850,34 +22947,34 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.5.0",
+                "AssemblyVersion": "0.9.6.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784061061
+                "LastUpdate": 1784073911
             },
             {
                 "Author": "XeldarAlz",
                 "Name": "Auto Daily Tribes",
                 "InternalName": "AutoDailyTribes",
-                "AssemblyVersion": "1.2.0.1",
+                "AssemblyVersion": "1.2.0.2",
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/tree/master/AutoDailyTribes",
-                "LastUpdate": 1783962074
+                "LastUpdate": 1784063426
             },
             {
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "1.3.2.2",
+                "AssemblyVersion": "1.3.2.3",
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1783962301
+                "LastUpdate": 1784065557
             },
             {
                 "Author": "XeldarAlz",
@@ -22924,12 +23021,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.5.0",
+                "AssemblyVersion": "0.9.6.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1783878090
+                "LastUpdate": 1784073911
             }
         ]
     },
@@ -22943,12 +23040,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Daily Tribes",
                 "InternalName": "AutoDailyTribes",
-                "AssemblyVersion": "1.2.0.1",
+                "AssemblyVersion": "1.2.0.2",
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/tree/master/AutoDailyTribes",
-                "LastUpdate": 1783962074
+                "LastUpdate": 1784063426
             }
         ]
     },
@@ -22962,12 +23059,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "1.3.2.2",
+                "AssemblyVersion": "1.3.2.3",
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1783962301
+                "LastUpdate": 1784065557
             }
         ]
     },
