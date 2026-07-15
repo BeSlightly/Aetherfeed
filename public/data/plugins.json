@@ -557,12 +557,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.3",
+                "AssemblyVersion": "0.3.1.4",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784106358
+                "LastUpdate": 1784147148
             },
             {
                 "Author": "DhogGPT",
@@ -612,12 +612,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.1.11",
+                "AssemblyVersion": "1.1.1.12",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1783923264
+                "LastUpdate": 1784147126
             },
             {
                 "Author": "DhogGPT",
@@ -2507,6 +2507,17 @@
         "plugins": [
             {
                 "Author": "bdg",
+                "Name": "CBT",
+                "InternalName": "Automaton",
+                "AssemblyVersion": "69.193.0.4",
+                "Description": "Tweaks that are sometimes simple, sometimes not.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
+                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
+                "LastUpdate": 1784151934
+            },
+            {
+                "Author": "bdg",
                 "Name": "CWLS Go To",
                 "InternalName": "CWLSGoTo",
                 "AssemblyVersion": "0.0.0.8",
@@ -2553,7 +2564,7 @@
                 "Description": "On Latin American keyboard layouts, / is Shift+7, so a missed Shift sends \"7artisan\" into chat instead of running /artisan. Typo Guard intercepts outgoing chat and blocks any message that starts with a 7 followed by a letter, printing what it blocked instead of sending it. If you really meant to send such a message, send it again within 5 seconds and it goes through. Toggle with /typoguard (also accepts on/off/status); the setting persists.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1784078361
+                "LastUpdate": 1784151934
             }
         ]
     },
@@ -6682,6 +6693,25 @@
         ]
     },
     {
+        "repo_developer_name": "GaugeMage",
+        "repo_url": "https://raw.githubusercontent.com/GaugeMage/PartyFinderReup/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/GaugeMage/PartyFinderReup",
+        "repo_name": "PartyFinderReup",
+        "plugins": [
+            {
+                "Author": "GaugeMage",
+                "Name": "Party Finder Reup",
+                "InternalName": "PartyFinderReup",
+                "AssemblyVersion": "1.0.0.1",
+                "Description": "Automatically re-posts (\"reups\") your Party Finder listing before the 60-minute timer expires, so your recruitment stays up without you having to manually re-list it every hour. Uses your last recruitment settings. Includes a manual /pfreup now command and a configurable renewal interval.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://github.com/GaugeMage.png?size=256",
+                "RepoUrl": "https://github.com/GaugeMage/PartyFinderReup",
+                "LastUpdate": 1784148423
+            }
+        ]
+    },
+    {
         "repo_developer_name": "GayPotatoEmma",
         "repo_url": "https://raw.githubusercontent.com/GayPotatoEmma/botw-quest-banner/master/repo.json",
         "repo_source_url": "https://github.com/GayPotatoEmma/botw-quest-banner",
@@ -7374,11 +7404,11 @@
                 "Author": "Haselnussbomber",
                 "Name": "HaselDebug",
                 "InternalName": "HaselDebug",
-                "AssemblyVersion": "1.62.1.0",
+                "AssemblyVersion": "1.63.0.0",
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1783885509
+                "LastUpdate": 1784146980
             },
             {
                 "Author": "Haselnussbomber",
@@ -7690,7 +7720,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/hu1j1233/Questionable",
-                "LastUpdate": 1784054680
+                "LastUpdate": 1784136687
             }
         ]
     },
@@ -7907,12 +7937,12 @@
                 "Author": "FateWhisper Team (based on SilverDasher)",
                 "Name": "FateWhisper",
                 "InternalName": "FateWhisper",
-                "AssemblyVersion": "0.3.2.0",
+                "AssemblyVersion": "0.3.3.0",
                 "Description": "FF14 跨服猎怪与 FATE 播报插件。消息来源：SilverDasher（ACT 版）MQTT 网络。支持 MQTT 跨服消息订阅、TTS 语音播报、游戏原生 Toast 通知。使用 /fw 或 /fatewhisper 打开。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ijnokmsc/DalamudPlugins/main/icons/fatewhisper.png",
                 "RepoUrl": "https://github.com/ijnokmsc/FateWhisper",
-                "LastUpdate": 1783870139
+                "LastUpdate": 1784135936
             }
         ]
     },
@@ -9429,12 +9459,12 @@
                 "Author": "keifufu",
                 "Name": "XivVoices",
                 "InternalName": "XivVoices",
-                "AssemblyVersion": "1.5.2.15",
+                "AssemblyVersion": "1.5.2.16",
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/keifufu/XivVoices/main/XivVoices/assets/logo.png",
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1783942716
+                "LastUpdate": 1784137633
             }
         ]
     },
@@ -9719,11 +9749,29 @@
                 "Author": "Crystal Job Rank contributors",
                 "Name": "Crystal Job Rank",
                 "InternalName": "CrystalJobRank.Plugin",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.6.0.0",
                 "Description": "Records Crystalline Conflict result screens and calculates a transparent Casual-and-Ranked rating for each job. Use /cjr or /cjr reset <JOB|all>.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/CrystalJobRank",
-                "LastUpdate": 1784121013
+                "LastUpdate": 1784141686
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kittenhaswares-ui",
+        "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/HOWMANY/main/repo.json",
+        "repo_source_url": "https://github.com/kittenhaswares-ui/HOWMANY",
+        "repo_name": "HOWMANY",
+        "plugins": [
+            {
+                "Author": "kittenhaswares-ui",
+                "Name": "HOWMANY",
+                "InternalName": "HOWMANY.Plugin",
+                "AssemblyVersion": "0.1.0.2",
+                "Description": "A movable PvP overlay showing visible enemy hard/cast targets and recent harmful pressure, with job icons. Built primarily for Crystalline Conflict; configure with /howmany.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kittenhaswares-ui/HOWMANY",
+                "LastUpdate": 1784151153
             }
         ]
     },
@@ -11756,12 +11804,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.3",
+                "AssemblyVersion": "0.3.1.4",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784106358
+                "LastUpdate": 1784147148
             }
         ]
     },
@@ -11851,12 +11899,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.1.11",
+                "AssemblyVersion": "1.1.1.12",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1783923264
+                "LastUpdate": 1784147126
             }
         ]
     },
@@ -13394,12 +13442,12 @@
                 "Author": "Nexai",
                 "Name": "FCCH",
                 "InternalName": "FCCH",
-                "AssemblyVersion": "2.4.2.0",
+                "AssemblyVersion": "2.4.3.0",
                 "Description": "Automates moving existing items to and from the FC Chest.\nEasily withdraw custom item lists or materials for workshop projects.\n\nNote: Temporarily disables YesAlready while depositing or withdrawing.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nexaii/dalamud-plugins/main/assets/fcch.png",
                 "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1783813757
+                "LastUpdate": 1784147327
             },
             {
                 "Author": "Nexai",
@@ -14402,6 +14450,24 @@
     },
     {
         "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/CPSync/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/CPSync",
+        "repo_name": "CPSync",
+        "plugins": [
+            {
+                "Author": "NaughtyNeko",
+                "Name": "CPSync",
+                "InternalName": "CPSync",
+                "AssemblyVersion": "0.0.0.3",
+                "Description": "CPSync",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NNekoPlugins/CPSync",
+                "LastUpdate": 1784147805
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NNekoPlugins",
         "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/Dispeller/main/repo.json",
         "repo_source_url": "https://github.com/NNekoPlugins/Dispeller",
         "repo_name": "Dispeller",
@@ -14433,6 +14499,24 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NNekoPlugins/Dispeller",
                 "LastUpdate": 1783714284
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NNekoPlugins",
+        "repo_url": "https://raw.githubusercontent.com/NNekoPlugins/IdleSync/main/repo.json",
+        "repo_source_url": "https://github.com/NNekoPlugins/IdleSync",
+        "repo_name": "IdleSync",
+        "plugins": [
+            {
+                "Author": "NaughtyNeko",
+                "Name": "IdleSync",
+                "InternalName": "IdleSync",
+                "AssemblyVersion": "0.0.0.3",
+                "Description": "IdleSync",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/NNekoPlugins/IdleSync",
+                "LastUpdate": 1784147838
             }
         ]
     },
@@ -16478,12 +16562,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.73",
+                "AssemblyVersion": "6.0.0.74",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1784064547
+                "LastUpdate": 1784137932
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -16570,7 +16654,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784075648
+                "LastUpdate": 1784145168
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16603,7 +16687,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784052417
+                "LastUpdate": 1784141262
             },
             {
                 "Author": "daemitus, kawaii",
@@ -16640,7 +16724,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.42",
+                "AssemblyVersion": "15.43",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -16681,12 +16765,12 @@
                 "Author": "erdelf",
                 "Name": "FC Tracker",
                 "InternalName": "FCTracker",
-                "AssemblyVersion": "0.0.0.26",
+                "AssemblyVersion": "0.0.0.27",
                 "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1783863146
+                "LastUpdate": 1784138255
             }
         ]
     },
@@ -16896,12 +16980,12 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "2.0.6.6",
+                "AssemblyVersion": "3.0.0.2",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
-                "LastUpdate": 1781024083
+                "LastUpdate": 1784137197
             }
         ]
     },
@@ -16994,12 +17078,12 @@
                 "Author": "Nexai",
                 "Name": "FCCH",
                 "InternalName": "FCCH",
-                "AssemblyVersion": "2.4.2.0",
+                "AssemblyVersion": "2.4.3.0",
                 "Description": "Free Company Chest Helper. Automate deposits, withdrawals, organization, crystals, workshop project pulls, and custom item lists.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/149",
                 "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1783813757
+                "LastUpdate": 1784147327
             },
             {
                 "Author": "Nexai",
@@ -19026,12 +19110,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.5.0.5",
+                "AssemblyVersion": "0.5.0.14",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1784089209
+                "LastUpdate": 1784148866
             }
         ]
     },
@@ -20423,7 +20507,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1784090387
+                "LastUpdate": 1784141371
             }
         ]
     },
@@ -20771,12 +20855,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.2602",
+                "AssemblyVersion": "7.5.1.2603",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1783958602
+                "LastUpdate": 1784131195
             },
             {
                 "Author": "Kouzukii",
@@ -21762,7 +21846,7 @@
                 "Author": "u86cd(粉色母肥)",
                 "Name": "SillyToolbox",
                 "InternalName": "SillyToolbox",
-                "AssemblyVersion": "1.0.2.4",
+                "AssemblyVersion": "1.0.3.0",
                 "Description": "傻肥工具箱, 包含一些给自己和亲友用的小功能\n如果有什么想要的功能请直接联系我, 我会尽力加入工具箱",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/plugins/SillyToolbox/SillyToolbox_icon.png",
@@ -22006,11 +22090,11 @@
                 "Author": "The Morning Ledger",
                 "Name": "The Morning Ledger",
                 "InternalName": "IvoryLionLedger",
-                "AssemblyVersion": "0.1.0.8",
+                "AssemblyVersion": "0.1.0.10",
                 "Description": "Syncs your fish log, mounts, minions, orchestrions, emotes, Triple Triad cards, and crafter stats to your Free Company's Ivory Lion Ledger site. Sign in with your Ledger account under /ledger.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/unremarkably/ledger",
-                "LastUpdate": 1784085495
+                "LastUpdate": 1784149656
             }
         ]
     },
@@ -22912,12 +22996,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.6.0",
+                "AssemblyVersion": "0.9.7.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784126922
+                "LastUpdate": 1784149192
             },
             {
                 "Author": "XeldarAlz",
@@ -22986,12 +23070,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.6.0",
+                "AssemblyVersion": "0.9.7.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784073911
+                "LastUpdate": 1784149192
             }
         ]
     },
