@@ -5766,7 +5766,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784078705
+                "LastUpdate": 1784102092
             }
         ]
     },
@@ -9719,11 +9719,11 @@
                 "Author": "Crystal Job Rank contributors",
                 "Name": "Crystal Job Rank",
                 "InternalName": "CrystalJobRank.Plugin",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "Records Crystalline Conflict result screens and calculates a transparent Casual-and-Ranked rating for each job. Use /cjr or /cjr reset <JOB|all>.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/CrystalJobRank",
-                "LastUpdate": 1784092528
+                "LastUpdate": 1784121013
             }
         ]
     },
@@ -10005,12 +10005,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.13",
+                "AssemblyVersion": "7.5.1.14",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1783610243
+                "LastUpdate": 1784105455
             },
             {
                 "Author": "Team Wrath",
@@ -10905,42 +10905,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/DynamicBridge/main/DynamicBridge/images/icon.png",
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
                 "LastUpdate": 1781308393
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Liminal-Plugins",
-        "repo_url": "https://raw.githubusercontent.com/Liminal-Plugins/CPOSER-Releases/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Liminal-Plugins/CPOSER-Releases",
-        "repo_name": "CPOSER-Releases",
-        "plugins": [
-            {
-                "Author": "Liminal",
-                "Name": "CPOSER",
-                "InternalName": "CPOSER",
-                "AssemblyVersion": "0.1.3.0",
-                "Description": "CPOSER automatically switches to the idle pose linked to your active Glamourer design.\n\nCommand: /cposer",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Liminal-Plugins/CPOSER-Releases",
-                "LastUpdate": 1782074457
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Liminal-Plugins",
-        "repo_url": "https://raw.githubusercontent.com/Liminal-Plugins/CustomizeBridge-Releases/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Liminal-Plugins/CustomizeBridge-Releases",
-        "repo_name": "CustomizeBridge-Releases",
-        "plugins": [
-            {
-                "Author": "Liminal",
-                "Name": "Customize Bridge",
-                "InternalName": "CustomizeBridge",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "Links Customize+ profiles to Glamourer designs and switches profiles when a linked design becomes active.\n\nCommand: /cbridge",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Liminal-Plugins/CustomizeBridge-Releases",
-                "LastUpdate": 1782004528
             }
         ]
     },
@@ -13494,7 +13458,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1783826219
+                "LastUpdate": 1784083340
             }
         ]
     },
@@ -14408,12 +14372,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.23.2.0",
+                "AssemblyVersion": "1.23.4.0",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo-dist",
-                "LastUpdate": 1783901364
+                "LastUpdate": 1784112617
             }
         ]
     },
@@ -17076,7 +17040,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/158",
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1784044239
+                "LastUpdate": 1784127303
             },
             {
                 "Author": "OOF Games",
@@ -17378,12 +17342,12 @@
                 "Author": "veyn, croizat",
                 "Name": "V(ery) Island",
                 "InternalName": "visland",
-                "AssemblyVersion": "0.0.0.144",
+                "AssemblyVersion": "0.0.0.145",
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/28",
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1783983218
+                "LastUpdate": 1784109525
             },
             {
                 "Author": "veyn, xan_0",
@@ -18180,7 +18144,7 @@
                 "Description": "Bard Toolbox is an all-in-one FFXIV Dalamud plugin for bards and bands, providing all the essential functions that people would need every day.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
-                "LastUpdate": 1783982887,
+                "LastUpdate": 1784128904,
                 "is_closed_source": true
             }
         ]
@@ -21127,7 +21091,7 @@
                 "Author": "Dave Black",
                 "Name": "Dote-a-base",
                 "InternalName": "Dote-a-base",
-                "AssemblyVersion": "1.15.0.0",
+                "AssemblyVersion": "1.16.0.0",
                 "Description": "Easily see who you have doted and who has doted you",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/TenaciousDaveBlack/Dote-a-base/main/XIVPlugins/Icon.png",
@@ -22953,7 +22917,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784073911
+                "LastUpdate": 1784126922
             },
             {
                 "Author": "XeldarAlz",
