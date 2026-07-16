@@ -1155,12 +1155,12 @@
                 "Author": "WonderlandDev",
                 "Name": "Wind-Up Key",
                 "InternalName": "WindUpKey",
-                "AssemblyVersion": "0.1.5.0",
+                "AssemblyVersion": "0.1.5.1",
                 "Description": "A (hopefully) simple plugin. Dolls need winding, and winders can wind up dolls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/key.png",
                 "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
-                "LastUpdate": 1783977654
+                "LastUpdate": 1784191980
             },
             {
                 "Author": "WonderlandDev",
@@ -5787,7 +5787,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784102092
+                "LastUpdate": 1784188836
             }
         ]
     },
@@ -10049,12 +10049,12 @@
                 "Author": "veyn, xan_0",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.14",
+                "AssemblyVersion": "7.5.1.26",
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1783980314
+                "LastUpdate": 1784153142
             },
             {
                 "Author": "sourpuh",
@@ -10076,7 +10076,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784075648
+                "LastUpdate": 1784145168
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10098,7 +10098,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784052417
+                "LastUpdate": 1784141262
             }
         ]
     },
@@ -15358,7 +15358,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784102092
+                "LastUpdate": 1784188836
             },
             {
                 "Author": "Risa and Contributors",
@@ -15369,7 +15369,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1783721221
+                "LastUpdate": 1784141916
             },
             {
                 "Author": "NightmareXIV, AsunaTsuki",
@@ -15391,7 +15391,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1784076679
+                "LastUpdate": 1784162636
             },
             {
                 "Author": "Anna",
@@ -15435,7 +15435,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1784074722
+                "LastUpdate": 1784160373
             },
             {
                 "Author": "Caraxi",
@@ -17455,12 +17455,12 @@
                 "Author": "veyn, croizat",
                 "Name": "V(ery) Island",
                 "InternalName": "visland",
-                "AssemblyVersion": "0.0.0.145",
+                "AssemblyVersion": "0.0.0.146",
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/28",
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1784109525
+                "LastUpdate": 1784189778
             },
             {
                 "Author": "veyn, xan_0",
@@ -18966,7 +18966,7 @@
                 "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
-                "LastUpdate": 1783614423
+                "LastUpdate": 1783690200
             },
             {
                 "Author": "Rowsai",
@@ -18977,6 +18977,17 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Rowsai/magicLook",
                 "LastUpdate": 1783165519
+            },
+            {
+                "Author": "Rowsai",
+                "Name": "Phase DPS Checker",
+                "InternalName": "PhaseDpsChecker",
+                "AssemblyVersion": "0.2.1.0",
+                "Description": "敵がターゲット可能な区間をフェーズとして、パーティメンバーのDPS、Crit/DH率、最大ダメージ、GCD稼働率、アクション別のダメージと回復量を表示します。全滅・コンテンツクリア時の戦闘履歴にも対応します。\nコマンド: /phasedps\nアイコン画像の調整に生成AIを使用しています。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Rowsai/PhaseDpsChecker/main/images/icon.png",
+                "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
+                "LastUpdate": 1784185330
             }
         ]
     },
@@ -21973,7 +21984,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1783959463
+                "LastUpdate": 1784187940
             }
         ]
     },
