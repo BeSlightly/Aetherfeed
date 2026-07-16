@@ -557,12 +557,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.4",
+                "AssemblyVersion": "0.3.1.5",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784147148
+                "LastUpdate": 1784172297
             },
             {
                 "Author": "DhogGPT",
@@ -612,12 +612,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.1.12",
+                "AssemblyVersion": "1.1.1.13",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1784147126
+                "LastUpdate": 1784172288
             },
             {
                 "Author": "DhogGPT",
@@ -1792,6 +1792,17 @@
                 "IconUrl": "https://github.com/ArcanineLS/DalamudPluginRepo/raw/master/images/icon.png",
                 "RepoUrl": "https://github.com/ArcanineLS/HrothgarMakeCoin",
                 "LastUpdate": 1784088577
+            },
+            {
+                "Author": "Bancho",
+                "Name": "Hrothgar Scent",
+                "InternalName": "HrothgarScent",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "A nearby-player list where every row shows whether that player is targeting you, with a watcher history and alerts.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://github.com/ArcanineLS/DalamudPluginRepo/raw/master/images/icon.png",
+                "RepoUrl": "https://github.com/ArcanineLS/HrothgarScent",
+                "LastUpdate": 1784160396
             }
         ]
     },
@@ -2509,12 +2520,12 @@
                 "Author": "bdg",
                 "Name": "CBT",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.193.0.4",
+                "AssemblyVersion": "69.193.0.10",
                 "Description": "Tweaks that are sometimes simple, sometimes not.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1784151934
+                "LastUpdate": 1784167221
             },
             {
                 "Author": "bdg",
@@ -2564,7 +2575,7 @@
                 "Description": "On Latin American keyboard layouts, / is Shift+7, so a missed Shift sends \"7artisan\" into chat instead of running /artisan. Typo Guard intercepts outgoing chat and blocks any message that starts with a 7 followed by a letter, printing what it blocked instead of sending it. If you really meant to send such a message, send it again within 5 seconds and it goes through. Toggle with /typoguard (also accepts on/off/status); the setting persists.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1784151934
+                "LastUpdate": 1784167221
             }
         ]
     },
@@ -4390,11 +4401,11 @@
                 "Author": "嗨呀www",
                 "Name": "HiAuRo",
                 "InternalName": "HiAuRo",
-                "AssemblyVersion": "0.2.35.0",
+                "AssemblyVersion": "0.2.36.0",
                 "Description": "HiAuRo 是一个全栈战斗辅助框架，提供 ACR 接口、执行轴、事实轴、智能决策层和完整的 UI 系统。ACR 作者可开发各职业的战斗逻辑，普通用户也可通过内置轴获得完整的战斗辅助体验。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/denghaoxuan991876906/HiAuRo",
-                "LastUpdate": 1783873679
+                "LastUpdate": 1784160513
             },
             {
                 "Author": "嗨呀",
@@ -4617,11 +4628,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.14.1.5",
+                "AssemblyVersion": "1.15.0.1",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1783668484
+                "LastUpdate": 1784152322
             },
             {
                 "Author": "Akari",
@@ -4682,11 +4693,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.14.1.5",
+                "AssemblyVersion": "1.15.0.1",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1783668484
+                "LastUpdate": 1784152322
             }
         ]
     },
@@ -4934,6 +4945,24 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Dregan234/AetherVoice",
                 "LastUpdate": 1782565151
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "DuckSqueeker727",
+        "repo_url": "https://raw.githubusercontent.com/DuckSqueeker727/XIVAutoDaily/main/repo.json",
+        "repo_source_url": "https://github.com/DuckSqueeker727/XIVAutoDaily",
+        "repo_name": "XIVAutoDaily",
+        "plugins": [
+            {
+                "Author": "DuckSqueeker727",
+                "Name": "XIV AutoDaily",
+                "InternalName": "XIVAutoDaily",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Orchestrates other plugins to run your daily routine:\n- Tribal / allied society quests via Questionable\n- Travel to your house via Lifestream\n- Retainer ventures via AutoRetainer\n- Harvest and replant outdoor garden beds, optionally at your FC estate too\n\nRequires: Questionable, AutoRetainer, Lifestream, vnavmesh.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/DuckSqueeker727/XIVAutoDaily",
+                "LastUpdate": 1784161504
             }
         ]
     },
@@ -6522,12 +6551,12 @@
                 "Author": "FranFkntastic",
                 "Name": "MarketMafioso",
                 "InternalName": "MarketMafioso",
-                "AssemblyVersion": "1.2.1.0",
+                "AssemblyVersion": "1.3.0.0",
                 "Description": "A practical FFXIV utility plugin for Workshop Logistics and optional receiver-backed inventory history.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FranFkntastic/MarketMafioso/main/docs/pluginmaster/assets/icon.png",
                 "RepoUrl": "https://github.com/FranFkntastic/MarketMafioso",
-                "LastUpdate": 1784018266
+                "LastUpdate": 1784161996
             }
         ]
     },
@@ -6541,12 +6570,12 @@
                 "Author": "FranFkntastic",
                 "Name": "MarketMafioso",
                 "InternalName": "MarketMafioso",
-                "AssemblyVersion": "1.2.1.0",
+                "AssemblyVersion": "1.3.0.0",
                 "Description": "A practical FFXIV utility plugin for Workshop Logistics and optional receiver-backed inventory history.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FranFkntastic/MarketMafioso/main/docs/pluginmaster/assets/icon.png",
                 "RepoUrl": "https://github.com/FranFkntastic/MarketMafioso",
-                "LastUpdate": 1784018266
+                "LastUpdate": 1784161996
             }
         ]
     },
@@ -11804,12 +11833,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.4",
+                "AssemblyVersion": "0.3.1.5",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784147148
+                "LastUpdate": 1784172297
             }
         ]
     },
@@ -11899,12 +11928,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.1.12",
+                "AssemblyVersion": "1.1.1.13",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1784147126
+                "LastUpdate": 1784172288
             }
         ]
     },
@@ -12434,23 +12463,23 @@
                 "Author": "Miruku",
                 "Name": "PromeRotation API12",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.2.4.2",
+                "AssemblyVersion": "1.2.5.1",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1783890934
+                "LastUpdate": 1784170485
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.5.5.2",
+                "AssemblyVersion": "1.5.6.1",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1783890934
+                "LastUpdate": 1784170485
             }
         ]
     },
@@ -13288,12 +13317,12 @@
                 "Author": "Valenth Siveria",
                 "Name": "BlackJack Buttler",
                 "InternalName": "BlackJackButtler",
-                "AssemblyVersion": "1.8.4.7",
+                "AssemblyVersion": "1.8.4.9",
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeoGriever/BlackJackButtler/main/plugins/BlackJackButtler/icon.png",
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1783219277
+                "LastUpdate": 1784155417
             }
         ]
     },
@@ -14719,12 +14748,12 @@
                 "Author": "Noranda",
                 "Name": "XIV Shinies Sync",
                 "InternalName": "XIVShinies.SyncPlugin",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Automatically records your collection progress on XIV Shinies (https://xiv-shinies.com). New unlocks — quests, achievements, mounts, minions, and more — appear on the site within seconds, and everything else syncs automatically in the background. Fully opt-in: nothing uploads until you finish the short setup, and you choose exactly which collections to send. Use /shinies to get started.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/noranda/xiv-shinies-plugin/main/src/XIVShinies.SyncPlugin/images/icon.png",
                 "RepoUrl": "https://github.com/noranda/xiv-shinies-plugin",
-                "LastUpdate": 1783809587
+                "LastUpdate": 1784163324
             }
         ]
     },
@@ -14879,12 +14908,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.4",
+                "AssemblyVersion": "0.1.5",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1784069245
+                "LastUpdate": 1784156350
             }
         ]
     },
@@ -16567,7 +16596,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1784137932
+                "LastUpdate": 1784154564
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -16724,7 +16753,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.43",
+                "AssemblyVersion": "15.45",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -16980,7 +17009,7 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "3.0.0.2",
+                "AssemblyVersion": "3.0.1.0",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
@@ -17004,7 +17033,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1784082429
+                "LastUpdate": 1784167451
             },
             {
                 "Author": "nainaiowo",
@@ -17257,12 +17286,12 @@
                 "Author": "Valenth Siveria",
                 "Name": "BlackJack Buttler",
                 "InternalName": "BlackJackButtler",
-                "AssemblyVersion": "1.8.4.7",
+                "AssemblyVersion": "1.8.4.9",
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/118",
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1783219306
+                "LastUpdate": 1784155419
             },
             {
                 "Author": "Valenth Siveria",
@@ -17394,12 +17423,12 @@
                 "Author": "veyn, xan_0",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.18",
+                "AssemblyVersion": "7.5.1.26",
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1783980314
+                "LastUpdate": 1784153142
             },
             {
                 "Author": "veyn, croizat",
@@ -19110,12 +19139,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.5.0.14",
+                "AssemblyVersion": "0.5.0.17",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1784148866
+                "LastUpdate": 1784167101
             }
         ]
     },
@@ -20184,12 +20213,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.3.4",
+                "AssemblyVersion": "1.7.3.5",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1783738988,
+                "LastUpdate": 1784169744,
                 "is_closed_source": true
             }
         ]
@@ -20507,7 +20536,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1784141371
+                "LastUpdate": 1784166897
             }
         ]
     },
@@ -21672,12 +21701,12 @@
                 "Author": "Tori",
                 "Name": "Lucky Split",
                 "InternalName": "LuckySplit",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Lucky Split is a host-side 50/50 drawing manager for Final Fantasy XIV venues. Create reusable venue presets, record confirmed ticket purchases, assign ticket ranges automatically, track the pot and payout, draw a winner, retain history, and export the ledger.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/torenaran/LuckySplit/main/images/icon.png",
                 "RepoUrl": "https://github.com/torenaran/LuckySplit",
-                "LastUpdate": 1784008504
+                "LastUpdate": 1784169735
             }
         ]
     },
