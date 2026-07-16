@@ -452,12 +452,12 @@
                 "Author": "Astraea, nihal_shadescale",
                 "Name": "AetherLove",
                 "InternalName": "AetherLovePlugin",
-                "AssemblyVersion": "1.5.1.0",
+                "AssemblyVersion": "1.6.0.0",
                 "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /al opens the phone.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/154",
                 "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-                "LastUpdate": 1783537707
+                "LastUpdate": 1784214268
             }
         ]
     },
@@ -1155,23 +1155,12 @@
                 "Author": "WonderlandDev",
                 "Name": "Wind-Up Key",
                 "InternalName": "WindUpKey",
-                "AssemblyVersion": "0.1.5.1",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "A (hopefully) simple plugin. Dolls need winding, and winders can wind up dolls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/key.png",
                 "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
-                "LastUpdate": 1784191980
-            },
-            {
-                "Author": "WonderlandDev",
-                "Name": "Wonderland Browser",
-                "InternalName": "WonderlandBrowser",
-                "AssemblyVersion": "2.0.0",
-                "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/wb config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/wonderland-browser.png",
-                "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
-                "LastUpdate": 1783945090
+                "LastUpdate": 1784204276
             }
         ]
     },
@@ -2525,7 +2514,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1784167221
+                "LastUpdate": 1784211490
             },
             {
                 "Author": "bdg",
@@ -2561,11 +2550,11 @@
                 "Author": "bdg",
                 "Name": "Mod Guard",
                 "InternalName": "ModGuard",
-                "AssemblyVersion": "0.0.0.5",
+                "AssemblyVersion": "0.0.0.6",
                 "Description": "Keeps your Penumbra mods private: when a mod-sync plugin (Lightless, Snowcloak, Sphene, PlayerSync, or any Mare Synchronos fork - the watch list is editable) is loaded, Mod Guard hides all your Penumbra mods by force-assigning an empty temporary collection to your character, so sync plugins have nothing to share. Once the sync plugins are gone (or on demand), it restores your previous Penumbra setup exactly as it was - your real collection and mod settings are never touched. Use /modguard to open the control window. Requires Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/ModGuard",
-                "LastUpdate": 1783995180
+                "LastUpdate": 1784211356
             },
             {
                 "Author": "bdg",
@@ -2575,7 +2564,7 @@
                 "Description": "On Latin American keyboard layouts, / is Shift+7, so a missed Shift sends \"7artisan\" into chat instead of running /artisan. Typo Guard intercepts outgoing chat and blocks any message that starts with a 7 followed by a letter, printing what it blocked instead of sending it. If you really meant to send such a message, send it again within 5 seconds and it goes through. Toggle with /typoguard (also accepts on/off/status); the setting persists.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1784167221
+                "LastUpdate": 1784211490
             }
         ]
     },
@@ -4449,11 +4438,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "4.58.0.0",
+                "AssemblyVersion": "4.67.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1784060800
+                "LastUpdate": 1784209266
             }
         ]
     },
@@ -4877,18 +4866,18 @@
                 "Description": "改版SkyEye",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Dragonw233/DalamudPlugins",
-                "LastUpdate": 1783187451
+                "LastUpdate": 1784218016
             },
             {
                 "Author": "Uiharu,NiGuangOwO,Tabris",
                 "Name": "XTeleportOnline",
                 "InternalName": "Teleport",
-                "AssemblyVersion": "7.0.0.17",
+                "AssemblyVersion": "7.0.0.19",
                 "Description": "基于初春佬的 XTP 项目更新修复版。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
+                "IconUrl": "https://raw.githubusercontent.com/Dragonw233/XTeleport/main/icon-512.jpg",
                 "RepoUrl": "https://github.com/Dragonw233/XTeleport",
-                "LastUpdate": 1782302344
+                "LastUpdate": 1784218296
             }
         ]
     },
@@ -5806,7 +5795,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784102092
+                "LastUpdate": 1784188836
             }
         ]
     },
@@ -7328,12 +7317,12 @@
                 "Author": "Habitat",
                 "Name": "Ripple Shot",
                 "InternalName": "RippleShot",
-                "AssemblyVersion": "0.5.15.0",
+                "AssemblyVersion": "0.5.18.0",
                 "Description": "Bartender tool for the Ripple Shot /random jackpot game: pricing, per-night caps with Supabase VIPs, carry-over pot, win detection, archives, and a guided payout planner.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/habitatnightclub/ripple-shot/main/ripple-shot-icon.png",
                 "RepoUrl": "https://github.com/habitatnightclub/ripple-shot",
-                "LastUpdate": 1783720722
+                "LastUpdate": 1784204032
             }
         ]
     },
@@ -7966,12 +7955,12 @@
                 "Author": "FateWhisper Team (based on SilverDasher)",
                 "Name": "FateWhisper",
                 "InternalName": "FateWhisper",
-                "AssemblyVersion": "0.3.3.0",
+                "AssemblyVersion": "0.3.4.0",
                 "Description": "FF14 跨服猎怪与 FATE 播报插件。消息来源：SilverDasher（ACT 版）MQTT 网络。支持 MQTT 跨服消息订阅、TTS 语音播报、游戏原生 Toast 通知。使用 /fw 或 /fatewhisper 打开。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ijnokmsc/DalamudPlugins/main/icons/fatewhisper.png",
                 "RepoUrl": "https://github.com/ijnokmsc/FateWhisper",
-                "LastUpdate": 1784135936
+                "LastUpdate": 1784210785
             }
         ]
     },
@@ -8022,10 +8011,10 @@
                 "Author": "PinkKitty",
                 "Name": "TomestonePhone",
                 "InternalName": "TomestonePhone",
-                "AssemblyVersion": "0.1.15.0",
+                "AssemblyVersion": "0.1.15.1",
                 "Description": "TomestonePhone adds a styled in-game phone UI with contacts, SMS, calls, group chat, and friend tools.",
                 "RepoUrl": "https://github.com/ImOv3rburdened/TomstonePhone",
-                "LastUpdate": 1784101938
+                "LastUpdate": 1784212233
             }
         ]
     },
@@ -14323,12 +14312,12 @@
                 "Author": "091",
                 "Name": "SpeedRadiusPlugin",
                 "InternalName": "SpeedRadiusPlugin",
-                "AssemblyVersion": "1.4.3.317",
+                "AssemblyVersion": "1.4.3.318",
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nihil-string/simple-Tool-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nihil-string/simple-Tool-dist",
-                "LastUpdate": 1784100512
+                "LastUpdate": 1784199775
             }
         ]
     },
@@ -16872,12 +16861,12 @@
                 "Author": "Ice",
                 "Name": "Ice's Cosmic Exploration (ICE)",
                 "InternalName": "ICE",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.1",
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1783776933
+                "LastUpdate": 1784213761
             }
         ]
     },
@@ -17009,12 +16998,12 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "3.0.1.0",
+                "AssemblyVersion": "3.0.1.1",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
-                "LastUpdate": 1784137197
+                "LastUpdate": 1784197244
             }
         ]
     },
@@ -17164,7 +17153,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/163",
                 "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
-                "LastUpdate": 1783936325
+                "LastUpdate": 1784204563
             }
         ]
     },
@@ -17767,42 +17756,42 @@
                 "Author": "斯温",
                 "Name": "Is that a crit？",
                 "InternalName": "BaoleMaLe",
-                "AssemblyVersion": "0.4.3.2",
+                "AssemblyVersion": "0.4.3.3",
                 "Description": "统计伤害技能的直暴运气(FFLogs风格配色)，并升级为轻量战斗数据记录器：本队全员 DPS / aDPS / 近似 rDPS、技能时间轴、多目标统计、团辅BUFF追踪与风趣战斗点评，技能表带图标。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/qliczz/BaoleMaLe",
-                "LastUpdate": 1783527376
+                "LastUpdate": 1784202266
             },
             {
                 "Author": "斯温",
                 "Name": "W.T.H.F.",
                 "InternalName": "NEVERMOVE",
-                "AssemblyVersion": "1.0.5.1",
+                "AssemblyVersion": "1.0.5.2",
                 "Description": "找找好友究竟在哪",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/qliczz/NEVERMOVE",
-                "LastUpdate": 1783527380
+                "LastUpdate": 1784202265
             },
             {
                 "Author": "斯温",
                 "Name": "RaceKnight",
                 "InternalName": "RaceKnight",
-                "AssemblyVersion": "0.0.0.4",
+                "AssemblyVersion": "0.0.0.5",
                 "Description": "我就是要种族骑士",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/qliczz/RaceKnight/raw/main/repo/icon.png",
                 "RepoUrl": "https://github.com/qliczz/RaceKnight",
-                "LastUpdate": 1783349439
+                "LastUpdate": 1784202264
             },
             {
                 "Author": "斯温",
                 "Name": "旋转教练",
                 "InternalName": "RotationCoach",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "实时分析你实际按下的技能序列，指出发呆、卡手、GCD 节奏问题，帮助你打磨手法。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/qliczz/RotationCoach",
-                "LastUpdate": 1783525951
+                "LastUpdate": 1784202266
             }
         ]
     },
@@ -17816,11 +17805,11 @@
                 "Author": "斯温",
                 "Name": "W.T.H.F.",
                 "InternalName": "NEVERMOVE",
-                "AssemblyVersion": "1.0.3.0",
+                "AssemblyVersion": "1.0.5.2",
                 "Description": "找找好友究竟在哪",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/qliczz/NEVERMOVE",
-                "LastUpdate": 1783435325
+                "LastUpdate": 1784202265
             }
         ]
     },
@@ -17834,7 +17823,7 @@
                 "Author": "斯温",
                 "Name": "RaceKnight",
                 "InternalName": "RaceKnight",
-                "AssemblyVersion": "0.0.0.4",
+                "AssemblyVersion": "0.0.0.5",
                 "Description": "我就是要种族骑士",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/qliczz/RaceKnight/raw/main/repo/icon.png",
@@ -18982,12 +18971,12 @@
                 "Author": "Rowsai",
                 "Name": "Phase DPS Checker",
                 "InternalName": "PhaseDpsChecker",
-                "AssemblyVersion": "0.2.1.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "敵がターゲット可能な区間をフェーズとして、パーティメンバーのDPS、Crit/DH率、最大ダメージ、GCD稼働率、アクション別のダメージと回復量を表示します。全滅・コンテンツクリア時の戦闘履歴にも対応します。\nコマンド: /phasedps\nアイコン画像の調整に生成AIを使用しています。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/PhaseDpsChecker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
-                "LastUpdate": 1784185330
+                "LastUpdate": 1784215750
             }
         ]
     },
@@ -19150,12 +19139,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.5.0.17",
+                "AssemblyVersion": "0.5.0.21",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1784167101
+                "LastUpdate": 1784211909
             }
         ]
     },
@@ -20244,12 +20233,12 @@
                 "Author": "Shuro",
                 "Name": "GobchatEx Roleplay Suite",
                 "InternalName": "GobchatExPlugin",
-                "AssemblyVersion": "0.10.2",
+                "AssemblyVersion": "0.11.0",
                 "Description": "Roleplay Highlighting in the native chat. Mentions notification with sound effects and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shuro/dalamud-plugins/main/GobchatEx/images/icon.png",
                 "RepoUrl": "https://github.com/Shuro/dalamud-plugins",
-                "LastUpdate": 1783947465
+                "LastUpdate": 1784211268
             }
         ]
     },
@@ -20263,12 +20252,12 @@
                 "Author": "Shuro",
                 "Name": "GobchatEx Roleplay Suite",
                 "InternalName": "GobchatExPlugin",
-                "AssemblyVersion": "0.10.2",
+                "AssemblyVersion": "0.11.0",
                 "Description": "Roleplay Highlighting in the native chat. Mentions notification with sound effects and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shuro/dalamud-plugins/main/GobchatEx/images/icon.png",
                 "RepoUrl": "https://github.com/Shuro/GobchatEx-plugin",
-                "LastUpdate": 1783947465
+                "LastUpdate": 1784211268
             }
         ]
     },
