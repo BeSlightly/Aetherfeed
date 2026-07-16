@@ -452,7 +452,7 @@
                 "Author": "Astraea, nihal_shadescale",
                 "Name": "AetherLove",
                 "InternalName": "AetherLovePlugin",
-                "AssemblyVersion": "1.6.0.0",
+                "AssemblyVersion": "1.6.3.0",
                 "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /al opens the phone.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/154",
@@ -557,7 +557,7 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.5",
+                "AssemblyVersion": "0.3.1.6",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
@@ -888,7 +888,7 @@
                 "Author": "Airi Tsukino",
                 "Name": "GambaAssistant",
                 "InternalName": "GambaAssistant",
-                "AssemblyVersion": "0.1.6.1",
+                "AssemblyVersion": "0.1.8.1",
                 "Description": "Assists a single venue dealer with Blackjack phases, dice-based cards, bank tracking, narration, overlays, logs, and exports. Players do not need the plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/GambaAssistant/main/GambaAssistant/Resources/GALogo.png",
@@ -967,12 +967,12 @@
                 "Author": "Airi Tsukino",
                 "Name": "GambaAssistant",
                 "InternalName": "GambaAssistant",
-                "AssemblyVersion": "0.1.6.1",
+                "AssemblyVersion": "0.1.8.1",
                 "Description": "Assists a single venue dealer with Blackjack phases, dice-based cards, bank tracking, narration, overlays, logs, and exports. Players do not need the plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/GambaAssistant/main/GambaAssistant/Resources/GALogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/GambaAssistant",
-                "LastUpdate": 1783752373
+                "LastUpdate": 1784237150
             }
         ]
     },
@@ -1245,7 +1245,17 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/altaint/ThresholdChecker/main/Media/placeholder.png",
                 "RepoUrl": "https://github.com/altaint/MyDalamudPlugins",
-                "LastUpdate": 1781999946
+                "LastUpdate": 1784237696
+            },
+            {
+                "Author": "altan",
+                "Name": "Triple Triad Tracker",
+                "InternalName": "TripleTriadTracker",
+                "AssemblyVersion": "0.0.0.2",
+                "Description": "Tracks your Triple Triad collection with filters to show what you have uncollected and where you can find each card.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/altaint/MyDalamudPlugins",
+                "LastUpdate": 1784237696
             }
         ]
     },
@@ -2550,7 +2560,7 @@
                 "Author": "bdg",
                 "Name": "Mod Guard",
                 "InternalName": "ModGuard",
-                "AssemblyVersion": "0.0.0.6",
+                "AssemblyVersion": "0.0.0.9",
                 "Description": "Keeps your Penumbra mods private: when a mod-sync plugin (Lightless, Snowcloak, Sphene, PlayerSync, or any Mare Synchronos fork - the watch list is editable) is loaded, Mod Guard hides all your Penumbra mods by force-assigning an empty temporary collection to your character, so sync plugins have nothing to share. Once the sync plugins are gone (or on demand), it restores your previous Penumbra setup exactly as it was - your real collection and mod settings are never touched. Use /modguard to open the control window. Requires Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/ModGuard",
@@ -2563,7 +2573,7 @@
                 "AssemblyVersion": "0.0.0.1",
                 "Description": "On Latin American keyboard layouts, / is Shift+7, so a missed Shift sends \"7artisan\" into chat instead of running /artisan. Typo Guard intercepts outgoing chat and blocks any message that starts with a 7 followed by a letter, printing what it blocked instead of sending it. If you really meant to send such a message, send it again within 5 seconds and it goes through. Toggle with /typoguard (also accepts on/off/status); the setting persists.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
+                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/TypoGuard",
                 "LastUpdate": 1784211490
             }
         ]
@@ -3398,9 +3408,9 @@
                 "Author": "Catphinaud",
                 "Name": "GlamHouse",
                 "InternalName": "GlamHouse",
-                "AssemblyVersion": "1.0.4.8",
+                "AssemblyVersion": "1.0.5.0",
                 "Description": "GlamHouse",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Catphinaud/Glamhouse/main/images/icon.png",
                 "RepoUrl": "https://github.com/Catphinaud/GlamHouse",
                 "LastUpdate": 1766164285
@@ -4438,7 +4448,7 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "4.67.0.0",
+                "AssemblyVersion": "4.74.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
@@ -4682,7 +4692,7 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.15.0.1",
+                "AssemblyVersion": "1.15.0.2",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
@@ -6757,12 +6767,12 @@
                 "Author": "gerulla",
                 "Name": "FullParty",
                 "InternalName": "FullParty",
-                "AssemblyVersion": "0.1.2.0",
+                "AssemblyVersion": "0.1.4.0",
                 "Description": "Dalamud Plugin Companion for FullParty.gg",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
-                "LastUpdate": 1783870449
+                "LastUpdate": 1784230168
             }
         ]
     },
@@ -11822,7 +11832,7 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.5",
+                "AssemblyVersion": "0.3.1.6",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
@@ -12086,7 +12096,7 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.1.11",
+                "AssemblyVersion": "1.1.1.13",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
@@ -16167,7 +16177,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Passport Checker Reborn (Custom)",
                 "InternalName": "PassportCheckerReborn",
-                "AssemblyVersion": "7.5.1.3",
+                "AssemblyVersion": "7.5.1.4",
                 "Description": "파티 찾기 목록 옆에 멤버 정보 오버레이를 표시하는 플러그인입니다. 한국 서버에 맞게 수정한 버전으로, 한국 월드/FFLogs 매핑, 한국어 UI, PlayerTrack 기반 비공개 플레이어 이름 복원을 지원합니다.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
@@ -16742,7 +16752,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.45",
+                "AssemblyVersion": "15.46",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -16783,7 +16793,7 @@
                 "Author": "erdelf",
                 "Name": "FC Tracker",
                 "InternalName": "FCTracker",
-                "AssemblyVersion": "0.0.0.27",
+                "AssemblyVersion": "0.0.0.28",
                 "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
@@ -17444,7 +17454,7 @@
                 "Author": "veyn, croizat",
                 "Name": "V(ery) Island",
                 "InternalName": "visland",
-                "AssemblyVersion": "0.0.0.146",
+                "AssemblyVersion": "0.0.0.148",
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/28",
@@ -18971,7 +18981,7 @@
                 "Author": "Rowsai",
                 "Name": "Phase DPS Checker",
                 "InternalName": "PhaseDpsChecker",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.6.0.0",
                 "Description": "敵がターゲット可能な区間をフェーズとして、パーティメンバーのDPS、Crit/DH率、最大ダメージ、GCD稼働率、アクション別のダメージと回復量を表示します。全滅・コンテンツクリア時の戦闘履歴にも対応します。\nコマンド: /phasedps\nアイコン画像の調整に生成AIを使用しています。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/PhaseDpsChecker/main/images/icon.png",
@@ -19139,7 +19149,7 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.5.0.21",
+                "AssemblyVersion": "0.5.0.26",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
@@ -19823,7 +19833,6 @@
                 "AssemblyVersion": "0.1.10.0",
                 "Description": "Analyzes local wardrobe, armoire, glamour dresser, retainer cache, dyes, duplicates, glamour sets, and store outfit ownership. Command: /yggj",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/assets/ArmoireButler/icon.png",
                 "RepoUrl": "https://github.com/selken-ixx/SelkenDalamud",
                 "LastUpdate": 1784022589
             }
@@ -20213,12 +20222,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.3.5",
+                "AssemblyVersion": "1.7.3.6",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins",
-                "LastUpdate": 1784169744,
+                "LastUpdate": 1784220696,
                 "is_closed_source": true
             }
         ]
@@ -20233,12 +20242,12 @@
                 "Author": "Shuro",
                 "Name": "GobchatEx Roleplay Suite",
                 "InternalName": "GobchatExPlugin",
-                "AssemblyVersion": "0.11.0",
+                "AssemblyVersion": "0.11.2",
                 "Description": "Roleplay Highlighting in the native chat. Mentions notification with sound effects and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shuro/dalamud-plugins/main/GobchatEx/images/icon.png",
                 "RepoUrl": "https://github.com/Shuro/dalamud-plugins",
-                "LastUpdate": 1784211268
+                "LastUpdate": 1784244290
             }
         ]
     },
@@ -20252,12 +20261,12 @@
                 "Author": "Shuro",
                 "Name": "GobchatEx Roleplay Suite",
                 "InternalName": "GobchatExPlugin",
-                "AssemblyVersion": "0.11.0",
+                "AssemblyVersion": "0.11.2",
                 "Description": "Roleplay Highlighting in the native chat. Mentions notification with sound effects and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shuro/dalamud-plugins/main/GobchatEx/images/icon.png",
                 "RepoUrl": "https://github.com/Shuro/GobchatEx-plugin",
-                "LastUpdate": 1784211268
+                "LastUpdate": 1784244290
             }
         ]
     },
@@ -21203,13 +21212,13 @@
             {
                 "Author": "Dave Black",
                 "Name": "Dote-a-base",
-                "InternalName": "Dote-a-base",
-                "AssemblyVersion": "1.16.0.0",
+                "InternalName": "DoteAbase",
+                "AssemblyVersion": "1.17.0.0",
                 "Description": "Easily see who you have doted and who has doted you",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/TenaciousDaveBlack/Dote-a-base/main/XIVPlugins/Icon.png",
                 "RepoUrl": "https://github.com/TenaciousDaveBlack/Dote-a-base",
-                "LastUpdate": 1777560329
+                "LastUpdate": 1784239422
             }
         ]
     },
@@ -24075,7 +24084,7 @@
                 "Author": "zysilm",
                 "Name": "Combat Simulator",
                 "InternalName": "CombatSimulator",
-                "AssemblyVersion": "2.7.0.1",
+                "AssemblyVersion": "2.7.1.1",
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death effects (ragdoll physics), active camera (bone tracking), death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zysilm/FFXIV-CombatSimulator/main/images/logo.png",
