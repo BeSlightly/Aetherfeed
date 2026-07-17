@@ -457,7 +457,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/154",
                 "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-                "LastUpdate": 1784214268
+                "LastUpdate": 1784238208
             }
         ]
     },
@@ -491,12 +491,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.5.7.5",
+                "AssemblyVersion": "0.5.7.6",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1784011779
+                "LastUpdate": 1784251254
             },
             {
                 "Author": "DhogGPT",
@@ -562,7 +562,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784172297
+                "LastUpdate": 1784224111
             },
             {
                 "Author": "DhogGPT",
@@ -612,12 +612,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.1.13",
+                "AssemblyVersion": "1.1.1.14",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1784172288
+                "LastUpdate": 1784251259
             },
             {
                 "Author": "DhogGPT",
@@ -893,7 +893,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/GambaAssistant/main/GambaAssistant/Resources/GALogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/GambaAssistant",
-                "LastUpdate": 1783753341
+                "LastUpdate": 1784244014
             },
             {
                 "Author": "Airi Tsukino",
@@ -2564,7 +2564,7 @@
                 "Description": "Keeps your Penumbra mods private: when a mod-sync plugin (Lightless, Snowcloak, Sphene, PlayerSync, or any Mare Synchronos fork - the watch list is editable) is loaded, Mod Guard hides all your Penumbra mods by force-assigning an empty temporary collection to your character, so sync plugins have nothing to share. Once the sync plugins are gone (or on demand), it restores your previous Penumbra setup exactly as it was - your real collection and mod settings are never touched. Use /modguard to open the control window. Requires Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/ModGuard",
-                "LastUpdate": 1784211356
+                "LastUpdate": 1784224809
             },
             {
                 "Author": "bdg",
@@ -2574,7 +2574,7 @@
                 "Description": "On Latin American keyboard layouts, / is Shift+7, so a missed Shift sends \"7artisan\" into chat instead of running /artisan. Typo Guard intercepts outgoing chat and blocks any message that starts with a 7 followed by a letter, printing what it blocked instead of sending it. If you really meant to send such a message, send it again within 5 seconds and it goes through. Toggle with /typoguard (also accepts on/off/status); the setting persists.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/TypoGuard",
-                "LastUpdate": 1784211490
+                "LastUpdate": 1784078293
             }
         ]
     },
@@ -3413,7 +3413,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Catphinaud/Glamhouse/main/images/icon.png",
                 "RepoUrl": "https://github.com/Catphinaud/GlamHouse",
-                "LastUpdate": 1766164285
+                "LastUpdate": 1784228437
             },
             {
                 "Author": "Catphinaud",
@@ -4596,11 +4596,11 @@
                 "Author": "Akari",
                 "Name": "Consolidator",
                 "InternalName": "Consolidator",
-                "AssemblyVersion": "1.3.1.0",
+                "AssemblyVersion": "1.3.2.1",
                 "Description": "Consolidates gil from your alt characters onto a single main. Logs into each character, travels to a chosen world via Lifestream, walks to your main with vnavmesh, trades over all gil above a floor you set, then returns to the FC. Requires AutoRetainer, Lifestream and vnavmesh; the receiving character needs Dropbox running to auto-accept the trades.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/Consolidator",
-                "LastUpdate": 1784014718
+                "LastUpdate": 1784251338
             },
             {
                 "Author": "Akari",
@@ -4627,11 +4627,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.15.0.1",
+                "AssemblyVersion": "1.15.0.4",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1784152322
+                "LastUpdate": 1784263428
             },
             {
                 "Author": "Akari",
@@ -4692,11 +4692,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.15.0.2",
+                "AssemblyVersion": "1.15.0.4",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1784152322
+                "LastUpdate": 1784263428
             }
         ]
     },
@@ -6208,7 +6208,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1784048961
+                "LastUpdate": 1784262511
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7748,7 +7748,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/hu1j1233/Questionable",
-                "LastUpdate": 1784136687
+                "LastUpdate": 1784232041
             }
         ]
     },
@@ -7954,12 +7954,12 @@
                 "Author": "CraftFlow Team",
                 "Name": "CraftFlow",
                 "InternalName": "CraftFlow",
-                "AssemblyVersion": "0.2.9.0",
+                "AssemblyVersion": "0.2.10.0",
                 "Description": "FF14生产辅助插件，提供核心功能：(1) BOM递归展开——输入目标装备/食物/收藏品，自动递归分解全部中间材料，生成完整材料清单；(2) 采集推送——一键将待采集材料列表推送至GatherBuddyReborn，快速定位采集点；(3) 一键制作——调用Artisan插件自动制作，独立进度窗口实时显示。使用 /cf 或 /craftflow 打开主窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ijnokmsc/DalamudPlugins/main/icons/craftflow.png",
                 "RepoUrl": "https://github.com/ijnokmsc/CraftFlow",
-                "LastUpdate": 1783868347
+                "LastUpdate": 1784260191
             },
             {
                 "Author": "FateWhisper Team (based on SilverDasher)",
@@ -9014,12 +9014,12 @@
                 "Author": "Juusohel",
                 "Name": "Bunny Sub Sync",
                 "InternalName": "BunnySubSync",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Captures submarine voyage results (route, loot, timings) as they happen and pushes them to your Bunny Sub Tracker account. Pair it with a plugin token from your Profile page, map your in-game free companies/submarines to their platform counterparts, then let it run. Command: /bunnysync",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Juusohel/BunnySubSync/main/BunnySubSync/images/icon.png",
                 "RepoUrl": "https://github.com/Juusohel/BunnySubSync",
-                "LastUpdate": 1783295961
+                "LastUpdate": 1784260826
             }
         ]
     },
@@ -10185,12 +10185,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "2607.158.0.0",
+                "AssemblyVersion": "2607.160.0.0",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1783405783
+                "LastUpdate": 1784250544
             }
         ]
     },
@@ -11756,12 +11756,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.5.7.5",
+                "AssemblyVersion": "0.5.7.6",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1784011779
+                "LastUpdate": 1784251254
             }
         ]
     },
@@ -11927,12 +11927,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.1.13",
+                "AssemblyVersion": "1.1.1.14",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1784172288
+                "LastUpdate": 1784251259
             }
         ]
     },
@@ -12101,7 +12101,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1783923264
+                "LastUpdate": 1784251259
             },
             {
                 "Author": "DhogGPT",
@@ -14747,12 +14747,12 @@
                 "Author": "Noranda",
                 "Name": "XIV Shinies Sync",
                 "InternalName": "XIVShinies.SyncPlugin",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Automatically records your collection progress on XIV Shinies (https://xiv-shinies.com). New unlocks — quests, achievements, mounts, minions, and more — appear on the site within seconds, and everything else syncs automatically in the background. Fully opt-in: nothing uploads until you finish the short setup, and you choose exactly which collections to send. Use /shinies to get started.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/noranda/xiv-shinies-plugin/main/src/XIVShinies.SyncPlugin/images/icon.png",
                 "RepoUrl": "https://github.com/noranda/xiv-shinies-plugin",
-                "LastUpdate": 1784163324
+                "LastUpdate": 1784250517
             }
         ]
     },
@@ -14926,12 +14926,12 @@
                 "Author": "ofnature",
                 "Name": "SealBreaker",
                 "InternalName": "SealBreaker",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.0.4",
                 "Description": "Automates dungeon farming, GC expert delivery, and grand company item purchasing. Supports AutoDuty and ADS.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/SealBreaker/main/SealBreaker/icon.png",
                 "RepoUrl": "https://github.com/ofnature/SealBreaker",
-                "LastUpdate": 1783300556
+                "LastUpdate": 1784260455
             }
         ]
     },
@@ -16182,7 +16182,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/pnsdh/PassportCheckerReborn",
-                "LastUpdate": 1783870297
+                "LastUpdate": 1784215220
             }
         ]
     },
@@ -16595,7 +16595,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1784154564
+                "LastUpdate": 1784222136
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -16715,7 +16715,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784141262
+                "LastUpdate": 1784230778
             },
             {
                 "Author": "daemitus, kawaii",
@@ -16798,7 +16798,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1784138255
+                "LastUpdate": 1784222800
             }
         ]
     },
@@ -17027,12 +17027,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.240",
+                "AssemblyVersion": "0.1.0.250",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1784167451
+                "LastUpdate": 1784266206
             },
             {
                 "Author": "nainaiowo",
@@ -17427,7 +17427,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1784153142
+                "LastUpdate": 1784226921
             },
             {
                 "Author": "veyn, croizat",
@@ -17459,7 +17459,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/28",
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1784189778
+                "LastUpdate": 1784242197
             },
             {
                 "Author": "veyn, xan_0",
@@ -18981,12 +18981,12 @@
                 "Author": "Rowsai",
                 "Name": "Phase DPS Checker",
                 "InternalName": "PhaseDpsChecker",
-                "AssemblyVersion": "0.6.0.0",
+                "AssemblyVersion": "0.7.0.0",
                 "Description": "敵がターゲット可能な区間をフェーズとして、パーティメンバーのDPS、Crit/DH率、最大ダメージ、GCD稼働率、アクション別のダメージと回復量を表示します。全滅・コンテンツクリア時の戦闘履歴にも対応します。\nコマンド: /phasedps\nアイコン画像の調整に生成AIを使用しています。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/PhaseDpsChecker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
-                "LastUpdate": 1784215750
+                "LastUpdate": 1784249258
             }
         ]
     },
@@ -19833,8 +19833,20 @@
                 "AssemblyVersion": "0.1.10.0",
                 "Description": "Analyzes local wardrobe, armoire, glamour dresser, retainer cache, dyes, duplicates, glamour sets, and store outfit ownership. Command: /yggj",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/assets/ArmoireButler/icon.png",
                 "RepoUrl": "https://github.com/selken-ixx/SelkenDalamud",
                 "LastUpdate": 1784022589
+            },
+            {
+                "Author": "Selken",
+                "Name": "Fashion Check Helper",
+                "InternalName": "FashionCheckHelperPlugin",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Shows the current Fashion Report theme, known gold items, 80-point and 100-point plans. Command: /fch",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/assets/FashionCheckHelper/icon.png",
+                "RepoUrl": "https://github.com/selken-ixx/SelkenDalamud",
+                "LastUpdate": 1784261641
             }
         ]
     },
@@ -20428,12 +20440,12 @@
                 "Author": "snazz",
                 "Name": "Snazzy P4",
                 "InternalName": "SnazzyP4",
-                "AssemblyVersion": "1.0.12.0",
+                "AssemblyVersion": "1.1.3.0",
                 "Description": "A robust custom macro system for the Kefka UMAD/DMU Phase 4 mechanics. Press the buttons for what you see in the fight and it lays out clean, colour-coded callouts. Open with /snazzyp4.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/snazzysosnazzy/SnazzyP4/main/SnazzyP4/images/icon.png",
                 "RepoUrl": "https://github.com/snazzysosnazzy/SnazzyP4",
-                "LastUpdate": 1783982204
+                "LastUpdate": 1784267177
             }
         ]
     },
@@ -21333,6 +21345,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/TheDeathDragon/SkinTattoo/master/images/icon.png",
                 "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
                 "LastUpdate": 1779464158
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "TheEorzeanLibrarian",
+        "repo_url": "https://raw.githubusercontent.com/TheEorzeanLibrarian/eorzean-mentor-plugin/main/repo.json",
+        "repo_source_url": "https://github.com/TheEorzeanLibrarian/eorzean-mentor-plugin",
+        "repo_name": "eorzean-mentor-plugin",
+        "plugins": [
+            {
+                "Author": "The Eorzean Librarian Team",
+                "Name": "Eorzean Ledger - Mentor Tracker",
+                "InternalName": "EorzeanMentorTracker",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "Detects when you queue and clear Duty Roulette: Mentor, times your run, counts commendations received, and submits it to your Eorzean Ledger (Mentor Ledger) account. Also offers a one-time import of runs cleared before you installed the plugin.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://codeberg.org/TheEorzeanLibrarian/eorzean-mentor-plugin/raw/branch/main/Data/icon.png",
+                "RepoUrl": "https://codeberg.org/TheEorzeanLibrarian/eorzean-mentor-plugin"
             }
         ]
     },
@@ -22654,12 +22684,12 @@
                 "Author": "Ottermandias",
                 "Name": "Glamourer (KR)",
                 "InternalName": "Glamourer",
-                "AssemblyVersion": "2.2.0.2",
+                "AssemblyVersion": "1.6.1.7",
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/master/images/icon.png",
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1780846424
+                "LastUpdate": 1784214555
             }
         ]
     },
