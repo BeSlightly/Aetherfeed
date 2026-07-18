@@ -557,12 +557,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.7",
+                "AssemblyVersion": "0.3.1.8",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784279713
+                "LastUpdate": 1784323650
             },
             {
                 "Author": "DhogGPT",
@@ -1072,12 +1072,12 @@
                 "Author": "AlexFlipnote",
                 "Name": "The Holiest Fluffiness",
                 "InternalName": "HoliestFluffiness",
-                "AssemblyVersion": "0.7.8",
+                "AssemblyVersion": "0.8.0",
                 "Description": "A tweak plugin born for the free company 'The Holiest Fluffiness', now open for all to enjoy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AlexFlipnote/XIV_HolyPlugin/master/HoliestFluffiness/Images/icon.png",
                 "RepoUrl": "https://github.com/AlexFlipnote/XIV_HolyPlugin",
-                "LastUpdate": 1784308101
+                "LastUpdate": 1784327559
             }
         ]
     },
@@ -2519,12 +2519,12 @@
                 "Author": "bdg",
                 "Name": "CBT",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.193.0.12",
+                "AssemblyVersion": "69.193.0.13",
                 "Description": "Tweaks that are sometimes simple, sometimes not.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1784306897
+                "LastUpdate": 1784325246
             },
             {
                 "Author": "bdg",
@@ -4056,12 +4056,12 @@
                 "Author": "dajoey",
                 "Name": "Gluttony Combo",
                 "InternalName": "GluttonyCombo",
-                "AssemblyVersion": "1.0.4.77",
+                "AssemblyVersion": "1.0.4.78",
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/gluttonycombo-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/GluttonyCombo/latest",
-                "LastUpdate": 1783794412
+                "LastUpdate": 1784318371
             },
             {
                 "Author": "Blackcatz1911, dajoey",
@@ -4448,11 +4448,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "4.81.0.0",
+                "AssemblyVersion": "4.89.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1784297064
+                "LastUpdate": 1784316122
             }
         ]
     },
@@ -6269,12 +6269,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.14",
+                "AssemblyVersion": "7.5.1.15",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1784105455
+                "LastUpdate": 1784329670
             },
             {
                 "Author": "Churin",
@@ -7138,24 +7138,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/Glorou/mare.client/refs/heads/main/MareSynchronos/images/icon.png",
                 "RepoUrl": "https://github.com/Glorou/mare.client",
                 "LastUpdate": 1777663616
-            }
-        ]
-    },
-    {
-        "repo_url": "https://karou.ca/xiv/repo.json",
-        "repo_source_url": "https://github.com/Glorou/TextureOverlayer",
-        "repo_developer_name": "Glorou",
-        "repo_name": "TextureOverlayer",
-        "plugins": [
-            {
-                "Author": "Karou",
-                "Name": "Texture Overlayer",
-                "InternalName": "TextureOverlayer",
-                "AssemblyVersion": "0.5.4.0",
-                "Description": "A relatively robust tool that allows you to non-destructively edit textures.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Glorou/TextureOverlayer",
-                "LastUpdate": 1777663083
             }
         ]
     },
@@ -10042,7 +10024,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-                "LastUpdate": 1783119792
+                "LastUpdate": 1784307589
             },
             {
                 "Author": "veyn, xan_0",
@@ -10053,7 +10035,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1784226921
+                "LastUpdate": 1784306187
             },
             {
                 "Author": "sourpuh",
@@ -10081,12 +10063,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.14",
+                "AssemblyVersion": "7.5.1.15",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1784105455
+                "LastUpdate": 1784329670
             },
             {
                 "Author": "Team Wrath",
@@ -10097,7 +10079,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784230778
+                "LastUpdate": 1784322057
             }
         ]
     },
@@ -11853,12 +11835,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.7",
+                "AssemblyVersion": "0.3.1.8",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784279713
+                "LastUpdate": 1784323650
             }
         ]
     },
@@ -13019,7 +13001,7 @@
                 "Description": "Track FFXIV relic weapon quest progress across all expansion series.\n\nDM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/RelicTerror",
-                "LastUpdate": 1778976000
+                "LastUpdate": 1784323044
             }
         ]
     },
@@ -13591,7 +13573,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1784083340
+                "LastUpdate": 1784170147
             }
         ]
     },
@@ -15546,12 +15528,12 @@
                 "Author": "Paissa Heavy Industries",
                 "Name": "Lemegeton",
                 "InternalName": "Lemegeton",
-                "AssemblyVersion": "1.0.8.5",
+                "AssemblyVersion": "1.0.8.6",
                 "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
                 "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
-                "LastUpdate": 1784039755
+                "LastUpdate": 1784327643
             },
             {
                 "Author": "Paissa Heavy Industries",
@@ -15852,6 +15834,24 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Peterseer/DalamudPlugins/main/AICompanion/icon.png",
                 "RepoUrl": "https://github.com/Peterseer/DalamudSamplePlugin"
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Petra105",
+        "repo_url": "https://raw.githubusercontent.com/Petra105/MediumSweep/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Petra105/MediumSweep",
+        "repo_name": "MediumSweep",
+        "plugins": [
+            {
+                "Author": "Melody Pendragon",
+                "Name": "MediumSweep",
+                "InternalName": "MediumSweep",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Scans all 30 wards of the selected residential district, finds owned and built Medium homes that allow visitors, marks Designer Home listings, and exports a Lifestream-compatible address book.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Petra105/MediumSweep",
+                "LastUpdate": 1784316333
             }
         ]
     },
@@ -16772,7 +16772,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784307406
+                "LastUpdate": 1784322057
             },
             {
                 "Author": "daemitus, kawaii",
@@ -16809,7 +16809,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.46",
+                "AssemblyVersion": "15.47",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -18303,7 +18303,7 @@
                 "Description": "Bard Toolbox is an all-in-one FFXIV Dalamud plugin for bards and bands, providing all the essential functions that people would need every day.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
-                "LastUpdate": 1784128904,
+                "LastUpdate": 1784328240,
                 "is_closed_source": true
             }
         ]
@@ -23111,12 +23111,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.7.0",
+                "AssemblyVersion": "0.9.8.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784308265
+                "LastUpdate": 1784334043
             },
             {
                 "Author": "XeldarAlz",
@@ -23185,12 +23185,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.7.0",
+                "AssemblyVersion": "0.9.8.1",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784149192
+                "LastUpdate": 1784334043
             }
         ]
     },
@@ -24122,28 +24122,28 @@
                 "Author": "Zune",
                 "Name": "Master Of Puppets",
                 "InternalName": "MasterOfPuppets",
-                "AssemblyVersion": "1.15.0.222",
+                "AssemblyVersion": "1.15.0.223",
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1783876148
+                "LastUpdate": 1784325860
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
                 "Name": "MidiBard 2 (BETA)",
                 "InternalName": "ZuneBard",
-                "AssemblyVersion": "1.15.0.143",
+                "AssemblyVersion": "1.15.0.144",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1783888861,
+                "LastUpdate": 1784326122,
                 "is_closed_source": true
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
                 "Name": "MidiBard 2 (ALPHA)",
                 "InternalName": "ZuneBardAlpha",
-                "AssemblyVersion": "1.15.0.143",
+                "AssemblyVersion": "1.15.0.144",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://midibard.org",
