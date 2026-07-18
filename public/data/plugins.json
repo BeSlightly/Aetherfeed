@@ -1796,12 +1796,12 @@
                 "Author": "Bancho",
                 "Name": "Hrothgar Scent",
                 "InternalName": "HrothgarScent",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "A nearby-player list where every row shows whether that player is targeting you, with a watcher history and alerts.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/ArcanineLS/DalamudPluginRepo/raw/master/images/icon.png",
                 "RepoUrl": "https://github.com/ArcanineLS/HrothgarScent",
-                "LastUpdate": 1784160396
+                "LastUpdate": 1784364448
             }
         ]
     },
@@ -3323,11 +3323,11 @@
                 "Author": "Caraxi",
                 "Name": "Simple Heels",
                 "InternalName": "SimpleHeels",
-                "AssemblyVersion": "0.11.1.7",
+                "AssemblyVersion": "0.11.1.8",
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1783324154
+                "LastUpdate": 1784356785
             }
         ]
     },
@@ -4458,11 +4458,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "4.89.0.0",
+                "AssemblyVersion": "4.97.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1784316122
+                "LastUpdate": 1784367703
             }
         ]
     },
@@ -5506,12 +5506,12 @@
                 "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
                 "Name": "Brio-CN",
                 "InternalName": "Brio-CN",
-                "AssemblyVersion": "1.0.2.0",
+                "AssemblyVersion": "1.0.3.0",
                 "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/endfish/Brio-CN/zh-CN/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/endfish/Brio-CN",
-                "LastUpdate": 1784345913
+                "LastUpdate": 1784372433
             },
             {
                 "Author": "kawaii, 汉化: Endfish",
@@ -5807,7 +5807,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784275053
+                "LastUpdate": 1784360293
             }
         ]
     },
@@ -5826,7 +5826,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784275053
+                "LastUpdate": 1784360293
             }
         ]
     },
@@ -7163,6 +7163,24 @@
         ]
     },
     {
+        "repo_url": "https://karou.ca/xiv/repo.json",
+        "repo_source_url": "https://github.com/Glorou/TextureOverlayer",
+        "repo_developer_name": "Glorou",
+        "repo_name": "TextureOverlayer",
+        "plugins": [
+            {
+                "Author": "Karou",
+                "Name": "Texture Overlayer",
+                "InternalName": "TextureOverlayer",
+                "AssemblyVersion": "0.5.4.0",
+                "Description": "A relatively robust tool that allows you to non-destructively edit textures.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Glorou/TextureOverlayer",
+                "LastUpdate": 1777663083
+            }
+        ]
+    },
+    {
         "repo_developer_name": "GorditoSupreme",
         "repo_url": "https://raw.githubusercontent.com/GorditoSupreme/MareClient/main/repo.json",
         "repo_source_url": "https://github.com/GorditoSupreme/MareClient",
@@ -7445,12 +7463,12 @@
                 "Author": "Haselnussbomber",
                 "Name": "HaselTweaks",
                 "InternalName": "HaselTweaks",
-                "AssemblyVersion": "49.1.0.0",
+                "AssemblyVersion": "49.2.0.0",
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1783943625
+                "LastUpdate": 1784372490
             },
             {
                 "Author": "Haselnussbomber",
@@ -11201,7 +11219,7 @@
                 "Author": "Ottermandias, Lother",
                 "Name": "Accountant",
                 "InternalName": "Accountant",
-                "AssemblyVersion": "7.15.0.72",
+                "AssemblyVersion": "7.15.0.73",
                 "Description": "記錄多名角色的雇員、飛艇、潛水艇、以太之輪與作物計時器，\n以及其他各種雜項任務進度。",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Accountant.png",
@@ -11211,7 +11229,7 @@
                 "Author": "Taurenkey (Puni.sh), Lother",
                 "Name": "Artisan",
                 "InternalName": "Artisan",
-                "AssemblyVersion": "7.15.0.1",
+                "AssemblyVersion": "7.15.0.2",
                 "Description": "The all-in-one crafting plugin.",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Artisan.png",
@@ -11221,7 +11239,7 @@
                 "Author": "кайт машина (Puni.sh), Lother",
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "7.15.0.88",
+                "AssemblyVersion": "7.15.0.89",
                 "Description": "躺在床上就能收取並指派雇員的遠航任務。",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/AutoRetainer.png",
@@ -11231,7 +11249,7 @@
                 "Author": "The Combat Reborn Team, Lother",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.15.0.49",
+                "AssemblyVersion": "7.15.0.50",
                 "Description": "繁體中文分支（TC-7.15）。提供 Boss 戰雷達、自動循環、冷卻計劃與 AI 功能，幫助您輕鬆應對各種 Boss 機制。",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/BossModReborn.png",
@@ -11241,27 +11259,47 @@
                 "Author": "Snowy, KangasZ, Lother",
                 "Name": "Eureka Helper",
                 "InternalName": "EurekaHelper",
-                "AssemblyVersion": "7.15.0.60",
+                "AssemblyVersion": "7.15.0.61",
                 "Description": "協助你進行優雷卡冒險的工具，已更新至《漂泊眾島》版本！輸入 /eurekahelper 開始使用。\n\n功能包含：\n- 遊戲內追蹤器 GUI\n- 副本追蹤器\n- 聖靈追蹤器\n- 魂武助手\n- 鬧鐘\n- 賺錢 NM 天氣時間提醒\n- 更多功能陸續推出",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/EurekaHelper.png",
                 "RepoUrl": "https://github.com/Lother/EurekaHelper"
             },
             {
+                "Author": "Critical_Impact, Lother",
+                "Name": "Allagan Tools",
+                "InternalName": "InventoryTools",
+                "AssemblyVersion": "7.15.0.1",
+                "Description": "Allagan Tool's primary purpose is to keep track of items across your characters/retainers/free company. With it's filter system you'll never lose track of items or not know where they should be sorted.\n\nWhile this is it's primary purpose, it has quite an exhaustive list of other features including:\n\t- Craft planning\n\t- Market board integration\n\t- Item highlighting in inventories when searching/sorting and picking ingredients for crafts\n\t- Item window that includes vendor and source information among other things\n\t- Duty/mob/airship/submarine windows that are fully searchable\n\t- A filtering system that lets you setup complex searches for specific items \n\t- Tooltip integration that'll let you see where the items are on hover",
+                "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/InventoryTools.png",
+                "RepoUrl": "https://github.com/Lother/InventoryTools"
+            },
+            {
                 "Author": "Latihas, Lother",
                 "Name": "LatihasChocobo",
                 "InternalName": "LatihasChocobo",
-                "AssemblyVersion": "7.15.0.6",
+                "AssemblyVersion": "7.15.0.7",
                 "Description": "自動陸行鳥競賽",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/LatihasChocobo.png",
                 "RepoUrl": "https://github.com/Lother/LatihasChocobo"
             },
             {
+                "Author": "NightmareXIV, Lother",
+                "Name": "Lifestream",
+                "InternalName": "Lifestream",
+                "AssemblyVersion": "7.15.0.1",
+                "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
+                "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Lifestream.png",
+                "RepoUrl": "https://github.com/Lother/Lifestream"
+            },
+            {
                 "Author": "apetih, Lother",
                 "Name": "Logogram Helper",
                 "InternalName": "LogogramHelper",
-                "AssemblyVersion": "7.15.0.4",
+                "AssemblyVersion": "7.15.0.5",
                 "Description": "進入聖言操縱者後，顯示優雷卡聖言技能所有可能組合的數量。",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/LogogramHelper.png",
@@ -11271,7 +11309,7 @@
                 "Author": "Taurenkey, Kagekazu, Lother",
                 "Name": "Saucy",
                 "InternalName": "Saucy",
-                "AssemblyVersion": "7.15.0.292",
+                "AssemblyVersion": "7.15.0.293",
                 "Description": "自動化部分金碟遊樂園小遊戲。",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Saucy.png",
@@ -11281,7 +11319,7 @@
                 "Author": "daemitus, croizat, Lother",
                 "Name": "Something Need Doing",
                 "InternalName": "SomethingNeedDoing",
-                "AssemblyVersion": "7.15.0.20",
+                "AssemblyVersion": "7.15.0.21",
                 "Description": "現在不只能用於生產，功能更多！",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/SomethingNeedDoing.png",
@@ -11291,7 +11329,7 @@
                 "Author": "NightmareXIV, Lother",
                 "Name": "Splatoon",
                 "InternalName": "Splatoon",
-                "AssemblyVersion": "7.15.0.1",
+                "AssemblyVersion": "7.15.0.2",
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Splatoon.png",
@@ -11301,17 +11339,27 @@
                 "Author": "MgAl2O4, Lother",
                 "Name": "TriadBuddy",
                 "InternalName": "TriadBuddy",
-                "AssemblyVersion": "7.15.0.11",
+                "AssemblyVersion": "7.15.0.12",
                 "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/TriadBuddy.png",
                 "RepoUrl": "https://github.com/Lother/FFTriadBuddyDalamud"
             },
             {
+                "Author": "veyn, Lother",
+                "Name": "vnavmesh",
+                "InternalName": "vnavmesh",
+                "AssemblyVersion": "7.15.0.2",
+                "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+                "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/vnavmesh.png",
+                "RepoUrl": "https://github.com/Lother/vnavmesh"
+            },
+            {
                 "Author": "Team Wrath, Lother",
                 "Name": "Wrath Combo",
                 "InternalName": "WrathCombo",
-                "AssemblyVersion": "7.15.0.7",
+                "AssemblyVersion": "7.15.0.8",
                 "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/WrathCombo.png",
@@ -12306,7 +12354,7 @@
                 "Description": "MeowMusic companion for enhanced functionality.",
                 "IconUrl": "https://raw.githubusercontent.com/Meowchestra/Whiskers/main/data/icon.png",
                 "RepoUrl": "https://github.com/Meowchestra/Whiskers",
-                "LastUpdate": 1782107142
+                "LastUpdate": 1784361698
             }
         ]
     },
@@ -15417,7 +15465,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784275053
+                "LastUpdate": 1784360293
             },
             {
                 "Author": "Risa and Contributors",
@@ -15472,7 +15520,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1783785572
+                "LastUpdate": 1784305491
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -15500,11 +15548,11 @@
                 "Author": "Caraxi",
                 "Name": "Simple Heels",
                 "InternalName": "SimpleHeels",
-                "AssemblyVersion": "0.11.1.7",
+                "AssemblyVersion": "0.11.1.8",
                 "Description": "Adjust the position of your character model",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
-                "LastUpdate": 1783324154
+                "LastUpdate": 1784356785
             }
         ],
         "repo_developer_name": "Ottermandias"
@@ -16742,7 +16790,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784145168
+                "LastUpdate": 1784377660
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16775,7 +16823,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784322057
+                "LastUpdate": 1784356849
             },
             {
                 "Author": "daemitus, kawaii",
@@ -17068,12 +17116,12 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "3.0.1.1",
+                "AssemblyVersion": "3.0.1.2",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
-                "LastUpdate": 1784197244
+                "LastUpdate": 1784376381
             }
         ]
     },
@@ -17087,12 +17135,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.251",
+                "AssemblyVersion": "0.1.0.252",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1784346439
+                "LastUpdate": 1784358439
             },
             {
                 "Author": "nainaiowo",
@@ -17109,11 +17157,11 @@
                 "Author": "nainaiowo",
                 "Name": "DMU Mits",
                 "InternalName": "DMUMits",
-                "AssemblyVersion": "0.1.0.10",
+                "AssemblyVersion": "0.1.0.11",
                 "Description": "Shows upcoming dmu mitigation based on fight timeline",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-mits",
-                "LastUpdate": 1784354399
+                "LastUpdate": 1784364632
             },
             {
                 "Author": "nainaiowo",
@@ -23124,12 +23172,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.8.1",
+                "AssemblyVersion": "0.9.8.2",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784334043
+                "LastUpdate": 1784364273
             },
             {
                 "Author": "XeldarAlz",
@@ -23198,12 +23246,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.8.1",
+                "AssemblyVersion": "0.9.8.2",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784334043
+                "LastUpdate": 1784364273
             }
         ]
     },
