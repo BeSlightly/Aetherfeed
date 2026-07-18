@@ -7,6 +7,7 @@ export interface ProcessedPlugin extends Plugin {
     plugin_api_levels_array: number[];
     plugin_last_updated_max_ts: number;
     is_closed_source?: boolean;
+    is_ai_attributed?: boolean;
     isPunish?: boolean;
     isAetherTek?: boolean;
     punishTier?: PunishTier;
@@ -119,6 +120,7 @@ export const processPlugins = (
                 let bestOccurrence = occurrencesToRank[0];
                 const allApiLevelsInGroup = new Set<number>();
                 let maxLastUpdate = 0;
+                let anyAiAttributed = false;
 
                 for (const occ of devOccurrences) {
                     const apiLevel = occ.pluginData._apiLevel || 0;
@@ -126,6 +128,8 @@ export const processPlugins = (
 
                     const currentTs = normalizeTimestampToMillis(occ.pluginData.LastUpdate || 0);
                     if (currentTs > maxLastUpdate) maxLastUpdate = currentTs;
+
+                    if (occ.pluginData.is_ai_attributed) anyAiAttributed = true;
 
                     if (hasPriorityOccurrence && !priorityRepoUrls.has(occ.repoData.repo_url)) {
                         continue;
@@ -145,7 +149,9 @@ export const processPlugins = (
                 const allApiLevelsArray = Array.from(allApiLevelsInGroup).sort((a, b) => b - a);
 
                 deduplicatedOccurrencesForIdentifier.push({
-                    pluginData: bestOccurrence.pluginData,
+                    pluginData: anyAiAttributed
+                        ? { ...bestOccurrence.pluginData, is_ai_attributed: true }
+                        : bestOccurrence.pluginData,
                     repoData: bestOccurrence.repoData,
                     _allApiLevelsFromRepo: allApiLevelsArray,
                     _maxApiLevel: allApiLevelsArray[0] || 0,

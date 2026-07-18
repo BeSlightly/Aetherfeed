@@ -12,6 +12,7 @@ export interface Plugin {
     DalamudApiLevel?: number | string;
     IconUrl?: string;
     is_closed_source?: boolean;
+    is_ai_attributed?: boolean;
     _apiLevel?: number;
 }
 

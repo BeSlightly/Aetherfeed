@@ -95,6 +95,11 @@ const Home: React.FC = () => {
                 tooltip: 'Hides plugins containing non-English characters in their name or description'
             },
             {
+                label: 'Hide AI-attributed plugins',
+                value: 'hide_ai',
+                tooltip: 'Hides plugins with detected or manually marked AI usage'
+            },
+            {
                 label: 'Hide plugin icons',
                 value: 'hide_icons',
                 tooltip: 'Prevents remote plugin icons from loading'
@@ -126,6 +131,7 @@ const Home: React.FC = () => {
         // Extract filters
         const apiFilters = selectedFilters.filter((f): f is number => typeof f === 'number');
         const isLatinOnly = selectedFilters.includes('latin_only');
+        const isHidingAi = selectedFilters.includes('hide_ai');
 
         // 2. API Level Filter
         if (apiFilters.length > 0) {
@@ -148,6 +154,10 @@ const Home: React.FC = () => {
                     !KOREAN_REGEX.test(desc)
                 );
             });
+        }
+
+        if (isHidingAi) {
+            result = result.filter(p => !p.is_ai_attributed);
         }
 
         // 4. Sorting

@@ -240,6 +240,29 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, showIcon, 
                                 <Code className="w-4 h-4" />
                             </a>
                         )}
+
+                        {plugin.is_ai_attributed && (
+                            <span
+                                className="inline-flex items-center gap-0.5 px-1 py-1.5 rounded-lg transition-colors text-violet-400/90 hover:text-violet-500 dark:text-violet-400/70 dark:hover:text-violet-300 hover:bg-violet-50 dark:hover:bg-violet-500/10"
+                                title="AI usage attributed"
+                                aria-label="AI usage attributed"
+                            >
+                                <svg
+                                    className="w-3.5 h-3.5"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    strokeWidth="2"
+                                    strokeLinecap="round"
+                                    strokeLinejoin="round"
+                                    aria-hidden="true"
+                                >
+                                    <path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9L12 3z" />
+                                    <path d="M19 15l.9 2.1L22 18l-2.1.9L19 21l-.9-2.1L16 18l2.1-.9L19 15z" />
+                                </svg>
+                                <span className="text-[10px] font-bold uppercase tracking-wide leading-none">AI</span>
+                            </span>
+                        )}
                     </div>
 
                     {(plugin.discordUrl || tier || plugin.isAetherTek) && (
