@@ -557,12 +557,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.8",
+                "AssemblyVersion": "0.4.0.1",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784323650
+                "LastUpdate": 1784345372
             },
             {
                 "Author": "DhogGPT",
@@ -612,12 +612,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.1.15",
+                "AssemblyVersion": "1.1.1.17",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1784304328
+                "LastUpdate": 1784350574
             },
             {
                 "Author": "DhogGPT",
@@ -2519,12 +2519,12 @@
                 "Author": "bdg",
                 "Name": "CBT",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.193.0.13",
+                "AssemblyVersion": "69.193.0.17",
                 "Description": "Tweaks that are sometimes simple, sometimes not.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1784325246
+                "LastUpdate": 1784352861
             },
             {
                 "Author": "bdg",
@@ -2560,11 +2560,21 @@
                 "Author": "bdg",
                 "Name": "Mod Guard",
                 "InternalName": "ModGuard",
-                "AssemblyVersion": "0.0.0.9",
+                "AssemblyVersion": "0.0.0.10",
                 "Description": "Keeps your Penumbra mods private: when a mod-sync plugin (Lightless, Snowcloak, Sphene, PlayerSync, or any Mare Synchronos fork - the watch list is editable) is loaded, Mod Guard hides all your Penumbra mods by force-assigning an empty temporary collection to your character, so sync plugins have nothing to share. Once the sync plugins are gone (or on demand), it restores your previous Penumbra setup exactly as it was - your real collection and mod settings are never touched. Use /modguard to open the control window. Requires Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/ModGuard",
-                "LastUpdate": 1784224809
+                "LastUpdate": 1784352750
+            },
+            {
+                "Author": "bdg",
+                "Name": "Mod Snap",
+                "InternalName": "ModSnap",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "Adds a 'Save Mods + Appearance' entry to the right-click menu on players (and a /modsnap command for your current target). It snapshots everything currently applied to that character - including mods streamed in by sync plugins like PlayerSync or Mare forks - by driving Penumbra's own Character Pack (PCP) export and immediately installing the result: the mods land in your Penumbra library under the PCP folder, a 'PCP/<name>' collection is created and assigned, and Glamourer creates a ready-to-apply design named after the player (with the mod already associated). The .pcp file itself is kept in Penumbra's export folder so you can archive or share it. Requires a current Penumbra with Character Pack support; Glamourer with 'Attach to PCP' enabled (default) for the design.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
+                "LastUpdate": 1784352861
             },
             {
                 "Author": "bdg",
@@ -5482,15 +5492,26 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
+                "Author": "NightmareXIV, kawaii；简中维护：Endfish",
+                "Name": "AutoRetainer-CN",
+                "InternalName": "AutoRetainer",
+                "AssemblyVersion": "4.6.1.10",
+                "Description": "AutoRetainer 简体中文维护分支。自动收取并重新派遣雇员探险，也可管理部队潜水艇等探索任务。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+                "RepoUrl": "https://github.com/endfish/AutoRetainer-CN",
+                "LastUpdate": 1784339671
+            },
+            {
                 "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
                 "Name": "Brio-CN",
                 "InternalName": "Brio-CN",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.2.0",
                 "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/endfish/Brio-CN/zh-CN/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/endfish/Brio-CN",
-                "LastUpdate": 1784044906
+                "LastUpdate": 1784345913
             },
             {
                 "Author": "kawaii, 汉化: Endfish",
@@ -6269,12 +6290,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.15",
+                "AssemblyVersion": "7.5.1.17",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1784329670
+                "LastUpdate": 1784351774
             },
             {
                 "Author": "Churin",
@@ -8860,7 +8881,7 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "Skyrim Compass",
                 "InternalName": "SkyrimCompass",
-                "AssemblyVersion": "1.5.0.6",
+                "AssemblyVersion": "1.5.0.7",
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/MeowyUtils",
@@ -8888,7 +8909,7 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "Skyrim Compass",
                 "InternalName": "SkyrimCompass",
-                "AssemblyVersion": "1.5.0.6",
+                "AssemblyVersion": "1.5.0.7",
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/SkyrimCompass",
@@ -8902,7 +8923,7 @@
                 "Description": "Mirrors your live Moodles and Loci statuses onto each other, so whichever sync plugin you use (Snowcloak, Sundouleia, or anything else) picks up a unified status regardless of which backend it natively reads.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/MeowyUtils",
-                "LastUpdate": 1784007609
+                "LastUpdate": 1784341407
             }
         ]
     },
@@ -10019,7 +10040,7 @@
                 "Author": "croizat",
                 "Name": "CBT",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.193.0.0",
+                "AssemblyVersion": "69.194.0.0",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
@@ -10030,7 +10051,7 @@
                 "Author": "veyn, xan_0",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.26",
+                "AssemblyVersion": "7.5.1.27",
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
@@ -10063,12 +10084,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.15",
+                "AssemblyVersion": "7.5.1.17",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1784329670
+                "LastUpdate": 1784351774
             },
             {
                 "Author": "Team Wrath",
@@ -11835,12 +11856,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.3.1.8",
+                "AssemblyVersion": "0.4.0.1",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784323650
+                "LastUpdate": 1784345372
             }
         ]
     },
@@ -11930,12 +11951,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.1.15",
+                "AssemblyVersion": "1.1.1.17",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1784304328
+                "LastUpdate": 1784350574
             }
         ]
     },
@@ -12465,23 +12486,23 @@
                 "Author": "Miruku",
                 "Name": "PromeRotation API12",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.2.5.1",
+                "AssemblyVersion": "1.2.6.1",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1784170485
+                "LastUpdate": 1784336499
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.5.6.1",
+                "AssemblyVersion": "1.5.7.1",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1784170485
+                "LastUpdate": 1784336499
             }
         ]
     },
@@ -12855,12 +12876,12 @@
                 "Author": "MTVirux",
                 "Name": "Crystal Terror",
                 "InternalName": "CrystalTerror",
-                "AssemblyVersion": "1.7.0.6",
+                "AssemblyVersion": "1.7.0.7",
                 "Description": "A plugin to track crystal across your FFXIV account.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/CrystalTerror",
-                "LastUpdate": 1783823600
+                "LastUpdate": 1784340391
             }
         ]
     },
@@ -12997,11 +13018,11 @@
                 "Author": "MTVirux",
                 "Name": "RelicTerror",
                 "InternalName": "RelicTerror",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.2",
                 "Description": "Track FFXIV relic weapon quest progress across all expansion series.\n\nDM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/RelicTerror",
-                "LastUpdate": 1784323044
+                "LastUpdate": 1784335498
             }
         ]
     },
@@ -13573,7 +13594,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1784170147
+                "LastUpdate": 1784342624
             }
         ]
     },
@@ -15838,24 +15859,6 @@
         ]
     },
     {
-        "repo_developer_name": "Petra105",
-        "repo_url": "https://raw.githubusercontent.com/Petra105/MediumSweep/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Petra105/MediumSweep",
-        "repo_name": "MediumSweep",
-        "plugins": [
-            {
-                "Author": "Melody Pendragon",
-                "Name": "MediumSweep",
-                "InternalName": "MediumSweep",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "Scans all 30 wards of the selected residential district, finds owned and built Medium homes that allow visitors, marks Designer Home listings, and exports a Lifestream-compatible address book.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Petra105/MediumSweep",
-                "LastUpdate": 1784316333
-            }
-        ]
-    },
-    {
         "repo_developer_name": "pffxivtools",
         "repo_url": "https://raw.githubusercontent.com/pffxivtools/ffxiv-bard-plugins-linux/main/pluginmaster.json",
         "repo_source_url": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux",
@@ -15875,11 +15878,11 @@
                 "Author": "Zune",
                 "Name": "Master Of Puppets",
                 "InternalName": "MasterOfPuppets",
-                "AssemblyVersion": "1.15.0.222",
+                "AssemblyVersion": "1.15.0.223",
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1783876148
+                "LastUpdate": 1784325860
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
@@ -17084,12 +17087,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.250",
+                "AssemblyVersion": "0.1.0.251",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1784266206
+                "LastUpdate": 1784346439
             },
             {
                 "Author": "nainaiowo",
@@ -17104,14 +17107,24 @@
             },
             {
                 "Author": "nainaiowo",
+                "Name": "DMU Mits",
+                "InternalName": "DMUMits",
+                "AssemblyVersion": "0.1.0.10",
+                "Description": "Shows upcoming dmu mitigation based on fight timeline",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nainaiowo/dmu-mits",
+                "LastUpdate": 1784354399
+            },
+            {
+                "Author": "nainaiowo",
                 "Name": "DMU Helper",
                 "InternalName": "DMUP4DebuffHelper",
-                "AssemblyVersion": "0.1.0.10",
+                "AssemblyVersion": "0.1.0.13",
                 "Description": "Shows compact DMU P4 debuff timers with real/fake callouts.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/162",
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-p4-debuff-helper",
-                "LastUpdate": 1783904119
+                "LastUpdate": 1784344934
             }
         ]
     },
@@ -23111,7 +23124,7 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.8.0",
+                "AssemblyVersion": "0.9.8.1",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
