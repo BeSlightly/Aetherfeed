@@ -293,7 +293,8 @@
                 "Description": "Connect to an Adventure Machine server to manage characters, worlds, and live roleplay sessions with AI dungeon master support. Auto-populates character data from your current FFXIV game state.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/adventuremachine/dalamud-repo",
-                "LastUpdate": 1773560303
+                "LastUpdate": 1773560303,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -1072,12 +1073,12 @@
                 "Author": "AlexFlipnote",
                 "Name": "The Holiest Fluffiness",
                 "InternalName": "HoliestFluffiness",
-                "AssemblyVersion": "0.8.0",
+                "AssemblyVersion": "0.8.1",
                 "Description": "A tweak plugin born for the free company 'The Holiest Fluffiness', now open for all to enjoy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AlexFlipnote/XIV_HolyPlugin/master/HoliestFluffiness/Images/icon.png",
                 "RepoUrl": "https://github.com/AlexFlipnote/XIV_HolyPlugin",
-                "LastUpdate": 1784327559
+                "LastUpdate": 1784398437
             }
         ]
     },
@@ -1155,12 +1156,12 @@
                 "Author": "WonderlandDev",
                 "Name": "Wind-Up Key",
                 "InternalName": "WindUpKey",
-                "AssemblyVersion": "0.2.0.2",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "A (hopefully) simple plugin. Dolls need winding, and winders can wind up dolls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/key.png",
                 "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
-                "LastUpdate": 1784302158
+                "LastUpdate": 1784390901
             }
         ]
     },
@@ -1442,7 +1443,8 @@
                 "Description": "Fork build of AutoMarket Pro with retainer inventory scanning, sellability-aware Universalis ranking, filtered list/vendor modes, and marketboard automation while upstream changes are pending.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ankhito/AutomarketPro",
-                "LastUpdate": 1782391128
+                "LastUpdate": 1782391128,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Ankhito",
@@ -1790,7 +1792,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/ArcanineLS/DalamudPluginRepo/raw/master/images/icon.png",
                 "RepoUrl": "https://github.com/ArcanineLS/HrothgarMakeCoin",
-                "LastUpdate": 1784088577
+                "LastUpdate": 1784088577,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Bancho",
@@ -1801,7 +1804,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/ArcanineLS/DalamudPluginRepo/raw/master/images/icon.png",
                 "RepoUrl": "https://github.com/ArcanineLS/HrothgarScent",
-                "LastUpdate": 1784364448
+                "LastUpdate": 1784364448,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -2000,7 +2004,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ashylila/TheCollector/refs/heads/master/icon.png",
                 "RepoUrl": "https://github.com/Ashylila/TheCollector",
-                "LastUpdate": 1782244579
+                "LastUpdate": 1782244579,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -2324,7 +2329,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/auxee/AuxEmotion/main/plugin_icon.png",
                 "RepoUrl": "https://github.com/auxee/AuxEmotion",
-                "LastUpdate": 1779016473
+                "LastUpdate": 1779016473,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Auxie",
@@ -2335,7 +2341,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/auxee/AuxMarketboard/main/AuxMarketboard/plugin_icon.png",
                 "RepoUrl": "https://github.com/auxee/AuxMarketboard",
-                "LastUpdate": 1779017966
+                "LastUpdate": 1779017966,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -2510,85 +2517,6 @@
         ]
     },
     {
-        "repo_developer_name": "bdgarcia",
-        "repo_url": "https://raw.githubusercontent.com/bdgarcia/CWLSGoTo/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/bdgarcia/CWLSGoTo",
-        "repo_name": "CWLSGoTo",
-        "plugins": [
-            {
-                "Author": "bdg",
-                "Name": "CBT",
-                "InternalName": "Automaton",
-                "AssemblyVersion": "69.193.0.17",
-                "Description": "Tweaks that are sometimes simple, sometimes not.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
-                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1784352861
-            },
-            {
-                "Author": "bdg",
-                "Name": "CWLS Go To",
-                "InternalName": "CWLSGoTo",
-                "AssemblyVersion": "0.0.0.8",
-                "Description": "Watches Cross-world Linkshell (CWLS1/CWLS2) chat for messages containing a map link and appends a clickable [Go To] link. Clicking it teleports you to the nearest aetheryte via the Teleporter plugin, hopping to the correct world/data center first via the Lifestream plugin if the message points to a different server.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/SamplePlugin",
-                "LastUpdate": 1783220929
-            },
-            {
-                "Author": "bdg",
-                "Name": "Desynth All Command",
-                "InternalName": "DesynthAllCommand",
-                "AssemblyVersion": "0.0.0.6",
-                "Description": "Adds a /desynthall command that opens the game's desynthesis (materia extraction) window and enables PandorasBox's \"Desynth All\" feature so its button is ready to use. Requires the PandorasBox plugin to be installed.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/DesynthAllCommand",
-                "LastUpdate": 1783619088
-            },
-            {
-                "Author": "bdg",
-                "Name": "Logout On Tell",
-                "InternalName": "LogoutOnTell",
-                "AssemblyVersion": "0.0.0.3",
-                "Description": "When enabled, automatically logs your character out (with confirmation dialog handled) as soon as you receive a tell (private message) from anyone. Toggle it with /logoutontell (or /logoutontell on|off|status). Always starts disabled: the switch resets every time you log in, so you arm it deliberately each session.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/LogoutOnTell",
-                "LastUpdate": 1783755791
-            },
-            {
-                "Author": "bdg",
-                "Name": "Mod Guard",
-                "InternalName": "ModGuard",
-                "AssemblyVersion": "0.0.0.10",
-                "Description": "Keeps your Penumbra mods private: when a mod-sync plugin (Lightless, Snowcloak, Sphene, PlayerSync, or any Mare Synchronos fork - the watch list is editable) is loaded, Mod Guard hides all your Penumbra mods by force-assigning an empty temporary collection to your character, so sync plugins have nothing to share. Once the sync plugins are gone (or on demand), it restores your previous Penumbra setup exactly as it was - your real collection and mod settings are never touched. Use /modguard to open the control window. Requires Penumbra.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/ModGuard",
-                "LastUpdate": 1784352750
-            },
-            {
-                "Author": "bdg",
-                "Name": "Mod Snap",
-                "InternalName": "ModSnap",
-                "AssemblyVersion": "0.0.0.1",
-                "Description": "Adds a 'Save Mods + Appearance' entry to the right-click menu on players (and a /modsnap command for your current target). It snapshots everything currently applied to that character - including mods streamed in by sync plugins like PlayerSync or Mare forks - by driving Penumbra's own Character Pack (PCP) export and immediately installing the result: the mods land in your Penumbra library under the PCP folder, a 'PCP/<name>' collection is created and assigned, and Glamourer creates a ready-to-apply design named after the player (with the mod already associated). The .pcp file itself is kept in Penumbra's export folder so you can archive or share it. Requires a current Penumbra with Character Pack support; Glamourer with 'Attach to PCP' enabled (default) for the design.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo",
-                "LastUpdate": 1784352861
-            },
-            {
-                "Author": "bdg",
-                "Name": "Typo Guard",
-                "InternalName": "TypoGuard",
-                "AssemblyVersion": "0.0.0.1",
-                "Description": "On Latin American keyboard layouts, / is Shift+7, so a missed Shift sends \"7artisan\" into chat instead of running /artisan. Typo Guard intercepts outgoing chat and blocks any message that starts with a 7 followed by a letter, printing what it blocked instead of sending it. If you really meant to send such a message, send it again within 5 seconds and it goes through. Toggle with /typoguard (also accepts on/off/status); the setting persists.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/bdgarcia/CWLSGoTo/tree/master/TypoGuard",
-                "LastUpdate": 1784078293
-            }
-        ]
-    },
-    {
         "repo_developer_name": "beer-psi",
         "repo_url": "https://raw.githubusercontent.com/beer-psi/FFLogsUploaderPlugin/master/repo.json",
         "repo_source_url": "https://github.com/beer-psi/FFLogsUploaderPlugin",
@@ -2747,12 +2675,13 @@
                 "Author": "Asphodel",
                 "Name": "AutoMarket Pro",
                 "InternalName": "AutomarketPro",
-                "AssemblyVersion": "1.0.0.14",
+                "AssemblyVersion": "1.0.0.19",
                 "Description": "Automates inventory scanning, marketboard listing, and vendor selling using Universalis data and retainer control.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/bimilbimil/AutomarketPro/main/automarketlogo_icon_64.png",
                 "RepoUrl": "https://github.com/bimilbimil/AutomarketPro",
-                "LastUpdate": 1780953857
+                "LastUpdate": 1784386451,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -2771,7 +2700,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/bimilbimil/GlamLevels/main/glamlevels.png",
                 "RepoUrl": "https://github.com/bimilbimil/GlamLevels",
-                "LastUpdate": 1783086849
+                "LastUpdate": 1783086849,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -2790,7 +2720,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/bimilbimil/GlamShuffle/main/glamshuffle.png",
                 "RepoUrl": "https://github.com/bimilbimil/GlamShuffle",
-                "LastUpdate": 1783125474
+                "LastUpdate": 1783125474,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -3008,7 +2939,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/BluntEXE/PenumbraSort/master/images/icon.png",
                 "RepoUrl": "https://github.com/BluntEXE/PenumbraSort",
-                "LastUpdate": 1783591383
+                "LastUpdate": 1783591383,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -3027,7 +2959,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/BluntEXE/StarfallStudio/main/images/icon.png",
                 "RepoUrl": "https://github.com/BluntEXE/StarfallStudio",
-                "LastUpdate": 1783349446
+                "LastUpdate": 1783349446,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -3046,7 +2979,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/BluntEXE/XIVVenueManagerSync/master/images/icon.png",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
-                "LastUpdate": 1782152759
+                "LastUpdate": 1782152759,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -3064,7 +2998,8 @@
                 "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bonkbank45/BonkChat",
-                "LastUpdate": 1783890847
+                "LastUpdate": 1783890847,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -3082,7 +3017,8 @@
                 "Description": "Track live Deathroll games with a real-time danger meter and animated stick-figure battle scene. Run full tournaments with single or double elimination brackets in V-bracket or left-to-right layouts. The relay system broadcasts your bracket to spectators via /say with a 6-character code and syncs live to a web viewer at tometools.com/bracket — no plugin required for spectators. Venue-tagged leaderboards track wins, losses, net gil, and win rates across all your events. Roll button auto-sends /random when it is your turn. Games and history persist between sessions.",
                 "IconUrl": "https://tometools.com/shared/icons/DeathrollManagerIcon.png",
                 "RepoUrl": "https://github.com/BoujeeBecky/Deathroll_Manager",
-                "LastUpdate": 1781831229
+                "LastUpdate": 1781831229,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -4458,11 +4394,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "4.97.0.0",
+                "AssemblyVersion": "5.11.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1784367703
+                "LastUpdate": 1784399204
             }
         ]
     },
@@ -6788,12 +6724,12 @@
                 "Author": "gerulla",
                 "Name": "FullParty",
                 "InternalName": "FullParty",
-                "AssemblyVersion": "0.1.4.0",
+                "AssemblyVersion": "0.1.6.0",
                 "Description": "Dalamud Plugin Companion for FullParty.gg",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
-                "LastUpdate": 1784230168
+                "LastUpdate": 1784395538
             }
         ]
     },
@@ -9356,6 +9292,25 @@
         ]
     },
     {
+        "repo_developer_name": "karkandcoypp",
+        "repo_url": "https://raw.githubusercontent.com/karkandcoypp/FFXIV-Ultrawide-Cutscenes/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/karkandcoypp/FFXIV-Ultrawide-Cutscenes",
+        "repo_name": "FFXIV-Ultrawide-Cutscenes",
+        "plugins": [
+            {
+                "Author": "Carcosa Lyuman",
+                "Name": "Ultrawide Cutscenes Community",
+                "InternalName": "Dalamud.FullscreenCutscenes.Community",
+                "AssemblyVersion": "1.1.0.2",
+                "Description": "A community-maintained fork that removes 16:9 letterboxing from FFXIV cutscenes on ultrawide displays.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/karkandcoypp/FFXIV-Ultrawide-Cutscenes/main/Dalamud.FullscreenCutscenes/icon.png",
+                "RepoUrl": "https://github.com/karkandcoypp/FFXIV-Ultrawide-Cutscenes",
+                "LastUpdate": 1784383487
+            }
+        ]
+    },
+    {
         "repo_url": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Karlin-Z/DalamudPlugins",
         "repo_name": "DalamudPlugins",
@@ -10091,12 +10046,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.8",
+                "AssemblyVersion": "15.306.0.10",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784145168
+                "LastUpdate": 1784392966
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10118,7 +10073,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784322057
+                "LastUpdate": 1784397523
             }
         ]
     },
@@ -10129,15 +10084,15 @@
         "repo_developer_name": "ktisis-tools",
         "plugins": [
             {
-                "Author": "Chirp, Cazzar, Bwuny and contributors",
+                "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
                 "Name": "Ktisis",
                 "InternalName": "Ktisis",
-                "AssemblyVersion": "0.2.31.3",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1783785572
+                "LastUpdate": 1784396821
             }
         ]
     },
@@ -15498,7 +15453,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1784214555
+                "LastUpdate": 1784384618
             },
             {
                 "Author": "Anna",
@@ -15512,15 +15467,15 @@
                 "LastUpdate": 1780162938
             },
             {
-                "Author": "Chirp, Cazzar, Bwuny and contributors",
+                "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
                 "Name": "Ktisis",
                 "InternalName": "Ktisis",
-                "AssemblyVersion": "0.2.31.3",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1784305491
+                "LastUpdate": 1784396821
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -15542,7 +15497,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1784214745
+                "LastUpdate": 1784382150
             },
             {
                 "Author": "Caraxi",
@@ -16050,7 +16005,6 @@
                 "AssemblyVersion": "0.1.3.2",
                 "Description": "Shows a beacon on the position of the last <pos> or <flag> in chat. Use /northstar to configure",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/fe/Earthly_Star.png",
                 "RepoUrl": "https://github.com/Pistachio-dev/NorthStar",
                 "LastUpdate": 1779352992
             },
@@ -16176,7 +16130,6 @@
                 "AssemblyVersion": "0.1.3.2",
                 "Description": "Shows a beacon on the position of the last <pos> or <flag> in chat. Use /northstar to configure",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/fe/Earthly_Star.png",
                 "RepoUrl": "https://github.com/Pistachio-dev/NorthStar",
                 "LastUpdate": 1779352992
             }
@@ -16357,11 +16310,11 @@
                 "Author": "Pyon",
                 "Name": "PyonPix",
                 "InternalName": "PyonPix",
-                "AssemblyVersion": "1.1.0.1",
+                "AssemblyVersion": "1.2.0.1",
                 "Description": "Spawn screens in the world to display media content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/priprii/PyonPix",
-                "LastUpdate": 1783355736
+                "LastUpdate": 1784382414
             },
             {
                 "Author": "Pyon",
@@ -16785,12 +16738,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.8",
+                "AssemblyVersion": "15.306.0.10",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784377660
+                "LastUpdate": 1784392966
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16823,7 +16776,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784356849
+                "LastUpdate": 1784397523
             },
             {
                 "Author": "daemitus, kawaii",
@@ -16906,7 +16859,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1784222800
+                "LastUpdate": 1784392361
             }
         ]
     },
@@ -17249,7 +17202,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/157",
                 "RepoUrl": "https://github.com/OOFGamesss/ChocoboRacing",
-                "LastUpdate": 1783682207
+                "LastUpdate": 1784382737
             },
             {
                 "Author": "OOF Games, Asuna",
@@ -19089,12 +19042,12 @@
                 "Author": "Rowsai",
                 "Name": "Phase DPS Checker",
                 "InternalName": "PhaseDpsChecker",
-                "AssemblyVersion": "0.7.1.0",
+                "AssemblyVersion": "0.8.0.0",
                 "Description": "敵がターゲット可能な区間をフェーズとして、パーティメンバーのDPS、Crit/DH率、最大ダメージ、GCD稼働率、アクション別のダメージと回復量を表示します。全滅・コンテンツクリア時の戦闘履歴にも対応します。\nコマンド: /phasedps\nアイコン画像の調整に生成AIを使用しています。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/PhaseDpsChecker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
-                "LastUpdate": 1784279576
+                "LastUpdate": 1784401773
             }
         ]
     },
@@ -21013,12 +20966,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.2603",
+                "AssemblyVersion": "7.5.1.2604",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1784131195
+                "LastUpdate": 1784381029
             },
             {
                 "Author": "Kouzukii",
@@ -22115,12 +22068,12 @@
                 "Author": "The PlayerSync Team",
                 "Name": "PlayerSync",
                 "InternalName": "MareSempiterne",
-                "AssemblyVersion": "1.15.3.5",
+                "AssemblyVersion": "1.15.3.8",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1784187940
+                "LastUpdate": 1784401615
             }
         ]
     },
@@ -22308,7 +22261,7 @@
                 "Description": "Define rules: when a player targets you and performs an emote, automatically perform an emote back.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Valiice/EmoteReactor",
-                "LastUpdate": 1783144150
+                "LastUpdate": 1784397237
             },
             {
                 "Author": "Vali",
@@ -22912,12 +22865,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.6.0",
+                "AssemblyVersion": "1.1.7.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1783929568
+                "LastUpdate": 1784386583
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
