@@ -3840,7 +3840,8 @@
                 "Description": "FFXIV 繁中藏寶圖協作插件，與網頁版 xiv-tc-treasure-finder 相通，遊戲內與網頁使用者可混合組隊、即時同步同一份清單。支援:打開藏寶圖時自動選取、在遊戲內開地圖打旗標、以 /p 發送可點擊地圖連結、順序調整、完成勾選、備註與負責玩家指派等。指令:/pth。(API12 版本，適用於繁中服)",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/cycleapple/xiv-party-treasure-helper",
-                "LastUpdate": 1777254919
+                "LastUpdate": 1777254919,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -3974,7 +3975,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/armoire-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/ArmoireAutoFill/latest",
-                "LastUpdate": 1783034347
+                "LastUpdate": 1783034347,
+                "is_ai_attributed": true
             },
             {
                 "Author": "dajoey",
@@ -3985,7 +3987,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/autopotion-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/AutoPotion/latest",
-                "LastUpdate": 1783037452
+                "LastUpdate": 1783037452,
+                "is_ai_attributed": true
             },
             {
                 "Author": "dajoey",
@@ -4240,7 +4243,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/DeadlyDeathAngel/Luminus-Bridge/main/images/icon.png",
                 "RepoUrl": "https://github.com/DeadlyDeathAngel/Luminus-Bridge",
-                "LastUpdate": 1783571504
+                "LastUpdate": 1783571504,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -4398,7 +4402,8 @@
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1784399204
+                "LastUpdate": 1784399204,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -4989,7 +4994,8 @@
                 "Description": "Plays a custom sound effect whenever you gain Kefka's \"Double-Trouble Trap\" debuff. The trigger status name, volume, and sound file are all configurable. Use /doubletrouble to open settings, or /doubletrouble test to preview the sound.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ebhemmanuel/yippie",
-                "LastUpdate": 1780587773
+                "LastUpdate": 1780587773,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -5082,7 +5088,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/elchupi/AnimSwapper/main/images/icon.png",
                 "RepoUrl": "https://github.com/elchupi/AnimSwapper",
-                "LastUpdate": 1778881228
+                "LastUpdate": 1778881228,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -5101,7 +5108,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/elchupi/Modern-XIV/main/images/icon.png",
                 "RepoUrl": "https://github.com/elchupi/Modern-XIV",
-                "LastUpdate": 1779659199
+                "LastUpdate": 1779659199,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -17515,12 +17523,12 @@
                 "Author": "veyn, croizat",
                 "Name": "V(ery) Island",
                 "InternalName": "visland",
-                "AssemblyVersion": "0.0.0.149",
+                "AssemblyVersion": "0.0.0.150",
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/28",
                 "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-                "LastUpdate": 1784278685
+                "LastUpdate": 1784403269
             },
             {
                 "Author": "veyn, xan_0",
@@ -19210,12 +19218,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.5.0.26",
+                "AssemblyVersion": "0.5.1.24",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1784211909
+                "LastUpdate": 1784402432
             }
         ]
     },
