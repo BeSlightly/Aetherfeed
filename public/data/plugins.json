@@ -458,7 +458,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/154",
                 "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-                "LastUpdate": 1784238208
+                "LastUpdate": 1784238208,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -558,12 +559,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.4.0.1",
+                "AssemblyVersion": "0.4.1.0",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784345372,
+                "LastUpdate": 1784473392,
                 "is_ai_attributed": true
             },
             {
@@ -1104,12 +1105,12 @@
                 "Author": "AlexFlipnote",
                 "Name": "The Holiest Fluffiness",
                 "InternalName": "HoliestFluffiness",
-                "AssemblyVersion": "0.9.2",
+                "AssemblyVersion": "0.10.0",
                 "Description": "A tweak plugin born for the free company 'The Holiest Fluffiness', now open for all to enjoy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AlexFlipnote/XIV_HolyPlugin/master/HoliestFluffiness/Images/icon.png",
                 "RepoUrl": "https://github.com/AlexFlipnote/XIV_HolyPlugin",
-                "LastUpdate": 1784426740
+                "LastUpdate": 1784468978
             }
         ]
     },
@@ -4422,11 +4423,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.11.0.0",
+                "AssemblyVersion": "5.25.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1784399204,
+                "LastUpdate": 1784486082,
                 "is_ai_attributed": true
             }
         ]
@@ -5978,8 +5979,9 @@
                 "Description": "创建一个独立的系统级预览窗口，将纯净的游戏画面（可选含/不含 UI）输出给 OBS 捕获。支持隐身模式，窗口可从任务栏和 Alt+Tab 中隐藏，同时仍被 OBS 识别。支持多语言。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/extrant/I-Ching/refs/heads/main/CleanWindow.png",
-                "RepoUrl": "https://github.com/SirenPVP/CleanWindow",
-                "LastUpdate": 1782826675
+                "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/CleanWindow.zip",
+                "LastUpdate": 1782826675,
+                "is_closed_source": true
             },
             {
                 "Author": "Siren",
@@ -5989,8 +5991,9 @@
                 "Description": "通过条件触发实现郊狼的控制，对接Coyote。顺带支持一些RP小功能。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/Coyote.png",
-                "RepoUrl": "https://github.com/extrant/Coyote-FFXiv",
-                "LastUpdate": 1777739687
+                "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/Coyote-FFXiv.zip",
+                "LastUpdate": 1777739676,
+                "is_closed_source": true
             },
             {
                 "Author": "Siren",
@@ -6011,7 +6014,7 @@
                 "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/GposeResizer.png",
-                "RepoUrl": "https://github.com/extrant?tab=repositories",
+                "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/GposeResizer.zip",
                 "LastUpdate": 1777738627
             },
             {
@@ -6022,8 +6025,9 @@
                 "Description": "我是一个FF14学习插件(国服API15)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/bagua.png",
-                "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1782826679
+                "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/I-Ching-GL.zip",
+                "LastUpdate": 1777642249,
+                "is_closed_source": true
             },
             {
                 "Author": "Siren",
@@ -6033,8 +6037,9 @@
                 "Description": "战场小助手",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/zhouyi.png",
-                "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1782826679
+                "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/Zhouyi.zip",
+                "LastUpdate": 1758562071,
+                "is_closed_source": true
             }
         ]
     },
@@ -7453,7 +7458,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1784372490
+                "LastUpdate": 1784466204
             },
             {
                 "Author": "Haselnussbomber",
@@ -8153,36 +8158,6 @@
         ]
     },
     {
-        "repo_url": "https://raw.githubusercontent.com/IseProgram/pluginsJson/main/plugin.json",
-        "repo_source_url": "https://github.com/IseProgram/pluginsJson",
-        "repo_name": "pluginsJson",
-        "repo_developer_name": "IseProgram",
-        "plugins": [
-            {
-                "Author": "LeonBlade",
-                "Name": "Burning Down the House",
-                "InternalName": "BDTHPlugin",
-                "AssemblyVersion": "1.6.8",
-                "Description": "Move around housing items with coordinates and allows you to place anywhere.",
-                "DalamudApiLevel": 11,
-                "IconUrl": "https://raw.githubusercontent.com/LeonBlade/BDTHPlugin/main/icon.png",
-                "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
-                "LastUpdate": 1777765740
-            },
-            {
-                "Author": "Aireil",
-                "Name": "FF Logs Viewer",
-                "InternalName": "FFLogsViewer",
-                "AssemblyVersion": "2.4.2.1",
-                "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-                "DalamudApiLevel": 14,
-                "IconUrl": "https://raw.githubusercontent.com/Aireil/FFLogsViewer/master/res/icon.png",
-                "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-                "LastUpdate": 1784305193
-            }
-        ]
-    },
-    {
         "repo_developer_name": "ItsANoBrainer",
         "repo_url": "https://raw.githubusercontent.com/ItsANoBrainer/MyDalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/ItsANoBrainer/MyDalamudPlugins",
@@ -8443,7 +8418,9 @@
                 "Description": "Scans nearby player characters and applies \"The Emperor's New Robe\" and \"The Emperor's New Breeches\" to female characters using Glamourer's IPC.requires Penumbra and Glamourer.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jayrotto/Perverts-Paradise",
-                "LastUpdate": 1784023602
+                "LastUpdate": 1784023602,
+                "is_closed_source": true,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -9655,12 +9632,12 @@
                 "Author": "kernelcurry",
                 "Name": "PopotoVox",
                 "InternalName": "PopotoVox",
-                "AssemblyVersion": "0.9.6.0",
+                "AssemblyVersion": "0.9.7.0",
                 "Description": "Distinct, LLM-cast synthetic voices for FFXIV NPCs, rendered locally.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kernelcurry/popotovox-plugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/kernelcurry/popotovox-plugin",
-                "LastUpdate": 1784425025
+                "LastUpdate": 1784479812
             }
         ]
     },
@@ -10152,12 +10129,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.11",
+                "AssemblyVersion": "15.306.0.12",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784434827
+                "LastUpdate": 1784480149
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10179,7 +10156,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784454791
+                "LastUpdate": 1784482394
             }
         ]
     },
@@ -11278,358 +11255,6 @@
         ]
     },
     {
-        "repo_developer_name": "Lother",
-        "repo_url": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/repo.json",
-        "repo_source_url": "https://github.com/Lother/DalamudPluginsTC",
-        "repo_name": "DalamudPluginsTC",
-        "plugins": [
-            {
-                "Author": "Ottermandias, Lother",
-                "Name": "Accountant",
-                "InternalName": "Accountant",
-                "AssemblyVersion": "7.15.0.75",
-                "Description": "記錄多名角色的雇員、飛艇、潛水艇、以太之輪與作物計時器，\n以及其他各種雜項任務進度。",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Accountant.png",
-                "RepoUrl": "https://github.com/Lother/Accountant"
-            },
-            {
-                "Author": "Taurenkey (Puni.sh), Lother",
-                "Name": "Artisan",
-                "InternalName": "Artisan",
-                "AssemblyVersion": "7.15.0.3",
-                "Description": "The all-in-one crafting plugin.",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Artisan.png",
-                "RepoUrl": "https://github.com/Lother/Artisan"
-            },
-            {
-                "Author": "кайт машина (Puni.sh), Lother",
-                "Name": "AutoRetainer",
-                "InternalName": "AutoRetainer",
-                "AssemblyVersion": "7.15.0.90",
-                "Description": "躺在床上就能收取並指派雇員的遠航任務。",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/AutoRetainer.png",
-                "RepoUrl": "https://github.com/Lother/AutoRetainer"
-            },
-            {
-                "Author": "NeNeppie, Lother",
-                "Name": "Avant-Garde",
-                "InternalName": "AvantGarde",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "群眾協力蒐集的資料庫，針對「流行前線」小遊戲的每一個提示分類，列出符合條件的裝備清單。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/AvantGarde"
-            },
-            {
-                "Author": "The Combat Reborn Team, Lother",
-                "Name": "Bossmod Reborn",
-                "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.15.0.51",
-                "Description": "繁體中文分支（TC-7.15）。提供 Boss 戰雷達、自動循環、冷卻計劃與 AI 功能，幫助您輕鬆應對各種 Boss 機制。",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/BossModReborn.png",
-                "RepoUrl": "https://github.com/Lother/BossmodReborn"
-            },
-            {
-                "Author": "Kouzukii, Lother",
-                "Name": "Character Panel Refined",
-                "InternalName": "CharacterPanelRefined",
-                "AssemblyVersion": "7.15.0.3",
-                "Description": "簡化角色狀態面板，只保留有用的資訊，並加入會心與直擊機率等數值，以及預估爆傷，方便判斷裝備搭配。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/CharacterPanelRefined"
-            },
-            {
-                "Author": "Infi, Anna, Lother",
-                "Name": "Chat 2",
-                "InternalName": "ChatTwo",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "Chat 2 是遊戲內建聊天視窗的完整重寫版外掛。\n支援功能：\n\n- 無限分頁\n- 固定發送到特定頻道的分頁\n- 更靈活的過濾功能\n- RGB 頻道顏色\n- 完全可變字體大小\n- 側邊欄分頁\n- 未讀訊息計數\n- 表情符號\n- 截圖模式（隱藏名稱）",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/ChatTwo.png",
-                "RepoUrl": "https://github.com/Lother/ChatTwo"
-            },
-            {
-                "Author": "Nylfae, Lother",
-                "Name": "Dynamis",
-                "InternalName": "Dynamis",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "本外掛包含多種透過動態分析輔助遊戲逆向工程與原型製作的工具。",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Dynamis.png",
-                "RepoUrl": "https://github.com/Lother/Dynamis"
-            },
-            {
-                "Author": "Nylfae, Lother",
-                "Name": "Dynamis (with Hosted PowerShell)",
-                "InternalName": "DynamisWithSMA",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "本外掛包含多種透過動態分析輔助遊戲逆向工程與原型製作的工具，此版本額外內建 PowerShell 主機。",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/DynamisWithSMA.png",
-                "RepoUrl": "https://github.com/Lother/Dynamis"
-            },
-            {
-                "Author": "Snowy, KangasZ, Lother",
-                "Name": "Eureka Helper",
-                "InternalName": "EurekaHelper",
-                "AssemblyVersion": "7.15.0.63",
-                "Description": "協助你進行優雷卡冒險的工具，已更新至《漂泊眾島》版本！輸入 /eurekahelper 開始使用。\n\n功能包含：\n- 遊戲內追蹤器 GUI\n- 副本追蹤器\n- 聖靈追蹤器\n- 魂武助手\n- 鬧鐘\n- 賺錢 NM 天氣時間提醒\n- 更多功能陸續推出",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/EurekaHelper.png",
-                "RepoUrl": "https://github.com/Lother/EurekaHelper"
-            },
-            {
-                "Author": "The Combat Reborn Team, Lother",
-                "Name": "GatherBuddy Reborn",
-                "InternalName": "GatherbuddyReborn",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "透過路徑規劃簡化採集流程，找出節點/資源位置，並在 UI 追蹤特殊時段與蒐藏品。自動採集需要 vnavmesh。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/GatherbuddyReborn"
-            },
-            {
-                "Author": "img02, Lother",
-                "Name": "Hunt Helper",
-                "InternalName": "HuntHelper",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "狩獵地圖顯示重生點、A 階列車紀錄器（可匯出/匯入分享）、語音朗讀、聊天通知，以及 S 階怪計數器。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/HuntHelper"
-            },
-            {
-                "Author": "Critical_Impact, Lother",
-                "Name": "Allagan Tools",
-                "InternalName": "InventoryTools",
-                "AssemblyVersion": "7.15.0.2",
-                "Description": "Allagan Tool's primary purpose is to keep track of items across your characters/retainers/free company. With it's filter system you'll never lose track of items or not know where they should be sorted.\n\nWhile this is it's primary purpose, it has quite an exhaustive list of other features including:\n\t- Craft planning\n\t- Market board integration\n\t- Item highlighting in inventories when searching/sorting and picking ingredients for crafts\n\t- Item window that includes vendor and source information among other things\n\t- Duty/mob/airship/submarine windows that are fully searchable\n\t- A filtering system that lets you setup complex searches for specific items \n\t- Tooltip integration that'll let you see where the items are on hover",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/InventoryTools.png",
-                "RepoUrl": "https://github.com/Lother/InventoryTools"
-            },
-            {
-                "Author": "electr0sheep, Nuko, Lother",
-                "Name": "Item Vendor Location",
-                "InternalName": "ItemVendorLocation",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "在道具的右鍵選單新增選項，顯示可以在哪個 NPC 商人購買該道具。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/ItemVendorLocation"
-            },
-            {
-                "Author": "Latihas, Lother",
-                "Name": "LatihasChocobo",
-                "InternalName": "LatihasChocobo",
-                "AssemblyVersion": "7.15.0.8",
-                "Description": "自動陸行鳥競賽",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/LatihasChocobo.png",
-                "RepoUrl": "https://github.com/Lother/LatihasChocobo"
-            },
-            {
-                "Author": "53m1k0l0n/Gidedin (Puni.sh), Lother",
-                "Name": "LazyLoot",
-                "InternalName": "LazyLoot",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "自動處理戰利品擲骰，支援 need/needonly/greed/pass/passall 等多種參數，可設定角色與職業組合以防誤擲。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/LazyLoot"
-            },
-            {
-                "Author": "NightmareXIV, Lother",
-                "Name": "Lifestream",
-                "InternalName": "Lifestream",
-                "AssemblyVersion": "7.15.0.2",
-                "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Lifestream.png",
-                "RepoUrl": "https://github.com/Lother/Lifestream"
-            },
-            {
-                "Author": "apetih, Lother",
-                "Name": "Logogram Helper",
-                "InternalName": "LogogramHelper",
-                "AssemblyVersion": "7.15.0.6",
-                "Description": "進入聖言操縱者後，顯示優雷卡聖言技能所有可能組合的數量。",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/LogogramHelper.png",
-                "RepoUrl": "https://github.com/Lother/LogogramHelper"
-            },
-            {
-                "Author": "JayceOfSpades",
-                "Name": "Mini-Mappingway",
-                "InternalName": "MiniMappingway",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "在小地圖上顯示好友與公會成員位置，可自訂標記樣式，並切換只顯示好友、公會或兩者皆顯示。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/MiniMappingway"
-            },
-            {
-                "Author": "Jukka, Lother",
-                "Name": "NecroLens",
-                "InternalName": "NecroLens",
-                "AssemblyVersion": "7.15.0.2",
-                "Description": "深層迷宮小幫手，雷達顯示怪物位置、仇恨狀態、視野範圍等所有你需要的資訊。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/NecroLens"
-            },
-            {
-                "Author": "NightmareXIV, Lother",
-                "Name": "NotificationMaster",
-                "InternalName": "NotificationMaster",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "在遊戲視窗縮小時，通知你各種事件：聊天訊息、地圖標記接近、找到副本、過場動畫結束、GP 恢復、登入錯誤、怪物血量低等。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/NotificationMaster"
-            },
-            {
-                "Author": "Liza Carvelli (Puni.sh), Lother",
-                "Name": "Palace Pal",
-                "InternalName": "PalacePal",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "顯示米諾德斯的迷宮、天堂、優雷卡孤島可能的陷阱與寶物箱位置。此插件需要 Splatoon 才能顯示標記。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/PalacePal"
-            },
-            {
-                "Author": "Haplo064, Lother",
-                "Name": "Pixel Perfect",
-                "InternalName": "PixelPerfect",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "精準顯示你的角色碰撞箱位置，可自訂顯示樣式，受到高難度團隊認證。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/PixelPerfect"
-            },
-            {
-                "Author": "Kouzukii, Lother",
-                "Name": "Price Insight",
-                "InternalName": "PriceInsight",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "在物品提示框上直接顯示菜市場（Universalis）的市場價格資訊。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/PriceInsight"
-            },
-            {
-                "Author": "UnknownX, Lother",
-                "Name": "QoL Bar",
-                "InternalName": "QoLBar",
-                "AssemblyVersion": "7.15.0.2",
-                "Description": "提供簡單、可自訂且常駐顯示的介面，用來快速執行聊天指令或其他插件功能，取代反覆開關選單的麻煩。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/QoLBar"
-            },
-            {
-                "Author": "Taurenkey, Kagekazu, Lother",
-                "Name": "Saucy",
-                "InternalName": "Saucy",
-                "AssemblyVersion": "7.15.0.294",
-                "Description": "自動化部分金碟遊樂園小遊戲。",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Saucy.png",
-                "RepoUrl": "https://github.com/Lother/Saucy"
-            },
-            {
-                "Author": "daemitus, croizat, Lother",
-                "Name": "Something Need Doing",
-                "InternalName": "SomethingNeedDoing",
-                "AssemblyVersion": "7.15.0.22",
-                "Description": "現在不只能用於生產，功能更多！",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/SomethingNeedDoing.png",
-                "RepoUrl": "https://github.com/Lother/SomethingNeedDoing"
-            },
-            {
-                "Author": "Sonar Team, Lother",
-                "Name": "Sonar",
-                "InternalName": "SonarPlugin",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "自動發送與接收狩獵/幻蒐目標的跨服情報。輸入 /sonar 開啟主視窗，/sonarconfig 進行設定。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/SonarPlugin"
-            },
-            {
-                "Author": "NightmareXIV, Lother",
-                "Name": "Splatoon",
-                "InternalName": "Splatoon",
-                "AssemblyVersion": "7.15.0.3",
-                "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/Splatoon.png",
-                "RepoUrl": "https://github.com/Lother/Splatoon"
-            },
-            {
-                "Author": "Infi, Lother",
-                "Name": "Submarine Tracker",
-                "InternalName": "SubmarineTracker",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "追蹤潛水艇的目前建裝、航線與時間。內建配置最佳化工具，並可自訂返航/維修提醒。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/SubmarineTracker"
-            },
-            {
-                "Author": "MgAl2O4, Lother",
-                "Name": "TriadBuddy",
-                "InternalName": "TriadBuddy",
-                "AssemblyVersion": "7.15.0.13",
-                "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/TriadBuddy.png",
-                "RepoUrl": "https://github.com/Lother/FFTriadBuddyDalamud"
-            },
-            {
-                "Author": "veyn, croizat, Lother",
-                "Name": "Visland",
-                "InternalName": "visland",
-                "AssemblyVersion": "7.15.0.3",
-                "Description": "自動化採集、工房分配等島嶼度假村相關作業。",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/visland.png",
-                "RepoUrl": "https://github.com/Lother/visland"
-            },
-            {
-                "Author": "veyn, Lother",
-                "Name": "vnavmesh",
-                "InternalName": "vnavmesh",
-                "AssemblyVersion": "7.15.0.4",
-                "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/vnavmesh.png",
-                "RepoUrl": "https://github.com/Lother/vnavmesh"
-            },
-            {
-                "Author": "Team Wrath, Lother",
-                "Name": "Wrath Combo",
-                "InternalName": "WrathCombo",
-                "AssemblyVersion": "7.15.0.9",
-                "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/WrathCombo.png",
-                "RepoUrl": "https://github.com/Lother/WrathCombo"
-            },
-            {
-                "Author": "cycleapple, Lother",
-                "Name": "XIV 藏寶圖工具小幫手",
-                "InternalName": "XivTreasureParty",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "Dalamud 插件版本的 FFXIV 繁中藏寶圖工具小幫手。可與網頁版（https://cycleapple.github.io/xiv-tc-treasure-finder/）使用者混合組隊，即時同步同一份清單。支援建立/加入房間、手動新增藏寶圖、打開藏寶圖時自動選取、遊戲內開地圖打旗標、以 /p 發送可點擊地圖連結、順序調整、完成勾選等。",
-                "DalamudApiLevel": 12,
-                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/XivTreasureParty.png",
-                "RepoUrl": "https://github.com/Lother/XivTreasureParty"
-            },
-            {
-                "Author": "daemitus, croizat, Lother",
-                "Name": "YesAlready",
-                "InternalName": "YesAlready",
-                "AssemblyVersion": "7.15.0.1",
-                "Description": "自動點擊你設定的各種確認對話框。輸入對話文字即可加入清單，並支援 /regex/ 語法針對「非 yes/no」行為的對話框（例如選擇）做比對。",
-                "DalamudApiLevel": 12,
-                "RepoUrl": "https://github.com/Lother/YesAlready"
-            }
-        ]
-    },
-    {
         "repo_developer_name": "LucifurrMorningstar",
         "repo_url": "https://raw.githubusercontent.com/LucifurrMorningstar/Dalamud/main/repo.json",
         "repo_source_url": "https://github.com/LucifurrMorningstar/Dalamud",
@@ -12170,12 +11795,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.4.0.1",
+                "AssemblyVersion": "0.4.1.0",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784345372,
+                "LastUpdate": 1784473392,
                 "is_ai_attributed": true
             }
         ]
@@ -12693,12 +12318,12 @@
                 "Author": "Chirp, Cazzar, Bwuny and contributors",
                 "Name": "Ktisis",
                 "InternalName": "Ktisis",
-                "AssemblyVersion": "0.2.31.1",
+                "AssemblyVersion": "0.4.0.1",
                 "Description": "集体动作姿势编辑工具。初次使用记得设置→Language→选择简体中文。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://static.meowrs.com/Plugins/Ktisis/icon.png",
                 "RepoUrl": "https://github.com/MeowZWR/Ktisis",
-                "LastUpdate": 1784433531
+                "LastUpdate": 1784473971
             }
         ]
     },
@@ -14827,12 +14452,12 @@
                 "Author": "Ninethirty77",
                 "Name": "The Studium",
                 "InternalName": "FCMetrics",
-                "AssemblyVersion": "0.1.225.0",
+                "AssemblyVersion": "0.1.226.0",
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/icon.jpg",
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1784464006
+                "LastUpdate": 1784470123
             }
         ]
     },
@@ -16602,11 +16227,11 @@
                 "Author": "platis",
                 "Name": "XIV.fm",
                 "InternalName": "XIV.fm",
-                "AssemblyVersion": "0.1.3.0",
+                "AssemblyVersion": "0.1.5.0",
                 "Description": "XIV.fm displays Last.fm listening presence on cards anchored above player nameplates.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/platis/XIV.fm",
-                "LastUpdate": 1784453842
+                "LastUpdate": 1784476103
             }
         ]
     },
@@ -17120,12 +16745,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.11",
+                "AssemblyVersion": "15.306.0.12",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784434827
+                "LastUpdate": 1784480149
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -17158,7 +16783,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784454791
+                "LastUpdate": 1784482394
             },
             {
                 "Author": "daemitus, kawaii",
@@ -17493,11 +17118,11 @@
                 "Author": "nainaiowo",
                 "Name": "DMU Mits",
                 "InternalName": "DMUMits",
-                "AssemblyVersion": "0.1.0.11",
+                "AssemblyVersion": "0.1.0.12",
                 "Description": "Shows upcoming dmu mitigation based on fight timeline",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-mits",
-                "LastUpdate": 1784364632
+                "LastUpdate": 1784477735
             },
             {
                 "Author": "nainaiowo",
@@ -18113,7 +17738,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/pyreymo/event-horizon/master/images/icon.png",
                 "RepoUrl": "https://github.com/pyreymo/event-horizon",
-                "LastUpdate": 1784023301
+                "LastUpdate": 1784023301,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -21035,7 +20661,8 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1784166897
+                "LastUpdate": 1784166897,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -21824,7 +21451,6 @@
                 "AssemblyVersion": "0.0.0.1",
                 "Description": "Detects when you queue and clear Duty Roulette: Mentor, times your run, counts commendations received, and submits it to your Eorzean Ledger (Mentor Ledger) account. Also offers a one-time import of runs cleared before you installed the plugin.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://codeberg.org/TheEorzeanLibrarian/eorzean-mentor-plugin/raw/branch/main/Data/icon.png",
                 "RepoUrl": "https://codeberg.org/TheEorzeanLibrarian/eorzean-mentor-plugin"
             }
         ]
@@ -23570,7 +23196,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1784065557
+                "LastUpdate": 1784065557,
+                "is_ai_attributed": true
             },
             {
                 "Author": "XeldarAlz",
@@ -23581,7 +23208,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
-                "LastUpdate": 1781980133
+                "LastUpdate": 1781980133,
+                "is_ai_attributed": true
             },
             {
                 "Author": "XeldarAlz",
@@ -23624,7 +23252,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784457628
+                "LastUpdate": 1784457628,
+                "is_ai_attributed": true
             }
         ]
     },
