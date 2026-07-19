@@ -1628,7 +1628,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
                 "RepoUrl": "https://github.com/anomek/AnoMech",
-                "LastUpdate": 1783890714
+                "LastUpdate": 1783890714,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Anomek",
@@ -2381,7 +2382,8 @@
                 "Description": "Credit to FoxShadow10 for the original AutoEmotion plugin. This version builds on that base and adds macro-slot responses directly in the Emote Reaction table, alongside emote and expression reactions.",
                 "IconUrl": "https://raw.githubusercontent.com/Spoooki/AuxEmotion/main/AuxEmotion/plugin_icon.png",
                 "RepoUrl": "https://github.com/Spoooki/AuxEmotion",
-                "LastUpdate": 1779016473
+                "LastUpdate": 1779016473,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -4726,34 +4728,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/dodingdaga/DalamudPlugins/raw/main/PuppetMaster.json",
-        "repo_source_url": "https://github.com/dodingdaga/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "repo_developer_name": "dodingdaga",
-        "plugins": [
-            {
-                "Author": "DodingDaga",
-                "Name": "Right Back At You",
-                "InternalName": "Copycat",
-                "AssemblyVersion": "7.5.0.0",
-                "Description": "For the lulz",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins/tree/main/Source/Copycat",
-                "LastUpdate": 1777683909
-            },
-            {
-                "Author": "DodingDaga",
-                "Name": "Puppet Master",
-                "InternalName": "PuppetMaster",
-                "AssemblyVersion": "7.5.0.0",
-                "Description": "For the lulz",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/dodingdaga/DalamudPlugins/tree/main/Source/PuppetMaster",
-                "LastUpdate": 1777683909
-            }
-        ]
-    },
-    {
         "repo_developer_name": "doomzao",
         "repo_url": "https://raw.githubusercontent.com/doomzao/plugins/main/repo.json",
         "repo_source_url": "https://github.com/doomzao/plugins",
@@ -4817,7 +4791,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dragonw233/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/Dragonw233/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1783172194
+                "LastUpdate": 1783172194,
+                "is_ai_attributed": true
             },
             {
                 "Author": "iVeigar",
@@ -5286,25 +5261,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/emyxiv/Dresser/raw/master/repo.json",
-        "repo_source_url": "https://github.com/emyxiv/Dresser",
-        "repo_name": "Dresser",
-        "repo_developer_name": "emyxiv",
-        "plugins": [
-            {
-                "Author": "emyxiv",
-                "Name": "Dresser Anywhere",
-                "InternalName": "Dresser",
-                "AssemblyVersion": "0.7.0.2",
-                "Description": "Use dresser outside of inns. Search items in other inventories or cheap at vendors. Try on your own character. Browse modded items.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/emyxiv/Dresser/master/icon.png",
-                "RepoUrl": "https://github.com/emyxiv/Dresser",
-                "LastUpdate": 1782683441
-            }
-        ]
-    },
-    {
         "repo_developer_name": "emyxiv",
         "repo_url": "https://raw.githubusercontent.com/emyxiv/PoseBrowser/master/repo.json",
         "repo_source_url": "https://github.com/emyxiv/PoseBrowser",
@@ -5767,25 +5723,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/Etheirys/Brio/raw/main/repo.json",
-        "repo_source_url": "https://github.com/Etheirys/Brio",
-        "repo_name": "Brio",
-        "repo_developer_name": "Etheirys",
-        "plugins": [
-            {
-                "Author": "Minmoose, Asgard and Contributors",
-                "Name": "Brio",
-                "InternalName": "Brio",
-                "AssemblyVersion": "0.8.0.11",
-                "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during G-Pose.\n\n- Advanced actor posing \n\t- While animating\n\t- Adjust actor positions without them resetting\n\t- Overlay and graphical posing modes\n- Creation of up to 239 G-Pose actors\n- Creation of custom lights\n- Supports integration with Penumbra, Glamourer & Customize+\n- Offline import and export of MCDF files onto G-Pose actors\n- Play XAT .xcp camera files\n- Play/Blend animations of G-Pose actors\n- Control Time/Weather in both the Overworld and G-Pose\n- Change the active festivals and apply up to 4 at once\n- Add/Remove Status Effects of G-Pose actors",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
-                "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784422629
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Etheirys",
         "repo_url": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
         "repo_source_url": "https://github.com/Etheirys/WorldOfEtheirys",
@@ -5800,7 +5737,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784422629
+                "LastUpdate": 1784448288
             }
         ]
     },
@@ -5889,25 +5826,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/Ewilhan/LMeter/raw/main/repo.json",
-        "repo_source_url": "https://github.com/Ewilhan/LMeter",
-        "repo_name": "LMeter",
-        "repo_developer_name": "Ewilhan",
-        "plugins": [
-            {
-                "Author": "Ewilhan",
-                "Name": "Forked LMeter",
-                "InternalName": "LMeter",
-                "AssemblyVersion": "0.0.0.3",
-                "Description": "Plugin to display ACT combat log data. - Ewilhan's Fork",
-                "DalamudApiLevel": 11,
-                "IconUrl": "https://raw.githubusercontent.com/Ewilhan/LMeter/main/LMeter/Media/Images/icon.png",
-                "RepoUrl": "https://github.com/Ewilhan/LMeter",
-                "LastUpdate": 1732143501
-            }
-        ]
-    },
-    {
         "repo_developer_name": "exatrines",
         "repo_url": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/exatrines/DalamudPlugins",
@@ -5961,82 +5879,6 @@
         ]
     },
     {
-        "repo_url": "https://github.com/extrant/DalamudPlugins/raw/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/extrant/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "repo_developer_name": "extrant",
-        "plugins": [
-            {
-                "Author": "Siren",
-                "Name": "CleanWindow",
-                "InternalName": "CleanWindow",
-                "AssemblyVersion": "1.0.0.2",
-                "Description": "创建一个独立的系统级预览窗口，将纯净的游戏画面（可选含/不含 UI）输出给 OBS 捕获。支持隐身模式，窗口可从任务栏和 Alt+Tab 中隐藏，同时仍被 OBS 识别。支持多语言。",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/extrant/I-Ching/refs/heads/main/CleanWindow.png",
-                "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/CleanWindow.zip",
-                "is_closed_source": true,
-                "LastUpdate": 1782826675
-            },
-            {
-                "Author": "Siren",
-                "Name": "Coyote-FFXiv",
-                "InternalName": "Coyote-FFXiv",
-                "AssemblyVersion": "0.0.1.3",
-                "Description": "通过条件触发实现郊狼的控制，对接Coyote。顺带支持一些RP小功能。",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/Coyote.png",
-                "RepoUrl": "https://github.com/extrant/Coyote-FFXiv",
-                "LastUpdate": 1777739687
-            },
-            {
-                "Author": "Siren",
-                "Name": "FFXIV Network Packet Analysis Tool",
-                "InternalName": "FFXIVNetworkPacketAnalysisTool",
-                "AssemblyVersion": "0.1.3.0",
-                "Description": "一个用于分析游戏内网络包详细内容的Debug工具，更推荐开发人员使用。",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/extrant/IMGSave/refs/heads/main/FFXivStorkLauncher/NPATool.png",
-                "RepoUrl": "https://github.com/extrant/FFXIVNetworkPacketAnalysisTool",
-                "LastUpdate": 1777739929
-            },
-            {
-                "Author": "Siren",
-                "Name": "GposeResizer",
-                "InternalName": "GposeResizer",
-                "AssemblyVersion": "0.0.0.6",
-                "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/GposeResizer.png",
-                "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/GposeResizer.zip",
-                "LastUpdate": 1777738627
-            },
-            {
-                "Author": "Siren",
-                "Name": "I-Ching-GL",
-                "InternalName": "I-Ching-GL",
-                "AssemblyVersion": "0.1.6.5",
-                "Description": "我是一个FF14学习插件(国服API15)",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/bagua.png",
-                "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/I-Ching-GL.zip",
-                "LastUpdate": 1777642249,
-                "is_closed_source": true
-            },
-            {
-                "Author": "Siren",
-                "Name": "Zhouyi",
-                "InternalName": "Zhouyi",
-                "AssemblyVersion": "0.0.0.5",
-                "Description": "战场小助手",
-                "DalamudApiLevel": 13,
-                "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/zhouyi.png",
-                "RepoUrl": "https://github.com/extrant/I-Ching/blob/main/Zhouyi.zip",
-                "LastUpdate": 1758562071
-            }
-        ]
-    },
-    {
         "repo_developer_name": "FaKL-Code",
         "repo_url": "https://raw.githubusercontent.com/FaKL-Code/aethertv-dist/main/pluginmaster.json",
         "repo_source_url": "https://github.com/FaKL-Code/aethertv-dist",
@@ -6052,25 +5894,6 @@
                 "IconUrl": "https://github.com/FaKL-Code/aethertv-dist/releases/download/latest/icon.png",
                 "RepoUrl": "https://aethertv.cloud",
                 "LastUpdate": 1782178512
-            }
-        ]
-    },
-    {
-        "repo_url": "https://github.com/FantasticalMouthpiece/XivVoices/raw/main/repo.json",
-        "repo_source_url": "https://github.com/FantasticalMouthpiece/XivVoices",
-        "repo_name": "XivVoices",
-        "repo_developer_name": "FantasticalMouthpiece",
-        "plugins": [
-            {
-                "Author": "keifufu",
-                "Name": "XivVoices",
-                "InternalName": "XivVoices",
-                "AssemblyVersion": "1.5.2.3",
-                "Description": "A plugin that voices every NPC dialogue, battle interaction, and more.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/keifufu/XivVoices/main/XivVoices/assets/logo.png",
-                "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1782334379
             }
         ]
     },
@@ -8989,7 +8812,7 @@
                 "Author": "Just-Chaldea",
                 "Name": "CarbunclePartner",
                 "InternalName": "CarbunclePartner",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.3.0.1",
                 "Description": "Companion to the carbuncleplushy FFXIV Fish Tracker: tracks which fish you've caught, with website-matching filters and one-click export.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/icon.png",
@@ -11313,7 +11136,7 @@
                 "Author": "NeNeppie, Lother",
                 "Name": "Avant-Garde",
                 "InternalName": "AvantGarde",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "群眾協力蒐集的資料庫，針對「流行前線」小遊戲的每一個提示分類，列出符合條件的裝備清單。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/AvantGarde"
@@ -11332,7 +11155,7 @@
                 "Author": "Kouzukii, Lother",
                 "Name": "Character Panel Refined",
                 "InternalName": "CharacterPanelRefined",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "簡化角色狀態面板，只保留有用的資訊，並加入會心與直擊機率等數值，以及預估爆傷，方便判斷裝備搭配。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/CharacterPanelRefined"
@@ -11351,7 +11174,7 @@
                 "Author": "The Combat Reborn Team, Lother",
                 "Name": "GatherBuddy Reborn",
                 "InternalName": "GatherbuddyReborn",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "透過路徑規劃簡化採集流程，找出節點/資源位置，並在 UI 追蹤特殊時段與蒐藏品。自動採集需要 vnavmesh。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/GatherbuddyReborn"
@@ -11360,7 +11183,7 @@
                 "Author": "img02, Lother",
                 "Name": "Hunt Helper",
                 "InternalName": "HuntHelper",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "狩獵地圖顯示重生點、A 階列車紀錄器（可匯出/匯入分享）、語音朗讀、聊天通知，以及 S 階怪計數器。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/HuntHelper"
@@ -11379,7 +11202,7 @@
                 "Author": "electr0sheep, Nuko, Lother",
                 "Name": "Item Vendor Location",
                 "InternalName": "ItemVendorLocation",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "在道具的右鍵選單新增選項，顯示可以在哪個 NPC 商人購買該道具。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/ItemVendorLocation"
@@ -11398,7 +11221,7 @@
                 "Author": "53m1k0l0n/Gidedin (Puni.sh), Lother",
                 "Name": "LazyLoot",
                 "InternalName": "LazyLoot",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "自動處理戰利品擲骰，支援 need/needonly/greed/pass/passall 等多種參數，可設定角色與職業組合以防誤擲。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/LazyLoot"
@@ -11424,10 +11247,10 @@
                 "RepoUrl": "https://github.com/Lother/LogogramHelper"
             },
             {
-                "Author": "JayceOfSpades, Lother",
+                "Author": "JayceOfSpades",
                 "Name": "Mini-Mappingway",
                 "InternalName": "MiniMappingway",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "在小地圖上顯示好友與公會成員位置，可自訂標記樣式，並切換只顯示好友、公會或兩者皆顯示。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/MiniMappingway"
@@ -11436,7 +11259,7 @@
                 "Author": "Jukka, Lother",
                 "Name": "NecroLens",
                 "InternalName": "NecroLens",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "深層迷宮小幫手，雷達顯示怪物位置、仇恨狀態、視野範圍等所有你需要的資訊。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/NecroLens"
@@ -11445,7 +11268,7 @@
                 "Author": "NightmareXIV, Lother",
                 "Name": "NotificationMaster",
                 "InternalName": "NotificationMaster",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "在遊戲視窗縮小時，通知你各種事件：聊天訊息、地圖標記接近、找到副本、過場動畫結束、GP 恢復、登入錯誤、怪物血量低等。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/NotificationMaster"
@@ -11454,7 +11277,7 @@
                 "Author": "Liza Carvelli (Puni.sh), Lother",
                 "Name": "Palace Pal",
                 "InternalName": "PalacePal",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "顯示米諾德斯的迷宮、天堂、優雷卡孤島可能的陷阱與寶物箱位置。此插件需要 Splatoon 才能顯示標記。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/PalacePal"
@@ -11463,7 +11286,7 @@
                 "Author": "Haplo064, Lother",
                 "Name": "Pixel Perfect",
                 "InternalName": "PixelPerfect",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "精準顯示你的角色碰撞箱位置，可自訂顯示樣式，受到高難度團隊認證。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/PixelPerfect"
@@ -11472,7 +11295,7 @@
                 "Author": "Kouzukii, Lother",
                 "Name": "Price Insight",
                 "InternalName": "PriceInsight",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "在物品提示框上直接顯示菜市場（Universalis）的市場價格資訊。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/PriceInsight"
@@ -11481,7 +11304,7 @@
                 "Author": "UnknownX, Lother",
                 "Name": "QoL Bar",
                 "InternalName": "QoLBar",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "提供簡單、可自訂且常駐顯示的介面，用來快速執行聊天指令或其他插件功能，取代反覆開關選單的麻煩。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/QoLBar"
@@ -11510,7 +11333,7 @@
                 "Author": "Sonar Team, Lother",
                 "Name": "Sonar",
                 "InternalName": "SonarPlugin",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "自動發送與接收狩獵/幻蒐目標的跨服情報。輸入 /sonar 開啟主視窗，/sonarconfig 進行設定。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/SonarPlugin"
@@ -11529,7 +11352,7 @@
                 "Author": "Infi, Lother",
                 "Name": "Submarine Tracker",
                 "InternalName": "SubmarineTracker",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "追蹤潛水艇的目前建裝、航線與時間。內建配置最佳化工具，並可自訂返航/維修提醒。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/SubmarineTracker"
@@ -11543,6 +11366,16 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/TriadBuddy.png",
                 "RepoUrl": "https://github.com/Lother/FFTriadBuddyDalamud"
+            },
+            {
+                "Author": "veyn, croizat, Lother",
+                "Name": "Visland",
+                "InternalName": "visland",
+                "AssemblyVersion": "7.15.0.1",
+                "Description": "自動化採集、工房分配等島嶼度假村相關作業。",
+                "DalamudApiLevel": 12,
+                "IconUrl": "https://raw.githubusercontent.com/Lother/DalamudPluginsTC/main/icons/visland.png",
+                "RepoUrl": "https://github.com/Lother/visland"
             },
             {
                 "Author": "veyn, Lother",
@@ -11568,7 +11401,7 @@
                 "Author": "daemitus, croizat, Lother",
                 "Name": "YesAlready",
                 "InternalName": "YesAlready",
-                "AssemblyVersion": "0.0.0.0",
+                "AssemblyVersion": "7.15.0.1",
                 "Description": "自動點擊你設定的各種確認對話框。輸入對話文字即可加入清單，並支援 /regex/ 語法針對「非 yes/no」行為的對話框（例如選擇）做比對。",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Lother/YesAlready"
@@ -13167,7 +13000,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1783541950
+                "LastUpdate": 1783541950,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -13217,7 +13051,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1781284380
+                "LastUpdate": 1781284380,
+                "is_ai_attributed": true
             },
             {
                 "Author": "MTVirux",
@@ -13228,7 +13063,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/GlamorousTerror/main/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/GlamorousTerror",
-                "LastUpdate": 1781758074
+                "LastUpdate": 1781758074,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Usagi",
@@ -13861,7 +13697,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1783905926
+                "LastUpdate": 1784424128
             },
             {
                 "Author": "goat, Maple",
@@ -13871,7 +13707,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1784342624
+                "LastUpdate": 1784430823
             }
         ]
     },
@@ -14125,7 +13961,8 @@
                 "Description": "从游戏聊天信息的地图链接，中显示一个传送链接到最近的以太之光的链接。输入 /alic 来配置插件。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/Divination",
-                "LastUpdate": 1778255521
+                "LastUpdate": 1778255521,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Asteria Nocturna",
@@ -14135,7 +13972,8 @@
                 "Description": "从游戏聊天信息的地图链接，中显示一个传送链接到最近的以太之光的链接。输入 /alic 来配置插件。",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/Divination",
-                "LastUpdate": 1778255521
+                "LastUpdate": 1778255521,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Asteria Nocturna",
@@ -14145,7 +13983,8 @@
                 "Description": "从游戏聊天信息的地图链接，中显示一个传送链接到最近的以太之光的链接。输入 /alic 来配置插件。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/Divination",
-                "LastUpdate": 1778255521
+                "LastUpdate": 1778255521,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Faye / NiGuangOwO (适配&优化) / Ookura-Risona (汉化)",
@@ -14659,12 +14498,12 @@
                 "Author": "091",
                 "Name": "SpeedRadiusPlugin",
                 "InternalName": "SpeedRadiusPlugin",
-                "AssemblyVersion": "1.4.3.320",
+                "AssemblyVersion": "1.4.3.322",
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nihil-string/simple-Tool-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nihil-string/simple-Tool-dist",
-                "LastUpdate": 1784438100
+                "LastUpdate": 1784452280
             }
         ]
     },
@@ -15230,7 +15069,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Caduceus/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Caduceus",
-                "LastUpdate": 1783832024
+                "LastUpdate": 1783832024,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -15249,7 +15089,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1784156350
+                "LastUpdate": 1784156350,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -15268,7 +15109,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/SealBreaker/main/SealBreaker/icon.png",
                 "RepoUrl": "https://github.com/ofnature/SealBreaker",
-                "LastUpdate": 1784260455
+                "LastUpdate": 1784260455,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -15287,7 +15129,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1780257786
+                "LastUpdate": 1780257786,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Faye",
@@ -15326,7 +15169,8 @@
                 "Description": "Turn everyone around you into Lalafells (or other races!)\n/polala on = enable plugin.\n/polala off = disable plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OkuKatsu/OkuLalafell",
-                "LastUpdate": 1778935891
+                "LastUpdate": 1778935891,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Oku Katsu",
@@ -15336,7 +15180,8 @@
                 "Description": "Darw danger Zone on Gold Saucer Slice Is Right Game.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OkuKatsu/SliceIsRight",
-                "LastUpdate": 1778935544
+                "LastUpdate": 1778935544,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -15522,7 +15367,8 @@
                 "Description": "Host a small server; paired friends connect and automatically see the in-world screens (TVs) you create, all playing the same media. Move/resize/rotate gizmo, LibVLC video, auto-reconnect. Pairs with a self-hosted Owncast stream.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OmegaJackie/CineSync",
-                "LastUpdate": 1780474723
+                "LastUpdate": 1780474723,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -15601,7 +15447,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Originaljsx/PvpStats-api15/master/images/icon.png",
                 "RepoUrl": "https://github.com/Originaljsx/PvpStats-api15",
-                "LastUpdate": 1778269760
+                "LastUpdate": 1778269760,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -15694,7 +15541,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784422629
+                "LastUpdate": 1784448288
             },
             {
                 "Author": "Risa and Contributors",
@@ -15727,7 +15574,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1784384618
+                "LastUpdate": 1784453918
             },
             {
                 "Author": "Anna",
@@ -15771,7 +15618,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1784411108
+                "LastUpdate": 1784453860
             },
             {
                 "Author": "Caraxi",
@@ -15982,6 +15829,25 @@
         ]
     },
     {
+        "repo_developer_name": "PayneZA",
+        "repo_url": "https://raw.githubusercontent.com/PayneZA/Orbiter/main/repo.json",
+        "repo_source_url": "https://github.com/PayneZA/Orbiter",
+        "repo_name": "Orbiter",
+        "plugins": [
+            {
+                "Author": "PayneZA",
+                "Name": "Orbiter",
+                "InternalName": "Orbiter",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Pick a nearby player and the game camera orbits them instead of you — zoom, rotation, look-at height and collision all behave natively, like gpose target framing in live gameplay. Commands: /orbiter, /orbiter target, /orbiter off",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/PayneZA/Orbiter",
+                "LastUpdate": 1784452592,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_source_url": "https://github.comlnjanos/peepingtim",
         "repo_url": "https://raw.githubusercontent.com/lnjanos/peepingtim/refs/heads/master/SamplePlugin/yuck.json",
         "repo_developer_name": "peepingtim",
@@ -16077,7 +15943,8 @@
                 "Description": "Configure a list of items to maintain on sale at (lowest market price - 1 gil)",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/penguin4glte/AutoRetainerSellList",
-                "LastUpdate": 1780813836
+                "LastUpdate": 1780813836,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -16512,11 +16379,11 @@
                 "Author": "platis",
                 "Name": "XIV.fm",
                 "InternalName": "XIV.fm",
-                "AssemblyVersion": "0.1.2.0",
+                "AssemblyVersion": "0.1.3.0",
                 "Description": "XIV.fm displays Last.fm listening presence on cards anchored above player nameplates.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/platis/XIV.fm",
-                "LastUpdate": 1784446637
+                "LastUpdate": 1784453842
             }
         ]
     },
@@ -17068,7 +16935,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784397523
+                "LastUpdate": 1784454791
             },
             {
                 "Author": "daemitus, kawaii",
@@ -17381,12 +17248,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.253",
+                "AssemblyVersion": "0.1.0.256",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1784420215
+                "LastUpdate": 1784449641
             },
             {
                 "Author": "nainaiowo",
@@ -18850,12 +18717,12 @@
                 "Author": "RenNagasaki",
                 "Name": "Echokraut",
                 "InternalName": "Echokraut",
-                "AssemblyVersion": "0.19.0.0",
+                "AssemblyVersion": "0.19.2.0",
                 "Description": "A TTS Plugin that breaks the silence! For self hosted AllTalk instance. /ek",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RenNagasaki/Echokraut/master/Echokraut.png",
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
-                "LastUpdate": 1783533805
+                "LastUpdate": 1784450593
             },
             {
                 "Author": "RenNagasaki",
@@ -19068,7 +18935,8 @@
                 "Description": "Open-world FATE grinder. Walks between FATEs, mounts, flies, engages, and chains across zones. Uses vnavmesh for pathfinding, BossmodReborn (FateUtils + autorotation) for combat, and Lifestream for cross-zone teleport.\n\nRequired plugins: vnavmesh, BossmodReborn, Lifestream",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/richardlh023/FateWalker",
-                "LastUpdate": 1780907367
+                "LastUpdate": 1780907367,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -19239,7 +19107,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RoefQwQ/InventoryTools/main/InventoryTools/Images/icon.png",
                 "RepoUrl": "https://github.com/RoefQwQ/InventoryTools",
-                "LastUpdate": 1779480815
+                "LastUpdate": 1779480815,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -19400,7 +19269,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rrbailey89/blameserena-plugin/master/Data/logo.png",
                 "RepoUrl": "https://github.com/rrbailey89/blameserena-plugin",
-                "LastUpdate": 1777502059
+                "LastUpdate": 1777502059,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -19847,7 +19717,8 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/assets/icon.png",
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1783766727
+                "LastUpdate": 1783766727,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -20081,7 +19952,8 @@
                 "Description": "Custom item tagging and inventory management.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebaek98/ItemVault",
-                "LastUpdate": 1779271829
+                "LastUpdate": 1779271829,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -20241,7 +20113,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/serifine/XIV-Chat-Tools/main/ChatTools/images/icon.png",
                 "RepoUrl": "https://github.com/serifine/XIV-Chat-Tools",
-                "LastUpdate": 1777573804
+                "LastUpdate": 1777573804,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -20576,7 +20449,8 @@
                 "Description": "Automates market board penny pinching",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
-                "LastUpdate": 1781344600
+                "LastUpdate": 1781344600,
+                "is_ai_attributed": true
             },
             {
                 "Author": "SHOEGAZEssb",
@@ -20635,7 +20509,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shuro/dalamud-plugins/main/GobchatEx/images/icon.png",
                 "RepoUrl": "https://github.com/Shuro/dalamud-plugins",
-                "LastUpdate": 1784244290
+                "LastUpdate": 1784244290,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -20654,7 +20529,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shuro/dalamud-plugins/main/GobchatEx/images/icon.png",
                 "RepoUrl": "https://github.com/Shuro/GobchatEx-plugin",
-                "LastUpdate": 1784244290
+                "LastUpdate": 1784244290,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -20839,7 +20715,8 @@
                 "Description": "Adds support for the Dancing Mad (Ultimate) encounter, including an automarker for the Forsaken tower/AoE sequence (configurable tower order, priority, and per-role markers). A fork of Lemegeton by Paissa Heavy Industries.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SneakiestBear/Dancing-Madness",
-                "LastUpdate": 1782340026
+                "LastUpdate": 1782340026,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -20858,7 +20735,8 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/sodaohoh/ff14-duolingo/master/data/goat.png",
                 "RepoUrl": "https://github.com/sodaohoh/ff14-duolingo",
-                "LastUpdate": 1781008207
+                "LastUpdate": 1781008207,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -21103,7 +20981,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/SSCthulhu.png",
                 "RepoUrl": "https://github.com/SSCthulhu/AetherUI",
-                "LastUpdate": 1781905437
+                "LastUpdate": 1781905437,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -21263,12 +21142,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.2604",
+                "AssemblyVersion": "7.5.1.2605",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1784381029
+                "LastUpdate": 1784451752
             },
             {
                 "Author": "Kouzukii",
@@ -21531,7 +21410,8 @@
                 "Description": "A tiny helper in your RP endeavours. You can read a \"short\" introduction with /rpbuddy.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Syrilai/rp-buddy",
-                "LastUpdate": 1780957712
+                "LastUpdate": 1780957712,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -21702,7 +21582,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/TheDeathDragon/SkinTattoo/master/images/icon.png",
                 "RepoUrl": "https://github.com/TheDeathDragon/SkinTattoo",
-                "LastUpdate": 1779464158
+                "LastUpdate": 1779464158,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -22211,7 +22092,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/twelvehouse/ChatAnywhere/main/images/icon.png",
                 "RepoUrl": "https://github.com/twelvehouse/DalamudPlugins",
-                "LastUpdate": 1779588004
+                "LastUpdate": 1779588004,
+                "is_ai_attributed": true
             },
             {
                 "Author": "twelvehouse",
@@ -22221,7 +22103,8 @@
                 "Description": "Real-time foot IK for FFXIV characters. Keeps feet planted naturally on terrain (stairs, slopes, uneven ground) during normal gameplay.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/twelvehouse/DalamudPlugins",
-                "LastUpdate": 1779588004
+                "LastUpdate": 1779588004,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -22258,7 +22141,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Tykku/ToshiBox/main/release/images/Icon.png",
                 "RepoUrl": "https://github.com/Tykku/ToshiBox",
-                "LastUpdate": 1781078716
+                "LastUpdate": 1781078716,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -22350,7 +22234,8 @@
                 "AssemblyVersion": "2.0.3.11",
                 "Description": "Transforms all Lalafell characters and NPCs around you into your chosen race.\n/polala on = enable\n/polala off = disable",
                 "RepoUrl": "https://github.com/Uniffay/NoLalaForMe",
-                "LastUpdate": 1779320745
+                "LastUpdate": 1779320745,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -22502,7 +22387,8 @@
                 "Description": "On-screen cooldown bars plus a Sage-focused party panel that tracks barriers, HP/MP, and statuses at a glance. Toggle with /clearsight; /clearsight party for the party panel.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/unremarkably/ClearSight",
-                "LastUpdate": 1780158400
+                "LastUpdate": 1780158400,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -22831,7 +22717,8 @@
                 "Description": "Suppresses the large on-screen countdown overlay produced by the /countdown command. The countdown still runs and fires normally — only the visual is hidden.\n\nCommands:\n/countdownhide — toggle the feature on/off\n/countdownhide config — open settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/CountdownHide",
-                "LastUpdate": 1780472398
+                "LastUpdate": 1780472398,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -22849,7 +22736,8 @@
                 "Description": "Suppresses the large on-screen countdown overlay produced by the /countdown command. The countdown still runs and fires normally — only the visual is hidden.\n\nCommands:\n/cdhide — toggle the feature on/off\n/cdhide config — open settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/CountdownHide",
-                "LastUpdate": 1780472398
+                "LastUpdate": 1780472398,
+                "is_ai_attributed": true
             },
             {
                 "Author": "VimaFFXIV",
@@ -22859,7 +22747,8 @@
                 "Description": "MacroVault lets you send your FFXIV macros to a Discord channel via webhook.\n\nCommands:\n/mvexport — export the currently selected macro\n/mvbackup — export all non-empty macros (both tabs)\n/mv — open the settings window",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/MacroVault",
-                "LastUpdate": 1780472194
+                "LastUpdate": 1780472194,
+                "is_ai_attributed": true
             },
             {
                 "Author": "VimaFFXIV",
@@ -22869,7 +22758,8 @@
                 "Description": "SharkChat intercepts your chat before it's sent and swaps words or phrases for whatever you want.\n\nSet up rules like Thanks → Thankies, and they'll apply automatically every time you chat — across any channel.\n\nFeatures:\n• Whole-word matching (so \"tank\" won't mangle \"thanks\")\n• Case-insensitive by default\n• Per-rule enable/disable\n• Live preview so you can test rules before using them\n\nCommands:\n/shark — toggle on/off\n/shark config — open settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/SharkChat",
-                "LastUpdate": 1780472492
+                "LastUpdate": 1780472492,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -22887,7 +22777,8 @@
                 "Description": "MacroVault lets you send your FFXIV macros to a Discord channel via webhook.\n\nCommands:\n/mvexport — export the currently selected macro\n/mvbackup — export all non-empty macros (both tabs)\n/mv — open the settings window",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/MacroVault",
-                "LastUpdate": 1780472194
+                "LastUpdate": 1780472194,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -22905,7 +22796,8 @@
                 "Description": "SharkChat intercepts your chat before it's sent and swaps words or phrases for whatever you want.\n\nSet up rules like Thanks → Thankies, and they'll apply automatically every time you chat — across any channel.\n\nFeatures:\n• Whole-word matching (so \"tank\" won't mangle \"thanks\")\n• Case-insensitive by default\n• Per-rule enable/disable\n• Live preview so you can test rules before using them\n\nCommands:\n/shark — toggle on/off\n/shark config — open settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/SharkChat",
-                "LastUpdate": 1780472492
+                "LastUpdate": 1780472492,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -23422,12 +23314,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.8.2",
+                "AssemblyVersion": "0.9.8.3",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784364273
+                "LastUpdate": 1784454093
             },
             {
                 "Author": "XeldarAlz",
@@ -23438,7 +23330,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/tree/master/AutoDailyTribes",
-                "LastUpdate": 1784063426
+                "LastUpdate": 1784063426,
+                "is_ai_attributed": true
             },
             {
                 "Author": "XeldarAlz",
@@ -23471,7 +23364,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-DomanMahjongSolver/main/Mahjong.Plugin.Dalamud/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/tree/main/Mahjong.Plugin.Dalamud",
-                "LastUpdate": 1779881802
+                "LastUpdate": 1779881802,
+                "is_ai_attributed": true
             },
             {
                 "Author": "XeldarAlz",
@@ -23482,7 +23376,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/master/PvpAutoLb/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/tree/master/PvpAutoLb",
-                "LastUpdate": 1782673912
+                "LastUpdate": 1782673912,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -23496,12 +23391,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.8.2",
+                "AssemblyVersion": "0.9.8.3",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784364273
+                "LastUpdate": 1784454093
             }
         ]
     },
@@ -23520,7 +23415,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/tree/master/AutoDailyTribes",
-                "LastUpdate": 1784063426
+                "LastUpdate": 1784063426,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -23558,7 +23454,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-DomanMahjongSolver/main/Mahjong.Plugin.Dalamud/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/tree/main/Mahjong.Plugin.Dalamud",
-                "LastUpdate": 1779881802
+                "LastUpdate": 1779881802,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -23577,7 +23474,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/master/PvpAutoLb/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPLimitBreak/tree/master/PvpAutoLb",
-                "LastUpdate": 1782673912
+                "LastUpdate": 1782673912,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -23615,7 +23513,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1782399035
+                "LastUpdate": 1784453860
             }
         ]
     },
@@ -23746,7 +23644,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/yagi2/GilDelta/main/images/icon.png",
                 "RepoUrl": "https://github.com/yagi2/GilDelta",
-                "LastUpdate": 1778061387
+                "LastUpdate": 1778061387,
+                "is_ai_attributed": true
             },
             {
                 "Author": "yagi2",
@@ -23757,7 +23656,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/yagi2/RepeatBuy/main/images/icon.png",
                 "RepoUrl": "https://github.com/yagi2/RepeatBuy",
-                "LastUpdate": 1778061244
+                "LastUpdate": 1778061244,
+                "is_ai_attributed": true
             },
             {
                 "Author": "yagi2",
@@ -23768,7 +23668,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/yagi2/Restocker/main/images/icon.png",
                 "RepoUrl": "https://github.com/yagi2/Restocker",
-                "LastUpdate": 1778073388
+                "LastUpdate": 1778073388,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -23898,7 +23799,8 @@
                 "Description": "I wanna see what fish you catch...",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Yhumi/YhumiFishing",
-                "LastUpdate": 1781098824
+                "LastUpdate": 1781098824,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Mint",
@@ -23968,7 +23870,8 @@
                 "Description": "Reads a MakePlace furnishing list, finds the cheapest market listings across all worlds via Universalis, then automates world-hopping and purchasing via Lifestream.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Yodhrin13/HousingMarketShopper",
-                "LastUpdate": 1781652613
+                "LastUpdate": 1781652613,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -24156,7 +24059,8 @@
                 "Description": "A lightweight dictionary for Japanese raid terminology, Party Finder shorthand, and job abbreviations. Useful for players raiding on Japanese Data Centers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yudistiraen/FFXIV-JP-Dictionary",
-                "LastUpdate": 1782443759
+                "LastUpdate": 1782443759,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -24371,7 +24275,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zlatan-mt/XIV-Mini-Util/main/images/icon.png",
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1781610858
+                "LastUpdate": 1781610858,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -24390,7 +24295,8 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/zlatan-mt/XIVSubmarinesRewrite/main/icon.png",
                 "RepoUrl": "https://github.com/zlatan-mt/XIVSubmarinesRewrite",
-                "LastUpdate": 1766894936
+                "LastUpdate": 1766894936,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -24477,7 +24383,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zysilm/FFXIV-CombatSimulator/main/images/logo.png",
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1784303837
+                "LastUpdate": 1784303837,
+                "is_ai_attributed": true
             },
             {
                 "Author": "zysilm",
@@ -24487,7 +24394,8 @@
                 "Description": "Applies ragdoll physics to characters when they die in-game. Features per-bone physics configuration, hair physics simulation, terrain collision, and optional NPC death ragdoll support. Non-humanoid NPCs are handled gracefully with automatic bone-set detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zysilm/RagdollSystem",
-                "LastUpdate": 1780839470
+                "LastUpdate": 1780839470,
+                "is_ai_attributed": true
             }
         ]
     }
