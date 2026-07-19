@@ -1073,12 +1073,12 @@
                 "Author": "AlexFlipnote",
                 "Name": "The Holiest Fluffiness",
                 "InternalName": "HoliestFluffiness",
-                "AssemblyVersion": "0.8.1",
+                "AssemblyVersion": "0.9.1",
                 "Description": "A tweak plugin born for the free company 'The Holiest Fluffiness', now open for all to enjoy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AlexFlipnote/XIV_HolyPlugin/master/HoliestFluffiness/Images/icon.png",
                 "RepoUrl": "https://github.com/AlexFlipnote/XIV_HolyPlugin",
-                "LastUpdate": 1784398437
+                "LastUpdate": 1784411009
             }
         ]
     },
@@ -1799,12 +1799,12 @@
                 "Author": "Bancho",
                 "Name": "Hrothgar Scent",
                 "InternalName": "HrothgarScent",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "A nearby-player list where every row shows whether that player is targeting you, with a watcher history and alerts.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/ArcanineLS/DalamudPluginRepo/raw/master/images/icon.png",
                 "RepoUrl": "https://github.com/ArcanineLS/HrothgarScent",
-                "LastUpdate": 1784364448,
+                "LastUpdate": 1784424151,
                 "is_ai_attributed": true
             }
         ]
@@ -2513,6 +2513,92 @@
                 "IconUrl": "https://raw.githubusercontent.com/BalthierArt/lodestone/main/icon.png",
                 "RepoUrl": "https://github.com/BalthierArt/lodestone",
                 "LastUpdate": 1782744131
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "bdg-xiv",
+        "repo_url": "https://raw.githubusercontent.com/bdg-xiv/CWLSGoTo/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/bdg-xiv/CWLSGoTo",
+        "repo_name": "CWLSGoTo",
+        "plugins": [
+            {
+                "Author": "bdg",
+                "Name": "CBT",
+                "InternalName": "Automaton",
+                "AssemblyVersion": "69.193.0.22",
+                "Description": "Tweaks that are sometimes simple, sometimes not.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
+                "RepoUrl": "https://github.com/bdg-xiv/CWLSGoTo",
+                "LastUpdate": 1784423134,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "bdg",
+                "Name": "CWLS Go To",
+                "InternalName": "CWLSGoTo",
+                "AssemblyVersion": "0.0.0.11",
+                "Description": "Watches Cross-world Linkshell (CWLS1/CWLS2) chat for messages containing a map link and appends a clickable [Go To] link. Clicking it teleports you to the nearest aetheryte via the Teleporter plugin, hopping to the correct world/data center first via the Lifestream plugin if the message points to a different server.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bdg-xiv/CWLSGoTo",
+                "LastUpdate": 1784423134,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "bdg",
+                "Name": "Desynth All Command",
+                "InternalName": "DesynthAllCommand",
+                "AssemblyVersion": "0.0.0.6",
+                "Description": "Adds a /desynthall command that opens the game's desynthesis (materia extraction) window and automatically desynthesizes every item in the list, confirming each dialog and closing each result, using the same technique as PandorasBox's Desynth All feature. Self-contained - PandorasBox is not required. Temporarily pauses Yes Already's own dialog handling if it's installed, to avoid it racing with the confirmation step.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bdg-xiv/CWLSGoTo",
+                "LastUpdate": 1784423134,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "bdg",
+                "Name": "Logout On Tell",
+                "InternalName": "LogoutOnTell",
+                "AssemblyVersion": "0.0.0.3",
+                "Description": "When enabled, automatically logs your character out (with confirmation dialog handled) as soon as you receive a tell (private message) from anyone. Toggle it with /logoutontell (or /logoutontell on|off|status). Always starts disabled: the switch resets every time you log in, so you arm it deliberately each session.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bdg-xiv/CWLSGoTo",
+                "LastUpdate": 1784423134,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "bdg",
+                "Name": "Mod Guard",
+                "InternalName": "ModGuard",
+                "AssemblyVersion": "0.0.0.10",
+                "Description": "Keeps your mods private: when a mod-sync plugin (Lightless, Snowcloak, Sphene, PlayerSync, or any Mare Synchronos fork - the watch list is editable) is loaded, Mod Guard hides all your Penumbra mods by force-assigning an empty temporary collection to your character, and reverts + locks your Glamourer state, so sync plugins have nothing to share. Once the sync plugins are gone (or on demand), it restores everything exactly as it was - your real Penumbra collection, mod settings, and captured Glamourer state are never lost. Hidden state never spans a logout: it is restored as you log out and re-hidden fresh right after the next login, because a hidden state that goes stale across a relog left the character black. Use /modguard to open the control window. Requires Penumbra; Glamourer optional.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bdg-xiv/CWLSGoTo",
+                "LastUpdate": 1784423134,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "bdg",
+                "Name": "Mod Snap",
+                "InternalName": "ModSnap",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "Adds a 'Save Mods + Appearance' entry to the right-click menu on players (and a /modsnap command for your current target). It snapshots everything currently applied to that character - including mods streamed in by sync plugins like PlayerSync or Mare forks - by driving Penumbra's own Character Pack (PCP) export and immediately installing the result: the mods land in your Penumbra library under the PCP folder, a 'PCP/<name>' collection is created and assigned, and Glamourer creates a ready-to-apply design named after the player (with the mod already associated). The .pcp file itself is kept in Penumbra's export folder so you can archive or share it. Requires a current Penumbra with Character Pack support; Glamourer with 'Attach to PCP' enabled (default) for the design.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bdg-xiv/CWLSGoTo",
+                "LastUpdate": 1784423134,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "bdg",
+                "Name": "Typo Guard",
+                "InternalName": "TypoGuard",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "On Latin American keyboard layouts, / is Shift+7, so a missed Shift sends \"7artisan\" into chat instead of running /artisan. Typo Guard intercepts outgoing chat and blocks any message that starts with a 7 followed by a letter, printing what it blocked instead of sending it. If you really meant to send such a message, send it again within 5 seconds and it goes through. Toggle with /typoguard (also accepts on/off/status); the setting persists.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/bdg-xiv/CWLSGoTo",
+                "LastUpdate": 1784423134,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -5316,7 +5402,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/Begone/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/Begone",
-                "LastUpdate": 1783561518
+                "LastUpdate": 1783561518,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -5335,7 +5422,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/Begone/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/Begone",
-                "LastUpdate": 1783561657
+                "LastUpdate": 1783561657,
+                "is_ai_attributed": true
             },
             {
                 "Author": "The Enceladeum",
@@ -5346,7 +5434,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HClawsweep/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HClawsweep",
-                "LastUpdate": 1783560030
+                "LastUpdate": 1783560030,
+                "is_ai_attributed": true
             },
             {
                 "Author": "The Enceladeum",
@@ -5357,7 +5446,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMoniker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMoniker",
-                "LastUpdate": 1783560032
+                "LastUpdate": 1783560032,
+                "is_ai_attributed": true
             },
             {
                 "Author": "The Enceladeum",
@@ -5368,7 +5458,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-                "LastUpdate": 1783560028
+                "LastUpdate": 1783560028,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -5387,7 +5478,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HClawsweep/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HClawsweep",
-                "LastUpdate": 1781791177
+                "LastUpdate": 1781791177,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -5406,7 +5498,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMoniker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMoniker",
-                "LastUpdate": 1783375996
+                "LastUpdate": 1783375996,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -5425,7 +5518,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-                "LastUpdate": 1781791172
+                "LastUpdate": 1781791172,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -5732,7 +5826,8 @@
                 "Description": "Browse open FC craft projects and claim tasks directly from inside the game. Trading queries, item search, and craft-from-inventory with live Marketboard prices.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/EstherMartz/qiqirn-companion",
-                "LastUpdate": 1780785944
+                "LastUpdate": 1780785944,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -5746,12 +5841,12 @@
                 "Author": "Minmoose, Asgard and Contributors",
                 "Name": "Brio",
                 "InternalName": "Brio",
-                "AssemblyVersion": "0.8.0.10",
+                "AssemblyVersion": "0.8.0.11",
                 "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during G-Pose.\n\n- Advanced actor posing \n\t- While animating\n\t- Adjust actor positions without them resetting\n\t- Overlay and graphical posing modes\n- Creation of up to 239 G-Pose actors\n- Creation of custom lights\n- Supports integration with Penumbra, Glamourer & Customize+\n- Offline import and export of MCDF files onto G-Pose actors\n- Play XAT .xcp camera files\n- Play/Blend animations of G-Pose actors\n- Control Time/Weather in both the Overworld and G-Pose\n- Change the active festivals and apply up to 4 at once\n- Add/Remove Status Effects of G-Pose actors",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784360293
+                "LastUpdate": 1784422629
             }
         ]
     },
@@ -5892,7 +5987,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
                 "RepoUrl": "https://github.com/exatrines/AutoFrontline",
-                "LastUpdate": 1783083430
+                "LastUpdate": 1783083430,
+                "is_ai_attributed": true
             },
             {
                 "Author": "mirage",
@@ -5903,7 +5999,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/DTROverlayIcon.png",
                 "RepoUrl": "https://github.com/exatrines/DTROverlay",
-                "LastUpdate": 1781461180
+                "LastUpdate": 1781461180,
+                "is_ai_attributed": true
             },
             {
                 "Author": "mirage",
@@ -6057,7 +6154,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/felpssantarosa/bloom-bell/master/BloomBell/resources/icon.png",
                 "RepoUrl": "https://github.com/felpssantarosa/bloom-bell",
-                "LastUpdate": 1777915327
+                "LastUpdate": 1777915327,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -6105,7 +6203,8 @@
                 "Description": "Advanced marketboard tools and cross-world arbitrage scanning.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ff14-advanced-market-search/SaddlebagExchangeMarketboardPlugin",
-                "LastUpdate": 1778010058
+                "LastUpdate": 1778010058,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -6173,7 +6272,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1784309123
+                "LastUpdate": 1784420718
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6596,7 +6695,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/fuzzycore/EorzeaLink/master/EorzeaLink/icon.png",
                 "RepoUrl": "https://github.com/FuzzyCore/EorzeaLink",
-                "LastUpdate": 1779694670
+                "LastUpdate": 1779694670,
+                "is_ai_attributed": true
             },
             {
                 "Author": "fuzzycore",
@@ -6607,7 +6707,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/fuzzycore/Godlike/main/images/icon.png",
                 "RepoUrl": "https://github.com/fuzzycore/ffxivrepo",
-                "LastUpdate": 1784000930
+                "LastUpdate": 1784000930,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7187,7 +7288,8 @@
                 "Description": "A running log of everything you do while decorating your house, indoors and out in the yard: placing, removing, moving, rotating, and dyeing furniture, all with coordinates. Forgot what you just changed, or moved something and want it back? Click the old coordinates to copy them, hit Undo on any move, or turn on Apply mode to snap the selected item right back into place. It'll also show you what changed since you were last home. Built to sit alongside Burning Down the House. Type /houselog to open it.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/greenteakitkats/ARoomReborn",
-                "LastUpdate": 1783850980
+                "LastUpdate": 1783850980,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7205,7 +7307,8 @@
                 "Description": "GW2-style action camera: hold a key to capture the mouse, rotate the camera freely, auto-face your character, and soft-target the nearest enemy in view.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/grimgrum/action-cam-for-ffxiv",
-                "LastUpdate": 1778365158
+                "LastUpdate": 1778365158,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7345,7 +7448,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://git.camora.dev/asriel/Craftimizer/raw/branch/main/icon.png",
                 "RepoUrl": "https://github.com/happytunesai/Craftimizer_alt",
-                "LastUpdate": 1779022860
+                "LastUpdate": 1779022860,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7442,7 +7546,8 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/havyrl/FFXIVDiscordChatBridge/main/images/icon.png",
                 "RepoUrl": "https://github.com/havyrl/FFXIVDiscordChatBridge",
-                "LastUpdate": 1773870228
+                "LastUpdate": 1773870228,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7479,7 +7584,8 @@
                 "Description": "Hold spacebar to enable auto bunnyhop. Repeatedly sends jump inputs while spacebar is held, replicating continuous bunnyhopping in FFXIV. Updated for Dawntrail (Patch 7.x, API 14).",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/heeralaljrahul/bhop",
-                "LastUpdate": 1775419311
+                "LastUpdate": 1775419311,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7591,7 +7697,8 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/hocng015/Expedition-xiv/main/Expedition/Images/icon.png",
                 "RepoUrl": "https://github.com/hocng015/Expedition-xiv",
-                "LastUpdate": 1774800332
+                "LastUpdate": 1774800332,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7609,7 +7716,8 @@
                 "Description": "PFRemote allows you to browse, join, and create Party Finder listings remotely through a Discord bot. Perfect for managing parties from your phone or another device.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/hocng015/PFRemote-Repo",
-                "LastUpdate": 1772670544
+                "LastUpdate": 1772670544,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7628,7 +7736,8 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/hocng015/QuickSwitch/master/icon.png",
                 "RepoUrl": "https://github.com/hocng015/QuickSwitch",
-                "LastUpdate": 1774800322
+                "LastUpdate": 1774800322,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7646,7 +7755,8 @@
                 "Description": "Reduces the effects of lag on animation locks, weaving, and cast actions. Features Jacobson/Karels RTT estimation, dynamic latency floor, cast lock prediction, context-aware lock database, and real-time diagnostics. An improved successor to NoClippy.",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/hocng015/Tsunippy",
-                "LastUpdate": 1772676975
+                "LastUpdate": 1772676975,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7770,7 +7880,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/iarcanar/MBB_Dalamud/main/images/icon.png",
                 "RepoUrl": "https://github.com/iarcanar/MBB_Dalamud",
-                "LastUpdate": 1782746754
+                "LastUpdate": 1782746754,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7894,7 +8005,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/IgusMarine/ffxiv-ptbr-localizer/main/images/icon.png",
                 "RepoUrl": "https://github.com/IgusMarine/ffxiv-ptbr-localizer",
-                "LastUpdate": 1782313849
+                "LastUpdate": 1782313849,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -8166,7 +8278,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/itsaygea/DalamudPlugins/main/Aygea_64px.png",
                 "RepoUrl": "https://github.com/itsaygea/myChat2",
-                "LastUpdate": 1780124826
+                "LastUpdate": 1780124826,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Aygea",
@@ -8177,7 +8290,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/itsaygea/DalamudPlugins/main/Aygea_64px.png",
                 "RepoUrl": "https://github.com/itsaygea/Aygeas-Market-Insight",
-                "LastUpdate": 1781175845
+                "LastUpdate": 1781175845,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -8284,7 +8398,8 @@
                 "Description": "A rhythm-game style timeline overlay that displays configured actions at specific timestamps during duty encounters. Supports recording, playback, and multiple display modes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/J2Slow/Flowline",
-                "LastUpdate": 1783435031
+                "LastUpdate": 1783435031,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -8409,7 +8524,8 @@
                 "Description": "Queue and run bulk desynthesis jobs without clicking each item by hand. Target by item ID, bag, item-level / equipment-slot filters, or armoury chest category. Every job is dry-run first: the plugin builds a preview list of slots it intends to desynth, you click Confirm, then it walks the list one item at a time on the framework tick.\n\nUsage:\n  /bds         - open the main window\n  /bds bag <n> - preview bag N (1-4)\n  /bds item <itemId> - preview every copy of an item in inventory\n  /bds stop    - cancel a running queue",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jdw-ss/gaming-tools",
-                "LastUpdate": 1780944690
+                "LastUpdate": 1780944690,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -8811,7 +8927,8 @@
                 "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
                 "IconUrl": "https://raw.githubusercontent.com/jshade2710/faloop-messenger/main/FaloopMessenger/Images/Icon.png",
                 "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1783107378
+                "LastUpdate": 1783107378,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -8829,7 +8946,8 @@
                 "Description": "Monitors the Universalis market board and fires in-game chat and toast alerts when items on your watchlist hit a target price. Supports per-item scoping to a world, data center, or full region.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jshade2710/PriceWatcher",
-                "LastUpdate": 1777672287
+                "LastUpdate": 1777672287,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -9050,7 +9168,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kagekazu/QuickTransfer/main/images/icon.png",
                 "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
-                "LastUpdate": 1783358638
+                "LastUpdate": 1783358638,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -9069,7 +9188,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kako5555/5555-plugins/main/plugins/RetainerPriceDrop/icon.png",
                 "RepoUrl": "https://github.com/kako5555/5555-plugins",
-                "LastUpdate": 1783624612
+                "LastUpdate": 1783624612,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -9088,7 +9208,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kako5555/Dalamud.FullscreenCutscenes/main/Dalamud.FullscreenCutscenes/images/icon.png",
                 "RepoUrl": "https://github.com/kako5555/Dalamud.FullscreenCutscenes",
-                "LastUpdate": 1783617858
+                "LastUpdate": 1783617858,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -10095,12 +10216,12 @@
                 "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
                 "Name": "Ktisis",
                 "InternalName": "Ktisis",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.4.0.1",
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1784396821
+                "LastUpdate": 1784404696
             }
         ]
     },
@@ -14818,12 +14939,12 @@
                 "Author": "Noranda",
                 "Name": "XIV Shinies Sync",
                 "InternalName": "XIVShinies.SyncPlugin",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Automatically records your collection progress on XIV Shinies (https://xiv-shinies.com). New unlocks — quests, achievements, mounts, minions, and more — appear on the site within seconds, and everything else syncs automatically in the background. Fully opt-in: nothing uploads until you finish the short setup, and you choose exactly which collections to send. Use /shinies to get started.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/noranda/xiv-shinies-plugin/main/src/XIVShinies.SyncPlugin/images/icon.png",
                 "RepoUrl": "https://github.com/noranda/xiv-shinies-plugin",
-                "LastUpdate": 1784250517
+                "LastUpdate": 1784412036
             }
         ]
     },
@@ -15428,7 +15549,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784360293
+                "LastUpdate": 1784422629
             },
             {
                 "Author": "Risa and Contributors",
@@ -15478,12 +15599,12 @@
                 "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
                 "Name": "Ktisis",
                 "InternalName": "Ktisis",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.4.0.1",
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1784396821
+                "LastUpdate": 1784404696
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -15505,7 +15626,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1784382150
+                "LastUpdate": 1784411108
             },
             {
                 "Author": "Caraxi",
@@ -16318,7 +16439,7 @@
                 "Author": "Pyon",
                 "Name": "PyonPix",
                 "InternalName": "PyonPix",
-                "AssemblyVersion": "1.2.0.1",
+                "AssemblyVersion": "1.2.0.3",
                 "Description": "Spawn screens in the world to display media content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/priprii/PyonPix",
@@ -16522,12 +16643,12 @@
                 "Author": "Abyeon",
                 "Name": "Housingway",
                 "InternalName": "Housingway",
-                "AssemblyVersion": "1.0.0.4",
+                "AssemblyVersion": "1.0.0.5",
                 "Description": "A small collection of tweaks pertaining to housing.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/153",
                 "RepoUrl": "https://github.com/Abyeon/Housingway",
-                "LastUpdate": 1783051596
+                "LastUpdate": 1784415996
             }
         ]
     },
@@ -16751,7 +16872,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784392966
+                "LastUpdate": 1784422697
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -17013,7 +17134,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/144",
                 "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
-                "LastUpdate": 1783783941
+                "LastUpdate": 1783783941,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Kage",
@@ -17096,12 +17218,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.252",
+                "AssemblyVersion": "0.1.0.253",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1784358439
+                "LastUpdate": 1784420215
             },
             {
                 "Author": "nainaiowo",
@@ -17128,12 +17250,12 @@
                 "Author": "nainaiowo",
                 "Name": "DMU Helper",
                 "InternalName": "DMUP4DebuffHelper",
-                "AssemblyVersion": "0.1.0.13",
+                "AssemblyVersion": "0.1.0.15",
                 "Description": "Shows compact DMU P4 debuff timers with real/fake callouts.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/162",
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-p4-debuff-helper",
-                "LastUpdate": 1784344934
+                "LastUpdate": 1784423912
             }
         ]
     },
@@ -19460,6 +19582,24 @@
         ]
     },
     {
+        "repo_developer_name": "SaekoFFXIV",
+        "repo_url": "https://raw.githubusercontent.com/SaekoFFXIV/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/SaekoFFXIV/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Kait",
+                "Name": "F-List Link",
+                "InternalName": "FListLink",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Adds an Open F-list Profile action to nearby player context menus and the /flink command. A standalone /c/, /c, or c/ marker uses the player's FFXIV name; c/<name> accepts letters, underscores, and hyphens.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/SaekoFFXIV/FListLink",
+                "LastUpdate": 1784423515
+            }
+        ]
+    },
+    {
         "repo_developer_name": "SakuraFutaba",
         "repo_url": "https://raw.githubusercontent.com/SakuraFutaba/BossmodRebornCN/main/pluginmaster.json",
         "repo_source_url": "https://github.com/SakuraFutaba/BossmodRebornCN",
@@ -20870,24 +21010,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/starlit-systems/HonorificCarousel",
                 "LastUpdate": 1783699114
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "stevenhay",
-        "repo_url": "https://raw.githubusercontent.com/stevenhay/conclave-plugin/main/repo.json",
-        "repo_source_url": "https://github.com/stevenhay/conclave-plugin",
-        "repo_name": "conclave-plugin",
-        "plugins": [
-            {
-                "Author": "Stevie",
-                "Name": "Conclave Client",
-                "InternalName": "ConclaveClient",
-                "AssemblyVersion": "1.0.8",
-                "Description": "no cease and desist please",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/stevenhay/conclave-plugin",
-                "LastUpdate": 1757157360
             }
         ]
     },
@@ -23744,12 +23866,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.8",
+                "AssemblyVersion": "15.306.0.10-cn",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1783957106
+                "LastUpdate": 1784408796
             },
             {
                 "Author": "youdianfengbao (基于 awgil/ffxiv_satisfy)",
