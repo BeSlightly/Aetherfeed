@@ -3326,7 +3326,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CarpeNukem/xivamp/main/xivAMP/xivamp.png",
                 "RepoUrl": "https://github.com/CarpeNukem/xivamp",
-                "LastUpdate": 1782494871
+                "LastUpdate": 1784574886
             }
         ]
     },
@@ -6214,7 +6214,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1784552503
+                "LastUpdate": 1784562314
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6275,12 +6275,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.17",
+                "AssemblyVersion": "7.5.1.18",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1784351774
+                "LastUpdate": 1784562418
             },
             {
                 "Author": "Churin",
@@ -6757,12 +6757,12 @@
                 "Author": "GaugeMage",
                 "Name": "Party Finder Reup",
                 "InternalName": "PartyFinderReup",
-                "AssemblyVersion": "1.0.0.1",
+                "AssemblyVersion": "1.0.0.2",
                 "Description": "Automatically re-posts (\"reups\") your Party Finder listing before the 60-minute timer expires, so your recruitment stays up without you having to manually re-list it every hour. Uses your last recruitment settings. Includes a manual /pfreup now command and a configurable renewal interval.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/GaugeMage.png?size=256",
                 "RepoUrl": "https://github.com/GaugeMage/PartyFinderReup",
-                "LastUpdate": 1784148423
+                "LastUpdate": 1784570438
             }
         ]
     },
@@ -9880,6 +9880,24 @@
         ]
     },
     {
+        "repo_developer_name": "kittenhaswares-ui",
+        "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/XivBlend/main/repo.json",
+        "repo_source_url": "https://github.com/kittenhaswares-ui/XivBlend",
+        "repo_name": "XivBlend",
+        "plugins": [
+            {
+                "Author": "kittenhaswares-ui; based on PassiveModding/Meddle",
+                "Name": "XivBlend Prototype",
+                "InternalName": "XivBlend.Plugin",
+                "AssemblyVersion": "0.0.3.0",
+                "Description": "Self-only one-button Blender export prototype built on Meddle's AGPL extractor.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kittenhaswares-ui/XivBlend",
+                "LastUpdate": 1784573705
+            }
+        ]
+    },
+    {
         "repo_developer_name": "kk-triplesix",
         "repo_url": "https://raw.githubusercontent.com/kk-triplesix/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/kk-triplesix/DalamudPlugins",
@@ -10153,18 +10171,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784480149
+                "LastUpdate": 1784528212
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.1.17",
+                "AssemblyVersion": "7.5.1.18",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1784351774
+                "LastUpdate": 1784562418
             },
             {
                 "Author": "Team Wrath",
@@ -10175,7 +10193,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784482394
+                "LastUpdate": 1784561174
             }
         ]
     },
@@ -13094,24 +13112,6 @@
         ]
     },
     {
-        "repo_developer_name": "naco-ff14",
-        "repo_url": "https://raw.githubusercontent.com/naco-ff14/CrescentAutoActions/main/repo.json",
-        "repo_source_url": "https://github.com/naco-ff14/CrescentAutoActions",
-        "repo_name": "CrescentAutoActions",
-        "plugins": [
-            {
-                "Author": "naco-ff14",
-                "Name": "Crescent Auto Actions",
-                "InternalName": "CrescentAutoActions",
-                "AssemblyVersion": "0.3.0.0",
-                "Description": "登録したAction IDを監視し、指定エリア内かつ戦闘中で、ゲーム側が使用可能と判定した時に自動使用するDalamudプラグインです。",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/naco-ff14/CrescentAutoActions",
-                "LastUpdate": 1784539851
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Nainaiowo",
         "repo_url": "https://raw.githubusercontent.com/Nainaiowo/IMakeSillyThings/main/repo.json",
         "repo_source_url": "https://github.com/Nainaiowo/IMakeSillyThings",
@@ -15463,7 +15463,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1784491169
+                "LastUpdate": 1784569592
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -15485,7 +15485,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1784506251
+                "LastUpdate": 1784577551
             },
             {
                 "Author": "Caraxi",
@@ -16688,7 +16688,7 @@
                 "Author": "kawaii, NightmareXIV",
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.1.10",
+                "AssemblyVersion": "4.6.1.16",
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
@@ -16802,7 +16802,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784543573
+                "LastUpdate": 1784561174
             },
             {
                 "Author": "daemitus, kawaii",
@@ -17115,12 +17115,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.256",
+                "AssemblyVersion": "0.1.0.257",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1784449641
+                "LastUpdate": 1784576741
             },
             {
                 "Author": "nainaiowo",
@@ -19245,12 +19245,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.5.2.6",
+                "AssemblyVersion": "0.5.2.7",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1784537672
+                "LastUpdate": 1784564153
             }
         ]
     },
@@ -23208,7 +23208,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784457628,
+                "LastUpdate": 1784576972,
                 "is_ai_attributed": true
             },
             {
@@ -23406,7 +23406,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1784506251
+                "LastUpdate": 1784577551
             }
         ]
     },
@@ -24045,12 +24045,12 @@
                 "Author": "Zeffuro",
                 "Name": "NativeMeters",
                 "InternalName": "NativeMeters",
-                "AssemblyVersion": "1.0.3.2",
+                "AssemblyVersion": "1.0.3.3",
                 "Description": "Native DPS Meters for Final Fantasy XIV, still in beta and may be subject to change.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Zeffuro/NativeMeters/master/Media/icon.png",
                 "RepoUrl": "https://github.com/Zeffuro/NativeMeters",
-                "LastUpdate": 1783229583
+                "LastUpdate": 1784567089
             }
         ]
     },
