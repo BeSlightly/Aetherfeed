@@ -559,12 +559,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.4.1.1",
+                "AssemblyVersion": "0.4.1.2",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784491775,
+                "LastUpdate": 1784585421,
                 "is_ai_attributed": true
             },
             {
@@ -681,12 +681,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.0.1",
+                "AssemblyVersion": "0.3.0.2",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1784279606
+                "LastUpdate": 1784590772
             },
             {
                 "Author": "XA",
@@ -1670,7 +1670,7 @@
                 "Description": "Provides link buttons in chat for death rolling",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/ChatDeathRoll",
-                "LastUpdate": 1782460004
+                "LastUpdate": 1784577234
             },
             {
                 "Author": "Anya Hichu",
@@ -1680,7 +1680,7 @@
                 "Description": "Provide deterministic pose commands (cpose, standup, walk, etc.)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
-                "LastUpdate": 1782459986
+                "LastUpdate": 1784542366
             },
             {
                 "Author": "Anya Hichu",
@@ -1690,7 +1690,7 @@
                 "Description": "Update honorific title based on discord activity informations",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
-                "LastUpdate": 1782798833
+                "LastUpdate": 1784564649
             },
             {
                 "Author": "Anya Hichu",
@@ -1700,7 +1700,7 @@
                 "Description": "Provides commands to interact with penumbra mod settings",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/ModSettingCommands",
-                "LastUpdate": 1782459993
+                "LastUpdate": 1784549593
             },
             {
                 "Author": "Anya Hichu",
@@ -1710,7 +1710,7 @@
                 "Description": "Displays emote counters as honorific title dynamically",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
-                "LastUpdate": 1782798825
+                "LastUpdate": 1784545549
             },
             {
                 "Author": "Anya Hichu",
@@ -1721,7 +1721,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anya-hichu/Quack/0.1.5.0/images/icon.png",
                 "RepoUrl": "https://github.com/anya-hichu/Quack",
-                "LastUpdate": 1783540152
+                "LastUpdate": 1784541311
             },
             {
                 "Author": "Anya Hichu",
@@ -1731,7 +1731,7 @@
                 "Description": "Refresh party finder recruitment automatically",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/RecruitmentRefresher",
-                "LastUpdate": 1782460001
+                "LastUpdate": 1784567645
             },
             {
                 "Author": "Anya Hichu",
@@ -4423,11 +4423,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.28.0.0",
+                "AssemblyVersion": "5.29.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1784546921,
+                "LastUpdate": 1784578932,
                 "is_ai_attributed": true
             }
         ]
@@ -4921,6 +4921,24 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Dregan234/AetherVoice",
                 "LastUpdate": 1782565151
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "DuckSqueeker727",
+        "repo_url": "https://raw.githubusercontent.com/DuckSqueeker727/AutoBeastTribe/main/repo.json",
+        "repo_source_url": "https://github.com/DuckSqueeker727/AutoBeastTribe",
+        "repo_name": "AutoBeastTribe",
+        "plugins": [
+            {
+                "Author": "Sean Clarke",
+                "Name": "AutoBeastTribe",
+                "InternalName": "AutoBeastTribe",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Pick up to 4 beast tribes in priority order. AutoBeastTribe uses Lifestream to travel to each tribe's quest-giver, accepts the day's Allied Society quest(s), and hands each one to Questionable to complete, repeating until the day's quest allowance is spent. Also shows current reputation and rank progress for every tribe you've unlocked.\n\nRequires: Lifestream, Questionable (which in turn needs vnavmesh and TextAdvance).",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/DuckSqueeker727/AutoBeastTribe",
+                "LastUpdate": 1784596044
             }
         ]
     },
@@ -5484,12 +5502,12 @@
                 "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
                 "Name": "Brio-CN",
                 "InternalName": "Brio-CN",
-                "AssemblyVersion": "1.0.3.0",
+                "AssemblyVersion": "1.0.4.0",
                 "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/endfish/Brio-CN/zh-CN/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/endfish/Brio-CN",
-                "LastUpdate": 1784372433
+                "LastUpdate": 1784593147
             },
             {
                 "Author": "kawaii, 汉化: Endfish",
@@ -6209,12 +6227,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.27",
+                "AssemblyVersion": "7.5.1.28",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1784562314
+                "LastUpdate": 1784595045
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6253,12 +6271,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Passport Checker Reborn",
                 "InternalName": "PassportCheckerReborn",
-                "AssemblyVersion": "7.5.1.2",
+                "AssemblyVersion": "7.5.1.3",
                 "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1783635995
+                "LastUpdate": 1784596639
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6613,11 +6631,11 @@
                 "Author": "FroggeBot",
                 "Name": "Frogge",
                 "InternalName": "FroggePlugin",
-                "AssemblyVersion": "0.0.0.4",
+                "AssemblyVersion": "0.0.0.6",
                 "Description": "View your VIP status, browse venue events, and more, without leaving the game. Companion client for the FroggeBot Discord bot.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FroggeBot/FroggePlugin",
-                "LastUpdate": 1784519647,
+                "LastUpdate": 1784597926,
                 "is_ai_attributed": true
             }
         ]
@@ -7992,12 +8010,12 @@
                 "Author": "CraftFlow Team",
                 "Name": "CraftFlow",
                 "InternalName": "CraftFlow",
-                "AssemblyVersion": "0.2.10.0",
+                "AssemblyVersion": "0.2.11.0",
                 "Description": "FF14生产辅助插件，提供核心功能：(1) BOM递归展开——输入目标装备/食物/收藏品，自动递归分解全部中间材料，生成完整材料清单；(2) 采集推送——一键将待采集材料列表推送至GatherBuddyReborn，快速定位采集点；(3) 一键制作——调用Artisan插件自动制作，独立进度窗口实时显示。使用 /cf 或 /craftflow 打开主窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ijnokmsc/DalamudPlugins/main/icons/craftflow.png",
                 "RepoUrl": "https://github.com/ijnokmsc/CraftFlow",
-                "LastUpdate": 1784260191
+                "LastUpdate": 1784599779
             },
             {
                 "Author": "FateWhisper Team (based on SilverDasher)",
@@ -9889,11 +9907,11 @@
                 "Author": "kittenhaswares-ui; based on PassiveModding/Meddle",
                 "Name": "XivBlend Prototype",
                 "InternalName": "XivBlend.Plugin",
-                "AssemblyVersion": "0.0.3.0",
+                "AssemblyVersion": "0.0.10.0",
                 "Description": "Self-only one-button Blender export prototype built on Meddle's AGPL extractor.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/XivBlend",
-                "LastUpdate": 1784573705
+                "LastUpdate": 1784598176
             }
         ]
     },
@@ -11832,12 +11850,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.4.1.1",
+                "AssemblyVersion": "0.4.1.2",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784491775,
+                "LastUpdate": 1784585421,
                 "is_ai_attributed": true
             }
         ]
@@ -12202,12 +12220,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.0.1",
+                "AssemblyVersion": "0.3.0.2",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1784279606
+                "LastUpdate": 1784590772
             }
         ]
     },
@@ -12465,23 +12483,23 @@
                 "Author": "Miruku",
                 "Name": "PromeRotation API12",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.2.6.1",
+                "AssemblyVersion": "1.2.6.2",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1784336499
+                "LastUpdate": 1784591151
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.5.7.1",
+                "AssemblyVersion": "1.5.7.2",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1784336499
+                "LastUpdate": 1784591151
             }
         ]
     },
@@ -13562,7 +13580,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1784424128
+                "LastUpdate": 1784596909
             },
             {
                 "Author": "goat, Maple",
@@ -16545,7 +16563,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/153",
                 "RepoUrl": "https://github.com/Abyeon/Housingway",
-                "LastUpdate": 1784428064
+                "LastUpdate": 1784598367
             }
         ]
     },
@@ -16802,7 +16820,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784561174
+                "LastUpdate": 1784583446
             },
             {
                 "Author": "daemitus, kawaii",
@@ -16885,7 +16903,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1784392361
+                "LastUpdate": 1784581861
             }
         ]
     },
@@ -17024,23 +17042,24 @@
         "plugins": [
             {
                 "Author": "Kage",
-                "Name": "QuickTransfer",
+                "Name": "Quick Transfer",
                 "InternalName": "QuickTransfer",
-                "AssemblyVersion": "1.1.0.6",
+                "AssemblyVersion": "1.1.0.7",
                 "Description": "Automate inventory transfers with Shift/Ctrl/Alt + Right-Click. Trade window, vendor quick sell, FC chest.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/144",
                 "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
-                "LastUpdate": 1783783941,
+                "LastUpdate": 1784584958,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Kage",
-                "Name": "RelicTracker",
+                "Name": "Relic Tracker",
                 "InternalName": "RelicTracker",
                 "AssemblyVersion": "1.0.0.9",
                 "Description": "Track relic weapon, tool, and armor progress across every job, with live material counts and optional FFXIV Collect sync.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/159",
                 "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
                 "LastUpdate": 1784062418
             }
@@ -20373,12 +20392,12 @@
                 "Author": "Shuro",
                 "Name": "GobchatEx Roleplay Suite",
                 "InternalName": "GobchatExPlugin",
-                "AssemblyVersion": "0.11.2",
+                "AssemblyVersion": "1.0.0",
                 "Description": "Roleplay Highlighting in the native chat. Mentions notification with sound effects and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shuro/dalamud-plugins/main/GobchatEx/images/icon.png",
                 "RepoUrl": "https://github.com/Shuro/dalamud-plugins",
-                "LastUpdate": 1784244290,
+                "LastUpdate": 1784585787,
                 "is_ai_attributed": true
             }
         ]
@@ -20393,12 +20412,12 @@
                 "Author": "Shuro",
                 "Name": "GobchatEx Roleplay Suite",
                 "InternalName": "GobchatExPlugin",
-                "AssemblyVersion": "0.11.2",
+                "AssemblyVersion": "1.0.0",
                 "Description": "Roleplay Highlighting in the native chat. Mentions notification with sound effects and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shuro/dalamud-plugins/main/GobchatEx/images/icon.png",
                 "RepoUrl": "https://github.com/Shuro/GobchatEx-plugin",
-                "LastUpdate": 1784244290,
+                "LastUpdate": 1784585787,
                 "is_ai_attributed": true
             }
         ]
@@ -22718,6 +22737,25 @@
         "repo_developer_name": "ViviAshe"
     },
     {
+        "repo_developer_name": "vmvrchelina",
+        "repo_url": "https://raw.githubusercontent.com/vmvrchelina/izzysfurniture/main/repo.json",
+        "repo_source_url": "https://github.com/vmvrchelina/izzysfurniture",
+        "repo_name": "izzysfurniture",
+        "plugins": [
+            {
+                "Author": "Izzy",
+                "Name": "Izzy's Furniture",
+                "InternalName": "IzzysFurniture",
+                "AssemblyVersion": "0.1.5.0",
+                "Description": "Spawn furniture, NPCs, and map assets anywhere.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/vmvrchelina/izzysfurniture/main/icon.png",
+                "RepoUrl": "https://github.com/vmvrchelina/izzysfurniture",
+                "LastUpdate": 1784593956
+            }
+        ]
+    },
+    {
         "repo_developer_name": "VorpalMoth",
         "repo_url": "https://raw.githubusercontent.com/VorpalMoth/MothJack/master/repo.json",
         "repo_source_url": "https://github.com/VorpalMoth/MothJack",
@@ -23203,12 +23241,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.8.4",
+                "AssemblyVersion": "0.9.8.6",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784576972,
+                "LastUpdate": 1784592126,
                 "is_ai_attributed": true
             },
             {
@@ -23283,12 +23321,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.8.4",
+                "AssemblyVersion": "0.9.8.6",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784457628,
+                "LastUpdate": 1784592126,
                 "is_ai_attributed": true
             }
         ]
