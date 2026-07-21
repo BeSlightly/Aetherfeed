@@ -6227,12 +6227,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.29",
+                "AssemblyVersion": "7.5.1.30",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1784612043
+                "LastUpdate": 1784651159
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9894,7 +9894,8 @@
                 "Description": "A movable PvP overlay showing visible enemy hard/cast targets and recent harmful pressure, with job icons. Built primarily for Crystalline Conflict; configure with /howmany.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/HOWMANY",
-                "LastUpdate": 1784151153
+                "LastUpdate": 1784151153,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -9912,7 +9913,8 @@
                 "Description": "A strict one-shot smart input buffer with adaptive local timing, hard cancellation rules, and automatic suspension around incompatible action plugins.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/PulseQueue",
-                "LastUpdate": 1784643158
+                "LastUpdate": 1784645978,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -9926,11 +9928,12 @@
                 "Author": "kittenhaswares-ui; based on PassiveModding/Meddle",
                 "Name": "XivBlend Prototype",
                 "InternalName": "XivBlend.Plugin",
-                "AssemblyVersion": "0.0.11.0",
+                "AssemblyVersion": "0.0.12.0",
                 "Description": "Self-only one-button Blender export prototype built on Meddle's AGPL extractor.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/XivBlend",
-                "LastUpdate": 1784637782
+                "LastUpdate": 1784649940,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -10203,7 +10206,7 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.13",
+                "AssemblyVersion": "15.306.0.15",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
@@ -19143,11 +19146,11 @@
                 "Author": "Rowsai",
                 "Name": "HappyTrigger",
                 "InternalName": "HappyTrigger",
-                "AssemblyVersion": "0.0.1.3",
+                "AssemblyVersion": "0.0.1.41",
                 "Description": "FFXIV Dalamud plugin for detecting triggers and displaying call text.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Rowsai/HappyTrigger",
-                "LastUpdate": 1783690200
+                "LastUpdate": 1784651991
             },
             {
                 "Author": "Rowsai",
@@ -19844,7 +19847,7 @@
                 "Author": "ScytRaiin",
                 "Name": "Callouts",
                 "InternalName": "Callouts",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "User-defined trigger rules that turn in-game events into local alerts - Echo messages, sound effects, and toasts. Rules are configured entirely in the UI; everything stays on your machine.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Scytraiin/Callouts",
@@ -22130,7 +22133,7 @@
                 "Author": "u86cd(粉色母肥)",
                 "Name": "SillyToolbox",
                 "InternalName": "SillyToolbox",
-                "AssemblyVersion": "1.0.3.1",
+                "AssemblyVersion": "1.0.3.2",
                 "Description": "傻肥工具箱, 包含一些给自己和亲友用的小功能\n如果有什么想要的功能请直接联系我, 我会尽力加入工具箱",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/u86cd/DalamudPlugins/main/plugins/SillyToolbox/SillyToolbox_icon.png",
@@ -22230,93 +22233,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1784436547
-            }
-        ]
-    },
-    {
-        "repo_url": "https://plugins.xivhub.net/pluginmaster.json",
-        "repo_source_url": "https://github.com/XivHub",
-        "repo_developer_name": "Unknown Developer",
-        "repo_name": "pluginmaster",
-        "plugins": [
-            {
-                "Author": "xivhub",
-                "Name": "Artisan (XIV Hub fork)",
-                "InternalName": "Artisan",
-                "AssemblyVersion": "4.0.5.33",
-                "Description": "The all-in-one crafting plugin.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
-                "RepoUrl": "https://github.com/ZhyraPlugins/Artisan"
-            },
-            {
-                "Author": "XivHub",
-                "Name": "AutoPincher",
-                "InternalName": "AutoPincher",
-                "AssemblyVersion": "0.1.2.0",
-                "Description": "Repinches your retainer market listings by undercutting the cheapest live competitor by 1 gil. Reads each listing straight from game memory, clicks the in-game market board's Compare Prices to find the current cheapest offering, and lowers your asking price to one below it (holding when your own listing is already cheapest). No server, no telemetry, nothing leaves your client. Adds an Auto Pinch button next to AutoRetainer's retainer-list controls and a /autopinch command for the open retainer. AutoRetainer is optional (used only to pause its automation during a pinch run).",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/XivHub/AutoPincher",
-                "LastUpdate": 1784541954
-            },
-            {
-                "Author": "XivHub",
-                "Name": "FeteTimer",
-                "InternalName": "FeteTimer",
-                "AssemblyVersion": "0.1.7.0",
-                "Description": "Calibrates the Ishgardian Restoration Fête (Skyrise Celebration) countdown from the in-game objective list while you are in the Firmament and fires configurable chat, notification, and sound alerts at your chosen lead times.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/edg-l/FeteTimer"
-            },
-            {
-                "Author": "XivHub",
-                "Name": "Ice's Cosmic Exploration (XivHub fork)",
-                "InternalName": "ICE",
-                "AssemblyVersion": "1.0.0.6",
-                "Description": "A little helper to go gather your heart out.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://puni.sh/api/plugins/icon/70",
-                "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1784213761
-            },
-            {
-                "Author": "XivHub",
-                "Name": "InventoryCleaner",
-                "InternalName": "InventoryCleaner",
-                "AssemblyVersion": "0.3.4.0",
-                "Description": "Cleans up your inventory.",
-                "DalamudApiLevel": 15,
-                "LastUpdate": 1782807877
-            },
-            {
-                "Author": "XivHub",
-                "Name": "PartyPlanner Reborn",
-                "InternalName": "PartyPlannerReborn",
-                "AssemblyVersion": "1.9.0.0",
-                "Description": "Browse community events sourced from partake.gg directly from your client! XivHubPlugins fork with optional Lifestream travel: change to the event's world, or — with Lifestream + vnavmesh installed — walk straight to the event's housing plot/apartment door.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/ZhyraPlugins/PartyPlanner/master/PartyPlanner/images/icon.png",
-                "RepoUrl": "https://github.com/ZhyraPlugins/PartyPlanner",
-                "LastUpdate": 1781108536
-            },
-            {
-                "Author": "XivHub",
-                "Name": "RetainerReach",
-                "InternalName": "RetainerReach",
-                "AssemblyVersion": "0.1.1.0",
-                "Description": "Unified view of your active character and all retainers' inventories, with one-click Retrieve that summons each holding retainer at a nearby Summoning Bell and pulls selected items into your bags. This plugin automates in-game actions (retainer bell interaction and item retrieval) on your behalf; use at your own risk with respect to the game's Terms of Service.",
-                "DalamudApiLevel": 15,
-                "LastUpdate": 1784634848
-            },
-            {
-                "Author": "XivHub",
-                "Name": "SealHunter",
-                "InternalName": "SealHunter",
-                "AssemblyVersion": "0.7.2.0",
-                "Description": "Works through your hunting logs for you — Grand Company (seals) or the current class/job log (XP), selectable in settings. Teleports/flies to each zone, walks to targets with vnavmesh, and clears the required marks using BossMod Reborn autorotation. Requires vnavmesh, Lifestream, and BossMod Reborn. Optional AutoDuty for the GC log's dungeon marks.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/edg-l/SealHunter"
+                "LastUpdate": 1784646913
             }
         ]
     },
@@ -23599,6 +23516,102 @@
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
                 "LastUpdate": 1784577551
+            }
+        ]
+    },
+    {
+        "repo_url": "https://plugins.xivhub.net/pluginmaster.json",
+        "repo_source_url": "https://github.com/XivHub",
+        "repo_developer_name": "xivhub",
+        "repo_name": "pluginmaster",
+        "plugins": [
+            {
+                "Author": "xivhub",
+                "Name": "Artisan (XIV Hub fork)",
+                "InternalName": "Artisan",
+                "AssemblyVersion": "4.0.5.33",
+                "Description": "The all-in-one crafting plugin.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+                "RepoUrl": "https://github.com/ZhyraPlugins/Artisan",
+                "is_closed_source": true
+            },
+            {
+                "Author": "XivHub",
+                "Name": "AutoPincher",
+                "InternalName": "AutoPincher",
+                "AssemblyVersion": "0.1.2.0",
+                "Description": "Repinches your retainer market listings by undercutting the cheapest live competitor by 1 gil. Reads each listing straight from game memory, clicks the in-game market board's Compare Prices to find the current cheapest offering, and lowers your asking price to one below it (holding when your own listing is already cheapest). No server, no telemetry, nothing leaves your client. Adds an Auto Pinch button next to AutoRetainer's retainer-list controls and a /autopinch command for the open retainer. AutoRetainer is optional (used only to pause its automation during a pinch run).",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/XivHub/AutoPincher",
+                "LastUpdate": 1784541954,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "XivHub",
+                "Name": "FeteTimer",
+                "InternalName": "FeteTimer",
+                "AssemblyVersion": "0.1.7.0",
+                "Description": "Calibrates the Ishgardian Restoration Fête (Skyrise Celebration) countdown from the in-game objective list while you are in the Firmament and fires configurable chat, notification, and sound alerts at your chosen lead times.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/xivhub/FeteTimer",
+                "LastUpdate": 1784535253,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "XivHub",
+                "Name": "Ice's Cosmic Exploration (XivHub fork)",
+                "InternalName": "ICE",
+                "AssemblyVersion": "1.0.0.6",
+                "Description": "A little helper to go gather your heart out.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/70",
+                "RepoUrl": "https://github.com/XivHub/Ices-Cosmic-Exploration",
+                "LastUpdate": 1784536121,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "XivHub",
+                "Name": "InventoryCleaner",
+                "InternalName": "InventoryCleaner",
+                "AssemblyVersion": "0.3.4.0",
+                "Description": "Cleans up your inventory.",
+                "DalamudApiLevel": 15,
+                "LastUpdate": 1782807877,
+                "is_closed_source": true
+            },
+            {
+                "Author": "XivHub",
+                "Name": "PartyPlanner Reborn",
+                "InternalName": "PartyPlannerReborn",
+                "AssemblyVersion": "1.9.0.0",
+                "Description": "Browse community events sourced from partake.gg directly from your client! XivHubPlugins fork with optional Lifestream travel: change to the event's world, or — with Lifestream + vnavmesh installed — walk straight to the event's housing plot/apartment door.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ZhyraPlugins/PartyPlanner/master/PartyPlanner/images/icon.png",
+                "RepoUrl": "https://github.com/XivHub/PartyPlanner",
+                "LastUpdate": 1781108536,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "XivHub",
+                "Name": "RetainerReach",
+                "InternalName": "RetainerReach",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "Unified view of your active character and all retainers' inventories, with one-click Retrieve that summons each holding retainer at a nearby Summoning Bell and pulls selected items into your bags. This plugin automates in-game actions (retainer bell interaction and item retrieval) on your behalf; use at your own risk with respect to the game's Terms of Service.",
+                "DalamudApiLevel": 15,
+                "LastUpdate": 1784647681,
+                "is_closed_source": true
+            },
+            {
+                "Author": "XivHub",
+                "Name": "SealHunter",
+                "InternalName": "SealHunter",
+                "AssemblyVersion": "0.7.2.0",
+                "Description": "Works through your hunting logs for you — Grand Company (seals) or the current class/job log (XP), selectable in settings. Teleports/flies to each zone, walks to targets with vnavmesh, and clears the required marks using BossMod Reborn autorotation. Requires vnavmesh, Lifestream, and BossMod Reborn. Optional AutoDuty for the GC log's dungeon marks.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/XivHub/SealHunter",
+                "LastUpdate": 1784535669,
+                "is_ai_attributed": true
             }
         ]
     },
