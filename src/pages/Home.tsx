@@ -95,9 +95,10 @@ const Home: React.FC = () => {
                 tooltip: 'Hides plugins containing non-English characters in their name or description'
             },
             {
-                label: 'Hide AI-attributed plugins',
+                label: 'Hide likely AI-written plugins',
                 value: 'hide_ai',
-                tooltip: 'Hides plugins with detected or manually marked AI usage'
+                tooltip:
+                    'Hides plugins that likely used AI, based on the contributor list and general AI coding patterns'
             },
             {
                 label: 'Hide plugin icons',
