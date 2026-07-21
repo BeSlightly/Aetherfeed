@@ -9928,11 +9928,11 @@
                 "Author": "kittenhaswares-ui; based on PassiveModding/Meddle",
                 "Name": "XivBlend Prototype",
                 "InternalName": "XivBlend.Plugin",
-                "AssemblyVersion": "0.0.12.0",
+                "AssemblyVersion": "0.0.13.0",
                 "Description": "Self-only one-button Blender export prototype built on Meddle's AGPL extractor.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/XivBlend",
-                "LastUpdate": 1784649940,
+                "LastUpdate": 1784661668,
                 "is_ai_attributed": true
             }
         ]
@@ -16945,7 +16945,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1784269480
+                "LastUpdate": 1784663757
             },
             {
                 "Author": "erdelf",
@@ -17192,7 +17192,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1784615049
+                "LastUpdate": 1784615049,
+                "is_ai_attributed": true
             },
             {
                 "Author": "nainaiowo",
@@ -20770,7 +20771,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1784593222,
+                "LastUpdate": 1784658034,
                 "is_ai_attributed": true
             }
         ]
@@ -22775,6 +22776,26 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VimaFFXIV/SharkChat",
                 "LastUpdate": 1780472492,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "VirstaXIV",
+        "repo_url": "https://raw.githubusercontent.com/VirstaXIV/DynamicTextureManager/master/repo.json",
+        "repo_source_url": "https://github.com/VirstaXIV/DynamicTextureManager",
+        "repo_name": "DynamicTextureManager",
+        "plugins": [
+            {
+                "Author": "Virsta",
+                "Name": "Dynamic Texture Manager",
+                "InternalName": "DynamicTextureManager",
+                "AssemblyVersion": "0.2.1.0",
+                "Description": "Helps set up custom textures to add custom decals / images on models by generating override textures.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/VirstaXIV/DynamicTextureManager/master/images/icon.png",
+                "RepoUrl": "https://github.com/VirstaXIV/DynamicTextureManager",
+                "LastUpdate": 1784662490,
                 "is_ai_attributed": true
             }
         ]
