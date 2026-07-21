@@ -4423,11 +4423,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.29.0.0",
+                "AssemblyVersion": "5.30.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1784578932,
+                "LastUpdate": 1784639555,
                 "is_ai_attributed": true
             }
         ]
@@ -5823,7 +5823,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784537156
+                "LastUpdate": 1784621607
             }
         ]
     },
@@ -9900,6 +9900,24 @@
     },
     {
         "repo_developer_name": "kittenhaswares-ui",
+        "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/PulseQueue/main/repo.json",
+        "repo_source_url": "https://github.com/kittenhaswares-ui/PulseQueue",
+        "repo_name": "PulseQueue",
+        "plugins": [
+            {
+                "Author": "kittenhaswares-ui",
+                "Name": "PulseQueue",
+                "InternalName": "PulseQueue.Plugin",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "A strict one-shot smart input buffer with adaptive local timing, hard cancellation rules, and automatic suspension around incompatible action plugins.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kittenhaswares-ui/PulseQueue",
+                "LastUpdate": 1784643158
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kittenhaswares-ui",
         "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/XivBlend/main/repo.json",
         "repo_source_url": "https://github.com/kittenhaswares-ui/XivBlend",
         "repo_name": "XivBlend",
@@ -9908,11 +9926,11 @@
                 "Author": "kittenhaswares-ui; based on PassiveModding/Meddle",
                 "Name": "XivBlend Prototype",
                 "InternalName": "XivBlend.Plugin",
-                "AssemblyVersion": "0.0.10.0",
+                "AssemblyVersion": "0.0.11.0",
                 "Description": "Self-only one-button Blender export prototype built on Meddle's AGPL extractor.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/XivBlend",
-                "LastUpdate": 1784598176
+                "LastUpdate": 1784637782
             }
         ]
     },
@@ -10152,12 +10170,12 @@
                 "Author": "croizat",
                 "Name": "CBT",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.194.0.0",
+                "AssemblyVersion": "69.196.0.0",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-                "LastUpdate": 1784307589
+                "LastUpdate": 1784638885
             },
             {
                 "Author": "veyn, xan_0",
@@ -10185,12 +10203,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.12",
+                "AssemblyVersion": "15.306.0.13",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784528212
+                "LastUpdate": 1784642077
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10212,7 +10230,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784561174
+                "LastUpdate": 1784583446
             }
         ]
     },
@@ -12802,6 +12820,26 @@
         "repo_name": "dalamud-plugin-repo"
     },
     {
+        "repo_developer_name": "monstersghost",
+        "repo_url": "https://raw.githubusercontent.com/monstersghost/PenumbraOrganizerPlugin/main/repo.json",
+        "repo_source_url": "https://github.com/monstersghost/PenumbraOrganizerPlugin",
+        "repo_name": "PenumbraOrganizerPlugin",
+        "plugins": [
+            {
+                "Author": "Penumbra Organizer Contributors",
+                "Name": "Penumbra Organizer",
+                "InternalName": "PenumbraOrganizer.Plugin",
+                "AssemblyVersion": "0.4.0.3",
+                "Description": "Sorts your installed Penumbra mods into folders by creator, type, or both. You approve every move before it happens, protect anything you want left alone, and can export or import the whole plan as an Excel workbook.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/monstersghost/PenumbraOrganizerPlugin/main/PenumbraOrganizer.Plugin/images/icon.png",
+                "RepoUrl": "https://github.com/monstersghost/PenumbraOrganizerPlugin",
+                "LastUpdate": 1784638065,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Moon-Magic-Z",
         "repo_url": "https://raw.githubusercontent.com/Moon-Magic-Z/Moon-Magic/main/repo.json",
         "repo_source_url": "https://github.com/Moon-Magic-Z/Moon-Magic",
@@ -13913,7 +13951,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1784432490,
+                "LastUpdate": 1784638683,
                 "is_closed_source": true
             },
             {
@@ -13925,19 +13963,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1784432490,
+                "LastUpdate": 1784638683,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.27",
+                "AssemblyVersion": "7.5.1.29",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1784432490,
+                "LastUpdate": 1784638683,
                 "is_closed_source": true
             },
             {
@@ -15427,7 +15465,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784537156
+                "LastUpdate": 1784621607
             },
             {
                 "Author": "Risa and Contributors",
@@ -15482,7 +15520,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1784569592
+                "LastUpdate": 1784610348
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -16794,12 +16832,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.13",
+                "AssemblyVersion": "15.306.0.15",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784618612
+                "LastUpdate": 1784642077
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16858,12 +16896,12 @@
                 "Author": "croizat",
                 "Name": "CBT 🐎",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.194.0.0",
+                "AssemblyVersion": "69.196.0.0",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1784307589
+                "LastUpdate": 1784638885
             },
             {
                 "Author": "croizat",
@@ -22197,6 +22235,92 @@
         ]
     },
     {
+        "repo_url": "https://plugins.xivhub.net/pluginmaster.json",
+        "repo_source_url": "https://github.com/XivHub",
+        "repo_developer_name": "Unknown Developer",
+        "repo_name": "pluginmaster",
+        "plugins": [
+            {
+                "Author": "xivhub",
+                "Name": "Artisan (XIV Hub fork)",
+                "InternalName": "Artisan",
+                "AssemblyVersion": "4.0.5.33",
+                "Description": "The all-in-one crafting plugin.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+                "RepoUrl": "https://github.com/ZhyraPlugins/Artisan"
+            },
+            {
+                "Author": "XivHub",
+                "Name": "AutoPincher",
+                "InternalName": "AutoPincher",
+                "AssemblyVersion": "0.1.2.0",
+                "Description": "Repinches your retainer market listings by undercutting the cheapest live competitor by 1 gil. Reads each listing straight from game memory, clicks the in-game market board's Compare Prices to find the current cheapest offering, and lowers your asking price to one below it (holding when your own listing is already cheapest). No server, no telemetry, nothing leaves your client. Adds an Auto Pinch button next to AutoRetainer's retainer-list controls and a /autopinch command for the open retainer. AutoRetainer is optional (used only to pause its automation during a pinch run).",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/XivHub/AutoPincher",
+                "LastUpdate": 1784541954
+            },
+            {
+                "Author": "XivHub",
+                "Name": "FeteTimer",
+                "InternalName": "FeteTimer",
+                "AssemblyVersion": "0.1.7.0",
+                "Description": "Calibrates the Ishgardian Restoration Fête (Skyrise Celebration) countdown from the in-game objective list while you are in the Firmament and fires configurable chat, notification, and sound alerts at your chosen lead times.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/edg-l/FeteTimer"
+            },
+            {
+                "Author": "XivHub",
+                "Name": "Ice's Cosmic Exploration (XivHub fork)",
+                "InternalName": "ICE",
+                "AssemblyVersion": "1.0.0.6",
+                "Description": "A little helper to go gather your heart out.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/70",
+                "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
+                "LastUpdate": 1784213761
+            },
+            {
+                "Author": "XivHub",
+                "Name": "InventoryCleaner",
+                "InternalName": "InventoryCleaner",
+                "AssemblyVersion": "0.3.4.0",
+                "Description": "Cleans up your inventory.",
+                "DalamudApiLevel": 15,
+                "LastUpdate": 1782807877
+            },
+            {
+                "Author": "XivHub",
+                "Name": "PartyPlanner Reborn",
+                "InternalName": "PartyPlannerReborn",
+                "AssemblyVersion": "1.9.0.0",
+                "Description": "Browse community events sourced from partake.gg directly from your client! XivHubPlugins fork with optional Lifestream travel: change to the event's world, or — with Lifestream + vnavmesh installed — walk straight to the event's housing plot/apartment door.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ZhyraPlugins/PartyPlanner/master/PartyPlanner/images/icon.png",
+                "RepoUrl": "https://github.com/ZhyraPlugins/PartyPlanner",
+                "LastUpdate": 1781108536
+            },
+            {
+                "Author": "XivHub",
+                "Name": "RetainerReach",
+                "InternalName": "RetainerReach",
+                "AssemblyVersion": "0.1.1.0",
+                "Description": "Unified view of your active character and all retainers' inventories, with one-click Retrieve that summons each holding retainer at a nearby Summoning Bell and pulls selected items into your bags. This plugin automates in-game actions (retainer bell interaction and item retrieval) on your behalf; use at your own risk with respect to the game's Terms of Service.",
+                "DalamudApiLevel": 15,
+                "LastUpdate": 1784634848
+            },
+            {
+                "Author": "XivHub",
+                "Name": "SealHunter",
+                "InternalName": "SealHunter",
+                "AssemblyVersion": "0.7.2.0",
+                "Description": "Works through your hunting logs for you — Grand Company (seals) or the current class/job log (XP), selectable in settings. Teleports/flies to each zone, walks to targets with vnavmesh, and clears the required marks using BossMod Reborn autorotation. Requires vnavmesh, Lifestream, and BossMod Reborn. Optional AutoDuty for the GC log's dungeon marks.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/edg-l/SealHunter"
+            }
+        ]
+    },
+    {
         "repo_url": "https://raimere.com/plugin/repo.json",
         "repo_source_url": "https://raimere.com",
         "repo_developer_name": "Unknown Developer",
@@ -23271,12 +23395,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.8.6",
+                "AssemblyVersion": "0.9.8.7",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784592126,
+                "LastUpdate": 1784634744,
                 "is_ai_attributed": true
             },
             {
@@ -23351,12 +23475,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.8.6",
+                "AssemblyVersion": "0.9.8.7",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784592126,
+                "LastUpdate": 1784634744,
                 "is_ai_attributed": true
             }
         ]
