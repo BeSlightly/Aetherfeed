@@ -5804,7 +5804,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784537156
+                "LastUpdate": 1784621607
             }
         ]
     },
@@ -6227,12 +6227,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.28",
+                "AssemblyVersion": "7.5.1.29",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1784595045
+                "LastUpdate": 1784612043
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6249,12 +6249,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "GatherBuddy Reborn",
                 "InternalName": "GatherBuddyReborn",
-                "AssemblyVersion": "7.5.1.0",
+                "AssemblyVersion": "7.5.1.1",
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1781586755
+                "LastUpdate": 1784611263
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6628,14 +6628,15 @@
         "repo_name": "FroggePlugin",
         "plugins": [
             {
-                "Author": "FroggeBot",
+                "Author": "Allegro Vivo",
                 "Name": "Frogge",
                 "InternalName": "FroggePlugin",
-                "AssemblyVersion": "0.0.0.6",
+                "AssemblyVersion": "0.0.0.9",
                 "Description": "View your VIP status, browse venue events, and more, without leaving the game. Companion client for the FroggeBot Discord bot.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/FroggeBot/FroggePlugin/master/FroggePlugin/images/icon.png",
                 "RepoUrl": "https://github.com/FroggeBot/FroggePlugin",
-                "LastUpdate": 1784597926,
+                "LastUpdate": 1784611771,
                 "is_ai_attributed": true
             }
         ]
@@ -14989,12 +14990,12 @@
                 "Author": "ofnature",
                 "Name": "SealBreaker",
                 "InternalName": "SealBreaker",
-                "AssemblyVersion": "1.1.0.4",
+                "AssemblyVersion": "1.1.0.5",
                 "Description": "Automates dungeon farming, GC expert delivery, and grand company item purchasing. Supports AutoDuty and ADS.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/SealBreaker/main/SealBreaker/icon.png",
                 "RepoUrl": "https://github.com/ofnature/SealBreaker",
-                "LastUpdate": 1784260455,
+                "LastUpdate": 1784602737,
                 "is_ai_attributed": true
             }
         ]
@@ -15884,6 +15885,17 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Peterseer/DalamudPlugins/main/AICompanion/icon.png",
                 "RepoUrl": "https://github.com/Peterseer/DalamudSamplePlugin"
+            },
+            {
+                "Author": "Simulant",
+                "Name": "Simulant Moodles Bridge",
+                "InternalName": "Simulant.MoodlesBridge",
+                "AssemblyVersion": "0.1.4.0",
+                "Description": "ACT 版 Simulant 的卫月伴生桥接器。通过本机命名管道接收状态请求，并转发到 Moodles IPC；不加载副本预设，也不执行机制时间轴。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Peterseer/DalamudPlugins",
+                "LastUpdate": 1784615861,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -16782,12 +16794,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.12",
+                "AssemblyVersion": "15.306.0.13",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784528212
+                "LastUpdate": 1784618612
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -16898,12 +16910,12 @@
                 "Author": "erdelf",
                 "Name": "FC Tracker",
                 "InternalName": "FCTracker",
-                "AssemblyVersion": "0.0.0.28",
+                "AssemblyVersion": "0.0.0.29",
                 "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1784581861
+                "LastUpdate": 1784611329
             }
         ]
     },
@@ -17139,7 +17151,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1784576741
+                "LastUpdate": 1784615049
             },
             {
                 "Author": "nainaiowo",
@@ -17166,12 +17178,12 @@
                 "Author": "nainaiowo",
                 "Name": "DMU Helper",
                 "InternalName": "DMUP4DebuffHelper",
-                "AssemblyVersion": "0.1.0.15",
+                "AssemblyVersion": "0.1.0.16",
                 "Description": "Shows compact DMU P4 debuff timers with real/fake callouts.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/162",
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-p4-debuff-helper",
-                "LastUpdate": 1784423912
+                "LastUpdate": 1784619367
             }
         ]
     },
@@ -18944,6 +18956,24 @@
         ]
     },
     {
+        "repo_developer_name": "RoarkGit",
+        "repo_url": "https://raw.githubusercontent.com/RoarkGit/XIV-Raid-Tools/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/RoarkGit/XIV-Raid-Tools",
+        "repo_name": "XIV-Raid-Tools",
+        "plugins": [
+            {
+                "Author": "RoarkGit",
+                "Name": "XIV Raid Tools",
+                "InternalName": "XIVRaidToolsPlugin",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "A growing set of in-game raid tools, starting with Kefka Says, an in-game mirror of the Kefka Says / UMAD room tracker, synced with the webapp over the same WebSocket relay. Open with /xrt kefka.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/RoarkGit/XIV-Raid-Tools",
+                "LastUpdate": 1784587781
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Robert5204",
         "repo_url": "https://raw.githubusercontent.com/Robert5204/FFLogsUploader/main/repo.json",
         "repo_source_url": "https://github.com/Robert5204/FFLogsUploader",
@@ -20699,7 +20729,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1784552315,
+                "LastUpdate": 1784593222,
                 "is_ai_attributed": true
             }
         ]
@@ -23878,12 +23908,13 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.10-cn",
+                "AssemblyVersion": "15.306.0.13-cn",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1784408796
+                "LastUpdate": 1784620084,
+                "is_ai_attributed": true
             },
             {
                 "Author": "youdianfengbao (基于 awgil/ffxiv_satisfy)",
