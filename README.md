@@ -1,38 +1,9 @@
-# Aetherfeed
+# Aetherfeed has moved
 
-[Live Site](https://beslightly.github.io/Aetherfeed/)
+This repository is archived. Aetherfeed now lives under the Aetherfeed
+organization:
 
-<p>
-  <a href="https://github.com/beslightly/Aetherfeed/commits/main">
-    <img src="https://img.shields.io/github/last-commit/beslightly/Aetherfeed" alt="Last Commit"/>
-  </a>
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fbeslightly.github.io%2FAetherfeed%2F&label=Views&icon=github&color=%23198754" alt="Site Hits"/>
-</p>
+- [Website](https://aetherfeed.github.io/)
+- [Repository](https://github.com/Aetherfeed/aetherfeed.github.io)
 
-Aetherfeed is a spiritual successor to the now-shutdown xivplugins.com, providing a searchable feed of FFXIV plugins.
-
-## How it works
-
-The plugin list (`plugins.json`) is automatically updated every 6 hours by a private scraper. It monitors for FFXIV plugins, validates repositories, and aggregates the data shown here.
-
-## Add or remove a plugin
-
-If the scraper misses your plugin (or you want one removed), open an issue and include:
-
-- The plugin's GitHub repository link
-- The plugin repository URL (the custom repo URL)
-
-## ⚠️ Disclaimer
-
-**This list is largely generated automatically and is NOT manually audited.**
-
-*   **USE AT YOUR OWN RISK.**
-*   Plugins listed here may contain malware, viruses, or malicious code.
-*   Always understand what you are installing.
-*   This list includes closed-source and obfuscated plugins.
-*   If you use custom repositories found here, **DO NOT** ask for help on the official Dalamud/XIVLauncher Discord server.
-*   Aetherfeed is not affiliated with any listed plugins or developers.
-
----
-
-*Aetherfeed is not affiliated with SQUARE ENIX CO., LTD. or FINAL FANTASY XIV.*
+Please use the new repository for issues, contributions, and project updates.

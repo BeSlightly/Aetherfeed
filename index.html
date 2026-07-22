@@ -1,34 +1,21 @@
 <!doctype html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8" />
-  <meta name="darkreader-lock">
-  <link rel="icon" type="image/svg+xml" href="/logo.svg" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Aetherfeed</title>
-  <meta name="description"
-    content="A searchable feed of FFXIV plugins. Find, filter, and explore the latest plugins for your game." />
-  <script>
-    (function () {
-      try {
-        const savedTheme = localStorage.getItem('theme');
-        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-        // Default to dark if no preference, or if explicitly dark, or if system is dark and no save
-        if (savedTheme === 'dark' || (!savedTheme && prefersDark) || !savedTheme) {
-          document.documentElement.classList.add('dark');
-        } else {
-          document.documentElement.classList.remove('dark');
-        }
-      } catch (e) { }
-    })();
-  </script>
-</head>
-
-<body>
-  <div id="root"></div>
-  <script type="module" src="/src/main.tsx"></script>
-</body>
-
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="refresh" content="0; url=https://aetherfeed.github.io/" />
+    <link rel="canonical" href="https://aetherfeed.github.io/" />
+    <title>Aetherfeed has moved</title>
+    <script>
+      window.location.replace(
+        `https://aetherfeed.github.io/${window.location.search}${window.location.hash}`,
+      );
+    </script>
+  </head>
+  <body>
+    <p>
+      Aetherfeed has moved to
+      <a href="https://aetherfeed.github.io/">aetherfeed.github.io</a>.
+    </p>
+  </body>
 </html>
